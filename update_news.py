@@ -10,7 +10,7 @@ NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
 # Keywords to find SSB-relevant news
-KEYWORDS = 'DRDO OR "Indian Navy" OR "Indian Army" OR "Indian Air Force" OR ISRO OR HAL OR "Defence Ministry"'
+KEYWORDS = 'DRDO OR "Indian Navy" OR "Indian Army" OR "Indian Air Force" OR ISRO OR HAL OR "Defence Ministry" OR BrahMos OR Agni-V OR Malabar OR LAC OR LOC OR Submarine OR Tejas OR Chandrayaan OR "Make in India"'
 
 # The output file your HTML reads
 OUTPUT_FILE = 'news.json'
