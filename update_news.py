@@ -38,7 +38,7 @@ def summarize_with_gemini(article_text, retries=3):
     "{article_text}"
     """
     
-    gemini_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    gemini_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     
     headers = {"Content-Type": "application/json"}
     data = {
