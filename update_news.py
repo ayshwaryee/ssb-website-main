@@ -118,7 +118,7 @@ def fetch_and_process_news():
                     "title": title,
                     "summary": ai_result['summary'],
                     "url": url,
-                    "category": ai_result['category']
+                    "category": ai_result['category'],
                     "date": date_time,  #date line ADDED HERE
                 }
                 final_articles_list.append(formatted_article)
