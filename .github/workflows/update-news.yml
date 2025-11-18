@@ -40,12 +40,12 @@ jobs:
 
 # ... (Steps 1, 2, 3, 4 remain the same) ...
 
-      # 5. Commit and Push changes using a dedicated action
+      # 5. Commit and Push changes using a new, reliable action
       - name: Commit and Push new news.json
-        uses: stefanback/github-action-commit-push@v2
+        uses: stefanzweifel/git-auto-commit-action@v5  # <-- NEW ACTION
         with:
-          # This is the standard GitHub token automatically available in Actions
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Only commit the file that changed
+          # Use the GITHUB_TOKEN that already has write permissions
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Only commit the news.json file
           file_pattern: 'news.json'
           commit_message: 'Automated: Update current affairs news'
