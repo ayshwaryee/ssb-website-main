@@ -73,39 +73,36 @@
             const articlesGrid = document.getElementById('articles-grid');
             const categoryTabs = document.querySelectorAll('.category-tab');
             let allArticles = []; // To store all fetched articles
+            let globalLastUpdated = 'N/A'; // Global variable to store the workflow run time
 
-            // --- DATE UTILITY FUNCTIONS ---
-            
-            // Function to format date (e.g., "NOV 18") for the circle
-            function formatDate(isoDate) {
-                const articleDate = new Date(isoDate);
-                const day = articleDate.getDate();
-                const month = articleDate.toLocaleString('en-us', { month: 'short' }).toUpperCase().substring(0, 3);
-                return { day, month };
-            }
-
+            // --- DATE UTILITY FUNCTION ---
             // Function to calculate time elapsed (e.g., "5 minutes ago")
             function timeAgo(isoDate) {
-                var seconds = Math.floor((new Date() - new Date(isoDate)) / 1000); 
-                var interval = seconds / 31536000;
+                if (!isoDate || isoDate === 'N/A') return 'N/A';
                 
+                var seconds = Math.floor((new Date() - new Date(isoDate)) / 1000); 
+                if (seconds < 0) return 'just now'; // Handle future times
+                
+                var interval = seconds / 31536000;
                 if (interval > 1) return Math.floor(interval) + " years ago"; 
                 interval = seconds / 2592000; 
                 if (interval > 1) return Math.floor(interval) + " months ago"; 
                 interval = seconds / 86400; 
                 if (interval > 1) return Math.floor(interval) + " days ago"; 
-                interval = seconds / 3600;
+                interval = seconds / 3600; 
                 if (interval > 1) return Math.floor(interval) + " hours ago"; 
                 interval = seconds / 60; 
                 if (interval > 1) return Math.floor(interval) + " minutes ago"; 
                 return "just now";
             }
-            // --- END DATE UTILITY FUNCTIONS ---
+            // --- END DATE UTILITY FUNCTION ---
 
 
             // Reusable function to display articles
-            function renderArticles(articlesToDisplay) {
-                articlesGrid.innerHTML = ''; // Clear the grid first
+            function renderArticles(articlesToDisplay, lastUpdatedTime) { 
+                articlesGrid.innerHTML = ''; 
+                
+                const timeSince = timeAgo(lastUpdatedTime);
 
                 if (articlesToDisplay.length === 0) {
                     articlesGrid.innerHTML = '<p class="text-gray-500 col-span-full">No articles found in this category.</p>';
@@ -124,11 +121,10 @@
                     };
                     const colorClass = categoryColors[article.category.toUpperCase()] || "text-gray-600 bg-gray-100";
                     
-                    // Get the formatted time elapsed
-                    const timeSince = article.date ? timeAgo(article.date) : 'N/A';
-
                     card.innerHTML = `
-                        <div class="p-6 relative"> <div class="absolute top-4 right-4 text-xs font-semibold px-2 py-1 rounded-full bg-gray-200 text-gray-700">
+                        <div class="p-6 relative">
+                            
+                            <div class="absolute top-4 right-4 text-xs font-semibold px-2 py-1 rounded-full bg-gray-200 text-gray-700">
                                 Last updated: ${timeSince}
                             </div>
                             <span class="text-xs font-semibold ${colorClass} px-2 py-1 rounded-full">${article.category}</span>
@@ -149,9 +145,10 @@
                     if (!response.ok) { throw new Error('Network response was not ok'); }
                     return response.json();
                 })
-                .then(articles => {
-                    allArticles = articles; // Store all articles
-                    renderArticles(allArticles); // Initial render of all articles
+                .then(data => { 
+                    allArticles = data.articles || []; 
+                    globalLastUpdated = data.last_updated || 'N/A';
+                    renderArticles(allArticles, globalLastUpdated); 
                 })
                 .catch(error => {
                     console.error('Error fetching current affairs:', error);
@@ -168,12 +165,12 @@
                     const category = tab.innerText;
                     
                     if (category.toUpperCase() === 'ALL') {
-                        renderArticles(allArticles);
+                        renderArticles(allArticles, globalLastUpdated);
                     } else {
                         const filteredArticles = allArticles.filter(article => 
                             article.category.toUpperCase() === category.toUpperCase()
                         );
-                        renderArticles(filteredArticles);
+                        renderArticles(filteredArticles, globalLastUpdated);
                     }
                 });
             });
