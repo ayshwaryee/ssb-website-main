@@ -75,7 +75,7 @@ def fetch_and_process_news():
                 f'q={KEYWORDS}&'
                 f'language=en&'
                 f'sortBy=publishedAt&'
-                f'pageSize=50&' # Fetching 50 articles now
+                f'pageSize=35&' # Fetching 35 articles now
                 f'apiKey={NEWS_API_KEY}')
 
     try:
