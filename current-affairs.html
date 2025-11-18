@@ -124,13 +124,17 @@
                     card.innerHTML = `
                         <div class="p-6 relative">
                             
-                            <div class="absolute top-4 right-4 text-xs font-semibold px-2 py-1 rounded-full bg-gray-200 text-gray-700">
-                                Last updated: ${timeSince}
+                            <div class="flex items-center justify-between mb-2">
+                                
+                                <span class="text-xs font-semibold ${colorClass} px-2 py-1 rounded-full">${article.category}</span>
+                                
+                                <div class="text-xs font-semibold px-2 py-1 rounded-full bg-green-100 text-green-700">
+                                    Last updated: ${timeSince}
+                                </div>
                             </div>
-                            <span class="text-xs font-semibold ${colorClass} px-2 py-1 rounded-full">${article.category}</span>
                             <h3 class="text-xl font-bold text-gray-800 mt-3 mb-2">${article.title}</h3>
                             
-                            <p class="text-gray-600 text-sm mb-4 pr-32"><strong>Summary:</strong> ${article.summary}</p>
+                            <p class="text-gray-600 text-sm mb-4"><strong>Summary:</strong> ${article.summary}</p>
                             
                             <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="font-semibold text-blue-600 hover:underline">Read More →</a>
                         </div>
