@@ -38,17 +38,14 @@ jobs:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      # 5. Force Push the changes
-      - name: Commit and Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add news.json
-          # Check if there are changes; if yes, commit and push
-          if [-n "$(git status --porcelain)"]; then
-            git commit -m "Automated: Update current affairs news"
-            git push origin HEAD:main
-            echo "Successfully pushed new news."
-          else
-            echo "No changes to commit."
-          fi
+# ... (Steps 1, 2, 3, 4 remain the same) ...
+
+      # 5. Commit and Push changes using a dedicated action
+      - name: Commit and Push new news.json
+        uses: stefanback/github-action-commit-push@v2
+        with:
+          # This is the standard GitHub token automatically available in Actions
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Only commit the file that changed
+          file_pattern: 'news.json'
+          commit_message: 'Automated: Update current affairs news'
