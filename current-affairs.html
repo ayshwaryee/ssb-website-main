@@ -74,14 +74,33 @@
             const categoryTabs = document.querySelectorAll('.category-tab');
             let allArticles = []; // To store all fetched articles
 
-            // --- DATE UTILITY FUNCTION ---
+            // --- DATE UTILITY FUNCTIONS ---
+            
+            // Function to format date (e.g., "NOV 18") for the circle
             function formatDate(isoDate) {
                 const articleDate = new Date(isoDate);
                 const day = articleDate.getDate();
                 const month = articleDate.toLocaleString('en-us', { month: 'short' }).toUpperCase().substring(0, 3);
                 return { day, month };
             }
-            // --- END DATE UTILITY FUNCTION ---
+
+            // Function to calculate time elapsed (e.g., "5 minutes ago")
+            function timeAgo(isoDate) {
+                var seconds = Math.floor((new Date() - new Date(isoDate)) / 1000); 
+                var interval = seconds / 31536000;
+                
+                if (interval > 1) return Math.floor(interval) + " years ago"; 
+                interval = seconds / 2592000; 
+                if (interval > 1) return Math.floor(interval) + " months ago"; 
+                interval = seconds / 86400; 
+                if (interval > 1) return Math.floor(interval) + " days ago"; 
+                interval = seconds / 3600;
+                if (interval > 1) return Math.floor(interval) + " hours ago"; 
+                interval = seconds / 60; 
+                if (interval > 1) return Math.floor(interval) + " minutes ago"; 
+                return "just now";
+            }
+            // --- END DATE UTILITY FUNCTIONS ---
 
 
             // Reusable function to display articles
@@ -105,18 +124,17 @@
                     };
                     const colorClass = categoryColors[article.category.toUpperCase()] || "text-gray-600 bg-gray-100";
                     
-                    // NEW: Get the formatted day and month for the circle
-                    const dateParts = article.date ? formatDate(article.date) : {day: '?', month: 'N/A'};
+                    // Get the formatted time elapsed
+                    const timeSince = article.date ? timeAgo(article.date) : 'N/A';
 
                     card.innerHTML = `
-                        <div class="p-6 relative"> <div class="absolute top-4 right-4 w-12 h-12 bg-blue-700 rounded-full text-white flex flex-col items-center justify-center text-xs font-bold shadow-lg">
-                                <span class="text-xs -mb-1">${dateParts.month}</span>
-                                <span class="text-lg">${dateParts.day}</span>
+                        <div class="p-6 relative"> <div class="absolute top-4 right-4 text-xs font-semibold px-2 py-1 rounded-full bg-gray-200 text-gray-700">
+                                Last updated: ${timeSince}
                             </div>
                             <span class="text-xs font-semibold ${colorClass} px-2 py-1 rounded-full">${article.category}</span>
                             <h3 class="text-xl font-bold text-gray-800 mt-3 mb-2">${article.title}</h3>
                             
-                            <p class="text-gray-600 text-sm mb-4 pr-16"><strong>Summary:</strong> ${article.summary}</p>
+                            <p class="text-gray-600 text-sm mb-4 pr-32"><strong>Summary:</strong> ${article.summary}</p>
                             
                             <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="font-semibold text-blue-600 hover:underline">Read More →</a>
                         </div>
