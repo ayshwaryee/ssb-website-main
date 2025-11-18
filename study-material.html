@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Material - SSB Academy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <style>
+        .sidebar-link { transition: all 0.2s ease-in-out; }
+        .sidebar-link:hover, .sidebar-link.active {
+            background-color: #1d4ed8;
+            color: white;
+            transform: translateX(5px);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="flex min-h-screen">
+        <aside class="w-64 bg-blue-900 text-white flex flex-col hidden md:flex">
+            <div class="p-6 text-center border-b border-blue-800">
+                <a href="ssb4 logo.html" class="flex items-center justify-center">
+                    <img src="imageout/ssb logo.png" alt="Logo" class="h-8 w-8 mr-2">
+                    <span class="text-2xl font-bold">SSB Academy</span>
+                </a>
+            </div>
+            <nav class="flex-1 p-4 space-y-2">
+                <a href="dashboard.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-tachometer-alt w-6 mr-2"></i> Dashboard
+                </a>
+
+                <a href="current-affairs.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-newspaper w-6 mr-2"></i> Current Affairs
+                </a>
+                <a href="study-material.html" class="sidebar-link active flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-book w-6 mr-2"></i> Study Material
+                </a>
+            </nav>
+            <div class="p-4 border-t border-blue-800">
+                <a href="auth.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-sign-out-alt w-6 mr-2"></i> Logout
+                </a>
+            </div>
+        </aside>
+
+        <main class="flex-1 p-4 sm:p-8">
+            <header class="mb-8">
+                <h1 class="text-3xl md:text-4xl font-bold text-gray-800">SSB Study Material 📚</h1>
+                <p class="text-gray-600 mt-2">Download chapter-wise notes and practice sets for key subjects.</p>
+            </header>
+
+            <div class="space-y-8">
+
+                <section id="mathematics" class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <i class="fas fa-calculator text-2xl text-blue-600 mr-3"></i>
+                        <h2 class="text-2xl font-bold text-gray-800">Mathematics</h2>
+                    </div>
+                    <ul class="divide-y divide-gray-200">
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Number System & Simplification</span>
+                            <button onclick="alert('Download will be enabled via admin panel')" class="bg-blue-100 text-blue-700 hover:bg-blue-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Algebra & Quadratic Equations</span>
+                            <button onclick="alert('Download will be enabled via admin panel')" class="bg-blue-100 text-blue-700 hover:bg-blue-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Trigonometry</span>
+                            <button onclick="alert('Download will be enabled via admin panel')" class="bg-blue-100 text-blue-700 hover:bg-blue-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                    </ul>
+                </section>
+
+                <section id="reasoning" class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <i class="fas fa-brain text-2xl text-green-600 mr-3"></i>
+                        <h2 class="text-2xl font-bold text-gray-800">Reasoning</h2>
+                    </div>
+                    <ul class="divide-y divide-gray-200">
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Verbal Reasoning: Analogy & Classification</span>
+                             <button onclick="alert('Download will be enabled via admin panel')" class="bg-green-100 text-green-700 hover:bg-green-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Non-Verbal Reasoning: Series & Figure Matrix</span>
+                             <button onclick="alert('Download will be enabled via admin panel')" class="bg-green-100 text-green-700 hover:bg-green-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Logical Deduction & Syllogism</span>
+                             <button onclick="alert('Download will be enabled via admin panel')" class="bg-green-100 text-green-700 hover:bg-green-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                    </ul>
+                </section>
+
+                <section id="english-hindi" class="bg-white p-6 rounded-xl shadow-md">
+                    <div class="flex items-center mb-4">
+                        <i class="fas fa-language text-2xl text-purple-600 mr-3"></i>
+                        <h2 class="text-2xl font-bold text-gray-800">General English / Hindi</h2>
+                    </div>
+                    <ul class="divide-y divide-gray-200">
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Grammar: Tenses, Articles & Verbs</span>
+                            <button onclick="alert('Download will be enabled via admin panel')" class="bg-purple-100 text-purple-700 hover:bg-purple-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Vocabulary: Synonyms & Antonyms</span>
+                            <button onclick="alert('Download will be enabled via admin panel')" class="bg-purple-100 text-purple-700 hover:bg-purple-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                        <li class="flex items-center justify-between py-3">
+                            <span class="font-medium text-gray-700">Comprehension & Para Jumbles</span>
+                            <button onclick="alert('Download will be enabled via admin panel')" class="bg-purple-100 text-purple-700 hover:bg-purple-200 font-semibold px-4 py-2 rounded-lg text-sm flex items-center"><i class="fas fa-download mr-2"></i>Download PDF</button>
+                        </li>
+                    </ul>
+                </section>
+
+            </div>
+        </main>
+    </div>
+</body>
+</html>

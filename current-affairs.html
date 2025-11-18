@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Current Affairs - SSB Academy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <style>
+        .sidebar-link { transition: all 0.2s ease-in-out; }
+        .sidebar-link:hover, .sidebar-link.active {
+            background-color: #1d4ed8;
+            color: white;
+            transform: translateX(5px);
+        }
+        .category-tab { transition: all 0.2s ease-in-out; }
+        .category-tab.active {
+            border-color: #3b82f6;
+            color: #3b82f6;
+            background-color: #eff6ff;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="flex min-h-screen">
+        <aside class="w-64 bg-blue-900 text-white flex flex-col hidden md:flex">
+            <div class="p-6 text-center border-b border-blue-800">
+                <a href="ssb4 logo.html" class="flex items-center justify-center">
+                    <img src="imageout/ssb logo.png" alt="Logo" class="h-8 w-8 mr-2">
+                    <span class="text-2xl font-bold">SSB Academy</span>
+                </a>
+            </div>
+            <nav class="flex-1 p-4 space-y-2">
+                <a href="dashboard.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-tachometer-alt w-6 mr-2"></i> Dashboard
+                </a>
+                <!-- <a href="statistics.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-chart-pie w-6 mr-2"></i> SSB Statistics
+                </a> -->
+                <a href="current-affairs.html" class="sidebar-link active flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-newspaper w-6 mr-2"></i> Current Affairs
+                </a>
+                <a href="study-material.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-book w-6 mr-2"></i> Study Material
+                </a>
+            </nav>
+        </aside>
+
+        <main class="flex-1 p-8">
+            <header class="flex justify-between items-center mb-8">
+                <div>
+                    <h1 class="text-4xl font-bold text-gray-800">Current Affairs 🌍</h1>
+                    <p class="text-gray-600 mt-2">Stay updated with the latest national and international events.</p>
+                </div>
+                <a href="auth.html" class="bg-blue-600 text-white hover:bg-blue-700 font-semibold px-4 py-2 rounded-lg text-sm flex items-center transition-colors">
+                    <i class="fas fa-sign-out-alt mr-2"></i>Logout
+                </a>
+            </header>
+
+            <div class="mb-6 flex flex-wrap gap-2 p-2 bg-white rounded-lg shadow-sm">
+                <button class="category-tab active font-semibold py-2 px-4 rounded-lg border-2 border-transparent">All</button>
+                <button class="category-tab font-semibold py-2 px-4 rounded-lg border-2 border-transparent">Defence</button>
+                <button class="category-tab font-semibold py-2 px-4 rounded-lg border-2 border-transparent">National</button>
+                <button class="category-tab font-semibold py-2 px-4 rounded-lg border-2 border-transparent">International</button>
+                <button class="category-tab font-semibold py-2 px-4 rounded-lg border-2 border-transparent">Sci & Tech</button>
+            </div>
+
+            <div id="articles-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <p class="text-gray-500">Loading latest news...</p>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const articlesGrid = document.getElementById('articles-grid');
+            const categoryTabs = document.querySelectorAll('.category-tab');
+            let allArticles = []; // To store all fetched articles
+
+            // Reusable function to display articles
+            function renderArticles(articlesToDisplay) {
+                articlesGrid.innerHTML = ''; // Clear the grid first
+
+                if (articlesToDisplay.length === 0) {
+                    articlesGrid.innerHTML = '<p class="text-gray-500 col-span-full">No articles found in this category.</p>';
+                    return;
+                }
+
+                articlesToDisplay.forEach(article => {
+                    const card = document.createElement('div');
+                    card.className = "bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow";
+                    
+                    const categoryColors = {
+                        "DEFENCE": "text-red-600 bg-red-100",
+                        "NATIONAL": "text-green-600 bg-green-100",
+                        "INTERNATIONAL": "text-blue-600 bg-blue-100",
+                        "SCI & TECH": "text-purple-600 bg-purple-100"
+                    };
+                    const colorClass = categoryColors[article.category.toUpperCase()] || "text-gray-600 bg-gray-100";
+
+                    card.innerHTML = `
+                        <div class="p-6">
+                            <span class="text-xs font-semibold ${colorClass} px-2 py-1 rounded-full">${article.category}</span>
+                            <h3 class="text-xl font-bold text-gray-800 mt-3 mb-2">${article.title}</h3>
+                            <p class="text-gray-600 text-sm mb-4">${article.summary}</p>
+                            <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="font-semibold text-blue-600 hover:underline">Read More →</a>
+                        </div>
+                    `;
+                    articlesGrid.appendChild(card);
+                });
+            }
+
+            // Fetch the news data from your JSON file
+            fetch('news.json')
+                .then(response => {
+                    if (!response.ok) { throw new Error('Network response was not ok'); }
+                    return response.json();
+                })
+                .then(articles => {
+                    allArticles = articles; // Store all articles
+                    renderArticles(allArticles); // Initial render of all articles
+                })
+                .catch(error => {
+                    console.error('Error fetching current affairs:', error);
+                    articlesGrid.innerHTML = '<p class="text-red-500 col-span-full">Failed to load news. Please ensure news.json is in the same folder.</p>';
+                });
+
+            // Add click event listeners to category tabs
+            categoryTabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    // Update active tab style
+                    categoryTabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+
+                    const category = tab.innerText;
+                    
+                    if (category.toUpperCase() === 'ALL') {
+                        renderArticles(allArticles);
+                    } else {
+                        const filteredArticles = allArticles.filter(article => 
+                            article.category.toUpperCase() === category.toUpperCase()
+                        );
+                        renderArticles(filteredArticles);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

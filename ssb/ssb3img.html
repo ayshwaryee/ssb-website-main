@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSB Academy - Your Gateway to Success</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <style>
+        /* --- Hero Slider Styles --- */
+        .hero-slide {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            opacity: 0;
+            transition: opacity 1.5s ease-in-out, transform 8s linear;
+            transform: scale(1.1); /* Ken Burns effect start */
+        }
+        .active-slide {
+            opacity: 1;
+            transform: scale(1); /* Ken Burns effect end */
+        }
+        
+        /* --- General Styles --- */
+        .section-gradient {
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+        }
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        .animate-float {
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+        }
+        .fade-in {
+            animation: fadeIn 0.8s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .nav-link {
+            position: relative;
+            overflow: hidden;
+        }
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            width: 0;
+            height: 2px;
+            background: #3b82f6;
+            transition: all 0.3s ease;
+            transform: translateX(-50%);
+        }
+        .nav-link:hover::after {
+            width: 100%;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-white shadow-lg fixed w-full top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <i class="fas fa-shield-alt text-2xl text-blue-600 mr-2"></i>
+                    <span class="text-xl font-bold text-gray-800">SSB Academy</span>
+                </div>
+                <div class="flex items-center">
+                    <div class="hidden md:flex items-center space-x-6">
+                        <a href="#home" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">Home</a>
+                        <a href="#about" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">About SSB</a>
+                        <a href="#guidance" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">Guidance</a>
+                        <a href="#motivation" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">Success Stories</a>
+                        <a href="#resources" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">Resources</a>
+                        <a href="#community" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">Community</a>
+                        <a href="#contact" class="nav-link text-gray-700 hover:text-blue-600 px-3 py-2">Contact</a>
+                        <button onclick="showNotification('Login feature coming soon!')" class="bg-blue-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-blue-700 transition-all text-sm">
+                            Login
+                        </button>
+                    </div>
+                    <button id="mobileMenuBtn" class="md:hidden text-gray-700 ml-4">
+                        <i class="fas fa-bars text-xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="mobileMenu" class="hidden md:hidden bg-white border-t">
+            <div class="px-4 py-2 space-y-2">
+                <a href="#home" class="block py-2 text-gray-700 hover:text-blue-600">Home</a>
+                <a href="#about" class="block py-2 text-gray-700 hover:text-blue-600">About SSB</a>
+                <a href="#guidance" class="block py-2 text-gray-700 hover:text-blue-600">Guidance</a>
+                <a href="#motivation" class="block py-2 text-gray-700 hover:text-blue-600">Success Stories</a>
+                <a href="#resources" class="block py-2 text-gray-700 hover:text-blue-600">Resources</a>
+                <a href="#community" class="block py-2 text-gray-700 hover:text-blue-600">Community</a>
+                <a href="#contact" class="block py-2 text-gray-700 hover:text-blue-600">Contact</a>
+                <a href="#" onclick="showNotification('Login feature coming soon!')" class="block py-2 text-gray-700 hover:text-blue-600">Login</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section with Image Slider -->
+    <section id="home" class="relative text-white pt-20">
+        <!-- Slider Background Images -->
+        <div id="heroSlider" class="absolute inset-0 w-full h-full overflow-hidden">
+            <div class="hero-slide active-slide" style="background-image: url('images/army.jpg');"></div>
+            <div class="hero-slide" style="background-image: url('images/indianair.jpg');"></div>
+            <div class="hero-slide" style="background-image: url('images/indiannavy.jpg');"></div>
+            <div class="hero-slide" style="background-image: url('images/nda.jpg');"></div>
+        </div>
+        <!-- Gradient Overlay -->
+        <div class="absolute inset-0 bg-gradient-to-r from-blue-900/80 to-blue-600/80"></div>
+
+        <!-- Hero Content -->
+        <div class="relative max-w-7xl mx-auto px-4 py-20 z-10">
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div class="fade-in">
+                    <h1 class="text-5xl font-bold mb-6">Your Gateway to Success in SSB</h1>
+                    <p class="text-xl mb-6 opacity-90">Transform your dreams into reality with comprehensive SSB preparation and expert guidance</p>
+                    <div class="bg-white/10 backdrop-blur-sm rounded-lg p-6 mb-8">
+                        <p class="text-lg font-semibold mb-2">"Excellence is not a destination; it is a continuous journey that never ends."</p>
+                        <p class="opacity-80">- Brian Tracy</p>
+                    </div>
+                    <div class="flex space-x-4">
+                        <button onclick="scrollToSection('guidance')" class="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-all shadow-lg">
+                            Start Your SSB Journey
+                        </button>
+                        <button onclick="scrollToSection('about')" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition-all">
+                            Learn More
+                        </button>
+                    </div>
+                </div>
+                <div class="animate-float">
+                    <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-8">
+                        <div class="grid grid-cols-2 gap-4">
+                            <div class="bg-white/20 rounded-lg p-4 text-center">
+                                <i class="fas fa-users text-3xl mb-2"></i>
+                                <p class="font-semibold">10,000+ Students</p>
+                            </div>
+                            <div class="bg-white/20 rounded-lg p-4 text-center">
+                                <i class="fas fa-trophy text-3xl mb-2"></i>
+                                <p class="font-semibold">95% Success Rate</p>
+                            </div>
+                            <div class="bg-white/20 rounded-lg p-4 text-center">
+                                <i class="fas fa-star text-3xl mb-2"></i>
+                                <p class="font-semibold">Expert Trainers</p>
+                            </div>
+                            <div class="bg-white/20 rounded-lg p-4 text-center">
+                                <i class="fas fa-clock text-3xl mb-2"></i>
+                                <p class="font-semibold">24/7 Support</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="py-20 section-gradient">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-gray-800 mb-4">About SSB</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Understanding the Service Selection Board process is the first step towards your success in the Indian Armed Forces</p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8 mb-16">
+                <div class="bg-white rounded-xl shadow-lg p-8 card-hover">
+                    <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mb-6">
+                        <i class="fas fa-clipboard-list text-2xl text-blue-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4">What is SSB?</h3>
+                    <p class="text-gray-600">Service Selection Board is a comprehensive evaluation process to assess Officer-Like Qualities in candidates aspiring to join the Indian Armed Forces.</p>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg p-8 card-hover">
+                    <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mb-6">
+                        <i class="fas fa-target text-2xl text-green-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4">Why it Matters</h3>
+                    <p class="text-gray-600">SSB is the gateway to prestigious careers in Army, Navy, and Air Force. It's not just a test, but a transformation journey.</p>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg p-8 card-hover">
+                    <div class="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mb-6">
+                        <i class="fas fa-calendar-alt text-2xl text-purple-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-4">5-Day Process</h3>
+                    <p class="text-gray-600">A comprehensive 5-day evaluation covering psychological tests, group tasks, interviews, and conference rounds.</p>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-xl p-8">
+                <h3 class="text-2xl font-bold text-center mb-8 text-gray-800">SSB Process Stages</h3>
+                <div class="grid md:grid-cols-5 gap-6">
+                    <div class="text-center">
+                        <div class="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl font-bold text-red-600">1</span>
+                        </div>
+                        <h4 class="font-semibold mb-2">Screening</h4>
+                        <p class="text-sm text-gray-600">OIR & PPDT</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl font-bold text-blue-600">2</span>
+                        </div>
+                        <h4 class="font-semibold mb-2">Psychology</h4>
+                        <p class="text-sm text-gray-600">TAT, WAT, SRT, SD</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl font-bold text-green-600">3</span>
+                        </div>
+                        <h4 class="font-semibold mb-2">GTO Tasks</h4>
+                        <p class="text-sm text-gray-600">Group Tests & Outdoor Activities</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="w-16 h-16 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl font-bold text-yellow-600">4</span>
+                        </div>
+                        <h4 class="font-semibold mb-2">Interview</h4>
+                        <p class="text-sm text-gray-600">Personal Interview</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl font-bold text-purple-600">5</span>
+                        </div>
+                        <h4 class="font-semibold mb-2">Conference</h4>
+                        <p class="text-sm text-gray-600">Final Assessment</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-16">
+                <h3 class="text-2xl font-bold text-center mb-8 text-gray-800">Frequently Asked Questions</h3>
+                <div class="max-w-4xl mx-auto space-y-4">
+                    <div class="bg-white rounded-lg shadow-md">
+                        <button class="faq-btn w-full text-left p-6 font-semibold text-gray-800 hover:text-blue-600 focus:outline-none flex justify-between items-center">
+                            <span>What is the age limit for SSB?</span>
+                            <i class="fas fa-chevron-down transform transition-transform"></i>
+                        </button>
+                        <div class="faq-content hidden p-6 pt-0 text-gray-600">
+                            The age limit varies by entry: NDA (16.5-19.5 years), CDS (20-25 years for IMA/INA, 20-27 for AFA), and other technical entries have specific age criteria.
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md">
+                        <button class="faq-btn w-full text-left p-6 font-semibold text-gray-800 hover:text-blue-600 focus:outline-none flex justify-between items-center">
+                           <span>How many attempts are allowed?</span>
+                            <i class="fas fa-chevron-down transform transition-transform"></i>
+                        </button>
+                        <div class="faq-content hidden p-6 pt-0 text-gray-600">
+                            There's no limit on SSB attempts. You can appear as many times as you want, provided you meet the age criteria for each entry.
+                        </div>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md">
+                        <button class="faq-btn w-full text-left p-6 font-semibold text-gray-800 hover:text-blue-600 focus:outline-none flex justify-between items-center">
+                           <span>What are Officer-Like Qualities (OLQs)?</span>
+                            <i class="fas fa-chevron-down transform transition-transform"></i>
+                        </button>
+                        <div class="faq-content hidden p-6 pt-0 text-gray-600">
+                            OLQs include effective intelligence, reasoning ability, organizing ability, power of expression, social adaptability, cooperation, sense of responsibility, initiative, self-confidence, speed of decision, ability to influence the group, liveliness, determination, courage, stamina, and physical fitness.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="guidance" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-gray-800 mb-4">Expert Guidance</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive preparation strategies for each stage of the SSB process</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div class="bg-gradient-to-br from-red-50 to-red-100 rounded-xl p-6 card-hover cursor-pointer" onclick="showGuidanceModal('screening')">
+                    <div class="w-16 h-16 bg-red-200 rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-eye text-2xl text-red-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-3">Screening Test</h3>
+                    <p class="text-gray-600 mb-4">Master OIR and PPDT with proven strategies</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Officer Intelligence Rating</li>
+                        <li>• Picture Perception Test</li>
+                        <li>• Discussion Techniques</li>
+                    </ul>
+                </div>
+
+                <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl p-6 card-hover cursor-pointer" onclick="showGuidanceModal('psychology')">
+                    <div class="w-16 h-16 bg-blue-200 rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-brain text-2xl text-blue-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-3">Psychology Tests</h3>
+                    <p class="text-gray-600 mb-4">Excel in TAT, WAT, SRT, and SD</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Thematic Apperception Test</li>
+                        <li>• Word Association Test</li>
+                        <li>• Situation Reaction Test</li>
+                        <li>• Self Description</li>
+                    </ul>
+                </div>
+
+                <div class="bg-gradient-to-br from-green-50 to-green-100 rounded-xl p-6 card-hover cursor-pointer" onclick="showGuidanceModal('gto')">
+                    <div class="w-16 h-16 bg-green-200 rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-users text-2xl text-green-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-3">GTO Tasks</h3>
+                    <p class="text-gray-600 mb-4">Group discussions and outdoor challenges</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Group Discussion</li>
+                        <li>• Group Planning Exercise</li>
+                        <li>• Progressive Group Task</li>
+                        <li>• Command Task</li>
+                    </ul>
+                </div>
+
+                <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl p-6 card-hover cursor-pointer" onclick="showGuidanceModal('interview')">
+                    <div class="w-16 h-16 bg-purple-200 rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-comments text-2xl text-purple-600"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-3">Interview Prep</h3>
+                    <p class="text-gray-600 mb-4">Build confidence and communication skills</p>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Personal Questions</li>
+                        <li>• Current Affairs</li>
+                        <li>• Confidence Building</li>
+                        <li>• Body Language</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="motivation" class="py-20 section-gradient">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-gray-800 mb-4">Success Stories & Motivation</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Get inspired by our successful candidates and generate your daily dose of motivation.</p>
+            </div>
+
+            <div class="bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-2xl p-8 mb-12 text-center shadow-lg">
+                <i class="fas fa-quote-left text-3xl mb-4 opacity-70"></i>
+                <p id="dailyQuote" class="text-2xl font-semibold mb-6 min-h-[100px] flex items-center justify-center">Loading motivational quote...</p>
+                <button id="generateQuoteBtn" class="bg-white/20 hover:bg-white/30 backdrop-blur-sm transition-all text-white font-semibold py-2 px-6 rounded-lg">
+                    <i class="fas fa-sync-alt mr-2"></i>Generate New Quote
+                </button>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8 mb-12">
+                <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover">
+                    <div class="h-48 bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center">
+                        <div class="text-center text-white">
+                             <i class="fas fa-user-shield text-6xl"></i>
+                            <p class="font-semibold text-lg mt-2">Lt. Rahul Sharma</p>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="font-semibold mb-2">From 3 Attempts to Success</h3>
+                        <p class="text-gray-600 mb-4 text-sm">"SSB Academy's guidance helped me identify my weaknesses and work on them systematically. The mock interviews were game-changers."</p>
+                        <div class="flex items-center text-sm text-gray-500">
+                            <i class="fas fa-calendar mr-2"></i>
+                            Selected in CDS 2024
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover">
+                    <div class="h-48 bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center">
+                        <div class="text-center text-white">
+                            <i class="fas fa-user-astronaut text-6xl"></i>
+                            <p class="font-semibold text-lg mt-2">Flt. Lt. Priya Patel</p>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="font-semibold mb-2">First Attempt Success</h3>
+                        <p class="text-gray-600 mb-4 text-sm">"The structured approach and daily practice sessions made all the difference. I cleared AFCAT on my first attempt!"</p>
+                        <div class="flex items-center text-sm text-gray-500">
+                            <i class="fas fa-calendar mr-2"></i>
+                            Selected in AFCAT 2025
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg overflow-hidden card-hover">
+                    <div class="h-48 bg-gradient-to-br from-purple-400 to-purple-600 flex items-center justify-center">
+                        <div class="text-center text-white">
+                             <i class="fas fa-anchor text-6xl"></i>
+                            <p class="font-semibold text-lg mt-2">Sub. Lt. Arjun Singh</p>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="font-semibold mb-2">Overcoming Fear</h3>
+                        <p class="text-gray-600 mb-4 text-sm">"I was extremely nervous about group tasks. The community support and expert tips helped me build confidence."</p>
+                        <div class="flex items-center text-sm text-gray-500">
+                            <i class="fas fa-calendar mr-2"></i>
+                            Selected in INET 2025
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-xl p-8">
+                <h3 class="text-2xl font-bold mb-6 text-gray-800">Latest Blog Posts</h3>
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div class="border-l-4 border-blue-500 pl-4">
+                        <h4 class="font-semibold mb-2">How to Build Officer-Like Qualities</h4>
+                        <p class="text-gray-600 text-sm mb-2">Develop the 15 essential OLQs that SSB assessors look for in every candidate...</p>
+                        <button onclick="showNotification('Our full blog is coming soon!')" class="text-blue-600 text-sm hover:underline font-semibold">Read More →</button>
+                    </div>
+                    <div class="border-l-4 border-green-500 pl-4">
+                        <h4 class="font-semibold mb-2">Mastering Group Discussion</h4>
+                        <p class="text-gray-600 text-sm mb-2">Learn the art of effective communication and leadership in group settings...</p>
+                        <button onclick="showNotification('Our full blog is coming soon!')" class="text-blue-600 text-sm hover:underline font-semibold">Read More →</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="resources" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-gray-800 mb-4">Free Resources</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Download free study materials, sample tests, and preparation guides</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+                <div class="bg-gradient-to-br from-red-50 to-red-100 rounded-xl p-6 text-center card-hover">
+                    <i class="fas fa-file-pdf text-4xl text-red-600 mb-4"></i>
+                    <h3 class="font-semibold mb-2">Sample Tests</h3>
+                    <p class="text-gray-600 text-sm mb-4">OIR practice papers and psychology test samples</p>
+                    <button class="resource-btn bg-red-600 text-white px-4 py-2 rounded-lg text-sm hover:bg-red-700">Download</button>
+                </div>
+
+                <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl p-6 text-center card-hover">
+                    <i class="fas fa-brain text-4xl text-blue-600 mb-4"></i>
+                    <h3 class="font-semibold mb-2">Psychology Notes</h3>
+                    <p class="text-gray-600 text-sm mb-4">Complete guide for TAT, WAT, SRT preparation</p>
+                    <button class="resource-btn bg-blue-600 text-white px-4 py-2 rounded-lg text-sm hover:bg-blue-700">Download</button>
+                </div>
+
+                <div class="bg-gradient-to-br from-green-50 to-green-100 rounded-xl p-6 text-center card-hover">
+                    <i class="fas fa-newspaper text-4xl text-green-600 mb-4"></i>
+                    <h3 class="font-semibold mb-2">Current Affairs</h3>
+                    <p class="text-gray-600 text-sm mb-4">Monthly current affairs compilation</p>
+                    <button class="resource-btn bg-green-600 text-white px-4 py-2 rounded-lg text-sm hover:bg-green-700">Download</button>
+                </div>
+
+                <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl p-6 text-center card-hover">
+                    <i class="fas fa-calendar-check text-4xl text-purple-600 mb-4"></i>
+                    <h3 class="font-semibold mb-2">Study Planner</h3>
+                    <p class="text-gray-600 text-sm mb-4">30/60/90 days preparation schedule</p>
+                    <button class="resource-btn bg-purple-600 text-white px-4 py-2 rounded-lg text-sm hover:bg-purple-700">Download</button>
+                </div>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-gray-50 rounded-xl p-8">
+                    <h3 class="text-xl font-bold mb-6 text-gray-800">📚 Recommended Books</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-start space-x-3">
+                            <div class="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+                            <div>
+                                <p class="font-semibold">Pathfinder for NDA & NA</p>
+                                <p class="text-gray-600 text-sm">Complete guide for NDA preparation</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start space-x-3">
+                            <div class="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+                            <div>
+                                <p class="font-semibold">Let's Crack SSB Interview</p>
+                                <p class="text-gray-600 text-sm">Comprehensive SSB preparation guide</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start space-x-3">
+                            <div class="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+                            <div>
+                                <p class="font-semibold">Psychology of SSB</p>
+                                <p class="text-gray-600 text-sm">Understanding psychological tests</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-gray-50 rounded-xl p-8">
+                    <h3 class="text-xl font-bold mb-6 text-gray-800">📺 YouTube Channels</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-start space-x-3">
+                            <div class="w-2 h-2 bg-red-600 rounded-full mt-2"></div>
+                            <div>
+                                <p class="font-semibold">SSB Crack</p>
+                                <p class="text-gray-600 text-sm">Complete SSB preparation videos</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start space-x-3">
+                            <div class="w-2 h-2 bg-red-600 rounded-full mt-2"></div>
+                            <div>
+                                <p class="font-semibold">Defence Direct Education</p>
+                                <p class="text-gray-600 text-sm">Expert tips and success stories</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start space-x-3">
+                            <div class="w-2 h-2 bg-red-600 rounded-full mt-2"></div>
+                            <div>
+                                <p class="font-semibold">Major Kalshi Classes</p>
+                                <p class="text-gray-600 text-sm">Current affairs and GK</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="community" class="py-20 section-gradient">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-gray-800 mb-4">Join Our Community</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Connect with fellow aspirants, participate in discussions, and take weekly challenges</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8 mb-12">
+                <div class="bg-white rounded-2xl shadow-xl p-8">
+                    <div class="flex items-center mb-6">
+                        <i class="fas fa-comments text-3xl text-blue-600 mr-4"></i>
+                        <h3 class="text-2xl font-bold text-gray-800">Discussion Forum</h3>
+                    </div>
+                    <div class="space-y-4 mb-6">
+                        <div class="bg-gray-50 rounded-lg p-4">
+                            <p class="text-sm text-gray-700">"Any tips for handling GTO outdoor tasks? I'm struggling with height-related challenges..." - <span class="font-semibold">Aspirant_2025</span></p>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4">
+                            <p class="text-sm text-gray-700">"Just cleared my SSB! Here's what worked for me in psychology tests..." - <span class="font-semibold">SSB_Winner</span></p>
+                        </div>
+                    </div>
+                    <button onclick="showNotification('Our community forum is launching soon!')" class="w-full bg-blue-600 text-white py-3 rounded-lg font-semibold hover:bg-blue-700 transition-all">
+                        Join Discussion
+                    </button>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-xl p-8">
+                    <div class="flex items-center mb-6">
+                        <i class="fas fa-trophy text-3xl text-yellow-600 mr-4"></i>
+                        <h3 class="text-2xl font-bold text-gray-800">Weekly Challenges</h3>
+                    </div>
+                    <div class="space-y-4 mb-6">
+                        <div class="border-l-4 border-blue-500 pl-4">
+                            <h4 class="font-semibold text-blue-600">This Week's GD Topic</h4>
+                            <p class="text-gray-700 text-sm mt-1">"Should India focus more on space exploration or poverty alleviation?"</p>
+                        </div>
+                        <div class="border-l-4 border-green-500 pl-4">
+                            <h4 class="font-semibold text-green-600">Psychology Practice</h4>
+                            <p class="text-gray-700 text-sm mt-1">Daily TAT image practice with expert feedback</p>
+                        </div>
+                    </div>
+                    <button onclick="showNotification('Weekly challenges will begin soon!')" class="w-full bg-yellow-600 text-white py-3 rounded-lg font-semibold hover:bg-yellow-700 transition-all">
+                        Take Challenge
+                    </button>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+                <div class="bg-white rounded-xl p-6 text-center">
+                    <div class="stat-counter text-3xl font-bold text-blue-600 mb-2" data-target="15000">0+</div>
+                    <p class="text-gray-600">Active Members</p>
+                </div>
+                <div class="bg-white rounded-xl p-6 text-center">
+                    <div class="stat-counter text-3xl font-bold text-green-600 mb-2" data-target="50">0+</div>
+                    <p class="text-gray-600">Daily Discussions</p>
+                </div>
+                <div class="bg-white rounded-xl p-6 text-center">
+                    <div class="stat-counter text-3xl font-bold text-purple-600 mb-2" data-target="1200">0+</div>
+                    <p class="text-gray-600">Success Stories</p>
+                </div>
+                <div class="bg-white rounded-xl p-6 text-center">
+                    <div class="stat-counter text-3xl font-bold text-red-600 mb-2" data-target="24">0/7</div>
+                    <p class="text-gray-600">Expert Support</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold text-gray-800 mb-4">Get In Touch</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Subscribe to our newsletter and join our community platforms for daily motivation and updates</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-12">
+                <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl p-8">
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">📧 Daily Newsletter</h3>
+                    <p class="text-gray-600 mb-6">Get daily motivation, preparation tips, and current affairs directly in your inbox</p>
+                    <div class="space-y-4">
+                        <input type="email" id="emailInput" placeholder="Enter your email address" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none">
+                        <input type="text" id="nameInput" placeholder="Your full name" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none">
+                        <select id="examInput" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none text-gray-500">
+                            <option value="">Select your target exam</option>
+                            <option value="NDA">NDA</option>
+                            <option value="CDS">CDS</option>
+                            <option value="AFCAT">AFCAT</option>
+                            <option value="TES">Technical Entry Scheme</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        <button onclick="subscribeNewsletter()" class="w-full bg-blue-600 text-white py-3 rounded-lg font-semibold hover:bg-blue-700 transition-all">
+                            Subscribe Now
+                        </button>
+                    </div>
+                </div>
+
+                <div class="space-y-6">
+                    <div class="bg-gradient-to-br from-green-50 to-green-100 rounded-xl p-6 card-hover">
+                        <div class="flex items-center mb-4">
+                            <i class="fab fa-whatsapp text-3xl text-green-600 mr-4"></i>
+                            <div>
+                                <h3 class="text-xl font-bold text-gray-800">WhatsApp Community</h3>
+                                <p class="text-gray-600">Daily tips and instant doubt resolution</p>
+                            </div>
+                        </div>
+                        <button onclick="joinWhatsApp()" class="w-full bg-green-600 text-white py-3 rounded-lg font-semibold hover:bg-green-700 transition-all">
+                            Join WhatsApp Group
+                        </button>
+                    </div>
+
+                    <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl p-6 card-hover">
+                        <div class="flex items-center mb-4">
+                            <i class="fab fa-telegram text-3xl text-blue-600 mr-4"></i>
+                            <div>
+                                <h3 class="text-xl font-bold text-gray-800">Telegram Channel</h3>
+                                <p class="text-gray-600">Current affairs and exam notifications</p>
+                            </div>
+                        </div>
+                        <button onclick="joinTelegram()" class="w-full bg-blue-600 text-white py-3 rounded-lg font-semibold hover:bg-blue-700 transition-all">
+                            Join Telegram Channel
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center mb-4">
+                        <i class="fas fa-shield-alt text-2xl text-blue-400 mr-2"></i>
+                        <span class="text-xl font-bold">SSB Academy</span>
+                    </div>
+                    <p class="text-gray-400 mb-4">Your trusted partner in SSB preparation and success</p>
+                    <div class="flex space-x-4">
+                        <i class="fab fa-facebook-f text-xl text-gray-400 hover:text-white cursor-pointer"></i>
+                        <i class="fab fa-twitter text-xl text-gray-400 hover:text-white cursor-pointer"></i>
+                        <i class="fab fa-instagram text-xl text-gray-400 hover:text-white cursor-pointer"></i>
+                        <i class="fab fa-youtube text-xl text-gray-400 hover:text-white cursor-pointer"></i>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Quick Links</h4>
+                    <div class="space-y-2">
+                        <a href="#home" class="block text-gray-400 hover:text-white">Home</a>
+                        <a href="#about" class="block text-gray-400 hover:text-white">About SSB</a>
+                        <a href="#guidance" class="block text-gray-400 hover:text-white">Guidance</a>
+                        <a href="#resources" class="block text-gray-400 hover:text-white">Resources</a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Services</h4>
+                    <div class="space-y-2">
+                        <a href="#" onclick="showNotification('Service details coming soon!')" class="block text-gray-400 hover:text-white">Online Coaching</a>
+                        <a href="#" onclick="showNotification('Service details coming soon!')" class="block text-gray-400 hover:text-white">Mock Interviews</a>
+                        <a href="#" onclick="showNotification('Service details coming soon!')" class="block text-gray-400 hover:text-white">Group Tasks</a>
+                        <a href="#" onclick="showNotification('Service details coming soon!')" class="block text-gray-400 hover:text-white">Psychology Tests</a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Support</h4>
+                    <div class="space-y-2">
+                         <a href="#" onclick="showNotification('Help Center coming soon!')" class="block text-gray-400 hover:text-white">Help Center</a>
+                         <a href="#" onclick="showNotification('Privacy Policy coming soon!')" class="block text-gray-400 hover:text-white">Privacy Policy</a>
+                         <a href="#" onclick="showNotification('Terms of Service coming soon!')" class="block text-gray-400 hover:text-white">Terms of Service</a>
+                         <a href="#contact" class="block text-gray-400 hover:text-white">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 mt-8 pt-8 text-center">
+                <p class="text-gray-400">&copy; 2025 SSB Academy. All rights reserved. Made with ❤️ for future officers.</p>
+            </div>
+        </div>
+    </footer>
+
+    <div id="guidanceModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50">
+        <div class="bg-white rounded-2xl max-w-2xl w-full mx-4 max-h-[90vh] overflow-y-auto">
+            <div class="p-8">
+                <div class="flex justify-between items-center mb-6">
+                    <h2 id="modalTitle" class="text-2xl font-bold text-gray-800"></h2>
+                    <button onclick="closeGuidanceModal()" class="text-gray-500 hover:text-gray-700">
+                        <i class="fas fa-times text-2xl"></i>
+                    </button>
+                </div>
+                <div id="modalContent" class="prose max-w-none">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="notification" class="fixed top-20 right-4 bg-green-500 text-white px-6 py-3 rounded-lg shadow-lg transform translate-x-[120%] transition-transform duration-500 z-50">
+        <div class="flex items-center">
+            <i id="notificationIcon" class="fas fa-check-circle mr-2"></i>
+            <span id="notificationText">Success!</span>
+        </div>
+    </div>
+    
+    <button id="backToTop" class="fixed bottom-6 right-6 bg-blue-600 text-white w-12 h-12 rounded-full shadow-lg hover:bg-blue-700 transition-all opacity-0 pointer-events-none z-40 flex items-center justify-center">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <script>
+        // --- CORE UI ELEMENTS & HELPERS ---
+        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+        const backToTopBtn = document.getElementById('backToTop');
+        const notificationElem = document.getElementById('notification');
+        const notificationText = document.getElementById('notificationText');
+        const notificationIcon = document.getElementById('notificationIcon');
+        
+        // --- EVENT LISTENERS ---
+        document.addEventListener('DOMContentLoaded', () => {
+            initializePage();
+            setupEventListeners();
+        });
+
+        window.addEventListener('scroll', () => {
+            handleScrollAnimations();
+            handleNavbarStyle();
+            toggleBackToTopButton();
+        });
+        
+        // --- INITIALIZATION ---
+        function initializePage() {
+            handleHeroSlider();
+            displayNewQuote(); // Changed from daily quote to random quote on load
+            const heroTitle = document.querySelector('#home h1');
+            if (heroTitle) {
+                const originalText = heroTitle.textContent;
+                typeWriter(heroTitle, originalText, 50);
+            }
+        }
+
+        function setupEventListeners() {
+            // Mobile Menu
+            mobileMenuBtn.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
+
+            // Smooth Scrolling for all anchor links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    scrollToSection(this.getAttribute('href').substring(1));
+                    if (!mobileMenu.classList.contains('hidden')) {
+                        mobileMenu.classList.add('hidden');
+                    }
+                });
+            });
+
+            // FAQ Accordion
+            document.querySelectorAll('.faq-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const content = btn.nextElementSibling;
+                    const icon = btn.querySelector('i');
+                    content.classList.toggle('hidden');
+                    icon.classList.toggle('rotate-180');
+                });
+            });
+
+            // Resource Download Buttons
+            document.querySelectorAll('.resource-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const resourceType = this.parentElement.querySelector('h3').textContent;
+                    showNotification(`${resourceType} download will start shortly...`);
+                });
+            });
+            
+            // Back to Top Button
+            backToTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+            
+            // Close modal with Escape key
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') closeGuidanceModal();
+            });
+
+            // Event listener for the quote generator button
+            const generateQuoteBtn = document.getElementById('generateQuoteBtn');
+            generateQuoteBtn.addEventListener('click', displayNewQuote);
+        }
+        
+        // --- HERO SLIDER ---
+        function handleHeroSlider() {
+            const slides = document.querySelectorAll('.hero-slide');
+            let currentSlide = 0;
+
+            if (slides.length <= 1) return; // Don't run if there's only one or zero slides
+
+            setInterval(() => {
+                const oldSlide = slides[currentSlide];
+                
+                // Get the next slide index
+                currentSlide = (currentSlide + 1) % slides.length;
+                const newSlide = slides[currentSlide];
+
+                // Deactivate old slide and reset its transform for the next cycle
+                oldSlide.classList.remove('active-slide');
+                // We need a short delay to allow the opacity transition to start before resetting the scale
+                setTimeout(() => {
+                    if (!oldSlide.classList.contains('active-slide')) {
+                         oldSlide.style.transform = 'scale(1.1)';
+                    }
+                }, 1500); // Match this with opacity transition duration
+
+                // Activate the new slide
+                newSlide.classList.add('active-slide');
+
+            }, 7000); // Interval for changing slides (e.g., 7 seconds)
+        }
+
+        // --- MOTIVATION GENERATOR ---
+        const quotes = [
+            "The soldier is the Army. No army is better than its soldiers.",
+            "He who sweats more in training, bleeds less in war.",
+            "Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all.",
+            "A soldier will fight long and hard for a bit of colored ribbon.",
+            "The best weapon against an enemy is another enemy.",
+            "Leadership is the art of getting someone else to do something you want done because he wants to do it.",
+            "It is not the size of the dog in the fight, it is the size of the fight in the dog.",
+            "Brave men rejoice in adversity, just as brave soldiers triumph in war.",
+            "The harder the conflict, the more glorious the triumph.",
+            "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+            "Victory is reserved for those who are willing to pay its price.",
+            "Only the dead have seen the end of war.",
+            "If you're going through hell, keep going.",
+            "Fortune favors the brave.",
+            "The supreme art of war is to subdue the enemy without fighting.",
+            "To be a leader, you must stand for something, or you will fall for anything."
+        ];
+
+        function displayNewQuote() {
+            const quoteElement = document.getElementById('dailyQuote');
+            const randomIndex = Math.floor(Math.random() * quotes.length);
+            quoteElement.textContent = quotes[randomIndex];
+        }
+
+        // --- UI FUNCTIONS ---
+        function scrollToSection(sectionId) {
+            const element = document.getElementById(sectionId);
+            if(element) element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function showNotification(message, type = 'success') {
+            notificationText.textContent = message;
+            notificationElem.classList.remove('bg-green-500', 'bg-red-500', 'translate-x-[120%]');
+            
+            if (type === 'error') {
+                notificationElem.classList.add('bg-red-500');
+                notificationIcon.className = 'fas fa-times-circle mr-2';
+            } else {
+                notificationElem.classList.add('bg-green-500');
+                notificationIcon.className = 'fas fa-check-circle mr-2';
+            }
+            
+            setTimeout(() => {
+                notificationElem.classList.add('translate-x-[120%]');
+            }, 3000);
+        }
+
+        // --- ANIMATIONS ---
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('fade-in');
+                    if (entry.target.id === 'community' && !entry.target.dataset.animated) {
+                        animateCounters();
+                        entry.target.dataset.animated = 'true'; // Animate only once
+                    }
+                }
+            });
+        }, { threshold: 0.1 });
+
+        function handleScrollAnimations() {
+            document.querySelectorAll('section').forEach(section => observer.observe(section));
+        }
+        
+        function handleNavbarStyle() {
+            const navbar = document.querySelector('nav');
+            if (window.scrollY > 50) {
+                navbar.classList.add('bg-white/95', 'backdrop-blur-sm');
+            } else {
+                navbar.classList.remove('bg-white/95', 'backdrop-blur-sm');
+            }
+        }
+
+        function toggleBackToTopButton() {
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.remove('opacity-0', 'pointer-events-none');
+            } else {
+                backToTopBtn.classList.add('opacity-0', 'pointer-events-none');
+            }
+        }
+
+        function animateCounters() {
+            const counters = document.querySelectorAll('.stat-counter');
+            counters.forEach(counter => {
+                const target = +counter.getAttribute('data-target');
+                let start = 0;
+                const duration = 2000;
+                const increment = target / (duration / 16); // 16ms for ~60fps
+
+                const updateCounter = () => {
+                    start += increment;
+                    if (start < target) {
+                        if (counter.textContent.includes('/')) {
+                            counter.textContent = `${Math.ceil(start)}/7`;
+                        } else {
+                            counter.textContent = `${Math.ceil(start).toLocaleString()}+`;
+                        }
+                        requestAnimationFrame(updateCounter);
+                    } else {
+                         if (counter.textContent.includes('/')) {
+                            counter.textContent = `${target}/7`;
+                        } else {
+                            counter.textContent = `${target.toLocaleString()}+`;
+                        }
+                    }
+                };
+                updateCounter();
+            });
+        }
+        
+        function typeWriter(element, text, speed = 50) {
+            let i = 0;
+            element.textContent = '';
+            function type() {
+                if (i < text.length) {
+                    element.textContent += text.charAt(i);
+                    i++;
+                    setTimeout(type, speed);
+                }
+            }
+            type();
+        }
+
+        // --- MODAL LOGIC ---
+        function showGuidanceModal(type) {
+            const modal = document.getElementById('guidanceModal');
+            const title = document.getElementById('modalTitle');
+            const content = document.getElementById('modalContent');
+            const guidanceContent = {
+                screening: {
+                    title: 'Screening Test Guidance',
+                    content: `<h4>Officer Intelligence Rating (OIR)</h4><ul><li>Practice verbal and non-verbal reasoning daily.</li><li>Focus on time management; speed is key.</li></ul><h4>Picture Perception & Description Test (PPDT)</h4><ul><li>Observe the picture carefully and write a coherent story with a positive outcome.</li><li>Narrate your story confidently and participate constructively in the group discussion.</li></ul>`
+                },
+                psychology: {
+                    title: 'Psychology Tests Guidance',
+                    content: `<h4>Thematic Apperception Test (TAT)</h4><p>Write positive, action-oriented stories showcasing Officer-Like Qualities.</p><h4>Word Association Test (WAT)</h4><p>Respond with the first positive thought that comes to mind. Be natural.</p><h4>Situation Reaction Test (SRT)</h4><p>Provide practical and logical solutions, demonstrating responsibility and initiative.</p>`
+                },
+                gto: {
+                    title: 'GTO Tasks Guidance',
+                    content: `<h4>Group Discussion (GD)</h4><p>Contribute relevant points, listen to others, and maintain a cordial demeanor.</p><h4>Outdoor Tasks (PGT, HGT, FGT)</h4><p>Be a team player, contribute ideas, and help your teammates. Focus on cooperation over competition.</p><h4>Command Task</h4><p>Lead your subordinates effectively, give clear instructions, and stay calm under pressure.</p>`
+                },
+                interview: {
+                    title: 'Interview Preparation',
+                    content: `<h4>Know Yourself</h4><p>Be thoroughly prepared with your Personal Information Questionnaire (PIQ) form.</p><h4>Current Affairs</h4><p>Stay updated with national and international events, especially those related to defense.</p><h4>Communication</h4><p>Be confident, maintain eye contact, and express your thoughts clearly and honestly.</p>`
+                }
+            };
+            title.textContent = guidanceContent[type].title;
+            content.innerHTML = guidanceContent[type].content;
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+        }
+
+        function closeGuidanceModal() {
+            const modal = document.getElementById('guidanceModal');
+            modal.classList.add('hidden');
+            modal.classList.remove('flex');
+        }
+
+        // --- CONTACT & SUBSCRIPTION ---
+        function subscribeNewsletter() {
+            const email = document.getElementById('emailInput').value;
+            const name = document.getElementById('nameInput').value;
+            const exam = document.getElementById('examInput').value;
+            if (!email || !name || !exam) {
+                showNotification('Please fill all fields!', 'error');
+                return;
+            }
+            if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+                showNotification('Please enter a valid email address!', 'error');
+                return;
+            }
+            showNotification(`Welcome ${name}! You've successfully subscribed.`);
+            document.getElementById('emailInput').value = '';
+            document.getElementById('nameInput').value = '';
+            document.getElementById('examInput').value = '';
+        }
+
+        function joinWhatsApp() {
+            showNotification('Redirecting to WhatsApp group...');
+            setTimeout(() => window.open('https://chat.whatsapp.com/', '_blank'), 1000);
+        }
+
+        function joinTelegram() {
+            showNotification('Redirecting to Telegram channel...');
+            setTimeout(() => window.open('https://telegram.org/', '_blank'), 1000);
+        }
+    </script>
+</body>
+</html>

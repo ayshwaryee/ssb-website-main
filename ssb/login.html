@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - SSB Academy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Teko:wght@600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --olive-drab: #3D402D;
+            --navy-blue: #2C3E50;
+            --khaki-web: #BCAE92;
+            --ivory: #F5F5DC;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: var(--ivory);
+            color: var(--navy-blue);
+        }
+        .font-teko {
+            font-family: 'Teko', sans-serif;
+            letter-spacing: 1px;
+        }
+        .btn-primary {
+            background-color: var(--olive-drab);
+            color: var(--ivory);
+            transition: background-color 0.3s ease;
+        }
+        .btn-primary:hover {
+            background-color: #5a5e44;
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+
+    <div class="bg-white p-8 md:p-12 rounded-lg shadow-2xl max-w-md w-full">
+        <div class="text-center mb-8">
+            <a href="ssbtraining.html" class="text-3xl font-teko text-olive">SSB ACADEMY</a>
+            <h2 class="text-2xl font-teko text-navy mt-2">Welcome Back, Aspirant</h2>
+        </div>
+
+        <form onsubmit="event.preventDefault(); window.location.href='ssbtraining.html';">
+            <div class="mb-4">
+                <label for="email" class="block mb-2 font-semibold">Email Address</label>
+                <input type="email" id="email" required class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-olive">
+            </div>
+            <div class="mb-6">
+                <label for="password" class="block mb-2 font-semibold">Password</label>
+                <input type="password" id="password" required class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-olive">
+            </div>
+            <button type="submit" class="w-full btn-primary py-3 rounded-md font-semibold text-lg">Login</button>
+        </form>
+
+        <p class="text-center mt-6">
+            Don't have an account? <a href="signup.html" class="text-olive font-semibold hover:underline">Sign Up</a>
+        </p>
+    </div>
+
+</body>
+</html>

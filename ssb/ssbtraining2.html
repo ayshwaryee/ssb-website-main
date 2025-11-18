@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSB Academy - Your Gateway to Success</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Teko:wght@600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --olive-drab: #3D402D;
+            --navy-blue: #2C3E50;
+            --khaki-web: #BCAE92;
+            --ivory: #F5F5DC;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: var(--ivory);
+        }
+        h1, h2, h3, h4, .font-teko {
+            font-family: 'Teko', sans-serif;
+            letter-spacing: 1px;
+        }
+        /* --- HERO SLIDER STYLES (REWRITTEN FOR RELIABILITY) --- */
+        .hero-section {
+            position: relative;
+            height: 100vh;
+            color: var(--ivory);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .slider-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        .slide {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            opacity: 0;
+            transition: opacity 1.5s ease-in-out;
+            z-index: 1;
+        }
+        .slide.active {
+            opacity: 1;
+        }
+        .hero-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(44, 62, 80, 0.75); /* Dark navy overlay */
+            z-index: 2;
+        }
+        .hero-content {
+            position: relative;
+            z-index: 3;
+        }
+        /* --- END SLIDER STYLES --- */
+
+        .bg-olive { background-color: var(--olive-drab); }
+        .bg-navy { background-color: var(--navy-blue); }
+        .bg-khaki { background-color: var(--khaki-web); }
+        .text-olive { color: var(--olive-drab); }
+        .text-navy { color: var(--navy-blue); }
+        .text-khaki { color: var(--khaki-web); }
+        .text-ivory { color: var(--ivory); }
+        .border-olive { border-color: var(--olive-drab); }
+        .btn-primary {
+            background-color: var(--olive-drab);
+            color: var(--ivory);
+            transition: all 0.3s ease;
+        }
+        .btn-primary:hover {
+            background-color: #5a5e44;
+        }
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--ivory);
+            border: 2px solid var(--ivory);
+            transition: all 0.3s ease;
+        }
+        .btn-secondary:hover {
+            background-color: var(--ivory);
+            color: var(--olive-drab);
+        }
+        .section-title {
+            border-bottom: 3px solid var(--khaki-web);
+        }
+        .card-hover {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+        }
+    </style>
+</head>
+<body class="text-navy">
+    <!-- Navigation -->
+    <nav class="bg-ivory shadow-md fixed w-full top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex justify-between items-center h-16">
+                <a href="#" class="flex items-center space-x-2">
+                    <i class="fas fa-shield-halved text-3xl text-olive"></i>
+                    <span class="text-2xl font-teko text-olive">SSB ACADEMY</span>
+                </a>
+                <div class="hidden md:flex items-center space-x-6">
+                    <a href="#about" class="hover:text-olive">About SSB</a>
+                    <a href="#guidance" class="hover:text-olive">Guidance</a>
+                    <a href="#motivation" class="hover:text-olive">Motivation</a>
+                    <a href="#resources" class="hover:text-olive">Resources</a>
+                    <a href="login.html" class="bg-khaki text-olive px-4 py-2 rounded-md hover:bg-opacity-80">Login</a>
+                    <a href="signup.html" class="btn-primary px-4 py-2 rounded-md">Sign Up</a>
+                </div>
+                <button id="mobileMenuBtn" class="md:hidden text-olive">
+                    <i class="fas fa-bars text-2xl"></i>
+                </button>
+            </div>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobileMenu" class="hidden md:hidden bg-ivory border-t border-khaki">
+            <div class="px-4 py-3 space-y-3">
+                <a href="#about" class="block hover:text-olive">About SSB</a>
+                <a href="#guidance" class="block hover:text-olive">Guidance</a>
+                <a href="#motivation" class="block hover:text-olive">Motivation</a>
+                <a href="#resources" class="block hover:text-olive">Resources</a>
+                <a href="login.html" class="block mt-2 bg-khaki text-olive text-center py-2 rounded-md">Login</a>
+                <a href="signup.html" class="block mt-2 btn-primary text-center py-2 rounded-md">Sign Up</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section with Image Slider -->
+    <section id="home" class="hero-section">
+        <div class="slider-container">
+            <div class="slide"></div>
+            <div class="slide"></div>
+            <div class="slide"></div>
+            <div class="slide"></div>
+        </div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content max-w-5xl mx-auto px-4">
+            <h1 class="text-6xl md:text-7xl font-teko mb-4">YOUR GATEWAY TO THE ARMED FORCES</h1>
+            <p class="text-xl mb-8 max-w-2xl mx-auto text-khaki">Forge your path to becoming an officer with elite training, expert guidance, and unwavering support.</p>
+            <div class="flex justify-center space-x-4">
+                <a href="#guidance" class="btn-primary px-8 py-3 rounded-md text-lg font-semibold">Start Your Journey</a>
+                <a href="#about" class="btn-secondary px-8 py-3 rounded-md text-lg font-semibold">Learn More</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About SSB Section -->
+    <section id="about" class="py-20">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                 <i class="fas fa-info-circle text-4xl text-khaki mb-2"></i>
+                <h2 class="text-5xl font-teko section-title inline-block pb-2">What is the SSB?</h2>
+                <p class="text-lg text-navy max-w-3xl mx-auto mt-4">The Services Selection Board (SSB) is a rigorous 5-day evaluation process designed to assess the character, intelligence, and leadership potential of candidates for the Indian Armed Forces.</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-white p-8 rounded-lg shadow-md card-hover text-center">
+                    <i class="fas fa-clipboard-list text-3xl text-olive mb-4"></i>
+                    <h3 class="text-3xl font-teko mb-2">Screening Test</h3>
+                    <p>Day 1 assessment including OIR (Officer Intelligence Rating) tests and PPDT (Picture Perception & Description Test).</p>
+                </div>
+                <div class="bg-white p-8 rounded-lg shadow-md card-hover text-center">
+                    <i class="fas fa-brain text-3xl text-olive mb-4"></i>
+                    <h3 class="text-3xl font-teko mb-2">Psychological Tests</h3>
+                    <p>A comprehensive battery of written tests including TAT, WAT, SRT, and Self-Description to reveal your personality.</p>
+                </div>
+                <div class="bg-white p-8 rounded-lg shadow-md card-hover text-center">
+                    <i class="fas fa-users text-3xl text-olive mb-4"></i>
+                    <h3 class="text-3xl font-teko mb-2">GTO & Interview</h3>
+                    <p>Group tasks, planning exercises, and a personal interview to evaluate your performance in a team and under pressure.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Guidance Section -->
+    <section id="guidance" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                 <i class="fas fa-chalkboard-teacher text-4xl text-khaki mb-2"></i>
+                <h2 class="text-5xl font-teko section-title inline-block pb-2">EXPERT GUIDANCE</h2>
+                <p class="text-lg text-navy max-w-3xl mx-auto mt-4">Master each stage of the SSB with our structured preparation modules and proven strategies.</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div class="border-l-4 border-olive pl-6">
+                    <h3 class="text-3xl font-teko mb-2">Screening Test</h3>
+                    <p>Ace the OIR and PPDT with targeted practice and techniques to stand out on Day 1.</p>
+                </div>
+                <div class="border-l-4 border-olive pl-6">
+                    <h3 class="text-3xl font-teko mb-2">Psychology</h3>
+                    <p>Learn to express your true self effectively in TAT, WAT, and SRT with expert feedback.</p>
+                </div>
+                <div class="border-l-4 border-olive pl-6">
+                    <h3 class="text-3xl font-teko mb-2">GTO Tasks</h3>
+                    <p>Develop teamwork and leadership skills for group discussions, planning, and outdoor tasks.</p>
+                </div>
+                <div class="border-l-4 border-olive pl-6">
+                    <h3 class="text-3xl font-teko mb-2">Interview Prep</h3>
+                    <p>Build confidence and master communication for the final personal interview.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Motivation & Success Stories Section -->
+    <section id="motivation" class="py-20 bg-navy text-ivory">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                 <i class="fas fa-trophy text-4xl text-khaki mb-2"></i>
+                <h2 class="text-5xl font-teko section-title inline-block pb-2 border-khaki">MOTIVATION & SUCCESS</h2>
+            </div>
+            <!-- Motivation Generator -->
+            <div class="bg-olive rounded-lg p-8 mb-12 text-center max-w-4xl mx-auto shadow-lg">
+                <i class="fas fa-quote-left text-3xl mb-4 text-khaki"></i>
+                <p id="quote" class="text-2xl font-semibold mb-6 min-h-[80px] flex items-center justify-center">Loading quote...</p>
+                <button id="generateQuoteBtn" class="bg-khaki text-olive font-semibold py-2 px-6 rounded-md hover:bg-opacity-80 transition-all">
+                    <i class="fas fa-sync-alt mr-2"></i>Generate New Quote
+                </button>
+            </div>
+            <!-- Success Stories -->
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-ivory text-navy p-6 rounded-lg shadow-md card-hover">
+                    <p class="mb-4">"The structured approach and daily practice sessions made all the difference. I cleared AFCAT on my first attempt!"</p>
+                    <h4 class="font-bold text-olive">- Flt. Lt. Priya Patel</h4>
+                </div>
+                <div class="bg-ivory text-navy p-6 rounded-lg shadow-md card-hover">
+                    <p class="mb-4">"The mock interviews were game-changers. I identified my weaknesses and worked on them systematically."</p>
+                    <h4 class="font-bold text-olive">- Lt. Rahul Sharma</h4>
+                </div>
+                <div class="bg-ivory text-navy p-6 rounded-lg shadow-md card-hover">
+                    <p class="mb-4">"I was extremely nervous about the GTO tasks. The community support helped me build immense confidence."</p>
+                    <h4 class="font-bold text-olive">- Sub. Lt. Arjun Singh</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Resources Section -->
+    <section id="resources" class="py-20">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-16">
+                 <i class="fas fa-book-open text-4xl text-khaki mb-2"></i>
+                <h2 class="text-5xl font-teko section-title inline-block pb-2">FREE RESOURCES</h2>
+                <p class="text-lg text-navy max-w-3xl mx-auto mt-4">Access our library of free study materials, sample tests, and preparation guides to kickstart your journey.</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-white p-6 text-center rounded-lg shadow-md card-hover">
+                    <i class="fas fa-file-pdf text-4xl text-olive mb-4"></i>
+                    <h3 class="font-semibold mb-2">Sample Tests</h3>
+                    <button class="btn-primary w-full py-2 rounded-md mt-4">Download</button>
+                </div>
+                <div class="bg-white p-6 text-center rounded-lg shadow-md card-hover">
+                    <i class="fas fa-brain text-4xl text-olive mb-4"></i>
+                    <h3 class="font-semibold mb-2">Psychology Notes</h3>
+                    <button class="btn-primary w-full py-2 rounded-md mt-4">Download</button>
+                </div>
+                <div class="bg-white p-6 text-center rounded-lg shadow-md card-hover">
+                    <i class="fas fa-newspaper text-4xl text-olive mb-4"></i>
+                    <h3 class="font-semibold mb-2">Current Affairs</h3>
+                    <button class="btn-primary w-full py-2 rounded-md mt-4">Download</button>
+                </div>
+                <div class="bg-white p-6 text-center rounded-lg shadow-md card-hover">
+                    <i class="fas fa-calendar-check text-4xl text-olive mb-4"></i>
+                    <h3 class="font-semibold mb-2">Study Planners</h3>
+                    <button class="btn-primary w-full py-2 rounded-md mt-4">Download</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-olive text-ivory py-12">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p>&copy; 2025 SSB Academy. All Rights Reserved.</p>
+            <p class="text-khaki">Made with discipline and dedication for the future officers of India.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Mobile menu toggle
+            const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+            const mobileMenu = document.getElementById('mobileMenu');
+            mobileMenuBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            // --- HERO IMAGE SLIDER (FIXED) ---
+            const slides = document.querySelectorAll('.slide');
+            const imageUrls = [
+                'ssb-website/images/army.jpg', // Indian Army
+                'ssb-website/images/indianair.jpg',  // Indian Air Force
+                'ssb-website/images/indiannavy.jpg', // NDA Cadets
+                'ssb-website/images/indiannavy.jpg'   // Indian Navy Ship
+            ];
+            let currentSlide = 0;
+
+            // Set background images for all slides
+            slides.forEach((slide, index) => {
+                slide.style.backgroundImage = `url('${imageUrls[index]}')`;
+            });
+
+            // Show the first slide initially
+            slides[currentSlide].classList.add('active');
+
+            function nextSlide() {
+                slides[currentSlide].classList.remove('active');
+                currentSlide = (currentSlide + 1) % slides.length;
+                slides[currentSlide].classList.add('active');
+            }
+
+            // Change image every 5 seconds
+            setInterval(nextSlide, 5000);
+
+            // --- QUOTE GENERATOR ---
+            const quoteElement = document.getElementById('quote');
+            const generateQuoteBtn = document.getElementById('generateQuoteBtn');
+            
+            const localQuotes = [
+                { content: "He who sweats more in training, bleeds less in war.", author: "Indian Army Proverb" },
+                { content: "The safety, honour and welfare of your country come first, always and every time.", author: "Field Marshal Chetwode" },
+                { content: "Discipline is the soul of an army. It makes small numbers formidable.", author: "George Washington" },
+                { content: "Leadership is the art of getting someone else to do something you want done because he wants to do it.", author: "Dwight D. Eisenhower" },
+                { content: "The harder the conflict, the more glorious the triumph.", author: "Thomas Paine" },
+                { content: "If you're going through hell, keep going.", author: "Winston Churchill" },
+                { content: "Fortune favors the brave.", author: "Virgil" }
+            ];
+
+            function displayNewQuote() {
+                const randomIndex = Math.floor(Math.random() * localQuotes.length);
+                const quote = localQuotes[randomIndex];
+                quoteElement.textContent = `"${quote.content}" - ${quote.author}`;
+            }
+
+            // Display initial quote
+            displayNewQuote();
+            
+            // Add click event for the button
+            generateQuoteBtn.addEventListener('click', displayNewQuote);
+        });
+    </script>
+</body>
+</html>
