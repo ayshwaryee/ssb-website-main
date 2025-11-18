@@ -26,7 +26,7 @@ def summarize_with_gemini(article_text, retries=3):
     # This prompt asks the AI to return *only* a JSON object
     prompt = f"""
     You are an expert news summarizer for an SSB (Service Selection Board) academy website.
-    Your goal is to provide a concise summary and a category for the following article text.
+    Your goal is to provide a concise summary in about 60 words, providing slightly more detail and a category for the following article text.
     
     The categories must be *only* one of these:
     "Defence", "National", "International", "Sci & Tech"
@@ -119,6 +119,7 @@ def fetch_and_process_news():
                     "summary": ai_result['summary'],
                     "url": url,
                     "category": ai_result['category']
+                    "date": date_time,  #date line ADDED HERE
                 }
                 final_articles_list.append(formatted_article)
                 print(f"-> Success. Category: {ai_result['category']}")
