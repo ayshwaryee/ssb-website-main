@@ -1,33 +1,306 @@
 {
-    "last_updated": "2025-11-19T12:33:32.545691+00:00",
+    "last_updated": "2025-11-19T18:23:11.441194+00:00",
     "articles": [
         {
+            "title": "Is it finally Xavier Restrepo week?",
+            "summary": "Xavier Restrepo, an undrafted free agent signed by the Tennessee Titans in April, has generated considerable fan buzz on social media. After persistent calls from 'Titans Twitter', there's a strong possibility that this week marks his anticipated debut with the team. This narrative exemplifies the drive of aspiring athletes seeking their breakthrough in professional sports, potentially highlighting perseverance for SSB aspirants.",
+            "url": "https://www.musiccitymiracles.com/tennessee-titans-roster/62648/is-it-finally-xavier-restrepo-week",
+            "category": "National",
+            "date": "2025-11-18T18:22:58Z"
+        },
+        {
+            "title": "Ocean of Stakes: The Western Indian Ocean\u2019s complex maritime order",
+            "summary": "Europe's economic prosperity relies heavily on secure global maritime routes, particularly the Western Indian Ocean (WIO). This crucial corridor connects vital Gulf energy supplies with Asian manufacturing, making it indispensable for European economies. Maintaining stability and security in the WIO is paramount for ensuring continuous trade flow, safeguarding Europe's economic interests, and upholding its strategic global connectivity.",
+            "url": "https://www.iss.europa.eu/publications/briefs/ocean-stakes-western-indian-oceans-complex-maritime-order",
+            "category": "International",
+            "date": "2025-11-18T17:48:32Z"
+        },
+        {
+            "title": "Mark Norman: Canada needs submarines now, but shouldn\u2019t fall prey to the weaponization of economic benefits and scheduling",
+            "summary": "While supporting past actions, concerns are raised regarding a specific program's public domain perception. The speaker expresses discomfort with the apparent way it's unfolding, highlighting issues with its public rollout. Specific details about the program and the exact nature of these discomforts remain largely unspecified in the provided text.",
+            "url": "https://financialpost.com/news/mark-norman-canada-needs-submarines-now",
+            "category": "National",
+            "date": "2025-11-18T17:40:10Z"
+        },
+        {
+            "title": "Using the Night",
+            "summary": "Thomas Pynchon's ninth novel, 'Shadow Ticket,' is set for release by Penguin Press in 2025. The book introduces Hicks McTaggart, a Milwaukee private eye, hinting at a narrative rooted in detective fiction. This significant literary event marks a notable addition to the esteemed author's body of work, offering future readers a new, stylistically rich exploration.",
+            "url": "https://www.nplusonemag.com/online-only/book-review/using-the-night/",
+            "category": "National",
+            "date": "2025-11-18T17:06:23Z"
+        },
+        {
+            "title": "Karnataka\u2019s spacetech policy to offer Rs 1 crore for testing support",
+            "summary": "Karnataka launched its Space Technology Policy 2025-30 at the Bengaluru Tech Summit. The policy aims to establish Space Manufacturing Parks via public-private partnerships, fostering a dynamic ecosystem for space startups, research, and innovation. This initiative positions Karnataka as a key contributor to India's burgeoning space economy, promoting technological advancement and job creation within the sector.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/karnatakas-spacetech-policy-to-offer-rs-1-crore-for-testing-support/articleshow/125416438.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T17:04:42Z"
+        },
+        {
+            "title": "What\u2019s up with\u2026 Orange & Skylo, Iliad, OpCore",
+            "summary": "Orange is collaborating with non-terrestrial network (NTN) specialist Skylo to introduce a direct-to-device service in France, signifying advancements in satellite communication for mobile users. Concurrently, Iliad's cloud unit is expanding its operations. This industry news reflects ongoing growth and technological evolution within the telecommunications and cloud computing sectors, pointing towards enhanced digital connectivity and service offerings in the region.",
+            "url": "https://www.telecomtv.com/content/access-evolution/what-s-up-with-orange-skylo-iliad-opcore-54322/",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T16:38:33Z"
+        },
+        {
+            "title": "Retired professor, 75, fumbled to learn her finances when her husband died. What to do before a catastrophe strikes",
+            "summary": "Alice Stone Nakhimovsky's husband, Alexander, died unexpectedly from a brain aneurysm, leaving her, at 75, without her partner and crucially, without any details of their shared financial life. This personal tragedy underscores the significant challenges and potential financial disarray faced by individuals when a spouse passes without clear financial arrangements, highlighting the importance of marital financial transparency.",
+            "url": "https://finance.yahoo.com/news/retired-professor-75-fumbled-learn-163000960.html",
+            "category": "National",
+            "date": "2025-11-18T16:30:00Z"
+        },
+        {
+            "title": "End of the Year: Let\u2019s Look at Taxes, Metals and Energy",
+            "summary": "Locomotive engineers prioritize stopping trains early over risking an overshoot, highlighting safety in railway operations. This principle is illustrated by a historical event: the Santa Fe locomotive overshoot in Los Angeles in January 1948. This incident serves as a cautionary tale emphasizing precision and caution in train handling, crucial for preventing accidents and ensuring operational safety.",
+            "url": "https://dailyreckoning.com/end-of-the-year-lets-look-at-taxes-metals-and-energy/",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T16:10:50Z"
+        },
+        {
+            "title": "NFL Week 12 betting power ratings: Good luck figuring out which team is No. 1, plus how all 32 teams stack up",
+            "summary": "An analysis of NFL betting power ratings recently positioned the Chiefs as the clear No. 1 team, with the Lions following closely at No. 2. Other strong contenders were grouped into the NFL's 1B tier, indicating competitive balance within the league. This assessment reflects dynamic changes in team performance evaluations, influencing national sports predictions.",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-12-betting-power-ratings-spread/",
+            "category": "National",
+            "date": "2025-11-18T16:10:33Z"
+        },
+        {
+            "title": "We can finally hear the long-hidden music of the Stone Age",
+            "summary": "Ancient artists painted deep underground, utilizing unique cave acoustics where echoes and resonance created otherworldly sonic effects. This practice, breaking millennia of silence, reveals early human engagement with sound and space. It highlights an ancient understanding of subterranean environments, suggesting artistic or ritualistic applications of acoustic phenomena in prehistoric societies.",
+            "url": "https://www.newscientist.com/article/2502898-we-can-finally-hear-the-long-hidden-music-of-the-stone-age/",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T16:00:21Z"
+        },
+        {
+            "title": "Get a taste of Neon Inferno boss fights ahead of this week\u2019s PS5 & PS4 launch",
+            "summary": "Neon Inferno, a new hybrid side-scroller and gallery-shooter video game, is launching on PlayStation 5 and PlayStation 4 this Thursday, November 20. The game features distinct pixel art graphics and an evocative soundtrack, offering a unique gaming experience. This release expands the entertainment options available on popular gaming consoles, highlighting advancements in interactive digital media.",
+            "url": "https://blog.playstation.com/2025/11/18/get-a-taste-of-neon-inferno-boss-fights-ahead-of-this-weeks-ps5-ps4-launch/",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T16:00:03Z"
+        },
+        {
+            "title": "Expect the unexpected: Stash these potential fantasy playoff hero RBs",
+            "summary": "This article discusses the unpredictable nature of fantasy football, particularly during playoffs. It highlights that while star players are typically crucial, their performance can be inconsistent. The piece likely delves into strategies for managing teams in these critical phases, emphasizing adaptation beyond relying solely on top-tier talent. This requires careful analysis to navigate the complexities of postseason play effectively.",
+            "url": "https://www.espn.com/fantasy/football/story/_/id/47002783/fantasy-football-playoffs-mvp-hero-insurance-rb-league-winner-predictions",
+            "category": "National",
+            "date": "2025-11-18T15:55:26Z"
+        },
+        {
+            "title": "Jet fighter maintenance parts, bombs shipped to Israel via U.S., groups say in new report",
+            "summary": "A new report by four NGOs alleges hundreds of shipments of explosives and fighter jet components have moved from Canada to Israel, transiting through the U.S. over the last two years. This highlights complex international military supply chains and their geopolitical implications for defence policies.",
+            "url": "https://www.cbc.ca/news/politics/politics-jet-fighters-bombs-canada-us-israel-9.6982606",
+            "category": "Defence",
+            "date": "2025-11-18T15:48:28Z"
+        },
+        {
+            "title": "The Day the Internet Died: How an Underwater Cable Cut Plunged a Nation Into Digital Darkness",
+            "summary": "An underwater volcanic eruption near Tonga initiated a powerful cascade of debris, severing the island nation's sole international communication cable. This significant natural disaster critically disrupted Tonga's global connectivity, highlighting the immense vulnerability of vital infrastructure to geological events and their far-reaching consequences for island nations.",
+            "url": "https://uk.pcmag.com/networking/161341/the-day-the-internet-died-how-an-underwater-cable-cut-plunged-a-nation-into-digital-darkness",
+            "category": "International",
+            "date": "2025-11-18T15:41:40Z"
+        },
+        {
+            "title": "The Day the Internet Died: How an Underwater Cable Cut Plunged a Nation Into Digital Darkness",
+            "summary": "An underwater volcanic eruption near Tonga caused debris to cascade into the ocean, severing Tonga's sole international fiber optic cable. This significant natural disaster, originating from the volcano's powerful eruption, plunged the island nation into isolation, disrupting vital communication links and highlighting infrastructure vulnerability.",
+            "url": "https://me.pcmag.com/en/networking/33529/the-day-the-internet-died-how-an-underwater-cable-cut-plunged-a-nation-into-digital-darkness",
+            "category": "International",
+            "date": "2025-11-18T15:41:40Z"
+        },
+        {
+            "title": "Sweden\u2019s Saab offers to build entire GlobalEye military surveillance plane in Canada",
+            "summary": "Swedish defence giant Saab has proposed its GlobalEye airborne surveillance system to Canada. This bid supplements Saab's prior offer to create Canadian jobs if Ottawa procures Gripen fighter jets. The move highlights Saab's strategy to secure significant defence contracts by linking military sales with economic benefits for Canada, influencing key procurement decisions for its armed forces.",
+            "url": "https://www.theglobeandmail.com/business/article-saab-build-globaleye-military-surveillance-plane-in-canada/",
+            "category": "Defence",
+            "date": "2025-11-18T15:34:13Z"
+        },
+        {
+            "title": "Deeptech to account for up to one-third of VC funding in India: Accel\u2019s Prashanth Prakash",
+            "summary": "Deeptech investments in India are projected to significantly grow, potentially accounting for one-third of total venture capital allocations within the next two to three years. Currently at 10-15%, this surge, as noted by Accel partner Prashanth Prakash, highlights India's escalating commitment to advanced technological sectors. This trend signals a robust future for indigenous innovation and economic development.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/deeptech-to-account-for-up-to-one-third-of-vc-funding-in-india-accels-prashanth-prakash/articleshow/125414843.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T15:21:43Z"
+        },
+        {
+            "title": "Michael Hal Weiner Takes Money Off The Table, Sells $599K In Genpact Stock",
+            "summary": "Michael Hal Weiner, Genpact's CFO, executed a substantial insider stock sell, disclosed via an SEC filing on November 17. This significant transaction reflects corporate financial activity and executive decision-making. Aspirants should track such market events to understand corporate governance and the broader economic landscape, providing insights into significant financial movements within major firms.",
+            "url": "https://biztoc.com/x/8d799761884549d7",
+            "category": "National",
+            "date": "2025-11-18T15:10:24Z"
+        },
+        {
+            "title": "International Air Chiefs Gather for the 12th DIACC in Dubai",
+            "summary": "This article, dated November 18, 2025, from Dubai, United Arab Emirates, announces an event or initiative operating under the patronage of His Highness Sheikh Mohammed bin Rashid Al Maktoum. However, the provided text is severely truncated, making it impossible to ascertain the specific details, purpose, or implications of the news for an SSB aspirant beyond its geographical origin and high-level patronage.",
+            "url": "https://financialpost.com/globe-newswire/international-air-chiefs-gather-for-the-12th-diacc-in-dubai",
+            "category": "International",
+            "date": "2025-11-18T14:33:27Z"
+        },
+        {
+            "title": "International Air Chiefs Gather for the 12th DIACC in Dubai",
+            "summary": "An event in Dubai, United Arab Emirates, on November 18, 2025, is held under the patronage of His Highness Sheikh Mohammed bin Rashid Al Maktoum. He is the UAE's Vice President, Prime Minister, and Ruler of Dubai. Though the specific details of the event are not provided, its high-level endorsement suggests significant international importance.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/18/3190165/0/en/International-Air-Chiefs-Gather-for-the-12th-DIACC-in-Dubai.html",
+            "category": "International",
+            "date": "2025-11-18T14:30:00Z"
+        },
+        {
+            "title": "Russia, Myanmar Complete Marumex 2025 Joint Naval Drills",
+            "summary": "Russia and Myanmar have successfully completed their joint military exercise, 'Marumex-2025'. This significant collaboration likely focused on enhancing naval interoperability and strategic cooperation between their armed forces. Such exercises are vital for strengthening bilateral defense ties, fostering regional security, and demonstrating military readiness among partner nations. Aspirants should note the growing strategic partnerships.",
+            "url": "https://sputnikglobe.com/20251118/russia-myanmar-complete-marumex-2025-joint-naval-drills-1123135159.html",
+            "category": "Defence",
+            "date": "2025-11-18T14:28:15Z"
+        },
+        {
+            "title": "WATCH: On-board video captures moment torpedo strikes ship",
+            "summary": "The US House is set to vote on a bill for the release of Epstein files, indicating ongoing legislative focus on the matter. Concurrently, President Trump plans to host the Saudi Crown Prince and Prime Minister, highlighting significant diplomatic engagements. Meanwhile, international relations are tense as strains rise between the United States and Venezuela, underscoring evolving global political dynamics.",
+            "url": "https://abcnews.go.com/International/video/board-video-captures-moment-torpedo-strikes-ship-127628419",
+            "category": "International",
+            "date": "2025-11-18T14:13:56Z"
+        },
+        {
+            "title": "Taiwan charges Chinese national and six others for spying",
+            "summary": "Taiwanese prosecutors have charged seven individuals, including a Chinese national, with violating national security. They are accused of collecting military secrets for China, highlighting ongoing intelligence activities and geopolitical tensions between Taiwan and mainland China. This incident underscores the persistent threat of espionage against national defence interests and the importance of robust counter-intelligence measures.",
+            "url": "https://www.channelnewsasia.com/east-asia/taiwan-china-spy-charge-court-military-secrets-5474951",
+            "category": "Defence",
+            "date": "2025-11-18T13:20:13Z"
+        },
+        {
+            "title": "Fantasy football Week 12 trade value chart and rest-of-season rankings",
+            "summary": "As the fantasy football regular season approaches its conclusion, players are primarily focused on improving their team rosters through strategic utilization of the waiver wire and player trades. The article highlights that evaluating these potential trades is a particularly complex and often daunting task, requiring careful consideration to optimize team performance during these critical final weeks.",
+            "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/11/18/fantasy-football-trade-value-chart-week-12-ros-rankings/87331650007/",
+            "category": "National",
+            "date": "2025-11-18T13:19:34Z"
+        },
+        {
+            "title": "Random Thoughts Week 12: Crazy Comebacks & Near Misses",
+            "summary": "In a significant collegiate sports upset, the Alabama Crimson Tide football team suffered a narrow 23-21 defeat against Oklahoma. The loss, described as 'lousy' by fans, generated considerable reaction in Bryant Denny Stadium, marking an unexpected turn in the season for a top university team. This highlights the unpredictable nature of competitive American sports.",
+            "url": "https://www.rollbamaroll.com/college-football-longform/76291/random-thoughts-week-12-crazy-comebacks-near-misses",
+            "category": "International",
+            "date": "2025-11-18T13:10:00Z"
+        },
+        {
+            "title": "Will Zelenskyy\u2019s trip to Turkey and talks with a US envoy restart efforts to end the war?",
+            "summary": "Ukrainian President Volodymyr Zelenskyy announced plans to visit Turkey this week to revive peace talks aimed at ending Russia's full-scale invasion. With the conflict nearing its fourth year, this diplomatic initiative seeks to find a resolution. Turkey has previously acted as a mediator, and Zelenskyy's visit underscores ongoing international efforts to de-escalate the protracted war and seek a diplomatic way forward.",
+            "url": "https://indianexpress.com/article/world/will-zelenskyys-trip-to-turkey-and-talks-with-a-us-envoy-restart-efforts-to-end-the-war-10372675/",
+            "category": "International",
+            "date": "2025-11-18T13:09:11Z"
+        },
+        {
+            "title": "Tyler Rogers could provide durability and deceptiveness to the Orioles bullpen",
+            "summary": "The Baltimore Orioles are reportedly exploring the acquisition of pitcher Tyler Rogers, a move that could see him join his brother, Trevor Rogers, who is already a prominent ace for the team. This potential transfer aims to strengthen the Orioles' roster and pitching depth, leveraging a unique family connection. The prospect of two brothers playing for the same major league team is generating considerable sports interest.",
+            "url": "https://www.camdenchat.com/baltimore-orioles-analysis/62723/tyler-rogers-could-provide-durability-and-deceptiveness-to-the-orioles-bullpen",
+            "category": "National",
+            "date": "2025-11-18T13:00:00Z"
+        },
+        {
+            "title": "PM Narendra Modi\u2019s new India watch has gone viral",
+            "summary": "Prime Minister Narendra Modi was seen wearing a watch designed by Jaipur Watch Company, founded by Gaurav Mehta. This highlights a 'homegrown' brand and signals support for Indian craftsmanship and manufacturing. Such endorsements by national leaders boost local businesses and promote the 'Make in India' initiative, inspiring aspirants to recognize the importance of indigenous industries in national development.",
+            "url": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/pm-narendra-modis-new-watch-becomes-the-most-talked-about-accessory-heres-how-much-it-costs/photostory/125411704.cms",
+            "category": "National",
+            "date": "2025-11-18T12:31:29Z"
+        },
+        {
+            "title": "Updated NFL Power Rankings: 1-32 poll, plus who's under the most pressure for each team",
+            "summary": "Week 11 of the 2025 NFL season has officially concluded. Notable results include the Dallas Cowboys' victory over the Las Vegas Raiders on \"Monday Night Football.\" The weekend featured numerous intensely competitive games, with several matchups extending into overtime to determine winners. This provides an update on the latest developments and thrilling contests from the American professional football league season.",
+            "url": "https://www.espn.com/nfl/story/_/id/46999579/nfl-week-12-power-rankings-poll-32-teams-2025-pressure-players-coaches-executives",
+            "category": "National",
+            "date": "2025-11-18T12:21:03Z"
+        },
+        {
             "title": "India Lithium Industry Trends and Outlook Report 2025-2034: $625+ Mn Market Accelerates with Domestic Production Led by Exide Industries, Tata Chemicals, NMDC, and Vardhaan Lithium",
-            "summary": "A new report, 'India Lithium Market Growth Analysis - Forecast Trends and Outlook (2025-2034)', offers crucial insights into India's rapidly developing lithium sector. This comprehensive study provides future projections for the market, which is vital for electric vehicles, electronics, and energy storage. It's key for understanding India's strategic resource development and economic trajectory over the next decade.",
+            "summary": "A new market research report, 'India Lithium Market Growth Analysis - Forecast Trends and Outlook (2025-2034)', has been released. It provides a detailed analysis of the projected growth and future trends within India's lithium market over the coming decade. Lithium is crucial for India's push towards electric vehicles and renewable energy storage, making this forecast vital for national energy security and economic planning.",
             "url": "https://www.globenewswire.com/news-release/2025/11/18/3189813/28124/en/India-Lithium-Industry-Trends-and-Outlook-Report-2025-2034-625-Mn-Market-Accelerates-with-Domestic-Production-Led-by-Exide-Industries-Tata-Chemicals-NMDC-and-Vardhaan-Lithium.html",
             "category": "National",
             "date": "2025-11-18T11:20:00Z"
         },
         {
             "title": "I reached out to Holly Rowe with a simple question: What has she learned about joy?",
-            "summary": "An article from The Athletic's 'Peak' desk, published in late October, explores leadership, personal development, and performance through sports, featuring Holly Rowe. Although the full content is missing, such themes are highly relevant for SSB aspirants. These insights can help develop crucial personal attributes, resilience, and leadership qualities essential for success in service selection and a career in defence.",
+            "summary": "This article, part of The Athletic's 'Peak' series, explores leadership, personal development, and high performance through the lens of sports. It introduces Holly Rowe, suggesting a focus on her insights or journey. For SSB aspirants, it likely offers inspiring lessons on discipline, resilience, and achieving peak potential, drawn from athletic experiences relevant to personal growth.",
             "url": "https://sports.yahoo.com/article/reached-holly-rowe-simple-she-111607394.html",
-            "category": "Defence",
+            "category": "National",
             "date": "2025-11-18T11:16:07Z"
         },
         {
             "title": "German word of the day: Eierkontrollgriff",
-            "summary": "Germany is revising its military service rules, with a specific tradition's return sparking debate among young men. This move signals a potential shift towards greater military readiness or a new form of national service, reflecting evolving defence policies in Europe. SSB aspirants should note such global trends in military recruitment and national security strategies.",
+            "summary": "Germany is reintroducing a revised version of its military service rules, a move already generating debate on social media. A specific returning tradition, involving young men in the country, is causing a stir. This development signals a significant shift in national defence policy, prompting public discussion about military obligations and their societal implications.",
             "url": "https://www.thelocal.de/20251118/german-word-of-the-day-eierkontrollgriff",
             "category": "Defence",
             "date": "2025-11-18T10:29:28Z"
         },
         {
+            "title": "US naval chief calls S.Korea nuclear sub for counter China 'natural expectation'; experts warn of regional tensions",
+            "summary": "The US Chief of Naval Operations recently remarked that South Korea's future nuclear-powered submarine is a 'natural expectation.' This statement suggests potential US endorsement or acknowledgement of Seoul's ambition to develop advanced naval capabilities. For SSB aspirants, this highlights significant geopolitical shifts and naval modernization trends in the Indo-Pacific, underscoring the strategic importance of maritime power projection and international defence cooperation.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/rok/2025/rok-251117-globaltimes01.htm",
+            "category": "Defence",
+            "date": "2025-11-18T10:05:50Z"
+        },
+        {
             "title": "South Korea to Launch an Indigenous Nuclear-Powered Submarine by the Mid to Late 2030s",
-            "summary": "South Korea's Ministry of National Defense reported significant progress in ROK-US nuclear fuel consultations to the Cabinet. These discussions are vital for enhancing bilateral cooperation and ensuring a stable nuclear fuel supply for South Korea. This strategic development between the two allies underscores their commitment to strengthening energy security and defense cooperation, contributing to regional stability and strategic resource management.",
+            "summary": "Republic of Korea's Ministry of National Defense reported significant progress in ROK-US nuclear fuel consultations at a Cabinet meeting. This development signifies advanced bilateral discussions on sensitive nuclear material, focusing on security and strategic cooperation. It lays groundwork for future agreements to enhance their alliance and deepen bilateral engagement, crucial for regional stability.",
             "url": "https://www.globalsecurity.org/wmd/library/news/rok/2025/rok-251117-rok-mnd09.htm",
             "category": "Defence",
             "date": "2025-11-18T10:05:37Z"
+        },
+        {
+            "title": "From swings and a crazy submarine to the screen: This Moncton filmmaker is reviving memories of Crystal Palace",
+            "summary": "The article reminisces about Crystal Palace, a beloved former amusement park in Dieppe, New Brunswick. Once a significant nostalgic landmark for a generation of Moncton residents and countless visitors, the popular complex has since closed. Its site is now occupied by a Bass Pro Shop, marking the end of a memorable local era.",
+            "url": "https://www.cbc.ca/news/canada/new-brunswick/moncton-filmmaker-crystal-palace-documentary-9.6981698",
+            "category": "National",
+            "date": "2025-11-18T10:00:00Z"
+        },
+        {
+            "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 18th November 2025",
+            "summary": "This section offers daily current affairs questions, drawing material from key publications like The Hindu, Indian Express, and PIB. These sources are vital for aspirants preparing for competitive examinations such as the UPSC Prelims, and serve as excellent general awareness builders for SSB interviews. An archive of past quizzes is also available, providing valuable resources for comprehensive study and revision.",
+            "url": "https://iasbaba.com/2025/11/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-18th-november-2025/",
+            "category": "National",
+            "date": "2025-11-18T09:32:28Z"
+        },
+        {
+            "title": "Navigating Change Through Conscious Design Education: Institutional Plan 2025\u20132028",
+            "summary": "Design Academy Eindhoven has published 'Navigating Change Through Conscious Design Education: Institutional Plan 2025\u20132028.' This significant document, a culmination of efforts by the academy's entire community\u2014students, alumni, and staff\u2014outlines its strategic vision for future design education. The plan likely addresses evolving challenges and opportunities in the field, guiding the institution's direction for the coming years.",
+            "url": "https://fontsinuse.com/uses/73228/navigating-change-through-conscious-design-ed",
+            "category": "International",
+            "date": "2025-11-18T09:31:26Z"
+        },
+        {
+            "title": "Who should be the Oshkosh, Fond du Lac area preseason girls basketball player of the year?",
+            "summary": "The high school girls basketball season is set to commence on Tuesday, November 18th, in the Oshkosh and Fond du Lac areas. The season kickoff generates anticipation, with several players expected to deliver strong performances. The local communities are looking forward to the regional competition, highlighting the commencement of sporting events and the talent among young athletes.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/basketball/2025/11/18/vote-for-the-best-oshkosh-and-fond-du-lac-area-girls-basketball-player/87145481007/",
+            "category": "National",
+            "date": "2025-11-18T09:01:56Z"
+        },
+        {
+            "title": "The Use of False Acoustic Signatures by Submarines: Perfidy or Ruse of War?",
+            "summary": "Pornomo Rovan Astri Yoga, an Indonesian officer, is pursuing a PhD in International Law at Australia's ANCORS, University of Wollongong. His research specifically addresses Ocean Resources and Security. This academic pursuit by a serving officer highlights the strategic importance of developing expertise in international maritime law, crucial for national defence, safeguarding sovereign interests, and contributing to regional stability in vital oceanic domains.",
+            "url": "http://opiniojuris.org/2025/11/18/the-use-of-false-acoustic-signatures-by-submarines-perfidy-or-ruse-of-war/",
+            "category": "Defence",
+            "date": "2025-11-18T09:00:48Z"
+        },
+        {
+            "title": "How a Dutch \u201cDementia Village\u201d Improves Quality of Life with Intentional Design",
+            "summary": "Dementia patients progressively lose the ability to actively engage in conversations, manage daily activities, and maintain personal upkeep. They often experience sudden mood swings and irritability, posing significant challenges for both patients and their families. Understanding these cognitive and behavioural changes is crucial for providing effective care and support, ensuring the well-being and dignity of those affected by this degenerative condition.",
+            "url": "https://www.openculture.com/2025/11/how-a-dutch-dementia-village-improves-quality-of-life.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T09:00:25Z"
+        },
+        {
+            "title": "Top U.S. admiral says he's watching China's rapid naval buildup closely",
+            "summary": "A top U.S. admiral praised China's impressive shipbuilding and rapid expansion, noting Beijing is building the world's largest navy. He emphasized the critical importance of America's cooperation with Asian allies to counter this growing maritime power. This highlights the escalating strategic competition and evolving geopolitical dynamics in the Indo-Pacific region, crucial for understanding global security challenges.",
+            "url": "https://japantoday.com/category/politics/top-us-admiral-says-he%27s-watching-china%27s-rapid-naval-buildup-closely",
+            "category": "Defence",
+            "date": "2025-11-18T07:39:47Z"
+        },
+        {
+            "title": "North Korea says Seoul-US sub deal will trigger 'nuclear domino' effect",
+            "summary": "North Korea has strongly condemned a recent agreement between South Korea and the United States to develop nuclear-powered submarines. Pyongyang views this deal as a dangerous step towards nuclear dominance, threatening regional stability and escalating an arms race in the Korean Peninsula. This highlights persistent geopolitical tensions and strategic competition in the region.",
+            "url": "https://www.hurriyetdailynews.com/north-korea-says-seoul-us-sub-deal-will-trigger-nuclear-domino-effect-215860",
+            "category": "International",
+            "date": "2025-11-18T07:16:22Z"
+        },
+        {
+            "title": "Boost to warfighting readiness as Britain's aircraft carrier fully 'mission ready' and committed to NATO for the first time",
+            "summary": "The UK Defence Secretary announced the Royal Navy's powerful aircraft carrier, HMS Prince of Wales, and its advanced fighter jets are now under NATO command. This significant development integrates a key British asset into the alliance's operational structure, bolstering NATO's collective defence capabilities and demonstrating the UK's commitment to international security and interoperability.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-251117-ukmod01.htm",
+            "category": "Defence",
+            "date": "2025-11-18T06:35:26Z"
         }
     ]
 }
