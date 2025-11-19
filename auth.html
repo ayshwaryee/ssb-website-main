@@ -159,7 +159,7 @@
 
             // TEMPORARY REDIRECT: Currently accepts anything. 
             // **Future:** This IF block must call a secure API endpoint to validate credentials.
-            if (email.length > 5 && password.length > 3) { // Very basic check
+            if (email.length > 5 && password.length > 7) { // Very basic check
                  window.location.href = 'dashboard.html';
             } else {
                  alert('Invalid email or password.');
