@@ -24,11 +24,10 @@
                 </a>
             </div>
 
-            <!-- Login Form -->
             <div id="loginForm" class="form-container">
                 <h2 class="text-2xl font-bold text-center text-gray-800">Welcome Back</h2>
                 <p class="text-center text-gray-600 mb-6">Login to continue your journey.</p>
-                <form class="space-y-4">
+                <form id="login-form" class="space-y-4"> 
                     <div>
                         <label for="login-email" class="text-sm font-medium text-gray-700">Email Address</label>
                         <input id="login-email" name="email" type="email" required class="w-full px-4 py-2 mt-1 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" placeholder="you@example.com">
@@ -49,11 +48,10 @@
                 </p>
             </div>
 
-            <!-- Signup Form -->
             <div id="signupForm" class="form-container hidden">
                 <h2 class="text-2xl font-bold text-center text-gray-800">Create Your Account</h2>
                 <p class="text-center text-gray-600 mb-6">Start your preparation today.</p>
-                <form class="space-y-4">
+                <form id="signup-form" class="space-y-4"> 
                     <div>
                         <label for="signup-name" class="text-sm font-medium text-gray-700">Full Name</label>
                         <input id="signup-name" name="name" type="text" required class="w-full px-4 py-2 mt-1 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" placeholder="Your Name">
@@ -89,6 +87,10 @@
         const showSignupBtn = document.getElementById('showSignup');
         const showLoginBtn = document.getElementById('showLogin');
 
+        // Get the form elements directly
+        const loginFormElement = document.getElementById('login-form');
+        const signupFormElement = document.getElementById('signup-form');
+
         // Function to toggle between forms with animation
         function toggleForms(showForm, hideForm) {
             hideForm.classList.add('opacity-0', 'transform', '-translate-y-4');
@@ -101,7 +103,7 @@
             }, 300); // This should match the transition duration
         }
 
-        // Event listeners
+        // Event listeners for switching forms
         showSignupBtn.addEventListener('click', (e) => {
             e.preventDefault();
             toggleForms(signupForm, loginForm);
@@ -112,15 +114,58 @@
             toggleForms(loginForm, signupForm);
         });
         
-        // Handle form submission
-        document.querySelectorAll('form').forEach(form => {
-            form.addEventListener('submit', (e) => {
-                e.preventDefault();
-                // On successful login/signup, redirect to the dashboard
-                window.location.href = 'dashboard.html';
-            });
+        // --- FINALIZED FORM SUBMISSION LOGIC ---
+
+        // 1. Handle SIGNUP Form Submission (Simulated Success with Validation)
+        signupFormElement.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            const name = document.getElementById('signup-name').value;
+            const email = document.getElementById('signup-email').value;
+            const password = document.getElementById('signup-password').value;
+
+            // CLIENT-SIDE VALIDATION CHECKS
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            if (!name.trim()) {
+                alert('Please enter your full name.');
+                return;
+            }
+
+            if (!emailRegex.test(email)) {
+                alert('Please enter a valid email address.');
+                return;
+            }
+
+            // Enforce a minimum password length of 8 characters
+            if (password.length < 8) {
+                alert('Please use a password of at least 8 characters for security.');
+                return;
+            }
+
+            // SUCCESS SIMULATION: In a real app, this is where you'd send data to a secure backend/API.
+            alert('Account successfully created! Please log in to continue your journey.');
+            
+            // Redirects to the Login form after successful "signup"
+            toggleForms(loginForm, signupForm); 
         });
 
+        // 2. Handle LOGIN Form Submission (Current implementation only allows a dummy login)
+        loginFormElement.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            const email = document.getElementById('login-email').value;
+            const password = document.getElementById('login-password').value;
+
+            // TEMPORARY REDIRECT: Currently accepts anything. 
+            // **Future:** This IF block must call a secure API endpoint to validate credentials.
+            if (email.length > 5 && password.length > 3) { // Very basic check
+                 window.location.href = 'dashboard.html';
+            } else {
+                 alert('Invalid email or password.');
+            }
+        });
+        
     </script>
 </body>
 </html>
