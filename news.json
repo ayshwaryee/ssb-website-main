@@ -1,89 +1,229 @@
 {
-    "last_updated": "2025-11-20T06:23:36.886226+00:00",
+    "last_updated": "2025-11-20T12:32:24.384565+00:00",
     "articles": [
         {
+            "title": "Air India lobbies to use airspace over China's Xinjiang as financial woes mount",
+            "summary": "Air India is lobbying the Indian government to secure permission from China for using a sensitive military airspace zone in Xinjiang. This move aims to significantly shorten flight routes. The airline faces substantial financial strain from current longer routes, likely due to international airspace restrictions impacting existing corridors. Accessing this strategic Chinese airspace would effectively reduce travel time and operational costs.",
+            "url": "https://www.livemint.com/companies/news/air-india-lobbies-to-use-airspace-over-chinas-xinjiang-as-financial-woes-mount-11763553590671.html",
+            "category": "Defence",
+            "date": "2025-11-19T12:23:02Z"
+        },
+        {
+            "title": "HAL-L&T build first industry-made PSLV rocket; Oceansat launch scheduled early next year",
+            "summary": "An indigenous consortium of Hindustan Aeronautics Limited (HAL) and Larsen & Toubro has successfully built the first PSLV rocket. This significant achievement marks a stride in India's self-reliance in space technology. The rocket is slated to launch the Oceansat satellite early next year, demonstrating advanced domestic manufacturing capabilities crucial for national scientific missions and strategic space assets.",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/hal-lt-build-first-industry-made-pslv-rocket-oceansat-launch-scheduled-early-next-year/articleshow/125436705.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T11:58:23Z"
+        },
+        {
+            "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 19th November 2025",
+            "summary": "This platform offers daily current affairs quizzes, compiling questions from crucial sources like The Hindu, Indian Express, and PIB. These resources are specifically highlighted as vital for UPSC Prelims Exam preparation, ensuring aspirants are well-versed in national and international developments essential for competitive examinations like the SSB.",
+            "url": "https://iasbaba.com/2025/11/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-19th-november-2025/",
+            "category": "National",
+            "date": "2025-11-19T10:08:37Z"
+        },
+        {
+            "title": "PH Navy ships engage in anti-sub warfare in WPS drill",
+            "summary": "Philippine Navy (PN) ships recently engaged in anti-submarine warfare (ASW) operations during a Maritime Multilateral Cooperative Activity. This initiative showcases the PN's commitment to bolstering its underwater defence capabilities and enhancing interoperability with international partners. Such exercises are vital for regional maritime security and preparing naval forces for complex threats, crucial insights for defence aspirants.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251118-pna03.htm",
+            "category": "Defence",
+            "date": "2025-11-19T10:01:56Z"
+        },
+        {
+            "title": "Russia, Myanmar Complete Marumex 2025 Joint Naval Drills",
+            "summary": "Russia and Myanmar's navies concluded the Marumex 2025 joint military drills in the Andaman Sea. This exercise signifies strengthening defence ties and Russia's increasing naval presence in the Indo-Pacific. For SSB aspirants, understanding such international joint operations is crucial for analysing regional power dynamics and maritime security challenges, particularly given India's strategic proximity.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/11/russia-251118-sputnik02.htm",
+            "category": "Defence",
+            "date": "2025-11-19T09:59:05Z"
+        },
+        {
+            "title": "Russian Navy and Myanmar Navy conduct MARUMEX 2025 exercise in waters of Andaman Sea",
+            "summary": "The practical phase of the MARUMEX 2025 Russian-Myanmar naval exercise has successfully concluded in the Andaman Sea. This joint drill involved both navies, enhancing interoperability and maritime security cooperation. For SSB aspirants, this highlights the growing strategic partnerships and joint exercises in the Indo-Pacific region, crucial for understanding regional security dynamics and naval diplomacy.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/11/russia-251118-russia-mod01.htm",
+            "category": "Defence",
+            "date": "2025-11-19T09:59:01Z"
+        },
+        {
+            "title": "The Eurasian century: hot wars, cold wars, and the making of the modern world",
+            "summary": "Michael Cox's forthcoming publication, 'The Eurasian Century: Hot Wars, Cold Wars, and the Making of the Modern World,' in 'International Affairs,' offers a critical analysis of global geopolitical dynamics. It explores historical and contemporary conflicts across Eurasia, providing vital insights into the region's evolving strategic importance. This academic work is crucial for SSB aspirants studying international relations and future defence strategy.",
+            "url": "https://eprints.lse.ac.uk/130256/",
+            "category": "International",
+            "date": "2025-11-19T09:42:02Z"
+        },
+        {
+            "title": "INDIAN NAVY UNVEILS CREST OF MAHE",
+            "summary": "The Indian Navy has unveiled the crest of Mahe, the lead ship of a new class of indigenously designed and built vessels. This initiative marks a significant step in bolstering India's self-reliance in defence manufacturing under the 'Make in India' vision. For SSB aspirants, this highlights India's growing indigenous capabilities in naval shipbuilding, enhancing maritime security and modernisation efforts.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251117-india-pib04.htm",
+            "category": "Defence",
+            "date": "2025-11-19T09:36:59Z"
+        },
+        {
+            "title": "At least nine killed, dozens injured in Russian attacks across Ukraine",
+            "summary": "Ukrainian President Zelenskyy reported at least nine killed and dozens wounded in overnight Russian drone and missile attacks across Ukraine. These assaults, involving drones and missiles, highlight the ongoing conflict's significant human cost and volatile security situation, underscoring the broader geopolitical implications of sustained aggression in the region.",
+            "url": "https://www.aljazeera.com/news/2025/11/19/children-among-the-36-wounded-in-russias-overnight-attacks-on-ukraine",
+            "category": "International",
+            "date": "2025-11-19T09:15:14Z"
+        },
+        {
+            "title": "Dyson Black Friday & Cyber Monday Deals: Beauty, Floor Cleaning and Air Purifier",
+            "summary": "Dyson is launching its extensive Black Friday and Cyber Monday sales in the UAE, effective from November 3 to December 7, 2025. This promotion covers a wide array of Dyson's technologically advanced products, including beauty appliances, floor care solutions like vacuum cleaners, and environmental care devices such as air purifiers, offering attractive deals for consumers in the Emirates.",
+            "url": "https://me.pcmag.com/en/appliances/33547/dyson-black-friday-cyber-monday-deals-beauty-floor-cleaning-and-air-purifier",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T09:05:37Z"
+        },
+        {
+            "title": "WIAA Division 5 state championship features undefeated teams, Mayville and Northwestern",
+            "summary": "The Mayville football team's seniors are returning to the state championship, seeking to avenge their freshman-year 22-14 loss to Aquinas. This highly anticipated rematch offers a significant opportunity for redemption and a chance to claim the championship title. Their journey highlights resilience and determination to overcome past setbacks on the big stage.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/football/2025/11/19/mayville-football-to-compete-for-wiaa-d4-title/87326226007/",
+            "category": "National",
+            "date": "2025-11-19T09:01:11Z"
+        },
+        {
             "title": "INDIA-UK JOINT MILITARY TRAINING EXERCISE 'AJEYA WARRIOR-25' COMMENCES IN RAJASTHAN",
-            "summary": "The eighth edition of the India-UK Joint Military Exercise \"AJEYA WARRIOR-25\" commenced on November 17, 2025. This bilateral drill is crucial for SSB aspirants to understand, as it focuses on enhancing interoperability, sharing best practices, and strengthening defence cooperation between the armed forces of India and the United Kingdom. Such exercises bolster strategic partnerships and regional security.",
+            "summary": "The eighth India-UK Joint Military Exercise, 'AJEYA WARRIOR-25', has commenced, strengthening bilateral defence cooperation. This exercise emphasizes joint tactical drills and interoperability between armed forces. For SSB aspirants, understanding such key strategic partnerships and India's commitment to regional security through joint military readiness is vital. It showcases enhanced mutual understanding in defence.",
             "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251117-india-pib02.htm",
             "category": "Defence",
             "date": "2025-11-19T05:55:58Z"
         },
         {
             "title": "CURTAIN RAISER OF CHANAKYA DEFENCE DIALOGUE 2025 HELD IN NEW DELHI",
-            "summary": "The Ministry of Defence announced that the Indian Army, in collaboration with the Centre for Land Warfare Studies (CLAWS), conducted an event. While specific details are truncated, this initiative likely focused on crucial aspects of land warfare, strategic analysis, or defence preparedness. Such collaborations are vital for enhancing the Army's intellectual capital and adapting to evolving security challenges, demonstrating a commitment to advanced defence thinking.",
+            "summary": "The Ministry of Defence announced on November 17, 2025, that the Indian Army, partnered with the Centre for Land Warfare Studies (CLAWS), conducted an event. While exact details of the activity remain truncated, this collaboration with a key defence think tank signifies ongoing strategic engagement and analytical efforts vital for enhancing India's defence capabilities.",
             "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251117-india-pib03.htm",
             "category": "Defence",
             "date": "2025-11-19T05:55:16Z"
         },
         {
             "title": "Russia says Ukraine fired US-made ATACMS missiles at Voronezh",
-            "summary": "Russia's defence ministry reported that Ukrainian forces launched four U.S.-made ATACMS missiles targeting the southern Russian city of Voronezh. Moscow claims this was an attempted strike on civilian infrastructure. This incident highlights the escalating use of advanced weaponry in the ongoing conflict, with Russia accusing Ukraine of targeting non-military sites using Western-supplied armaments, intensifying the war's scope.",
+            "summary": "Russia's defence ministry reported that Ukrainian forces fired four US-made ATACMS missiles at the southern Russian city of Voronezh on Wednesday. Moscow claimed these missiles were an attempted strike on civilian targets. This incident highlights the ongoing conflict dynamics and the reported use of advanced Western weaponry, offering insights into modern warfare and international relations for SSB aspirants.",
             "url": "https://economictimes.indiatimes.com/news/defence/russia-says-ukraine-fired-us-made-atacms-missiles-at-voronezh/articleshow/125428177.cms",
             "category": "Defence",
             "date": "2025-11-19T05:39:38Z"
         },
         {
             "title": "Global risk-off sentiment keeping Indian markets in sluggish mode: Dharmesh Kant",
-            "summary": "Indian markets are exhibiting cautious trading, driven by a global risk-off sentiment originating from corrections in US equities. This trend is impacting diverse assets, from cryptocurrencies like Bitcoin to traditional safe havens such as precious metals. Investors are closely monitoring these international economic uncertainties as they trickle down, influencing domestic market behaviour and investment decisions within India.",
+            "summary": "Indian markets are showing cautious trading amidst a global 'risk-off' sentiment. This trend, primarily stemming from corrections in US equities, is impacting various assets including Bitcoin and precious metals globally. Investors are closely monitoring these developments, signaling a period of uncertainty and careful financial decision-making that influences domestic market stability and outlook.",
             "url": "https://economictimes.indiatimes.com/markets/expert-view/global-risk-off-sentiment-keeping-indian-markets-in-sluggish-mode-dharmesh-kant/articleshow/125427233.cms",
             "category": "National",
             "date": "2025-11-19T04:48:47Z"
         },
         {
-            "title": "Air India lobbies to use airspace over China's Xinjiang as financial woes mount",
-            "summary": "Air India is lobbying the Indian government to secure permission from China to use a sensitive military airspace zone in Xinjiang. This move aims to significantly shorten flight routes and alleviate the substantial financial strain currently faced by the airline due to existing restrictions on Indian carriers. The effort underscores the commercial pressures and diplomatic engagement required to optimize international air travel amid geopolitical sensitivities.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-lobbies-to-use-airspace-over-chinas-xinjiang-as-financial-woes-mount/articleshow/125426787.cms",
-            "category": "International",
-            "date": "2025-11-19T04:22:21Z"
-        },
-        {
             "title": "The Asian century rolls on as Trump risks freezing America out",
-            "summary": "President Trump's efforts to revive American economic supremacy, reminiscent of the 20th century, risk isolating the U.S. from Asia, which is asserting its economic leadership in the 21st century. This strategy, focused on past dominance, could strain crucial trade relationships and potentially alienate America from vital global partners, signaling a shift in international power dynamics and economic focus.",
+            "summary": "President Donald Trump's economic agenda, aimed at restoring America's past economic supremacy, risks isolating the United States from Asia. As Asia increasingly asserts its economic dominance in the 21st century, Trump's focus on rekindling historical leadership could inadvertently alienate the U.S. from vital contemporary trade relationships and emerging global economic power centers.",
             "url": "https://economictimes.indiatimes.com/news/international/global-trends/the-asian-century-rolls-on-as-trump-risks-freezing-america-out/articleshow/125424820.cms",
             "category": "International",
             "date": "2025-11-19T02:12:36Z"
         },
         {
             "title": "Vietnamese Food Restaurants Your Pho Cravings Deserve",
-            "summary": "The text describes the common experience of watching a TikTok video of someone enjoying a hot bowl of pho with fresh herbs and spring rolls, triggering an immediate craving. This highlights how social media powerfully influences culinary desires, exposing viewers to diverse international cuisines. It demonstrates the pervasive impact of digital trends on personal preferences and food choices, shaping consumer interests.",
+            "summary": "The article describes the common experience of craving Vietnamese pho and crispy spring rolls after watching engaging food content on TikTok. It highlights how social media platforms can powerfully influence immediate desires for specific cuisines, showcasing the significant impact of digital trends on consumer preferences and lifestyle choices.",
             "url": "https://www.dumblittleman.com/vietnamese-food-restaurants/",
-            "category": "International",
+            "category": "Sci & Tech",
             "date": "2025-11-19T01:48:11Z"
         },
         {
             "title": "Raksha Rajya Mantri chairs Industry Roundtable on Day-2 of his Dubai visit",
-            "summary": "India's Ministry of Defence is actively encouraging global and Indian firms to explore joint ventures and collaborative opportunities within the country. This initiative aims to foster partnerships, leverage emerging prospects, and bolster India's defence industrial ecosystem. It signifies a strategic push to enhance indigenous capabilities and manufacturing through synergistic efforts with both international and national players in the defence sector.",
+            "summary": "The Ministry of Defence is actively encouraging global and Indian firms to explore joint ventures and collaborative opportunities within India. This initiative aims to bolster indigenous defence manufacturing, foster technological advancements, and enhance self-reliance in the defence sector. It signifies India's commitment to creating a vibrant ecosystem for defence production and innovation, offering promising avenues for both domestic and international partners.",
             "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251118-india-pib02.htm",
             "category": "Defence",
             "date": "2025-11-19T01:34:51Z"
         },
         {
-            "title": "Stock Market Highlights 19 Nov 2025: Stock markets rebound on buying in IT counter; Sensex jumps over 513 points, NIfty 50 climbed 142.60 points to 26,052.65",
-            "summary": "The Indian Rupee concluded trading with a slight gain, appreciating by 2 paise against the US dollar to settle at 88.58. This movement in the foreign exchange market is a key economic indicator, reflecting India's financial health and trade dynamics. For SSB aspirants, tracking such national economic performance is vital for understanding India's stability and global economic position.",
-            "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-highlights-19-november-2025/article70294642.ece",
-            "category": "National",
-            "date": "2025-11-19T01:02:48Z"
-        },
-        {
             "title": "Taste the season\u2014Europe's best Christmas market foods and where to eat them",
-            "summary": "This National Geographic Traveller (UK) article highlights the annual emergence of numerous 'pop-up wonderlands' across the continent at the start of Advent. These festive attractions, likely seasonal markets or cultural events, offer unique experiences. The piece presumably details various international destinations and their unique celebrations, focusing on tourism and cultural exploration during the winter holiday period.",
+            "summary": "This article from National Geographic Traveller (UK) details the vibrant festive season across the European continent. It highlights how, with the start of Advent, numerous 'pop-up wonderlands' emerge. These seasonal attractions likely refer to popular Christmas markets and winter festivals, offering diverse cultural experiences and festive cheer to visitors throughout Europe.",
             "url": "https://www.nationalgeographic.com/travel/article/europes-best-christmas-market-treats-and-where-to-eat-them",
             "category": "International",
             "date": "2025-11-19T00:00:00Z"
         },
         {
             "title": "Reduced plasma levels of Copine 5 correlate with sepsis-induced vascular leakage and mortality in human patients and a murine sepsis model",
-            "summary": "This research utilizes single-nucleus expression profiling to analyze Copine family genes within human aorta endothelial cells (ECs). ECs line blood vessels and serve as primary responders to pathogens. Investigating these genes' expression patterns in ECs can provide vital insights into vascular health, immune responses, and disease mechanisms, contributing to advanced biomedical understanding.",
+            "summary": "This scientific research profiles Copine family gene expression in human aorta endothelial cells (ECs) via single-nucleus technology. ECs, lining blood vessels, are crucial first responders to pathogens. Understanding their genetic activity offers insights into vascular health and immune responses. Such biological studies are vital for advancing medical science, potentially informing treatments for cardiovascular diseases or immune dysfunctions.",
             "url": "https://ccforum.biomedcentral.com/articles/10.1186/s13054-025-05711-1",
             "category": "Sci & Tech",
             "date": "2025-11-19T00:00:00Z"
         },
         {
-            "title": "Tumour-reactive heterotypic CD8 T cell clusters from clinical samples",
-            "summary": "Human cancer cell lines from the Peeper lab were meticulously prepared for *in vitro* experiments. Identity was confirmed via short-tandem-repeat profiling, and they tested negative for mycoplasma. This rigorous quality control ensures the reliability and integrity of these cellular models, forming a foundational step for robust scientific research into cancer mechanisms and potential therapeutic advancements.",
-            "url": "https://www.nature.com/articles/s41586-025-09754-w",
+            "title": "Analyzing Yankees' payroll situation for 2026 MLB season after Trent Grisham accepted qualifying offer",
+            "summary": "The New York Yankees returned to the World Series in 2024 after a 15-year hiatus, marking a significant achievement. However, their subsequent season ended in disappointment when they were decisively ousted by the Blue Jays in the ALDS a year later. This premature exit concluded what had initially been a promising comeback for the team.",
+            "url": "https://sny.tv/articles/analyzing-yankees-payroll-situation-2026-season-trent-grisham",
+            "category": "National",
+            "date": "2025-11-18T23:35:17Z"
+        },
+        {
+            "title": "Fantasy Football Week 12 Trade Chart: Player values & Rest of Season Rankings adds context to fresh RB values",
+            "summary": "The CBS Sports Fantasy Football Trade Chart, originally established fifteen seasons ago to assist users in making equitable player trades within their fantasy leagues, is set for a major expansion in 2025. This updated iteration will likely offer enhanced analytical capabilities and tools, empowering fantasy football enthusiasts to optimize their team strategies and execute more informed trading decisions in the competitive landscape of fantasy sports.",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-trade-chart-player-values/",
             "category": "Sci & Tech",
-            "date": "2025-11-19T00:00:00Z"
+            "date": "2025-11-18T22:53:22Z"
+        },
+        {
+            "title": "$2.99: Grunt: The Curious Science of Humans at War (eBook) by Mary Roach",
+            "summary": "A new book by author Mary Roach, published by W. W. Norton & Company, is scheduled for release on April 25, 2025. While the provided text is truncated, Mary Roach is renowned for her engaging non-fiction work, often exploring scientific, historical, and human-interest topics, making this an anticipated title in popular science literature.",
+            "url": "https://slickdeals.net/f/18828415-2-99-grunt-the-curious-science-of-humans-at-war-ebook-by-mary-roach",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T22:08:57Z"
+        },
+        {
+            "title": "Missing birthdays, no contact with loved ones: Sacrifices made in the secret lives of Singapore's submariners",
+            "summary": "Kee Jie En, near Singapore, experienced considerable anxiety during his first submarine dive. The enclosed confines of the vessel, coupled with the roaring waves echoing throughout, made the deep descent particularly challenging for him. This personal account highlights the initial sensory and psychological impact of a submarine's operational environment, crucial for understanding naval service.",
+            "url": "https://www.channelnewsasia.com/singapore/navy-submarine-rss-invincible-secretive-mindef-family-friends-father-son-sweden-training-5471826",
+            "category": "Defence",
+            "date": "2025-11-18T22:00:00Z"
+        },
+        {
+            "title": "Trent Grisham accepts qualifying offer from Yankees",
+            "summary": "Trent Grisham, a player who received a qualifying offer from the Yankees, has decided to accept it before the Tuesday afternoon deadline. This decision means Grisham will not enter free agency this winter, securing his position with the Yankees. The deadline marked a critical point for players to either commit to their current teams or explore opportunities in the free agency market.",
+            "url": "https://www.pinstripealley.com/yankees-news/170672/yankees-news-offseason-trent-grisham-qualifying-offer-free-agent-outfielder",
+            "category": "National",
+            "date": "2025-11-18T21:37:16Z"
+        },
+        {
+            "title": "Los Angeles Influence Reports: Texas News Outlet Texan Artisinal Launches National Investigative Review of Wyndham Hotels & Resorts Following LuxUrban Collapse",
+            "summary": "Texan Artisinal, a Texas-based investigative news outlet, has reportedly initiated an expanded national review into matters of public interest. This significant journalistic endeavor, highlighted by Los Angeles Influence, indicates a broader scrutiny of national public affairs or institutions. While specific details are forthcoming, it signifies a commitment to accountability through in-depth investigative reporting across the nation.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/18/3190512/0/en/Los-Angeles-Influence-Reports-Texas-News-Outlet-Texan-Artisinal-Launches-National-Investigative-Review-of-Wyndham-Hotels-Resorts-Following-LuxUrban-Collapse.html",
+            "category": "National",
+            "date": "2025-11-18T21:30:00Z"
+        },
+        {
+            "title": "FOTO VOLT EKO ENERGIA S.A.: Istotna umowa",
+            "summary": "Polish firm Foto Volt Eko Energia S.A. announced signing a contract with Cimr Piotr Rotec Polska for a 98 kWp photovoltaic installation. This agreement represents a step forward in renewable energy infrastructure development within Poland, highlighting the growing focus on sustainable power solutions and energy self-sufficiency, crucial for national economic and environmental strategies.",
+            "url": "https://www.bankier.pl/wiadomosc/FOTO-VOLT-EKO-ENERGIA-S-A-Istotna-umowa-9041728.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T19:52:00Z"
+        },
+        {
+            "title": "Australia weapons programs exposed in defence industry cyber attacks",
+            "summary": "Recent cyberattacks targeting Australia's defence industry supply chain contractors have highlighted significant vulnerabilities in its weapons programs. Security analysts warn these incidents expose critical threats, underscoring the increasing importance of robust cybersecurity measures within defence ecosystems. For SSB aspirants, this emphasizes the growing relevance of cyber warfare capabilities and secure supply chains in modern defence strategies globally.",
+            "url": "https://www.abc.net.au/news/2025-11-19/defence-cyber-attacks-adf-military-projects-redback-hackers/105999222",
+            "category": "Defence",
+            "date": "2025-11-18T18:46:52Z"
+        },
+        {
+            "title": "Is it finally Xavier Restrepo week?",
+            "summary": "Xavier Restrepo, an undrafted free agent signed by the Tennessee Titans in April, has garnered significant fan anticipation on social media. After persistent demand from supporters, he is finally expected to receive his opportunity to play this week. This highlights the journey of perseverance for unproven talent within national-level sports leagues, emphasizing player development and fan impact in professional sports.",
+            "url": "https://www.musiccitymiracles.com/tennessee-titans-roster/62648/is-it-finally-xavier-restrepo-week",
+            "category": "National",
+            "date": "2025-11-18T18:22:58Z"
+        },
+        {
+            "title": "Mark Norman: Canada needs submarines now, but shouldn\u2019t fall prey to the weaponization of economic benefits and scheduling",
+            "summary": "The provided article text is incomplete, presenting only the initial lines about concerns regarding a program's public domain perception. Without the full content detailing the program's nature, its actions, or the specific reasons for discomfort, a comprehensive summary suitable for SSB aspirants cannot be accurately generated. Essential information for context and classification is missing.",
+            "url": "https://financialpost.com/news/mark-norman-canada-needs-submarines-now",
+            "category": "National",
+            "date": "2025-11-18T17:40:10Z"
+        },
+        {
+            "title": "Using the Night",
+            "summary": "Thomas Pynchon's ninth novel, 'Shadow Ticket,' is slated for publication by Penguin Press in 2025. The book features Hicks McTaggart, a Milwaukee private eye, navigating a stylized environment. This initial excerpt introduces a representative scene, hinting at the author's distinctive literary style and setting a local American context for the upcoming work.",
+            "url": "https://www.nplusonemag.com/online-only/book-review/using-the-night/",
+            "category": "National",
+            "date": "2025-11-18T17:06:23Z"
+        },
+        {
+            "title": "Karnataka\u2019s spacetech policy to offer Rs 1 crore for testing support",
+            "summary": "Karnataka announced its Space Technology Policy 2025-30 at the Bengaluru Tech Summit, aiming to establish Space Manufacturing Parks through public-private partnerships. This policy focuses on fostering innovation, attracting investment, and creating jobs within the burgeoning space sector. The initiative positions Karnataka as a key hub for space technology development, contributing significantly to India's growing capabilities in space manufacturing and research.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/karnatakas-spacetech-policy-to-offer-rs-1-crore-for-testing-support/articleshow/125416438.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-18T17:04:42Z"
         }
     ]
 }
