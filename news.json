@@ -1,215 +1,166 @@
 {
-    "last_updated": "2025-11-20T18:23:27.457269+00:00",
+    "last_updated": "2025-11-21T01:12:06.152659+00:00",
     "articles": [
         {
+            "title": "Six storylines to watch at the 2025 South Dakota state volleyball tournament",
+            "summary": "The South Dakota state high school volleyball tournament is scheduled to begin this Thursday at Summit Arena in Rapid City. This event gathers top teams and athletes under one roof, promising an exciting competition. Attendees can anticipate numerous compelling storylines and intense matches, highlighting local talent and drawing considerable community interest in the state-level championship.",
+            "url": "https://www.mitchellrepublic.com/sports/prep/six-storylines-to-watch-at-the-2025-south-dakota-state-volleyball-tournament",
+            "category": "National",
+            "date": "2025-11-20T00:47:00Z"
+        },
+        {
+            "title": "Stocks in news: Groww, Infosys, Adani Power, Sammaan Capital, HAL",
+            "summary": "Indian markets saw the Nifty index surge past 26,000 on Wednesday, recovering from prior weakness. This upturn was largely fueled by robust performance from key IT sector players like Infosys. Understanding such economic trends is vital for an SSB aspirant to grasp national financial health and its implications for overall development.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-groww-infosys-adani-power-sammaan-capital-hal/articleshow/125441839.cms",
+            "category": "National",
+            "date": "2025-11-20T00:41:00Z"
+        },
+        {
+            "title": "L&T eyes $1 billion defence milestone as conglomerates power ahead",
+            "summary": "Larsen & Toubro (L&T) projects its defence business revenue will reach $1 billion this fiscal year, significantly boosted by the government's aggressive localization push. This milestone validates the 'Make in India' initiative, strengthening indigenous defence manufacturing. For SSB aspirants, it highlights robust private sector involvement, creating opportunities and bolstering national self-reliance in critical defence production.",
+            "url": "https://www.livemint.com/companies/news/lt-larsen-toubro-eyes-1-billion-defence-milestone-as-conglomerates-power-ahead-11763541508622.html",
+            "category": "Defence",
+            "date": "2025-11-20T00:15:11Z"
+        },
+        {
+            "title": "How serious is the Russian spy ship move?",
+            "summary": "Russia's Yantar, officially an oceanic research vessel, is regarded by the UK and allies as a spy ship, raising significant concerns for Britain's defence chiefs. It is suspected of secretly mapping critical undersea infrastructure, posing a potential threat to maritime security and communication networks. This highlights ongoing geopolitical intelligence gathering and strategic competition in international waters.",
+            "url": "https://www.bbc.com/news/articles/c4gpgj6d4e6o",
+            "category": "Defence",
+            "date": "2025-11-19T22:42:44Z"
+        },
+        {
+            "title": "Yankees predicted to make blockbuster trade for $426 million three-time MVP to replace Cody Bellinger",
+            "summary": "Reports indicate the New York Yankees are predicted to make a significant trade, targeting a $426 million three-time MVP player to replace Cody Bellinger. This potential blockbuster move, widely speculated in sports circles, underscores a major strategic personnel decision for the prominent American baseball franchise, aiming to enhance their team's performance with a high-value acquisition.",
+            "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/yankees-predicted-make-blockbuster-trade-426-million-three-time-mvp-replace-cody-bellinger/fdeeed7404526ac5bb699afd",
+            "category": "National",
+            "date": "2025-11-19T22:33:20Z"
+        },
+        {
+            "title": "Gravity. Explaining the technologies used to build the Egyptian pyramids!",
+            "summary": "Engineer Yevgen Ivashura is set to deliver a comprehensive explanation regarding the fundamental nature of gravity. His presentation will explore the true meaning of this force and elaborate on the significant technological advancements that are anticipated to emerge from a deeper understanding. The discussion aims to highlight how comprehending gravity can unlock profound innovations and future scientific possibilities.",
+            "url": "https://community.wolfram.com/groups/-/m/t/3578294",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T21:38:22Z"
+        },
+        {
+            "title": "Anchorage\u2013Mezo partnership opens institutional access to BTC-backed loans",
+            "summary": "Mezo, a Bitcoin-native DeFi platform, has partnered with Anchorage Digital to provide institutional clients with low-cost stablecoin loans and short-term veBTC rewards. This collaboration leverages BTC-backed borrowing and yield mechanisms within the decentralized finance space, expanding financial product offerings for institutions interested in the cryptocurrency ecosystem. The initiative aims to enhance liquidity and access to crypto-backed lending.",
+            "url": "https://cointelegraph.com/news/anchorage-mezo-partnership-opens-institutional-access-to-low-cost-btc-backed-loans",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T21:18:04Z"
+        },
+        {
+            "title": "SARP West 2025 Land Group",
+            "summary": "This article introduces lichens, highlighting their unique symbiotic relationship. These composite organisms are a mutualistic partnership between fungi and algae or cyanobacteria, crucial for survival in diverse habitats. For SSB aspirants, understanding such biological concepts enhances general knowledge and analytical skills, vital for competitive assessments.",
+            "url": "https://www.nasa.gov/science-research/earth-science/sarp-west-2025-land-group/",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T21:13:15Z"
+        },
+        {
+            "title": "3I/ATLAS NASA image from HiRISE camera disappoint you? ISRO also shares interstellar comet's striking picture, observations",
+            "summary": "NASA's HiRISE camera on the Mars Reconnaissance Orbiter captured a new image of 3I/ATLAS, a celestial object. This release sparked significant public discussion, notably raising the question of whether the image was disappointing. The query, 'Did the 3I/ATLAS NASA image disappoint you?' gained traction, highlighting public engagement and expectations regarding space observation data from Mars orbit.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/3i/atlas-nasa-image-from-hirise-camera-disappoint-you-isro-also-shares-interstellar-comets-striking-picture-observations-mars-reconnaissance-orbiter-perihelion-observations-prl-1-2-m-telescope-at-mount-abu/articleshow/125447543.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T21:11:13Z"
+        },
+        {
+            "title": "Can South Korea Afford the Many Costs of Nuclear-Powered Submarines?",
+            "summary": "Former US President Trump approved South Korea's request to build nuclear-powered submarines. This significant move enhances South Korea's naval capabilities amidst regional tensions, particularly with North Korea. Such approvals impact strategic balance, global non-proliferation efforts, and allied relations, making it a crucial development for Indo-Pacific security dynamics and international geopolitics.",
+            "url": "http://foreignpolicy.com/2025/11/19/trump-nuclear-submarines-south-korea/",
+            "category": "International",
+            "date": "2025-11-19T20:50:47Z"
+        },
+        {
+            "title": "65+ Smart Stocking Stuffers Under $25 That Prove Great Things Come in Small Packages",
+            "summary": "This article discusses selecting 'best gifts,' challenging conventional ideas about present choices. It likely offers various product recommendations or gift ideas, accompanied by a disclosure regarding potential affiliate commissions earned from purchases made through its links. Further details on specific gift categories or themes are not provided in this snippet.",
+            "url": "https://variety.com/2024/shopping/news/best-stocking-stuffers-1235117579/",
+            "category": "National",
+            "date": "2025-11-19T20:16:50Z"
+        },
+        {
+            "title": "Fantasy Football Snap Share Report: There are some concerning red flags for Travis Etienne Jr., even off 2-TD game",
+            "summary": "This report initiates an in-depth analysis of 'snap share data' across various sports teams. It aims to pinpoint players experiencing significant fluctuations in playing time or overall usage. By highlighting notable spikes or dips, the analysis offers key insights into individual player performance trends and their evolving roles within their respective teams.",
+            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-snap-share-report-there-are-some-concerning-red-flags-for-travis-etienne-jr-even-off-2-td-game-194810307.html",
+            "category": "National",
+            "date": "2025-11-19T19:48:10Z"
+        },
+        {
+            "title": "Michigan iGaming, Sports Betting Soar During Record-Setting October",
+            "summary": "Michigan's sports betting sector achieved $73.8 million in gross receipts in October, marking a substantial 123.6% year-over-year increase. This growth in a US state highlights the rapid expansion of the digital gambling and entertainment industry. It reflects evolving consumer trends and the significant economic impact of regulated online betting platforms in advanced economies.",
+            "url": "https://www.covers.com/industry/michigan-igaming-and-sports-betting-soar-during-record-setting-october-nov-19-2025",
+            "category": "International",
+            "date": "2025-11-19T19:32:00Z"
+        },
+        {
+            "title": "Randy Jones, Padres Pitcher and Cy Young Winner Who Became the Heart of San Diego Baseball, Dies at 75",
+            "summary": "Randy Jones, the legendary San Diego Padres pitcher, has died at 75. Known for his crafty left arm and everyman charm, he was one of the franchise's earliest and most beloved stars. His passing marks the end of an era for Padres fans and the wider baseball community, remembering a true icon of the sport who left an indelible mark on baseball history.",
+            "url": "https://people.com/randy-jones-baseball-legend-padres-pitcher-dead-11852909",
+            "category": "National",
+            "date": "2025-11-19T19:16:14Z"
+        },
+        {
+            "title": "LG Kavinder approves Key Defence, BRO & PDD Projects with strict Eco-Compliance mandate",
+            "summary": "Ladakh's Lieutenant Governor emphasized the critical need for robust solid and liquid waste management systems in the strategically sensitive region. This initiative aims to enhance environmental sustainability and public health, crucial aspects for a high-altitude territory facing unique challenges. Improving infrastructure and ecological balance in Ladakh is vital for national well-being and security, impacting local populations and military presence alike.",
+            "url": "https://statetimes.in/lg-kavinder-approves-key-defence-bro-pdd-projects-with-strict-eco-compliance-mandate/",
+            "category": "National",
+            "date": "2025-11-19T19:06:20Z"
+        },
+        {
+            "title": "Can fluoride in water affect kids' brains? Here's what research tells us",
+            "summary": "Early 2000s studies in China and India highlighted communities with naturally high fluoride levels in their water. This research, noted by Loc Do, likely explored the significant health challenges, such as fluorosis, posed by excessive fluoride consumption. These findings are crucial for public health understanding and environmental policy, impacting affected populations.",
+            "url": "https://www.abc.net.au/news/science/2025-11-20/is-fluoride-really-a-toxin-we-examine-the-evidence/105966548",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T19:00:00Z"
+        },
+        {
+            "title": "Cypherpunks Hall of Fame",
+            "summary": "This article praises 'cypherpunks' as heroes who pioneered cryptographic tools, establishing internet privacy and digital security. Their efforts demonstrated cryptography as a silent, powerful declaration for protecting online communications and data. For an SSB aspirant, recognizing these foundational technological advancements is crucial for understanding modern cyber warfare, national security, and the imperative for robust digital resilience in an increasingly connected world.",
+            "url": "https://github.com/cypherpunkshall/cypherpunkshall.github.io",
+            "category": "Sci & Tech",
+            "date": "2025-11-19T18:27:36Z"
+        },
+        {
             "title": "China masterminded Rafale disinfo campaign: US report",
-            "summary": "China initiated an extensive disinformation campaign to discredit India's Rafale fighter jets. This elaborate effort leveraged fake news, dubious social media handles, and AI-generated images, specifically targeting the advanced aircraft after India began utilizing them. The campaign highlights a concerning trend of information warfare aimed at undermining defence capabilities and international procurement decisions.",
+            "summary": "China launched an extensive disinformation campaign against India's Rafale fighter jets. This elaborate operation employed fake news, dubious social media accounts, and AI-generated images to discredit the advanced aircraft, specifically after India's deployment. The campaign underscores China's persistent information warfare tactics aimed at undermining India's defence capabilities and creates a need for vigilance against foreign influence operations targeting critical military assets.",
             "url": "https://economictimes.indiatimes.com/news/defence/china-masterminded-rafale-disinfo-campaign-us-report/articleshow/125444802.cms",
             "category": "Defence",
             "date": "2025-11-19T18:21:25Z"
         },
         {
             "title": "Delhi blast case: Trouble mounts for Al Falah University Chairman Siddiqui as ED steps in",
-            "summary": "The Enforcement Directorate (ED) is reportedly preparing to share its investigation findings concerning Al Falah group chairman Jawad Siddiqui with Delhi Police. This move is expected to prompt the Delhi Police to register a fresh First Information Report (FIR) against Siddiqui, indicating escalating legal trouble for the chairman. The developments are unfolding in New Delhi.",
+            "summary": "The Enforcement Directorate (ED) is reportedly preparing to share its investigation findings regarding Al Falah group chairman Jawad Siddiqui with Delhi Police. This move is expected to prompt the police to register a fresh First Information Report (FIR) against Siddiqui, indicating escalating legal troubles. The ED's action suggests significant evidence has been uncovered, potentially leading to new charges in a case originating from New Delhi.",
             "url": "https://economictimes.indiatimes.com/news/india/delhi-blast-case-trouble-mounts-for-al-falah-university-chairman-siddiqui-as-ed-steps-in/articleshow/125444790.cms",
             "category": "National",
             "date": "2025-11-19T18:21:09Z"
         },
         {
             "title": "Noise-Induced Hearing Loss Enhances Ca2+-Dependent Electrical Activity in Lateral Cochlear Efferents",
-            "summary": "Loud and prolonged noise exposure significantly damages the cochlea, the inner ear structure, subsequently triggering adverse changes in the brain's processing. This leads to profound hearing loss and a diminished capacity for speech comprehension. The precise mechanisms or further long-term effects of such noise exposure beyond these initial findings remain subjects of ongoing scientific investigation.",
+            "summary": "Exposure to loud or prolonged noise critically damages the cochlea and triggers subsequent brain changes, leading to hearing loss and altered speech comprehension. This scientific understanding highlights the significant impact of noise on auditory health and cognitive functions. For SSB aspirants, this underscores the importance of ear protection and awareness in potentially noisy operational environments, even as further research clarifies specific long-term neurological effects.",
             "url": "https://www.jneurosci.org/content/45/47/e0850252025",
             "category": "Sci & Tech",
             "date": "2025-11-19T17:30:30Z"
         },
         {
             "title": "Fisch boats guide",
-            "summary": "This Roblox game encourages players to experiment with various 'Fisch boats' and vehicles, like 'Santa's Jetski,' emphasizing that personal preference for specific in-game items contributes more to enjoyment than simply choosing top-tier options. The core fun derives from players discovering what works best for their individual playstyle, promoting a free-spirited approach to gameplay within the virtual environment.",
+            "summary": "This article describes a Roblox game centered on players discovering and enjoying various 'Fisch boats' and unique vehicles, such as 'Santa's Jetski'. The game emphasizes personal preference and experimental fun over strictly choosing top-tier options. It encourages players to get 'wild' and find what truly works for their individual enjoyment within the virtual world.",
             "url": "https://www.pockettactics.com/fisch-boats",
             "category": "Sci & Tech",
             "date": "2025-11-19T17:22:16Z"
         },
         {
-            "title": "Can You Keep a Secret? BBC Previews Dawn French, Mandip Gill Comedy",
-            "summary": "The BBC has previewed its new sitcom, 'Can You Keep a Secret?', starring Dawn French and Mandip Gill. This upcoming series aims to tackle a unique blend of significant human experiences and everyday realities. It will explore themes of love, death, and surprisingly, insurance, promising a distinctive narrative approach for viewers to engage with through its premise.",
-            "url": "https://bleedingcool.com/tv/can-you-keep-a-secret-bbc-previews-dawn-french-mandip-gill-comedy/",
+            "title": "Stocks Supported by Strength in Megacap Tech and Chip Stocks",
+            "summary": "Major US stock indices displayed mixed performance today. The S&P 500 Index recorded a gain of 0.38%, while the Nasdaq 100 Index saw a notable rise of 0.74%. In contrast, the Dow Jones Industrials Index experienced a slight decline of 0.22%. This indicates varied investor activity across different market segments, reflecting a complex market sentiment.",
+            "url": "https://www.barchart.com/story/news/36210333/stock-supported-by-strength-in-megacap-tech-and-chip-stocks",
             "category": "National",
-            "date": "2025-11-19T17:07:03Z"
+            "date": "2025-11-19T16:16:36Z"
         },
         {
-            "title": "Astronaut Group Captains pitch for India's global leadership in space at International Space Conclave",
-            "summary": "Indian astronaut designates Group Captains P B Nair and Angad Pratap advocate for India to play a defining role in global space governance. They stressed India's need to shape future space norms, leveraging its advanced capabilities and strategic initiatives like Gaganyaan. This highlights India's rising influence and proactive approach in a critical domain, aligning with national security and technological ambitions.",
-            "url": "https://economictimes.indiatimes.com/news/science/astronaut-group-captains-designate-pitch-for-indias-global-leadership-in-space-at-international-space-conclave/articleshow/125442231.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T16:46:37Z"
-        },
-        {
-            "title": "Yankees fan loses his mind in wild WFAN call after Trent Grisham\u2019s crucial decision",
-            "summary": "Trent Grisham's return to the Yankees has ignited significant fan discontent, ranging from upset to outright outrage among supporters. This strong negative reaction was notably highlighted when a fan called into WFAN on Tuesday evening, articulating numerous grievances concerning the player's comeback to the team.",
-            "url": "https://nypost.com/2025/11/19/sports/furious-yankees-fan-goes-on-radio-rant-after-trent-grisham-return/",
+            "title": "For conservative media, New York City Mayor-elect Zohran Mamdani quickly becomes attack target",
+            "summary": "New York City Mayor-elect Zohran Mamdani swiftly became an attack target for conservative media following his election, as reported by The Associated Press on November 18, 2025. This immediate scrutiny highlights the politically charged environment and intense media attention new public figures face, signaling potential challenges for the incoming mayor-elect even before assuming office.",
+            "url": "https://freerepublic.com/focus/f-news/4353357/posts",
             "category": "National",
-            "date": "2025-11-19T16:38:46Z"
-        },
-        {
-            "title": "SABR Historian Puts GuardiansGate Into Historical Perspective Vs. Black Sox, Rose",
-            "summary": "Sports gambling scandals have been a recurrent issue in the United States, affecting virtually every sport and league. Organizations have consistently grappled with rooting out and overcoming various forms of corruption, highlighting a persistent struggle to maintain integrity across American professional sports, an ongoing challenge for domestic sports governance.",
-            "url": "https://www.ingame.com/sabr-clase-rose-black-sox/",
-            "category": "National",
-            "date": "2025-11-19T15:25:28Z"
-        },
-        {
-            "title": "The legendary Slappie",
-            "summary": "In the 1850s, thousands of immigrants from the Bohemia region of Czechoslovakia settled in Cedar Rapids, Iowa. These new arrivals predominantly established communities in neighborhoods southeast of the downtown area, contributing significantly to the city's demographic and cultural development. This historical migration exemplifies the diverse origins shaping American society.",
-            "url": "https://www.royalsreview.com/general/90159/the-legendary-slappie",
-            "category": "National",
-            "date": "2025-11-19T15:00:00Z"
-        },
-        {
-            "title": "Torngat Metals rare earth project poses radiation risks, says activist",
-            "summary": "Canada's accelerating pursuit of rare earth elements (REEs) is raising environmental concerns. A Nova Scotia activist warns of significant ecological risks associated with rare earth mining, particularly when deposits are located near sensitive areas. This highlights the growing global dilemma of balancing resource extraction for critical technologies with environmental protection, a crucial consideration for national development and strategic autonomy.",
-            "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/strange-lake-environmental-risk-9.6982718",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T14:40:12Z"
-        },
-        {
-            "title": "Dynamic patterns of gene expression match extracellular signals through push-pull regulation",
-            "summary": "A study by Montano-Gutierrez et al. (2025) unveils how dynamic patterns of gene expression precisely match extracellular signals. The research, published in PLoS Genetics, highlights a 'push-pull regulation' mechanism, explaining how cells finely tune their genetic activity in response to environmental cues. This fundamental discovery enhances our understanding of cellular communication and biological regulation, vital for various life processes.",
-            "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011943",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T14:00:00Z"
-        },
-        {
-            "title": "ISRO successfully tests boot-strap mode start on CE20 cryogenic engine",
-            "summary": "ISRO successfully demonstrated the boot-strap mode start test of its CE20 Cryogenic engine, which powers the upper stage of launch vehicles. This significant milestone showcases India's indigenous capabilities in advanced cryogenic engine technology. The successful test enhances the reliability and operational efficiency of future space missions, reinforcing ISRO's prowess in global space exploration.",
-            "url": "https://economictimes.indiatimes.com/news/science/isro-successfully-tests-boot-strap-mode-start-on-ce20-cryogenic-engine/articleshow/125439399.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T13:53:06Z"
-        },
-        {
-            "title": "How Trump could still keep Epstein files secret, despite House and Senate votes",
-            "summary": "Reports suggest former President Trump might still possess legal avenues to keep Jeffrey Epstein's files confidential, despite legislative votes by the House and Senate for their release. This situation involves potential executive actions or legal strategies to bypass congressional mandates, highlighting the ongoing complexities surrounding the high-profile case and the push for transparency in national politics.",
-            "url": "https://freerepublic.com/focus/f-news/4353358/posts",
-            "category": "National",
-            "date": "2025-11-19T13:51:04Z"
-        },
-        {
-            "title": "India\u2019s first commercial PSLV rocket set to launch Oceansat satellite early next year",
-            "summary": "India's first commercially built PSLV rocket, developed by a consortium including L&T and Hindustan Aeronautics Ltd, is set to launch the Oceansat satellite early next year. This marks a crucial step in commercializing India's space launch sector, with private industry playing a lead role in producing rockets for ISRO missions, bolstering national capabilities and self-reliance in space technology.",
-            "url": "https://www.thehindubusinessline.com/news/science/indias-first-commercial-pslv-rocket-set-to-launch-oceansat-satellite-early-next-year/article70299274.ece",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T13:41:35Z"
-        },
-        {
-            "title": "Senator Scott Wiener\u2019s Legislation Protects Sex Offenders Who Have Homosexual Sex with Minors",
-            "summary": "A report from California Globe alleges that Senator Scott Wiener's legislation in California offers protections for sex offenders involved in homosexual acts with minors. The article, dated November 18, 2025, from Katy Grimes, highlights a highly controversial aspect of proposed lawmaking. This claim has generated significant public debate regarding legal protections and child safety.",
-            "url": "https://freerepublic.com/focus/f-news/4353356/posts",
-            "category": "National",
-            "date": "2025-11-19T13:39:46Z"
-        },
-        {
-            "title": "Eli Lilly wants to be part of making a big dent in obesity and diabetes, says co's India head Winselow Tucker",
-            "summary": "A comprehensive strategy aims to significantly impact the health challenges posed by obesity and type 2 diabetes. This approach involves developing high-quality products, fostering strategic partnerships within the healthcare ecosystem, and prioritizing patient education. By integrating these key elements, the initiative seeks to effectively manage and reduce the prevalence of these widespread conditions, ultimately contributing to improved public health outcomes through innovative solutions and collaborative efforts.",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/eli-lilly-wants-to-be-part-of-making-a-big-dent-in-obesity-and-diabetes-says-cos-india-head-winselow-tucker/articleshow/125438892.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T13:35:42Z"
-        },
-        {
-            "title": "Indian Army secures intellectual property rights for new coat combat (digital print)",
-            "summary": "The Indian Army has secured Intellectual Property Rights (IPR) for its new \"Coat Combat (Digital Print),\" a three-layered garment integrating advanced combat functionality with enhanced comfort and protection for soldiers. This indigenous development underscores the Army's commitment to modernizing soldier gear and promoting self-reliance in defence technology, ensuring better operational effectiveness and security for personnel.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-secures-intellectual-property-rights-for-new-coat-combat-digital-print/articleshow/125438961.cms",
-            "category": "Defence",
-            "date": "2025-11-19T13:29:34Z"
-        },
-        {
-            "title": "HAL, Hensoldt ink deal for helicopter obstacle-avoidance tech",
-            "summary": "An EMI calculator is a vital financial tool enabling individuals, including aspiring defense personnel, to determine the exact monthly installment for various loans like home, car, or personal. Understanding EMIs is crucial for effective personal financial planning and managing budgets responsibly. This tool ensures aspirants are well-prepared for future financial commitments, promoting sound financial literacy essential for life in the services.",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/hal-hensoldt-ink-deal-for-helicopter-obstacle-avoidance-tech/articleshow/125438446.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T13:14:12Z"
-        },
-        {
-            "title": "Kirby Air Riders Reviews Are Mostly Happy With The Pink Blob\u2019s Racing Return",
-            "summary": "Nintendo GameCube's 2003 racing title, Kirby Air Ride, developed by HAL Laboratory and led by Super Smash Bros. creator Masahiro Sakurai, has significantly grown in players' esteem retrospectively. Initially launched with moderate success, the game has since garnered a stronger, more positive reception in people's memories, far exceeding its original popularity and becoming a cherished classic for many.",
-            "url": "https://kotaku.com/kirby-air-riders-reviews-nintendo-switch-2-2000645412",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T13:00:48Z"
-        },
-        {
-            "title": "NBA Power Rankings: Who provides the most stealth help for all 30 teams?",
-            "summary": "The 2025-26 NBA regular season has commenced, marked by a varied start featuring early All-Star performances alongside disappointing team beginnings. Prominently, star player Nikola Jokic is reportedly continuing his historic run, highlighting the season's dynamic nature. The league anticipates an interesting season ahead, with numerous storylines expected to unfold as teams navigate their performances.",
-            "url": "https://www.espn.com/nba/story/_/id/47013116/nba-power-rankings-all-30-teams-rank-important-bench-role-player",
-            "category": "National",
-            "date": "2025-11-19T12:36:24Z"
-        },
-        {
-            "title": "At least nine killed, dozens injured in Russian attacks across Ukraine",
-            "summary": "Ukrainian President Zelenskyy reported at least nine people killed and dozens wounded in widespread Russian drone and missile attacks across Ukraine overnight. These ongoing military assaults underscore the severe human cost and persistent conflict in the region, emphasizing the volatile international security landscape and the critical importance of defence awareness for aspiring officers.",
-            "url": "https://www.aljazeera.com/news/2025/11/19/children-among-the-36-wounded-in-russias-overnight-attacks-on-ukraine",
-            "category": "Defence",
-            "date": "2025-11-19T09:15:14Z"
-        },
-        {
-            "title": "Dyson Black Friday & Cyber Monday Deals: Beauty, Floor Cleaning and Air Purifier",
-            "summary": "Dyson is launching Black Friday and Cyber Monday sales in the UAE, running from November 3 to December 7, 2025. The promotions cover its range of beauty, floor care, and environmental care products. This initiative aims to boost sales during the festive shopping season, offering deals on popular consumer electronics to customers in the region, reflecting consumer market trends.",
-            "url": "https://me.pcmag.com/en/appliances/33547/dyson-black-friday-cyber-monday-deals-beauty-floor-cleaning-and-air-purifier",
-            "category": "Sci & Tech",
-            "date": "2025-11-19T09:05:37Z"
-        },
-        {
-            "title": "WIAA Division 5 state championship features undefeated teams, Mayville and Northwestern",
-            "summary": "The Mayville football team's seniors are poised for a significant state championship rematch against Aquinas. After suffering a 22-14 defeat to Aquinas as freshmen, this determined group now has a critical opportunity for redemption. This narrative emphasizes perseverance and the pursuit of a second chance, reflecting the resilience and leadership qualities vital for SSB aspirants facing challenges.",
-            "url": "https://www.thenorthwestern.com/story/sports/high-school/football/2025/11/19/mayville-football-to-compete-for-wiaa-d4-title/87326226007/",
-            "category": "National",
-            "date": "2025-11-19T09:01:11Z"
-        },
-        {
-            "title": "Romania scrambles jets over fresh drone incursion",
-            "summary": "NATO member Romania, bordering Ukraine, scrambled fighter jets after a fresh drone incursion into its territory. This incident, part of repeated violations, highlights the significant security challenges faced by frontline NATO states due to the ongoing conflict in Ukraine. It underscores the continuous need for airspace vigilance and defence readiness in the region, a critical aspect for national security.",
-            "url": "https://www.euractiv.com/news/romania-scrambles-jets-over-fresh-drone-incursion/",
-            "category": "Defence",
-            "date": "2025-11-19T09:00:11Z"
-        },
-        {
-            "title": "Romania scrambles fighter jets after drone incursion",
-            "summary": "Romania, a NATO member, scrambled fighter jets after a drone breached its airspace during a Russian attack on Ukrainian infrastructure near their shared border. The Romanian defence ministry confirmed the incident, highlighting ongoing tensions and potential spillover risks from the conflict, particularly for countries bordering the war zone. This event underscores the vigilance required by NATO allies.",
-            "url": "https://www.rte.ie/news/world/2025/1119/1544712-romania-drones/",
-            "category": "International",
-            "date": "2025-11-19T07:40:58Z"
-        },
-        {
-            "title": "Air India lobbies to use airspace over China's Xinjiang as financial woes mount",
-            "summary": "Air India is urging the Indian government to negotiate with China for access to sensitive military airspace in Xinjiang. This initiative aims to shorten flight routes and alleviate significant financial losses faced by Indian carriers due to existing airspace restrictions, likely impacting routes over Pakistan. The situation underscores the economic and strategic importance of international airspace access and the role of diplomatic efforts.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-lobbies-to-use-airspace-over-chinas-xinjiang-as-financial-woes-mount/article70297776.ece",
-            "category": "International",
-            "date": "2025-11-19T06:23:36Z"
-        },
-        {
-            "title": "INDIA-UK JOINT MILITARY TRAINING EXERCISE 'AJEYA WARRIOR-25' COMMENCES IN RAJASTHAN",
-            "summary": "The eighth edition of the India-UK Joint Military Exercise \"AJEYA WARRIOR-25\" commenced today, underscoring robust bilateral defence cooperation. This annual exercise is vital for enhancing interoperability, sharing best practices, and strengthening strategic ties between the armed forces of both nations. For SSB aspirants, such joint drills highlight the importance of international military partnerships and collective security efforts.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251117-india-pib02.htm",
-            "category": "Defence",
-            "date": "2025-11-19T05:55:58Z"
-        },
-        {
-            "title": "CURTAIN RAISER OF CHANAKYA DEFENCE DIALOGUE 2025 HELD IN NEW DELHI",
-            "summary": "The Ministry of Defence reported the Indian Army, in collaboration with the Centre for Land Warfare Studies (CLAWS), conducted an event. This partnership highlights crucial synergy between India's armed forces and strategic think tanks. While specific details of the initiative are not provided, such joint efforts are vital for enhancing military doctrine, fostering innovative defence strategies, and strengthening operational preparedness among officers.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251117-india-pib03.htm",
-            "category": "Defence",
-            "date": "2025-11-19T05:55:16Z"
-        },
-        {
-            "title": "Global risk-off sentiment keeping Indian markets in sluggish mode: Dharmesh Kant",
-            "summary": "Indian markets are cautiously trading due to a global 'risk-off' sentiment, originating from corrections in US equities. This trend is impacting assets like Bitcoin and precious metals internationally. Understanding such interconnected global financial movements is crucial for comprehending broader international economic stability and India's position within it, vital for SSB aspirants.",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/global-risk-off-sentiment-keeping-indian-markets-in-sluggish-mode-dharmesh-kant/articleshow/125427233.cms",
-            "category": "International",
-            "date": "2025-11-19T04:48:47Z"
-        },
-        {
-            "title": "Air India lobbies to use airspace over China's Xinjiang as financial woes mount",
-            "summary": "Air India is urging the Indian government to negotiate with China for permission to use a sensitive military airspace zone in Xinjiang. This aims to significantly shorten flight routes and reduce the substantial financial burden on the airline. Current restrictions necessitate longer, costlier paths, impacting Air India's operational efficiency.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-lobbies-to-use-airspace-over-chinas-xinjiang-as-financial-woes-mount/articleshow/125426787.cms",
-            "category": "Defence",
-            "date": "2025-11-19T04:22:21Z"
+            "date": "2025-11-19T13:42:14Z"
         }
     ]
 }
