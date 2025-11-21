@@ -1,166 +1,327 @@
 {
-    "last_updated": "2025-11-21T12:30:54.301363+00:00",
+    "last_updated": "2025-11-21T18:21:50.387371+00:00",
     "articles": [
         {
+            "title": "DAVE THE DIVER now available for Xbox Series and Xbox One; physical edition announced for PS5 and Switch 2",
+            "summary": "MINTROCKET has announced the release of its single-player adventure RPG, DAVE THE DIVER, for Xbox Series via the Microsoft Store. The popular title, previously available on other platforms, is now also accessible for PC users through the Microsoft Store. This expansion makes the acclaimed game more widely available to a broader audience of players.",
+            "url": "https://www.gematsu.com/2025/11/dave-the-diver-now-available-for-xbox-series-and-xbox-one-physical-edition-announced-for-ps5-and-switch-2",
+            "category": "Sci & Tech",
+            "date": "2025-11-20T18:05:37Z"
+        },
+        {
+            "title": "Lanterns Release Date Window Delayed for DCU HBO TV Show",
+            "summary": "The upcoming HBO Original drama series \"Lanterns,\" based on DC Comics characters and produced by DC Studios, has reportedly faced a delay in its release date. This update was confirmed by Casey Bloys, Chairman and CEO of HBO and HBO Max Content, during a recent press presentation. The news signifies a shift in the production timeline for this anticipated streaming project, important for entertainment enthusiasts.",
+            "url": "https://www.superherohype.com/tv/640178-lanterns-release-date-delayed-new-premiere-window-dcu-show",
+            "category": "International",
+            "date": "2025-11-20T18:03:21Z"
+        },
+        {
+            "title": "Lanterns\u2019 Schedule Push Might Be Good News For Fans of Cosmic DC",
+            "summary": "The upcoming series 'Lanterns', based on the cosmic Green Lantern concept, is generating early buzz. Creator James Gunn's announcement surprisingly indicated a terrestrial focus for the show. Despite the franchise's inherent celestial scope, this narrative direction emphasizes a more grounded approach, contrasting with typical cosmic adventures and becoming a key discussion point for the anticipated DC series.",
+            "url": "http://www.denofgeek.com/tv/lanterns-schedule-push-good-news-fans-cosmic-dc/",
+            "category": "Sci & Tech",
+            "date": "2025-11-20T18:00:00Z"
+        },
+        {
+            "title": "Plans for Birmingham City's 62,000-seater stadium revealed",
+            "summary": "Birmingham City Football Club has unveiled plans for a new 62,000-capacity stadium in the West Midlands, aiming for completion by the 2030/2031 season. This significant infrastructure project will enhance local sporting facilities and potentially boost regional development. While primarily a sports development, it reflects national investment in large-scale public and private ventures.",
+            "url": "https://www.bbc.com/news/articles/cly9y030r37o",
+            "category": "National",
+            "date": "2025-11-20T17:43:04Z"
+        },
+        {
+            "title": "Brady, Bellingham hail Birmingham's new stadium",
+            "summary": "Birmingham City Football Club has unveiled ambitious plans for a new 62,000-seat stadium. This significant development aims to propel the second-division club and its home city towards a \"trajectory of greatness.\" The project represents a major step in their long-term strategy, promising substantial sporting and economic uplift for both the team and the Birmingham region, marking a new era.",
+            "url": "https://www.espn.com/soccer/story/_/id/47037045/tom-brady-jude-bellingham-birmingham-city-new-stadium-unveiling",
+            "category": "International",
+            "date": "2025-11-20T17:42:06Z"
+        },
+        {
+            "title": "The DCU\u2019s Next Big Project Just Got a Major Delay (Is It in Trouble?)",
+            "summary": "DC Studios is accelerating its production slate following the successes of \"Superman\" and \"Peacemaker Season 2.\" The studio plans multiple new DC Universe projects for both film and television next year. This expansion signifies DC's commitment to significantly growing its cinematic and TV presence, offering a robust pipeline of content for its global audience.",
+            "url": "http://comicbook.com/tv-shows/news/the-dcus-next-big-project-just-got-a-major-delay-is-it-in-trouble/",
+            "category": "International",
+            "date": "2025-11-20T17:27:14Z"
+        },
+        {
+            "title": "LANTERNS HBO Max Series Officially Delayed; Update On THE PENGUIN Season 2",
+            "summary": "A significant delay has impacted the 'Lanterns' project, though it's less severe than initial rumors suggested. This development could affect national planning or resource allocation. While specifics are undisclosed, such delays often prompt scrutiny regarding project management and strategic implications, crucial areas for future officers to understand.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-hbo-max-series-officially-delayed-update-on-the-penguin-season-2-a225010",
+            "category": "National",
+            "date": "2025-11-20T17:14:00Z"
+        },
+        {
+            "title": "Azerbaijan Bets Big on China to Power Its Green Energy Corridor",
+            "summary": "Poland has accused Russian intelligence of unspecified activities, signaling heightened geopolitical tensions and potential foreign interference. For SSB aspirants, this underscores the critical importance of understanding international relations, national security challenges, and intelligence operations in safeguarding a nation's sovereignty and strategic interests amidst evolving global dynamics.",
+            "url": "https://oilprice.com/Energy/Energy-General/Azerbaijan-Bets-Big-on-China-to-Power-Its-Green-Energy-Corridor.html",
+            "category": "Defence",
+            "date": "2025-11-20T17:00:00Z"
+        },
+        {
+            "title": "Birmingham City unveils plan for new stadium that Tom Brady says will be 'a blast'",
+            "summary": "Birmingham City, an English second-division football club, unveiled ambitious plans to build a 62,000-seat stadium. This significant project aims to propel both the club and the city of Birmingham towards greater prominence. The multi-million-pound development is expected to redefine the club's future and boost regional growth, marking a new chapter for the team.",
+            "url": "https://sports.yahoo.com/article/birmingham-city-unveils-plan-stadium-165525234.html",
+            "category": "International",
+            "date": "2025-11-20T16:55:25Z"
+        },
+        {
+            "title": "Russian video shows soldiers walking freely through ruins of Ukraine's Pokrovsk",
+            "summary": "Russia's defence ministry released video on Thursday, depicting its soldiers freely patrolling the southern Ukrainian city of Pokrovsk. The footage shows Russian forces moving through deserted streets, indicating their operational presence and potential control in that specific area. This development provides an update on the evolving ground realities and territorial control amidst the ongoing conflict in Ukraine, offering aspirants insights into contemporary geopolitical dynamics and military strategies.",
+            "url": "https://www.thestar.com.my/news/world/2025/11/21/russian-video-shows-soldiers-walking-freely-through-ruins-of-ukraine039s-pokrovsk",
+            "category": "Defence",
+            "date": "2025-11-20T16:47:00Z"
+        },
+        {
+            "title": "US approves sale of Javelin anti-tank missiles & Excalibur munitions to India",
+            "summary": "The US has approved the sale of advanced Javelin anti-tank missiles and Excalibur precision-guided munitions to India. This significant acquisition will bolster India's defence capabilities, particularly strengthening its armoured forces and artillery with modern, effective weaponry. The deal further underscores the deepening strategic partnership between India and the US, reflecting a commitment to modernizing India's military and enhancing regional security.",
+            "url": "https://timesofindia.indiatimes.com/india/us-approves-sale-of-javelin-anti-tank-missiles-excalibur-munitions-to-india/articleshow/125467406.cms",
+            "category": "Defence",
+            "date": "2025-11-20T16:40:33Z"
+        },
+        {
+            "title": "Lanterns: Green Lantern Series Eyeing Late Summer 2026 HBO Debut",
+            "summary": "Casey Bloys, Chairman/CEO of HBO & HBO Max Content, announced the new series 'Lanterns', starring Aaron Pierre and Kyle Chandler, will premiere late Summer 2026. This major production is slated for release on HBO and Max platforms, highlighting an important upcoming addition to the streaming giant's entertainment lineup for the coming years.",
+            "url": "https://bleedingcool.com/tv/lanterns-green-lantern-series-eyeing-late-summer-2026-hbo-debut/",
+            "category": "National",
+            "date": "2025-11-20T16:37:04Z"
+        },
+        {
+            "title": "China Defends Venezuela, Demanding U.S. Replace Anti-Drug Efforts with 'Normal' Policing",
+            "summary": "The Chinese Foreign Ministry strongly condemned the United States for its \"interference of external forces\" in Venezuela's internal affairs during a recent press briefing. Beijing emphasized its firm stance against any nation meddling in the sovereign matters of others, particularly highlighting concerns over US actions impacting political stability in Latin America. This reflects China's broader foreign policy principle of non-intervention.",
+            "url": "https://www.breitbart.com/asia/2025/11/20/china-defends-venezuela-demanding-u-s-replace-anti-drug-efforts-with-normal-policing/",
+            "category": "International",
+            "date": "2025-11-20T16:36:11Z"
+        },
+        {
+            "title": "DC Studios\u2019 \u2018Lanterns\u2019 Pushed to End of Summer 2026 at HBO",
+            "summary": "DC Studios' highly anticipated series 'Lanterns' is tentatively scheduled for an end-of-summer 2026 debut on HBO and HBO Max. CEO Casey Bloys announced this during a recent slate presentation in New York City, confirming the project is moving forward. Further details, including an official premiere date for the show based on the popular Green Lantern comics, will be disclosed later.",
+            "url": "https://www.thewrap.com/lanterns-hbo-premiere-summer-2026/",
+            "category": "National",
+            "date": "2025-11-20T16:11:53Z"
+        },
+        {
+            "title": "India needs to adopt next-gen technologies for human spaceflight missions: Shubanshu Shukla",
+            "summary": "Group Captain Shubhanshu Shukla, India's second astronaut, stressed the urgent need for India to rapidly adopt next-generation technologies for space missions. He cited examples like touch-screen spacecraft controls and advanced life-support systems as crucial for future space exploration. His statement underscores the importance of technological preparedness to ensure India's continued success and leadership in the global space arena.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/india-needs-to-adopt-next-gen-technologies-for-human-spaceflight-missions-shubanshu-shukla/articleshow/125466119.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-20T15:20:13Z"
+        },
+        {
+            "title": "Australia's naval nuclear propulsion: AUKUS update to IAEA Board of Governors, November 2025",
+            "summary": "Australia, the United Kingdom, and the United States (AUKUS) have acknowledged the Director General's latest report on Australia's naval nuclear propulsion program. This highlights ongoing international cooperation concerning Australia's acquisition of nuclear-powered submarines, a key element of the AUKUS defence pact, addressing transparency and non-proliferation aspects.",
+            "url": "https://www.gov.uk/government/speeches/australias-naval-nuclear-propulsion-aukus-update-to-iaea-board-of-governors-november-2025",
+            "category": "Defence",
+            "date": "2025-11-20T15:11:50Z"
+        },
+        {
+            "title": "Missiles and militias: Maduro fortifies Caracas\u2019 coastal access as US military looms",
+            "summary": "Venezuelan leader Nicol\u00e1s Maduro has unveiled a comprehensive defense plan aimed at fortifying the strategic corridor between Caracas and the coastal state of La Guaira. This initiative seeks to bolster national security and protect a vital access route within Venezuela, reflecting a focus on internal preparedness and potentially addressing perceived external challenges or domestic stability concerns, crucial for aspirants to understand geopolitical strategies.",
+            "url": "https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article312993653.html",
+            "category": "International",
+            "date": "2025-11-20T15:07:18Z"
+        },
+        {
+            "title": "Birch Allergy Market Growth Outlook: CAGR of 9.8% and Value Reaching USD 2.60 Billion by 2032",
+            "summary": "The global birch allergy market is projected for significant growth, from an estimated USD 1.35 billion in 2025 to USD 2.60 billion by 2032. This substantial expansion underscores the increasing worldwide demand for solutions tackling birch pollen allergies. The rising valuation reflects a growing focus on effective diagnosis, treatment, and management of this prevalent seasonal condition.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/20/3192110/0/en/Birch-Allergy-Market-Growth-Outlook-CAGR-of-9-8-and-Value-Reaching-USD-2-60-Billion-by-2032.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-20T15:07:00Z"
+        },
+        {
+            "title": "IN PICTURES: Bundeswehr soldiers storm a Berlin U-bahn station",
+            "summary": "German army soldiers conducted a training exercise within Berlin's metro system, simulating urban operational challenges. The drill involved entering a subway station, navigating underground tunnels, and reaching a passenger train. This exercise enhances the soldiers' readiness for complex subterranean environments, crucial for scenarios like urban warfare or counter-terrorism, and demonstrates their adaptability to non-traditional combat zones.",
+            "url": "https://www.thelocal.de/20251120/in-pictures-bundeswehr-soldiers-storm-a-berlin-u-bahn-station",
+            "category": "Defence",
+            "date": "2025-11-20T14:57:50Z"
+        },
+        {
+            "title": "Travis Kelce & Jason Kelce \u2018Dominates\u2019 Giants\u2019 Cam Skattebo on Podcast",
+            "summary": "Travis and Jason Kelce, on their popular podcast, playfully teased Cam Skattebo, offering humorous critiques of the New York Giants' perspective on earning strategies. The brothers shared a lighthearted moment, sparking laughter and showcasing their characteristic banter. This interaction highlighted their entertaining dynamic and comedic approach to sports commentary.",
+            "url": "https://www.mandatory.com/news/1690401-travis-kelce-jason-kelce-cam-skattebo-podcast",
+            "category": "National",
+            "date": "2025-11-20T14:13:02Z"
+        },
+        {
+            "title": "San Diego County police agencies access many private license plate readers with minimal oversight",
+            "summary": "At Las Americas Premium Outlets, discreet black cameras are installed near entrances, continuously recording license plates, makes, and models of all vehicles entering the parking lot. This system enables detailed tracking of cars visiting the mall, raising questions about data collection and privacy in public commercial spaces, showcasing the increasing use of surveillance technology.",
+            "url": "https://www.kpbs.org/news/public-safety/2025/11/20/san-diego-county-police-agencies-access-many-private-license-plate-readers-with-minimal-oversight",
+            "category": "Sci & Tech",
+            "date": "2025-11-20T14:00:00Z"
+        },
+        {
+            "title": "India hosts 7th CSC NSA meeting, strengthens regional security ties",
+            "summary": "India hosted the 7th National Security Adviser (NSA)-level meeting of the Colombo Security Conclave (CSC) in New Delhi. Key security officials from member and observer nations participated. Discussions focused on enhancing regional security cooperation across maritime security, counter-terrorism, cybersecurity, and humanitarian assistance/disaster relief. This strengthens strategic partnerships to effectively address common challenges in the Indian Ocean region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-hosts-7th-csc-nsa-meeting-strengthens-regional-security-ties/articleshow/125464915.cms",
+            "category": "International",
+            "date": "2025-11-20T13:59:37Z"
+        },
+        {
+            "title": "The rise of the \u2018performative male:\u2019 How young men are experimenting with masculinity online",
+            "summary": "The article delves into the phenomenon of 'performative masculinity,' examining how young men increasingly use online platforms to experiment with and express various forms of male identity. It highlights digital spaces where these expressions unfold, shedding light on evolving societal norms and the impact of internet culture on shaping masculinity among youth.",
+            "url": "https://freerepublic.com/focus/f-chat/4353561/posts",
+            "category": "International",
+            "date": "2025-11-20T13:28:56Z"
+        },
+        {
+            "title": "LG Elecronics stock gaining strength, as analysts remain bullish",
+            "summary": "Shares of LG Electronics India Ltd (LGEIL) are rising despite a recent dip in net profit. Analysts are bullish on the stock, anticipating future growth in revenues and profit margins. This market trend underscores the complex interplay of current financial performance and investor confidence based on future projections, offering insight into national economic dynamics relevant for an SSB aspirant's general awareness.",
+            "url": "https://www.thehindubusinessline.com/markets/lg-elecronics-stock-gaining-strength-as-analysts-remain-bullish/article70303396.ece",
+            "category": "National",
+            "date": "2025-11-20T13:25:26Z"
+        },
+        {
+            "title": "Boeing\u2019s MQ-28A Ghost Bat Will Fire AIM-120 AMRAAM in December",
+            "summary": "Boeing Defence Australia is slated to conduct a live-fire test next month, launching an air-to-air missile from its MQ-28A Ghost Bat Collaborative Combat Aircraft (CCA). This significant test underscores the evolving capabilities of unmanned platforms to deploy advanced weaponry, enhancing future air combat strategies and integrated defence operations. Such developments are crucial for modernising air forces and maintaining technological superiority.",
+            "url": "https://theaviationist.com/2025/11/20/mq-28a-to-fire-aim-120-in-december/",
+            "category": "Defence",
+            "date": "2025-11-20T13:16:49Z"
+        },
+        {
+            "title": "Travis Kelce Would Chew Taco \u2018Hard as F***\u2019",
+            "summary": "On their 'New Heights Podcast,' Travis and Jason Kelce discussed key NFL topics, including franchise records and Sanders' NFL debut. The episode also featured a humorous segment dubbed 'Taco Domination,' engaging fans with insights into their football careers and various interests. They addressed listener questions, offering a blend of serious sports analysis and lighter entertainment, providing an engaging listen for sports enthusiasts and followers of the Kelce brothers.",
+            "url": "https://www.mandatory.com/news/1690378-travis-kelce-taco-new-heights-podcast",
+            "category": "National",
+            "date": "2025-11-20T13:14:30Z"
+        },
+        {
+            "title": "Matt Bowen's ultimate guide to winning a fantasy football championship",
+            "summary": "The article details strategies for success in fantasy football playoffs, emphasizing maximizing points in weekly head-to-head matchups. It provides insights for participants aiming to navigate the critical final stages of their leagues, offering guidance to outscore opponents and secure victory in the competitive playoff environment, leveraging data-driven decision making typical in such games.",
+            "url": "https://www.espn.com/fantasy/football/story/_/id/47023923/fantasy-football-playoffs-tips-strategy-pickups",
+            "category": "Sci & Tech",
+            "date": "2025-11-20T12:59:39Z"
+        },
+        {
+            "title": "US clears sale of $93-million worth Javelin missiles, Excalibur artillery rounds to India",
+            "summary": "The US has approved a significant defence sale to India, featuring advanced FGM-148 Javelin anti-tank guided missile systems and M982A1 Excalibur precision-guided artillery projectiles. This acquisition will substantially bolster India's military capabilities and strengthen the strategic defence partnership between the two nations, demonstrating deepening cooperation in critical security areas.",
+            "url": "https://www.thehindubusinessline.com/news/us-clears-sale-of-93-million-worth-javelin-missiles-excalibur-artillery-rounds-to-india/article70303144.ece",
+            "category": "Defence",
+            "date": "2025-11-20T12:48:43Z"
+        },
+        {
+            "title": "Daily Career Horoscope, November 22, 2025: Growth in finances and stability, these zodiac signs will advance",
+            "summary": "The article discusses how personalized horoscope advice can facilitate career and financial growth. It provides daily guidance for various zodiac signs, including Aries, Taurus, and Gemini, emphasizing the importance of seizing opportunities, thorough preparation, and maintaining balance to achieve personal and professional success and unlock potential.",
+            "url": "https://timesofindia.indiatimes.com/astrology/horoscope/daily-career-horoscope-november-22-2025-growth-in-finances-and-stability-these-zodiac-signs-will-advance/articleshow/125456790.cms",
+            "category": "National",
+            "date": "2025-11-20T12:41:39Z"
+        },
+        {
             "title": "India-Russia annual summit could boost bilateral naval partnership across Indo-Pacific region",
-            "summary": "The upcoming India-Russia annual summit on December 5 is set to significantly boost bilateral naval cooperation. Discussions will focus on additional joint exercises, enhancing military-technical partnerships, and fostering stability in the Indo-Pacific region. This strategic engagement underscores deeper defence ties and geopolitical collaboration between India and Russia, crucial for regional security dynamics.",
+            "summary": "The upcoming India-Russia annual summit on December 5 is poised to significantly enhance bilateral naval cooperation. Key discussions will focus on boosting military-technical ties, potentially leading to additional joint exercises, and strengthening stability in the Indo-Pacific region. This high-level meeting underscores the deepening strategic partnership between the two nations across critical defence and security domains.",
             "url": "https://economictimes.indiatimes.com/news/defence/india-russia-annual-summit-could-boost-bilateral-naval-partnership-across-indo-pacific-region/articleshow/125463066.cms",
             "category": "Defence",
             "date": "2025-11-20T12:29:36Z"
         },
         {
             "title": "India and Russia in talks for Su-57 joint production",
-            "summary": "India and Russia are discussing joint production of the advanced fifth-generation Sukhoi Su-57 fighter jet, confirmed by Russia's Ambassador. This collaboration signifies deepening defence ties and could significantly bolster India's air power. For SSB aspirants, it highlights India's strategic partnerships and commitment to modernizing its armed forces with cutting-edge technology and indigenous defence capabilities.",
+            "summary": "India and Russia are engaged in discussions for the joint production of the advanced fifth-generation Sukhoi Su-57 fighter jet. Russian Ambassador Denis Alipov confirmed this development, signaling a significant deepening of defence and technological cooperation. Such a collaboration would enhance India's air power capabilities and align with its 'Make in India' defence initiatives, strengthening strategic ties between the two nations.",
             "url": "https://www.rt.com/india/628062-india-talks-su57-production/",
             "category": "Defence",
             "date": "2025-11-20T12:29:17Z"
         },
         {
             "title": "25 Hollywood Favourites That Didn\u2019t Make It Big Until After Their 30s",
-            "summary": "The article discusses how individuals achieve success at their own unique pace, using the example of 'super star celebrities' who experience breakout performances at diverse times in their careers. It underscores that one's path to prominence and significant achievements unfolds uniquely, reinforcing the idea that success isn't bound by a universal timeline.",
+            "summary": "The article asserts that individuals progress through life at unique paces, with success unfolding differently. It illustrates this by highlighting superstar celebrities who achieved breakout performances later in their careers. This perspective emphasizes that significant achievements aren't confined to early stages, promoting understanding of diverse personal timelines and the value of persistent effort.",
             "url": "https://www.demilked.com/hollywood-late-bloomers/",
             "category": "International",
             "date": "2025-11-20T12:26:32Z"
         },
         {
             "title": "Live high school football scores for WIAA State Championships",
-            "summary": "The WIAA high school football state championships have commenced, with Divisions 7-4 competing on Thursday, November 20th, and Divisions 3-1 playing on Friday, November 21st. The tournament features top high school athletic talent from across the state, including two prominent teams hailing from the Oshkosh and Fond du Lac areas, all vying for the esteemed state title.",
+            "summary": "The WIAA high school football state championships have begun, with games scheduled across two days. Divisions 7-4 will compete on Thursday, November 20th, and Divisions 3-1 on Friday, November 21st. The tournament features several local teams, including those from the Oshkosh and Fond du Lac areas, battling for the state title in their respective divisions.",
             "url": "https://www.thenorthwestern.com/story/sports/high-school/football/2025/11/20/wiaa-high-school-football-state-championship-live-scores/87269942007/",
             "category": "National",
             "date": "2025-11-20T12:01:59Z"
         },
         {
             "title": "The Beatles \u2013 Anthology Collection (2025)",
-            "summary": "The Beatles' \"Anthology Collection\" is re-released as remastered editions, comprising three original collections of rarities and outtakes compiled by George Martin. Available across six CDs, these editions, initially from 1995-96, offer enhanced audio quality. This release showcases the application of modern sound engineering to preserve and update historical musical works, making them accessible to new generations of listeners.",
+            "summary": "The 'Anthology Collection' features remastered editions of three original compilations of rarities and outtakes. Curated by George Martin and initially released in 1995-1996, these historic music archives are now available across six CDs. This collection provides fans with an updated listening experience of previously unreleased material from a renowned musical group.",
             "url": "https://exystence.net/blog/2025/11/20/the-beatles-anthology-collection-2025/",
-            "category": "Sci & Tech",
+            "category": "International",
             "date": "2025-11-20T11:25:44Z"
         },
         {
             "title": "India\u2019s Matsya-6000 to begin sea trials at 500 m; NIOT scientists to pilot mission",
-            "summary": "India is set for a significant deep-sea exploration milestone. Early next year, two scientists will pilot an indigenously built, 28-tonne manned submersible 500 meters deep off Chennai. This mission marks India's entry into an elite group of nations with advanced deep-ocean technology, bolstering national marine research and resource exploration capabilities.",
+            "summary": "Two scientists will pilot India's indigenously built 28-tonne manned submersible up to 500 metres deep off the Chennai coast early next year. This pioneering mission marks India's significant entry into the coveted group of nations capable of manned deep-sea exploration, highlighting the country's growing scientific and technological prowess in oceanic research.",
             "url": "https://www.thehindubusinessline.com/news/science/indias-matsya-6000-to-begin-sea-trials-at-500-m-niot-scientists-to-pilot-mission/article70302807.ece",
             "category": "Sci & Tech",
             "date": "2025-11-20T11:23:24Z"
         },
         {
             "title": "Broken Indian Air Force drone found near India-Pak border in Jaisalmer",
-            "summary": "An Indian Air Force (IAF) unmanned aerial vehicle (UAV) was found broken in a farmland near Jaisalmer\u2019s Ramgarh, along the India-Pakistan border in Rajasthan. Police reported the incident involving an IAF asset in a sensitive border region. This raises questions about its operational status and the circumstances of its crash, prompting likely investigations into the cause.",
+            "summary": "An Indian Air Force (IAF) unmanned aerial vehicle (UAV) was reportedly found broken in a farmland near Jaisalmer\u2019s Ramgarh, Rajasthan, along the India-Pakistan border. Police confirmed the incident on Thursday. This discovery of a downed IAF drone in a sensitive border region will likely prompt an investigation into its operational status and the cause of the crash, highlighting defence equipment management.",
             "url": "https://indianexpress.com/article/india/broken-indian-air-force-drone-near-india-pakistan-border-jaisalmer-10376384/",
             "category": "Defence",
             "date": "2025-11-20T11:16:22Z"
         },
         {
             "title": "Advice from a Canadian billionaire: 'If you have money, give it away'",
-            "summary": "The Financial Post's series, \"The Philanthropists,\" profiles Canadian business leaders who actively contribute to national development through their philanthropic endeavors. Featuring figures like Hal Jackman, the series highlights how successful individuals give back to society, fostering growth and addressing societal needs across the country. It underscores the importance of corporate social responsibility and civic engagement in building a stronger Canada.",
+            "summary": "The Financial Post's series, 'The Philanthropists,' profiles Canadian business leaders dedicated to nation-building through charitable giving. It highlights individuals like Hal Jackman, showcasing their significant philanthropic contributions. This initiative aims to inspire aspiring leaders by featuring exemplary figures who give back to society, fostering a sense of civic responsibility and national development within Canada.",
             "url": "https://biztoc.com/x/2c8249b359bad774",
             "category": "National",
             "date": "2025-11-20T11:14:34Z"
         },
         {
             "title": "Advice from a Canadian billionaire: 'If you have money, give it away'",
-            "summary": "A prominent philanthropist has voiced opinions on various critical issues, including the implications of dynastic wealth and intricate succession plans within E-L Financial. The philanthropist also addressed concerns regarding excessive executive compensation, reflecting a critical perspective on current corporate remuneration structures and wealth distribution. Further details on these extensive remarks are anticipated.",
+            "summary": "A prominent philanthropist has shared significant views on key financial and ethical matters. Their discussions encompass critical perspectives on dynastic wealth, scrutinizing succession plans at E-L Financial, and advocating reforms against excessive executive compensation. The philanthropist also reflected on potential alternative uses for their own wealth, offering insights into their broader philosophy on wealth distribution and corporate governance.",
             "url": "https://financialpost.com/personal-finance/high-net-worth/advice-canadian-billionaire-have-money-give-away",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-20T11:00:19Z"
         },
         {
             "title": "Today on Pinstripe Alley \u2013 11/20/25",
-            "summary": "Baseball's offseason proceeds at its characteristic leisurely pace, with periods of quiet punctuated by sudden bursts of activity like player trades or team adjustments. The past week saw typical offseason developments, reflecting the sport's deliberate strategic rhythm. Aspiring officers can draw parallels, understanding that even seemingly slow periods in competitive domains demand critical planning and strategic foresight.",
+            "summary": "Baseball's offseason progresses leisurely, akin to the game's own rhythm, with long periods of calm. However, this inactivity is punctuated by sudden, significant bursts of player movements or news. The recent week exemplified this typical pattern, showcasing such moments of action amidst the overall strategic quiet of the offseason period.",
             "url": "https://www.pinstripealley.com/today-on-pinstripe-alley/170757/yankees-mlb-pinstripe-alley-11-20-25",
             "category": "International",
             "date": "2025-11-20T11:00:00Z"
         },
         {
             "title": "Vietnam flooding submerges homes, kills 16, after relentless rain",
-            "summary": "Coastal Nha Trang, Vietnam, experienced severe flooding, with entire city blocks inundated and hundreds of cars submerged. Rescuers were actively engaged in plucking stranded residents from rooftops of submerged homes. This major natural disaster highlights the critical need for effective disaster response and resilience planning in vulnerable coastal regions, impacting civilian life and infrastructure significantly.",
+            "summary": "Coastal Nha Trang, Vietnam, experienced severe flooding, with entire city blocks and hundreds of vehicles submerged. Rescuers are actively saving stranded residents from the rooftops of inundated homes amidst widespread disruption. This natural disaster underscores the critical role of humanitarian aid and disaster response in international emergencies, highlighting the challenges posed by extreme weather events in vulnerable regions.",
             "url": "https://www.digitaljournal.com/world/vietnam-flooding-submerges-homes-kills-16-after-relentless-rain/article",
             "category": "International",
             "date": "2025-11-20T10:52:20Z"
         },
         {
             "title": "Inviting G-d to dinner",
-            "summary": "Rebecca's painful pregnancy led her to consult a prophet, who revealed she was carrying twin giants, \"geim,\" as detailed in the Torah. Sages further prophesied that from these two would emerge exceptionally brilliant individuals. This ancient biblical account highlights the themes of divine revelation and the significant historical lineage within religious tradition, crucial for understanding foundational cultural narratives.",
+            "summary": "Rebecca's painful pregnancy prompted her to consult a prophet, who revealed she carried twin giants, as detailed in the Torah. Sages prophesied that from these two, brilliant individuals would emerge. This ancient narrative explores religious prophecy and significant figures, rooted in scriptural tradition, offering insights into historical interpretations.",
             "url": "https://www.israelnationalnews.com/news/418091",
             "category": "National",
             "date": "2025-11-20T10:35:02Z"
         },
         {
             "title": "Russian Defence Minister Andrei Belousov inspects Vostok Group of Forces",
-            "summary": "Russian Defence Minister Andrei Belousov inspected the progress of missions conducted by formations and units of the Vostok Group of Forces. The inspection, which took place on November 18, 2025, aimed to assess operational effectiveness and ensure the successful execution of tasks within the ongoing special military context. This oversight highlights the strategic importance of the Vostok Group's operations.",
+            "summary": "Russian Defence Minister Andrei Belousov recently inspected the Vostok Group of Forces, assessing their mission progress in ongoing military operations. This crucial oversight emphasizes Russia's strategic focus on optimizing combat readiness and operational effectiveness. Such high-level inspections are vital for understanding the ground realities, logistical challenges, and overall defence capabilities within active conflict zones.",
             "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/11/ukraine-251118-russia-mod01.htm",
             "category": "Defence",
             "date": "2025-11-20T10:22:19Z"
         },
         {
             "title": "Australia Industry and Workers making the grade with US Virginia Class Submarines Submariness",
-            "summary": "Australia's Albanese Government, led by Deputy PM and Defence Minister Richard Marles, announced HIFraser as the first Australian company qualified to supply critical defence parts. This significant step bolsters Australia's indigenous defence industry and supply chain. It enhances sovereign capability, promoting self-reliance and local manufacturing of essential military components, which is crucial for national security.",
+            "summary": "The Albanese Government has designated HIFraser as the first Australian company qualified to supply crucial parts for the nation's defence sector. Announced by Deputy Prime Minister and Minister for Defence Richard Marles, this move strengthens Australia's sovereign industrial capability. It aims to reduce reliance on foreign suppliers and bolster local manufacturing, critical for enhancing national security and defence readiness, a key focus for SSB aspirants.",
             "url": "https://www.globalsecurity.org/wmd/library/news/australia/2025/australia-251119-audod01.htm",
             "category": "Defence",
             "date": "2025-11-20T10:22:19Z"
         },
         {
             "title": "Navy Accepts Delivery of Future USS Harvey C. Barnum, Jr.",
-            "summary": "The U.S. Navy accepted delivery of the future USS Harvey C. Barnum, Jr. (DDG 124), an Arleigh Burke-class destroyer, from General Dynamics Bath Iron Works on November 17th. This significant acquisition strengthens the U.S. Navy's fleet with a state-of-the-art warship, enhancing its operational capabilities and global presence, marking a key milestone in naval modernization.",
+            "summary": "The U.S. Navy recently accepted delivery of the future USS Harvey C. Barnum, Jr. (DDG 124), an Arleigh Burke-class destroyer, from General Dynamics Bath Iron Works. This acquisition signifies a continued enhancement of naval capabilities and fleet modernization. For SSB aspirants, this highlights the importance of advanced naval assets in strategic defence and power projection.",
             "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251119-usn01.htm",
             "category": "Defence",
             "date": "2025-11-20T10:14:20Z"
         },
         {
             "title": "BrahMos: India's most lethal supersonic cruise missile system may get another buyer",
-            "summary": "Indonesia has formally requested to acquire India's advanced BrahMos supersonic cruise missile system. This significant development, confirmed by Indian Defence Minister Rajnath Singh, underscores India's growing stature as a defence exporter and highlights the capabilities of indigenous-partnered defence technology. It also signals strengthening defence ties between India and Indonesia, impacting regional security dynamics.",
+            "summary": "Indonesia has formally expressed interest in acquiring India's BrahMos supersonic cruise missile system, a request confirmed by Defence Minister Rajnath Singh. This development highlights growing defence cooperation between the two nations and signifies India's increasing stature as an exporter of advanced military technology. For an SSB aspirant, this showcases India's indigenous defence capabilities and strengthening strategic partnerships in the Indo-Pacific.",
             "url": "https://economictimes.indiatimes.com/news/new-updates/brahmos-indias-most-lethal-supersonic-cruise-missile-system-may-get-another-buyer/articleshow/125458626.cms",
             "category": "Defence",
             "date": "2025-11-20T10:03:53Z"
         },
         {
             "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 20th November 2025",
-            "summary": "This platform offers daily current affairs quizzes, drawing questions from vital sources like The Hindu, Indian Express, and PIB. These resources are crucial for UPSC Prelims, aiding aspirants in staying updated on significant national and international developments. It provides an effective tool for knowledge testing and comprehensive exam preparation.",
+            "summary": "This text introduces a current affairs resource for competitive exam aspirants, particularly emphasizing its relevance for UPSC Prelims. Questions are drawn from important national sources like The Hindu, Indian Express, and PIB. It serves as an archive for daily quizzes, guiding aspirants to prepare comprehensively for general knowledge sections vital for national-level examinations, including those for service selections.",
             "url": "https://iasbaba.com/2025/11/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-20th-november-2025/",
             "category": "National",
             "date": "2025-11-20T09:52:27Z"
-        },
-        {
-            "title": "2Africa Submarine Cable\u2019s Core Infrastructure Completed China Mobile International Advances Africa\u2019s Digital Intelligence Development",
-            "summary": "China Mobile International (CMI) and seven global partners, including Meta and Vodafone Group, are collaborating on a significant international telecommunications infrastructure project. This initiative, likely a new submarine cable system, aims to substantially enhance global digital connectivity and bandwidth. Such large-scale tech alliances are crucial for future digital economies and international data flow.",
-            "url": "https://www.thehindubusinessline.com/brandhub/2africa-submarine-cables-core-infrastructure-completed-china-mobile-international-advances-africas-digital-intelligence-development/article70302366.ece",
-            "category": "Sci & Tech",
-            "date": "2025-11-20T09:16:07Z"
-        },
-        {
-            "title": "India's Defence Production Up 174% To Hit Record Rs 1.27 Lakh Crore, Boosting Aatmanirbhar Push",
-            "summary": "India has achieved another significant milestone in its journey towards self-reliance in defence production. This crucial progress aims to drastically reduce the nation's dependency on foreign countries for military hardware, strongly aligning with the 'Make-In-India' initiative. Such advancements are vital for enhancing national security, promoting strategic autonomy, and strengthening indigenous manufacturing capabilities for the armed forces.",
-            "url": "https://www.news18.com/business/indias-defence-production-up-174-to-hit-record-rs-1-27-lakh-crore-boosting-aatmanirbhar-push-ws-l-9720315.html",
-            "category": "Defence",
-            "date": "2025-11-20T09:11:27Z"
-        },
-        {
-            "title": "Canada\u2019s instructions to submarine contract bidders highlight sustainment, economic benefits",
-            "summary": "Canada has formally issued firm bidding instructions to two companies, including ThyssenKrupp Marine Systems (TKMS), for constructing its navy's new submarines. This significant defence procurement initiative aims to modernize Canada's naval capabilities, crucial for maritime security. For SSB aspirants, this exemplifies how nations strategically invest in enhancing their defence assets and maintaining a modern, capable fleet.",
-            "url": "https://www.cbc.ca/news/politics/military-submarine-contract-bidders-9.6985543",
-            "category": "Defence",
-            "date": "2025-11-20T09:00:00Z"
-        },
-        {
-            "title": "Israel says Palestinians opened fire in West Bank",
-            "summary": "The Israel Defense Forces (IDF) reported that Palestinian militants opened fire on Israeli soldiers in the Nablus Governorate of the West Bank. The IDF was conducting an operation in the area at the time of the incident. This highlights the continuing security challenges and clashes between Israeli forces and Palestinian groups in the volatile West Bank region, a key point for understanding regional geopolitical dynamics.",
-            "url": "https://biztoc.com/x/c5a341127c21a726",
-            "category": "International",
-            "date": "2025-11-20T08:49:48Z"
-        },
-        {
-            "title": "Lessons from Operation Sindoor will be posed as challenges at 'Swavlamban': Vice Admiral Vatsayan",
-            "summary": "The Indian Navy is leveraging crucial lessons learned from Operation Sindoor by converting them into specific challenges for the defence industry and start-ups. This strategic initiative aims to bolster the Navy's operational capabilities and foster indigenous solutions for critical defence needs. This move highlights India's commitment to self-reliance and technological advancement in maritime security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/lessons-from-operation-sindoor-will-be-posed-as-challenges-at-swavlamban-vice-admiral-vatsayan/articleshow/125458083.cms",
-            "category": "Defence",
-            "date": "2025-11-20T08:48:06Z"
-        },
-        {
-            "title": "YouTube suspends SGPC\u2019s channel for a week over video on 1984 Army action",
-            "summary": "YouTube has suspended the official channel of the Shiromani Gurdwara Parbandhak Committee (SGPC) for one week. This action was taken under YouTube's policy guidelines regarding a video uploaded by SGPC. The content reportedly pertained to the 1984 Indian Army action, which YouTube deemed to violate its policies, impacting the prominent Sikh religious body's online presence.",
-            "url": "https://indianexpress.com/article/cities/chandigarh/youtube-suspends-sgpcs-channel-for-a-week-over-video-on-1984-army-action-10375911/",
-            "category": "National",
-            "date": "2025-11-20T07:25:01Z"
         }
     ]
 }
