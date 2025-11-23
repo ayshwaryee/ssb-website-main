@@ -1,96 +1,194 @@
 {
-    "last_updated": "2025-11-23T06:22:16.699963+00:00",
+    "last_updated": "2025-11-23T12:27:32.956269+00:00",
     "articles": [
         {
+            "title": "2025 Vanderbilt Football Mailbag #11: Answers to Your Questions",
+            "summary": "The provided article snippet poses a tactical question concerning a recent 'up-tempo offensive revelation' observed in a sports context. It debates whether this specific strategy should be expected as a consistent tool against opponents like 'Kentucky' in future matches, or if it was merely a singular occurrence. The text focuses on evaluating strategic effectiveness and forecasting its long-term viability in competitive sports.",
+            "url": "https://www.anchorofgold.com/mailbag/30293/2025-vanderbilt-football-mailbag-11-answers-to-your-questions",
+            "category": "National",
+            "date": "2025-11-22T12:21:13Z"
+        },
+        {
+            "title": "WWII Enigma machine sells for over half a million dollars at auction \u2014 this was one of the rare four-rotor 'M4' models",
+            "summary": "A rare four-rotor WWII Enigma machine was recently auctioned at Christie's in Paris, fetching double its estimated price due to its historical significance and exceptional rarity. These complex devices were crucial for Axis communications during the war, and their decryption by Allied forces, notably Alan Turing, was pivotal in shortening the conflict. Its sale highlights the enduring value of wartime technology.",
+            "url": "https://www.tomshardware.com/tech-industry/wwii-enigma-machine-sells-for-over-half-a-million-dollars-at-auction-this-was-one-of-the-rare-4-rotor-m4-models",
+            "category": "Defence",
+            "date": "2025-11-22T11:00:00Z"
+        },
+        {
+            "title": "Tejas crash: Pakistan Defence Minister Khawaja Asif condoles Indian pilot's death in Dubai Air Show crash",
+            "summary": "Pakistan's Defence Minister Khawaja Asif offered condolences following the death of an Indian pilot in a crash during the Dubai Air Show. Asif stated that the rivalry between India and Pakistan belongs 'to the skies only,' implying a professional respect even amidst geopolitical tensions. This gesture highlights a moment of diplomatic consideration between the two nations.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/tejas-crashpakistan-defence-minister-khawaja-asif-condoles-indian-pilots-death-in-dubai-air-show-crash/articleshow/125503786.cms",
+            "category": "Defence",
+            "date": "2025-11-22T10:31:58Z"
+        },
+        {
+            "title": "UK Right of Reply on behalf of AUKUS partners to the IAEA Board of Governors, November 2025",
+            "summary": "A key speech addressed Agenda Item 7, scrutinizing the transfer of nuclear materials within the AUKUS security pact. The discussion emphasized ensuring robust safeguards are in place for these transfers, fully complying with all aspects of the Nuclear Non-Proliferation Treaty (NPT). This highlights the complex balance between defence cooperation and international commitments to prevent nuclear proliferation, a crucial topic for global security.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2025/australia-251121-ukfcdo01.htm",
+            "category": "Defence",
+            "date": "2025-11-22T10:19:06Z"
+        },
+        {
+            "title": "Friday's local scoreboard for Nov. 22",
+            "summary": "The article reports collegiate hockey results from November 22nd, featuring several key matchups. In the NCHC, Minnesota Duluth, Denver, Miami, and Western Michigan secured victories. Notably, in the Atlantic Hockey conference, the Air Force team defeated the Army team with a score of 6-3. This highlights the competitive spirit and sportsmanship prevalent in inter-service academy sports.",
+            "url": "https://www.grandforksherald.com/sports/prep/fridays-local-scoreboard-for-nov-22",
+            "category": "Defence",
+            "date": "2025-11-22T10:18:00Z"
+        },
+        {
+            "title": "USS Asheville Returns Home to Naval Base Guam",
+            "summary": "The U.S. Navy's Los Angeles-class fast-attack submarine USS Asheville (SSN 758) returned to Naval Base Guam on November 18, 2025. This return, reported by Commander, Submarine Squadron 15, signifies the completion of its latest operational period. Its presence at the strategic Guam base underscores the U.S. Navy's sustained operational readiness and commitment to security in the Indo-Pacific region.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-usn01.htm",
+            "category": "Defence",
+            "date": "2025-11-22T10:10:57Z"
+        },
+        {
+            "title": "U.S., Republic of Korea Conduct Maritime Counter Special Operations Forces Exercise",
+            "summary": "The U.S. Navy and Republic of Korea (ROK) Navy recently conducted a significant maritime exercise in Pyeongtaek, South Korea. Led by the Commander, U.S. 7th Fleet, these joint drills aim to enhance interoperability and strengthen the alliance. Such cooperative engagements are crucial for maintaining regional stability and security in the Indo-Pacific, vital for aspiring defence personnel.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-seventhfleet01.htm",
+            "category": "Defence",
+            "date": "2025-11-22T10:10:57Z"
+        },
+        {
+            "title": "EU Indo-Pacific Ministerial Forum, Brussels, 20-21 November 2025 \"Building together a resilient, prosperous and secure future\" Chair's Statement",
+            "summary": "The European External Action Service (EEAS) highlighted Kaja Kallas, EU High Representative for Foreign Affairs and Security Policy, from Brussels. Serving as Vice-President of the European Commission, Kallas's discussions likely centered on crucial international issues, EU diplomatic strategies, and security policy frameworks. This engagement signals the EU's ongoing efforts to navigate global challenges and assert its influence in international relations, vital for understanding geopolitical dynamics.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-eeas03.htm",
+            "category": "International",
+            "date": "2025-11-22T10:10:57Z"
+        },
+        {
+            "title": "The Arctic Convoy Museum",
+            "summary": "New designs have been introduced, created to support the Arctic Convoy Museum in Aultbea. These unique patterns serve the explicit purpose of raising crucial funds for the institution. The initiative highlights efforts to preserve the history and legacy of the Arctic Convoys, vital WWII naval operations, ensuring their memory endures for future generations.",
+            "url": "https://katedaviesdesigns.com/2025/11/22/the-arctic-convoy-museum/",
+            "category": "Defence",
+            "date": "2025-11-22T09:40:49Z"
+        },
+        {
+            "title": "Spacetech startup Agnikul Cosmos raises Rs 150 crore at $500 million valuation",
+            "summary": "Indian spacetech startup Agnikul Cosmos has secured Rs 150 crore ($17 million) in a new funding round, achieving a $500 million valuation. This significant investment highlights the booming private space sector in India, showcasing national progress in advanced technology and entrepreneurship, crucial for India's self-reliance and global standing in space exploration.",
+            "url": "https://economictimes.indiatimes.com/tech/funding/spacetech-startup-agnikul-cosmos-raises-rs-150-crore-at-500-million-valuation/articleshow/125502954.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-22T09:34:02Z"
+        },
+        {
+            "title": "IN PHOTOS | This week's most compelling images",
+            "summary": "A weekly selection showcases top images from news agencies like CBC News, The Canadian Press, and Reuters, documenting our changing world. It offers a visual summary of significant global events and developments, providing aspirants insight into current affairs. Diverse subjects, potentially including cultural notes like those from Heffel Fine Art Auction House, are covered.",
+            "url": "https://www.cbc.ca/news/world/topshots-2025-11-22-9.6987460",
+            "category": "International",
+            "date": "2025-11-22T09:00:00Z"
+        },
+        {
+            "title": "Bigg Boss Tamil 9: Ex-contestant Kavin to grace the show",
+            "summary": "This article details former Bigg Boss Tamil contestant Kavin's surprise appearance in Season 9 of the reality show. While offering entertainment news, such topics are generally not relevant for Service Selection Board (SSB) aspirants. Aspiring candidates should prioritize national, international, defence, and science & technology updates for comprehensive preparation.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/tamil/bigg-boss-tamil-9-ex-contestant-kavin-to-grace-the-show/articleshow/125501431.cms",
+            "category": "National",
+            "date": "2025-11-22T07:22:57Z"
+        },
+        {
+            "title": "Are Gen Z unemployable, or are workplaces unprepared for a new generation?",
+            "summary": "Gen Z's perceived \"unemployability\" stems from pandemic-era disruptions, digital-first socialization, and limited early job exposure, impacting their work readiness and soft skill development. Understanding these generational challenges is crucial for the modern workforce, necessitating tailored approaches to skill enhancement for their effective integration into diverse professional environments.",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/are-gen-z-unemployable-or-are-workplaces-unprepared-for-a-new-generation/articleshow/125501382.cms",
+            "category": "National",
+            "date": "2025-11-22T07:22:50Z"
+        },
+        {
+            "title": "Tejas Crash: Who Was Wing Commander Namansh Syal? The IAF Pilot Killed In Dubai Air Show Crash",
+            "summary": "Wing Commander Namansh Syal, an Indian Air Force officer, tragically died when a Tejas aircraft crashed during an air demonstration at the Dubai Air Show. This unfortunate incident occurred while showcasing India's indigenous fighter jet on an international stage, highlighting the inherent risks in military aviation and the sacrifices made by our forces. The IAF community mourns his loss.",
+            "url": "https://www.ndtvprofit.com/nation/tejas-crash-who-was-wing-commander-namansh-syal-the-iaf-pilot-killed-in-dubai-air-show-crash",
+            "category": "Defence",
+            "date": "2025-11-22T07:09:50Z"
+        },
+        {
             "title": "U.S. confirms $700 million NASAMS sale to Taiwan amid rising tensions with China",
-            "summary": "The U.S. confirmed a $698.9 million deal to supply Taiwan with three National Advanced Surface-to-Air Missile Systems (NASAMS). These medium-range defense systems are proven effective against drones, significantly bolstering Taiwan's air defense capabilities. This deal underscores ongoing efforts to enhance the island nation's security amidst rising geopolitical tensions, providing a crucial deterrent.",
+            "summary": "The U.S. has confirmed a $698.9 million deal to supply Taiwan with three National Advanced Surface-to-Air Missile Systems (NASAMS). These medium-range defense systems are proven effective against drones, significantly enhancing Taiwan's air defense capabilities. This transaction underscores ongoing U.S. support for Taiwan's security amidst regional tensions, a key development for geopolitical observers and defense strategy.",
             "url": "https://www.naturalnews.com/2025-11-22-us-confirms-sale-of-nasams-to-taiwan.html",
             "category": "Defence",
             "date": "2025-11-22T06:00:00Z"
         },
         {
             "title": "Agnikul Cosmos raises $17 million funding at $0.5 billion valuation",
-            "summary": "Chennai-based space-tech firm Agnikul Cosmos secured $17 million (\u20b9150 crore) in a funding round led by Advenza Global and HDFC Bank. This investment signifies the booming private space sector in India, strengthening indigenous rocket development. For SSB aspirants, this highlights India's technological self-reliance and progress in critical space domains, essential for national development and strategic capabilities.",
+            "summary": "Chennai-based space-tech company Agnikul Cosmos has raised $17 million (\u20b9150 crore) in a recent funding round. This investment signifies growing private sector involvement and capital infusion into India's space technology sector. For SSB aspirants, this highlights India's push for self-reliance in advanced tech, crucial for strategic independence and positioning in the global space economy.",
             "url": "https://www.thehindubusinessline.com/companies/agnikul-cosmos-raises-17-million-funding-at-05-billion-valuation/article70310470.ece",
             "category": "Sci & Tech",
             "date": "2025-11-22T05:50:53Z"
         },
         {
             "title": "Light after shells: How Indian Army doctors gave new vision to civilians caught in Pakistam's fury post Op Sindoor",
-            "summary": "For countless residents in remote Jammu and Kashmir borderlands, life was a struggle against a 'silent tyranny of darkness,' severely impacting daily life and well-being. This critical infrastructure gap reduced their world to indistinct shapes. The article likely details efforts to illuminate these regions, aiming to improve living conditions, foster development, and strengthen national integration in these strategically important areas.",
+            "summary": "Life in the rugged, remote borderlands of Jammu and Kashmir was severely hampered by a pervasive lack of essential services, reducing the world to indistinct shapes. Residents endured a 'silent tyranny of darkness,' profoundly impacting daily existence and development opportunities. The article likely details initiatives addressing these challenging conditions, bringing much-needed infrastructure and light to these isolated communities.",
             "url": "https://economictimes.indiatimes.com/news/india/light-after-shells-how-indian-army-doctors-gave-new-vision-to-civilians-caught-in-pakistams-fury-post-op-sindoor/articleshow/125500190.cms",
             "category": "National",
             "date": "2025-11-22T05:48:43Z"
         },
         {
             "title": "Daily Briefing: New labour codes enter implementation tunnel",
-            "summary": "An Indian Air Force Tejas Mk1 fighter jet tragically crashed during an aerial display at the Dubai Airshow 2025, killing its pilot, Wing Commander Namansh Syal. This incident marks the second Tejas crash, prompting review of the indigenous aircraft's operational safety, particularly during high-profile international showcases.",
+            "summary": "An Indian Air Force Tejas Mk1 fighter jet crashed during an aerial display at the Dubai Airshow 2025 on Friday. The incident tragically killed its pilot, Wing Commander Namansh Syal. This marks the second crash involving an indigenous Tejas aircraft, raising concerns about the fighter's operational safety and development, especially during a high-profile international showcase event.",
             "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-november-22-new-labour-codes-10379627/",
             "category": "Defence",
             "date": "2025-11-22T04:21:21Z"
         },
         {
             "title": "Tejas jet crash: Namansh Syal\u2019s last video shows Wing Commander meeting dignitaries",
-            "summary": "An Indian Tejas fighter jet crashed during the ongoing Dubai Air Show on Friday, tragically killing Wing Commander Namansh Syal. The incident occurred around 3:40 pm. This unfortunate event involved a prominent Indian defence asset at an international aviation exhibition, highlighting the inherent risks in aviation displays and the ultimate sacrifice made by our armed forces personnel.",
+            "summary": "An Indian Tejas fighter jet, participating in the Dubai Air Show, tragically crashed on Friday, November 22nd. The incident, around 3:40 pm, claimed the life of Wing Commander Namansh Syal. This somber event at an international exhibition underscores the inherent risks of advanced aerial displays and represents a significant loss for India's defence community.",
             "url": "https://economictimes.indiatimes.com/news/defence/tejas-jet-crash-namansh-syals-last-video-shows-wing-commander-meeting-dignitaries/articleshow/125498700.cms",
             "category": "Defence",
             "date": "2025-11-22T03:41:56Z"
         },
         {
             "title": "Shaken up the whole system: Air Marshal Sanjeev Kapoor (Retd) on Tejas jet crash at Dubai Air Show",
-            "summary": "An Indian Air Force Tejas fighter jet tragically crashed during an aerial display at the Dubai Air Show, resulting in the death of the pilot. This incident at an international platform involving India's indigenous fighter aircraft underscores the inherent risks in advanced military aviation and the critical importance of rigorous safety standards and continuous evaluation of defence technology.",
+            "summary": "An Indian Air Force (IAF) Tejas fighter jet tragically crashed during an aerial display at the Dubai Air Show, resulting in the pilot's death. This incident, occurring at a major international defence exhibition, prompts considerations regarding aircraft safety, pilot training protocols, and the perception of indigenous defence platforms on a global stage.",
             "url": "https://economictimes.indiatimes.com/news/defence/shaken-up-the-whole-system-air-marshal-sanjeev-kapoor-retd-on-tejas-jet-crash-at-dubai-air-show/articleshow/125498424.cms",
             "category": "Defence",
             "date": "2025-11-22T02:59:56Z"
         },
         {
             "title": "Is Enlightenment Only for the Elderly?",
-            "summary": "The article posits Enlightenment as the ultimate path to liberation from all earthly misery and suffering. It emphasizes Enlightenment's crucial role in freeing individuals from the perpetual karmic cycle of death and rebirth, presenting it as the essential means to achieve complete freedom and an end to suffering.",
+            "summary": "The provided text introduces Enlightenment as the ultimate path to liberation from earthly misery and suffering. It highlights Enlightenment's role in freeing individuals from the Karmic cycle of death and birth. This philosophical concept is presented as the definitive solution for achieving spiritual freedom and alleviating all forms of worldly hardship, offering a profound journey towards ultimate liberation.",
             "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/is-enlightenment-only-for-the-elderly/articleshow/125498336.cms",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-22T02:54:12Z"
         },
         {
             "title": "Pilot lost control or blackout due to g-forces: Defence expert Capt Anil Gaur on Tejas crash",
-            "summary": "Defence expert Captain Anil Gaur (Retd.) speculated on the Tejas aircraft crash at the Dubai Air Show 2025. Analyzing the incident's nature, he suggested the pilot likely lost control. This speculation provides an initial perspective on the potential cause for the advanced indigenous fighter's mishap during an international display, underscoring safety considerations for such advanced aircraft.",
+            "summary": "Defence expert Captain Anil Gaur (Retd.) speculated on the Tejas aircraft crash during the Dubai Air Show 2025, suggesting the incident likely occurred due to the pilot losing control. This analysis is significant for SSB aspirants, offering insight into potential operational challenges with advanced military aircraft and the importance of thorough accident investigations, even in demonstration settings.",
             "url": "https://economictimes.indiatimes.com/news/defence/pilot-lost-control-or-blackout-due-to-g-forces-defence-expert-capt-anil-gaur-on-tejas-crash/articleshow/125498263.cms",
             "category": "Defence",
             "date": "2025-11-22T02:44:16Z"
         },
         {
-            "title": "CGBSE class 10, 12 exam 2026 time table released: Check complete board examination schedule here",
-            "summary": "The Chhattisgarh Board of Secondary Education (CGBSE) has officially released the detailed examination schedule for its Class 10 and 12 board exams for the year 2026. Students and educators can now check the complete time table, which will help aspirants plan their study routines and preparation strategies well in advance for these significant academic assessments. This early announcement aims to provide clarity and reduce exam-related stress.",
-            "url": "https://timesofindia.indiatimes.com/education/news/cgbse-class-10-12-exam-2026-time-table-released-check-complete-board-examination-schedule-here/articleshow/125498171.cms",
-            "category": "National",
-            "date": "2025-11-22T02:37:41Z"
-        },
-        {
-            "title": "22 November 2025: Best time of the day as per your zodiac sign",
-            "summary": "On November 22, 2025, astrologer Vishal Bhardwaj predicts specific \"power hours\" for each zodiac sign. These auspicious times are said to enhance intuition and align actions with a universal flow, offering individuals guidance for important decisions and personal well-being based on astrological principles for that particular day.",
-            "url": "https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/22-november-2025-best-time-of-the-day-as-per-your-zodiac-sign/articleshow/125491451.cms",
-            "category": "National",
-            "date": "2025-11-22T01:30:00Z"
-        },
-        {
-            "title": "Russia-Ukraine war: List of key events, day 1,367",
-            "summary": "Kremlin spokesman Dmitry Peskov announced on November 22 that approximately 5,000 Ukrainian troops are reportedly trapped by Russian forces. These troops are encircled on the eastern bank, signaling a significant tactical development in the ongoing conflict. This report underscores the intense fighting and the dynamic, challenging conditions faced by both sides in the region.",
-            "url": "https://www.aljazeera.com/news/2025/11/22/russia-ukraine-war-list-of-key-events-day-1367",
+            "title": "Watch: New Submarine-Hunting Underwater Drones Undergo Tests in Baltic Sea",
+            "summary": "New GreyShark underwater drones, developed by a German technology company, are currently undergoing testing in the Baltic Sea. These advanced drones are specifically designed to detect hard-to-find submarines and protect vulnerable undersea cables, which are vital for global communication and energy. This deployment aims to significantly enhance maritime security and surveillance capabilities in strategic waters.",
+            "url": "https://biztoc.com/x/314108732234313b",
             "category": "Defence",
-            "date": "2025-11-22T01:24:51Z"
+            "date": "2025-11-22T01:13:12Z"
         },
         {
-            "title": "IAF pilot dies as Tejas fighter crashes at Dubai air show",
-            "summary": "An Indian Air Force (IAF) Tejas fighter jet tragically crashed during a demonstration at the prestigious Dubai Airshow. The unfortunate accident resulted in the death of the IAF pilot. This incident at a high-profile international event brings focus to the operational safety and performance of India's indigenous Tejas aircraft. Investigations into the precise cause of the crash are anticipated.",
-            "url": "https://timesofindia.indiatimes.com/india/iaf-pilot-dies-as-tejas-fighter-crashes-at-dubai-air-show/articleshow/125496211.cms",
-            "category": "Defence",
-            "date": "2025-11-21T22:24:38Z"
+            "title": "SC: Accused has right to speedy investigation",
+            "summary": "The Supreme Court has affirmed the right to a speedy investigation as a fundamental right, emphasizing that accused individuals cannot endure indefinite suffering from ongoing probes. This landmark ruling aims to prevent prolonged harassment under the guise of an investigation, ensuring timely justice. It reinforces constitutional liberties, protecting individuals from endless legal uncertainty and upholding the principle of due process within India's judicial system.",
+            "url": "https://timesofindia.indiatimes.com/india/sc-accused-has-right-to-speedy-investigation/articleshow/125497152.cms",
+            "category": "National",
+            "date": "2025-11-21T22:55:39Z"
         },
         {
-            "title": "PM Modi to hold bilateral meeting with Canada's Carney today",
-            "summary": "Prime Minister Narendra Modi is scheduled to hold a bilateral meeting with Canadian counterpart Mark Carney today. This significant diplomatic engagement aims to strengthen strategic ties and foster cooperation between India and Canada. Such high-level discussions are crucial for addressing shared interests, enhancing trade relations, and collaborating on global challenges, showcasing India's active role in international diplomacy.",
-            "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-hold-bilateral-meeting-with-canadas-carney-today/articleshow/125494721.cms",
+            "title": "Washington Spirit vs. Gotham FC, NWSL Championship: Trinity Rodman's status hangs over title match",
+            "summary": "The NWSL Championship is set for a highly anticipated showdown in San Jose, featuring two prominent teams, the Washington Spirit and Gotham FC. Both star-studded sides are intensely competitive, each aiming to secure their second league title. This event underscores the growing prominence of professional women's soccer within the United States, promising an exciting and closely contested final.",
+            "url": "https://www.cbssports.com/soccer/news/washington-spirit-vs-gotham-fc-nwsl-championship-trinity-rodmans-status-lineup/",
+            "category": "National",
+            "date": "2025-11-21T21:12:39Z"
+        },
+        {
+            "title": "SC to hear plea to make POSH applicable against advocates",
+            "summary": "The Supreme Court has agreed to hear a plea challenging a Bombay High Court ruling concerning the applicability of the Prevention of Sexual Harassment (POSH) Act to advocates. This significant move seeks to extend workplace sexual harassment protections to legal professionals, ensuring accountability within the legal fraternity. It represents a crucial development in the enforcement of POSH across various professional sectors in India.",
+            "url": "https://timesofindia.indiatimes.com/india/sc-to-hear-plea-to-make-posh-applicable-against-advocates/articleshow/125494620.cms",
+            "category": "National",
+            "date": "2025-11-21T20:03:19Z"
+        },
+        {
+            "title": "Catholic Caucus: Daily Mass Readings 21-November-2025",
+            "summary": "The text invites readers to participate in reflection, faith-sharing, and discussion on Catholic themes, specifically mentioning prayer and biblical references (Lk19, Mt12). It encourages active engagement through comments and questions. The announcement also provides instructions for managing subscriptions to an 'Alleluia Ping' communication service for interested individuals.",
+            "url": "https://freerepublic.com/focus/f-religion/4353888/posts",
             "category": "International",
-            "date": "2025-11-21T20:51:45Z"
+            "date": "2025-11-21T19:54:43Z"
         }
     ]
 }
