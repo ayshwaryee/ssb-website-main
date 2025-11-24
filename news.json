@@ -1,334 +1,194 @@
 {
-    "last_updated": "2025-11-23T18:20:43.863470+00:00",
+    "last_updated": "2025-11-24T01:17:39.822412+00:00",
     "articles": [
         {
+            "title": "Earth's Continents Are Slowly Peeling Away Below, And Here's Why",
+            "summary": "Geoscientists have resolved an age-old mystery regarding oceanic volcanism and plate tectonics, explaining how some islands contain significant continental material despite being far from continental plates. This discovery offers new insights into Earth's complex crustal dynamics, shedding light on the formation and unique geological composition of these isolated landmasses, driven by processes like mantle plumes.",
+            "url": "https://www.sciencealert.com/earths-continents-are-slowly-peeling-away-below-and-heres-why",
+            "category": "Sci & Tech",
+            "date": "2025-11-23T01:00:45Z"
+        },
+        {
+            "title": "US to launch new phase of Venezuela operations, sources say",
+            "summary": "The United States is poised to launch a new phase of operations against Venezuela, intensifying pressure on President Nicolas Maduro, U.S. officials state. This Trump administration initiative signifies an escalation in geopolitical strategy, influencing international relations in Latin America. For SSB aspirants, it underscores the importance of understanding dynamic foreign policy shifts and their potential regional implications.",
+            "url": "https://economictimes.indiatimes.com/news/defence/us-to-launch-new-phase-of-venezuela-operations-sources-say/articleshow/125514227.cms",
+            "category": "International",
+            "date": "2025-11-23T00:47:21Z"
+        },
+        {
+            "title": "Exclusive-US to launch new phase of Venezuela operations, sources say",
+            "summary": "The United States is preparing to launch a new phase of operations concerning Venezuela in the coming days, according to four U.S. officials. This signals a likely escalation or significant shift in Washington's policy towards the South American nation. The new initiatives are expected to shape future diplomatic, economic, or security engagements, reflecting ongoing U.S. efforts to influence the situation in Venezuela.",
+            "url": "https://www.yahoo.com/news/articles/exclusive-us-launch-phase-venezuela-003111871.html",
+            "category": "International",
+            "date": "2025-11-23T00:31:11Z"
+        },
+        {
+            "title": "'Albo's Greatest Hits' as PM's western vacation yields little for WA",
+            "summary": "Australian Prime Minister Anthony Albanese recently visited a town on Monday, meeting with Premier Roger Cook. The Premier seemingly anticipated an 'early Christmas present' from the PM, suggesting expectations of significant policy announcements or crucial agreements. This high-level political interaction between federal and state leaders likely aimed to address key regional or national issues, with the Premier hoping for favorable outcomes.",
+            "url": "https://www.abc.net.au/news/2025-11-23/anthony-albanese-wa-visit-saw-no-christmas-presents/106033346",
+            "category": "International",
+            "date": "2025-11-23T00:16:03Z"
+        },
+        {
+            "title": "U.S. To Launch New Phase Of Venezuela Operations, Sources Say",
+            "summary": "The United States, under the Trump administration, is preparing to launch a new phase of operations concerning Venezuela. U.S. officials told Reuters these actions are expected in the coming days. This signifies a shift in U.S. foreign policy and engagement, indicating Washington's continued pressure on Venezuela's political and economic situation. Aspiring officers should note the dynamics of international relations.",
+            "url": "https://www.huffpost.com/entry/us-venezuela-operations_n_69223abde4b0ba57449ccb81",
+            "category": "International",
+            "date": "2025-11-22T22:45:43Z"
+        },
+        {
+            "title": "Updated Week 12 Fantasy QB Rankings: Start-sit quarterbacks, best sleepers, top bye streamers this week",
+            "summary": "This article from The Sporting News provides updated Week 12 fantasy football quarterback rankings. It details 'start-sit' recommendations, potential 'sleepers,' and 'bye streamers' to guide fantasy league participants in making strategic player decisions for the upcoming week's games. The content is focused on sports analysis for gaming.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-qb-rankings-week-12-2025/3a0611e9512e0fc7e404417c",
+            "category": "National",
+            "date": "2025-11-22T22:40:00Z"
+        },
+        {
+            "title": "Air traffic suspended at Netherlands airport after drone sightings",
+            "summary": "Air traffic at Eindhoven airport in the Netherlands was suspended following multiple drone sightings. The Dutch Defence Minister confirmed the disruption, stating counter-drone equipment is ready to act. This incident underscores the increasing threat drones pose to aviation security and critical infrastructure, highlighting the importance of robust counter-drone defence systems\u2014a key area for modern military readiness and strategic planning.",
+            "url": "https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings",
+            "category": "Defence",
+            "date": "2025-11-22T22:03:37Z"
+        },
+        {
+            "title": "Eindhoven airport shut after drone sightings, Dutch minister says",
+            "summary": "Air traffic at Eindhoven Airport in the southern Netherlands was suspended following multiple drone sightings on Saturday. The Dutch Defence Minister confirmed the significant disruption, highlighting the severe security threats posed by unauthorized drone activity to critical infrastructure and airport operations. This incident underscores the ongoing challenge of securing vital assets against evolving aerial threats, a key concern for national security.",
+            "url": "https://www.channelnewsasia.com/world/eindhoven-airport-shut-after-drone-sightings-dutch-minister-says-5484961",
+            "category": "Defence",
+            "date": "2025-11-22T21:52:00Z"
+        },
+        {
+            "title": "How to watch The Age of Disclosure online \u2013 stream 'credible' UFO doc",
+            "summary": "A new publication, 'The Age of Disclosure', features 34 US military and intelligence whistleblowers who claim the US government has secretly recovered and hidden UFO craft. These individuals reportedly assert they have seen intelligence reports corroborating these claims, reigniting public debate on potential undisclosed advanced technology and classified defense programs involving these alleged objects.",
+            "url": "https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-age-of-disclosure-online-stream-credible-ufo-doc",
+            "category": "Defence",
+            "date": "2025-11-22T21:50:50Z"
+        },
+        {
+            "title": "Washington Spirit vs. Gotham FC, NWSL Championship: Trinity Rodman's status hangs over title match",
+            "summary": "The NWSL Championship will feature a highly anticipated match between Washington Spirit and Gotham FC in San Jose. Both star-studded teams are competing fiercely to claim their second league title, promising a competitive and thrilling encounter. This significant national women's soccer event underscores the growing prominence of professional sports and athletic excellence within the country, offering an inspiring display of talent.",
+            "url": "https://www.cbssports.com/soccer/news/washington-spirit-vs-gotham-fc-nwsl-championship-trinity-rodmans-status-injury-report-lineup/",
+            "category": "National",
+            "date": "2025-11-22T21:48:15Z"
+        },
+        {
+            "title": "Exclusive-US to launch new phase of Venezuela operations, sources say",
+            "summary": "The United States is reportedly poised to launch a new phase of Venezuela-related operations in the coming days, according to U.S. officials. This move signifies an escalation of the Trump administration's efforts concerning Venezuela. The intensified operations indicate a deepening of the geopolitical situation between the two nations, potentially impacting regional stability and international relations as the U.S. continues its strategic engagement.",
+            "url": "https://www.thestar.com.my/news/world/2025/11/23/exclusive-us-to-launch-new-phase-of-venezuela-operations-sources-say",
+            "category": "International",
+            "date": "2025-11-22T21:33:00Z"
+        },
+        {
+            "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
+            "summary": "The security of Apple Silicon macOS platforms is fundamentally anchored in its hardware, specifically through the 'Silicon Root of Trust' and 'Hardware Primitives.' This approach emphasizes that system integrity begins at the foundational 'physics of the die' level, prior to software execution, rather than solely relying on the operating system's kernel. This architectural choice enhances pre-boot security.",
+            "url": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
+            "category": "Sci & Tech",
+            "date": "2025-11-22T20:54:02Z"
+        },
+        {
+            "title": "Eindhoven Airport closed after drone sightings",
+            "summary": "Air traffic at Eindhoven Airport in the Netherlands was suspended following multiple drone sightings. Dutch Defence Minister Ruben Brekelmans confirmed the deployment of defence counter-drone measures to address the situation. This incident underscores the increasing threat drones pose to critical infrastructure and airspace security, prompting nations to develop robust defensive capabilities and protocols to manage such disruptions effectively.",
+            "url": "https://news.sky.com/story/eindhoven-airport-closed-after-drone-sightings-13474270",
+            "category": "Defence",
+            "date": "2025-11-22T20:34:00Z"
+        },
+        {
+            "title": "Shashi Tharoor's post praising Trump-Mamdani meeting gives BJP ammo to attack Rahul Gandhi",
+            "summary": "Congress leader Shashi Tharoor's social media post, praising a meeting involving Donald Trump and intellectual Mahmood Mamdani, has become a contentious issue. The BJP is utilizing Tharoor's comments as political ammunition to attack fellow Congress leader Rahul Gandhi, indicating internal party dynamics and escalating political tensions. This incident highlights ongoing political sparring between India's major parties.",
+            "url": "https://timesofindia.indiatimes.com/india/shashi-tharoors-post-praising-trump-mamdani-meeting-gives-bjp-ammo-to-attack-rahul-gandhi/articleshow/125511643.cms",
+            "category": "National",
+            "date": "2025-11-22T20:27:39Z"
+        },
+        {
+            "title": "At G20, PM Modi moots 'skill multiplier' plan for Africa",
+            "summary": "At the G20 summit, Prime Minister Modi proposed a 'skill multiplier' plan specifically for Africa. This initiative aims to tutor one million certified trainers across the continent over the next decade. The proposal highlights India's commitment to global human resource development and strengthening international cooperation with African nations to foster skill enhancement and economic growth.",
+            "url": "https://timesofindia.indiatimes.com/india/at-g20-pm-modi-moots-skill-multiplier-plan-for-africa/articleshow/125511636.cms",
+            "category": "International",
+            "date": "2025-11-22T20:20:36Z"
+        },
+        {
+            "title": "Pak Defence Minister Asif condoles Indian pilot's death in Dubai Air Show crash",
+            "summary": "Pakistan's Defence Minister, Khawaja Asif, extended condolences for an Indian pilot who tragically died in a crash at the Dubai Air Show. This gesture from a Pakistani official towards an Indian national, in the context of an aviation incident, is noteworthy. It highlights a moment of shared grief and potential professional camaraderie within the international defence and aviation sphere.",
+            "url": "https://timesofindia.indiatimes.com/india/pak-defence-minister-asif-condoles-indian-pilots-death-in-dubai-air-show-crash/articleshow/125511603.cms",
+            "category": "Defence",
+            "date": "2025-11-22T20:09:39Z"
+        },
+        {
+            "title": "Here's One Theory on Why Comedy Movies Stopped Using Fat Suits",
+            "summary": "Writer Demi Adejuyigbe, known for 'The Good Place' and 'The Late Late Show,' featured on Stavros Halkias' 'Stavvy's World' podcast this week. They engaged in an aggressive discussion during the episode. While specific details about the contentious topic are not provided in the snippet, the conversation likely delved into challenging cultural or social perspectives relevant to contemporary discourse and audience engagement.",
+            "url": "https://www.cracked.com/article_49193_heres-one-theory-on-why-comedy-movies-stopped-using-fat-suits.html",
+            "category": "National",
+            "date": "2025-11-22T20:00:00Z"
+        },
+        {
+            "title": "IAF officer sent to Dubai to be part of Tejas crash probe",
+            "summary": "An Indian Air Force (IAF) officer has been sent to Dubai to participate in the ongoing investigation into a recent Tejas jet crash. This move highlights international cooperation in aerospace incident probes. Notably, the IAF has confirmed it has not yet grounded its Tejas fleet for precautionary checks, suggesting confidence in their operational safety while the comprehensive inquiry progresses to determine the cause of the incident.",
+            "url": "https://timesofindia.indiatimes.com/india/iaf-officer-sent-to-dubai-to-be-part-of-tejas-crash-probe/articleshow/125511404.cms",
+            "category": "Defence",
+            "date": "2025-11-22T19:39:11Z"
+        },
+        {
+            "title": "Proud of selfless service, supreme sacrifices by Indian Army: LG",
+            "summary": "The four-day 'Op Drishti' mega eye camp concluded at Command Hospital Northern Command, Udhampur, with its closing ceremony. This vital initiative offered crucial eye care to numerous veterans, Veer Naris, and local civilians. It exemplifies the Indian Armed Forces' dedication to robust medical support and community service, highlighting effective civil-military integration and the comprehensive welfare provided by the defence establishment.",
+            "url": "https://statetimes.in/proud-of-selfless-service-supreme-sacrifices-by-indian-army-lg/",
+            "category": "Defence",
+            "date": "2025-11-22T18:58:45Z"
+        },
+        {
             "title": "Tejas crash casts shadow on India's defence export push",
-            "summary": "A fatal crash involving an indigenous Tejas fighter jet at the Dubai Air Show has significantly impacted India's ambition to boost arms exports globally. The incident, concerning a key Indian-made defence platform, casts a shadow over its international marketability and perceived reliability, posing a challenge to India's efforts to become a major defence exporter.",
+            "summary": "An indigenous Tejas fighter jet experienced a fatal crash at the Dubai Air Show, casting a significant shadow over India's concerted efforts to boost its arms exports globally. This unfortunate incident, involving a key Indian defence platform showcased internationally, could potentially impact global confidence in Indian defence products and impede strategic export initiatives aimed at expanding India's footprint in the international arms market.",
             "url": "https://economictimes.indiatimes.com/news/defence/tejas-crash-casts-shadow-on-indias-defence-export-push/articleshow/125509316.cms",
             "category": "Defence",
             "date": "2025-11-22T17:44:44Z"
         },
         {
             "title": "HII Delivers Virginia-Class Submarine Massachusetts (SSN 798) to U.S. Navy",
-            "summary": "HII's Newport News Shipbuilding division has delivered the Virginia-class fast-attack submarine USS Massachusetts (SSN 798) to the U.S. Navy. This marks the 12th such advanced submarine delivered by the division. The Virginia-class submarines are crucial for enhancing the U.S. Navy's undersea warfare capabilities, providing superior stealth, firepower, and multi-mission effectiveness vital for national security and strategic operations.",
+            "summary": "HII's Newport News Shipbuilding has delivered the Virginia-class fast-attack submarine Massachusetts (SSN 798) to the U.S. Navy. This 12th submarine of its class significantly boosts the Navy's underwater combat capabilities. Such nuclear-powered vessels are vital for intelligence, surveillance, and precision strike operations, reinforcing national security and naval superiority.",
             "url": "https://biztoc.com/x/b265b0b8a265447a",
             "category": "Defence",
             "date": "2025-11-22T17:30:58Z"
         },
         {
             "title": "Operation Sindoor was trusted orchestra where every musician played synergistic role: Army chief",
-            "summary": "Operation Sindoor showcased exceptional coordination within the Indian Armed Forces, termed a 'trusted orchestra' where services played simultaneous, synergistic roles. This enabled the swift destruction of nine terrorist targets in just 22 minutes. The operation highlights the critical importance of integrated command, inter-service cooperation, and rapid execution, offering vital insights for SSB aspirants on modern military effectiveness.",
+            "summary": "Operation Sindoor exemplifies the Indian armed forces' exceptional coordination and synergistic teamwork. Described as a 'trusted orchestra,' the operation swiftly destroyed nine terrorist targets in just 22 minutes. This showcases the precision and efficiency with which Indian military operations are executed, highlighting robust inter-service cooperation and strategic planning.",
             "url": "https://statetimes.in/operation-sindoor-was-trusted-orchestra-where-every-musician-played-synergistic-role-army-chief/",
             "category": "Defence",
             "date": "2025-11-22T17:28:11Z"
         },
         {
             "title": "Dedicated fighter pilot, served nation with unwavering commitment: IAF in tribute to Wg Cdr Syal",
-            "summary": "The Indian Air Force is mourning the tragic loss of Wing Commander Namansh Syal, described as a dedicated fighter pilot and a thorough professional. His passing represents a significant loss to the nation and the IAF, underscoring the profound sacrifices made by air warriors. The force acknowledged his distinguished service and expressed deep sorrow for the beloved officer who served with utmost commitment.",
+            "summary": "The Indian Air Force is mourning the tragic loss of Wing Commander Namansh Syal, praising him as a dedicated fighter pilot and thorough professional. On Saturday, the IAF expressed profound grief for the air warrior, highlighting his selfless service to the nation. This incident underscores the inherent risks and profound sacrifices made by defence personnel in their unwavering commitment to national security.",
             "url": "https://economictimes.indiatimes.com/news/defence/dedicated-fighter-pilot-served-nation-with-unwavering-commitment-iaf-in-tribute-to-wg-cdr-syal/articleshow/125508143.cms",
             "category": "Defence",
             "date": "2025-11-22T16:27:18Z"
         },
         {
             "title": "Ssudeep Sahir: The best opportunities are the ones you don\u2019t see coming",
-            "summary": "Actor Ssudeep Sahir, known for his roles in Ayushman and Tera Yaa, shared a profound insight stating that the most significant opportunities often come unexpectedly. This perspective, likely stemming from his career in the Hindi TV industry, encourages individuals to be adaptable and ready to seize chances that might not be immediately apparent, emphasizing the value of foresight and openness.",
+            "summary": "Actor Ssudeep Sahir shared his unique perspective on career growth, highlighting that the most significant opportunities often emerge from unexpected places. This article likely explores his journey in the Indian entertainment industry, offering insights into his roles and experiences. Aspiring individuals might find inspiration in his emphasis on being open to unseen possibilities and embracing the unpredictable nature of career paths.",
             "url": "https://timesofindia.indiatimes.com/tv/news/hindi/ssudeep-sahir-the-best-opportunities-are-the-ones-you-dont-see-coming/articleshow/125508073.cms",
             "category": "National",
             "date": "2025-11-22T16:24:04Z"
         },
         {
             "title": "CSIR UGC NET 2025 exam scheduled for December 18: Check detailed exam pattern and strategy",
-            "summary": "The CSIR UGC NET 2025 exam is scheduled for December 18. This national-level examination is crucial for aspirants pursuing Junior Research Fellowships and lectureships in various science subjects. The article will provide detailed insights into the exam pattern and effective strategies, aiding candidates in their preparation to secure positions in research and academia, contributing to national scientific development.",
+            "summary": "The CSIR UGC NET 2025 examination is scheduled for December 18. Aspirants aiming for Junior Research Fellowships and Assistant Professorships in science disciplines should prioritize reviewing the detailed exam pattern and formulating a robust preparation strategy. This crucial national-level test for scientific research and academic careers in India requires thorough planning to succeed.",
             "url": "https://timesofindia.indiatimes.com/education/news/csir-ugc-net-2025-exam-scheduled-for-december-18-check-detailed-exam-pattern-and-strategy/articleshow/125507815.cms",
             "category": "National",
             "date": "2025-11-22T16:07:33Z"
         },
         {
             "title": "Uttarakhand receives Rs 200 crore incentive for mining sector reforms",
-            "summary": "Uttarakhand has been awarded a total incentive of Rs 200 crore by the Union Ministry of Mines for its significant reforms in the mining sector, including an additional Rs 100 crore. These funds aim to bolster efficient, sustainable mining practices, contributing to state revenue and responsible resource management. This initiative underscores the central government's encouragement of policy reforms for economic development.",
+            "summary": "Uttarakhand has been awarded a total incentive of Rs 200 crore by the Union Ministry of Mines for its significant reforms in the mining sector. This includes an additional Rs 100 crore, recognizing the state's efforts to enhance transparency, efficiency, and sustainable practices in mineral resource management. This initiative aims to boost revenue and improve governance in the sector.",
             "url": "https://timesofindia.indiatimes.com/india/uttarakhand-receives-200-crore-incentive-for-mining-sector-reforms/articleshow/125507739.cms",
             "category": "National",
             "date": "2025-11-22T16:00:22Z"
         },
         {
-            "title": "Chester, Warner line up another state volleyball championship match in Class B",
-            "summary": "On November 22nd, Rapid City's Class B state volleyball championship will feature a familiar final between Chester and Warner. Two-time reigning champions, the Flyers, convincingly secured their spot by defeating Ben 3-0. This eagerly awaited showdown continues a recent trend of these top teams meeting for the state title, promising intense competition.",
-            "url": "https://www.mitchellrepublic.com/sports/prep/chester-warner-line-up-another-state-volleyball-championship-match-in-class-b",
-            "category": "National",
-            "date": "2025-11-22T15:39:00Z"
-        },
-        {
-            "title": "Russia claims more land in Ukraine as US pushes its plan; EU, UK regroup",
-            "summary": "Russian forces are reporting continued advances in eastern Ukraine. Concurrently, the United States is intensifying diplomatic pressure on Kyiv and its European allies to accept a proposed 28-point plan. This highlights escalating military developments and significant international diplomatic efforts to influence the ongoing conflict and its resolution, involving major global powers.",
-            "url": "https://www.aljazeera.com/news/2025/11/22/russia-claims-more-land-in-ukraine-as-us-pushes-its-plan-eu-uk-regroup",
-            "category": "International",
-            "date": "2025-11-22T15:23:10Z"
-        },
-        {
-            "title": "IBPS RRB Office Assistant 2025 admit card expected to be released soon at ibps.in: Check complete details here",
-            "summary": "The Institute of Banking Personnel Selection (IBPS) is soon expected to release admit cards for the RRB Office Assistant 2025 examination on its official website, ibps.in. This recruitment drive is for various Regional Rural Banks across India, representing a significant national opportunity for graduates seeking careers in the public sector. Aspirants should monitor the website for further updates on this important national recruitment process.",
-            "url": "https://timesofindia.indiatimes.com/education/news/ibps-rrb-office-assistant-2025-admit-card-expected-to-release-soon-at-ibps-in-check-complete-details-here/articleshow/125507350.cms",
-            "category": "National",
-            "date": "2025-11-22T15:14:02Z"
-        },
-        {
-            "title": "Op Sindoor was trusted orchestra where every musician played synergistic role: Army chief",
-            "summary": "Operation Sindoor exemplified exceptional coordination within the Indian armed forces, likened to a 'trusted orchestra' with simultaneous and synergistic roles. This enabled them to swiftly neutralize nine terrorist targets in a mere 22 minutes. Such operations underscore the critical importance of inter-service synergy and rapid execution for national security, demonstrating the professional efficiency aspirants can expect.",
-            "url": "https://economictimes.indiatimes.com/news/defence/op-sindoor-was-trusted-orchestra-where-every-musician-played-synergistic-role-army-chief/articleshow/125507370.cms",
-            "category": "Defence",
-            "date": "2025-11-22T15:13:48Z"
-        },
-        {
-            "title": "Drones spotted near Dutch military base",
-            "summary": "Unidentified drones were observed hovering over a NATO military base in the Netherlands, prompting Dutch defence personnel to deploy weapons in an attempt to counter them. This incident underscores the escalating security challenges posed by drone technology, demanding heightened vigilance and robust countermeasures for protecting critical military infrastructure and national defence interests within the NATO alliance.",
-            "url": "https://www.bbc.com/news/articles/cewjlr0v02ro",
-            "category": "Defence",
-            "date": "2025-11-22T14:34:36Z"
-        },
-        {
-            "title": "Top 5 US universities hosting the highest number of international students",
-            "summary": "International student enrollment in the U.S. is slowing, declining by 17% in new admissions. Despite this drop, the total international student population remains robust, exceeding 1.17 million. This trend indicates a decrease in fresh intake while the U.S. continues to host a substantial number of foreign students, highlighting its enduring, albeit shifting, appeal as a global educational hub.",
-            "url": "https://timesofindia.indiatimes.com/education/news/top-5-us-universities-hosting-the-highest-number-of-international-students/articleshow/125505924.cms",
-            "category": "International",
-            "date": "2025-11-22T13:05:02Z"
-        },
-        {
-            "title": "2025 Vanderbilt Football Mailbag #11: Answers to Your Questions",
-            "summary": "The provided article snippet, framed as a reader's letter, delves into sports strategy, specifically an 'up-tempo offensive' performance. It critically examines whether this revelation represents a sustainable strategic tool for upcoming matchups against significant opponents like 'Kentucky & THEM,' or if it was merely a singular, non-replicable event, prompting tactical debate among enthusiasts.",
-            "url": "https://www.anchorofgold.com/mailbag/30293/2025-vanderbilt-football-mailbag-11-answers-to-your-questions",
-            "category": "National",
-            "date": "2025-11-22T12:21:13Z"
-        },
-        {
             "title": "WWII Enigma machine sells for over half a million dollars at auction \u2014 this was one of the rare four-rotor 'M4' models",
-            "summary": "A rare four-rotor WWII Enigma machine was recently auctioned by Christie's in Paris, fetching double its estimated price. These complex cryptographic devices were crucial for secure military communications during the war. Their deciphering significantly aided Allied efforts, underscoring their immense historical and defence significance, making such artifacts highly valued.",
+            "summary": "A rare four-rotor WWII Enigma machine, critical for wartime encryption and intelligence, recently sold for double its estimated price at a Christie's auction in Paris. Described as one of the hardest and rarest Enigma machines, its sale underscores the historical significance and technological prowess central to military strategy during the Second World War.",
             "url": "https://www.tomshardware.com/tech-industry/wwii-enigma-machine-sells-for-over-half-a-million-dollars-at-auction-this-was-one-of-the-rare-4-rotor-m4-models",
             "category": "Defence",
             "date": "2025-11-22T11:00:00Z"
-        },
-        {
-            "title": "Tejas crash: Pakistan Defence Minister Khawaja Asif condoles Indian pilot's death in Dubai Air Show crash",
-            "summary": "Pakistan Defence Minister Khawaja Asif offered condolences for an Indian pilot's death during the Dubai Air Show. He stated that the rivalry between the two nations is limited 'to the skies only,' implying humanity and respect transcend geopolitical tensions. This significant gesture from a top Pakistani official highlights a rare moment of diplomatic goodwill amidst ongoing regional complexities, relevant for understanding international relations.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/tejas-crashpakistan-defence-minister-khawaja-asif-condoles-indian-pilots-death-in-dubai-air-show-crash/articleshow/125503786.cms",
-            "category": "Defence",
-            "date": "2025-11-22T10:31:58Z"
-        },
-        {
-            "title": "UK Right of Reply on behalf of AUKUS partners to the IAEA Board of Governors, November 2025",
-            "summary": "This document outlines a speech concerning the transfer of nuclear materials within the AUKUS security pact, specifically addressing safeguards under the Nuclear Non-Proliferation Treaty (NPT). It focuses on ensuring that the provision of nuclear propulsion technology to Australia complies with international non-proliferation standards, a critical aspect of global nuclear security and multilateral defence cooperation.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2025/australia-251121-ukfcdo01.htm",
-            "category": "Defence",
-            "date": "2025-11-22T10:19:06Z"
-        },
-        {
-            "title": "Friday's local scoreboard for Nov. 22",
-            "summary": "November 22nd saw collegiate hockey results, including games from NCHC and Atlantic Hockey conferences. A key matchup in Atlantic Hockey featured the Air Force Academy's team defeating the Army Academy's team 6-3. Other winners included Minnesota Duluth, Denver, Miami, and Western Michigan, highlighting competitive spirit in collegiate sports among these institutions.",
-            "url": "https://www.grandforksherald.com/sports/prep/fridays-local-scoreboard-for-nov-22",
-            "category": "Defence",
-            "date": "2025-11-22T10:18:00Z"
-        },
-        {
-            "title": "USS Asheville Returns Home to Naval Base Guam",
-            "summary": "The US Navy's Los Angeles-class fast-attack submarine USS Asheville (SSN 758) recently returned to Naval Base Guam. This event underscores the continuous operational deployment and strategic importance of US submarine forces in the Pacific. Guam serves as a critical forward operating base, essential for maintaining regional security and projecting naval power, highlighting ongoing readiness and presence.",
-            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-usn01.htm",
-            "category": "Defence",
-            "date": "2025-11-22T10:10:57Z"
-        },
-        {
-            "title": "U.S., Republic of Korea Conduct Maritime Counter Special Operations Forces Exercise",
-            "summary": "The U.S. Navy and Republic of Korea (ROK) Navy recently conducted a Maritime Cooperation event in Pyeongtaek, South Korea. This joint activity, led by the U.S. 7th Fleet, underscores the robust alliance and interoperability between the two nations' naval forces. Such exercises are crucial for enhancing regional security, interoperability, and collective defense capabilities, vital for stability in the Indo-Pacific.",
-            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-seventhfleet01.htm",
-            "category": "Defence",
-            "date": "2025-11-22T10:10:57Z"
-        },
-        {
-            "title": "EU Indo-Pacific Ministerial Forum, Brussels, 20-21 November 2025 \"Building together a resilient, prosperous and secure future\" Chair's Statement",
-            "summary": "The European External Action Service (EEAS) has scheduled an announcement for November 21, 2025, featuring Kaja Kallas. As the EU High Representative for Foreign Affairs and Security Policy and Vice-President of the European Commission, Kallas, based in Brussels, directs crucial European diplomatic and security initiatives. While specific details remain undisclosed, this upcoming release underscores EU involvement in international relations and global strategic matters.",
-            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251121-eeas03.htm",
-            "category": "International",
-            "date": "2025-11-22T10:10:57Z"
-        },
-        {
-            "title": "The Arctic Convoy Museum",
-            "summary": "A designer recently unveiled new patterns developed specifically for the Arctic Convoy Museum in Aultbea. The primary objective of these unique designs is to generate funds for the museum's operations. This initiative directly supports an institution dedicated to preserving the history of the Arctic Convoys, which are significant in naval and military history.",
-            "url": "https://katedaviesdesigns.com/2025/11/22/the-arctic-convoy-museum/",
-            "category": "Defence",
-            "date": "2025-11-22T09:40:49Z"
-        },
-        {
-            "title": "Spacetech startup Agnikul Cosmos raises Rs 150 crore at $500 million valuation",
-            "summary": "Indian spacetech startup Agnikul Cosmos has secured Rs 150 crore ($17 million) in a new funding round, boosting its valuation to $500 million. This investment highlights the significant growth and private sector confidence in India's burgeoning space industry. For SSB aspirants, it showcases indigenous technological advancement and the increasing strategic importance of the private space sector in national development.",
-            "url": "https://economictimes.indiatimes.com/tech/funding/spacetech-startup-agnikul-cosmos-raises-rs-150-crore-at-500-million-valuation/articleshow/125502954.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-22T09:34:02Z"
-        },
-        {
-            "title": "IN PHOTOS | This week's most compelling images",
-            "summary": "This news snippet introduces a selection of the week's top images from various news agencies, documenting the evolving world. It specifically mentions Heffel Fine Art Auction House president David, hinting that coverage may include significant cultural or market events. These images collectively aim to capture pivotal happenings and trends shaping our contemporary environment.",
-            "url": "https://www.cbc.ca/news/world/topshots-2025-11-22-9.6987460",
-            "category": "National",
-            "date": "2025-11-22T09:00:00Z"
-        },
-        {
-            "title": "Successful cryogenic engine start enables enhanced mission flexibility for ISRO",
-            "summary": "ISRO has successfully qualified its CE20 cryogenic engine for single-start flight operations, achieving thrust levels between 19 and 22 tonnes. This significant advancement strengthens India's space capabilities, crucial for launching heavy satellites and future interplanetary missions. It marks a major milestone for ISRO, enabling more demanding space exploration and national security applications through advanced propulsion technology.",
-            "url": "https://www.spacedaily.com/reports/Successful_cryogenic_engine_start_enables_enhanced_mission_flexibility_for_ISRO_999.html",
-            "category": "Sci & Tech",
-            "date": "2025-11-22T07:57:10Z"
-        },
-        {
-            "title": "Bigg Boss Tamil 9: Ex-contestant Kavin to grace the show",
-            "summary": "Former Bigg Boss Tamil contestant Kavin made a surprise appearance on the ongoing Season 9 of the popular reality television show. His return is likely to create excitement among fans and current housemates, potentially impacting the show's dynamics. This guest appearance adds a new layer of interest for viewers following the latest season of Bigg Boss Tamil.",
-            "url": "https://timesofindia.indiatimes.com/tv/news/tamil/bigg-boss-tamil-9-ex-contestant-kavin-to-grace-the-show/articleshow/125501431.cms",
-            "category": "National",
-            "date": "2025-11-22T07:22:57Z"
-        },
-        {
-            "title": "Are Gen Z unemployable, or are workplaces unprepared for a new generation?",
-            "summary": "The label of 'unemployable' for Gen Z often overlooks unique shaping circumstances. Pandemic disruptions, predominantly digital socialization, and limited early job opportunities have significantly impacted their work readiness. This has led to perceived gaps in crucial soft skills. Understanding these foundational factors is vital for effectively integrating Gen Z into the workforce, fostering their potential and addressing challenges comprehensively.",
-            "url": "https://timesofindia.indiatimes.com/education/careers/news/are-gen-z-unemployable-or-are-workplaces-unprepared-for-a-new-generation/articleshow/125501382.cms",
-            "category": "National",
-            "date": "2025-11-22T07:22:50Z"
-        },
-        {
-            "title": "Tejas Crash: Who Was Wing Commander Namansh Syal? The IAF Pilot Killed In Dubai Air Show Crash",
-            "summary": "IAF Wing Commander Namansh Syal tragically died when a Tejas aircraft crashed during an air demonstration at the Dubai Air Show on Friday. This incident, involving India's indigenous fighter, highlights the inherent risks in aerospace demonstrations and represents a significant loss for the Indian Air Force and the nation, especially while showcasing capabilities on an international platform.",
-            "url": "https://www.ndtvprofit.com/nation/tejas-crash-who-was-wing-commander-namansh-syal-the-iaf-pilot-killed-in-dubai-air-show-crash",
-            "category": "Defence",
-            "date": "2025-11-22T07:09:50Z"
-        },
-        {
-            "title": "U.S. confirms $700 million NASAMS sale to Taiwan amid rising tensions with China",
-            "summary": "The U.S. has confirmed a $698.9 million deal to supply Taiwan with three National Advanced Surface-to-Air Missile Systems (NASAMS). These medium-range defense systems are proven effective against drones, significantly bolstering Taiwan's air defense capabilities. This strategic sale underscores U.S. support for Taiwan's self-defense, a crucial development for regional security dynamics and military aspirants to note.",
-            "url": "https://www.naturalnews.com/2025-11-22-us-confirms-sale-of-nasams-to-taiwan.html",
-            "category": "Defence",
-            "date": "2025-11-22T06:00:00Z"
-        },
-        {
-            "title": "Agnikul Cosmos raises $17 million funding at $0.5 billion valuation",
-            "summary": "Chennai-based space-tech company Agnikul Cosmos has successfully raised $17 million (INR 150 crore) in a significant funding round led by various investors, including HDFC Bank. This investment highlights the robust growth and increasing private sector participation in India's space technology landscape. For SSB aspirants, this signifies India's continuous progress in high-tech sectors, contributing to national self-reliance and advanced capabilities in space exploration and technology development.",
-            "url": "https://www.thehindubusinessline.com/companies/agnikul-cosmos-raises-17-million-funding-at-05-billion-valuation/article70310470.ece",
-            "category": "Sci & Tech",
-            "date": "2025-11-22T05:50:53Z"
-        },
-        {
-            "title": "Light after shells: How Indian Army doctors gave new vision to civilians caught in Pakistam's fury post Op Sindoor",
-            "summary": "Remote Jammu and Kashmir borderlands historically faced profound darkness due to a lack of electricity. This article highlights a critical electrification initiative, set to illuminate these isolated communities. Bringing power is transforming lives, fostering socio-economic development, and better integrating these strategic regions, significantly improving quality of life and strengthening national objectives in a challenging terrain.",
-            "url": "https://economictimes.indiatimes.com/news/india/light-after-shells-how-indian-army-doctors-gave-new-vision-to-civilians-caught-in-pakistams-fury-post-op-sindoor/articleshow/125500190.cms",
-            "category": "National",
-            "date": "2025-11-22T05:48:43Z"
-        },
-        {
-            "title": "Daily Briefing: New labour codes enter implementation tunnel",
-            "summary": "An Indian Air Force Tejas Mk1 fighter jet tragically crashed during an aerial display at the Dubai Airshow 2025 on Friday, killing its pilot, Wing Commander Namansh Syal. This incident marks the second Tejas crash, raising concerns. A comprehensive investigation into the indigenous fighter's safety and operational aspects is expected following the high-profile event.",
-            "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-november-22-new-labour-codes-10379627/",
-            "category": "Defence",
-            "date": "2025-11-22T04:21:21Z"
-        },
-        {
-            "title": "Tejas jet crash: Namansh Syal\u2019s last video shows Wing Commander meeting dignitaries",
-            "summary": "An Indian Tejas fighter jet tragically crashed during the Dubai Air Show on Friday, claiming the life of Wing Commander Namansh Syal. The indigenously-built aircraft was participating in the international event, which runs from November 17 to 24. This unfortunate accident highlights the risks involved in aerial displays and the critical nature of defence aviation.",
-            "url": "https://economictimes.indiatimes.com/news/defence/tejas-jet-crash-namansh-syals-last-video-shows-wing-commander-meeting-dignitaries/articleshow/125498700.cms",
-            "category": "Defence",
-            "date": "2025-11-22T03:41:56Z"
-        },
-        {
-            "title": "Shaken up the whole system: Air Marshal Sanjeev Kapoor (Retd) on Tejas jet crash at Dubai Air Show",
-            "summary": "An Indian Air Force (IAF) Tejas fighter jet tragically crashed during an aerial display at the Dubai Air Show, resulting in the unfortunate death of the pilot. The Tejas, India's indigenous light combat aircraft, was showcasing its capabilities at the international event. Former Air Marshal Sanjeev Kapoor (Retd) reportedly commented on the incident, underscoring the inherent risks involved in high-stakes aerial demonstrations and the dedication of military pilots.",
-            "url": "https://economictimes.indiatimes.com/news/defence/shaken-up-the-whole-system-air-marshal-sanjeev-kapoor-retd-on-tejas-jet-crash-at-dubai-air-show/articleshow/125498424.cms",
-            "category": "Defence",
-            "date": "2025-11-22T02:59:56Z"
-        },
-        {
-            "title": "Is Enlightenment Only for the Elderly?",
-            "summary": "This text fragment introduces Enlightenment as the ultimate path to liberation from earthly misery, suffering, and the karmic cycle of death and rebirth. It emphasizes Enlightenment's crucial role in freeing individuals from these existential burdens, positioning it as the ultimate solution for profound human suffering and achieving true freedom through spiritual understanding.",
-            "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/is-enlightenment-only-for-the-elderly/articleshow/125498336.cms",
-            "category": "National",
-            "date": "2025-11-22T02:54:12Z"
-        },
-        {
-            "title": "Pilot lost control or blackout due to g-forces: Defence expert Capt Anil Gaur on Tejas crash",
-            "summary": "Defence expert Captain Anil Gaur (Retd.) has speculated on the potential cause of a hypothetical Tejas aircraft crash during the upcoming Dubai Air Show 2025. He suggested the incident might occur if the pilot loses control. This expert analysis highlights critical considerations for operational safety and pilot readiness, important for aspirants observing defence technology and mission planning.",
-            "url": "https://economictimes.indiatimes.com/news/defence/pilot-lost-control-or-blackout-due-to-g-forces-defence-expert-capt-anil-gaur-on-tejas-crash/articleshow/125498263.cms",
-            "category": "Defence",
-            "date": "2025-11-22T02:44:16Z"
-        },
-        {
-            "title": "CGBSE class 10, 12 exam 2026 time table released: Check complete board examination schedule here",
-            "summary": "The Chhattisgarh Board of Secondary Education (CGBSE) has released the examination schedule for its Class 10 and 12 board exams for 2026. Students appearing for these crucial secondary and higher secondary examinations can now access the complete time table to plan their preparations effectively. This early release provides ample time for aspirants to strategize their study plans for the upcoming academic year.",
-            "url": "https://timesofindia.indiatimes.com/education/news/cgbse-class-10-12-exam-2026-time-table-released-check-complete-board-examination-schedule-here/articleshow/125498171.cms",
-            "category": "National",
-            "date": "2025-11-22T02:37:41Z"
-        },
-        {
-            "title": "22 November 2025: Best time of the day as per your zodiac sign",
-            "summary": "Astrologer Vishal Bhardwaj announced that November 22, 2025, will feature specific \"power hours\" for each zodiac sign. These designated times are said to enhance intuition and facilitate alignment with universal energy flow, offering individuals opportunities to optimize their actions and experiences. The concept focuses on leveraging celestial influences for personal benefit.",
-            "url": "https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/22-november-2025-best-time-of-the-day-as-per-your-zodiac-sign/articleshow/125491451.cms",
-            "category": "National",
-            "date": "2025-11-22T01:30:00Z"
-        },
-        {
-            "title": "Russia-Ukraine war: List of key events, day 1,367",
-            "summary": "As of Saturday, November 22, the Kremlin reported approximately 5,000 Ukrainian troops encircled by Russian forces on the eastern bank. This significant development underscores the intense fighting and tactical challenges in the ongoing conflict. For SSB aspirants, this highlights critical operational dynamics and strategic implications on the battlefield, reflecting persistent military pressure.",
-            "url": "https://www.aljazeera.com/news/2025/11/22/russia-ukraine-war-list-of-key-events-day-1367",
-            "category": "Defence",
-            "date": "2025-11-22T01:24:51Z"
-        },
-        {
-            "title": "Watch: New Submarine-Hunting Underwater Drones Undergo Tests in Baltic Sea",
-            "summary": "New GreyShark underwater drones, developed by a German company, are currently undergoing testing in the Baltic Sea. These advanced drones are specifically designed to enhance maritime security by detecting hard-to-find submarines and safeguarding vulnerable undersea data cables from potential threats. This development aims to significantly improve underwater surveillance and protection capabilities.",
-            "url": "https://biztoc.com/x/314108732234313b",
-            "category": "Defence",
-            "date": "2025-11-22T01:13:12Z"
-        },
-        {
-            "title": "Russia says it has taken string of east Ukrainian villages",
-            "summary": "Russia's Defence Ministry declared its forces captured several frontline settlements in eastern Ukraine on Friday. Kyiv has either denied or not acknowledged these claims. This development underscores the continuing territorial struggle and propaganda in the ongoing conflict, crucial for SSB aspirants to understand the complexities of international military engagements and contested claims in wartimes.",
-            "url": "https://www.thestar.com.my/news/world/2025/11/22/russia-says-it-has-taken-string-of-east-ukrainian-villages",
-            "category": "Defence",
-            "date": "2025-11-22T01:01:00Z"
-        },
-        {
-            "title": "Rs 10k crore: Cost of health cover fraud",
-            "summary": "A BCG-Medi Assist report reveals India's health insurance system suffers annual losses of \u20b98,000-10,000 crore due to pervasive fraud and waste. This substantial financial drain directly impacts insurance premiums for citizens and diverts crucial public funds, highlighting a critical national challenge in healthcare governance and financial integrity that demands robust reforms for sustainable and equitable healthcare delivery.",
-            "url": "https://timesofindia.indiatimes.com/india/rs-10k-crore-cost-of-health-cover-fraud/articleshow/125497230.cms",
-            "category": "National",
-            "date": "2025-11-21T23:23:48Z"
-        },
-        {
-            "title": "SC: Accused has right to speedy investigation",
-            "summary": "The Supreme Court affirmed the right to a speedy investigation as a fundamental right, preventing accused individuals from facing endless suffering under continuous probes. This significant ruling protects personal liberty and ensures timely justice, reinforcing due process. It advocates for greater efficiency and accountability in investigative processes within the nation's legal framework.",
-            "url": "https://timesofindia.indiatimes.com/india/sc-accused-has-right-to-speedy-investigation/articleshow/125497152.cms",
-            "category": "National",
-            "date": "2025-11-21T22:55:39Z"
-        },
-        {
-            "title": "Bihar: Nitish Kumar cedes home to BJP's dy CM, JDU takes finance",
-            "summary": "Bihar Chief Minister Nitish Kumar has reallocated crucial portfolios within the NDA government. The sensitive Home Ministry, vital for state law and order, has been assigned to BJP's Deputy CM Samrat Chaudhary. Conversely, JDU has taken charge of the Finance Ministry. This move signifies a notable shift in power-sharing dynamics and control over key administrative departments in Bihar, impacting governance.",
-            "url": "https://timesofindia.indiatimes.com/india/bihar-nitish-kumar-cedes-home-to-bjps-dy-cm-jdu-takes-finance/articleshow/125496890.cms",
-            "category": "National",
-            "date": "2025-11-21T22:41:25Z"
-        },
-        {
-            "title": "\u00a34bn maritime deal with Indonesia set to boost British jobs and support Indo-Pacific security",
-            "summary": "A new UK-Indonesia partnership is set to secure 1000 British jobs in strategic locations like Rosyth, Bristol, and Plymouth. This significant deal underscores both nations' shared commitment to stability, likely involving defence cooperation. For SSB aspirants, this highlights the UK's global defence engagement, its impact on the domestic defence industry and employment, and strengthening international strategic ties.",
-            "url": "https://www.gov.uk/government/news/4bn-maritime-deal-with-indonesia-set-to-boost-british-jobs-and-support-indo-pacific-security",
-            "category": "Defence",
-            "date": "2025-11-21T22:30:08Z"
-        },
-        {
-            "title": "IAF pilot dies as Tejas fighter crashes at Dubai air show",
-            "summary": "An Indian Air Force (IAF) pilot tragically died when his Tejas light combat aircraft crashed during a demonstration at the Dubai Airshow. The incident occurred during an aerial display, marking a somber moment for India's indigenous fighter program and the IAF. This loss underscores the inherent risks in military aviation and airshow performances, prompting an investigation into the cause.",
-            "url": "https://timesofindia.indiatimes.com/india/iaf-pilot-dies-as-tejas-fighter-crashes-at-dubai-air-show/articleshow/125496211.cms",
-            "category": "Defence",
-            "date": "2025-11-21T22:24:38Z"
-        },
-        {
-            "title": "Order against \u2018bulldozer justice\u2019 was my most important: CJI Gavai",
-            "summary": "Retiring Chief Justice of India B.R. Gavai emphasized his landmark judgment against \"bulldozer justice\" as his most crucial during his tenure. This highlights the judiciary's role in upholding due process and preventing arbitrary actions, a vital aspect of India's democratic framework and rule of law. Aspiring officers should understand the importance of judicial independence in national governance.",
-            "url": "https://timesofindia.indiatimes.com/india/order-against-bulldozer-justice-was-my-most-important-cji-gavai/articleshow/125495363.cms",
-            "category": "National",
-            "date": "2025-11-21T22:09:00Z"
         }
     ]
 }
