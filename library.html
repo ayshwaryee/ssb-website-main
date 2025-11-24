@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library - SSB Academy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <style>
+        .sidebar-link { transition: all 0.2s ease-in-out; }
+        .sidebar-link:hover, .sidebar-link.active {
+            background-color: #1d4ed8;
+            color: white;
+            transform: translateX(5px);
+        }
+        .book-cover {
+            aspect-ratio: 2/3;
+            object-fit: cover;
+            width: 100%;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="flex min-h-screen">
+        <aside class="w-64 bg-blue-900 text-white flex flex-col hidden md:flex">
+            <div class="p-6 text-center border-b border-blue-800">
+                <a href="index.html" class="flex items-center justify-center">
+                    <img src="imageout/ssb logo.png" alt="Logo" class="h-8 w-8 mr-2">
+                    <span class="text-2xl font-bold">SSB Academy</span>
+                </a>
+            </div>
+            <nav class="flex-1 p-4 space-y-2">
+                <a href="dashboard.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-tachometer-alt w-6 mr-2"></i> Dashboard
+                </a>
+                <a href="current-affairs.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-newspaper w-6 mr-2"></i> Current Affairs
+                </a>
+                <a href="study-material.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-book-reader w-6 mr-2"></i> Study Material
+                </a>
+                <a href="library.html" class="sidebar-link active flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-swatchbook w-6 mr-2"></i> Library / Books
+                </a>
+            </nav>
+            <div class="p-4 border-t border-blue-800">
+                <a href="auth.html" class="sidebar-link flex items-center px-4 py-3 rounded-lg">
+                    <i class="fas fa-sign-out-alt w-6 mr-2"></i> Logout
+                </a>
+            </div>
+        </aside>
+
+        <main class="flex-1 p-4 sm:p-8">
+            <header class="mb-8 flex justify-between items-center">
+                <div>
+                    <h1 class="text-3xl md:text-4xl font-bold text-gray-800">SSB Library 📚</h1>
+                    <p class="text-gray-600 mt-2">Curated resources for every stage of your selection.</p>
+                </div>
+                <a href="auth.html" class="bg-blue-600 text-white hover:bg-blue-700 font-semibold px-4 py-2 rounded-lg text-sm flex items-center transition-colors">
+                    <i class="fas fa-sign-out-alt mr-2"></i>Logout
+                </a>
+            </header>
+
+            <div class="space-y-8">
+
+                <section class="bg-white p-6 rounded-xl shadow-md border-l-4 border-yellow-500">
+                    <div class="flex items-center mb-6 border-b pb-4">
+                        <div class="p-3 bg-yellow-100 rounded-full mr-4">
+                            <i class="fas fa-compass text-2xl text-yellow-600"></i>
+                        </div>
+                        <div>
+                            <h2 class="text-2xl font-bold text-gray-800">Stage 0: Guide for SSB Students</h2>
+                            <p class="text-sm text-gray-500">Start here: Essential roadmaps, introduction to SSB, and daily routines.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/Do You Have It in You By AFOSOP.jpg" alt="Intro Guide" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Do You Have It in You</h3>
+                            <p class="text-xs text-gray-500 mb-2">AFOSOP</p>
+                            <a href="ssbcontent/Do You Have It in You By AFOSOP.pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div> 
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/Guide to Fitness by Col M M Nehru.jpg" alt="Intro Guide" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Guide to Fitness</h3>
+                            <p class="text-xs text-gray-500 mb-2">Col M M Nehru</p>
+                            <a href="ssbcontent/Guide to Fitness by Col M M Nehru(1).pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/The Practical Guide For Becoming An Officer.jpg" alt="Intro Guide" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">The Practical Guide For Becoming An Officer</h3>
+                            <p class="text-xs text-gray-500 mb-2">Col M M Nehru</p>
+                            <a href="ssbcontent/The Practical Guide For Becoming An Officer By Col M M Nehru.pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/The Practical Guide To Clearing SSB Psychological Tests.jpg" alt="Intro Guide" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">The Practical Guide To Clearing SSB Psychological Tests</h3>
+                            <p class="text-xs text-gray-500 mb-2">Col M M Nehru</p>
+                            <a href="ssbcontent/The Practical Guide To Clearing SSB Psychological Tests.pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/lets crack ssb.webp" alt="Intro Guide" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Let's Crack SSB</h3>
+                            <p class="text-xs text-gray-500 mb-2">SSB Crack</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/Upkar's SSB What How & Why By J. B. Mall.jpg" alt="Beginner Tips" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Upkar's SSB What How & Why </h3>
+                            <p class="text-xs text-gray-500 mb-2">J. B. Mall</p>
+                            <a href="ssbcontent/Upkar's SSB What How & Why By J. B. Mall.pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="bg-white p-6 rounded-xl shadow-md border-l-4 border-red-500">
+                    <div class="flex items-center mb-6 border-b pb-4">
+                        <div class="p-3 bg-red-100 rounded-full mr-4">
+                            <i class="fas fa-filter text-2xl text-red-600"></i>
+                        </div>
+                        <div>
+                            <h2 class="text-2xl font-bold text-gray-800">Stage I: Screening Test</h2>
+                            <p class="text-sm text-gray-500">OIR (Officer Intelligence Rating) & PPDT Resources</p>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/ppdt.webp" alt="OIR Test" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">SSB PPDT</h3>
+                            <p class="text-xs text-gray-500 mb-2">DDE</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-red-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                            </div>
+
+                            <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/oir.webp" alt="OIR Test" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">SSB OIR</h3>
+                            <p class="text-xs text-gray-500 mb-2">DDE</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-red-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/rs agarwal.webp" alt="Reasoning" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Modern Reasoning</h3>
+                            <p class="text-xs text-gray-500 mb-2">R.S. Aggarwal</p>
+                            <a href="ssbcontent/Non verbal reasoning ssb our dde.pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-red-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="bg-white p-6 rounded-xl shadow-md border-l-4 border-blue-500">
+                    <div class="flex items-center mb-6 border-b pb-4">
+                        <div class="p-3 bg-blue-100 rounded-full mr-4">
+                            <i class="fas fa-brain text-2xl text-blue-600"></i>
+                        </div>
+                        <div>
+                            <h2 class="text-2xl font-bold text-gray-800">Stage II: Psychology Tests</h2>
+                            <p class="text-sm text-gray-500">TAT, WAT, SRT & Self Description</p>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/The Practical Guide To Clearing SSB Psychological Tests.jpg" alt="Intro Guide" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">The Practical Guide To Clearing SSB Psychological Tests</h3>
+                            <p class="text-xs text-gray-500 mb-2">Col M M Nehru</p>
+                            <a href="ssbcontent/The Practical Guide To Clearing SSB Psychological Tests.pdf" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-yellow-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/tat wat.webp" alt="TAT WAT" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Mastering TAT/WAT</h3>
+                            <p class="text-xs text-gray-500 mb-2">SSB Crack</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-blue-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="bg-white p-6 rounded-xl shadow-md border-l-4 border-green-500">
+                    <div class="flex items-center mb-6 border-b pb-4">
+                        <div class="p-3 bg-green-100 rounded-full mr-4">
+                            <i class="fas fa-users text-2xl text-green-600"></i>
+                        </div>
+                        <div>
+                            <h2 class="text-2xl font-bold text-gray-800">Stage III: GTO & Interview</h2>
+                            <p class="text-sm text-gray-500">Group Dynamics, Lecturette & Personal Interview</p>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/GTO-Tasks-in-SSB-Interview-A-Complete-Guide-1-320.webp" alt="GTO" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">GTO Tasks Guide</h3>
+                            <p class="text-xs text-gray-500 mb-2">Major Ravindran</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-green-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/ssb interviews.webp" alt="Interview" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">SSB Interview</h3>
+                            <p class="text-xs text-gray-500 mb-2">Arihant Experts</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-green-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="bg-white p-6 rounded-xl shadow-md border-l-4 border-purple-500">
+                    <div class="flex items-center mb-6 border-b pb-4">
+                        <div class="p-3 bg-purple-100 rounded-full mr-4">
+                            <i class="fas fa-pen-alt text-2xl text-purple-600"></i>
+                        </div>
+                        <div>
+                            <h2 class="text-2xl font-bold text-gray-800">Written Exam Prep</h2>
+                            <p class="text-sm text-gray-500">CDS, NDA & AFCAT (Maths, English, GK)</p>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/pathfinder.webp" alt="Pathfinder" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Pathfinder NDA/NA</h3>
+                            <p class="text-xs text-gray-500 mb-2">Arihant</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-purple-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                        <div class="group">
+                            <div class="relative overflow-hidden rounded-lg shadow-md mb-3">
+                                <img src="ssbcontent/wren book.webp" alt="English" class="book-cover group-hover:scale-105 transition-transform duration-300">
+                            </div>
+                            <h3 class="font-bold text-gray-800 text-sm truncate">Wren & Martin</h3>
+                            <p class="text-xs text-gray-500 mb-2">English Grammar</p>
+                            <a href="#" class="block w-full text-center bg-gray-100 text-gray-700 hover:bg-purple-600 hover:text-white text-xs font-bold py-2 rounded transition-colors">
+                                <i class="fas fa-download mr-1"></i> Download
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+</body>
+</html>
