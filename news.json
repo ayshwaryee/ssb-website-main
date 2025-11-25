@@ -1,89 +1,180 @@
 {
-    "last_updated": "2025-11-25T06:25:44.770420+00:00",
+    "last_updated": "2025-11-25T12:33:57.433952+00:00",
     "articles": [
         {
+            "title": "Catholic Caucus: Daily Mass Readings 24-November-2025",
+            "summary": "An ancient scripture highlights the profound value of sacrificial giving. It recounts a poor widow donating two mites, her entire possession, while rich individuals gave generously from their surplus. The lesson emphasizes that true contribution lies in giving one's all, irrespective of monetary value, a principle of selfless dedication highly relevant for aspiring leaders in service.",
+            "url": "https://freerepublic.com/focus/f-religion/4354301/posts",
+            "category": "Defence",
+            "date": "2025-11-24T12:32:32Z"
+        },
+        {
+            "title": "Gainers & Losers: HAL, BEL among top 6 top movers on Monday",
+            "summary": "TeamLease Services shares rallied 11% on Monday, reaching a high of Rs 1,840.65 on the BSE. This significant market movement was primarily driven by positive investor sentiment surrounding the new labour codes. The Street views these reforms as potentially beneficial for staffing and human resource service providers, signaling anticipated streamlining of labour regulations and operational efficiencies for businesses in India.",
+            "url": "https://m.economictimes.com/markets/web-stories/gainers-amp-losers-hal-bel-among-top-6-top-movers-on-monday/slideshow/125541162.cms",
+            "category": "National",
+            "date": "2025-11-24T12:28:41Z"
+        },
+        {
+            "title": "FPT Industrial Appoints AB Power (A brand by AB Engineering and Systems) as Its Authorized Distributor in India",
+            "summary": "FPT Industrial, an Iveco Group brand specializing in advanced powertrain solutions for on-road, off-road, marine, and power generation applications, has announced 'AB Power'. This new brand, launched by AB..., marks a development within the industrial powertrain sector. This announcement highlights ongoing innovation in technologies crucial for various industries.",
+            "url": "https://www.thehindubusinessline.com/brandhub/fpt-industrial-appoints-ab-power-a-brand-by-ab-engineering-and-systems-as-its-authorized-distributor-in-india/article70307150.ece",
+            "category": "Sci & Tech",
+            "date": "2025-11-24T12:25:38Z"
+        },
+        {
+            "title": "Qt for MCUs vs LVGL: A Comparative Study from Design to Deployment",
+            "summary": "An independent study by Spyrosoft reveals that Qt for MCUs significantly reduces development time for microcontroller graphical user interfaces (GUIs) by 30% compared to LVGL. This efficiency boost in embedded system software development can accelerate the creation of user interfaces for various applications, including critical infrastructure and potentially defence systems, by streamlining the development process for complex embedded devices.",
+            "url": "https://www.qt.io/blog/qt-for-mcus-vs-lvgl-a-comparative-study-from-design-to-deployment",
+            "category": "Sci & Tech",
+            "date": "2025-11-24T12:10:32Z"
+        },
+        {
+            "title": "France Data Center Colocation Analysis Report 2025: Market to Expand by Almost $2.5 Billion by 2030, Driven by AI Demand, Sustainability, Cloud Connectivity, Enhanced Submarine Cable Infrastructure",
+            "summary": "A new report on the 'France Data Center Colocation Market' for 2025-2030 has been released. This analysis details supply and demand trends within France's digital infrastructure, specifically concerning shared data center facilities. It signifies ongoing expansion and investment in critical technological infrastructure, crucial for understanding global economic development and strategic importance in the digital era.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/24/3193384/28124/en/France-Data-Center-Colocation-Analysis-Report-2025-Market-to-Expand-by-Almost-2-5-Billion-by-2030-Driven-by-AI-Demand-Sustainability-Cloud-Connectivity-Enhanced-Submarine-Cable-Inf.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-24T12:09:00Z"
+        },
+        {
+            "title": "Ukraine 'coalition of the willing' reportedly planning to meet after confusion, dissension over peace plan",
+            "summary": "The United States and Ukraine conducted peace talks in Switzerland, striving to formulate a mutually acceptable plan to resolve the ongoing conflict. Discussions focused on modifying an earlier U.S. proposal to accommodate Kyiv and its European allies' concerns. This diplomatic engagement underscores persistent international efforts to achieve a negotiated settlement, highlighting the complex collaborative process required for global stability and conflict resolution.",
+            "url": "https://www.cbc.ca/news/world/suisse-geneva-ukraine-us-russia-war-talks-9.6989924",
+            "category": "International",
+            "date": "2025-11-24T12:05:14Z"
+        },
+        {
+            "title": "A Floundering India in a Changing World Order",
+            "summary": "PhD candidate Shinzani Jain highlights Asia, particularly China, as a key driver of global economic growth and a force reshaping the world order. Her analysis examines India's foreign policy under Modi, likely exploring its strategies and adaptations in response to these evolving international dynamics and the rise of Asian powers. This positions India's role within a changing global landscape.",
+            "url": "https://blogs.lse.ac.uk/internationaldevelopment/2025/11/24/a-floundering-india-in-a-changing-world-order/",
+            "category": "International",
+            "date": "2025-11-24T12:05:04Z"
+        },
+        {
+            "title": "The Women Quietly Quitting Their Husbands",
+            "summary": "The article introduces the author's mother as a vibrant, loud woman with a love for jokes and distinctive jewelry. It delves into the challenging 25-year marriage to her father, marked by tumultuous periods. This personal narrative hints at underlying struggles and complexities within their domestic life, reflecting on personal resilience.",
+            "url": "http://www.thecut.com/article/midlife-quiet-divorce.html",
+            "category": "National",
+            "date": "2025-11-24T12:00:39Z"
+        },
+        {
+            "title": "Russian air defences down two drones en route to Moscow, defence ministry says",
+            "summary": "Investment Ideas and Stock Reports Plus provide tools for wealth growth. These services offer stock ideas, sectoral trends, stock scores, and upside potential analysis. Including BigBull Portfolio, they aim to guide investors in strategic decisions, helping to buy low and sell high for maximized financial returns through informed market insights.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/russian-air-defences-down-two-drones-en-route-to-moscow-defence-ministry-says/articleshow/125540221.cms",
+            "category": "National",
+            "date": "2025-11-24T11:44:33Z"
+        },
+        {
+            "title": "UP DElEd registrations 2025 starts at updeled.gov.in: Direct link to apply here",
+            "summary": "The Uttar Pradesh government has initiated online registrations for UP D.El.Ed 2025, the compulsory teacher-training diploma essential for primary and upper primary school educators. The registration portal became active on November 24, marking a significant move to ensure qualified teaching staff in the state's education system. This program is crucial for aspirants aiming for teaching careers within Uttar Pradesh schools.",
+            "url": "https://timesofindia.indiatimes.com/education/news/up-deled-registrations-2025-starts-at-updeled-gov-in-direct-link-to-apply-here/articleshow/125537914.cms",
+            "category": "National",
+            "date": "2025-11-24T10:37:42Z"
+        },
+        {
+            "title": "Finland Data Center Colocation Market Supply & Demand Analysis Report 2025-2030: AI Adoption, Sustainability Leadership, Strong Cloud Connectivity, and Expanding Submarine Cable Infrastructure",
+            "summary": "A new report detailing the Finland Data Center Colocation Market's supply and demand analysis for 2025-2030 has been published by ResearchAndMarkets.com. This comprehensive study offers valuable insights into the growth and investment landscape of Finland's critical digital infrastructure, underscoring its role in the evolving global technological ecosystem.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/24/3193264/28124/en/Finland-Data-Center-Colocation-Market-Supply-Demand-Analysis-Report-2025-2030-AI-Adoption-Sustainability-Leadership-Strong-Cloud-Connectivity-and-Expanding-Submarine-Cable-Infrastr.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-24T09:47:00Z"
+        },
+        {
+            "title": "Tejas crash an \u2018isolated occurrence\u2019, says HAL",
+            "summary": "Hindustan Aeronautics Ltd (HAL) confirmed the recent Tejas aircraft crash at the Dubai Air Show was an isolated incident. HAL stated this unfortunate event does not impact its business operations or finances. The indigenously developed Tejas Light Combat Aircraft (LCA) is crucial for India's defence capabilities and HAL's export ambitions, despite this setback during an international display.",
+            "url": "https://economictimes.indiatimes.com/news/defence/tejas-crash-an-isolated-occurrence-says-hal/articleshow/125534870.cms",
+            "category": "Defence",
+            "date": "2025-11-24T07:39:55Z"
+        },
+        {
+            "title": "Hindustan Aeronautics calls Tejas jet crash at Dubai Air Show an \u2018isolated occurrence\u2019, assures no impact on finances",
+            "summary": "Hindustan Aeronautics Limited (HAL) issued a clarification regarding a recent incident at the Dubai Air Show. The state-owned aerospace major emphasized that the crash was an isolated case and would have no impact on its broader operations or financial performance. This statement aims to reassure stakeholders following the event, affirming business as usual despite the isolated occurrence.",
+            "url": "https://www.livemint.com/companies/news/hindustan-aeronautics-hal-calls-dubai-air-show-crash-an-isolated-occurrence-tejas-jet-no-impact-on-finances-operations-11763967856427.html",
+            "category": "Defence",
+            "date": "2025-11-24T07:31:56Z"
+        },
+        {
+            "title": "HAL Says Tejas Crash At Dubai Airshow Due To 'Exceptional Circumstances'",
+            "summary": "Hindustan Aeronautics Ltd. (HAL) has clarified that the recent Tejas Light Combat Aircraft crash during the Dubai Airshow was an isolated occurrence. HAL emphasized the incident arose from exceptional circumstances, not indicating systemic issues with the indigenous fighter jet. This statement aims to reassure potential international buyers and affirm the Tejas LCA's reliability and operational integrity, which is crucial for India's defence exports and self-reliance.",
+            "url": "https://www.ndtvprofit.com/business/hal-says-tejas-crash-at-dubai-airshow-due-to-exceptional-circumstances",
+            "category": "Defence",
+            "date": "2025-11-24T07:23:14Z"
+        },
+        {
+            "title": "Fantasy Basketball Week 6 Schedule: Injury Report, Sleepers & Matchups",
+            "summary": "The latest NBA news highlights significant injuries impacting star players like Giannis Antetokounmpo and OG Anunoby. These developments on the NBA injury report require teams to adapt proactive strategies. For sports enthusiasts, understanding these player statuses is crucial for upcoming game analyses and team performances. This underscores the demanding physical nature of elite professional basketball.",
+            "url": "https://sports.yahoo.com/article/fantasy-basketball-week-6-schedule-072300885.html",
+            "category": "International",
+            "date": "2025-11-24T07:23:00Z"
+        },
+        {
+            "title": "HAL shares fall 3.6% after Tejas Jet crash at Dubai Airshow; brokerages maintain positive outlook",
+            "summary": "An Indian Air Force Tejas fighter jet crashed during a demonstration flight, prompting a significant 3.57% decline in shares of Hindustan Aeronautics Limited (HAL), its manufacturer. HAL's stock fell to \u20b94,430.80 on Monday afternoon, recovering slightly from an intraday low. This incident underscores the market's sensitivity to operational issues concerning key indigenous defence platforms and their producers.",
+            "url": "https://www.thehindubusinessline.com/markets/stock-markets/hal-shares-fall-36-after-tejas-jet-crash-at-dubai-airshow-brokerages-maintain-positive-outlook/article70316579.ece",
+            "category": "Defence",
+            "date": "2025-11-24T07:08:14Z"
+        },
+        {
+            "title": "Ayodhya Ram Mandir flag: PM Modi to hoist it, made with parachute fabric, withstands 200 kmph winds and more interesting facts",
+            "summary": "On November 25, 2025, Prime Minister Narendra Modi is slated to hoist a specially engineered 22-by-11-foot saffron flag atop the newly completed Ram temple in Ayodhya. This significant ceremony marks the successful conclusion of the temple's construction, symbolizing a pivotal national and cultural milestone. For SSB aspirants, understanding such events highlights India's socio-cultural and developmental landscape.",
+            "url": "https://m.economictimes.com/news/india/ayodhya-ram-mandir-flag-pm-modi-to-hoist-it-made-with-parachute-fabric-withstands-200-kmph-winds-and-more-interesting-facts/ayodhya-ram-mandir-flag-to-be-hoisted-by-pm-modi-on-november-25-2025/slideshow/125534510.cms",
+            "category": "National",
+            "date": "2025-11-24T07:01:48Z"
+        },
+        {
+            "title": "India\u2019s new indigenous anti-submarine warfare vessel INS Mahe joins the fleet",
+            "summary": "The Indian Navy commissioned INS Mahe, the first Anti-Submarine Warfare Shallow Water Craft (ASW SWC) in its Mahe-class series. This commissioning significantly boosts the Navy's capabilities for coastal defence and anti-submarine operations in shallow waters, enhancing maritime security and strengthening India's naval prowess. This marks a crucial step in modernizing the fleet.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indias-new-indigenous-anti-submarine-warfare-vessel-ins-mahe-joins-the-fleet/articleshow/125534050.cms",
+            "category": "Defence",
+            "date": "2025-11-24T06:38:44Z"
+        },
+        {
+            "title": "INS Mahe: All about Indian Navy\u2019s newest anti-submarine warfare ship",
+            "summary": "The Indian Navy has commissioned INS Mahe, the lead vessel of the Mahe-class anti-submarine warfare shallow-water craft (ASW-SWC). This commissioning significantly enhances India's coastal defence capabilities and its ability to detect and neutralize enemy submarines in shallow waters. INS Mahe is crucial for safeguarding maritime interests and securing vital sea lanes, thereby bolstering national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/ins-mahe-all-about-indian-navys-newest-anti-submarine-warfare-asset/articleshow/125533976.cms",
+            "category": "Defence",
+            "date": "2025-11-24T06:37:02Z"
+        },
+        {
             "title": "Ashish Kacholia, Anil Goel, Mukul Agrawal & Ashish Dhawan lose big as portfolios crash up to 29%",
-            "summary": "India's top marquee investors witnessed a sharp decline in their portfolio values during the July-September quarter, with several experiencing double-digit losses. This significant depreciation was primarily driven by heightened market volatility. For SSB aspirants, understanding such economic trends is crucial as they reflect national financial health and market dynamics, impacting overall economic stability.",
+            "summary": "Most of India's top investors saw significant portfolio value drops during the July-September quarter. Many portfolios experienced double-digit declines amidst market volatility. This highlights a period of financial turbulence within the nation's investment landscape. Understanding such economic trends is important for comprehending national stability and its broader implications on resource allocation and development.",
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-anil-goel-mukul-agrawal-ashish-dhawan-lose-big-as-portfolios-crash-up-to-29/articleshow/125533436.cms",
             "category": "National",
             "date": "2025-11-24T06:21:12Z"
         },
         {
             "title": "5 government jobs to apply for in this week: Check eligibility, deadlines, and where to register",
-            "summary": "This week presents five new government job opportunities for aspirants to consider. The full article details specific eligibility criteria, application deadlines, and registration procedures for these positions across various major government organizations. Aspiring candidates are advised to consult the complete information to ensure a proper application process and maximize their chances for these national-level career prospects.",
+            "summary": "This article details five current government job openings, providing essential information for aspirants. It covers eligibility criteria, application deadlines, and registration procedures. Individuals aiming for careers in various government organizations should review these national opportunities quickly to ensure timely application, maximizing their chances for selection in this competitive sector.",
             "url": "https://timesofindia.indiatimes.com/education/news/5-government-jobs-to-apply-for-in-this-week-check-eligibility-deadlines-and-where-to-register/articleshow/125533504.cms",
             "category": "National",
             "date": "2025-11-24T06:11:34Z"
         },
         {
             "title": "Explained: What India's new labour laws mean for Eternal, Swiggy investors",
-            "summary": "India's new labour codes, effective November 21, are imposing significant cost burdens on major food delivery and quick commerce companies like Swiggy and Eternal. This overhaul is set to challenge their existing business models, potentially impacting operations and profitability within the booming gig economy. SSB aspirants should observe how national policy changes affect key economic sectors.",
+            "summary": "India's recent labour code overhaul, effective November 21, is imposing a significant new cost burden on major food delivery and quick commerce giants like Swiggy and Eternal. This policy change threatens to impact the operational models of these booming digital platforms, potentially reshaping the gig economy landscape and affecting employment practices within the sector.",
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-what-indias-new-labour-laws-mean-for-eternal-swiggy-investors/articleshow/125533434.cms",
             "category": "National",
             "date": "2025-11-24T06:07:32Z"
         },
         {
             "title": "Hindustan Aeronautics shares tumble over 8% on BSE",
-            "summary": "Shares of Hindustan Aeronautics Ltd (HAL) tumbled over 8% following the crash of a Tejas aircraft, manufactured by the PSU, during an aerial display. This incident involving India's indigenous fighter jet raises immediate concerns about operational safety and reliability. For SSB aspirants, this highlights critical aspects of defense manufacturing, aircraft performance, and their significant financial and strategic implications for national security.",
+            "summary": "Hindustan Aeronautics Ltd (HAL) shares fell over 8% after one of its indigenously manufactured Tejas aircraft crashed during an aerial display on Monday. This incident, while impacting HAL's market performance, underscores the importance of stringent safety protocols and continuous evaluation in India's defence manufacturing sector, particularly for indigenous platforms like Tejas, crucial for the Indian Air Force.",
             "url": "https://www.thehindubusinessline.com/markets/hindustan-aeronautics-shares-tumble-over-8-on-bse/article70316466.ece",
             "category": "Defence",
             "date": "2025-11-24T06:05:47Z"
         },
         {
             "title": "10 Takeaways from Cavs win over Clippers: Donovan Mitchell\u2019s new game should translate to playoffs",
-            "summary": "The Cleveland Cavaliers defeated the Los Angeles Clippers 120-105 in a basketball game. Despite not playing perfectly, the Cavaliers secured the win, largely thanks to Donovan Mitchell's exceptional performance. The Clippers were characterized as an \"old and tired\" team. This NBA matchup provides insight into professional sports dynamics and team performance, highlighting key players' impact on game outcomes.",
+            "summary": "The Cleveland Cavaliers secured a 120-105 victory against the Los Angeles Clippers in an NBA game. Donovan Mitchell led the Cavaliers with an exceptional performance, overcoming the 'old and tired' Clippers. This highlights strong individual talent and team strategy within national professional sports, demonstrating the competitive spirit that captivates audiences.",
             "url": "https://www.fearthesword.com/cavs-analysis/40815/cavs-takeaways-donovan-mitchell-darius-garland-clippers-cleveland-cavaliers",
             "category": "National",
             "date": "2025-11-24T06:05:33Z"
         },
         {
-            "title": "Lakers strengthen road record in Utah, push to No. 2 seed in West",
-            "summary": "The Los Angeles Lakers have established themselves as one of the NBA's top road teams this season. They recently secured a thrilling 108-106 victory over the Utah Jazz in an away game, further solidifying their impressive performance. This crucial win improved their road record to an excellent 8-2, making them the second-best team on the road across the league. This showcases their strong competitive spirit away from their home court.",
-            "url": "https://www.thesportingtribune.com/2025/11/23/lakers-among-the-best-road-teams-after-win-in-utah",
-            "category": "National",
-            "date": "2025-11-24T05:59:45Z"
-        },
-        {
             "title": "Alleged cult leader granted bail ahead of child grooming trial",
-            "summary": "An alleged cult leader in New South Wales, Australia, accused of grooming a child for over a decade, has been granted bail. This decision followed his lawyer's argument questioning the prosecution's ability to sufficiently prove the extensive allegations. The case underscores the complexities of legal proceedings and the burden of proof in serious criminal matters, even when initial accusations are severe.",
+            "summary": "An alleged cult leader in New South Wales, Australia, accused of grooming a child for over a decade, has been granted bail. This decision came after his lawyer argued prosecutors might struggle to prove the allegations definitively. The case highlights the complex challenges faced by legal systems in securing convictions for long-standing abuse claims.",
             "url": "https://www.abc.net.au/news/2025-11-24/bail-granted-for-alleged-nsw-child-groomer-cult-leader/106045500",
             "category": "International",
             "date": "2025-11-24T05:30:56Z"
-        },
-        {
-            "title": "India gets Javelin in hand for better, bigger fights",
-            "summary": "India has reportedly sealed a significant missile deal, potentially involving Javelin anti-tank missiles, to fill a critical defence gap. This acquisition is crucial for modern warfare, characterized by drone swarms, advanced armour, and border standoffs. It aims to bolster India's capabilities against evolving threats, enhancing strategic preparedness and security along its borders.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-us-javelin-excalibur-deal-better-bigger-fights-defence-muscle-modi-trump/articleshow/125532162.cms",
-            "category": "Defence",
-            "date": "2025-11-24T05:16:21Z"
-        },
-        {
-            "title": "Why this US F-16 pilot canceled his performance at the Dubai Airshow after fatal crash of an IAF jet",
-            "summary": "USAF F-16 pilot Captain Taylor Hiester revealed his team's decision to cancel their final performance at the Dubai Air Show. This cancellation occurred on the same day as an Indian Air Force presence at the event. The news pertains to international military aviation displays and the operational decisions made by air forces at global aerospace exhibitions, although the specific reasons for the cancellation are not detailed in the provided snippet.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/why-this-us-f-16-pilot-canceled-his-performance-at-the-dubai-airshow-after-fatal-crash-of-an-iaf-jet/articleshow/125532347.cms",
-            "category": "Defence",
-            "date": "2025-11-24T05:15:28Z"
-        },
-        {
-            "title": "Is America still the one for Australia?",
-            "summary": "The 2025 Boyer Lectures are set to air on ABC Radio National and ABC News Channel from October 19. This year's series appears to delve into Australia's national identity and its relationship with the United States. It highlights a recurring 'panic' regarding Australia's perceived standing and 'love' from America, indicating a focus on national self-perception and geopolitical sentiment within the lectures.",
-            "url": "https://www.abc.net.au/news/2025-11-24/trump-presidency-could-be-priceless-gift-australia-boyer-lecture/106028102",
-            "category": "National",
-            "date": "2025-11-24T05:07:02Z"
-        },
-        {
-            "title": "Indian Navy commissions indigenous anti-submarine warfare vessel INS Mahe",
-            "summary": "The Indian Navy has commissioned INS Mahe, the first vessel of the Mahe-class anti-submarine warfare shallow water craft. This significant induction is expected to bolster the Navy's combat capabilities, especially for operations in coastal and shallow waters. It enhances India's anti-submarine warfare prowess, contributing to maritime security and showcasing indigenous defence manufacturing advancements vital for SSB aspirants.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/indian-navy-commissions-indigenous-anti-submarine-warfare-vessel-ins-mahe/article70316369.ece",
-            "category": "Defence",
-            "date": "2025-11-24T04:59:58Z"
-        },
-        {
-            "title": "Indian Navy commissions indigenous anti-submarine warfare vessel INS Mahe, Army Chief wishes safe voyages, successful missions",
-            "summary": "The Indian Navy commissioned INS Mahe, the first of eight Mahe-class anti-submarine warfare shallow water craft. This significant addition enhances the Navy's capabilities in coastal defence and anti-submarine operations in shallow waters. Army Chief General Upendra Dwivedi attended as chief guest, highlighting inter-service synergy in strengthening India's maritime security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-commissions-indigenous-anti-submarine-warfare-vessel-ins-mahe-army-chief-general-upendra-dwivedi-wishes-safe-voyages-successful-missions-cochin-shipyard/articleshow/125532028.cms",
-            "category": "Defence",
-            "date": "2025-11-24T04:56:14Z"
         }
     ]
 }
