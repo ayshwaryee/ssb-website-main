@@ -1,250 +1,236 @@
 {
-    "last_updated": "2025-11-26T12:34:06.247658+00:00",
+    "last_updated": "2025-11-26T18:20:23.168750+00:00",
     "articles": [
         {
-            "title": "Trump wades into China and Japan's escalating dispute over Taiwan",
-            "summary": "US President Donald Trump held diplomatic talks with leaders of both ally Japan and rival China amid their escalating dispute over Taiwan. Trump's 'surprise call' with China highlights American involvement in navigating complex geopolitical tensions in the Indo-Pacific region. This demonstrates the intricate balance of power and the critical role of major global players in international relations and regional stability.",
-            "url": "https://www.nbcnews.com/world/asia/trump-china-japan-taiwan-xi-jinping-sanae-takaichi-military-response-rcna245801",
-            "category": "International",
-            "date": "2025-11-25T12:33:56Z"
-        },
-        {
-            "title": "Updated NFL Power Rankings: New 1-32 poll, plus Thanksgiving game memories",
-            "summary": "The article discusses the traditional association of NFL football with Thanksgiving celebrations. It previews upcoming holiday games, including the Packers at Lions matchup, and references the latest NFL Power Rankings. This content focuses on the cultural significance of professional American football during a major national holiday, detailing team performance assessments and game schedules.",
-            "url": "https://www.espn.com/nfl/story/_/id/47085977/nfl-week-13-power-rankings-poll-32-teams-2025-best-thanksgiving-memories",
+            "title": "Fantasy Football Start 'Em, Sit 'Em Week 13: Who should I start, lineup advice, best matchups, DFS picks",
+            "summary": "This article offers Week 13 fantasy football guidance, providing \"Start 'Em, Sit 'Em\" recommendations for player selection. It delivers comprehensive lineup advice, highlights optimal matchups for the week, and suggests Daily Fantasy Sports (DFS) picks. The aim is to help fantasy football participants strategize effectively to enhance their team's performance and increase their chances of success.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-start-em-sit-em-week-13-2025/229854d5aab13430f3522911",
             "category": "National",
-            "date": "2025-11-25T12:27:10Z"
+            "date": "2025-11-25T18:17:18Z"
         },
         {
-            "title": "12 best natural ways to remove lizards from home permanently without killing them",
-            "summary": "During winter, lizards often seek indoor warmth, becoming unwanted house guests. Fortunately, various natural methods offer effective deterrence. Simple strategies, such as maintaining cooler indoor temperatures, can help discourage their presence without resorting to harsh chemicals. This approach promotes a more natural and environmentally friendly way to manage these common winter intrusions.",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/12-best-natural-ways-to-remove-lizards-from-home-permanently-without-killing-them/articleshow/125564321.cms",
+            "title": "Rt Hon Luke Pollard MP, Minister for Defence Readiness and Industry, Speech for Long War Conference",
+            "summary": "RUSI hosted a crucial discussion on preparing for protracted conflicts, emphasizing the strategic foresight required for sustained military engagements. This involves comprehensive planning, resource resilience, and adaptability to ensure national security through prolonged periods of warfare. Such discussions are vital for understanding contemporary defence challenges and strategic preparedness, highlighting the importance of long-term strategic thinking for future officers.",
+            "url": "https://www.gov.uk/government/speeches/rt-hon-luke-pollard-mp-minister-for-defence-readiness-and-industry-speech-for-long-war-conference",
+            "category": "Defence",
+            "date": "2025-11-25T18:00:44Z"
+        },
+        {
+            "title": "US push for Russia-Ukraine peace deal gains momentum as attacks on Kyiv kill 7",
+            "summary": "The United States is intensifying efforts to broker an end to the ongoing conflict between Russia and Ukraine. Officials report that this renewed diplomatic push is gaining momentum, though significant contentious issues still need resolution. This development comes amid continued hostilities, highlighting global attempts to achieve peace in the region and restore stability.",
+            "url": "https://economictimes.indiatimes.com/news/defence/us-push-for-russia-ukraine-peace-deal-gains-momentum-as-attacks-on-kyiv-kill-7/articleshow/125570681.cms",
+            "category": "International",
+            "date": "2025-11-25T17:55:42Z"
+        },
+        {
+            "title": "Zelensky accepts majority of US-led Ukraine peace deal, Starmer says as talks continue",
+            "summary": "The United States is intensifying its diplomatic efforts to resolve the Russia-Ukraine conflict. Officials confirm a renewed US push is gaining momentum, despite significant unresolved issues. This ongoing international initiative highlights the global focus on finding a peaceful resolution to the protracted war, underscoring persistent efforts by key players to mediate an end to the hostilities.",
+            "url": "https://www.independent.ie/world-news/europe/zelensky-accepts-majority-of-us-led-ukraine-peace-deal-starmer-says-as-talks-continue/a1416414868.html",
+            "category": "International",
+            "date": "2025-11-25T17:30:00Z"
+        },
+        {
+            "title": "Indian Army's Trishakti Corps begins AMAR combat training at high altitudes exceeding 14000 ft.",
+            "summary": "The Indian Army's Trishakti Corps has initiated intensive Army Martial Arts Routine (AMAR) training at altitudes over 14,000 feet. This specialized program aims to significantly boost close-combat readiness for troops operating in extremely demanding, high-altitude environments. The rigorous training ensures soldiers are proficient in hand-to-hand combat, crucial for challenging operational areas and enhancing overall battlefield effectiveness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-armys-trishakti-corps-begins-amar-combat-training-at-high-altitudes-exceeding-14000-ft-/articleshow/125569958.cms",
+            "category": "Defence",
+            "date": "2025-11-25T17:26:08Z"
+        },
+        {
+            "title": "Articulations of the Anthropocene",
+            "summary": "An exhibition at Watershed Art & Ecology in New York City showcases Marie Lorenz's large-scale collages and prints. These unique artworks are ingeniously crafted from various debris, including tires, life vests, and paddles, meticulously collected from the NYC shoreline. The exhibition creatively highlights environmental issues and pollution through artistic reuse of discarded marine materials, drawing attention to the impact of human waste.",
+            "url": "http://chicagoreader.com/visual-arts/art-review/marie-lorenz-watershed-art-ecology/",
+            "category": "International",
+            "date": "2025-11-25T17:14:17Z"
+        },
+        {
+            "title": "Yankees owner downplays Dodgers' million-dollar investment after World Series win",
+            "summary": "New York Yankees owner Hal Steinbrenner escalated the debate regarding the team's substantial investment and continued failure to win a title. He directly responded to public comparisons with recently successful teams, defending the Yankees' strategy amidst their prolonged championship drought, highlighting the pressure on high-value sports franchises.",
+            "url": "https://www.marca.com/en/mlb/new-york-yankees/2025/11/25/6925e0d622601dda308b4582.html",
+            "category": "National",
+            "date": "2025-11-25T17:08:08Z"
+        },
+        {
+            "title": "NFL Week 13 betting power ratings: Rams No. 1 as top tiers separate, plus how all 32 teams stack up",
+            "summary": "The article discusses 10 top teams in betting power ratings, all competing for the No. 1 position. These teams are either unproven or have identifiable flaws, making for a highly competitive and unpredictable scenario with minimal distinction between them. This highlights the fluid nature of rankings and the constant struggle for dominance in any competitive domain.",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-13-betting-power-ratings-rams-no-1/",
+            "category": "National",
+            "date": "2025-11-25T17:04:39Z"
+        },
+        {
+            "title": "Lili Reinhart Favors Fall Tones and Seasonal Layering in Tory Burch for the SAG-AFTRA Foundation \u2018Hal & Harper\u2019\u00a0Conversation",
+            "summary": "Actress Lili Reinhart participated in a SAG-AFTRA Foundation conversation in New York City, discussing her new series \u201cHal & Harper\u201d. She was noted for wearing one of Tory Burch\u2019s latest designs. This event highlights her ongoing involvement in the entertainment industry and promotion of her latest project, attracting media attention for her public appearance.",
+            "url": "http://wwd.com/pop-culture/celebrity-news/lili-reinhart-tory-burch-outfit-sag-aftra-event-1238361662/",
+            "category": "International",
+            "date": "2025-11-25T16:29:02Z"
+        },
+        {
+            "title": "Another leopard sighting at Pune Airport premises, additional camera traps installed",
+            "summary": "Repeated leopard sightings at Pune International Airport have prompted the Forest Department to take action. Following an initial sighting on November 19, another was reported on Tuesday, leading authorities to install equipment, likely traps or cameras, to manage the situation. This ongoing presence of wildlife near a major airport highlights the critical need for effective human-animal conflict resolution and safety measures.",
+            "url": "https://indianexpress.com/article/cities/pune/another-leopard-pune-airport-premises-camera-traps-installed-10385912/",
+            "category": "National",
+            "date": "2025-11-25T16:28:46Z"
+        },
+        {
+            "title": "Jenna Bush Hager recalls daughter\u2019s \u2018dark\u2019 reaction to \u2018Cinderella\u2019",
+            "summary": "Talk show host Jenna Bush Hager revealed her daughter had a \"dark\" reaction to Disney's \"Cinderella,\" sharing the anecdote while discussing her children Mila (12) and Poppy (10). This human-interest story, involving a national celebrity, is primarily entertainment news. It holds minimal direct relevance for an SSB aspirant's focus on significant national, international, defence, and security affairs.",
+            "url": "https://pagesix.com/2025/11/25/entertainment/jenna-bush-hager-recalls-daughters-dark-reaction-to-cinderella/",
+            "category": "National",
+            "date": "2025-11-25T15:27:51Z"
+        },
+        {
+            "title": "Czech raid exposes Ukraine-linked drone deal corruption",
+            "summary": "Reactive Drone, a Czech Republic-registered company, faces investigation and a raid for allegedly selling drones to the Ukrainian army at prices up to 20 times above market value. Prague authorities are probing the firm for potential fraud in defence procurement. This incident raises questions about transparency and ethics in international military supply chains, impacting allied support for Ukraine.",
+            "url": "https://www.rt.com/russia/628387-ukraine-czech-republic-corruption-drones/",
+            "category": "International",
+            "date": "2025-11-25T15:24:51Z"
+        },
+        {
+            "title": "PM to launch Skyroot\u2019s multiple launch vehicle facility",
+            "summary": "Prime Minister Modi will virtually inaugurate Skyroot Aerospace's 2-lakh sq ft Infinity Campus in Hyderabad on November 27. This significant event highlights government support for India's burgeoning private space sector. It aims to boost space-tech startups, fostering innovation, job creation, and technological advancement, positioning India as a global leader in space exploration and industrial growth.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/pm-to-launch-skyroots-multiple-launch-vehicle-facility/article70322740.ece",
             "category": "Sci & Tech",
-            "date": "2025-11-25T12:13:43Z"
+            "date": "2025-11-25T15:22:20Z"
         },
         {
-            "title": "Safer skies: DGCA cracks the whip for fatigue management on airlines",
-            "summary": "The Directorate General of Civil Aviation (DGCA) is implementing stricter regulations for airlines regarding fatigue management protocols. This initiative aims to ensure safer skies by preventing pilot and crew exhaustion, which could compromise flight safety. The DGCA's increased oversight will mandate airlines to improve their scheduling and rest period compliance to enhance overall operational safety across the national aviation sector.",
-            "url": "https://timesofindia.indiatimes.com/india/safer-skies-dgca-cracks-the-whip-for-fatigue-management-on-airlines/articleshow/125564625.cms",
-            "category": "National",
-            "date": "2025-11-25T12:11:13Z"
-        },
-        {
-            "title": "What is the real story behind Pokimane\u2019s self-proposal with a $12K Bulgari ring as the video surfaces?",
-            "summary": "Twitch streamer Pokimane sparked discussion by purchasing a Bulgari engagement ring and symbolically 'proposing to herself.' Prompted by fan comments, she explained this act celebrates self-love. Widely shared, this highlights a growing emphasis on personal well-being and non-traditional milestones among public figures and their followers, challenging conventional romantic narratives.",
-            "url": "https://timesofindia.indiatimes.com/world/us-streamers/what-is-the-real-story-behind-pokimanes-self-proposal-with-a-12k-bulgari-ring-as-the-video-surfaces/articleshow/125564629.cms",
-            "category": "International",
-            "date": "2025-11-25T12:09:03Z"
-        },
-        {
-            "title": "Japan scrambles aircraft over suspected China drone near Taiwan",
-            "summary": "Japan's Air Self-Defense Force scrambled jets after detecting a suspected Chinese drone near the disputed Senkaku/Diaoyu Islands, off Taiwan. This action highlights ongoing territorial tensions and airspace violations between Tokyo and Beijing. Such incidents underscore the volatile geopolitical situation in the East China Sea, crucial for regional security analysis and understanding international relations.",
-            "url": "https://www.channelnewsasia.com/east-asia/japan-china-drone-taiwan-scramble-aircraft-yonaguni-island-5489291",
+            "title": "The tournament changing college hoops, plus the inevitable 49ers",
+            "summary": "The article fragment explores discovering fundamental 'maxims' in competitive domains, using NFL examples like Patrick Mahomes' strategic late-game play. It starts with an advisory, 'Consider not trading your ace today,' emphasizing prudent resource management and understanding core principles for success. While a sports analogy, these themes highlight critical decision-making, applicable to strategic planning and operational awareness.",
+            "url": "https://sports.yahoo.com/articles/tournament-changing-college-hoops-plus-151357479.html",
             "category": "Defence",
-            "date": "2025-11-25T12:01:17Z"
+            "date": "2025-11-25T15:13:57Z"
         },
         {
-            "title": "St Catherine of Alexandria 2025",
-            "summary": "This text pays homage to Saint Catherine, a revered martyr and virgin, emphasizing her profound instruction in the teachings of prophets, apostles, and philosophers through Christ. It portrays her as a triumphant, noble figure, acknowledging her enduring spiritual and intellectual impact within a religious framework, highlighting her significant legacy in Christian tradition.",
-            "url": "https://www.newliturgicalmovement.org/2025/11/st-catherine-of-alexandria-2025.html",
+            "title": "Is Gotham a dynasty now? Plus: Watching the NWSL final with the Lavelles",
+            "summary": "The Athletic's weekly women's soccer newsletter spotlighted Gotham midfielder Rose Lavelle, who scored the crucial championship-winning goal in the National Women's Soccer League (NWSL) final. This significant achievement secures the NWSL Championship for her team, marking a major highlight in professional women's sports. The full newsletter likely delves into further match details and season analysis.",
+            "url": "https://sports.yahoo.com/articles/gotham-dynasty-now-plus-watching-151357627.html",
             "category": "National",
-            "date": "2025-11-25T12:00:00Z"
+            "date": "2025-11-25T15:13:57Z"
         },
         {
-            "title": "Arrow\u2019s David Ramsey Explained Why It Was The \u2018Right Decision\u2019 That Diggle Never Became A Green Lantern, And I\u2019m With Him",
-            "summary": "The superhero TV series \"Arrow\" concluded its eight-season run in early 2020, leaving viewers with a significant cliffhanger. In the show's final moments, the character John Diggle, portrayed by David Ramsey, discovered a mysterious box containing a peculiar glowing green object. This unresolved scene fueled fan speculation about Diggle's future role within the DC universe, potentially hinting at a new superhero identity.",
-            "url": "https://www.cinemablend.com/superheroes/arrow-david-ramsey-right-decision-diggle-never-became-green-lantern",
+            "title": "Fantasy Football Week 13 Defense (DST) Rankings and Streamers",
+            "summary": "The article details a prediction system demonstrating consistent success, achieving six out of ten correct top picks in the past week. Several accurate predictions, involving teams like the Browns, Ravens, and Patriots, were noted as relatively safe choices rather than particularly bold or unexpected outcomes.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-13-defense-dst-rankings-and-streamers",
+            "category": "National",
+            "date": "2025-11-25T14:54:10Z"
+        },
+        {
+            "title": "Airtel refutes Tejas Networks claim, alleges use of sub-standard gears causing problem",
+            "summary": "Airtel alleges network interference in Rajasthan is caused by \"sub-standard equipment\" used by Tejas Networks for BSNL's 4G rollout. This dispute among major Indian telecom providers highlights concerns over national digital infrastructure quality and service reliability. The issue underscores the importance of robust equipment standards for seamless communication and potentially impacts millions of users.",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-refutes-tejas-networks-claim-alleges-use-of-sub-standard-gears-causing-problem/articleshow/125567540.cms",
+            "category": "National",
+            "date": "2025-11-25T14:52:34Z"
+        },
+        {
+            "title": "Sensitive issues still to be discussed as Ukraine \u2018supports essence\u2019 of peace framework",
+            "summary": "Ukraine has expressed support for the core principles of a proposed peace framework following talks with the United States in Geneva. While the general essence is backed, significant and sensitive issues within the framework still require further negotiation and agreement between the two nations before a comprehensive peace plan can be finalized, indicating ongoing diplomatic efforts.",
+            "url": "https://www.irishtimes.com/world/europe/2025/11/25/sensitive-issues-still-to-be-discussed-as-ukraine-supports-essence-of-peace-framework/",
+            "category": "International",
+            "date": "2025-11-25T14:48:23Z"
+        },
+        {
+            "title": "\u201cWhat are you doing?\u201d: FaZe Lacy\u2019s alarming confrontation with alleged stalker in viral livestream reveals dark side of parasocial fandom",
+            "summary": "The article details a concerning incident involving US streamer FaZe Lacy and an alleged stalker during a viral livestream. This confrontation starkly illustrates the dark side of parasocial relationships, where fan admiration can escalate into obsessive and threatening behavior, posing significant safety risks for public figures in the digital age.",
+            "url": "https://timesofindia.indiatimes.com/world/us-streamers/what-are-you-doing-faze-lacys-alarming-confrontation-with-alleged-stalker-in-viral-livestream-reveals-dark-side-of-parasocial-fandom/articleshow/125567268.cms",
             "category": "Sci & Tech",
-            "date": "2025-11-25T12:00:00Z"
+            "date": "2025-11-25T14:45:48Z"
         },
         {
-            "title": "NATO scrambles jets after deepest drone breach yet into Romania",
-            "summary": "Romanian and German NATO fighter jets were scrambled near Romania's border with Ukraine to intercept a drone that had penetrated unprecedentedly deep into Romanian territory. This incident on Tuesday highlights ongoing border security challenges for NATO member states amidst the Ukraine conflict, demonstrating the alliance's readiness to respond to potential airspace violations and maintain regional stability.",
-            "url": "https://www.thestar.com.my/news/world/2025/11/25/nato-scrambles-jets-after-deepest-drone-breach-yet-into-romania",
+            "title": "Erika Kirk reveals what JD Vance whispered to her during their \u2018infamous\u2019 hug",
+            "summary": "Erika Kirk\u2019s life unexpectedly entered the public eye after her husband Charlie's death. A brief hug she shared with Vice President JD Vance quickly went viral, igniting widespread online speculation. This initial interaction seemingly spiraled into a larger controversy, the details of which are indicated to be explored further in the full article, beyond this introductory segment.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/erika-kirk-reveals-what-jd-vance-whispered-to-her-during-their-infamous-hug/articleshow/125567122.cms",
+            "category": "National",
+            "date": "2025-11-25T14:38:17Z"
+        },
+        {
+            "title": "Zen Technologies emerges single vendor, bags \u20b9108 cr contract for tank gunnery simulators",
+            "summary": "Zen Technologies secured a Rs 108-crore Ministry of Defence contract for tank crew gunnery training simulators. This initiative, benefiting from recent procurement reforms, prioritises 'Make in India' defence manufacturing. It signifies a boost for indigenous technology, enhancing the Indian Army's training capabilities and promoting self-reliance in critical defence equipment. Such contracts contribute to India's strategic autonomy and strengthen the domestic defence industrial base.",
+            "url": "https://www.thehindubusinessline.com/news/zen-technologies-emerges-single-vendor-bags-108-cr-contract-for-tank-gunnery-simulators/article70322152.ece",
             "category": "Defence",
-            "date": "2025-11-25T11:48:00Z"
+            "date": "2025-11-25T14:32:20Z"
         },
         {
-            "title": "Japan scrambles jets after suspected Chinese drone spotted near Taiwan",
-            "summary": "Japan's defence ministry scrambled aircraft after detecting a suspected Chinese drone off an island near Taiwan. This incident occurred amidst a prolonged diplomatic spat between Tokyo and Beijing. Such encounters highlight increasing regional tensions and the strategic importance of the Taiwan Strait, demanding vigilance from security forces and policymakers alike.",
-            "url": "https://www.abc.net.au/news/2025-11-25/japan-scrambles-jets-after-suspected-chinese-drone-taiwan/106052948",
+            "title": "Yankees owner blames players, not Aaron Boone, for playoff failure",
+            "summary": "New York Yankees fans are experiencing immense frustration as the team concluded another season without securing a long-awaited title. This latest disappointment extends their drought to over 16 years without a World Series victory, intensifying fan discontent. The team's prolonged championship absence has brought fan sentiment to a boiling point.",
+            "url": "https://www.marca.com/en/mlb/new-york-yankees/2025/11/25/6925ba9e46163f87088b45c6.html",
+            "category": "International",
+            "date": "2025-11-25T14:22:32Z"
+        },
+        {
+            "title": "Left in lurch: With fading Red in West Bengal and Tripura, will Kerala's communists find their direction?",
+            "summary": "The decline of the Left Front's electoral fortunes in West Bengal and Tripura has prompted an introspection within India's communist parties. With their traditional strongholds weakening, the article questions the future direction for Kerala's communists, who remain a significant force. This signals a critical period for the Left's political relevance and strategy across the nation.",
+            "url": "https://timesofindia.indiatimes.com/india/left-in-lurch-with-fading-red-in-west-bengal-and-tripura-will-keralas-communists-find-their-direction-cpm-cpi-jyoti-basu-brinda-karat/articleshow/125563137.cms",
+            "category": "National",
+            "date": "2025-11-25T14:13:23Z"
+        },
+        {
+            "title": "Private sector entry into navigation systems will boost India's 2047 vision: ISRO chief",
+            "summary": "ISRO Chairman Narayanan lauded private companies for developing complex navigation systems for spacecraft and defence. He highlighted the critical role of private sector involvement in enhancing India's strategic capabilities and fostering self-reliance. This collaboration is crucial for strengthening indigenous technology in aerospace and defence, aligning with national security goals and boosting India's technological prowess.",
+            "url": "https://economictimes.indiatimes.com/news/science/private-sector-entry-into-navigation-systems-will-boost-indias-2047-vision-isro-chief/articleshow/125566857.cms",
             "category": "Defence",
-            "date": "2025-11-25T11:43:31Z"
+            "date": "2025-11-25T14:10:03Z"
         },
         {
-            "title": "Fantasy football Week 13 trade value chart and rest-of-season rankings",
-            "summary": "As the fantasy football regular season nears conclusion, managers optimize rosters through waiver wire additions or strategic trades. This demands critical analytical skills, evaluating player performance, and tactical decision-making under competitive pressures. Success hinges on astute judgment and proactive planning, reflecting principles applicable to strategic thinking in various fields, including complex operational scenarios.",
-            "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/11/25/fantasy-football-trade-value-chart-week-13-ros-rankings/87459210007/",
+            "title": "Rio Tinto strengthens support for organisations responding to gender-based violence across Canada",
+            "summary": "In Montreal, multinational company Rio Tinto is reaffirming its commitment to addressing domestic and family violence. As part of the '16 Days of Activism against Gender-Based Violence', the company is extending crucial support to local organizations combating this pervasive social issue, demonstrating corporate responsibility in tackling societal challenges.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/rio-tinto-strengthens-support-for-organisations-responding-to-gender-based-violence-across-canada",
+            "category": "International",
+            "date": "2025-11-25T14:03:09Z"
+        },
+        {
+            "title": "Disruption of yqhG attenuates virulence in methicillin-resistant Staphylococcus aureus by compromising membrane stability and oxidative stress resistance",
+            "summary": "The growing prevalence of Methicillin-resistant Staphylococcus aureus (MRSA) infections and increasing antibiotic resistance present a critical global health challenge. This situation urgently necessitates the development of novel therapeutic strategies to combat these resistant bacteria. Understanding such significant health threats is crucial for national security and ensuring societal well-being, highlighting the importance of scientific research.",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337292",
             "category": "Sci & Tech",
-            "date": "2025-11-25T11:31:23Z"
+            "date": "2025-11-25T14:00:00Z"
         },
         {
-            "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 25th November 2025",
-            "summary": "This resource provides daily Current Affairs quizzes tailored for UPSC Prelims Exam aspirants. Questions are meticulously sourced from important national publications like The Hindu, Indian Express, and PIB. This comprehensive approach ensures aspirants gain essential knowledge on national and international developments, crucial for competitive exam success and staying well-informed.",
-            "url": "https://iasbaba.com/2025/11/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-25th-november-2025/",
-            "category": "National",
-            "date": "2025-11-25T11:23:32Z"
-        },
-        {
-            "title": "India has potential to become global hub for shipbuilding: Rajnath Singh",
-            "summary": "Defence Minister Rajnath Singh urged global defence majors to invest in India's shipbuilding industry for co-developing next-generation maritime capabilities. This move aims to boost indigenous defence manufacturing, enhance the Indian Navy's strength, and align with the 'Aatmanirbhar Bharat' vision. It signifies India's push for self-reliance in defence, creating technological advancement opportunities and strengthening strategic autonomy.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-has-potential-to-become-global-hub-for-shipbuilding-rajnath-singh/articleshow/125563261.cms",
-            "category": "Defence",
-            "date": "2025-11-25T11:05:49Z"
-        },
-        {
-            "title": "Today on Pinstripe Alley \u2013 11/25/25",
-            "summary": "The article discusses the upcoming Thanksgiving week, traditionally a quiet period for Major League Baseball (MLB). It notes that despite this traditional lull in team activity and news, significant developments or major transactions could still occur. This suggests that unexpected news might break even during an anticipated calm, defying the usual holiday stillness in the league.",
-            "url": "https://www.pinstripealley.com/today-on-pinstripe-alley/170934/yankees-mlb-pinstripe-alley-11-25-25",
-            "category": "National",
-            "date": "2025-11-25T11:00:00Z"
-        },
-        {
-            "title": "Eyeing major markets, Milma introduces 5 new premium products",
-            "summary": "Milma launched five new products including Samridhi Ghee, Milma plus flavoured milk in a can, Ghee Halwa, Kanthari Buttermilk, and Banana Burfi, ahead of National Milk Day on November 26. This initiative aims to diversify product offerings and meet evolving consumer demands within the national dairy sector, highlighting advancements and innovation in food processing.",
-            "url": "https://www.thehindubusinessline.com/economy/agri-business/eyeing-major-markets-milma-introduces-5-new-premium-products/article70321186.ece",
-            "category": "National",
-            "date": "2025-11-25T10:47:35Z"
-        },
-        {
-            "title": "Starr\u2019s 7 questions: Are the Red Sox deep enough to trade away pitchers?",
-            "summary": "This article presents seven key questions for Boston Red Sox fans, guiding them from November into an anticipated interesting December. It begins by inquiring about readers' surprise concerning the Red Sox's recent pitching trades. The full text likely explores strategic implications, team performance, and future expectations, sparking discussion among supporters about the club's current trajectory and upcoming season prospects.",
-            "url": "https://www.bostonherald.com/2025/11/25/red-sox-trades-pitchers-bernardino-murphy-tolle-peralta-mlb-column-starr-free-agency-alonso-winter-meetings/",
-            "category": "National",
-            "date": "2025-11-25T10:30:31Z"
-        },
-        {
-            "title": "Heathrow expansion: selection of a scheme for ANPS review purposes",
-            "summary": "The UK government updated Parliament on its decision regarding a scheme promoted by Heathrow Airport Limited (HAL). Following an earlier statement, the government is identifying the specific scheme, which carries significant implications for national development and future airport expansion plans. This reflects ongoing governmental oversight on major infrastructure projects.",
-            "url": "https://www.gov.uk/government/speeches/heathrow-expansion-selection-of-a-scheme-for-anps-review-purposes",
-            "category": "National",
-            "date": "2025-11-25T10:21:18Z"
-        },
-        {
-            "title": "Heathrow Airport Limited\u2019s third runway proposal will be basis for expansion",
-            "summary": "A swift policy review is underway for the proposed Heathrow airport expansion in the UK. This initiative aims to align development plans with Britain's legal, environmental, and climate obligations. The comprehensive assessment ensures sustainable growth, balancing crucial infrastructure needs with ecological responsibilities, reflecting a national commitment to compliant project implementation.",
-            "url": "https://www.gov.uk/government/news/heathrow-airport-limiteds-third-runway-proposal-will-be-basis-for-expansion",
-            "category": "National",
-            "date": "2025-11-25T10:21:13Z"
-        },
-        {
-            "title": "Exercise Malabar strengthens maritime partnerships",
-            "summary": "Exercise Malabar brought together India, the US, Japan, and Australia for a crucial Indo-Pacific maritime activity. This multilateral naval exercise aims to significantly deepen interoperability and enhance regional security cooperation among participant nations. For SSB aspirants, understanding such joint drills is vital, as they signify strategic partnerships and a collective commitment to a free and open Indo-Pacific.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2025/australia-251124-audod02.htm",
-            "category": "Defence",
-            "date": "2025-11-25T10:10:14Z"
-        },
-        {
-            "title": "United Kingdom - Navy Multiband Terminals",
-            "summary": "On November 24, 2025, the US State Department approved a potential foreign military sale, referenced as Transmittal No. 25-95. This signifies an important development in international defence relations, likely involving arms or services to another nation. Specifics regarding the recipient and equipment remain undisclosed in this excerpt, but indicate a forthcoming defence transaction.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-251124-dsca01.htm",
-            "category": "Defence",
-            "date": "2025-11-25T10:03:37Z"
-        },
-        {
-            "title": "'We see you': Armed forces on patrol around the UK in response to Russian activity",
-            "summary": "The Royal Navy intercepted a Russian warship and tanker in the Dover Strait and English Channel, showcasing vital maritime security operations. Concurrently, an RAF P-8 surveillance aircraft deployed to Iceland to patrol the North Atlantic. This highlights the UK's vigilant monitoring of international waters and commitment to safeguarding national interests against foreign military presence, reinforcing its defence readiness.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-251124-ukmod02.htm",
-            "category": "Defence",
-            "date": "2025-11-25T10:03:37Z"
-        },
-        {
-            "title": "EDA project aims to design quieter autonomous underwater vehicles",
-            "summary": "The European Defence Agency (EDA) has launched a four-year research project aimed at significantly reducing noise produced by autonomous underwater vehicles (AUVs). This initiative seeks to enhance the stealth and operational effectiveness of AUVs, which are crucial assets for future naval defence applications. Reducing their acoustic signature will improve their ability to operate undetected and undertake critical missions, strengthening European security capabilities.",
-            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251124-eda01.htm",
-            "category": "Defence",
-            "date": "2025-11-25T10:03:37Z"
-        },
-        {
-            "title": "Russian attacks kill at least 6 in Ukraine, as U.S. and Russia diplomats hold talks in Abu Dhabi",
-            "summary": "Russia launched fresh attacks on Ukraine on Tuesday, hitting city buildings and energy infrastructure and killing at least six people. Concurrently, Ukraine initiated an attack in southern Russia. This dual action underscores the persistent and escalating conflict, causing casualties and targeting vital infrastructure in both nations amidst the ongoing geopolitical tensions.",
-            "url": "https://www.cbc.ca/news/world/russia-ukraine-war-nov25-9.6991263",
+            "title": "Dodgers Notes: Prospects, free agents, Tatsuya Imai",
+            "summary": "The Dodgers face a complex offseason, managing a robust farm system and an intriguing free agent class. Their increasing connection with Japanese players adds another strategic dimension, creating many 'moving parts' to track. The team must carefully navigate these factors to optimize talent acquisition and development, crucial for future season success.",
+            "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/107937/dodgers-notes-top-prospects-free-agents-tatsuya-imai",
             "category": "International",
-            "date": "2025-11-25T09:52:17Z"
+            "date": "2025-11-25T13:57:56Z"
         },
         {
-            "title": "Russian attacks kill at least 6 in Ukraine as U.S. and Russia hold peace talks in Abu Dhabi",
-            "summary": "Russia launched extensive overnight attacks on Ukraine, targeting city buildings and energy infrastructure, resulting in at least six fatalities. These strikes occurred amidst an ongoing conflict, with Ukraine simultaneously conducting an attack in southern Russia. The escalating hostilities underscore the continued geopolitical tension and human cost of the protracted conflict.",
-            "url": "https://www.cbc.ca/news/world/russian-attacks-kill-at-least-6-in-ukraine-as-u-s-and-russia-hold-peace-talks-in-abu-dhabi-9.6991263",
-            "category": "International",
-            "date": "2025-11-25T09:52:17Z"
-        },
-        {
-            "title": "Three golds for Pune\u2019s Army Sports Institute as all 9 boxers secure podium finishes at World Boxing Cup",
-            "summary": "Boxers from the Pune-based Army Sports Institute (ASI) delivered an exceptional performance at the recently concluded World Boxing Cup 2025. All nine participating boxers secured a podium finish, bringing significant laurels to the nation. This achievement highlights the Indian Army's commitment to fostering sports excellence and the high standards of training and discipline within its ranks, contributing to national pride on the international stage.",
-            "url": "https://indianexpress.com/article/cities/pune/three-golds-for-punes-army-sports-institute-10385119/",
-            "category": "Defence",
-            "date": "2025-11-25T09:41:45Z"
-        },
-        {
-            "title": "A General Reviews 120 Bahadur",
-            "summary": "Lieutenant General Devendra Pratap Pandey (retd) describes the war movie '120 Bahadur' as more than just a film. He highlights it as a profound tribute, an essential history lesson, and an emotional journey into military courage. This perspective makes '120 Bahadur' particularly relevant for SSB aspirants, offering insights into military values and the sacrifices involved in defending the nation.",
-            "url": "https://www.rediff.com/movies/review/a-general-reviews-120-bahadur/20251125.htm",
-            "category": "Defence",
-            "date": "2025-11-25T08:50:46Z"
-        },
-        {
-            "title": "LTAT conducting review to strengthen investment sustainability, Dewan Rakyat told",
-            "summary": "The Malaysian Armed Forces Fund Board (LTAT) is reviewing its Strategic Asset Allocation framework. This crucial exercise aims to strengthen the sustainability of its long-term investments, ensuring robust financial management for the welfare of serving and retired armed forces personnel. For SSB aspirants, understanding such financial mechanisms highlights comprehensive national defence support beyond just operational readiness.",
-            "url": "https://www.thestar.com.my/news/nation/2025/11/25/ltat-conducting-review-to-strengthen-investment-sustainability-dewan-rakyat-told",
-            "category": "Defence",
-            "date": "2025-11-25T08:37:00Z"
-        },
-        {
-            "title": "\u2018Return to China not an option\u2019: Taiwan premier rebuffs Xi\u2019s sovereignty push",
-            "summary": "Taiwanese Premier Cho Jung-tai declared that a \"return\" to China is not an option for the island's 23 million people. This firm stance follows Chinese President Xi Jinping's renewed assertion of Beijing's sovereignty claims over Taiwan. The statement underscores persistent geopolitical tensions in the region and Taiwan's unwavering commitment to self-determination amidst ongoing cross-strait complexities, a critical international affairs issue.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-china-tensions-xi-jinping-sovereignty-dispute-cho-jung-tai/articleshow/125559743.cms",
-            "category": "International",
-            "date": "2025-11-25T08:14:28Z"
-        },
-        {
-            "title": "India to make air-to-ground weapon at home with France\u2019s Safran",
-            "summary": "India and France have deepened defence cooperation, agreeing to jointly produce an air-to-ground weapon. This strategic move aligns with New Delhi's broader push for self-reliance (Atmanirbharta) in advanced military technology. The partnership strengthens bilateral ties and boosts India's indigenous defence manufacturing capabilities, crucial for national security and reducing import dependence on critical military hardware.",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-25/india-to-make-air-to-ground-weapon-at-home-with-france-s-safran",
-            "category": "Defence",
-            "date": "2025-11-25T07:56:56Z"
-        },
-        {
-            "title": "Three people killed, 16 injured in major Ukrainian drone attack on southern Russia: officials",
-            "summary": "A major Ukrainian drone attack on southern Russia tragically killed three people and injured at least 16. Residential buildings were damaged in the Black Sea port of Novorossiysk and Rostov. This incident highlights the severe civilian impact and the expanding operational reach of the conflict, crucial for SSB aspirants to analyse evolving international defence strategies and regional instability.",
-            "url": "https://nypost.com/2025/11/25/world-news/ukraine-drone-strike-kills-3-injures-16-in-southern-russia/",
-            "category": "Defence",
-            "date": "2025-11-25T07:33:57Z"
-        },
-        {
-            "title": "\u3010\u52d5\u753b\u3011\u30c9\u30d0\u30a4\u822a\u7a7a\u30b7\u30e7\u30fc\u3067\u30a4\u30f3\u30c9\u306e\u6226\u95d8\u6a5f\u304c\u589c\u843d\u3057\u3066\u30d1\u30a4\u30ed\u30c3\u30c8\u304c\u6b7b\u4ea1\u3002",
-            "summary": "Wing Commander Namansh Syal, an Indian Air Force pilot, tragically died in a HAL Tejas LCA (Mk 1LA-50266) crash during an event in Dubai. This incident underscores the inherent dangers of military aviation and the profound sacrifices made by defence personnel. Aspirants should reflect on the dedication and courage required in service.",
-            "url": "https://1000mg.jp/239925/",
-            "category": "Defence",
-            "date": "2025-11-25T07:00:27Z"
-        },
-        {
-            "title": "BEL, Safran ink pact to manufacture HAMMER precision-guided air-to-ground weapon in India",
-            "summary": "An Indian defence PSU has partnered with a French firm to indigenously produce the Highly Agile Modular Munition Extended Range (HAMMER) precision-guided weapon system. This collaboration aims to bolster India's defence manufacturing capabilities, aligning with the 'Make in India' initiative. It significantly enhances the nation's strategic defence preparedness and technological self-reliance, providing a crucial advantage in modern warfare and reducing import dependency.",
-            "url": "https://www.thehindubusinessline.com/news/bel-safran-ink-pact-to-manufacture-hammer-precision-guided-air-to-ground-weapon-in-india/article70320516.ece",
-            "category": "Defence",
-            "date": "2025-11-25T06:39:25Z"
-        },
-        {
-            "title": "Hal Steinbrenner reveals whether he wants Yankees to play like Blue Jays",
-            "summary": "Hal Steinbrenner, owner of the New York Yankees, has reportedly revealed his stance on the team's playing style. His comments focus on whether he desires the Yankees to adopt an approach similar to that of the Toronto Blue Jays. This discussion highlights ongoing strategic considerations for the major league baseball franchise regarding its competitive philosophy.",
-            "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/hal-steinbrenner-whether-he-wants-yankees-play-blue-jays/0a41cd32e060fc2dceef35b7",
+            "title": "India and South Africa burn a lot of coal: what they can learn from each other about ending the dependency",
+            "summary": "India and South Africa are confronting the critical 21st-century challenge of phasing out ageing coal-fired power stations. Both nations aim to modernize their electricity systems, ensuring a stable and secure energy supply for their populations. This complex transition is vital for achieving sustainable development and energy independence while addressing climate change concerns.",
+            "url": "https://theconversation.com/india-and-south-africa-burn-a-lot-of-coal-what-they-can-learn-from-each-other-about-ending-the-dependency-269824",
             "category": "National",
-            "date": "2025-11-25T06:27:19Z"
+            "date": "2025-11-25T13:50:59Z"
         },
         {
-            "title": "Three people killed, 16 injured in major Ukrainian drone attack on southern Russia, officials say",
-            "summary": "A significant Ukrainian drone attack targeted southern Russia, resulting in three fatalities and at least 16 injuries. Residential buildings suffered damage in the Black Sea port of Novorossiysk. This incident underscores the escalating cross-border hostilities and the impact of the ongoing conflict on civilian areas and infrastructure within the Russia-Ukraine war zone.",
-            "url": "https://www.thestar.com.my/news/world/2025/11/25/three-people-killed-16-injured-in-major-ukrainian-drone-attack-on-southern-russia-officials-say",
-            "category": "Defence",
-            "date": "2025-11-25T06:26:00Z"
+            "title": "\"London's cycling boom shows no sign of slowing\": Daily bicycle journeys up 43% on pre-Covid levels as Transport for London hails the impact of high-quality cycle lanes",
+            "summary": "London's daily cycle journeys have reached 1.5 million in 2025, marking a significant 12.7% increase from the previous year and 43% higher than in 2019. Transport for London (TfL) views this surge positively, reflecting a growing global trend towards sustainable urban mobility. This highlights international cities' efforts to promote eco-friendly transport options and reduce congestion.",
+            "url": "https://road.cc/content/news/london-cycling-journeys-43-pre-covid-levels-316997",
+            "category": "International",
+            "date": "2025-11-25T13:45:52Z"
         },
         {
-            "title": "Space-Guided Supremacy: How China\u2019s Satellite Systems Strengthen its Missile and Hypersonic Forces",
-            "summary": "Space dominance has evolved from a US-Russia focused landscape a decade ago to a multi-polar strategic environment. This shift signifies the rise of new major space powers, highlighting space's increasing criticality for national security and military strategy. SSB aspirants should understand this evolving domain, where global competition for strategic advantage in space is intensifying.",
-            "url": "https://smallwarsjournal.com/2025/11/25/space-guided-supremacy-china-satellite-missile-hypersonic/",
+            "title": "US and Russia hold peace talks as further strikes pummel Kyiv",
+            "summary": "A US delegation held talks with Russian officials in Abu Dhabi, marking an intensified push by President Trump's administration to end the war in Ukraine. These diplomatic efforts aim to find a resolution to the ongoing conflict. The high-level engagement reflects significant international attempts to negotiate peace and stability in the region, focusing on de-escalation amidst hostilities.",
+            "url": "https://www.abc.net.au/news/2025-11-26/ukraine-wants-zelenskyy-trump-meeting/106053010",
+            "category": "International",
+            "date": "2025-11-25T13:32:33Z"
+        },
+        {
+            "title": "7 DC Villains Ruined In Movies",
+            "summary": "The new DC Universe is poised to finally do justice to iconic DC Comics supervillains, addressing past cinematic failures where their portrayals fell short. This initiative presents a critical chance to meticulously develop these complex antagonists, ensuring a more faithful and impactful representation within the evolving DC film landscape, thereby rectifying previous creative missteps and enhancing the overall narrative.",
+            "url": "http://comicbook.com/movies/news/7-dc-villains-ruined-in-movies/",
+            "category": "International",
+            "date": "2025-11-25T13:30:00Z"
+        },
+        {
+            "title": "U.S. Military Documents Indicate Plans to Keep Troops in Caribbean Through 2028",
+            "summary": "The United States is planning a substantial, sustained military presence in the Caribbean, extending until the end of President Trump's term. This suggests a long-term strategic commitment beyond recent troop deployments. For SSB aspirants, this highlights US regional power projection, strategic interests in its backyard, and sustained operational planning, impacting regional dynamics and stability.",
+            "url": "https://theintercept.com/2025/11/25/trump-caribbean-venezuela-military-troops/",
             "category": "Defence",
-            "date": "2025-11-25T06:00:15Z"
+            "date": "2025-11-25T13:28:32Z"
+        },
+        {
+            "title": "An open letter to Hal Steinbrenner: It\u2019s time to breathe fire | Klapisch",
+            "summary": "This article outlines data privacy protocols, detailing how websites and partners, including those within the IAB Transparency & Consent Framework, store and access information on user devices upon clicking 'Accept all'. It emphasizes the use of personal data for online services, highlighting the mechanism for managing user consent and the involvement of multiple entities in data handling practices across digital platforms.",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65905bb0-f72f-4e7c-8d87-bc2282518bcd",
+            "category": "Sci & Tech",
+            "date": "2025-11-25T13:07:47Z"
         }
     ]
 }
