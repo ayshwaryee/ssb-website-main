@@ -1,264 +1,355 @@
 {
-    "last_updated": "2025-11-27T01:12:13.197270+00:00",
+    "last_updated": "2025-11-27T06:25:47.977411+00:00",
     "articles": [
         {
+            "title": "Could Jack Dorsey Be The Face Behind Bitcoin? Analysts Uncover New Evidence",
+            "summary": "Amid ongoing speculation regarding the true identity of Bitcoin's creator, Satoshi Nakamoto, new analysis suggests a prominent tech figure: Jack Dorsey, co-founder of Twitter. This development fuels the long-standing mystery surrounding the cryptocurrency's origins, linking a well-known entrepreneur to one of the digital world's most enigmatic founders. Such revelations are crucial for understanding the history and future trajectory of digital assets.",
+            "url": "https://bitcoinist.com/could-jack-dorsey-be-behind-bitcoin-evidence/",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T06:00:07Z"
+        },
+        {
+            "title": "Safran Aircraft Engine Services facility: PM Modi inaugurates India's first global MRO facility, check details",
+            "summary": "Prime Minister Modi inaugurated Safran Aircraft Engine Services India (SAESI) facility at Hyderabad's GMR Aerospace Park. This strategic venture by the French Safran Group strengthens India's aerospace capabilities, boosting 'Make in India' in defence and enhancing self-reliance in engine maintenance. It also reinforces the India-France strategic partnership in critical aerospace technology, vital for national security and job creation.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/safran-aircraft-engine-services-mro-facility-leap-engines-saesi-pm-modi-inaugurates-indias-first-global-mro-facility-in-hyderabad-airport-telangana-check-details/articleshow/125580843.cms",
+            "category": "Defence",
+            "date": "2025-11-26T05:41:31Z"
+        },
+        {
+            "title": "Community-Driven, Text Message\u2013Based COVID-19 Surveillance System, Los Angeles County, California, USA, 2020\u20132024",
+            "summary": "The provided article text is incomplete, consisting solely of a disclaimer and the opening fragment 'Even before the COVID-19 p...'. The full content required to summarize the news or ascertain its specific focus is missing. Therefore, a meaningful summary or an accurate category assignment cannot be generated based on this limited information.",
+            "url": "https://wwwnc.cdc.gov/eid/article/31/11/25-0907_article",
+            "category": "National",
+            "date": "2025-11-26T05:00:00Z"
+        },
+        {
+            "title": "James Gunn Comments on 2 Realistic Green Lantern Photos",
+            "summary": "James Gunn responded to widespread speculation concerning highly realistic Green Lantern images that appeared online. Amidst escalating questions regarding their authenticity, the director stepped in to provide clarification. This intervention aims to address fan queries and manage expectations surrounding these visually advanced depictions, likely pertaining to their origin and status within future DC projects, effectively quelling ongoing rumors.",
+            "url": "https://www.superherohype.com/news/640870-green-lanterns-series-photos-ai-james-gunn",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T04:56:27Z"
+        },
+        {
+            "title": "Russian Knights honour fallen Tejas' pilot Wing Commander Namansh Syal in \u2018Missing Man\u2019 tribute; watch video",
+            "summary": "This news snippet highlights financial tools designed for wealth creation. It introduces 'Investment Ideas' for tracking stock performance and sectoral trends. 'Stock Reports Plus' offers strategic insights, including 'Stock Score' and 'Upside potential,' to guide investment decisions for buying low and selling high. The 'BigBull Portfolio' is also mentioned, suggesting comprehensive financial management options.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/russian-knights-honour-fallen-tejas-pilot-wing-commander-namansh-syal-in-missing-man-tribute-watch-video/articleshow/125579663.cms",
+            "category": "National",
+            "date": "2025-11-26T04:41:58Z"
+        },
+        {
+            "title": "DCU\u2019s 4th Green Lantern Revealed in First Lanterns Series Teaser Description",
+            "summary": "A preview for DC Studios' \"Lanterns\" series recently surfaced, debuting at the HBO Max Upfront event in S\u00e3o Paulo. This teaser offers the initial look at the highly anticipated show, set within the expansive DC universe. For an aspirant, this signifies the continuous global evolution in entertainment and media, with major studios regularly launching new streaming content and franchises.",
+            "url": "https://www.superherohype.com/news/640841-green-lanterns-series-teaser-trailer-dcu",
+            "category": "International",
+            "date": "2025-11-26T04:01:26Z"
+        },
+        {
+            "title": "India's stock market facade: 576 stocks down over 30% as Sensex, Nifty near record high",
+            "summary": "While India's Sensex and Nifty indices hover near all-time highs, a significant underlying market correction is evident for many. Fresh data reveals 576 BSE-listed stocks have plunged over 30% from their peaks. This highlights a selective rally driven by a few large companies, masking broader market weakness and potential volatility, crucial for understanding national economic trends.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-stock-market-facade-576-stocks-down-over-30-as-sensex-nifty-near-record-high/articleshow/125578860.cms",
+            "category": "National",
+            "date": "2025-11-26T03:37:09Z"
+        },
+        {
+            "title": "AI is taking over, Trump's tariffs are still there and the moon awaits: What's coming in 2026",
+            "summary": "The year 2025 closed with record global temperatures and intensified climate warnings. Significant geopolitical flashpoints emerged, prompting major powers to strategically realign. Shifting space ambitions and a unique sports calendar also marked the year, highlighting a period of profound international change and challenges for global stability and cooperation.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/ai-is-taking-over-trumps-tariffs-are-still-there-and-the-moon-awaits-fifa-world-cup-russia-ukraine-whats-coming-in-2026/articleshow/125578750.cms",
+            "category": "International",
+            "date": "2025-11-26T03:25:19Z"
+        },
+        {
+            "title": "Apollo Micro Systems shares in focus on MoU with IIT-Chennai, Indian Navy to fast-track defence tech",
+            "summary": "Apollo Micro Systems announced a significant tri-party collaboration with IIT-Chennai and the Indian Navy. This partnership aims to boost indigenous defence capabilities and technological advancements crucial for national security. The collaboration will likely focus on developing cutting-edge systems and solutions for naval applications, enhancing India's self-reliance in defence manufacturing and research, vital for SSB aspirants to note for national security awareness.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-micro-systems-shares-in-focus-on-mou-with-iit-chennai-indian-navy-to-fast-track-defence-tech/articleshow/125578434.cms",
+            "category": "Defence",
+            "date": "2025-11-26T03:06:20Z"
+        },
+        {
+            "title": "Space Truckin' \u2013 The Nostromo (2012)",
+            "summary": "This article explores the conceptualization of the iconic fictional spaceship Nostromo, central to Ridley Scott's 1979 film. Scott reveals the significant cinematic influences that shaped the vessel's design and the overall aesthetic of the movie. The piece likely delves into the creative process behind the enduring science fiction classic, offering insights into its artistic roots and futuristic vision.",
+            "url": "https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T02:31:41Z"
+        },
+        {
+            "title": "All You Need To Know Going Into Trade On Wednesday",
+            "summary": "Inox Green allotted 12.3 lakh shares at Rs 145 each to a non-promoter warrant holder. Simultaneously, Bliss GVS Pharma's arm incorporated a new wholly-owned step-down subsidiary. This news highlights specific corporate actions involving share allocation and the establishment of a new business entity, reflecting strategic and operational developments within these companies in the national economic landscape.",
+            "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-november-26-2025",
+            "category": "National",
+            "date": "2025-11-26T01:50:07Z"
+        },
+        {
+            "title": "If you learn and lead, support systems around you will grow",
+            "summary": "The Hindi film 'Masti 4', featuring Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani, recorded a significantly dull box office collection on its fifth day. Its performance on Tuesday was reportedly poor, aligning with the low earnings observed for other recent films such as '120 Bahadur' and 'De De Pyaar\u2026'. This indicates a challenging commercial reception for the latest installment of the franchise.",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/if-you-learn-and-lead-support-systems-around-you-will-grow/articleshow/125577338.cms",
+            "category": "National",
+            "date": "2025-11-26T01:26:56Z"
+        },
+        {
+            "title": "How service providers and GCCs are building valuable partnerships",
+            "summary": "The Hindi film 'Masti 4', starring Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani, recorded a dull box office performance on its fifth day, a Tuesday. The movie's collections were reportedly similar to other releases such as '120 Bahadur' and 'De De Pyaar\u2026', indicating a struggle to attract significant audience numbers and generate robust revenue during its initial run.",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/how-service-providers-and-gccs-are-building-valuable-partnerships/articleshow/125577312.cms",
+            "category": "National",
+            "date": "2025-11-26T01:22:56Z"
+        },
+        {
+            "title": "\u3010\u7fbd\u7530\u7a7a\u6e2f\u3011\u300c\u30ad\u30e3\u30d7\u30c6\u30f3\u30b9\u30a4\u30fc\u30c4\u30d0\u30fc\u30ac\u30fc\u300d\u304c\u671f\u9593\u9650\u5b9aOPEN\uff01\u201c\u30ab\u30fc\u30d3\u30a3\u30ab\u30d5\u30a7\u201d\u306e\u30b3\u30e9\u30dc\u30b9\u30a4\u30fc\u30c4\u3084\u3001\u3075\u308f\u3075\u308f\u523a\u7e61\u306e\u30ab\u30fc\u30d3\u30a3\u304c\u304b\u308f\u3044\u3044\u65b0\u4f5c\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u30bb\u30c3\u30c8\u3082",
+            "summary": "An announcement details a 'Sweets Burger' product or service, possibly in collaboration with JAL (Japan Airlines), launching around October 2025. It will be available from November 26, 2025, to January 27, 2026, with various pricing tiers: 6 items for \u00a51,296, 10 for \u00a52,160, and 16 for \u00a53,240. The initiative appears to target consumers.",
+            "url": "https://prtimes.jp/main/html/rd/p/000001818.000025606.html",
+            "category": "International",
+            "date": "2025-11-26T01:20:00Z"
+        },
+        {
+            "title": "Saying no to commoditised work",
+            "summary": "The Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani starrer 'Masti 4' recorded a dull box office collection on its fifth day, Tuesday. Its earnings remained low, comparable to other recent releases like '120 Bahadur' and 'De De Pyaar\u2026'. This suggests the film is struggling to attract audiences, reflecting a challenging commercial performance in the current market.",
+            "url": "https://timesofindia.indiatimes.com/technology/times-techies/saying-no-to-commoditised-work/articleshow/125577224.cms",
+            "category": "National",
+            "date": "2025-11-26T01:19:05Z"
+        },
+        {
+            "title": "Exclusive - Utkarsha Naik on her role as Siddhi Mata in Tumm Se Tumm Tak: A character that stands apart",
+            "summary": "Actress Utkarsha Naik is currently receiving acclaim for her performance as Siddhi Mata in the television series 'Tumm Se Tumm Tak'. She highlighted the unique aspects of her character, emphasizing how it stands apart within the show's narrative. This news underscores the impact of strong character portrayals in national media, focusing on her distinctive role.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-utkarsha-naik-on-her-role-as-siddhi-mata-in-tumm-se-tumm-tak-a-character-that-stands-apart/articleshow/125577245.cms",
+            "category": "National",
+            "date": "2025-11-26T01:15:31Z"
+        },
+        {
             "title": "LANTERNS Teaser Debuts At HBO Max Upfront; Description Highlights Flying Sequence, [SPOILER] Mention, & More",
-            "summary": "Fans eagerly awaiting footage from the HBO Max series 'Lanterns' have learned of an unexpected delay. The show, which many anticipated an early release for, has reportedly been pushed back from its original schedule. This development highlights common production or scheduling challenges faced by major international entertainment projects, affecting their timely release and initial promotional content for global audiences.",
+            "summary": "Fans eagerly awaiting promotional footage for the HBO Max series 'Lanterns' learned of a significant production delay over the weekend. Despite earlier expectations, the show's release has been pushed back from its original schedule. This development explains the absence of any visuals for the series and provides an update on its anticipated launch, addressing ongoing fan speculation regarding its progress.",
             "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-teaser-debuts-at-hbo-max-upfront-description-highlights-flying-sequence-spoiler-mention-more-a225133",
             "category": "International",
             "date": "2025-11-26T01:01:00Z"
         },
         {
             "title": "Russian mercenaries accused of cold-blooded killings in Mali - BBC speaks to eyewitnesses",
-            "summary": "A shopkeeper in Africa has bravely recounted harrowing experiences to the BBC, detailing severe torture and physical violence inflicted by Russian mercenaries. This testimony sheds light on the brutal tactics employed by these foreign paramilitary groups, raising serious concerns about human rights abuses and the escalating conflict dynamics in the region. The incident underscores the complex and often violent role of external actors in international affairs.",
+            "summary": "A BBC report from M'berra recounts a shopkeeper's harrowing testimony, detailing alleged torture and physical violence by Russian mercenaries. This expose raises critical concerns about human rights abuses and the growing footprint of private military groups in African nations, impacting regional stability and international law. Such incidents underscore complex geopolitical challenges for global security.",
             "url": "https://www.bbc.com/news/articles/crmx7x3yjyko",
             "category": "International",
             "date": "2025-11-26T00:37:22Z"
         },
         {
             "title": "Russia-Ukraine war: List of key events, day 1,371",
-            "summary": "Russian forces have launched fresh attacks on Ukraine's capital, Kyiv, resulting in seven fatalities and 21 injuries, as confirmed by Ukraine's state emergency service. This latest escalation underscores the persistent human toll and intensity of the ongoing conflict, a crucial development for understanding current international geopolitics and regional security challenges.",
+            "summary": "On Wednesday, November 26, Russian forces launched attacks on Ukraine's capital, Kyiv, killing seven people and injuring 21, reported the state emergency service. This highlights the ongoing military conflict and its severe human cost. SSB aspirants should keenly observe such developments to understand contemporary global security challenges and their implications.",
             "url": "https://www.aljazeera.com/news/2025/11/26/russia-ukraine-war-list-of-key-events-day-1371",
-            "category": "International",
+            "category": "Defence",
             "date": "2025-11-26T00:35:40Z"
         },
         {
             "title": "Lanterns First Footage Reveals Key Details (And Confirms A Longtime Favorite Green Lantern)",
-            "summary": "DC's film and TV universe is advancing with new major projects. Following Superman, the focus shifts to Supergirl and Lanterns, with Lanterns recently receiving its initial showcase. This development in a leading global entertainment franchise reflects ongoing trends in mass media production and distribution, influencing international cultural landscapes and potentially significant economic ventures.",
+            "summary": "DC's film and TV universe is advancing with new projects, \"Supergirl\" and \"Lanterns,\" taking center stage after \"Superman.\" The \"Lanterns\" series, a key part of the expanded DC slate, has reportedly been showcased for the first time. This marks a significant step in developing fresh narratives and characters for the global franchise, indicating active production for future releases.",
             "url": "http://comicbook.com/tv-shows/news/lanterns-first-footage-reveals-key-details-and-confirms-a-longtime-favorite-green-lantern/",
             "category": "International",
             "date": "2025-11-26T00:32:57Z"
         },
         {
             "title": "Yankees Roundtable Podcast, Ep. 7: Cody Bellinger to the Mets?",
-            "summary": "The Major League Baseball offseason is deepening, with the New York Yankees actively planning their strategic moves despite no major announcements yet. There's an anticipation of significant roster adjustments, as the team's 'wheels are churning' to bolster their lineup. Player interest, including speculation around Cody Bellinger, indicates the Yankees are preparing for key decisions to enhance competitiveness for the upcoming season.",
+            "summary": "The MLB offseason is progressing, with anticipation building around the New York Yankees despite no major moves yet in the Bronx. Speculation suggests the team is actively preparing for potential acquisitions, possibly involving players like Cody Bellinger, as they strategize for the upcoming season, aiming to strengthen their roster. This reflects the intense planning typical of professional sports during the offseason.",
             "url": "https://roundtable.io/yankees/news/yankees-roundtable-podcast-ep-7-cody-bellinger-to-the-mets",
             "category": "National",
             "date": "2025-11-26T00:00:22Z"
         },
         {
             "title": "Every WIAA state football championship game in history",
-            "summary": "The Wisconsin Interscholastic Athletic Association (WIAA) has consistently sponsored football playoffs since 1976. Throughout this period, the championship finals have been conducted annually, maintaining a long-standing tradition. The sole disruption to this continuous schedule occurred in 2020, likely due to external factors hinted at in the text. This highlights the enduring legacy of high school football in Wisconsin.",
+            "summary": "The Wisconsin Interscholastic Athletic Association (WIAA) has a rich history of sponsoring football playoffs, consistently organizing championship finals annually since 1976. The only disruption to this long-standing tradition was in 2020, likely due to the COVID-19 pandemic. This highlights the enduring importance of interscholastic sports programs within the state of Wisconsin, USA.",
             "url": "https://www.jsonline.com/story/sports/high-school/2025/11/25/wisconsin-high-school-football-state-championship-game-results-wiaa-history/87473498007/",
             "category": "National",
             "date": "2025-11-25T23:44:42Z"
         },
         {
             "title": "Should Albanese \u2018fight Tories\u2019 harder? Or is blandness a safe bet in a fearful, populist world?",
-            "summary": "Political commentator Sean Kelly, writing for Nine newspapers, expresses profound disappointment with the federal Labor government. His opinion pieces highlight a critical perspective on the current administration's performance. This sentiment is conveyed despite a perceived lack of a credible opposition, suggesting a broader concern within the national political landscape regarding governmental effectiveness and accountability.",
+            "summary": "Sean Kelly, a prominent columnist for Nine newspapers, consistently expresses disappointment with the Australian federal Labor government. His opinion pieces highlight perceived shortcomings, suggesting that even without a strong opposition, the current administration's performance is found unsatisfactory. This reflects ongoing political commentary on Australia's domestic governance and public sentiment regarding its leadership.",
             "url": "https://theconversation.com/should-albanese-fight-tories-harder-or-is-blandness-a-safe-bet-in-a-fearful-populist-world-270454",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-25T23:39:45Z"
         },
         {
             "title": "When one woman checked her bank account after a night out and found she owed $50 billion",
-            "summary": "A woman received a bizarre shock after a night out, discovering her bank account showed she inexplicably owed a staggering $50 billion. This extraordinary figure, almost certainly a monumental banking error, turned her post-evening check into an unbelievable financial saga. The incident highlights potential system glitches and the dramatic impact of incorrect financial reporting, quickly becoming trending news.",
+            "summary": "A woman experienced a bizarre banking error after a night out, discovering her account showed she owed a staggering $50 billion. This unprecedented sum, clearly an anomalous transaction, caused initial shock before being identified as a system glitch. The incident highlights the potential for massive financial discrepancies in digital banking systems and became a trending topic.",
             "url": "https://timesofindia.indiatimes.com/etimes/trending/when-one-woman-checked-her-bank-account-after-a-night-out-and-found-she-owed-50-billion/articleshow/125574370.cms",
             "category": "National",
             "date": "2025-11-25T23:37:16Z"
         },
         {
             "title": "MOTM (Not a) Poll: BVB Sink The Yellow Submarine at Home",
-            "summary": "Dortmund secured a convincing victory against Villareal, a strong opponent in European football. This result, while Villareal isn't an elite club, underscores competitive dynamics in international sports. Such outcomes reflect strategic play and teamwork essential in various global competitive domains, offering insights into performance and success in diverse international fields.",
+            "summary": "Borussia Dortmund secured a convincing victory against Villareal, a strong opponent in European club football. The article expresses satisfaction with this significant performance, highlighting a noteworthy result within the competitive landscape of Europe's top leagues.",
             "url": "https://www.fearthewall.com/general/22544/motm-not-a-poll-bvb-sink-the-yellow-submarine-at-home",
             "category": "International",
             "date": "2025-11-25T22:42:14Z"
         },
         {
             "title": "Breaking Down the \u2018Talamasca: The Secret Order\u2019 Season 1 Ending",
-            "summary": "The first season of Anne Rice's Talamasca: The Secret Order on AMC concluded with several cliff-hangers, leaving viewers in suspense. The finale notably unveiled the mystery surrounding 'the 752,' a key plot point throughout the series. It also hinted at the future of a fledgling character, setting the stage for subsequent developments in this supernatural drama based on Anne Rice's fictional universe.",
+            "summary": "The first season of Anne Rice's 'Talamasca: The Secret Order' on AMC concluded with several cliff-hangers and significant revelations. The finale unveiled the truth surrounding the mysterious '752,' leaving viewers eager for future developments. This dramatic ending sets the stage for upcoming plotlines in the series, maintaining high suspense.",
             "url": "https://www.cosmopolitan.com/entertainment/tv/a69533455/talamasca-the-secret-order-season-1-ending-explained/",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-25T21:30:00Z"
         },
         {
             "title": "Fantasy Football Week 13 Trade Chart: Player values & Rest of Season Rankings help you finalize deadline deals",
-            "summary": "This article discusses the expansion of the Fantasy Football Trade Chart by CBS Sports, a tool designed to facilitate fair trades in fantasy football leagues. Originating fifteen seasons ago, this chart saw significant development and broadened its utility in 2025. It helps participants strategically manage their teams by providing objective trade evaluations, enhancing the competitive aspect of the game.",
+            "summary": "The CBS Sports Fantasy Football Trade Chart, created fifteen seasons ago to facilitate fair trades in fantasy leagues, is slated for a significant expansion in 2025. This upcoming update will broaden its utility, offering advanced analytical tools for fantasy football players. The enhanced chart aims to provide more comprehensive data and insights, enabling players to assess and execute trades effectively within their competitive leagues.",
             "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-13-trade-chart-player-values-rest-of-season-rankings-help-you-finalize-deadline-deals/",
             "category": "Sci & Tech",
             "date": "2025-11-25T20:37:25Z"
         },
         {
             "title": "Snyder's Soapbox: If Hal Steinbrenner wants sympathy about Yankees' expenses, he has one simple way to get it",
-            "summary": "This article, 'Snyder's Soapbox,' is a weekly column dedicated to Major League Baseball. It delves into various topics concerning the sport, covering both critical issues and less significant details. For an SSB aspirant, understanding diverse national interests, including popular sports and their surrounding discussions, can be beneficial for broadening general awareness and current affairs knowledge.",
+            "summary": "This article serves as an introduction to 'Snyder's Soapbox,' a weekly column dedicated to Major League Baseball. The author plans to discuss a wide range of MLB topics, from significant pressing matters to seemingly minor details, offering regular insights and commentary for baseball enthusiasts. It establishes the premise for an ongoing series of sports analysis.",
             "url": "https://www.cbssports.com/mlb/news/yankees-hal-steinbrenner-expenses-payroll-comments/",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-25T19:25:10Z"
         },
         {
             "title": "Airtel escalates row, reiterates Tejas' equipment 'sub-standard'",
-            "summary": "This article introduces investment services like \"Investment Ideas\" for wealth growth through stock and sectoral trends. \"Stock Reports Plus\" provides tools such as Stock Score and Upside potential to aid strategic buying and selling decisions. It also mentions a \"BigBull Portfolio\" service, offering comprehensive resources for individuals managing and expanding their investments within the financial markets.",
+            "summary": "The provided text introduces investment services designed to help individuals grow wealth. It highlights \"Investment Ideas\" for stock selection based on sectoral trends and \"Stock Reports Plus,\" which offers insights into buying and selling strategies using Stock Score and upside potential. The services, including the mention of a \"BigBull Portfolio,\" aim to equip investors with tools and analysis for informed financial decisions and market participation.",
             "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-escalates-row-reiterates-tejas-equipment-sub-standard/articleshow/125572731.cms",
             "category": "National",
             "date": "2025-11-25T19:10:21Z"
         },
         {
             "title": "HC bars Pelican from using trademark of ITC's Gold Flake",
-            "summary": "The Delhi High Court has temporarily restrained Pelican Tobacco Co from using names and labels similar to ITC's 'Gold Flake' trademark. This injunction follows an infringement suit filed by ITC to protect its intellectual property rights. The ruling highlights the significance of trademark protection and fair competition in the Indian market, a key aspect of business law and governance.",
+            "summary": "The Delhi High Court has issued an injunction against Pelican Tobacco Co., restraining it from using names and packaging similar to ITC's well-known Gold Flake trademark. This decision follows an infringement suit filed by ITC, asserting its intellectual property rights. The court's restraint will remain until the ongoing trademark infringement case is fully resolved.",
             "url": "https://economictimes.indiatimes.com/industry/cons-products/tobacco/hc-bars-pelican-from-using-trademark-of-itcs-gold-flake/articleshow/125572719.cms",
             "category": "National",
             "date": "2025-11-25T19:09:26Z"
         },
         {
             "title": "Rice, Chase lead Week 13 fantasy football wide receiver rankings",
-            "summary": "This article details fantasy football wide receiver rankings for Week 13, highlighting top players like Rashee Rice and Ja'Marr Chase. While engaging for sports enthusiasts, this specific content on American football is not directly relevant to the core knowledge required for Service Selection Board (SSB) aspirants. SSB preparation typically focuses on defence, national security, international relations, and scientific advancements.",
+            "summary": "The article presents the Top-50 fantasy football wide receiver rankings for Week 13, highlighting key players like Rashee Rice and Ja'Marr Chase leading the list. Other notable players such as Amon-Ra St. Brown, Jaxon Smith-Njigba, and Puka Nacua are also featured. This detailed ranking offers insights for fantasy football enthusiasts, reflecting current player performance and strategic selection for upcoming games.",
             "url": "https://www.upi.com/Sports_News/NFL/2025/11/25/fantasy-football-Week13-wide-receiver-rankings/5821764092450/",
             "category": "National",
             "date": "2025-11-25T19:02:37Z"
         },
         {
             "title": "\u2018The Stringer\u2019 on Netflix Review: Nobody Is Going to Believe Nick Ut Took \u2018Napalm Girl\u2019 Now",
-            "summary": "The Netflix documentary 'The Stringer: The Man Who Took the Photo' examines famed photojournalist Nick Ut's career. Though celebrated for iconic imagery, like his Vietnam War photos, the film controversially opens by questioning his veracity regarding a photograph he allegedly didn't capture. It explores photojournalism's complexities and truth.",
+            "summary": "A new Netflix documentary, 'The Stringer: The Man Who Took the Photo,' explores the legacy of renowned photojournalist Nick Ut. The film controversially questions his iconic contributions, including the famous 'Napalm Girl' image from the Vietnam War, by implying potential fabrication. It prompts critical discussion on truth in photojournalism and historical documentation.",
             "url": "https://petapixel.com/2025/11/25/the-stringer-on-netflix-review-nobody-is-going-to-believe-nick-ut-took-napalm-girl-now/",
             "category": "International",
             "date": "2025-11-25T18:59:31Z"
         },
         {
             "title": "Line-ups confirmed: Villarreal out to make their mark in Dortmund",
-            "summary": "Borussia Dortmund hosted Villarreal CF at Signal Iduna Park in a crucial UEFA Champions League Matchday 5 fixture. Both teams were vying to secure their progression to the next stage of the league phase. The match was anticipated to be a thrilling encounter as clubs from Germany and Spain competed in this prestigious international football competition.",
+            "summary": "Borussia Dortmund hosts Villarreal CF today at Signal Iduna Park in a crucial UEFA Champions League Matchday 5 clash. Both European football giants are fiercely competing to secure their advancement to the next phase of the prestigious tournament. This highly anticipated international fixture promises intense action as qualification hopes are on the line for both clubs.",
             "url": "https://onefootball.com/en/news/line-ups-confirmed-villarreal-out-to-make-their-mark-in-dortmund-42003396",
             "category": "International",
             "date": "2025-11-25T18:57:00Z"
         },
         {
             "title": "Mets and Rangers Swap Veterans, Tatsuya Imai Says No To The Dodgers & Hal Steinbrenner Talks Yankees Money",
-            "summary": "The New York Mets and Texas Rangers completed a significant baseball player trade. Brandon Nimmo, a long-time Met, and Marcus Semien exchanged teams in a deal expected to reshape both franchises' rosters. This high-profile move impacts the competitive outlook for the upcoming season, bringing new talent to each organization as they prepare for future competitions.",
+            "summary": "Major League Baseball teams, the New York Mets and Texas Rangers, executed a significant player trade on Sunday. Brandon Nimmo, a long-standing Mets player since 2011, and Marcus Semien swapped teams. This high-profile deal signifies strategic roster adjustments for both franchises, potentially impacting their upcoming season performances in professional baseball.",
             "url": "https://sports.yahoo.com/mlb/article/mets-and-rangers-swap-veterans-tatsuya-imai-says-no-to-the-dodgers--hal-steinbrenner-talks-yankees-money-182034331.html",
-            "category": "International",
+            "category": "National",
             "date": "2025-11-25T18:20:34Z"
         },
         {
             "title": "Fantasy Football Start 'Em, Sit 'Em Week 13: Who should I start, lineup advice, best matchups, DFS picks",
-            "summary": "This article offers comprehensive Week 13 fantasy football advice, guiding participants on player selections through \"Start 'Em, Sit 'Em\" recommendations. It provides optimal lineup strategies, identifies advantageous matchups, and suggests Daily Fantasy Sports (DFS) picks. The guidance aims to assist enthusiasts in making informed decisions to enhance their team's performance in this popular pastime.",
+            "summary": "This article from The Sporting News offers comprehensive Fantasy Football guidance for Week 13. It provides 'Start 'Em, Sit 'Em' player recommendations, strategic lineup advice, insights into best matchups, and daily fantasy sports (DFS) picks. This content aids players in optimizing their teams through data-informed decisions, highlighting analytical approaches in sports management and entertainment.",
             "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-start-em-sit-em-week-13-2025/229854d5aab13430f3522911",
-            "category": "National",
+            "category": "Sci & Tech",
             "date": "2025-11-25T18:17:18Z"
         },
         {
+            "title": "Rt Hon Luke Pollard MP, Minister for Defence Readiness and Industry, Speech for Long War Conference",
+            "summary": "RUSI hosted a timely discussion on the critical need to prepare for a protracted conflict. The event explored the strategic implications and core security challenges of fighting a longer war. The discourse emphasized robust national defence planning and building long-term strategic resilience, crucial elements for effectively addressing future security landscapes.",
+            "url": "https://www.gov.uk/government/speeches/rt-hon-luke-pollard-mp-minister-for-defence-readiness-and-industry-speech-for-long-war-conference",
+            "category": "Defence",
+            "date": "2025-11-25T18:00:44Z"
+        },
+        {
+            "title": "US push for Russia-Ukraine peace deal gains momentum as attacks on Kyiv kill 7",
+            "summary": "The US is reportedly renewing its diplomatic efforts to end the Russia-Ukraine war, with this push gaining momentum. However, officials caution that several key issues remain unresolved between the warring nations. This initiative underscores ongoing international attempts to broker a peaceful resolution and de-escalate the prolonged conflict, highlighting the complexities of global diplomacy.",
+            "url": "https://economictimes.indiatimes.com/news/defence/us-push-for-russia-ukraine-peace-deal-gains-momentum-as-attacks-on-kyiv-kill-7/articleshow/125570681.cms",
+            "category": "International",
+            "date": "2025-11-25T17:55:42Z"
+        },
+        {
             "title": "Zelensky accepts majority of US-led Ukraine peace deal, Starmer says as talks continue",
-            "summary": "The United States is intensifying its diplomatic efforts to bring an end to the ongoing conflict between Russia and Ukraine. Officials report that these renewed pushes are gaining momentum, despite several crucial issues remaining unresolved. This development highlights the international community's continued pursuit of peace and stability in the region, reflecting a significant geopolitical initiative.",
+            "summary": "The United States is intensifying its diplomatic efforts to achieve a resolution to the ongoing conflict between Russia and Ukraine. While this renewed push is reportedly gaining momentum, significant key issues remain unresolved, posing challenges to a lasting peace. This situation underscores the complexities of international geopolitics and the protracted nature of major global disputes.",
             "url": "https://www.independent.ie/world-news/europe/zelensky-accepts-majority-of-us-led-ukraine-peace-deal-starmer-says-as-talks-continue/a1416414868.html",
             "category": "International",
             "date": "2025-11-25T17:30:00Z"
         },
         {
+            "title": "Indian Army's Trishakti Corps begins AMAR combat training at high altitudes exceeding 14000 ft.",
+            "summary": "The Indian Army's Trishakti Corps has commenced intensive Army Martial Arts Routine (AMAR) training at altitudes exceeding 14,000 feet. This rigorous program aims to significantly enhance close-combat readiness and operational effectiveness in challenging high-altitude environments. Such specialized training is crucial for equipping soldiers with superior combat skills, reinforcing the Army's overall preparedness for demanding operational scenarios.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-armys-trishakti-corps-begins-amar-combat-training-at-high-altitudes-exceeding-14000-ft-/articleshow/125569958.cms",
+            "category": "Defence",
+            "date": "2025-11-25T17:26:08Z"
+        },
+        {
+            "title": "Articulations of the Anthropocene",
+            "summary": "Artist Marie Lorenz showcases large-scale collages and prints crafted from New York City shoreline debris like tires, life vests, and paddles. Her unique, environmentally-themed exhibition at Watershed Art & Ecology transforms marine pollution into impactful art. This creative initiative powerfully highlights ecological concerns and the pervasive issue of coastal waste.",
+            "url": "http://chicagoreader.com/visual-arts/art-review/marie-lorenz-watershed-art-ecology/",
+            "category": "Sci & Tech",
+            "date": "2025-11-25T17:14:17Z"
+        },
+        {
+            "title": "Yankees owner downplays Dodgers' million-dollar investment after World Series win",
+            "summary": "New York Yankees owner Hal Steinbrenner has responded directly to mounting criticism regarding the team's prolonged failure to win a championship. His comments address comparisons with recent winning franchises, intensifying the ongoing debate about the team's investment strategies and performance expectations amid significant fan dissatisfaction and media scrutiny.",
+            "url": "https://www.marca.com/en/mlb/new-york-yankees/2025/11/25/6925e0d622601dda308b4582.html",
+            "category": "National",
+            "date": "2025-11-25T17:08:08Z"
+        },
+        {
+            "title": "NFL Week 13 betting power ratings: Rams No. 1 as top tiers separate, plus how all 32 teams stack up",
+            "summary": "The article discusses a top group of 10 teams in sports betting power ratings, all contenders for the No. 1 spot. These teams are characterized as either unproven or having significant flaws, yet maintain minimal differences in their overall standings. This creates a highly competitive and unpredictable scenario for bettors and analysts, highlighting the tight race among top contenders.",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-13-betting-power-ratings-rams-no-1/",
+            "category": "National",
+            "date": "2025-11-25T17:04:39Z"
+        },
+        {
+            "title": "Lili Reinhart Favors Fall Tones and Seasonal Layering in Tory Burch for the SAG-AFTRA Foundation \u2018Hal & Harper\u2019\u00a0Conversation",
+            "summary": "Actress Lili Reinhart attended a SAG-AFTRA Foundation conversation in New York City for her new series, \u201cHal & Harper.\u201d Dressed in Tory Burch, the event marked her appearance to discuss the upcoming show. This news pertains to developments within the entertainment industry, highlighting celebrity engagements and new media productions within a national context.",
+            "url": "http://wwd.com/pop-culture/celebrity-news/lili-reinhart-tory-burch-outfit-sag-aftra-event-1238361662/",
+            "category": "National",
+            "date": "2025-11-25T16:29:02Z"
+        },
+        {
+            "title": "Another leopard sighting at Pune Airport premises, additional camera traps installed",
+            "summary": "A leopard has been sighted again at Pune International Airport, following an earlier report on November 19. These repeated sightings have prompted the Forest Department to install cages on the premises to capture the animal. This situation highlights challenges in wildlife management near critical infrastructure and raises concerns for airport safety and operations, underscoring the need for coordinated response efforts.",
+            "url": "https://indianexpress.com/article/cities/pune/another-leopard-pune-airport-premises-camera-traps-installed-10385912/",
+            "category": "National",
+            "date": "2025-11-25T16:28:46Z"
+        },
+        {
+            "title": "Sweden Revealed The World's First 5th-Gen Submarine",
+            "summary": "Saab's Stirling Air-Independent Propulsion (AIP) system significantly enhances submarine capabilities. It renders submarines ultra-quiet and nearly invisible by minimizing signatures. This advanced technology allows them to remain submerged for extended durations, offering a critical tactical advantage for naval operations. This extended underwater endurance improves operational effectiveness and survivability, making submarines harder to detect and track.",
+            "url": "https://www.bgr.com/2035661/world-first-5th-gen-submarine-a26-sweden/",
+            "category": "Defence",
+            "date": "2025-11-25T16:17:00Z"
+        },
+        {
+            "title": "gismap 0.3.0",
+            "summary": "The provided text describes a technical error where a website component failed to load, potentially due to browser extensions, network issues, or settings. It advises users to check their connection, disable ad blockers, or try a different browser to resolve the issue. While useful for troubleshooting, this content does not convey any news related to defence, national, international, or scientific developments for an SSB aspirant.",
+            "url": "https://pypi.org/project/gismap/0.3.0/",
+            "category": "Sci & Tech",
+            "date": "2025-11-25T16:12:57Z"
+        },
+        {
             "title": "Jenna Bush Hager recalls daughter\u2019s \u2018dark\u2019 reaction to \u2018Cinderella\u2019",
-            "summary": "Talk show host Jenna Bush Hager shared that her daughter had a \"dark\" reaction to Disney's \"Cinderella.\" She recounted this anecdote on her program while discussing her daughters, Mila (12) and Poppy (10), with a guest. This highlights broader discussions on children's interpretations of classic media and parental perspectives on their emotional development, offering insights into family dynamics.",
+            "summary": "Talk show host Jenna Bush Hager shared a personal anecdote revealing one of her daughters experienced an unexpected 'dark' reaction after watching the classic Disney film 'Cinderella.' She recounted this incident, involving her daughters Mila (12) and Poppy (10), during a discussion with a guest on her show, highlighting potentially diverse childhood interpretations of familiar fairytales.",
             "url": "https://pagesix.com/2025/11/25/entertainment/jenna-bush-hager-recalls-daughters-dark-reaction-to-cinderella/",
             "category": "National",
             "date": "2025-11-25T15:27:51Z"
         },
         {
             "title": "Czech raid exposes Ukraine-linked drone deal corruption",
-            "summary": "A Czech Republic-registered firm, Reactive Drone, is under investigation and has been raided for allegedly selling drones to the Ukrainian army at prices up to 20 times their market value. Prague authorities are probing the company for suspected massive overcharging, highlighting potential corruption within defence procurement during wartime. This incident raises serious concerns about ethical practices in military supply chains.",
+            "summary": "Czech company Reactive Drone is under investigation and was raided after allegedly selling drones to the Ukrainian army at grossly inflated prices, up to 20 times their market value. This probe, initiated by Prague investigators, highlights potential procurement irregularities during wartime, raising concerns about defence spending and ethical business practices in conflict zones.",
             "url": "https://www.rt.com/russia/628387-ukraine-czech-republic-corruption-drones/",
             "category": "Defence",
             "date": "2025-11-25T15:24:51Z"
         },
         {
             "title": "PM to launch Skyroot\u2019s multiple launch vehicle facility",
-            "summary": "Prime Minister Modi will virtually inaugurate Skyroot Aerospace's 2-lakh sq ft Infinity Campus in Hyderabad on November 27. This milestone event signifies India's growing private space sector, fostering indigenous innovation and job creation. For SSB aspirants, it underscores the nation's commitment to self-reliance in critical technologies, vital for strategic advancement and global competitiveness.",
+            "summary": "Prime Minister Modi will virtually inaugurate Skyroot Aerospace's 2-lakh sq ft Infinity Campus in Hyderabad on November 27. This event significantly boosts India's private space sector, underscoring national commitment to technological advancement and self-reliance. For SSB aspirants, it highlights India's growing capabilities in space innovation, a crucial domain for future strategic and economic growth.",
             "url": "https://www.thehindubusinessline.com/economy/logistics/pm-to-launch-skyroots-multiple-launch-vehicle-facility/article70322740.ece",
             "category": "Sci & Tech",
             "date": "2025-11-25T15:22:20Z"
         },
         {
             "title": "The tournament changing college hoops, plus the inevitable 49ers",
-            "summary": "The article highlights observing strategic maxims in sports, using American football (NFL) as an example. It refers to Patrick Mahomes' game-winning plays and the Chargers' recurring struggles, advising readers to strategically assess situations and 'not trade their ace' today. This emphasizes the importance of keen observation, understanding recurring patterns, and making tactical decisions, skills relevant for an SSB aspirant.",
+            "summary": "The piece begins by urging readers to 'consider not trading your ace today,' illustrating this strategic principle with sports examples such as NFL's Patrick Mahomes' late-game prowess. This advice, pertinent for SSB aspirants, underscores the importance of intelligent resource management, preserving key assets, and leveraging one's strengths effectively during critical tactical or strategic challenges.",
             "url": "https://sports.yahoo.com/articles/tournament-changing-college-hoops-plus-151357479.html",
-            "category": "National",
-            "date": "2025-11-25T15:13:57Z"
-        },
-        {
-            "title": "Is Gotham a dynasty now? Plus: Watching the NWSL final with the Lavelles",
-            "summary": "The Athletic's women's soccer newsletter reported on the NWSL Championship, a significant national sporting event. Gotham midfielder Rose Lavelle, a prominent player, scored a crucial goal, likely securing the championship victory. This update highlights key performances in professional women's soccer, marking an important achievement in the domestic league.",
-            "url": "https://sports.yahoo.com/articles/gotham-dynasty-now-plus-watching-151357627.html",
-            "category": "National",
-            "date": "2025-11-25T15:13:57Z"
-        },
-        {
-            "title": "Fantasy Football Week 13 Defense (DST) Rankings and Streamers",
-            "summary": "The provided text discusses a consistent streak of successful sports predictions, with six out of the top ten picks proving correct in the recent week. Specific NFL teams like the Browns, Ravens, and Patriots are cited as examples of these accurate, albeit not entirely bold, forecasts, indicating a confident trend in their prediction strategy.",
-            "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-13-defense-dst-rankings-and-streamers",
-            "category": "National",
-            "date": "2025-11-25T14:54:10Z"
-        },
-        {
-            "title": "Airtel refutes Tejas Networks claim, alleges use of sub-standard gears causing problem",
-            "summary": "Bharti Airtel reported significant network interference in Rajasthan, attributing the issue to \"sub-standard equipment\" installed by Tejas Networks for BSNL's 4G rollout. Airtel firmly rejected opposing claims, asserting that the quality of gear deployed for the expanding national telecom infrastructure is directly responsible. This incident highlights ongoing challenges in ensuring robust network quality and equipment standards during India's 4G expansion.",
-            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-refutes-tejas-networks-claim-alleges-use-of-sub-standard-gears-causing-problem/articleshow/125567540.cms",
-            "category": "National",
-            "date": "2025-11-25T14:52:34Z"
-        },
-        {
-            "title": "Sensitive issues still to be discussed as Ukraine \u2018supports essence\u2019 of peace framework",
-            "summary": "Ukraine has expressed support for the core principles of a proposed peace framework following recent talks with the United States in Geneva. While the general essence is backed, significant and sensitive outstanding issues still require further discussion between the involved countries. These ongoing negotiations aim to establish a lasting resolution to the conflict, highlighting the complexities of international peacemaking efforts.",
-            "url": "https://www.irishtimes.com/world/europe/2025/11/25/sensitive-issues-still-to-be-discussed-as-ukraine-supports-essence-of-peace-framework/",
-            "category": "International",
-            "date": "2025-11-25T14:48:23Z"
-        },
-        {
-            "title": "\u201cWhat are you doing?\u201d: FaZe Lacy\u2019s alarming confrontation with alleged stalker in viral livestream reveals dark side of parasocial fandom",
-            "summary": "US streamer FaZe Lacy experienced an alarming confrontation with an alleged stalker during a viral livestream. This incident, gaining international attention, starkly highlights the dark side of parasocial relationships and the significant risks faced by online personalities. It serves as a potent reminder for SSB aspirants to understand the global implications of digital safety and the complexities of internet culture.",
-            "url": "https://timesofindia.indiatimes.com/world/us-streamers/what-are-you-doing-faze-lacys-alarming-confrontation-with-alleged-stalker-in-viral-livestream-reveals-dark-side-of-parasocial-fandom/articleshow/125567268.cms",
-            "category": "International",
-            "date": "2025-11-25T14:45:48Z"
-        },
-        {
-            "title": "Erika Kirk reveals what JD Vance whispered to her during their \u2018infamous\u2019 hug",
-            "summary": "Erika Kirks' quiet life was upended after her husband Charlie's death, unintentionally propelling her into public scrutiny. A brief interaction, a hug, with Vice President JD Vance swiftly went viral, triggering widespread speculation and drawing immense, unwanted media attention. This incident underscores how personal tragedy can inadvertently intersect with national political figures and social media's powerful influence.",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/erika-kirk-reveals-what-jd-vance-whispered-to-her-during-their-infamous-hug/articleshow/125567122.cms",
-            "category": "National",
-            "date": "2025-11-25T14:38:17Z"
-        },
-        {
-            "title": "Zen Technologies emerges single vendor, bags \u20b9108 cr contract for tank gunnery simulators",
-            "summary": "Zen Technologies has secured a \u20b9108-crore Ministry of Defence contract for indigenous tank crew gunnery training simulators. This significant deal underscores India's 'Make in India' defence push and recent procurement reforms prioritizing domestic manufacturers. The simulators will enhance the Indian Army's operational readiness and training efficiency, contributing to self-reliance in critical defence technologies.",
-            "url": "https://www.thehindubusinessline.com/news/zen-technologies-emerges-single-vendor-bags-108-cr-contract-for-tank-gunnery-simulators/article70322152.ece",
             "category": "Defence",
-            "date": "2025-11-25T14:32:20Z"
-        },
-        {
-            "title": "Left in lurch: With fading Red in West Bengal and Tripura, will Kerala's communists find their direction?",
-            "summary": "India's Communist parties face a critical introspective period as their influence significantly declines in former strongholds like West Bengal and Tripura. This prompts serious questions about the future direction and relevance of the Left, particularly concerning their political strategy and continued dominance in states like Kerala. The article explores the challenges of adapting to India's evolving political landscape for the communist movement.",
-            "url": "https://timesofindia.indiatimes.com/india/left-in-lurch-with-fading-red-in-west-bengal-and-tripura-will-keralas-communists-find-their-direction-cpm-cpi-jyoti-basu-brinda-karat/articleshow/125563137.cms",
-            "category": "National",
-            "date": "2025-11-25T14:13:23Z"
-        },
-        {
-            "title": "Private sector entry into navigation systems will boost India's 2047 vision: ISRO chief",
-            "summary": "ISRO Chairman Narayanan expressed satisfaction with private companies now developing complex navigation systems vital for spacecraft and defence applications. This development highlights India's strengthening self-reliance and the growing contribution of the private sector in advancing indigenous space and defence technologies. Such collaborations are crucial for boosting national capabilities, fostering innovation, and ensuring a robust, independent technological ecosystem in critical sectors.",
-            "url": "https://economictimes.indiatimes.com/news/science/private-sector-entry-into-navigation-systems-will-boost-indias-2047-vision-isro-chief/articleshow/125566857.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-25T14:10:03Z"
-        },
-        {
-            "title": "Rio Tinto strengthens support for organisations responding to gender-based violence across Canada",
-            "summary": "Global mining company Rio Tinto, based in Montreal, is reaffirming its commitment to addressing domestic and family violence. This action is part of the 16 Days of Activism against Gender-Based Violence. The company aims to combat this issue by extending crucial support to various local organizations dedicated to preventing and responding to such violence.",
-            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/rio-tinto-strengthens-support-for-organisations-responding-to-gender-based-violence-across-canada",
-            "category": "International",
-            "date": "2025-11-25T14:03:09Z"
-        },
-        {
-            "title": "Disruption of yqhG attenuates virulence in methicillin-resistant Staphylococcus aureus by compromising membrane stability and oxidative stress resistance",
-            "summary": "The article highlights the critical global challenge posed by the increasing prevalence of methicillin-resistant Staphylococcus aureus (MRSA) infections and growing antibiotic resistance. This escalating threat underscores an urgent need for novel therapeutic strategies and continued research to develop new drugs and approaches. Such advancements are crucial to combat these resilient bacteria, which present significant hurdles for medical science and patient care worldwide, making it a major public health concern.",
-            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337292",
-            "category": "Sci & Tech",
-            "date": "2025-11-25T14:00:00Z"
-        },
-        {
-            "title": "Dodgers Notes: Prospects, free agents, Tatsuya Imai",
-            "summary": "The Los Angeles Dodgers are actively managing a complex offseason, leveraging their robust farm system for talent development. They are also closely monitoring an intriguing free agent class to strengthen their roster. A significant focus is their growing connection with Japanese players, indicating a strategic international recruitment effort to build a competitive team for the upcoming season.",
-            "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/107937/dodgers-notes-top-prospects-free-agents-tatsuya-imai",
-            "category": "International",
-            "date": "2025-11-25T13:57:56Z"
-        },
-        {
-            "title": "India and South Africa burn a lot of coal: what they can learn from each other about ending the dependency",
-            "summary": "India and South Africa are jointly tackling the 21st-century challenge of transitioning their electricity systems from aging coal-fired power stations. Both nations must ensure continued power supply for their populations while moving towards cleaner energy sources. This complex shift highlights a shared global imperative to balance economic development with environmental sustainability and energy security amidst climate change.",
-            "url": "https://theconversation.com/india-and-south-africa-burn-a-lot-of-coal-what-they-can-learn-from-each-other-about-ending-the-dependency-269824",
-            "category": "International",
-            "date": "2025-11-25T13:50:59Z"
+            "date": "2025-11-25T15:13:57Z"
         }
     ]
 }
