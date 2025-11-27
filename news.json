@@ -1,278 +1,348 @@
 {
-    "last_updated": "2025-11-27T12:34:17.701791+00:00",
+    "last_updated": "2025-11-27T18:22:02.365391+00:00",
     "articles": [
         {
+            "title": "Poland chooses Sweden's Saab to supply it with three submarines",
+            "summary": "Poland has chosen Sweden's Saab for a multi-billion-dollar deal to acquire three new submarines. Announced on November 26, this strategic procurement is a key element in Warsaw's ongoing efforts to significantly bolster its naval defence capabilities. For SSB aspirants, this highlights a nation's commitment to modernizing its armed forces and enhancing maritime security, reflecting broader trends in European defence spending and strategic alliances.",
+            "url": "https://www.channelnewsasia.com/world/poland-sweden-saab-defence-submarines-5491986",
+            "category": "Defence",
+            "date": "2025-11-26T18:10:12Z"
+        },
+        {
+            "title": "Mike Francesa goes on explosive rant over Hal Steinbrenner\u2019s Yankees claim: \u2018Opened Pandora\u2019s box\u2019",
+            "summary": "New York radio host Mike Francesa launched a scathing podcast rant, making serious allegations against Hal Steinbrenner, owner of the Yankees. Francesa provocatively claimed insider knowledge, stating he knows 'where Hal Steinbrenner\u2019s money is buried.' This high-profile commentary from a prominent media personality against a major sports figure has generated national discussion.",
+            "url": "https://nypost.com/2025/11/26/sports/mike-francesa-goes-on-explosive-rant-over-hal-steinbrenners-yankees-claim/",
+            "category": "National",
+            "date": "2025-11-26T17:49:32Z"
+        },
+        {
+            "title": "Mother of martyred Agniveer moves HC against denial of 'full' benefits to family",
+            "summary": "The mother of Agniveer Murali Naik, who died in cross-border shelling during Operation Sindoor in J&K, has moved the Bombay High Court. She challenges the denial of entitled benefits, raising concerns about support for families of Agniveers making the ultimate sacrifice. This case highlights the legal challenges and support systems for soldiers' dependents, a crucial aspect for SSB aspirants to understand regarding military service.",
+            "url": "https://economictimes.indiatimes.com/news/india/mother-of-martyred-agniveer-moves-hc-against-denial-of-full-benefits-to-family/articleshow/125596028.cms",
+            "category": "Defence",
+            "date": "2025-11-26T17:47:09Z"
+        },
+        {
+            "title": "Shop Arlington artists for unique holiday gifts in the new studios and store!",
+            "summary": "This sponsored column by Arlington Arts/Arlington Cultural Affairs, a division of Arlington Economic Development, promotes finding unique holiday gifts. It targets savvy shoppers seeking one-of-a-kind items during the festive season. While the article's full content is truncated, the introduction suggests a guide to supporting local arts and the economy through such purchases.",
+            "url": "https://www.arlnow.com/2025/11/26/shop-arlington-artists-for-unique-holiday-gifts-in-the-new-studios-and-store-aed1/",
+            "category": "National",
+            "date": "2025-11-26T17:45:22Z"
+        },
+        {
+            "title": "Lili Reinhart Goes Strapless With Corset Detailing in Georges Hobeika for \u2018Jimmy Fallon\u2019\u00a0Appearance",
+            "summary": "Actress Lili Reinhart, known from \"Riverdale,\" made a vibrant appearance on \"The Tonight Show Starring Jimmy Fallon\" in New York City. She showcased a colorful Georges Hobeika ensemble during her late-night television appearance, styled to create a memorable visual impact. This celebrity news covers entertainment events and fashion choices in the international media landscape.",
+            "url": "http://wwd.com/pop-culture/celebrity-news/lili-reinhart-georges-hobeika-dress-jimmy-fallon-1238363295/",
+            "category": "International",
+            "date": "2025-11-26T17:06:59Z"
+        },
+        {
+            "title": "The 10 Best Kirby Games",
+            "summary": "Kirby, the iconic video game character since 1992, is renowned for his extraordinary versatility. He boasts dozens of transforming copy abilities and has appeared in numerous forms, including being split into multiple colored entities. This enduring evolution highlights innovation in character design and digital entertainment, showcasing how technology shapes popular culture and interactive media for a global audience.",
+            "url": "https://www.ign.com/articles/the-best-kirby-games",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T17:00:00Z"
+        },
+        {
+            "title": "Poland to purchase 3 Swedish submarines for naval update",
+            "summary": "Poland's Deputy Prime Minister and Defence Minister Wladyslaw Kosiniak-Kamysz announced the nation's decision to procure three new submarines from Sweden. This strategic move aims to significantly renew the Polish navy's aging underwater fleet and enhance its overall defence capabilities. The acquisition underscores Poland's ongoing efforts to modernize its military and bolster its security infrastructure amidst regional developments.",
+            "url": "https://www.thestar.com.my/news/world/2025/11/27/poland-to-purchase-3-swedish-submarines-for-naval-update",
+            "category": "Defence",
+            "date": "2025-11-26T16:40:00Z"
+        },
+        {
+            "title": "Lanterns: James Gunn Shuts Down Leaked Images: \"Nope, That's AI\"",
+            "summary": "James Gunn addressed and debunked circulating \"leaked images\" for the highly anticipated \"Lanterns\" series, starring Aaron Pierre and Kyle Chandler, set to stream on HBO/Max. Fans are eagerly awaiting official footage for the science-fiction superhero show. Gunn's move aims to manage content dissemination and maintain creative control over the upcoming production.",
+            "url": "https://bleedingcool.com/tv/lanterns-james-gunn-shuts-down-leaked-images-nope-thats-ai/",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T16:34:03Z"
+        },
+        {
+            "title": "DCU Green Lantern Leak That Fooled Fans Shot Down By James Gunn As AI",
+            "summary": "Google's recently launched AI image generator, \"Nano Banana Pro,\" is ushering in a new era for movie and TV leaks. Its advanced capability to replicate real-life imagery poses significant challenges for content security. This AI breakthrough simplifies unauthorized reproduction, creating a major concern for the entertainment industry regarding intellectual property protection and preventing pre-release content exposure.",
+            "url": "https://www.forbes.com/sites/paultassi/2025/11/26/dcu-green-lantern-leak-that-fooled-fans-shot-down-by-james-gunn-as-ai/",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T16:19:12Z"
+        },
+        {
+            "title": "Poland chooses Swedish submarines for naval overhaul",
+            "summary": "Poland has chosen Sweden to build new submarines, a strategic move to significantly enhance its navy's capabilities and modernise its fleet. This decision, announced by Poland's defence minister, is a direct response to the ongoing war in Ukraine and growing fears of Russian threats. It highlights NATO member nations' concerted efforts to strengthen their defence posture and maritime security in Eastern Europe.",
+            "url": "https://www.euractiv.com/news/poland-chooses-swedish-submarines-for-naval-overhaul/",
+            "category": "Defence",
+            "date": "2025-11-26T16:06:59Z"
+        },
+        {
+            "title": "Data centre space heats up as Reliance JV announces $11 b investment in Vizag",
+            "summary": "India's data centre sector is witnessing rapid expansion, driven by an unprecedented data explosion fueled by 5G, AI, automation, and extensive digitisation initiatives. This surge in demand is attracting both domestic and global data centre majors, signaling a significant build-out of critical digital infrastructure to support the nation's growing technological needs and data processing capabilities.",
+            "url": "https://www.thehindubusinessline.com/info-tech/data-centre-space-heats-up-as-reliance-jv-announces-11-b-investment-in-vizag/article70326959.ece",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T15:33:05Z"
+        },
+        {
+            "title": "What exactly is the Dyson V12s Detect Slim Submarine and should I buy one in the Black Friday sales?",
+            "summary": "Dyson has launched its new V12s Detect Slim Submarine, an innovative two-in-one floorcare cleaner. This advanced device, designed for enhanced household efficiency, is currently exclusive to the UK market. Despite its recent introduction, the V12s Detect Slim Submarine is already available at a discounted price, marking its immediate presence in the consumer electronics sector.",
+            "url": "https://www.techradar.com/home/vacuums/what-is-the-dyson-v12s-detect-slim-submarine-and-should-i-buy-one",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T15:26:51Z"
+        },
+        {
+            "title": "Achane, Gibbs lead Week 13 fantasy football running back rankings",
+            "summary": "This article details the Top-50 fantasy football running back rankings for Week 13. Prominent players such as De'Von Achane, Jahmyr Gibbs, Jonathan Taylor, Saquon Barkley, and Derrick Henry are ranked based on their projected performance, offering guidance to fantasy league participants for their upcoming selections.",
+            "url": "https://www.upi.com/Sports_News/NFL/2025/11/26/fantasy-football-running-back-rankings-Week13/8071764164439/",
+            "category": "National",
+            "date": "2025-11-26T15:15:46Z"
+        },
+        {
+            "title": "Respect the Drummer",
+            "summary": "The author shares a personal and long-standing passion for drumming, playing every chance they get. Despite consistent effort, they candidly describe their drumming journey as a continuous education in their own \"shining mediocrity,\" offering a humble self-assessment of their musical ability. This reflects a dedication to a personal hobby.",
+            "url": "https://www.theatlantic.com/magazine/2026/01/rock-music-history-drummers/684955/",
+            "category": "National",
+            "date": "2025-11-26T15:00:00Z"
+        },
+        {
+            "title": "WPL Auction 2026: All you need to know\u2014 Player pool, remaining slots, purse balance and stars to watch",
+            "summary": "The Women's Premier League (WPL) auction is set to commence tomorrow, following India's recent Women's World Cup triumph. This significant achievement has boosted national morale and bringing heightened anticipation to the WPL's return. The auction marks a crucial step for the league, leveraging the nation's success in women's cricket to further promote the sport domestically and internationally, inspiring future athletes.",
+            "url": "https://economictimes.indiatimes.com/news/sports/wpl-auction-2026-full-squad-list-retentions-remaining-purse-team-wise-women-premier-league-deepti-sharma-smriti-mandhana-meg-lanning-alyssa-healy-laura-wolvarrdt-top-buys/articleshow/125592365.cms",
+            "category": "National",
+            "date": "2025-11-26T14:56:20Z"
+        },
+        {
+            "title": "The best TV to catch up on over the Thanksgiving weekend",
+            "summary": "The article fragment describes how 'TV nerds' view Thanksgiving week, prioritizing engaging with television content and showcasing their 'Star...' knowledge over traditional holiday activities like enjoying pumpkin pie or interacting with family. It highlights a unique cultural preference for pop culture and media consumption during festive seasons, reflecting modern entertainment trends.",
+            "url": "https://www.npr.org/2025/11/26/nx-s1-5600868/best-tv-to-watch-thanksgiving",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T14:50:10Z"
+        },
+        {
+            "title": "LANTERNS: New Trailer Description Reveals DCU Series WILL Feature Comic-Accurate Costumes",
+            "summary": "A teaser trailer for the upcoming series \"Lanterns\" was screened during HBO Max's Upfront event in S\u00e3o Paulo. Reports from Omellete.com provided a breakdown, specifically highlighting a flying sequence featuring a character, likely Ky. This early preview offers a glimpse into the anticipated series, building excitement for its future release on the streaming platform.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-new-trailer-description-reveals-dcu-series-will-feature-comic-accurate-costumes-a225144",
+            "category": "International",
+            "date": "2025-11-26T14:19:00Z"
+        },
+        {
+            "title": "A Legendary Missing World War II Destroyer Emerged From the Ocean After 82 Years",
+            "summary": "The USS Edsall, a US Navy destroyer nicknamed 'Dancing Mouse,' has been located by the Royal Australian Navy. The ship was sunk by the Japanese military during World War II in 1942. This significant discovery provides closure and historical insight into naval operations and losses during the conflict, highlighting international cooperation in recovering wartime relics.",
+            "url": "https://www.popularmechanics.com/science/archaeology/a69555060/legendary-missing-world-war-ii-emerged-from-ocean/",
+            "category": "Defence",
+            "date": "2025-11-26T14:19:00Z"
+        },
+        {
+            "title": "US Navy scuttles Constellation frigate program for being too slow for tomorrow's threats",
+            "summary": "The US Navy is scrapping an entire shipbuilding program, as announced by the Secretary of the Navy, to prioritize developing and acquiring alternatives that can be delivered faster. This strategic shift aims to more effectively counter evolving global threats. The decision highlights a critical focus on agility and rapid capability deployment in modern naval strategy, emphasizing preparedness against future challenges.",
+            "url": "https://www.theregister.com/2025/11/26/navy_constellation_frigate/",
+            "category": "Defence",
+            "date": "2025-11-26T14:10:06Z"
+        },
+        {
+            "title": "Pakistan using terrorism as state policy against India since 1947: Report",
+            "summary": "NatSrat, a prominent think tank, released a comprehensive document detailing major terror attacks orchestrated from across the border between 1947 and 2025. The release coincided with the 17th anniversary of significant terror events, likely highlighting India's enduring national security challenges. This report serves as a critical resource for understanding persistent cross-border terrorism and India's strategic responses to these threats.",
+            "url": "https://economictimes.indiatimes.com/news/defence/pakistan-using-terrorism-as-state-policy-against-india-since-1947-report/articleshow/125591983.cms",
+            "category": "Defence",
+            "date": "2025-11-26T14:07:42Z"
+        },
+        {
+            "title": "Paramount\u2019s Potential: The State of Its Franchises, From \u2018Call of Duty\u2019 to \u2018Star Trek\u2019",
+            "summary": "David Ellison's $8 billion merger between Paramount and Skydance has consolidated control over many of Hollywood's iconic film franchises. This significant entertainment industry deal now tasks Ellison with strategizing the future direction of these vast cinematic assets. The move underscores major corporate consolidation within global media, highlighting ongoing shifts in content ownership and strategic leadership challenges.",
+            "url": "https://www.thewrap.com/paramount-ip-franchise-strategy-mission-impossible-star-trek-transformers/",
+            "category": "National",
+            "date": "2025-11-26T14:03:00Z"
+        },
+        {
+            "title": "Megalithic statue (moai) production on Rapa Nui (Easter Island, Chile)",
+            "summary": "Ethnohistoric and archaeological evidence indicates Rapa Nui (Easter Island, Chile) was a politically decentralized society. It was organized into small, relatively autonomous kin-based groups rather than a centralized state. This research provides critical insights into ancient societal structures, highlighting governance models focused on local autonomy. Understanding such historical organizational patterns is valuable for comprehending diverse human civilizations.",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336251",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T14:00:00Z"
+        },
+        {
+            "title": "Who gets counted? Understanding low female death registration in India",
+            "summary": "Civil Registration and Vital Statistics (CRVS) systems are essential for robust governance, public health, and achieving global Sustainable Development Goals (SDGs). A key issue highlighted is persistent gender gaps within these systems, which severely limit women's access to vital rights and services. Addressing these disparities is crucial for future leaders to foster equitable societies and comprehensive development.",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337224",
+            "category": "International",
+            "date": "2025-11-26T14:00:00Z"
+        },
+        {
+            "title": "European states buy underwater drones for military use, manufacturer says",
+            "summary": "Two European governments are acquiring advanced underwater drones from a German manufacturer for military applications. This reflects a significant regional trend of increased defence spending and the growing reliance on unmanned systems in modern warfare. For SSB aspirants, this highlights evolving naval capabilities and strategic investments in cutting-edge defence technology, crucial for future security challenges.",
+            "url": "https://www.thestar.com.my/news/world/2025/11/26/european-states-buy-underwater-drones-for-military-use-manufacturer-says",
+            "category": "Defence",
+            "date": "2025-11-26T13:47:00Z"
+        },
+        {
+            "title": "Rajasthan network troubles: Tejas signals cooperation with Airtel, BSNL",
+            "summary": "Tejas Networks Ltd, a Tata Group company, is collaborating with Bharti Airtel and Bharat Sanchar Nigam Ltd (BSNL) to swiftly resolve network interference issues reported in Rajasthan. This joint effort aims to ensure reliable telecommunications services across the region, crucial for maintaining robust national communication infrastructure and connectivity for citizens and various sectors.",
+            "url": "https://www.livemint.com/industry/telecom/tejas-networks-airtel-bsnl-rajasthan-network-interference-resolution-cooperation-11764160080693.html",
+            "category": "National",
+            "date": "2025-11-26T13:45:32Z"
+        },
+        {
+            "title": "Shillong Airport expansion: Meghalaya Govt okays land swap deal",
+            "summary": "Meghalaya's state cabinet has approved a proposal to acquire land for swapping with plots currently held by the Defence Ministry. This crucial land exchange aims to facilitate the expansion project of Shillong Airport. The strategic move seeks to overcome hurdles in developing critical infrastructure, ensuring the airport can grow to meet future demands and enhance regional connectivity, a significant step for state-defence collaboration.",
+            "url": "https://www.syllad.com/shillong-airport-expansion-meghalaya-govt-okays-land-swap-deal/",
+            "category": "Defence",
+            "date": "2025-11-26T13:36:10Z"
+        },
+        {
+            "title": "India Issues NOTAM For IAF Exercise Near Pakistan Border In Rajasthan",
+            "summary": "India has reportedly issued a Notice to Airmen/Mariners (NOTAM) for a likely missile test in the Bay of Bengal, scheduled between December 6th and 8th. This signals an upcoming defence exercise, possibly involving a new or existing missile system. The issuance of a NOTAM is a standard safety procedure for such tests, contributing to India's strategic capabilities and military readiness.",
+            "url": "https://www.ndtvprofit.com/nation/india-issues-notam-for-iaf-exercise-near-pakistan-border-in-rajasthan",
+            "category": "Defence",
+            "date": "2025-11-26T13:29:18Z"
+        },
+        {
+            "title": "Misawa BTF\u2019s B-1Bs Continue Exercises While B-52s Conclude BTF Europe 26-1",
+            "summary": "The U.S. Air Force concluded its two-week Bomber Task Force (BTF) Europe deployment, designated BTF Europe 26-1, at Spain's Mor\u00f3n Air Base on November 24, 2025. Starting November 8, this exercise significantly bolstered strategic bomber readiness and interoperability with NATO allies. These recurring deployments are crucial for projecting power, maintaining regional stability, and demonstrating collective defence commitment in the European theatre.",
+            "url": "https://theaviationist.com/2025/11/26/usaf-bomber-task-forces-japan-spain/",
+            "category": "Defence",
+            "date": "2025-11-26T13:19:13Z"
+        },
+        {
+            "title": "Borussia Dortmund fans blast Spanish authorities with banner \u2013 \u2018F*** La Liga, F*** RFEF\u2019",
+            "summary": "A football match between Borussia Dortmund and Villarreal reportedly highlighted tensions between German fans and Spanish authorities. The encounter, where Dortmund's 'Yellow Wall' hosted Villarreal's 'Yellow Submarine', saw animosity, potentially stemming from issues surrounding a planned game last month. This incident reflects ongoing challenges in managing international sports events and fan interactions across borders, warranting effective diplomatic and security protocols.",
+            "url": "https://www.football-espana.net/2025/11/26/borussia-dortmund-fans-blast-spanish-authorities-with-banner-f-la-liga-f-rfef",
+            "category": "International",
+            "date": "2025-11-26T13:04:00Z"
+        },
+        {
+            "title": "ChatGPT\u2019s new voice integration feels like the missing piece in AI chat \u2013 I\u2019ve tried it, and it's almost perfect",
+            "summary": "OpenAI has quietly integrated voice chat directly into ChatGPT's standard interface, allowing users to speak their queries and receive spoken responses. This update, released without fanfare, significantly enhances accessibility and interaction, making conversations with the AI more natural and user-friendly. It represents a substantial advancement in natural language processing and the overall user experience of AI tools, reflecting ongoing innovation in the tech sector.",
+            "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpts-new-voice-integration-feels-like-the-missing-piece-in-ai-chat-ive-tried-it-and-its-almost-perfect",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T12:46:11Z"
+        },
+        {
+            "title": "Lumina Datamatics Honored with Dual Recognition at The Asian Brand & Leadership Awards 2025",
+            "summary": "Lumina Datamatics, a Mumbai-based strategic partner to global publishers and eCommerce retailers, announced an outstanding achievement on November 26, 2025. The company expressed delight regarding this success, which occurred at an event referred to as 'The Asian Bra...'. This highlights Lumina Datamatics' continued impact and strong performance within its specialized sector globally.",
+            "url": "https://www.thehindubusinessline.com/brandhub/lumina-datamatics-honored-with-dual-recognition-at-the-asian-brand-leadership-awards-2025/article70325380.ece",
+            "category": "Sci & Tech",
+            "date": "2025-11-26T12:45:32Z"
+        },
+        {
             "title": "Defence Ministry outlines two options for managing MalBatt assets post-2026",
-            "summary": "Malaysia's Defence Ministry is proactively planning for the conclusion of its Malaysian Battalion (MalBatt) mission in Lebanon by late 2026. They have developed two options for managing assets currently deployed there. This strategic foresight aims to ensure efficient transition and optimal utilization of defence resources once the peacekeeping operation ends, aligning with Malaysia's broader defence objectives.",
+            "summary": "Malaysia's Defence Ministry is proactively planning for asset management following the Malaysian Battalion (MalBatt) mission's conclusion in Lebanon by late 2026. Two distinct options are currently being explored to ensure efficient handling of military assets after the international deployment. This foresight underscores Malaysia's strategic approach to optimizing defence resources and readiness for future operational commitments.",
             "url": "https://www.thestar.com.my/news/nation/2025/11/26/defence-ministry-outlines-two-options-for-managing-malbatt-assets-post-2026",
             "category": "Defence",
             "date": "2025-11-26T12:32:00Z"
         },
         {
             "title": "NBA Power Rankings: Raptors, Pistons battle for top of East standings",
-            "summary": "The 2025-26 NBA regular season is approximately one month underway, with the third-annual NBA Cup's group play phase wrapping up this week. The article highlights the ongoing professional basketball action, specifically mentioning the Detroit Pistons, whose performance context is implied but not fully detailed in the provided excerpt. This update offers a snapshot of the current status of the prominent American basketball league and its cup tournament.",
+            "summary": "As of November 26, 2025, the 2025-26 NBA regular season is about one month complete. This week marks the conclusion of group play for the third annual NBA Cup. The news briefly mentions the Detroit Pistons' ongoing performance, though specific details of their current standing are not provided within this excerpt, focusing instead on key league milestones.",
             "url": "https://www.espn.com/nba/story/_/id/47089057/nba-power-rankings-all-30-teams-raptors-76ers-clippers-eastern-conference-showdown",
-            "category": "International",
+            "category": "National",
             "date": "2025-11-26T12:27:11Z"
         },
         {
             "title": "Effectively Wild Episode 2406: Hal and the Hall",
-            "summary": "Journalists Ben Lindbergh and Meg Rowley analyzed a significant Red Sox-Cardinals baseball trade involving pitcher Sonny Gray. They also strongly criticized New York Yankees owner Hal Steinbrenner for his controversial claims about the team's lack of profitability. The segment provided an in-depth discussion on major league news and the financial dynamics impacting the sport.",
+            "summary": "Sports commentators Ben Lindbergh and Meg Rowley analyzed a significant Red Sox-Cardinals trade involving player Sonny Gray. They also critiqued Hal Steinbrenner's remarks regarding the New York Yankees' financial performance, debating the profitability claims of the major league baseball team. The discussion highlights key developments in American professional baseball, encompassing both player movements and team economics.",
             "url": "https://blogs.fangraphs.com/effectively-wild-episode-2406-hal-and-the-hall/",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-26T12:05:36Z"
         },
         {
             "title": "How a 'unique industrial utopia' in Northern Quebec is defying Trump's tariffs",
-            "summary": "Saugenay, an aluminum town in Quebec, Canada, demonstrates economic resilience despite being on the front lines of a trade war. The historic town boasts low unemployment and a thriving industry. To truly enter a new 'golden age' and capitalize on its prosperity, Saugenay primarily needs to attract more people, highlighting the demographic challenges faced by prosperous industrial regions.",
+            "summary": "Saugenay, Quebec, an historic aluminum town, is remarkably thriving despite being on the front lines of a trade war. The region boasts low unemployment and a robust industry. To truly launch a new 'golden age,' Saugenay's primary need is more people to sustain its growth and economic prosperity amidst global trade challenges.",
             "url": "https://financialpost.com/feature/how-saguenay-industrial-utopia-defies-tariffs",
-            "category": "International",
+            "category": "National",
             "date": "2025-11-26T12:00:36Z"
         },
         {
             "title": "ET AI Awards 2025: Nominate now for the AI for Supply Chain & Manufacturing Excellence category",
-            "summary": "India's manufacturing sector is undergoing a significant transformation, with Artificial Intelligence (AI) now a strategic imperative, moving beyond experimental application. This evolution is crucial for boosting productivity and global competitiveness. For SSB aspirants, understanding AI's integration into national industries highlights India's technological advancement, essential for future economic growth and defence capabilities.",
+            "summary": "India's manufacturing sector is experiencing a crucial transformation, integrating Artificial Intelligence (AI) as a strategic necessity rather than an experiment. This shift, backed by organizations like Nasscom, is vital for enhancing national industrial growth, productivity, and global competitiveness. Embracing AI will strengthen India's technological prowess and economic self-reliance, crucial for overall national development.",
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-ai-awards-2025-nominate-now-for-the-ai-for-supply-chain-manufacturing-excellence-category/articleshow/125588564.cms",
-            "category": "Sci & Tech",
+            "category": "National",
             "date": "2025-11-26T11:39:33Z"
         },
         {
             "title": "Lanterns trailer has been revealed behind closed doors, and it references a character that makes Rocket Raccoon look normal",
-            "summary": "The initial teaser for the upcoming DCU series 'Lanterns,' based on the iconic Green Lantern comics, has reportedly been previewed internally. This early glimpse combines established lore with new narrative elements, indicating the show's creative direction. While specific details remain confidential, it signals development progress, building anticipation for fans of the franchise.",
+            "summary": "A private teaser reveal for the upcoming DCU series 'Lanterns' has reportedly occurred, signaling progress for the highly anticipated Green Lantern show. This new series is expected to integrate existing Green Lantern lore with fresh narrative elements, building excitement among fans. The development marks a significant step for the DC Universe franchise in expanding its superhero content and universe.",
             "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-trailer-has-been-revealed-behind-closed-doors-and-it-references-a-character-that-makes-rocket-raccoon-look-normal/",
             "category": "Sci & Tech",
             "date": "2025-11-26T11:29:23Z"
         },
         {
             "title": "Prabhudas Lilladher hikes Nifty's 12-month target to 29,094 on 5 tailwinds. Picks HAL, ICICI and 16 more stocks to buy",
-            "summary": "Prabhudas Lilladher predicts the Nifty index's recent 4% rally will continue, forecasting an 11% growth to hit 29,094 within the next 12 months. This positive outlook suggests strong momentum for the national stock market. It indicates potential economic growth, an important national indicator for aspirants to follow, reflecting the health of India's financial landscape.",
+            "summary": "Prabhudas Lilladher forecasts the Nifty index to hit 29,094 in the next 12 months, implying an 11% growth. This projection follows a 4% rally over the past three months. This positive economic outlook suggests continued market expansion, an important indicator of India's national financial stability and growth trajectory for aspirants to understand.",
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/prabhudas-lilladher-hikes-niftys-12-month-target-to-29094-on-5-tailwinds-picks-hal-icici-and-16-more-stocks-to-buy/articleshow/125587945.cms",
             "category": "National",
             "date": "2025-11-26T11:14:17Z"
         },
         {
             "title": "Meet the Heroes of C\u00f4te d\u2019Ivoire\u2019s Backyard Ultra Scene",
-            "summary": "This Editor's Note introduces Seth Luxenberg, an iRunFar runner and contributor to the Community Voices article. Luxenberg previously served at the U.S. Embassy in Abidjan, C\u00f4te d'Ivoire, and is also an accomplished Backyard Ultra participant. Aspirants can infer the upcoming article likely details experiences from his international service or running achievements, offering insights into perseverance and global exposure, both valuable traits.",
+            "summary": "This month's 'Community Voices' article features Seth Luxenberg, a former U.S. Embassy official in Abidjan, C\u00f4te d'Ivoire, and an endurance runner. His background underscores the value of international experience and personal resilience. For SSB aspirants, this highlights how diverse professional paths and mental toughness, particularly in global contexts, are crucial for effective leadership and service.",
             "url": "https://www.irunfar.com/meet-the-heroes-of-cote-divoires-backyard-ultra-scene#article",
             "category": "International",
             "date": "2025-11-26T11:00:21Z"
         },
         {
             "title": "Elon Musk Had Grok Rewrite Wikipedia. It Calls Hitler \u201cThe F\u00fchrer.\u201d",
-            "summary": "Elon Musk launched Grokipedia in late October, positioning it as an alternative encyclopedia to Wikipedia. This new digital platform reflects Musk's continued ventures into technology and AI, aiming to offer a distinct approach to information dissemination. The initiative underscores evolving competition and innovation in the online knowledge sector, which could impact how users access and contribute to digital information.",
+            "summary": "Elon Musk has launched Grokipedia, an encyclopedia project designed as an alternative to Wikipedia. Announced in late October, the platform is expected to integrate with Musk's broader tech ecosystem, aiming to offer a distinct approach to information curation and access. This initiative highlights a growing trend in digital knowledge platforms and could influence how online information is presented and verified.",
             "url": "https://theintercept.com/2025/11/26/grok-elon-musk-grokipedia-hitler/",
             "category": "Sci & Tech",
             "date": "2025-11-26T11:00:00Z"
         },
         {
             "title": "Lanterns trailer reportedly reveals a fourth Green Lantern might show up \u2013 and they'd be a perfect fit for James Gunn's DC Universe",
-            "summary": "The first trailer for the DC Universe TV show 'Lanterns' was reportedly showcased at a private event, indicating progress on the highly anticipated series. Slated for release on HBO Max around mid-2026, this news highlights the continued expansion of major franchises within streaming platforms. For SSB aspirants, this reflects evolving media and entertainment consumption patterns driven by technological advancements in content delivery.",
+            "summary": "The first trailer for the DC Universe TV show 'Lanterns' was reportedly unveiled at a private, behind-closed-doors event. This highly anticipated series is slated to premiere on HBO Max in mid-2026. While the teaser was shown privately, its public release is expected soon, building anticipation for the new superhero drama among fans of the franchise.",
             "url": "https://www.techradar.com/streaming/hbo-max/lanterns-trailer-reportedly-reveals-a-fourth-green-lantern-might-show-up-and-theyd-be-a-perfect-fit-for-james-gunns-dc-universe",
             "category": "Sci & Tech",
             "date": "2025-11-26T10:38:14Z"
         },
         {
             "title": "S. Mahendra Dev: India\u2019s labour codes aren't just pro- workers and growth, they aim to deliver on multiple counts",
-            "summary": "India seeks to capitalize on its demographic dividend by converting its vast working-age population into a productive workforce. This transformation is essential for the expansion of labour-intensive manufacturing and services sectors. The article emphasizes the critical role of labour as a factor in achieving this. Successfully harnessing this dividend is crucial for driving sustained economic growth and strengthening national prosperity.",
+            "summary": "India's demographic dividend necessitates transforming its large working-age population into a productive workforce. This is crucial for expanding labour-intensive manufacturing and services sectors, vital for economic growth and job creation. Capitalizing on this advantage requires strategic focus to ensure the nation harnesses its potential for sustainable development and prosperity.",
             "url": "https://www.livemint.com/opinion/online-views/india-labour-codes-pro-workers-growth-employees-formalization-workforce-11764141160297.html",
             "category": "National",
             "date": "2025-11-26T10:30:00Z"
         },
         {
             "title": "Aatmanirbhar Bharat: BEL and Safran Electronics & Defence ink Joint Venture Cooperation Agreement for production of HAMMER Smart Precision Guided Air-to-Ground Weapon in India",
-            "summary": "The Ministry of Defence announced a significant impetus for the 'Make-in-India' and 'Aatmanirbhar Bharat' initiatives, aligning with Prime Minister Modi's vision. This move aims to bolster indigenous defence manufacturing capabilities and promote self-reliance in the sector. The announcement, posted by PIB Delhi, signals new efforts or projects to strengthen domestic production and reduce import dependency within India's defence ecosystem.",
+            "summary": "The Ministry of Defence announced a significant impetus to the Make-in-India and Aatmanirbhar Bharat initiatives. This move, aligning with the Prime Minister's vision, aims to bolster indigenous defence manufacturing and self-reliance. It underscores India's commitment to strengthening its domestic defence industrial base, reducing import dependence, and enhancing national security through local production capabilities. This development is crucial for defence aspirants.",
             "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251124-india-pib01.htm",
             "category": "Defence",
             "date": "2025-11-26T10:22:57Z"
         },
         {
-            "title": "\u2018We are rights holders\u2019: First Nations chiefs push back on Quebec\u2019s draft constitution",
-            "summary": "First Nations leaders in Quebec are criticizing Premier Fran\u00e7ois Legault's government over its proposed constitution. They assert the draft was created without their consent and fails to adequately recognize their status. This dispute highlights ongoing challenges in reconciliation and indigenous rights within Canada, representing a significant internal political and social issue impacting national unity and governance.",
-            "url": "https://www.cbc.ca/news/canada/montreal/first-nations-quebec-constitution-9.6991803",
-            "category": "National",
-            "date": "2025-11-26T09:00:00Z"
-        },
-        {
-            "title": "Lord\u2019s Mark Industries acquires 85% stake in Renalyx to scale indigenous dialysis technology",
-            "summary": "Lords Mark Industries, a healthcare and technology group, has acquired an 85% stake in Bengaluru-based med-tech innovator Renalyx Health Systems Private Limited. This strategic move signifies growing consolidation in India's healthcare technology sector. Such acquisitions are vital for boosting domestic medical innovation and improving service delivery, impacting national health advancements.",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/lords-mark-industries-acquires-85-stake-in-renalyx-to-scale-indigenous-dialysis-technology/articleshow/125584019.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-26T08:20:16Z"
-        },
-        {
-            "title": "Drones crash in Romania, Moldova as Russia bombards Ukraine",
-            "summary": "Drones crashed in Romania and Moldova following extensive Russian air strikes, prompting Bucharest to deploy four fighter jets. This incident underscores heightened regional tensions and the direct impact of ongoing conflict, raising concerns about border security and potential spillover effects into NATO and neighboring territories. Such events are vital for SSB aspirants to grasp evolving geopolitical security dynamics.",
-            "url": "https://www.spacewar.com/reports/Drones_crash_in_Romania_Moldova_as_Russia_bombards_Ukraine_999.html",
+            "title": "INDIA - NEPAL JOINT EXERCISE SURYAKIRAN XIX - 2025 COMMENCES TODAY",
+            "summary": "The 19th edition of the joint military exercise, \"SURYAKIRAN XIX - 2025,\" between India and Nepal has commenced. Organized by the Ministry of Defence, these exercises are vital for enhancing interoperability, sharing best practices in counter-terrorism and disaster relief, and strengthening bilateral defence cooperation. Such initiatives are crucial for regional security and an important topic for SSB aspirants.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251125-india-pib02.htm",
             "category": "Defence",
-            "date": "2025-11-26T08:05:59Z"
+            "date": "2025-11-26T10:22:22Z"
         },
         {
-            "title": "Japan scrambles aircraft over suspected China drone near Taiwan",
-            "summary": "Japan recently scrambled aircraft in response to a suspected Chinese drone detected off an island near Taiwan. This action, amid ongoing regional tensions and a weeks-long diplomatic dispute, underscores Japan's vigilance over airspace incursions. It highlights increasing military activities by China around sensitive territories and the evolving security dynamics in the Indo-Pacific.",
-            "url": "https://www.spacewar.com/reports/Japan_scrambles_aircraft_over_suspected_China_drone_near_Taiwan_999.html",
+            "title": "India is entering a golden era of defence innovation; Our young entrepreneurs are helping the nation become a builder, creator & leader: Raksha Mantri at Swavlamban 2025",
+            "summary": "The Ministry of Defence stresses India's imperative to remain proactive, future-ready, and strategically self-reliant in a rapidly evolving global landscape. This directive underscores the nation's commitment to bolstering defence capabilities and indigenous capacity. It emphasizes anticipating challenges and developing robust solutions, crucial for safeguarding national interests and ensuring a strong, secure India.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251125-india-pib01.htm",
             "category": "Defence",
-            "date": "2025-11-26T08:05:59Z"
+            "date": "2025-11-26T10:22:22Z"
         },
         {
-            "title": "China warns foreign interference in Taiwan will be \u2018crushed\u2019",
-            "summary": "China has issued a strong warning, vowing to crush any foreign interference regarding Taiwan, following Japan's announcement of plans to deploy missiles near the self-governed island. This move escalates regional tensions, with Beijing reiterating its 'firm will' to uphold its sovereignty claims over Taiwan, raising concerns about stability and military posturing in the Indo-Pacific.",
-            "url": "https://www.aljazeera.com/news/2025/11/26/china-warns-foreign-interference-in-taiwan-will-be-crushed",
+            "title": "Rt Hon Luke Pollard MP, Minister for Defence Readiness and Industry, Speech for Long War Conference",
+            "summary": "Defence Minister Luke Pollard MP delivered a key speech at RUSI, addressing the critical topic of long warfighting readiness. This highlights the nation's strategic commitment to maintaining robust, adaptive defence capabilities necessary for extended conflicts. For SSB aspirants, this emphasizes the importance of understanding national security strategies, military preparedness, and the evolving demands placed on armed forces to safeguard national interests effectively.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/uk/2025/uk-251125-ukmod01.htm",
             "category": "Defence",
-            "date": "2025-11-26T08:03:44Z"
+            "date": "2025-11-26T10:22:22Z"
         },
         {
-            "title": "Safran to triple its India ops revenue to over \u20ac3 billion by 2030",
-            "summary": "French aerospace and defence group Safran aims to triple its India revenue to over \u20ac3 billion by 2030, significantly expanding its presence. This strategic move highlights deepening India-France defence cooperation, potentially bolstering indigenous manufacturing, technology transfer, and job creation in India's defence sector. It aligns with India's 'Make in India' initiative and strengthens strategic partnerships.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/safran-to-triple-its-india-ops-revenue-to-over-3-billion-by-2030-rafale-bel-hal-tejas/articleshow/125580836.cms",
+            "title": "Global players must tap the potential of India's vibrant shipbuilding industry to co-develop next-gen maritime capabilities & create a secure future: Raksha Mantri at Samudra Utkarsh",
+            "summary": "India's Ministry of Defence emphasizes the nation's robust shipbuilding prowess, capable of constructing a diverse fleet from aircraft carriers to research and commercial vessels. This indigenous capability significantly enhances India's strategic independence and positions the country as a formidable global player in maritime manufacturing and defence. This self-reliance boosts national security and contributes to India's growing influence on the international stage.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251125-india-pib03.htm",
             "category": "Defence",
-            "date": "2025-11-26T07:23:26Z"
+            "date": "2025-11-26T10:22:22Z"
         },
         {
-            "title": "Safran agrees for full technology transfer for fighter jet engine to India",
-            "summary": "French aerospace major Safran has agreed to a 100% Transfer of Technology (ToT) to India, including for the critical hot section of the engine for the indigenous fifth-generation stealth fighter. This landmark agreement significantly boosts India's self-reliance in advanced defence manufacturing and strengthens strategic partnerships. It's a crucial step towards developing cutting-edge aero-engines domestically, enhancing national defence capabilities.",
-            "url": "https://economictimes.indiatimes.com/news/defence/safran-agrees-for-full-technology-transfer-for-fighter-jet-engine-to-india-lt-adani-defence-tata/articleshow/125581842.cms",
+            "title": "INS MAHE COMMISSIONED - INDIA'S FIRST MAHE-CLASS ANTI-SUBMARINE WARFARE SHALLOW WATER CRAFT JOINS THE WESTERN NAVAL COMMAND",
+            "summary": "The Indian Navy commissioned INS Mahe, the first indigenously designed and built Mahe-class vessel. This significant milestone boosts India's self-reliance in defence manufacturing, aligning with 'Atmanirbhar Bharat'. It substantially enhances the Navy's operational capabilities and maritime security. For SSB aspirants, this underscores India's growing indigenous defence prowess and commitment to safeguarding national strategic interests.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251124-india-pib03.htm",
             "category": "Defence",
-            "date": "2025-11-26T06:41:31Z"
+            "date": "2025-11-26T10:16:43Z"
         },
         {
-            "title": "Lumina Datamatics Honored with Dual Recognition at The Asian Brand & Leadership Awards 2025",
-            "summary": "Lumina Datamatics, an Indian firm providing strategic partnership to global publishers and eCommerce retailers, has announced an outstanding achievement. Operating from Mumbai, the company expressed its delight regarding success attained at an event partially named 'The Asian\u2026'. While specific details of the award or recognition are not fully disclosed in the snippet, this marks a significant milestone for the data and e-commerce solutions provider.",
-            "url": "https://www.globenewswire.com/news-release/2025/11/26/3194855/0/en/Lumina-Datamatics-Honored-with-Dual-Recognition-at-The-Asian-Brand-Leadership-Awards-2025.html",
-            "category": "Sci & Tech",
-            "date": "2025-11-26T06:34:00Z"
-        },
-        {
-            "title": "Could Jack Dorsey Be The Face Behind Bitcoin? Analysts Uncover New Evidence",
-            "summary": "New analysis suggests Jack Dorsey, Twitter's co-founder, might be Bitcoin's (BTC) creator, reigniting speculation. This ongoing mystery surrounding the cryptocurrency's origin is a significant topic in digital finance, pondering if a prominent tech entrepreneur developed the revolutionary, decentralized digital currency. The debate impacts understanding its foundational history.",
-            "url": "https://bitcoinist.com/could-jack-dorsey-be-behind-bitcoin-evidence/",
-            "category": "Sci & Tech",
-            "date": "2025-11-26T06:00:07Z"
-        },
-        {
-            "title": "Safran Aircraft Engine Services facility: PM Modi inaugurates India's first global MRO facility, check details",
-            "summary": "Prime Minister Modi inaugurated the Safran Aircraft Engine Services India (SAESI) facility near Hyderabad. This strategic move significantly bolsters India's aerospace maintenance capabilities, especially for military aircraft engines, aligning with \"Atmanirbhar Bharat.\" It strengthens the India-France defence partnership, enhancing operational readiness and indigenous support for advanced platforms. This initiative boosts skill development and defence self-reliance for future challenges.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/safran-aircraft-engine-services-mro-facility-leap-engines-saesi-pm-modi-inaugurates-indias-first-global-mro-facility-in-hyderabad-airport-telangana-check-details/articleshow/125580843.cms",
-            "category": "Defence",
-            "date": "2025-11-26T05:41:31Z"
-        },
-        {
-            "title": "Community-Driven, Text Message\u2013Based COVID-19 Surveillance System, Los Angeles County, California, USA, 2020\u20132024",
-            "summary": "This early release article features a disclaimer noting its provisional nature and potential online changes. It briefly references conditions predating the COVID-19 pandemic. However, the crucial details are truncated, preventing a specific summary for SSB aspirants regarding its actual content or precise implications. A full understanding is currently impossible.",
-            "url": "https://wwwnc.cdc.gov/eid/article/31/11/25-0907_article",
-            "category": "National",
-            "date": "2025-11-26T05:00:00Z"
-        },
-        {
-            "title": "James Gunn Comments on 2 Realistic Green Lantern Photos",
-            "summary": "James Gunn addressed significant online speculation concerning a series of highly realistic Green Lantern images that recently emerged. As discussions intensified regarding the authenticity and potential source of these impressive visuals, Gunn stepped forward to clarify the situation, aiming to manage fan expectations and correct misinformation.",
-            "url": "https://www.superherohype.com/news/640870-green-lanterns-series-photos-ai-james-gunn",
-            "category": "Sci & Tech",
-            "date": "2025-11-26T04:56:27Z"
-        },
-        {
-            "title": "Russian Knights honour fallen Tejas' pilot Wing Commander Namansh Syal in \u2018Missing Man\u2019 tribute; watch video",
-            "summary": "This snippet outlines financial investment products. It details 'Investment Ideas' to grow wealth using stock insights and sectoral trends. 'Stock Reports Plus' offers tools like Stock Score and upside potential for strategic buying and selling. The 'BigBull Portfolio' is also presented as a comprehensive wealth management solution, designed to assist users in navigating the stock market effectively.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/russian-knights-honour-fallen-tejas-pilot-wing-commander-namansh-syal-in-missing-man-tribute-watch-video/articleshow/125579663.cms",
-            "category": "National",
-            "date": "2025-11-26T04:41:58Z"
-        },
-        {
-            "title": "DCU\u2019s 4th Green Lantern Revealed in First Lanterns Series Teaser Description",
-            "summary": "A preview for DC Studios' highly anticipated 'Lanterns' series has been released, making its debut at the HBO Max Upfront event in S\u00e3o Paulo. This teaser offers viewers the first look at the long-awaited show. The series is expected to be a major addition to the DC universe, generating significant buzz among fans globally after its international reveal.",
-            "url": "https://www.superherohype.com/news/640841-green-lanterns-series-teaser-trailer-dcu",
+            "title": "They Were Sent to a Country That Didn\u2019t Want Them. Now, They\u2019re Stateless.",
+            "summary": "Aasis Subedi, 36, returned to Bhutan this past March, the country his family had fled when he was four. His arrival at the airport, where he observed the traditional bakhu dress, signifies a poignant personal journey. This event suggests a narrative around displacement, the complexities of homecoming, and reconnecting with ancestral roots after decades, highlighting a unique human interest story with international implications.",
+            "url": "http://nymag.com/intelligencer/article/bhutanese-immigrants-who-have-been-left-stateless.html",
             "category": "International",
-            "date": "2025-11-26T04:01:26Z"
-        },
-        {
-            "title": "India's stock market facade: 576 stocks down over 30% as Sensex, Nifty near record high",
-            "summary": "While India's Sensex and Nifty indices approach record highs, underlying market data reveals a stark contrast. A significant 576 BSE-listed stocks have plunged at least 30% from their peaks. This indicates a 'brutal reckoning' occurring beneath the surface, suggesting a divergent performance within the national stock market, despite overall index gains.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-stock-market-facade-576-stocks-down-over-30-as-sensex-nifty-near-record-high/articleshow/125578860.cms",
-            "category": "National",
-            "date": "2025-11-26T03:37:09Z"
-        },
-        {
-            "title": "AI is taking over, Trump's tariffs are still there and the moon awaits: What's coming in 2026",
-            "summary": "The year 2025 was characterized by record temperatures, intensifying climate warnings, and significant geopolitical flashpoints. Major powers were actively redrawing strategic lines, signaling a dynamic international security environment. Evolving space ambitions added another layer to this strategic competition, underscoring complex global challenges with clear defence implications.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/ai-is-taking-over-trumps-tariffs-are-still-there-and-the-moon-awaits-fifa-world-cup-russia-ukraine-whats-coming-in-2026/articleshow/125578750.cms",
-            "category": "Defence",
-            "date": "2025-11-26T03:25:19Z"
-        },
-        {
-            "title": "Apollo Micro Systems shares in focus on MoU with IIT-Chennai, Indian Navy to fast-track defence tech",
-            "summary": "Apollo Micro Systems Ltd announced a significant tri-party collaboration with IIT-Chennai and the Indian Navy. This partnership aims to leverage advanced research and industrial capabilities to develop new technologies and systems, enhancing India's indigenous defence manufacturing and technological self-reliance. This strategic alliance is crucial for modernising the armed forces and supporting the 'Atmanirbhar Bharat' initiative.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-micro-systems-shares-in-focus-on-mou-with-iit-chennai-indian-navy-to-fast-track-defence-tech/articleshow/125578434.cms",
-            "category": "Defence",
-            "date": "2025-11-26T03:06:20Z"
-        },
-        {
-            "title": "Space Truckin' \u2013 The Nostromo (2012)",
-            "summary": "Director Ridley Scott revealed the cinematic inspirations behind the iconic Nostromo spaceship from his 1979 film, \"Alien.\" Discussing its claustrophobic design and depiction towing a refinery through space, Scott elaborated on the three crucial films that shaped his vision. This insights-rich piece likely explores the creative process and influences behind one of cinema's most enduring science fiction classics.",
-            "url": "https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/",
-            "category": "Sci & Tech",
-            "date": "2025-11-26T02:31:41Z"
-        },
-        {
-            "title": "All You Need To Know Going Into Trade On Wednesday",
-            "summary": "Inox Green allotted 12.3 lakh shares to a non-promoter warrant holder at Rs 145 each. Concurrently, Bliss GVS Pharma's subsidiary incorporated a new 100% owned step-down subsidiary. This news reflects ongoing corporate financial and structural activities within the Indian market, highlighting capital adjustments and strategic business expansion initiatives by domestic companies.",
-            "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-november-26-2025",
-            "category": "National",
-            "date": "2025-11-26T01:50:07Z"
-        },
-        {
-            "title": "If you learn and lead, support systems around you will grow",
-            "summary": "The Bollywood film \"Masti 4,\" starring Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani, is experiencing a poor box office run. Its Tuesday collections remained dull, mirroring the performance of other films like \"120 Bahadur\" and \"De De Pyaar...\". The movie struggles to attract audiences, indicating a disappointing financial outcome for this domestic entertainment production.",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/if-you-learn-and-lead-support-systems-around-you-will-grow/articleshow/125577338.cms",
-            "category": "National",
-            "date": "2025-11-26T01:26:56Z"
-        },
-        {
-            "title": "How service providers and GCCs are building valuable partnerships",
-            "summary": "The movie 'Masti 4', starring Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani, experienced a disappointing performance at the box office on its fifth day, Tuesday. Its collections were described as 'dull', failing to achieve significant numbers. The film's earnings were reportedly similar to those of other titles, indicating a lack of audience engagement and poor commercial reception.",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/how-service-providers-and-gccs-are-building-valuable-partnerships/articleshow/125577312.cms",
-            "category": "National",
-            "date": "2025-11-26T01:22:56Z"
-        },
-        {
-            "title": "\u3010\u7fbd\u7530\u7a7a\u6e2f\u3011\u300c\u30ad\u30e3\u30d7\u30c6\u30f3\u30b9\u30a4\u30fc\u30c4\u30d0\u30fc\u30ac\u30fc\u300d\u304c\u671f\u9593\u9650\u5b9aOPEN\uff01\u201c\u30ab\u30fc\u30d3\u30a3\u30ab\u30d5\u30a7\u201d\u306e\u30b3\u30e9\u30dc\u30b9\u30a4\u30fc\u30c4\u3084\u3001\u3075\u308f\u3075\u308f\u523a\u7e61\u306e\u30ab\u30fc\u30d3\u30a3\u304c\u304b\u308f\u3044\u3044\u65b0\u4f5c\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u30bb\u30c3\u30c8\u3082",
-            "summary": "The provided article text is largely garbled, making a comprehensive summary challenging. However, discernible elements include mentions of 'JRCAPTAIN SWEETS BURGER' and 'JAL,' along with dates spanning 2025-2026, a website 'sweetsburger.jp,' and various price points (e.g., 1,296 to 3,240). The content appears to be a commercial announcement or promotion rather than a typical news article.",
-            "url": "https://prtimes.jp/main/html/rd/p/000001818.000025606.html",
-            "category": "National",
-            "date": "2025-11-26T01:20:00Z"
-        },
-        {
-            "title": "Saying no to commoditised work",
-            "summary": "The multi-starrer film 'Masti 4', featuring Vivek Oberoi, Riteish Deshmukh, and Aftab Shivdasani, is performing poorly at the box office. On its fifth day, a Tuesday, the movie's collections remained dull, showing figures similar to other underperforming films like '120 Bahadur' and 'De De Pyaar...'. This indicates a disappointing financial run for the comedy production.",
-            "url": "https://timesofindia.indiatimes.com/technology/times-techies/saying-no-to-commoditised-work/articleshow/125577224.cms",
-            "category": "National",
-            "date": "2025-11-26T01:19:05Z"
-        },
-        {
-            "title": "LANTERNS Teaser Debuts At HBO Max Upfront; Description Highlights Flying Sequence, [SPOILER] Mention, & More",
-            "summary": "The HBO Max series 'Lanterns' has reportedly been delayed from its initial early release schedule. Fans had noted the absence of any promotional footage, leading to speculation about the show's status. This pushback signifies a shift in the production or release timeline for the anticipated series on the streaming platform, impacting its debut on the digital entertainment platform.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-teaser-debuts-at-hbo-max-upfront-description-highlights-flying-sequence-spoiler-mention-more-a225133",
-            "category": "Sci & Tech",
-            "date": "2025-11-26T01:01:00Z"
-        },
-        {
-            "title": "Russian mercenaries accused of cold-blooded killings in Mali - BBC speaks to eyewitnesses",
-            "summary": "A shopkeeper in an African nation has courageously recounted to the BBC harrowing allegations of torture and physical violence perpetrated by Russian mercenaries. This report from M'berra highlights severe human rights abuses and the concerning impact of foreign private military contractors operating on the continent. Such accounts are crucial for SSB aspirants to grasp the complex realities of international security and the ethical challenges posed by non-state military actors.",
-            "url": "https://www.bbc.com/news/articles/crmx7x3yjyko",
-            "category": "International",
-            "date": "2025-11-26T00:37:22Z"
-        },
-        {
-            "title": "Russia-Ukraine war: List of key events, day 1,371",
-            "summary": "On November 26, Russian forces launched attacks on Ukraine's capital, Kyiv, causing seven deaths and injuring 21 people, as reported by the state emergency service. This incident underscores the severe human cost and persistent intensity of the ongoing international conflict, a critical development for aspirants to monitor for geopolitical awareness.",
-            "url": "https://www.aljazeera.com/news/2025/11/26/russia-ukraine-war-list-of-key-events-day-1371",
-            "category": "International",
-            "date": "2025-11-26T00:35:40Z"
-        },
-        {
-            "title": "Lanterns First Footage Reveals Key Details (And Confirms A Longtime Favorite Green Lantern)",
-            "summary": "DC's film and TV universe is pivoting to new projects: \"Supergirl\" and \"Lanterns,\" following the \"Superman\" series. The \"Lanterns\" project recently debuted its first footage, signifying the next creative phase for the franchise. This move aims to expand DC's cinematic and television slate, bringing fresh adaptations and stories to a global audience, marking new directions for the popular comic book universe.",
-            "url": "http://comicbook.com/tv-shows/news/lanterns-first-footage-reveals-key-details-and-confirms-a-longtime-favorite-green-lantern/",
-            "category": "International",
-            "date": "2025-11-26T00:32:57Z"
+            "date": "2025-11-26T10:00:29Z"
         }
     ]
 }
