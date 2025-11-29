@@ -1,89 +1,236 @@
 {
-    "last_updated": "2025-11-29T06:22:16.433319+00:00",
+    "last_updated": "2025-11-29T12:29:56.364207+00:00",
     "articles": [
         {
-            "title": "Delays not only domestic, but from abroad too: Defence Secretary on equipment orders",
-            "summary": "Defence Secretary Rajesh Kumar Singh expressed concerns about some Indian defence companies \"overpromising and under-delivering\" on equipment. He clarified this issue isn't exclusive to domestic firms, stressing the need for robust performance from all suppliers. This highlights challenges in defence procurement and the critical importance of accountability to strengthen India's indigenous defence capabilities and effectively reduce reliance on imports, crucial for national security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/delays-not-only-domestic-but-from-abroad-too-defence-secretary-on-equipment-orders/articleshow/125630753.cms",
+            "title": "Ravi Teja's action comedy 'Mass Jathara' released on OTT. Check details",
+            "summary": "Ravi Teja's action-comedy 'Mass Jathara,' directed by Bhanu Bogavarapu, is now available for streaming on Netflix. The film, featuring Ravi Teja as a sincere transport officer, had its theatrical release on October 31, 2025, and now offers wider access to audiences online. This provides a new entertainment option within the national digital landscape.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/ravi-tejas-action-comedy-mass-jathara-released-on-ott-check-details/articleshow/125638318.cms",
+            "category": "National",
+            "date": "2025-11-28T12:28:56Z"
+        },
+        {
+            "title": "Ahmedabad maps 2030 Commonwealth Games as launchpad for 2036 Olympic bid",
+            "summary": "Ahmedabad has been formally awarded the 2030 Commonwealth Games, prompting a rapid infrastructure development push across the Ahmedabad-Gandhinagar region. This significant investment is strategically designed not only to prepare the city for the prestigious international sporting event but also to ensure long-term regional growth, enhancing India's capacity for hosting major global events.",
+            "url": "https://economictimes.indiatimes.com/news/sports/ahmedabad-maps-2030-commonwealth-games-as-launchpad-for-2036-olympic-bid/articleshow/125638299.cms",
+            "category": "National",
+            "date": "2025-11-28T12:27:45Z"
+        },
+        {
+            "title": "Our guide to every Week 13 NFL game: Matchup previews, predictions, picks and nuggets",
+            "summary": "The article previews the Week 13 NFL schedule for the 2025 season, detailing intriguing matchups. Key games include the Eagles hosting the Bears on Black Friday, along with other Sunday fixtures. This update provides sports enthusiasts with insights into upcoming American football events, crucial for following the league's competitive landscape and understanding the domestic sports scene within the United States.",
+            "url": "https://www.espn.com/nfl/story/_/page/viewersguide47085036/nfl-week-13-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+            "category": "National",
+            "date": "2025-11-28T12:19:01Z"
+        },
+        {
+            "title": "Chicago Cubs history unpacked, November 28",
+            "summary": "The 'Bleed Cubbie Blue' platform is celebrating Taylor Davis's birthday, featuring him in their stories. They also highlight their regular content schedule, publishing 'Cubs-centric' baseball articles every Monday, Wednesday, and Friday. These publications offer a look into the sport's colorful past, catering to fans of the Chicago Cubs.",
+            "url": "https://www.bleedcubbieblue.com/chicago-cubs-wrigley-field-mlb-history/202279/chicago-cubs-history-unpacked-november-28",
+            "category": "National",
+            "date": "2025-11-28T12:00:00Z"
+        },
+        {
+            "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 28th November 2025",
+            "summary": "This platform provides daily current affairs questions rigorously sourced from prominent publications such as The Hindu, Indian Express, and PIB. These resources are emphasized as vital for UPSC Prelims Exam preparation, offering aspirants critical general knowledge updates. The site also features archives of previous daily quizzes, supporting comprehensive and continuous learning essential for national competitive examinations.",
+            "url": "https://iasbaba.com/2025/11/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-28th-november-2025/",
+            "category": "National",
+            "date": "2025-11-28T11:29:29Z"
+        },
+        {
+            "title": "Hal Steinbrenner spoke in favor of MLB salary cap \u2014 why would the Yankees want that?",
+            "summary": "Major League Baseball faces an imminent labor battle next year, potentially resulting in a work stoppage. Significant disagreements between the league and players over critical issues like player contracts and revenue distribution are expected to intensify. This conflict threatens to disrupt the upcoming season, highlighting ongoing labor-management challenges within the national sports landscape.",
+            "url": "https://nypost.com/2025/11/28/sports/why-would-hal-steinbrenner-yankees-support-mlb-salary-cap/",
+            "category": "National",
+            "date": "2025-11-28T11:20:00Z"
+        },
+        {
+            "title": "The Royal Quantum Leap: Episode 2",
+            "summary": "An article fragment reveals intense public outrage over an unspecified 'disgrace' and 'nonsense' that led to a 'relegation,' with demands for immediate resolution. A volatile situation is hinted at by the description of a whiteboard marker flying. Lacking specific context, the nature of the issue and involved parties remains unclear, making detailed assessment challenging for SSB aspirants, though it suggests a significant domestic matter.",
+            "url": "https://thetilehurstend.sbnation.com/offbeat/51663/the-royal-quantum-leap-episode-2",
+            "category": "National",
+            "date": "2025-11-28T11:18:09Z"
+        },
+        {
+            "title": "Refractory Material Market Size, Share & Trends Analysis Report 2026- 2035",
+            "summary": "The global refractory material market was valued at USD 31.84 billion in 2025, with projections for growth to USD 33.28 billion in 2026. This significant market expansion underscores increasing worldwide demand for materials crucial in high-temperature industries like steel and cement, reflecting broader industrial development globally.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/28/3196126/0/en/Refractory-Material-Market-Size-Share-Trends-Analysis-Report-2026-2035.html",
+            "category": "International",
+            "date": "2025-11-28T10:39:00Z"
+        },
+        {
+            "title": "NFL Yahoo DFS Picks Week 13: Top Picks & Strategy Tips",
+            "summary": "The article details the Week 13 NFL DFS Yahoo main slate, featuring 10 American football games starting Sunday. It notes no teams are on bye, highlighting key Thanksgiving Day matchups like Packers-Lions and Chiefs-Cowboys. This information is specific to daily fantasy sports players interested in the NFL schedule and team performances.",
+            "url": "https://sports.yahoo.com/articles/nfl-yahoo-dfs-picks-week-102900523.html",
+            "category": "National",
+            "date": "2025-11-28T10:29:00Z"
+        },
+        {
+            "title": "AI can already replace nearly 12% of jobs in the US: Why the first impact is showing up in entry-level roles",
+            "summary": "New findings show Artificial Intelligence can now handle tasks for nearly 12% of the US workforce, primarily affecting entry-level jobs. This significant technological shift underscores AI's growing impact on global employment. Aspiring individuals should closely observe such trends, considering the need for adapting skills and preparing for future job market changes driven by advanced science and technology.",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/ai-can-already-replace-nearly-12-of-jobs-in-the-us-why-the-first-impact-is-showing-up-in-entry-level-roles/articleshow/125635571.cms",
+            "category": "Sci & Tech",
+            "date": "2025-11-28T10:24:52Z"
+        },
+        {
+            "title": "Aerospace and Defense Materials Market Size to Worth USD 49.07 Bn by 2035",
+            "summary": "The global aerospace and defense materials market reached USD 28.59 billion in 2025, projected for growth to USD 30.18 billion. This significant expansion highlights the critical demand for advanced materials in manufacturing military aircraft, spacecraft, and defence systems worldwide, signifying the strategic importance of material science for national security.",
+            "url": "https://www.globenewswire.com/news-release/2025/11/28/3196112/0/en/Aerospace-and-Defense-Materials-Market-Size-to-Worth-USD-49-07-Bn-by-2035.html",
             "category": "Defence",
-            "date": "2025-11-28T06:06:18Z"
+            "date": "2025-11-28T10:19:00Z"
+        },
+        {
+            "title": "PM Karki asks Army to ensure zero-violence election environment",
+            "summary": "Nepal's Prime Minister Sushila Karki, concurrently holding the Defence Ministry portfolio, inspected the Nepal Army headquarters in Kathmandu. The visit aimed to thoroughly review security preparations for an upcoming significant event, highlighting the nation's proactive approach to ensuring peace and order. This underscores the civil-military coordination for national security.",
+            "url": "https://english.khabarhub.com/2025/28/508107/",
+            "category": "Defence",
+            "date": "2025-11-28T10:15:54Z"
+        },
+        {
+            "title": "Centre to spend \u20b94,500 crore to modernize SCL Mohali",
+            "summary": "The Centre will invest \u20b94,500 crore over three years to modernize the state-run Semi-Conductor Laboratory (SCL) in Mohali. Announced by Electronics and IT Minister Ashwini Vaishnaw, this significant initiative aims to bolster India's indigenous semiconductor manufacturing capabilities. The modernization is crucial for enhancing technological self-reliance and supporting advanced electronics development across various strategic sectors nationally.",
+            "url": "https://www.livemint.com/industry/india-semiconductor-mission-scl-mohali-modernization-investment-land-hurdle-chip-manufacturing-11764322642820.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-28T10:15:44Z"
+        },
+        {
+            "title": "India-US sign Rs 7,995 cr agreement for Navy's MH-60R helicopter fleet support: Defence Ministry",
+            "summary": "India has signed Letters of Offer and Acceptance (LOAs) with the United States for a five-year sustainment support deal for the Indian Navy's MH60R helicopters, valued at approximately Rs 7,995 crore. This agreement is crucial for ensuring the operational readiness and maintenance of these advanced multi-role helicopters, significantly bolstering India's maritime security capabilities and strengthening defence cooperation with the US.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-us-sign-rs-7995-cr-agreement-for-navys-mh-60r-helicopter-fleet-support-defence-ministry/articleshow/125634826.cms",
+            "category": "Defence",
+            "date": "2025-11-28T09:55:09Z"
+        },
+        {
+            "title": "Tere Ishk Mein movie review: Dhanush, Kriti Sanon\u2019s outdated, heavy-on-melodrama film takes us back to dark ages",
+            "summary": "The review for 'Tere Ishk Mein' critically examines its portrayal of love stories, drawing comparisons to Dhanush's 2013 film 'Raanjhana'. It highlights how 'Raanjhana' depicted interfaith romance between a Hindu boy and a Muslim girl, suggesting a past era when filmmakers could explore such themes more freely. The article likely assesses 'Tere Ishk Mein' within the context of changing societal norms and cinematic boundaries regarding sensitive subjects in Indian cinema.",
+            "url": "https://indianexpress.com/article/entertainment/movie-review/tere-ishk-mein-movie-review-dhanush-kriti-sanon-star-in-outdated-heavy-on-melodrama-film-10391058/",
+            "category": "National",
+            "date": "2025-11-28T09:40:23Z"
+        },
+        {
+            "title": "Poland selects Swedish submarines",
+            "summary": "The Swedish Government, via a joint press release from the Prime Minister's, Defence, and Foreign Affairs ministries, addressed a significant announcement made by Poland on November 26th. This statement signals Sweden's response or acknowledgement regarding Poland's commitment, likely concerning key defence or security developments with international implications.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251127-govse01.htm",
+            "category": "Defence",
+            "date": "2025-11-28T09:05:37Z"
+        },
+        {
+            "title": "Russian Defence Minister Andrei Belousov arrives in Bishkek to participate in meetings of CSTO statutory bodies",
+            "summary": "A high-level visit is underway to discuss the military-political situation among member countries of an international organisation. The agenda includes adopting joint documents aimed at strengthening cooperation and security. This highlights ongoing efforts to address regional challenges and enhance collective defence strategies, crucial for maintaining stability and fostering international relations.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/11/russia-251126-russia-mod01.htm",
+            "category": "Defence",
+            "date": "2025-11-28T09:00:25Z"
+        },
+        {
+            "title": "Russian Defence Minister Andrei Belousov holds talks with Minister of Defence of Kyrgyz Republic Major General Ruslan Mukambetov",
+            "summary": "Russian Defence Minister Andrei Belousov held significant talks with Kyrgyz Republic's Minister of Defence, Major General Ruslan Mukambetov. This high-level meeting likely focused on enhancing bilateral defence cooperation and addressing shared security challenges in the region. Such discussions are vital for maintaining regional stability and strengthening strategic partnerships between the two nations, providing crucial insights for aspirants on international defence dynamics.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/11/russia-251127-russia-mod01.htm",
+            "category": "Defence",
+            "date": "2025-11-28T09:00:05Z"
+        },
+        {
+            "title": "Minister of Defence Antti H\u00e4kk\u00e4nen: Finland will strengthen its support to Ukraine by joining the Maritime Capability CoalitionMinistry of Defence",
+            "summary": "Finland's Minister of Defence, Antti H\u00e4kk\u00e4nen, has decided Finland will join a crucial Maritime Capability initiative. Announced by the Finnish Ministry of Defence on 26.11.2025, this strategic move underscores the nation's commitment to strengthening its defence posture and enhancing international cooperation in maritime security. It represents a significant step in Finland's evolving defence policy.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/11/ukraine-251126-finmod01.htm",
+            "category": "Defence",
+            "date": "2025-11-28T08:54:01Z"
+        },
+        {
+            "title": "KCNA Commentary on U.S. Reckless Military Maneuvers Indicating Origin of Instability of Regional Situation",
+            "summary": "North Korea's state news agency, KCNA, reported on November 28, accusing the U.S. of 'reckless military moves' throughout the year. Pyongyang asserted that these actions significantly threaten strategic stability. This statement from North Korea underscores persistent regional tensions and its critical stance on Washington's military activities, framing them as detrimental to international security dynamics.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2025/dprk-251128-kcna01.htm",
+            "category": "Defence",
+            "date": "2025-11-28T08:45:04Z"
+        },
+        {
+            "title": "MPPKVVCL recruitment 2025: Short notification released for 4,009 vacancies; registration begins on this date",
+            "summary": "Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited (MPPKVVCL) has released a short notification for its 2025 recruitment, announcing 4,009 vacancies. This significant opportunity in the state electricity distribution sector offers various positions. Aspirants should note the upcoming registration dates for these government jobs within Madhya Pradesh, highlighting employment prospects beyond direct defence roles for well-rounded career planning.",
+            "url": "https://timesofindia.indiatimes.com/education/news/mppkvvcl-recruitment-2025-short-notification-released-for-4009-vacancies-registration-begins-on-this-date/articleshow/125632283.cms",
+            "category": "National",
+            "date": "2025-11-28T08:04:14Z"
         },
         {
             "title": "INDIAN ARMY HOSTS CHANAKYA DEFENCE DIALOGUE 2025",
-            "summary": "The Ministry of Defence announced the commencement of the Chanakya Defence Dialogue 2025. Operating under the theme 'Reform to Transform - Sashakt, Surakshit Aur Viksit Bharat', this dialogue focuses on crucial defence reforms. It highlights India's commitment to enhancing its defence capabilities and ensuring national security, aiming to foster an empowered and developed nation.",
+            "summary": "The Ministry of Defence commenced the Chanakya Defence Dialogue 2025, an event focused on \"Reform to Transform - Sashakt, Surakshit Aur Viksit Bharat\" (Strong, Secure, and Developed India). This initiative underscores India's commitment to strengthening its defence capabilities and strategic vision for national security and development. Aspirants should recognize the emphasis on defence reforms and strategic discourse.",
             "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251127-india-pib01.htm",
             "category": "Defence",
             "date": "2025-11-28T05:57:14Z"
         },
         {
             "title": "Betting trends that define the Champions League race",
-            "summary": "The UEFA Champions League stands as Europe's pinnacle club football competition. Its immense prestige and competitive nature make it a coveted aspiration for countless players and teams across the continent. Participating in this tournament represents a significant achievement and a dream come true for those involved in European football, highlighting its unparalleled status.",
+            "summary": "The UEFA Champions League is highlighted as Europe's foremost club football competition, naturally making it a highly coveted dream for numerous players and teams. Its immense relevance and prestige across the continent mean that aspiring clubs and athletes tirelessly strive for the opportunity to participate in this elite tournament, signifying the pinnacle of European club football achievement and competitive ambition.",
             "url": "https://romapress.net/betting-trends-that-define-the-champions-league-race/",
             "category": "International",
             "date": "2025-11-28T05:54:00Z"
         },
         {
             "title": "Nifty\u2019s December hit rate is 60% over 10 years on strong FII/DII trends. What\u2019s in store for 2025?",
-            "summary": "The Nifty index opened the December series strongly, hitting a fresh lifetime high of 26,310.45 on Thursday after a 14-month wait. This significant surge reflects strong investor confidence and market optimism, with expectations that the positive momentum will continue. This economic indicator signifies robust performance in the Indian stock market, crucial for national economic health and growth prospects.",
+            "summary": "India's Nifty index achieved a new lifetime high of 26,310.45 on Thursday, ending a 14-month wait in the December series. This strong market opening has fueled investor optimism for sustained momentum. Such economic indicators are crucial for SSB aspirants to understand national growth, financial stability, and the broader economic landscape influencing India's strategic positioning.",
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-december-hit-rate-is-60-over-10-years-on-strong-fii/dii-trends-whats-in-store-for-2025/articleshow/125630327.cms",
             "category": "National",
             "date": "2025-11-28T05:49:08Z"
         },
         {
             "title": "HAL Chairman DK Sunil Denies Any Problem With Tejas Aircraft; Share Price Rebounds",
-            "summary": "Hindustan Aeronautics Ltd. (HAL) shares rose 1.16% to Rs 4,535, recovering from a 1.26% fall in the previous session. The stock's positive movement reflects market confidence in India's leading defence public sector undertaking. This financial performance is relevant for aspirants monitoring the health and investment in national defence manufacturing capabilities.",
+            "summary": "Hindustan Aeronautics Ltd. (HAL) saw its share price rise by 1.16% to Rs 4,535, recovering from a 1.26% decline in the previous session when shares fell to Rs 4,461. The aerospace defence PSU's scrip was trading 0.96% higher at Rs 4,526.40. This movement reflects ongoing investor activity around India's significant defence manufacturer.",
             "url": "https://www.ndtvprofit.com/business/hal-chairman-dk-sunil-denies-any-problem-with-tejas-aircraft-share-price-rebounds",
             "category": "Defence",
             "date": "2025-11-28T05:41:28Z"
         },
         {
             "title": "Tejas has no issues, Dubai crash will have no impact on future of fighter jet: HAL chairman DK Sunil",
-            "summary": "Hindustan Aeronautics Limited (HAL) Chairman affirmed the Tejas light combat aircraft's absolute safety, stating a recent Dubai crash will have no impact on the indigenous fighter jet's future operational use. This statement aims to reassure stakeholders about the Tejas's reliability and continued deployment, which is crucial for India's domestic defence capabilities and air force modernization efforts.",
+            "summary": "HAL Chairman affirmed the Tejas Light Combat Aircraft is \"absolutely safe,\" stating a recent Dubai crash will have no impact on the fighter jet's future deployment or reputation. This reassures stakeholders about Tejas's reliability and operational integrity, reinforcing confidence in India's indigenous defence capabilities and its continued induction into service for national security.",
             "url": "https://economictimes.indiatimes.com/news/defence/tejas-has-no-issues-dubai-crash-will-have-no-impact-on-future-of-fighter-jet-hal-chairman-dk-sunil/articleshow/125629864.cms",
             "category": "Defence",
             "date": "2025-11-28T05:14:24Z"
         },
         {
             "title": "Amazon\u2019s Black Friday deals are not to be missed, from AirPods to beauty buys",
-            "summary": "The article hints at an anticipated development from Amazon, signified by the phrase 'Alexa, grab my wallet.' This suggests a new voice-activated feature for Amazon's Alexa platform, likely designed to enhance shopping or payment processes through intuitive voice commands. While specific details are not provided in the snippet, it indicates a focus on integrating convenience and technology for users.",
+            "summary": "Amazon is launching a highly anticipated feature, likely integrating Alexa with payment or shopping capabilities. The phrase 'Alexa, grab my wallet' suggests voice-activated commerce, enabling hands-free transactions. This development aims to enhance user convenience and streamline digital purchases within Amazon's ecosystem, further leveraging AI for everyday interactions and smart home technology.",
             "url": "https://pagesix.com/style/best-amazon-black-friday-deals-sales-2025/",
             "category": "Sci & Tech",
             "date": "2025-11-28T05:00:00Z"
         },
         {
             "title": "Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm\u200b",
-            "summary": "Chinese telecom giants Huawei and ZTE have secured substantial contracts for 5G equipment in Vietnam, signaling a strengthening of ties between Hanoi and Beijing. For SSB aspirants, this development highlights the evolving geopolitical landscape, where technological collaborations like this can signify shifts in international relations, regional power balances, and influence digital infrastructure security.",
+            "summary": "China's Huawei and ZTE won 5G contracts in Vietnam, signifying strengthened Hanoi-Beijing ties. This critical infrastructure deal raises geopolitical interest, given global concerns over Chinese tech influence and data security. For SSB aspirants, this highlights evolving regional alliances and technology's strategic implications on international relations and national security.",
             "url": "https://economictimes.indiatimes.com/tech/technology/huawei-zte-seal-5g-deals-in-vietnam-after-us-tariffs-as-ties-with-china-warm/articleshow/125628613.cms",
             "category": "International",
             "date": "2025-11-28T03:47:40Z"
         },
         {
             "title": "Raksha Mantri & his Indonesian counterpart co-chair 3rd India-Indonesia Defence Ministers' Dialogue in New Delhi; Agree to further deepen defence ties",
-            "summary": "India's Ministry of Defence confirmed that India and Indonesia have reiterated their shared commitment to a free, open, peaceful, and prosperous Indo-Pacific region. Both nations emphasized strict adherence to international law and mutual respect as fundamental guiding principles for regional stability. This collaborative stance underscores ongoing efforts to maintain maritime security and foster a rules-based order, crucial for regional development and cooperation.",
+            "summary": "India and Indonesia have reiterated their commitment to a free, open, peaceful, and prosperous Indo-Pacific region. Both nations underscored the importance of adhering to international law and mutual respect in this strategically vital area. This joint affirmation, coming from India's Ministry of Defence, highlights their shared vision for regional stability, security, and cooperation, reflecting ongoing diplomatic and strategic engagements.",
             "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251127-india-pib03.htm",
             "category": "Defence",
             "date": "2025-11-28T01:22:06Z"
         },
         {
             "title": "Exclusive-Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm\u200b",
-            "summary": "Chinese telecom giants Huawei and ZTE have secured multiple contracts to supply 5G equipment in Vietnam this year. This development signifies Vietnam's increasing reliance on Chinese technology for its next-generation mobile networks. For SSB aspirants, this highlights evolving international technological partnerships and potential geopolitical considerations regarding digital infrastructure in Southeast Asia.",
+            "summary": "Chinese telecom giants Huawei and ZTE have secured significant contracts this year to supply 5G equipment in Vietnam. This development highlights Vietnam's strategic technology choices and potentially its evolving economic and political alignment. As Hanoi expands its crucial 5G infrastructure with key Chinese partners, this move by Vietnam warrants attention for its implications on regional tech dominance and national security considerations.",
             "url": "https://finance.yahoo.com/news/exclusive-huawei-zte-seal-5g-003622988.html",
+            "category": "Sci & Tech",
+            "date": "2025-11-28T00:36:22Z"
+        },
+        {
+            "title": "Exclusive-Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm\u200b",
+            "summary": "Chinese telecom giants Huawei and ZTE have secured significant 5G equipment contracts in Vietnam this year. This move by Hanoi signals its strategic technology choices amidst global debates over network security and supply chain reliability. For SSB aspirants, understanding such international tech partnerships is crucial, as they often carry geopolitical implications impacting data sovereignty and regional power dynamics.",
+            "url": "https://finance.yahoo.com/news/exclusive-huawei-zte-seal-5g-003622183.html",
             "category": "International",
             "date": "2025-11-28T00:36:22Z"
         },
         {
-            "title": "Live content soon on Rs 2k phones with no data pack as D2M tech paves way",
-            "summary": "Indian mobile users, including over 200 million feature phone owners, could soon access live sports, Bollywood movies, and web series directly on their devices. Originating from New Delhi, this development suggests a new technology enhancing content accessibility without solely relying on internet data. This potential shift promises to democratize digital entertainment across the nation, expanding reach significantly.",
-            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/live-content-soon-on-rs-2k-phones-with-no-data-pack-as-d2m-tech-paves-way/articleshow/125622470.cms",
+            "title": "The bacterial spectrum of spinal infections based on blood culture, tissue culture, and molecular methods: a systematic review and meta-analysis",
+            "summary": "A joint consensus document, endorsed by leading European medical societies EANM, ESNR, and ESCMID, provides updated guidelines for diagnosing spondylodiscitis\u2014a serious spine infection\u2014in adults. Published in the European Journal of Nuclear Medicine and Molecular Imaging, this crucial resource aims to standardize diagnostic approaches. Such advancements improve medical accuracy and patient outcomes, signifying an important development in medical science relevant for healthcare professionals.",
+            "url": "https://www.nature.com/articles/s41598-025-28576-4",
             "category": "Sci & Tech",
             "date": "2025-11-28T00:00:00Z"
         },
         {
-            "title": "Putin says Russian army has surrounded Ukrainian city of Pokrovsk",
-            "summary": "Russian President Putin claimed forces control 70% of the encircled Ukrainian city of Pokrovsk. However, Kyiv's top general stated Ukrainian forces are pushing back hard, indicating intense and contested fighting. This highlights the volatile and fluid nature of military operations in this strategically important region, a key aspect of the ongoing Russia-Ukraine conflict.",
-            "url": "https://japantoday.com/category/world/putin-says-russian-army-has-surrounded-ukrainian-city-of-pokrovsk",
-            "category": "Defence",
-            "date": "2025-11-27T21:53:51Z"
+            "title": "Harley Quinn Becomes DC's Next Flash Thanks To The Speed Force",
+            "summary": "DC Comics has significantly enhanced Harley Quinn's abilities, marking her most substantial power-up since her 1992 debut. Traditionally known for her cunning and psychological threat rather than physical strength, this development positions her as an even more formidable antagonist within the Batman universe, potentially altering power dynamics among iconic characters.",
+            "url": "https://screenrant.com/batman-harley-quinn-theory-new-flash-justice-league/",
+            "category": "Sci & Tech",
+            "date": "2025-11-27T23:04:50Z"
         }
     ]
 }
