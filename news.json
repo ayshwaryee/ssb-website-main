@@ -1,236 +1,89 @@
 {
-    "last_updated": "2025-11-29T01:11:38.166402+00:00",
+    "last_updated": "2025-11-29T06:22:16.433319+00:00",
     "articles": [
         {
-            "title": "Exclusive-Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm\u200b",
-            "summary": "Chinese telecom giants Huawei and ZTE have secured significant 5G equipment contracts in Vietnam this year. This development highlights Vietnam's reliance on Chinese technology for its critical next-generation mobile infrastructure, despite broader geopolitical considerations. It signals a notable business relationship in advanced telecommunications between the two nations, focusing on cutting-edge network deployment.",
-            "url": "https://finance.yahoo.com/news/exclusive-huawei-zte-seal-5g-003622988.html",
+            "title": "Delays not only domestic, but from abroad too: Defence Secretary on equipment orders",
+            "summary": "Defence Secretary Rajesh Kumar Singh expressed concerns about some Indian defence companies \"overpromising and under-delivering\" on equipment. He clarified this issue isn't exclusive to domestic firms, stressing the need for robust performance from all suppliers. This highlights challenges in defence procurement and the critical importance of accountability to strengthen India's indigenous defence capabilities and effectively reduce reliance on imports, crucial for national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/delays-not-only-domestic-but-from-abroad-too-defence-secretary-on-equipment-orders/articleshow/125630753.cms",
+            "category": "Defence",
+            "date": "2025-11-28T06:06:18Z"
+        },
+        {
+            "title": "INDIAN ARMY HOSTS CHANAKYA DEFENCE DIALOGUE 2025",
+            "summary": "The Ministry of Defence announced the commencement of the Chanakya Defence Dialogue 2025. Operating under the theme 'Reform to Transform - Sashakt, Surakshit Aur Viksit Bharat', this dialogue focuses on crucial defence reforms. It highlights India's commitment to enhancing its defence capabilities and ensuring national security, aiming to foster an empowered and developed nation.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251127-india-pib01.htm",
+            "category": "Defence",
+            "date": "2025-11-28T05:57:14Z"
+        },
+        {
+            "title": "Betting trends that define the Champions League race",
+            "summary": "The UEFA Champions League stands as Europe's pinnacle club football competition. Its immense prestige and competitive nature make it a coveted aspiration for countless players and teams across the continent. Participating in this tournament represents a significant achievement and a dream come true for those involved in European football, highlighting its unparalleled status.",
+            "url": "https://romapress.net/betting-trends-that-define-the-champions-league-race/",
+            "category": "International",
+            "date": "2025-11-28T05:54:00Z"
+        },
+        {
+            "title": "Nifty\u2019s December hit rate is 60% over 10 years on strong FII/DII trends. What\u2019s in store for 2025?",
+            "summary": "The Nifty index opened the December series strongly, hitting a fresh lifetime high of 26,310.45 on Thursday after a 14-month wait. This significant surge reflects strong investor confidence and market optimism, with expectations that the positive momentum will continue. This economic indicator signifies robust performance in the Indian stock market, crucial for national economic health and growth prospects.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-december-hit-rate-is-60-over-10-years-on-strong-fii/dii-trends-whats-in-store-for-2025/articleshow/125630327.cms",
+            "category": "National",
+            "date": "2025-11-28T05:49:08Z"
+        },
+        {
+            "title": "HAL Chairman DK Sunil Denies Any Problem With Tejas Aircraft; Share Price Rebounds",
+            "summary": "Hindustan Aeronautics Ltd. (HAL) shares rose 1.16% to Rs 4,535, recovering from a 1.26% fall in the previous session. The stock's positive movement reflects market confidence in India's leading defence public sector undertaking. This financial performance is relevant for aspirants monitoring the health and investment in national defence manufacturing capabilities.",
+            "url": "https://www.ndtvprofit.com/business/hal-chairman-dk-sunil-denies-any-problem-with-tejas-aircraft-share-price-rebounds",
+            "category": "Defence",
+            "date": "2025-11-28T05:41:28Z"
+        },
+        {
+            "title": "Tejas has no issues, Dubai crash will have no impact on future of fighter jet: HAL chairman DK Sunil",
+            "summary": "Hindustan Aeronautics Limited (HAL) Chairman affirmed the Tejas light combat aircraft's absolute safety, stating a recent Dubai crash will have no impact on the indigenous fighter jet's future operational use. This statement aims to reassure stakeholders about the Tejas's reliability and continued deployment, which is crucial for India's domestic defence capabilities and air force modernization efforts.",
+            "url": "https://economictimes.indiatimes.com/news/defence/tejas-has-no-issues-dubai-crash-will-have-no-impact-on-future-of-fighter-jet-hal-chairman-dk-sunil/articleshow/125629864.cms",
+            "category": "Defence",
+            "date": "2025-11-28T05:14:24Z"
+        },
+        {
+            "title": "Amazon\u2019s Black Friday deals are not to be missed, from AirPods to beauty buys",
+            "summary": "The article hints at an anticipated development from Amazon, signified by the phrase 'Alexa, grab my wallet.' This suggests a new voice-activated feature for Amazon's Alexa platform, likely designed to enhance shopping or payment processes through intuitive voice commands. While specific details are not provided in the snippet, it indicates a focus on integrating convenience and technology for users.",
+            "url": "https://pagesix.com/style/best-amazon-black-friday-deals-sales-2025/",
             "category": "Sci & Tech",
+            "date": "2025-11-28T05:00:00Z"
+        },
+        {
+            "title": "Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm\u200b",
+            "summary": "Chinese telecom giants Huawei and ZTE have secured substantial contracts for 5G equipment in Vietnam, signaling a strengthening of ties between Hanoi and Beijing. For SSB aspirants, this development highlights the evolving geopolitical landscape, where technological collaborations like this can signify shifts in international relations, regional power balances, and influence digital infrastructure security.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/huawei-zte-seal-5g-deals-in-vietnam-after-us-tariffs-as-ties-with-china-warm/articleshow/125628613.cms",
+            "category": "International",
+            "date": "2025-11-28T03:47:40Z"
+        },
+        {
+            "title": "Raksha Mantri & his Indonesian counterpart co-chair 3rd India-Indonesia Defence Ministers' Dialogue in New Delhi; Agree to further deepen defence ties",
+            "summary": "India's Ministry of Defence confirmed that India and Indonesia have reiterated their shared commitment to a free, open, peaceful, and prosperous Indo-Pacific region. Both nations emphasized strict adherence to international law and mutual respect as fundamental guiding principles for regional stability. This collaborative stance underscores ongoing efforts to maintain maritime security and foster a rules-based order, crucial for regional development and cooperation.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251127-india-pib03.htm",
+            "category": "Defence",
+            "date": "2025-11-28T01:22:06Z"
+        },
+        {
+            "title": "Exclusive-Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm\u200b",
+            "summary": "Chinese telecom giants Huawei and ZTE have secured multiple contracts to supply 5G equipment in Vietnam this year. This development signifies Vietnam's increasing reliance on Chinese technology for its next-generation mobile networks. For SSB aspirants, this highlights evolving international technological partnerships and potential geopolitical considerations regarding digital infrastructure in Southeast Asia.",
+            "url": "https://finance.yahoo.com/news/exclusive-huawei-zte-seal-5g-003622988.html",
+            "category": "International",
             "date": "2025-11-28T00:36:22Z"
         },
         {
-            "title": "One-pot CuI/L-proline-catalysed multicomponent synthesis of pyrido[2\u2032,1\u2032:2,3]imidazo[4,5-c]quinoline derivatives from 2-(2-bromophenyl)imidazo[1,2-a]pyridines, NH3 and DMSO under air",
-            "summary": "A scientific article by B. V. Phuc et al. is slated for publication in RSC Advances in 2025, marked by DOI 10.1039/D5RA06789H. While the detailed research content is omitted from this excerpt, its presence in a leading scientific journal suggests significant contributions within chemical sciences or related technological advancements. This marks an upcoming academic development.",
-            "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra06789h",
-            "category": "Sci & Tech",
-            "date": "2025-11-28T00:00:00Z"
-        },
-        {
             "title": "Live content soon on Rs 2k phones with no data pack as D2M tech paves way",
-            "summary": "Indian mobile users, including 200 million feature phone owners, could soon access live sports, movies, and web series without an active internet connection. This innovation leverages direct-to-mobile (D2M) broadcast technology, similar to radio, to deliver content directly to devices. This could significantly democratize digital content consumption across India, reaching remote areas and bridging the digital divide.",
+            "summary": "Indian mobile users, including over 200 million feature phone owners, could soon access live sports, Bollywood movies, and web series directly on their devices. Originating from New Delhi, this development suggests a new technology enhancing content accessibility without solely relying on internet data. This potential shift promises to democratize digital entertainment across the nation, expanding reach significantly.",
             "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/live-content-soon-on-rs-2k-phones-with-no-data-pack-as-d2m-tech-paves-way/articleshow/125622470.cms",
             "category": "Sci & Tech",
             "date": "2025-11-28T00:00:00Z"
         },
         {
-            "title": "The bacterial spectrum of spinal infections based on blood culture, tissue culture, and molecular methods: a systematic review and meta-analysis",
-            "summary": "A 2019 joint consensus document, endorsed by leading European medical bodies (EANM, ESNR, ESCMID), was published to standardize the diagnosis of spine infection (spondylodiscitis) in adults. This guideline, featured in a prominent medical journal, aims to significantly improve diagnostic accuracy and consistency for medical professionals. Such collaborative scientific efforts are vital for advancing healthcare and ensuring better patient outcomes globally.",
-            "url": "https://www.nature.com/articles/s41598-025-28576-4",
-            "category": "Sci & Tech",
-            "date": "2025-11-28T00:00:00Z"
-        },
-        {
-            "title": "Harley Quinn Becomes DC's Next Flash Thanks To The Speed Force",
-            "summary": "DC Comics has significantly powered up Harley Quinn, marking her biggest enhancement since her 1992 debut. Though not inherently super-strong, she consistently threatens Batman. This development dramatically boosts her abilities, potentially reshaping her role and impact within the expansive DC universe narratives and future storylines.",
-            "url": "https://screenrant.com/batman-harley-quinn-theory-new-flash-justice-league/",
-            "category": "National",
-            "date": "2025-11-27T23:04:50Z"
-        },
-        {
-            "title": "12 Horrid Soviet Bombers that menaced the West",
-            "summary": "During the Cold War, NATO air planners faced a formidable challenge from the East. The Soviet Union and Warsaw Pact nations maintained a vast, intimidating armada of bombers and attack aircraft. Their superior numbers necessitated continuous strategic adjustments from NATO to counter this significant military threat and ensure collective defence against potential aggression.",
-            "url": "https://www.yahoo.com/news/articles/12-horrid-soviet-bombers-menaced-223143702.html",
-            "category": "Defence",
-            "date": "2025-11-27T22:31:43Z"
-        },
-        {
-            "title": "5 More Utterly Bizarre Lenses That Actually Made It to Market (And Why We Love Them)",
-            "summary": "This article delves into the surprisingly deep and unconventional history of photography, highlighting the peculiar and experimental lenses developed by manufacturers. It uncovers some truly bizarre and innovative attempts from the past, showcasing how the industry pushed boundaries with unique optical designs, revealing a weirder side to photographic technology's evolution.",
-            "url": "https://fstoppers.com/historical/5-more-utterly-bizarre-lenses-actually-made-it-market-and-why-love-them-716698",
-            "category": "Sci & Tech",
-            "date": "2025-11-27T22:04:01Z"
-        },
-        {
-            "title": "5 hilarious political moments that make me thankful for Trump",
-            "summary": "Former US President Donald Trump significantly influenced the last decade, producing numerous iconic political moments. These events, often divisive, historic, and humorous, profoundly shaped America's political landscape. His impactful tenure garnered substantial global attention, offering crucial insights into modern leadership and international relations dynamics relevant for SSB aspirants.",
-            "url": "https://www.theblaze.com/news/5-hilarious-political-moments-that-make-me-thankful-for-trump",
-            "category": "International",
-            "date": "2025-11-27T22:00:00Z"
-        },
-        {
             "title": "Putin says Russian army has surrounded Ukrainian city of Pokrovsk",
-            "summary": "President Putin claims Russian forces have surrounded and control 70% of the Ukrainian city of Pokrovsk. However, Kyiv's top general asserts that Ukrainian forces are pushing back aggressively, denying the Russian advance. This ongoing battle for a key city highlights the continued intense conflict in the Russia-Ukraine war, with conflicting reports on the ground situation.",
+            "summary": "Russian President Putin claimed forces control 70% of the encircled Ukrainian city of Pokrovsk. However, Kyiv's top general stated Ukrainian forces are pushing back hard, indicating intense and contested fighting. This highlights the volatile and fluid nature of military operations in this strategically important region, a key aspect of the ongoing Russia-Ukraine conflict.",
             "url": "https://japantoday.com/category/world/putin-says-russian-army-has-surrounded-ukrainian-city-of-pokrovsk",
             "category": "Defence",
             "date": "2025-11-27T21:53:51Z"
-        },
-        {
-            "title": "Hear Trident's plea afresh: Delhi HC to Patent Office",
-            "summary": "The Delhi High Court has directed the Controller of Patents to reconsider Ludhiana-based textile manufacturer Trident's applications for patents. Trident seeks patents for its innovative \"air-rich yarn and fabric\" products. This legal development underscores the significance of intellectual property rights within India's manufacturing sector, reflecting ongoing efforts to protect and promote innovation in textile technology and industry competitiveness nationally.",
-            "url": "https://economictimes.indiatimes.com/news/india/hear-tridents-plea-afresh-delhi-hc-to-patent-office/articleshow/125623475.cms",
-            "category": "National",
-            "date": "2025-11-27T19:41:57Z"
-        },
-        {
-            "title": "Yankees fans erupt against Hal Steinbrenner: Spend to win or think about financial health first?",
-            "summary": "Tension between Yankees fans and owner Hal Steinbrenner reignited after Steinbrenner voiced concerns about the team's spending. He noted the inability to match the Dodgers' aggressive investment, sparking renewed fan frustration over the club's competitiveness and financial strategy. This highlights ongoing debate about the team's future direction and commitment to winning.",
-            "url": "https://www.marca.com/en/mlb/new-york-yankees/2025/11/27/69289ff222601d36528b45c1.html",
-            "category": "National",
-            "date": "2025-11-27T19:06:41Z"
-        },
-        {
-            "title": "Modi unveils Skyroot\u2019s orbital rocket, praises Gen Z for creating new tech",
-            "summary": "Prime Minister Narendra Modi unveiled space startup Skyroot\u2019s first orbital rocket in Hyderabad. He praised Gen Z professionals for creating new technologies, marking a significant milestone for India's burgeoning private space sector. This event underscores the nation's commitment to fostering innovation and self-reliance in advanced scientific domains, contributing to national progress and technological prowess.",
-            "url": "https://statetimes.in/modi-unveils-skyroots-orbital-rocket-praises-gen-z-for-creating-new-tech/",
-            "category": "Sci & Tech",
-            "date": "2025-11-27T19:00:16Z"
-        },
-        {
-            "title": "Success of Op Sindoor defining India\u2019s counter-terror strategy: Prez",
-            "summary": "President Droupadi Murmu lauded Operation Sindoor's success as a \"defining moment\" for India's counter-terror and deterrence strategy. She highlighted its role in bolstering national security. For SSB aspirants, this signifies India's effective and proactive measures against terrorism, reinforcing the nation's strategic capabilities and the critical importance of robust defence operations in maintaining peace and safeguarding national interests.",
-            "url": "https://statetimes.in/success-of-op-sindoor-defining-indias-counter-terror-strategy-prez/",
-            "category": "Defence",
-            "date": "2025-11-27T18:58:20Z"
-        },
-        {
-            "title": "How decades of flashpoints could see Trump soon attack this nation",
-            "summary": "Thousands of US military personnel, including those aboard the highly capable USS Gerald R Ford aircraft carrier, are deployed in the Caribbean Sea. This significant naval presence by one of the US Navy's most advanced vessels highlights ongoing strategic deployments and power projection in a key maritime region, indicating a readiness posture for potential operations.",
-            "url": "https://www.abc.net.au/news/2025-11-28/us-venezuela-tension-flashpoints-and-history-explained/106037756",
-            "category": "Defence",
-            "date": "2025-11-27T18:52:24Z"
-        },
-        {
-            "title": "Grader shot, signs defaced, vehicle vandalized as Manitoba RM contends with 'disturbing incidents'",
-            "summary": "A rural municipality northeast of Winnipeg, Canada, is deeply concerned about public safety due to \"several disturbing incidents.\" These include a municipal grader being shot, signaling a breakdown in local law and order. Such events underscore the critical importance of effective governance and maintaining peace for community security, a vital aspect for any nation's stability, which SSB aspirants should recognize.",
-            "url": "https://www.cbc.ca/news/canada/manitoba/rm-alexander-grader-shot-disturbing-incidents-9.6994497",
-            "category": "National",
-            "date": "2025-11-27T18:39:46Z"
-        },
-        {
-            "title": "Yankees predicted to outbid Dodgers for $196M flamethrower to form trio with Gerrit Cole, Max Fried",
-            "summary": "The Yankees are reportedly predicted to outbid the Dodgers for a highly sought-after $196 million pitcher, dubbed a \"flamethrower.\" This strategic acquisition would significantly bolster their pitching rotation, aiming to form a formidable trio with established aces Gerrit Cole and Max Fried. The move, reported by The Sporting News, indicates a strong intent to enhance their competitive position in the league.",
-            "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/yankees-predicted-outbid-dodgers-196m-flamethrower-form-trio-gerrit-cole-max-fried/f663069b5ca4ae206fdc6d33",
-            "category": "National",
-            "date": "2025-11-27T18:26:14Z"
-        },
-        {
-            "title": "India taps Morocco ties for fertiliser needs",
-            "summary": "India is actively pursuing phosphate-rich Morocco to ensure stable fertiliser supplies, a critical move amid concerns over countries like China 'weaponising' commodity exports. This strategic partnership aims to safeguard India's agricultural sector and national food security by securing vital resources and mitigating global supply chain vulnerabilities for essential commodities.",
-            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/chem-/-fertilisers/india-taps-morocco-ties-for-fertiliser-needs/articleshow/125621395.cms",
-            "category": "International",
-            "date": "2025-11-27T18:11:28Z"
-        },
-        {
-            "title": "Dinoosh Dispenses Dino Paw Print Soap, Changes Color When Done",
-            "summary": "Children frequently struggle to wash their hands for the recommended 20 seconds, finding the duration excessively long despite adult reminders, leading to inadequate hygiene. This widespread challenge highlights a need for engaging solutions. The article likely explores innovative methods, potentially leveraging technology or psychological insights, to transform handwashing into a more appealing and effective habit for kids, ensuring proper cleanliness without feeling like a chore.",
-            "url": "https://www.yankodesign.com/2025/11/27/dinoosh-dispenses-dino-paw-print-soap-changes-color-when-done/",
-            "category": "Sci & Tech",
-            "date": "2025-11-27T18:00:09Z"
-        },
-        {
-            "title": "CNN Panel: Finances, Mental Illness, Seeing Military Uniforms Triggered Afghan Shooter",
-            "summary": "A CNN panel discussed the reported triggers behind an Afghan shooter's actions, identifying financial difficulties and underlying mental illness as significant factors. The panel also noted that the sight of military uniforms contributed to triggering the individual. This analysis sheds light on the complex psychological and situational elements that can lead to such incidents.",
-            "url": "https://freerepublic.com/focus/f-bloggers/4354870/posts",
-            "category": "Defence",
-            "date": "2025-11-27T17:47:35Z"
-        },
-        {
-            "title": "Iron and Steel Market Size, Share & Trends Analysis Report 2026- 2035",
-            "summary": "The global iron and steel market, a vital sector for industrial and infrastructure development, was valued at USD 1.83 trillion in 2025. Projections indicate substantial growth, with its size expected to reach USD 2.95 trillion by 2035. This significant expansion underscores increasing worldwide demand and ongoing industrialization, influencing global economic trends and various manufacturing sectors.",
-            "url": "https://www.globenewswire.com/news-release/2025/11/27/3195900/0/en/Iron-and-Steel-Market-Size-Share-Trends-Analysis-Report-2026-2035.html",
-            "category": "International",
-            "date": "2025-11-27T17:43:00Z"
-        },
-        {
-            "title": "James Gunn debunks supposed new look at DC show Lanterns: \"Nope. That's AI\"",
-            "summary": "DC Studios co-CEO James Gunn addressed online rumors surrounding the upcoming 'Lanterns' series. Gunn clarified misconceptions following the circulation of images featuring actors Aaron Pierre, reportedly as John Stewart, and Kyle Chandler. He utilized online platforms to debunk these falsehoods, aiming to manage expectations and provide accurate information about the highly anticipated superhero show's casting and development.",
-            "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/james-gunn-debunks-supposed-new-look-at-dc-show-lanterns-nope-thats-ai/",
-            "category": "Sci & Tech",
-            "date": "2025-11-27T17:00:31Z"
-        },
-        {
-            "title": "$10.32 Bn Unmanned Underwater Vehicles Global Market Opportunities And Strategies To 2034 with Kongsberg, Boeing, Saab, Oceaneering International, and Lockheed Martin",
-            "summary": "A new report, \"Unmanned Underwater Vehicles Global Market Opportunities And Strategies To 2034,\" is now available. It provides an in-depth analysis of the worldwide market for UUVs, exploring growth prospects and strategic approaches until 2034. This study highlights the evolving applications and commercial potential of UUV technology, relevant for defence, industry, and scientific research, signifying its strategic importance.",
-            "url": "https://www.globenewswire.com/news-release/2025/11/27/3195838/28124/en/10-32-Bn-Unmanned-Underwater-Vehicles-Global-Market-Opportunities-And-Strategies-To-2034-with-Kongsberg-Boeing-Saab-Oceaneering-International-and-Lockheed-Martin.html",
-            "category": "Defence",
-            "date": "2025-11-27T16:15:00Z"
-        },
-        {
-            "title": "The Scars of Partition",
-            "summary": "The article highlights how 20th-century partitions, exemplified by Ireland, Palestine, and the British Indian Empire, often failed to deliver promised stability, instead causing bloodshed and ethnic cleansing. A new book specifically traces the violent consequences of the British Indian Empire's breakup, underscoring the long-lasting animosity and complex challenges arising from such historical geopolitical divisions.",
-            "url": "https://www.project-syndicate.org/onpoint/long-term-costs-past-partition-relevant-for-ukraine-by-michael-burleigh-2025-11",
-            "category": "International",
-            "date": "2025-11-27T15:17:46Z"
-        },
-        {
-            "title": "LG Electronics India rejigs leadership to drive post-IPO growth",
-            "summary": "LG Electronics India Ltd has announced a leadership reorganisation, elevating Sanjay Chitkara to the position of Co-Chief Sales and Marketing Officer. This strategic move is aimed at driving the company's objectives within the Indian market. Such corporate changes are common in major companies to optimize sales strategies and strengthen market position, reflecting the dynamic nature of India's electronics sector and business landscape.",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/lg-electronics-india-rejigs-leadership-to-drive-post-ipo-growth/articleshow/125618078.cms",
-            "category": "National",
-            "date": "2025-11-27T15:16:44Z"
-        },
-        {
-            "title": "Avaada Group to invest \u20b91 trillion over next 5 years",
-            "summary": "Integrated clean energy provider Avaada Group announced an ambitious five-year roadmap. This strategy aims to capitalize on emerging demand in new-age sectors, signaling substantial future investments. The group's focus on clean energy solutions aligns with national priorities for sustainable development and energy transition. This initiative positions Avaada Group to drive growth and innovation within India's evolving green economy.",
-            "url": "https://www.thehindubusinessline.com/companies/avaada-group-to-invest-1-trillion-over-next-5-years/article70331055.ece",
-            "category": "National",
-            "date": "2025-11-27T15:12:11Z"
-        },
-        {
-            "title": "New York Yankees Must Respond To Dylan Cease\u2019s $210 Million Contract",
-            "summary": "New York Yankees owner Hal Steinbrenner recently held a press conference during spring training in Tampa, Florida. He addressed significant changes to the Yankees' long-standing facial hair policy. This move represents a notable shift in team regulations regarding player appearance, sparking discussion among fans and the sports community about tradition versus modern player expression for the iconic baseball franchise.",
-            "url": "https://www.forbes.com/sites/waynemcdonnell/2025/11/27/new-york-yankees-must-respond-to-dylan-ceases-210-million-contract/",
-            "category": "National",
-            "date": "2025-11-27T15:00:37Z"
-        },
-        {
-            "title": "Zerodha invests $5 million in market intelligence firm Tijori Finance",
-            "summary": "Leading Indian brokerage platform Zerodha has invested $5 million (around Rs 45 crore) in Tijori Finance, a market intelligence startup. This strategic investment, following a prior partnership, underscores the robust growth in India's financial technology (fintech) and data analytics sectors. It aims to enhance market analysis capabilities, demonstrating increasing collaboration and capital infusion within the national startup ecosystem, crucial for economic development and technological advancement.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/zerodha-invests-5-million-in-market-intelligence-firm-tijori-finance/articleshow/125617590.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-27T14:50:41Z"
-        },
-        {
-            "title": "LG India announces leadership re-organisation after IPO",
-            "summary": "LG Electronics India announced a leadership re-organisation soon after its IPO in October. This strategic move aims to streamline its hierarchy, fostering more agile decision-making and strategic development within the company. This corporate restructuring reflects an ongoing trend among major firms to adapt to dynamic market conditions and enhance operational efficiency post-public listing in the Indian market.",
-            "url": "https://www.thehindubusinessline.com/companies/lg-india-announces-leadership-re-organisation-after-ipo/article70330659.ece",
-            "category": "National",
-            "date": "2025-11-27T14:30:38Z"
-        },
-        {
-            "title": "Success of Ops Sindoor a \u2018defining moment\u2019 in India\u2019s counter-terror strategy, says President Murmu",
-            "summary": "President Droupadi Murmu lauded Operation Sindoor as a pivotal success, marking a defining moment in India's counter-terror and deterrence strategy. She underscored its significance in shaping India's national security landscape, asserting that the world has acknowledged India's robust capabilities. The President highlighted how the operation has enhanced India's strategic posture and global standing, reinforcing its commitment to combating terrorism effectively.",
-            "url": "https://www.thehindubusinessline.com/news/success-of-ops-sindoor-a-defining-moment-in-indias-counter-terror-strategy-says-president-murmu/article70330931.ece",
-            "category": "Defence",
-            "date": "2025-11-27T13:54:14Z"
-        },
-        {
-            "title": "Here\u2019s why India is rushing to acquire more Russian missiles",
-            "summary": "A four-day India-Pakistan conflict in May, codenamed 'Operation Sindoor' by New Delhi, notably involved extensive use of missile systems by both nations. This engagement underscored the critical role of missile technology in contemporary warfare. Aspiring officers should note such conflicts demonstrate the need for robust defence capabilities and advanced strategic weapon systems for national security.",
-            "url": "https://www.rt.com/india/628511-india-acquire-russian-missiles-reasons/",
-            "category": "Defence",
-            "date": "2025-11-27T13:50:50Z"
-        },
-        {
-            "title": "Govt to set up 50,000 Atal Tinker Labs: PM",
-            "summary": "Prime Minister Narendra Modi announced plans to establish 50,000 more Atal Tinkering Labs nationwide. This initiative aims to significantly boost innovation and creativity among students, providing platforms to explore STEM concepts and develop problem-solving skills. It underscores the government's commitment to nurturing young talent, strengthening India's innovation ecosystem, and preparing students for future challenges.",
-            "url": "https://www.thehindubusinessline.com/info-tech/govt-to-set-up-50000-atal-tinker-labs-pm/article70330783.ece",
-            "category": "Sci & Tech",
-            "date": "2025-11-27T13:27:50Z"
-        },
-        {
-            "title": "Govt to open nuclear sector to private players: PM",
-            "summary": "Prime Minister Modi announced plans to open India's nuclear energy sector to private players. This major reform aims to significantly boost nuclear power generation, enhancing national energy security and driving economic growth. The move seeks to accelerate sustainable development, reduce reliance on fossil fuels, and position India as a leader in clean energy production, marking a strategic policy shift for national development.",
-            "url": "https://www.thehindubusinessline.com/economy/govt-to-set-up-50000-atal-tinker-labs-pm/article70330783.ece",
-            "category": "National",
-            "date": "2025-11-27T13:27:50Z"
-        },
-        {
-            "title": "Hearing Your Ears Pop",
-            "summary": "This article introduces a discussion around the title 'Will There Ever Be Another You,' a quote from a March 10, 1997, Time magazine cover. It involves Patricia Lockwood's protagonist, also a writer, suggesting a literary analysis or a review exploring themes related to the quotation and the character's narrative, likely within a cultural context.",
-            "url": "http://www.nybooks.com/articles/2025/12/18/will-there-ever-be-another-you-patricia-lockwood/",
-            "category": "National",
-            "date": "2025-11-27T13:00:00Z"
         }
     ]
 }
