@@ -1,313 +1,236 @@
 {
-    "last_updated": "2025-11-30T12:29:24.980311+00:00",
+    "last_updated": "2025-11-30T18:21:14.328886+00:00",
     "articles": [
         {
+            "title": "From Khel Mahakumbh 2010 to CWG 2030: Ahmedabad set for major infrastructure, sports, and real estate boom",
+            "summary": "Gujarat's Khel Mahakumbh, a major sports promotion initiative, was launched fifteen years ago on November 19, 2010, by then Chief Minister Narendra Modi. Designed to foster athletic talent across the state, the program has continued to be a significant event. A recent mention on November 26 this year hints at its ongoing impact and potential new developments within Gujarat's sporting landscape.",
+            "url": "https://economictimes.indiatimes.com/news/sports/from-khel-mahakumbh-2010-to-cwg-2030-ahmedabad-set-for-major-infrastructure-sports-and-real-estate-boom/articleshow/125661880.cms",
+            "category": "National",
+            "date": "2025-11-29T18:10:12Z"
+        },
+        {
+            "title": "Indian Military Rescues 8 Trapped in Pannala Floods",
+            "summary": "The Indian Navy successfully rescued eight individuals trapped by severe floods in the Pannala area today. Deploying two naval helicopters, this critical operation underscores the Indian armed forces' vital role in providing humanitarian assistance and disaster relief during national emergencies. Such rapid responses highlight the Navy's commitment to protecting citizens and contributing to national resilience beyond traditional defence roles.",
+            "url": "https://english.gossiplankanews.com/2025/11/indian-military-rescues-8-trapped-in.html",
+            "category": "Defence",
+            "date": "2025-11-29T17:25:20Z"
+        },
+        {
+            "title": "BSF strengthening drone warfare as aerial threats become central to modern conflicts",
+            "summary": "The BSF stresses that drone technology and aerial dimensions are now decisive elements of modern warfare, as seen in conflicts like Russia-Ukraine. This underscores the critical role of unmanned aerial systems in surveillance, targeting, and logistics. For SSB aspirants, understanding such technological shifts is vital for comprehending evolving defence strategies and India's national security preparedness.",
+            "url": "https://statetimes.in/bsf-strengthening-drone-warfare-as-aerial-threats-become-central-to-modern-conflicts/",
+            "category": "Defence",
+            "date": "2025-11-29T16:26:48Z"
+        },
+        {
+            "title": "A Conversation With Charles Todd on Writing History as Living Story (Killer Writers)",
+            "summary": "The article highlights a two-decade-long personal and professional relationship between the narrator and author Charles Todd. Their frequent interactions at various events led to extensive conversations centered on storytelling, historical narratives, and the intricate process of character development. This piece likely offers insight into literary craft or a tribute to a distinguished writer's influence.",
+            "url": "https://www.writersdigest.com/a-conversation-with-charles-todd-on-writing-history-as-living-story-killer-writers#article",
+            "category": "International",
+            "date": "2025-11-29T16:11:43Z"
+        },
+        {
+            "title": "New India-France Defense Deal: De-NATOizing Indo-Pacific?",
+            "summary": "The new India-France defense pact represents a strategic shift in the Indo-Pacific, emphasizing joint research and development for co-producing advanced munitions and technology. This collaboration strengthens India's indigenous defense capabilities and strategic autonomy. For SSB aspirants, it underscores India's deepening international partnerships and commitment to modernizing its armed forces, crucial for regional stability and self-reliance.",
+            "url": "https://www.globalresearch.ca/new-india-france-defense-deal/5907274",
+            "category": "Defence",
+            "date": "2025-11-29T16:11:36Z"
+        },
+        {
+            "title": "7 DC Characters The Movies Completely Wasted",
+            "summary": "The DC Universe is renowned for its iconic characters, adapted from DC Comics into various media. These figures possess significant global pop culture influence, celebrated for their enduring legacy. Their widespread recognition, transitioning from comic book pages to becoming some of pop culture's most iconic personalities, highlights their pervasive worldwide impact.",
+            "url": "http://comicbook.com/movies/list/7-dc-characters-the-movies-completely-wasted/",
+            "category": "International",
+            "date": "2025-11-29T16:00:00Z"
+        },
+        {
+            "title": "BSF strengthening drone warfare as aerial threats become central to modern conflicts",
+            "summary": "The Border Security Force (BSF) emphasized that drone technology and aerial dimensions are now decisive elements of modern warfare. Citing conflicts from Russia-Ukraine to the Middle East, the BSF highlighted the critical role of drones in contemporary battlespaces. For SSB aspirants, understanding this paradigm shift towards high-tech aerial platforms is crucial for comprehending evolving defence strategies and national security challenges.",
+            "url": "https://economictimes.indiatimes.com/news/defence/bsf-strengthening-drone-warfare-as-aerial-threats-become-central-to-modern-conflicts/articleshow/125659589.cms",
+            "category": "Defence",
+            "date": "2025-11-29T15:05:38Z"
+        },
+        {
+            "title": "Best Disney sci-fi movies (that aren't Star Wars, Marvel, or Pixar)",
+            "summary": "Disney, renowned for owning major sci-fi franchises like Star Wars, Marvel, and Pixar, also features numerous other science fiction productions. This article explores the House of Mouse's broader, often overlooked, sci-fi efforts beyond its flagship universes. It delves into these diverse films and series, highlighting their significant contribution to Disney's extensive footprint in the science fiction genre.",
+            "url": "https://www.space.com/entertainment/space-movies-shows/best-disney-sci-fi-movies-that-arent-big-franchises",
+            "category": "Sci & Tech",
+            "date": "2025-11-29T15:00:00Z"
+        },
+        {
+            "title": "Some amazing rumors began to circulate through Santa Fe, some thirty miles away",
+            "summary": "An old rumour circulated about a facility for pregnant WACs. This was linked to a project in Santa Fe, where Navy officers were assigned and frequently observed. The situation hints at military operations or personnel management efforts, possibly a discreet or misunderstood undertaking involving servicewomen, requiring officer presence in the region.",
+            "url": "https://www.isegoria.net/2025/11/some-amazing-rumors-began-to-circulate-through-santa-fe-some-thirty-miles-away/",
+            "category": "Defence",
+            "date": "2025-11-29T14:53:09Z"
+        },
+        {
+            "title": "F&O Strategy: Buy HAL call",
+            "summary": "Hindustan Aeronautics Ltd (HAL) stock is currently navigating a crucial trading phase, with analysts identifying key support levels at 4,451 and 4,332. A sustained drop below the latter could negatively impact its medium-term market outlook. Resistance is noted at 4,593. This analysis focuses on the technical aspects of HAL's share price, reflecting investor sentiment in a vital defence public sector undertaking.",
+            "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/fampo-strategy-buy-hal-call/article70337992.ece",
+            "category": "Defence",
+            "date": "2025-11-29T14:51:14Z"
+        },
+        {
+            "title": "Politics increasingly trumps economics in present era: S Jaishankar",
+            "summary": "External Affairs Minister S Jaishankar stated that politics now often outweighs economics, necessitating diversification of supply chains in an uncertain world. He emphasized global re-evaluation towards resilience, strategic autonomy, and self-reliance, highlighting geopolitical shifts. Jaishankar underscored India's growing role in a multipolar world, collaborating on critical technologies, and its aspiration for developed nation status by 2047 amidst these global changes.",
+            "url": "https://economictimes.indiatimes.com/news/india/politics-increasingly-trumps-economics-in-present-era-s-jaishankar/articleshow/125659111.cms",
+            "category": "International",
+            "date": "2025-11-29T14:20:42Z"
+        },
+        {
+            "title": "Pakistan army spokesperson criticises Indian Army chief Gen Upendra Dwivedi's remarks",
+            "summary": "Pakistan Army spokesman Lt Gen Ahmed Sharif Chaudhry criticized the Indian Army chief's statement calling 'Operation Sindoor' just a 'trailer.' Chaudhry's comments implied Pakistan's readiness and capabilities, indicating a strong rebuttal to India's assertion. This exchange highlights ongoing tensions and a war of words between the two nations' military leadership regarding past or potential operations.",
+            "url": "https://economictimes.indiatimes.com/news/defence/pakistan-army-spokesperson-criticises-indian-army-chief-gen-upendra-dwivedis-remarks/articleshow/125658892.cms",
+            "category": "Defence",
+            "date": "2025-11-29T13:59:43Z"
+        },
+        {
+            "title": "Catholic nuns in Wisconsin return land bought in 1966 to an Indigenous tribe",
+            "summary": "Franciscan nuns in Wisconsin have made a historic move by transferring their land to the Lac du Flambeau tribe. This marks a significant milestone, as it's believed to be the first 'land return' of its kind by a Catholic group in the United States. The transfer represents a step towards reconciliation and acknowledges the historical claims of indigenous communities within the nation.",
+            "url": "https://www.npr.org/2025/11/29/nx-s1-5615173/catholic-nuns-in-wisconsin-return-land-bought-in-1966-to-an-indigenous-tribe",
+            "category": "National",
+            "date": "2025-11-29T12:43:36Z"
+        },
+        {
             "title": "Pakistan Army\u2019s Strategic Posture: Why Our War Will Never End",
-            "summary": "A former General Officer Commanding Kargil Sector recounts experiences on the 13620 ridge overlooking the LoC in December 2012. This likely offers critical insights into border management, operational challenges, and strategic understanding of the Indo-Pakistani frontier. Such first-hand accounts are invaluable for SSB aspirants to grasp the ground realities of military leadership and defence preparedness along sensitive borders.",
+            "summary": "A former General Officer Commanding the Kargil Sector recounts his 2012 experience on a strategic 13620 ridge overlooking the Line of Control with Pakistan. This provides an officer's firsthand perspective on the immense challenges, strategic importance, and operational realities of guarding India's border in high-altitude, hostile terrain. It underscores the constant vigilance required from armed forces personnel.",
             "url": "https://www.fairobserver.com/world-news/pakistan-armys-strategic-posture-why-our-war-will-never-end/",
             "category": "Defence",
             "date": "2025-11-29T12:26:37Z"
         },
         {
             "title": "Yankees Have New All-Star Trade Target to Counter Blue Jays",
-            "summary": "The Toronto Blue Jays secured pitcher Dylan Cease on a seven-year, $210 million free agency contract, a move closely watched by the New York Yankees. The substantial deal has sparked discussions about its value, with some questioning if it's an overpay given Cease's recent 4.55 ERA, adding intrigue to the baseball offseason.",
+            "summary": "The Toronto Blue Jays have reportedly signed pitcher Dylan Cease to a substantial seven-year, $210 million free-agent contract, a move closely watched by the New York Yankees. The deal's financial implications are under scrutiny, with questions arising about its potential overvalue given Cease's recent 4.55 ERA.",
             "url": "https://roundtable.io/yankees/news/yankees-have-new-all-star-trade-target-to-counter-blue-jays",
             "category": "International",
             "date": "2025-11-29T12:00:04Z"
         },
         {
             "title": "'Untold story' of Charlie Munger's last years",
-            "summary": "The annual meeting of Berkshire Hathaway, featuring key figure Charlie Munger, took place in Los Angeles, California, on May 1, 2021. This significant financial event, drawing interest from global investors, is comprehensively covered and analyzed in the Warren Buffett Watch newsletter, providing insights into the conglomerate's strategies and discussions.",
+            "summary": "Charlie Munger attended Berkshire Hathaway's annual shareholder meeting in Los Angeles, California, on May 1, 2021. This significant event for the financial world is a key focus for the Warren Buffett Watch newsletter. The publication provides in-depth news and analysis concerning all operations and strategies led by Warren Buffett and Berkshire Hathaway, covering insights from their crucial yearly gathering.",
             "url": "https://www.cnbc.com/2025/11/29/untold-story-of-charlie-mungers-last-years.html",
-            "category": "International",
+            "category": "National",
             "date": "2025-11-29T11:56:04Z"
         },
         {
             "title": "Best Dyson Black Friday Deals (2025): Gen5 Detect, Airstrait",
-            "summary": "The article highlights the current period as the prime time for purchasing new home appliances, specifically focusing on Dyson's Black Friday deals. It aims to guide consumers toward the best discounts on popular Dyson products, such as vacuum cleaners and hair styling tools. This serves as a useful resource for finding optimal prices on desired gadgets during the seasonal sales event.",
+            "summary": "The article focuses on current Black Friday deals for Dyson products, particularly highlighting offers on vacuum cleaners and hair styling tools. It emphasizes that this period is ideal for purchasing these consumer electronics at discounted rates, guiding readers to find the best gadgets and deals available from Dyson.",
             "url": "https://www.wired.com/story/dyson-black-friday-deals/",
             "category": "Sci & Tech",
             "date": "2025-11-29T11:02:00Z"
         },
         {
             "title": "Andaman to get India's first coral reef research centre",
-            "summary": "The Indian government is establishing the National Coral Reef Research Institute (NCRRI) in the Andaman and Nicobar Islands, with an allocation of \u20b9120 crore. This significant initiative aims to conduct comprehensive research and conservation efforts for vital coral reef ecosystems. Its establishment underscores India's commitment to marine biodiversity protection, scientific advancement in environmental studies, and sustainable development, crucial for national ecological security.",
+            "summary": "The government plans to establish the National Coral Reef Research Institute (NCRRI) in the Andaman and Nicobar Islands, costing \u20b9120 crore. This institute will conduct crucial research, conservation, and restoration efforts for coral reefs. Its establishment is a significant national step towards protecting marine biodiversity and bolstering India's scientific expertise in environmental conservation, vital for ecological balance.",
             "url": "https://www.thehindubusinessline.com/news/national/andaman-to-get-indias-first-coral-reef-research-centre/article70338234.ece",
             "category": "Sci & Tech",
             "date": "2025-11-29T10:34:01Z"
         },
         {
             "title": "Andaman to get India's first coral reef research centre",
-            "summary": "The Indian government is establishing the National Coral Reef Research Institute (NCRRI) in the Andaman and Nicobar Islands. Priced at \u20b9120 crore, this institute aims to conduct vital research on coral reefs, crucial for marine biodiversity and ecological balance. This initiative underscores India's commitment to environmental conservation and scientific advancement, important for understanding national natural assets.",
+            "summary": "The Indian government is establishing the National Coral Reef Research Institute (NCRRI) in the Andaman and Nicobar Islands at a cost of Rs 120 crore. This institute will focus on comprehensive research into coral reefs, crucial marine ecosystems. Its establishment underscores India's commitment to marine biodiversity conservation and understanding climate change impacts, enhancing national scientific capabilities.",
             "url": "https://economictimes.indiatimes.com/news/science/andaman-to-get-indias-first-coral-reef-research-centre/articleshow/125655898.cms",
-            "category": "National",
+            "category": "Sci & Tech",
             "date": "2025-11-29T10:33:58Z"
         },
         {
             "title": "India in 2047 will be superpower: Ex-ISRO chief Somnath",
-            "summary": "Former ISRO Chairman S. Somnath predicts India will achieve superpower status by 2047, primarily driven by advancements in space technology and manufacturing. He envisions India becoming a significant global supplier in these critical sectors, leveraging its technological prowess for economic growth and leadership. Somnath emphasized this vision during a recent inauguration, highlighting the nation's immense potential.",
+            "summary": "Former ISRO Chairman S. Somnath projected India's emergence as a global 'superpower' by 2047. He emphasized that space technology and manufacturing would be pivotal, positioning India as a significant supplier to the world. Somnath highlighted the nation's growing capabilities and ambition to lead in these advanced sectors, contributing significantly to its economic and technological dominance.",
             "url": "https://economictimes.indiatimes.com/news/india/india-in-2047-will-be-superpower-ex-isro-chief-somnath/articleshow/125655582.cms",
             "category": "Sci & Tech",
             "date": "2025-11-29T10:11:48Z"
         },
         {
             "title": "PH, Indian naval, air units hold 2nd joint maritime drill in WPS",
-            "summary": "Naval and air units from the Philippines and India conducted their second bilateral maritime cooperative activity off Manila. This joint exercise aims to deepen defense cooperation and enhance interoperability between the two nations' armed forces. Such strategic partnerships are crucial for strengthening regional maritime security and stability, particularly in the Indo-Pacific.",
+            "summary": "Naval and air units from the Philippines and India recently conducted their second bilateral maritime cooperative activity near Manila. This exercise significantly strengthens defence cooperation and enhances interoperability between their forces. Such joint drills are crucial for reinforcing maritime security in the Indo-Pacific region and fostering stronger strategic partnerships, which is vital for regional stability and mutual defence capabilities.",
             "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251128-pna02.htm",
             "category": "Defence",
             "date": "2025-11-29T09:49:51Z"
         },
         {
             "title": "US urged to lift illegal unilateral sanctions on Venezuela, contribute more to peace, stability and devt in LAC: Chinese FM",
-            "summary": "Venezuela's Foreign Ministry strongly rejected a US plan, labeling it 'ridiculous.' The core issue revolves around a proposed US designation, whose specifics are not detailed. This diplomatic spat highlights persistent tensions between the two nations, indicating a clear breakdown in diplomatic efforts over a contentious issue and underscoring complex international relations dynamics.",
+            "summary": "Venezuela's Foreign Ministry has publicly rejected a US plan, deeming it \"ridiculous.\" The brief article snippet indicates the US plan involves a specific designation, though further details are not provided due to truncation. This highlights a point of contention and ongoing diplomatic friction between Venezuela and the United States, an important development for understanding international relations.",
             "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251128-globaltimes01.htm",
             "category": "International",
             "date": "2025-11-29T09:49:30Z"
         },
         {
-            "title": "MoD inks Letters of Offer & Acceptance with US for sustainment support of Indian Navy's fleet of MH60R helicopters through Follow on Support and Follow on Supply Support worth approx Rs 7,995 crore",
-            "summary": "India's Ministry of Defence has signed Letters of Offer and Acceptance (LOAs) with a foreign government, likely the United States, on November 28, 2025. These LOAs signify formal agreements for the acquisition of defence equipment or services, crucial for enhancing India's military capabilities and fostering international defence cooperation. Such strategic procurements are vital for modernizing the armed forces.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251128-india-pib02.htm",
-            "category": "Defence",
-            "date": "2025-11-29T09:42:12Z"
-        },
-        {
-            "title": "INS VIKRANT AND INS UDAYGIRI PARTICIPATE IN SRI LANKA NAVY INTERNATIONAL FLEET REVIEW 2025 AT COLOMBO",
-            "summary": "India's first indigenous aircraft carrier, INS Vikrant, is operating alongside an indigenously built frigate. This highlights India's significant strides in naval self-reliance and defence manufacturing capabilities. Such indigenous development of major warships like Vikrant and frigates strengthens the Indian Navy's operational readiness and maritime security presence, crucial for national defence.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251128-india-pib03.htm",
-            "category": "Defence",
-            "date": "2025-11-29T09:41:21Z"
-        },
-        {
-            "title": "High-Stakes Underwater Drone Fight Underway : Seabed Cable Defense Systems",
-            "summary": "Autonomous submarine drones are creating a new strategic frontier beneath the ocean, surpassing traditional manned submarines. This emerging technology fundamentally reshapes underwater defence balances and naval capabilities. For SSB aspirants, comprehending these advancements in unmanned underwater vehicles (UUVs) is crucial, as they represent a paradigm shift in modern naval warfare, reconnaissance, and future defence doctrines.",
-            "url": "https://www.geeky-gadgets.com/herne-autonomous-sub-drone-seabed-cable-defense/",
-            "category": "Defence",
-            "date": "2025-11-29T09:00:20Z"
-        },
-        {
-            "title": "Ship's Cats by Nancy J. Farrier",
-            "summary": "The article begins with author Nancy J. Farrier expressing her delight upon discovering a story about a cat aboard a naval vessel. This personal anecdote likely sets the stage to explore the unique roles and presence of animals within military maritime environments, a topic that could touch upon companionship, morale, or even operational aspects in the defence sector.",
-            "url": "https://www.hhhistory.com/2025/11/ships-cats-by-nancy-j-farrier.html",
-            "category": "Defence",
-            "date": "2025-11-29T07:30:00Z"
-        },
-        {
-            "title": "Minnesota Wild Makes History with First-ever Ojibwe-language NHL Broadcast",
-            "summary": "On November 28, a landmark National Hockey League (NHL) game between the Minnesota Wild and Colorado Avalanche became the first ever broadcast entirely in the Ojibwe language. This historic initiative highlights significant efforts towards indigenous language preservation and cultural inclusivity. It marks a notable step in promoting native heritage within mainstream national sports and media, fostering diversity.",
-            "url": "https://nativenewsonline.net/sovereignty/minnesota-wild-makes-history-with-first-ever-ojibwe-language-nhl-broadcast",
-            "category": "National",
-            "date": "2025-11-29T07:17:28Z"
-        },
-        {
-            "title": "What\u2019s needed for India to become a leader in PCB manufacturing",
-            "summary": "India's Production Linked Incentive (PLI) scheme alone is deemed insufficient to bolster domestic Printed Circuit Board (PCB) manufacturing. With almost 88% of India's PCB demand currently met through imports, a more comprehensive strategy beyond PLI is essential. This is crucial for achieving self-reliance in this vital electronics component, enhancing national economic resilience, and strengthening strategic independence.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/whats-needed-for-india-to-become-a-leader-in-pcb-manufacturing/articleshow/125652744.cms",
-            "category": "National",
-            "date": "2025-11-29T06:46:34Z"
-        },
-        {
-            "title": "India has become a voice of balance & responsibility in the current global environment; Indo-Pacific & Global South nations view India as a reliable partner: Raksha Mantri at Chanakya Defence Dialogue",
-            "summary": "The Ministry of Defence highlights the pivotal role of India's Armed Forces, describing them as a \"driving force.\" They enable India to effectively navigate and address various challenges within its neighbourhood while concurrently making significant contributions to regional stability. The article, likely from the Press Information Bureau, elaborates on their strategic importance and operational capabilities.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251128-india-pib04.htm",
-            "category": "Defence",
-            "date": "2025-11-29T06:34:55Z"
-        },
-        {
-            "title": "CHANAKYA DEFENCE DIALOGUE 2025 CONCLUDES",
-            "summary": "The Ministry of Defence hosted the Chanakya Defence Dialogue, emphasizing \"Reform to Transform\" for a Strong, Secure, and Developed India. This crucial event likely involved strategic discussions on modernizing India's defence capabilities, enhancing national security, and fostering a resilient military ecosystem. It underscores the government's commitment to strengthening India's strategic autonomy and regional leadership through comprehensive reforms.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251128-india-pib05.htm",
-            "category": "Defence",
-            "date": "2025-11-29T06:34:01Z"
-        },
-        {
-            "title": "COMMANDERS' CONFERENCE -2025 WESTERN AIR COMMAND",
-            "summary": "The Ministry of Defence announced a two-day Commanders' Conference of the Western Air Command (WAC) held on November 28, 2025. This critical meeting brought together senior air force commanders to deliberate on strategic operational readiness, review current capabilities, and chart future development plans for India's air defence in the western sector. The conference focused on a specific theme, underscoring efforts to enhance combat effectiveness and command efficiency.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251128-india-pib01.htm",
-            "category": "Defence",
-            "date": "2025-11-29T06:33:50Z"
-        },
-        {
-            "title": "Indian Air Force delivers 21 tonnes of relief material to Sri Lanka reeling from floods, landslides",
-            "summary": "The Indian Air Force (IAF) delivered 21 tonnes of relief material, over 80 NDRF personnel, and equipment to flood-affected Sri Lanka. This humanitarian aid demonstrates India's commitment to regional disaster relief and showcases the IAF's rapid response and logistical prowess. The operation highlights crucial inter-agency coordination in supporting neighboring nations during crises, reflecting India's proactive role in regional stability.",
-            "url": "https://economictimes.indiatimes.com/news/india/indian-air-force-delivers-21-tonnes-of-relief-material-to-sri-lanka-reeling-from-floods-landslides/articleshow/125652558.cms",
-            "category": "International",
-            "date": "2025-11-29T06:32:54Z"
-        },
-        {
-            "title": "Indian Air Force Delivers 21 Tonnes Of Relief Material To Sri Lanka Reeling From Floods, Landslides",
-            "summary": "The Indian Air Force delivered 21 tonnes of relief material and over 80 NDRF personnel along with eight tonnes of equipment to Sri Lanka. This humanitarian aid aims to assist those displaced by devastating floods. This effort underscores India's commitment to regional cooperation and its role as a first responder in disaster relief within its neighbourhood, showcasing India's soft power and operational capabilities.",
-            "url": "https://www.ndtvprofit.com/world/indian-air-force-delivers-21-tonnes-of-relief-material-to-sri-lanka-reeling-from-floods-landslides",
-            "category": "Defence",
-            "date": "2025-11-29T06:14:40Z"
-        },
-        {
-            "title": "Indian Rescue Forces Land on Island with Tons of Aid (Photos)",
-            "summary": "An Indian rescue forces battalion arrived at Sri Lanka's Bandaranaike International Airport today aboard a special Indian Air Force Ilyushin-76 cargo aircraft. This deployment highlights India's proactive approach to regional cooperation and its capacity to provide rapid humanitarian aid or engage in joint operations, reinforcing its commitment to supporting neighboring nations.",
-            "url": "https://english.gossiplankanews.com/2025/11/indian-rescue-forces-land-on-island.html",
-            "category": "International",
-            "date": "2025-11-29T05:55:22Z"
-        },
-        {
             "title": "Venezuela's Maduro has his own Jill Biden and a coven of communist hags surrounding him",
-            "summary": "The provided text challenges the \"leftist trope\" suggesting that women rulers inherently guarantee global peace. It argues this notion is disproven by current global realities, specifically citing the government in Venezuela as an example of leadership causing ruin. The article intends to demonstrate that the simplistic link between gender and peaceful governance is flawed, using Venezuela's situation to refute this popular political idea.",
+            "summary": "This article critiques the political leadership in Venezuela, challenging idealistic views about governance and peace. It asserts that the current rulers are \"ruining\" the nation, implying significant mismanagement and instability. The piece serves as a commentary on real-world political outcomes, contrasting them with theoretical notions of leadership, thereby highlighting the challenges faced by Venezuela under its present government.",
             "url": "https://www.americanthinker.com/blog/2025/11/venezuela_s_maduro_has_his_own_jill_biden_and_a_coven_of_communist_hags_surrounding_him.html",
             "category": "International",
             "date": "2025-11-29T05:00:00Z"
         },
         {
             "title": "Navy will play a decisive role in securing India's destiny, says CDS General Anil Chauhan",
-            "summary": "Chief of Defence Staff General Anil Chauhan addressed newly inducted Naval officers at the Indian Naval Academy, Ezhimala. He emphasized the Indian Navy's crucial strategic positioning, equipping them for future maritime challenges. This significant event underscored the continuous professional development within the armed forces and the importance of preparing for evolving security landscapes, vital for national defence.",
+            "summary": "Chief of Defence Staff General Anil Chauhan addressed newly inducted Naval officers at their passing out parade from the Indian Naval Academy, Ezhimala. He highlighted the Indian Navy's strategic positioning and critical role in safeguarding national interests. This emphasizes the continuous modernization and operational readiness crucial for India's maritime security, a key area for SSB aspirants to understand.",
             "url": "https://economictimes.indiatimes.com/news/defence/navy-will-play-a-decisive-role-in-securing-indias-destiny-says-cds-general-anil-chauhan/articleshow/125651299.cms",
             "category": "Defence",
             "date": "2025-11-29T04:59:06Z"
         },
         {
             "title": "Lili Reinhart Reveals She Feels 'Suicidal' The Week Before Her Period Due to PMDD",
-            "summary": "Lili Reinhart, the 29-year-old star known for her role in 'Hal & Harper,' recently opened up about her mental health journey. She shared candid details during an appearance on Tuesday's episode of the 'Reclaiming with Monica Lewinsky' podcast. Reinhart's discussion focused on her personal experiences, offering insights into her struggles and resilience, aiming to normalize conversations around mental well-being.",
+            "summary": "Actress Lili Reinhart, known for 'Hal & Harper', recently opened up about her mental health journey. The 29-year-old appeared on Tuesday's episode of the 'Reclaiming with Monica Lewinsky' podcast, where she candidly shared her experiences. While specific details were not fully provided in this excerpt, the discussion highlights her commitment to addressing personal well-being publicly, offering insights into her current state.",
             "url": "https://www.justjared.com/2025/11/28/lili-reinhart-reveals-she-feels-suicidal-the-week-before-her-period-due-to-pmdd/",
             "category": "National",
             "date": "2025-11-29T04:23:23Z"
         },
         {
             "title": "NISAR satellite deploys 12-metre diameter antenna, enters science phase",
-            "summary": "The NASA-ISRO Synthetic Aperture Radar (NISAR) satellite, launched on July 30, has successfully deployed its 12-meter diameter antenna reflector and officially entered its science phase. This significant collaborative mission between NASA and ISRO, launched aboard GSLV-F16, will use advanced radar technology for Earth observation. It is set to provide crucial data on ecosystems, ice sheets, and natural hazards, marking a major step in global environmental monitoring and space technology.",
+            "summary": "The NASA-ISRO Synthetic Aperture Radar (NISAR) satellite, launched by GSLV-F16 on July 30, has successfully deployed its 12-meter antenna and entered its crucial science phase. This significant collaborative mission between India and the US will provide high-resolution data for Earth observation, climate change studies, and disaster monitoring, highlighting advancements in space technology and international scientific cooperation.",
             "url": "https://www.thehindubusinessline.com/news/science/nisar-satellite-deploys-12-metre-diameter-antenna-enters-science-phase/article70337515.ece",
             "category": "Sci & Tech",
             "date": "2025-11-29T04:21:22Z"
         },
         {
             "title": "India\u2019s blockbuster 8.2% Q2 GDP growth beats expectations. But is it enough to lift the markets?",
-            "summary": "India continues to be the fastest-growing major economy globally, driven by resilient domestic demand and moderating inflation. High labour force participation, reaching a six-month peak, further bolstered this growth, outpacing global peers. This economic performance highlights India's strength and positive trajectory amid diverse global economic conditions.",
+            "summary": "India has emerged as the fastest-growing major economy globally, outpacing its peers. This robust economic performance is driven by resilient domestic demand, moderating inflation trends, and a significant six-month high in labour force participation. This indicates strong internal economic health and positions India favorably on the international economic landscape, showcasing its potential for sustained growth.",
             "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-blockbuster-8-2-q2-gdp-growth-beats-expectations-but-is-it-enough-to-lift-the-markets/articleshow/125650707.cms",
             "category": "National",
             "date": "2025-11-29T04:04:01Z"
         },
         {
             "title": "Operation Sagar Bandhu: India dispatches 12 tonnes of humanitarian aid to Colombo",
-            "summary": "India expanded its humanitarian aid to Sri Lanka, dispatching an Indian Air Force C-130J aircraft with nearly 12 tonnes of relief material to Colombo. This mission continues India's ongoing assistance, strengthening bilateral ties and showcasing India's commitment to regional stability and disaster relief efforts, utilizing its strategic airlift capabilities effectively under the 'Neighbourhood First' policy.",
+            "summary": "India expanded its humanitarian outreach to Sri Lanka, deploying an Indian Air Force C-130J aircraft to Colombo with nearly 12 tonnes of relief material. This continued assistance, likely under 'Operation DOSI', underscores India's 'Neighbourhood First' policy and highlights the IAF's crucial role in regional disaster relief operations, strengthening bilateral ties and demonstrating India's commitment to regional stability.",
             "url": "https://economictimes.indiatimes.com/news/india/operation-sagar-bandhu-india-dispatches-12-tonnes-of-humanitarian-aid-to-colombo/articleshow/125650521.cms",
             "category": "International",
             "date": "2025-11-29T03:38:53Z"
         },
         {
             "title": "December 2025 Calendar: Check Full List Of National, International Days And Events",
-            "summary": "The article offers a brief overview of December 2025, highlighting its role as the final month of the year, comprising 31 days. It notes the upcoming arrival of holidays and a designated period for reflection on the past year. This foundational calendar information marks the conclusion of the annual cycle, setting the stage for year-end activities and planning.",
+            "summary": "The article discusses December 2025, highlighting its role as the final month of the year. It emphasizes that December brings holidays and serves as a crucial period for reflection on the preceding year's events. The month, consisting of 31 days, officially concludes the calendar year, marking a significant transition point for contemplation and celebration before the new year commences.",
             "url": "https://www.ndtvprofit.com/trending/december-2025-calendar-check-full-list-of-national-international-days-and-events",
             "category": "National",
             "date": "2025-11-29T02:48:55Z"
         },
         {
             "title": "On This Date in 1944: Hal Newhouser Starts His Trek Towards the Hall of Fame as the Tigers Dominate Starting Pitching",
-            "summary": "In 1944, the American League MVP vote witnessed a rare contest between two Detroit Tigers teammates for the top honour. Hal Newhouser ultimately secured the prestigious award by a narrow four-vote margin over his fellow Tiger. This unique historical event in baseball highlights an unusual internal team rivalry at the pinnacle of individual achievement within a national sports league. Such close contests are infrequent.",
+            "summary": "The article recounts a rare event from 1944 American League MVP voting where two Detroit Tigers, Hal Newhouser and Dizzy Trout, competed for the top spot. Newhouser ultimately secured the prestigious award by a slim four-vote margin over his teammate. This historical baseball highlight showcases intense rivalry even within the same team for individual honours in a major sports league.",
             "url": "https://roundtable.io/tigers/news/on-this-date-in-1944-hal-newhouser-starts-his-trek-towards-the-hall-of-fame-as-the-tigers-dominate-starting-pitching",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-29T01:18:08Z"
         },
         {
             "title": "Russia-Ukraine war: List of key events, day 1,374",
-            "summary": "Russian drones launched strikes on Saturday, November 29, targeting six locations across Kyiv's city centre and eastern suburbs. The attacks resulted in four injuries. This incident highlights the persistent conflict and ongoing hostilities, demonstrating the continued use of aerial assaults in the region. SSB aspirants should note the strategic implications of drone warfare and urban defence.",
+            "summary": "Russian drones conducted an early Saturday attack on Kyiv, striking six locations in the city's centre and eastern suburbs. This hostile action resulted in four people being injured, underscoring the persistent conflict and its impact on civilian areas. The November 29 drone strike signifies ongoing military engagement and challenges for regional stability.",
             "url": "https://www.aljazeera.com/news/2025/11/29/russia-ukraine-war-list-of-key-events-day-1374",
-            "category": "Defence",
+            "category": "International",
             "date": "2025-11-29T01:14:01Z"
         },
         {
             "title": "Parkston's Oakley, Burke's Hausmann named to Class B volleyball all-state team",
-            "summary": "Mitchell-area athletes Keeara Oakley (Parkston) and Emmie Hausmann (Burke) were selected as Class B all-state second-team volleyball performers in South Dakota. This recognition underscores their athletic prowess and dedication within the state's competitive high school sports. Such achievements highlight the value of sportsmanship, perseverance, and skill development, qualities crucial for aspiring individuals in any field, including those eyeing a career in the armed forces.",
+            "summary": "Mitchell-area athletes Keeara Oakley (Parkston) and Emmie Hausmann (Burke) were recently recognized as Class B all-state second-team performers by the South Dakota Volleyball Coaches Association. This selection highlights their exceptional skills and dedication within high school volleyball. Such achievements underscore the importance of teamwork and perseverance, valuable traits applicable to any field, including service in the armed forces.",
             "url": "https://www.mitchellrepublic.com/sports/prep/parkstons-oakley-burkes-hausmann-named-to-class-b-volleyball-all-state-team",
             "category": "National",
             "date": "2025-11-29T00:48:00Z"
         },
         {
             "title": "Yankees fans react as reliever Nick Burdi heads to the Mets",
-            "summary": "Yankees fans are reportedly restless early in winter, driven by ongoing speculation and mixed signals from team ownership. Every minor update becomes a significant talking point among supporters, indicating strong engagement and concern regarding team developments. Further details are needed for a comprehensive analysis of the full article's content.",
+            "summary": "Yankees fans are reportedly restless early this winter, amidst rampant speculation and mixed signals from the team's ownership. Every small update has become a major talking point among supporters. This scenario underscores the constant scrutiny and passion surrounding major sports franchises, as fans eagerly await clarity on team direction and potential player movements from the management.",
             "url": "https://www.marca.com/en/mlb/new-york-yankees/2025/11/29/692a425f22601d8d798b45de.html",
-            "category": "National",
+            "category": "International",
             "date": "2025-11-29T00:47:23Z"
-        },
-        {
-            "title": "No question of privatising SCL, says Vaishnaw",
-            "summary": "India's Semi-Conductor Laboratory (SCL) in Mohali, the nation's sole public sector semiconductor facility, is undergoing a major transformation. It is being developed into a crucial hub to boost India's domestic chip-making capabilities. This strategic initiative underscores India's ambition to achieve self-reliance in semiconductor technology, reducing dependency on imports and securing a firm foundation for future national tech advancements.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/no-question-of-privatising-scl-says-vaishnaw/articleshow/125644022.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-29T00:30:00Z"
-        },
-        {
-            "title": "Ocean driven retreat of the Northeast Greenland Ice Stream following the Last Glacial Maximum",
-            "summary": "The article references the Intergovernmental Panel on Climate Change (IPCC)'s 2021 Sixth Assessment Report, 'The Physical Science Basis.' This crucial international scientific assessment details the latest understanding of climate change, covering its physical causes and projected global impacts. It serves as a foundational resource for environmental policy and strategic planning worldwide.",
-            "url": "https://www.nature.com/articles/s41467-025-66671-2",
-            "category": "Sci & Tech",
-            "date": "2025-11-29T00:00:00Z"
-        },
-        {
-            "title": "Measuring the magnetic fields in the chromospheres of low-mass stars",
-            "summary": "The provided text references academic research concerning stellar model chromospheres and advanced spectroscopic diagnostics. It highlights studies on understanding the outer atmospheres of stars and analyzing their properties, including the dynamics of chromospheric Alfv\u00e9nic waves. This scientific work contributes to a deeper understanding of astrophysical phenomena and the fundamental physics governing celestial bodies.",
-            "url": "https://www.nature.com/articles/s41467-025-66624-9",
-            "category": "Sci & Tech",
-            "date": "2025-11-29T00:00:00Z"
-        },
-        {
-            "title": "Ukrainian forces fighting in Kupiansk, despite Russian claims, top commander says",
-            "summary": "Ukrainian forces are actively defending their positions and engaging Russian sabotage groups in the strategically vital northeastern city of Kupiansk. This refutes Moscow's claims of full control. Their actions highlight persistent intense fighting and contested territories, showcasing the dynamic nature of the conflict and the ongoing struggle for key regions in the ongoing war.",
-            "url": "https://www.thestar.com.my/news/world/2025/11/29/ukrainian-forces-fighting-in-kupiansk-despite-russian-claims-top-commander-says",
-            "category": "International",
-            "date": "2025-11-28T22:47:00Z"
-        },
-        {
-            "title": "Horrible Histories S11E12 1080p WEB-DL H264-P147YPU5",
-            "summary": "Season 11, Episode 12 describes Rattus and his siblings engaging in an enormous sewer pillow fight. This humorous conflict forms the basis for a special battle-themed show, packed with fight-filled highlights. The content focuses on a fictional entertainment program, detailing whimsical skirmishes and show segments rather than actual news events or strategic developments.",
-            "url": "https://post.rlsbb.to/horrible-histories-s11e12-1080p-web-dl-h264-p147ypu5/",
-            "category": "Defence",
-            "date": "2025-11-28T21:43:05Z"
-        },
-        {
-            "title": "10 Best DC Supervillains of the 1960s, Ranked",
-            "summary": "DC Comics' Silver Age in the 1960s was dominated by fantastical science fiction. Stories featuring alien planets, time travel, and multiverses were incredibly popular, defining the decade's creative output. This era showcased a peak in imaginative, speculative narratives within the comic book industry, reflecting public fascination with scientific concepts.",
-            "url": "http://comicbook.com/comics/list/10-best-dc-supervillains-of-the-1960s-ranked/",
-            "category": "Sci & Tech",
-            "date": "2025-11-28T21:00:00Z"
-        },
-        {
-            "title": "More detail, even more questions for Google's data hub on Christmas Island",
-            "summary": "A new submarine cable system is connecting one of Australia's most remote territories. Rising 5,000 metres from the deep sea floor, this single hose-like cable transmits diverse information, from critical business transactions to personal communications like love letters. This advanced infrastructure significantly improves digital connectivity and economic activity for the isolated region, bridging geographical divides through technology.",
-            "url": "https://www.abc.net.au/news/2025-11-29/google-data-centre-stokes-uncertainty-on-christmas-island/105984092",
-            "category": "Sci & Tech",
-            "date": "2025-11-28T20:40:17Z"
-        },
-        {
-            "title": "The Classic 1970s Action Movie That Took On Star Wars at the Box Office (& Originally Won)",
-            "summary": "The article emphasizes the critical role of strategic 'box office game' for modern film studios, deeming it as vital as movie quality. Studios meticulously plan project releases and positioning well in advance to secure commercial success, a strategy exemplified by Warner Bros. This reflects a competitive industry demanding astute market analysis and foresight to mitigate financial risks and maximize global audience engagement.",
-            "url": "http://comicbook.com/movies/feature/the-classic-1970s-action-movie-that-took-on-star-wars-at-the-box-office-originally-won/",
-            "category": "International",
-            "date": "2025-11-28T19:30:00Z"
-        },
-        {
-            "title": "Yankees predicted to sign $460 million four-time All-Star, World Series champ to counter Blue Jays' Dylan Cease deal",
-            "summary": "The New York Yankees are predicted to sign a $460 million four-time All-Star and World Series champion. This high-profile acquisition is aimed at countering the Blue Jays' recent deal involving Dylan Cease, intensifying competition within the league's national framework.",
-            "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/yankees-predicted-sign-460-million-four-time-all-star-world-series-champ-counter-blue-jays-dylan-cease-deal/baa917b1ad83e8c200707190",
-            "category": "National",
-            "date": "2025-11-28T19:15:03Z"
-        },
-        {
-            "title": "SRM Contractors bags second consecutive ET Infra Award; honored for strategic Leh Tunnel Project",
-            "summary": "SRM Contractors Limited secured the prestigious ET Infra Leadership Award 2025 for \"Excellence in Border/Remote/Hilly Region Infrastructure.\" This recognition underscores their pivotal contribution to developing crucial infrastructure in challenging terrains. Such projects are vital for national security, enhancing connectivity, facilitating military logistics, and improving accessibility in strategic border areas, directly supporting India's defence capabilities and regional development.",
-            "url": "https://statetimes.in/srm-contractors-bags-second-consecutive-et-infra-award-honored-for-strategic-leh-tunnel-project/",
-            "category": "Defence",
-            "date": "2025-11-28T18:54:47Z"
-        },
-        {
-            "title": "Stocks Settle Higher as Chip Makers and Energy Producers Rally",
-            "summary": "Major US stock indices, including the S&P 500, Dow Jones Industrials, and Nasdaq 100, concluded Friday's trading session with positive gains. The S&P 500 rose by 0.54%, the Dow Jones by 0.61%, and the Nasdaq 100 saw the strongest increase at 0.78%. This indicates a generally positive close for key US financial markets.",
-            "url": "https://www.barchart.com/story/news/36361590/stocks-settle-higher-as-chip-makers-and-energy-producers-rally",
-            "category": "International",
-            "date": "2025-11-28T18:40:34Z"
-        },
-        {
-            "title": "This Autonomous Submarine Is At The Center Of Naval Warfare's Biggest Change In Decades",
-            "summary": "The article discusses advanced unmanned underwater vessels (UUVs) like Boeing's Orca XLUUV and Northrop Grumman's Manta Ray. These autonomous platforms are engineered for long-duration, crewless undersea missions, marking a significant leap in maritime defence capabilities. Such UUVs offer strategic advantages for future naval operations, including reconnaissance and surveillance, by providing enhanced endurance and stealth without human intervention.",
-            "url": "https://www.bgr.com/2032753/autonomous-submarine-torpedo-sonar-systems/",
-            "category": "Defence",
-            "date": "2025-11-28T18:17:00Z"
         }
     ]
 }
