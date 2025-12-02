@@ -1,173 +1,341 @@
 {
-    "last_updated": "2025-12-02T12:35:11.684351+00:00",
+    "last_updated": "2025-12-02T18:26:24.574115+00:00",
     "articles": [
         {
+            "title": "69 launchpads along LoC, about 120 ultras ready to cross: BSF IG",
+            "summary": "BSF Inspector General Ashok Yadav (Kashmir Frontier) reported approximately 69 active launchpads across the Line of Control, with 100-120 infiltrators ready to cross into India. This significant threat underscores persistent attempts at cross-border infiltration into Kashmir. The BSF remains highly vigilant, actively monitoring and preparing to counter these security challenges along the border, emphasizing continuous efforts to maintain national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/69-launchpads-along-loc-about-120-ultras-ready-to-cross-bsf-ig/articleshow/125701392.cms",
+            "category": "Defence",
+            "date": "2025-12-01T18:24:27Z"
+        },
+        {
+            "title": "The Mets want to get rid of Kodai Senga but are holding out for Tyler Rogers",
+            "summary": "A New York baseball team faces a critical decision in the winter market, evaluating the future of pitcher Kodai Senga. Simultaneously, the team aims to strengthen its bullpen, potentially without player Ty. This involves complex roster management and strategic planning for the upcoming season, highlighting challenges in sports team development and player acquisition decisions within a national league.",
+            "url": "https://www.marca.com/en/mlb/new-york-mets/2025/12/01/692ddc4de2704ea6268b45c2.html",
+            "category": "National",
+            "date": "2025-12-01T18:24:19Z"
+        },
+        {
+            "title": "White House gives Maduro ultimatum...",
+            "summary": "The US is reportedly preparing for potential land attacks within Venezuela amidst escalating tensions. A crucial phone call occurred between the White House and Caracas, intended to de-escalate the crisis. During the call, a direct and unequivocal message was delivered to Venezuelan leader Nicol\u00e1s Maduro, underscoring the seriousness of the situation and the US stance on the ongoing conflict.",
+            "url": "https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article313261442.html",
+            "category": "International",
+            "date": "2025-12-01T18:00:11Z"
+        },
+        {
+            "title": "serialcables-hydra added to PyPI",
+            "summary": "A comprehensive Python library has been developed to control and monitor Serial Cables PCIe Gen6 HYDRA JBOF (Just a Bunch Of Flash/FPGAs) systems. Specifically designed for their 8-Bay Passive enclosures, this new software tool allows for detailed management and oversight of these high-performance storage or compute units. It facilitates advanced technological applications requiring precise control over cutting-edge hardware interfaces.",
+            "url": "https://pypi.org/project/serialcables-hydra/",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T17:55:36Z"
+        },
+        {
+            "title": "Twenty experts on the book that got them through their 20s \u2013 part one",
+            "summary": "This article explores the intense and complex nature of one's 20s, drawing on Taylor Swift's description of this decade as \"happy, free, confused and lonely.\" It highlights how many individuals turn to literature for guidance, seeking clarity and understanding during these formative years to navigate life's challenges and personal growth.",
+            "url": "https://theconversation.com/twenty-experts-on-the-book-that-got-them-through-their-20s-part-one-268542",
+            "category": "National",
+            "date": "2025-12-01T17:33:31Z"
+        },
+        {
+            "title": "India moves to procure more Heron MK-II drones post Operation Sindoor",
+            "summary": "India has initiated the emergency procurement of additional Israeli Heron MK-II drones. This decision, triggered by \"Operation Sindoor,\" aims to significantly boost India's surveillance and reconnaissance capabilities. The advanced drones will enhance long-endurance intelligence gathering along borders and strategic areas, bolstering the nation's defence readiness and operational effectiveness for future challenges.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-moves-to-procure-more-heron-mk-ii-drones-post-operation-sindoor/articleshow/125699745.cms",
+            "category": "Defence",
+            "date": "2025-12-01T17:22:39Z"
+        },
+        {
+            "title": "Eight terrorists slain, 5 pushed back as forces foiled every infiltration bid across LoC this year: BSF IG",
+            "summary": "Indian security forces have successfully prevented all terrorist infiltration attempts across the Line of Control into Kashmir this year. No infiltrators managed to cross, demonstrating enhanced vigilance and robust counter-infiltration grids. Eight infiltrators were neutralized, and five others were pushed back, highlighting the effectiveness of military operations in safeguarding national security in the region.",
+            "url": "https://statetimes.in/eight-terrorists-slain-5-pushed-back-as-forces-foiled-every-infiltration-bid-across-loc-this-year-bsf-ig/",
+            "category": "Defence",
+            "date": "2025-12-01T17:05:30Z"
+        },
+        {
+            "title": "Sorry Sunday: Cowboys got zero help, Week 14 playoff picture review of upcoming schedules",
+            "summary": "The article draws a parallel between the determined mindset of Marvel Cinematic Universe villains like Thanos and the anticipated introduction of Robert Downey Doom, and the Dallas Cowboys' approach as they returned to work. It uses this popular culture analogy to describe the sentiment and operational readiness within the professional sports team.",
+            "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/12/01/cowboys-got-zero-help-wk-14-playoff-picture-upcoming-nfc-schedules/87543302007/",
+            "category": "National",
+            "date": "2025-12-01T16:28:08Z"
+        },
+        {
+            "title": "US Navy \u2018Doomsday Plane\u2019 Vanishes Over The Atlantic Ocean During Mysterious Secret Mission",
+            "summary": "A United States Navy Boeing E-6B Mercury aircraft, also known as a 'doomsday plane' critical for strategic command and control, mysteriously vanished from radar over the Atlantic Ocean on Friday. This rare incident involving a high-security asset designed to relay emergency orders has prompted investigations, though such disappearances are often attributed to technical glitches or transponder issues. Its sensitivity highlights the importance of strategic communication reliability.",
+            "url": "https://brobible.com/culture/article/navy-doomsday-plane-vanishes-atlantic-mission/",
+            "category": "Defence",
+            "date": "2025-12-01T16:20:35Z"
+        },
+        {
+            "title": "Bombay High Court quashes life term in BrahMos\u2019 Nishant Agarwal espionage case",
+            "summary": "The Nagpur Bench of the Bombay High Court has overturned the life sentence awarded to former BrahMos Aerospace senior scientist Nishant Agarwal. He has been cleared of major espionage charges, marking a significant legal development. This decision potentially paves the way for his freedom after previously being accused of spying and facing a severe punishment related to national security.",
+            "url": "https://indianexpress.com/article/legal-news/bombay-hc-life-term-brahmos-nishant-agarwal-espionage-case-10396582/",
+            "category": "Defence",
+            "date": "2025-12-01T16:14:08Z"
+        },
+        {
+            "title": "Q2 FY26 FDI equity inflows up 20.5% on year",
+            "summary": "India experienced a robust 20.5% year-on-year increase in Foreign Direct Investment (FDI) equity inflows, reaching $16.4 billion in July-September this fiscal. DPIIT data highlights growing international investor confidence in India's economy. This economic strength is vital for national development and indirectly supports defense capabilities, making it a key insight for SSB aspirants.",
+            "url": "https://economictimes.indiatimes.com/news/economy/indicators/q2-fy26-fdi-equity-inflows-up-20-5-on-year/articleshow/125698531.cms",
+            "category": "National",
+            "date": "2025-12-01T16:04:33Z"
+        },
+        {
+            "title": "\u2018Hal & Harper\u2019s\u2019 Cooper Raiff Is the King of Coming of Age in Your 20s",
+            "summary": "Writer-director Cooper Raiff, currently in his twenties, has carved out a unique niche in his burgeoning film career by focusing on the relatable struggles of young adulthood. His two feature films prominently explore the challenges and complexities inherent in navigating one's twenties, a premise that has quickly established his distinctive voice and gained him recognition in the cinematic world.",
+            "url": "https://www.thewrap.com/hal-and-harper-cooper-raiff-coming-of-age/",
+            "category": "International",
+            "date": "2025-12-01T16:00:00Z"
+        },
+        {
+            "title": "Why the looming salary cap battle is nothing new for MLB: A history of baseball's CBA negotiations",
+            "summary": "This article employs a unique narrative concept, introducing a metaphorical 'time machine' within American sports media. It aims to propel readers approximately a year forward, offering insights or predictions on future developments in American sports. This creative device, despite acknowledged imperfections, frames a discussion on upcoming trends and events in the national sports landscape.",
+            "url": "https://www.cbssports.com/mlb/news/mlb-salary-cap-history-cba-players-union/",
+            "category": "National",
+            "date": "2025-12-01T15:50:17Z"
+        },
+        {
+            "title": "Cyber Monday Brings $300 off a PCMag Award-Winning Dyson Stick Vacuum",
+            "summary": "Cyber Monday presents the best opportunity to acquire Dyson's premium products, such as high-end vacuum cleaners and air purifiers, at their absolute lowest prices. This annual shopping event offers substantial discounts on advanced consumer technology, making it an opportune moment for individuals planning to invest in sophisticated home appliances.",
+            "url": "https://uk.pcmag.com/cyber-monday/161726/cyber-monday-brings-300-off-a-pcmag-award-winning-dyson-stick-vacuum",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T15:42:37Z"
+        },
+        {
+            "title": "Daily Career Horoscope, December 3, 2025: Sudden job shifts are coming, these zodiac signs should stay ready",
+            "summary": "This article promotes utilizing 'celestial guidance' through personalized horoscopes to enhance daily career and financial prospects. It suggests that tailored insights can boost productivity, encourage wise financial management, and help individuals identify and seize opportunities for professional and monetary advancement. The focus is on harnessing astrological advice for personal growth and prosperity.",
+            "url": "https://timesofindia.indiatimes.com/astrology/horoscope/daily-career-horoscope-december-3-2025-sudden-job-shifts-are-coming-these-zodiac-signs-should-stay-ready/articleshow/125697806.cms",
+            "category": "National",
+            "date": "2025-12-01T15:42:02Z"
+        },
+        {
+            "title": "Cyclone Ditwah: PM Modi holds calls Sri Lankan Prez Dissanayake, condoles loss of lives",
+            "summary": "Prime Minister Narendra Modi engaged in a telephone conversation with Sri Lankan President Anura Kumara Dissanayake, extending India's heartfelt condolences for the recent loss of lives and widespread devastation in Sri Lanka. This diplomatic gesture highlights India's commitment to regional solidarity and humanitarian support for its neighbours, reinforcing strong bilateral ties crucial for regional stability.",
+            "url": "https://economictimes.indiatimes.com/news/india/cyclone-ditwah-pm-modi-holds-calls-sri-lankan-prez-dissanayake-condoles-loss-of-lives/articleshow/125697855.cms",
+            "category": "International",
+            "date": "2025-12-01T15:26:49Z"
+        },
+        {
+            "title": "Shock in Cameroon as 74-year-old opposition firebrand dies in detention",
+            "summary": "Cameroonian opposition figure Anicet Ekane, 74, has died in detention five weeks after his arrest. A prominent left-wing leader, his death was announced by his lawyers and party, sparking concerns about human rights and political detentions in Cameroon. This incident highlights issues related to dissent and governance in African nations.",
+            "url": "https://www.bbc.com/news/articles/ckg9204y4w5o",
+            "category": "International",
+            "date": "2025-12-01T15:24:06Z"
+        },
+        {
+            "title": "As Trump takes the US Education Department apart, where do Harvard\u2019s federal investigations go next?",
+            "summary": "Harvard University faces ongoing federal investigations, a situation made complex by the Trump administration's moves to dismantle parts of the US Education Department. This development raises crucial questions about the future of these inquiries and their potential implications for one of America's most prestigious educational institutions, highlighting the interplay between government policy and academic autonomy.",
+            "url": "https://timesofindia.indiatimes.com/education/news/as-trump-takes-the-us-education-department-apart-where-do-harvards-federal-investigations-go-next/articleshow/125697424.cms",
+            "category": "National",
+            "date": "2025-12-01T15:21:31Z"
+        },
+        {
+            "title": "JAWS and the 2026 Hall of Fame Ballot: F\u00e9lix Hern\u00e1ndez",
+            "summary": "This article presents Jay Jaffe's ongoing analysis of candidates for the Baseball Writers' Association of America (BBWAA) 2026 Hall of Fame ballot. It serves as an introductory overview to this year's selection process, spotlighting individuals vying for baseball's prestigious recognition. This series aims to offer detailed insights into the prospective inductees under consideration.",
+            "url": "https://blogs.fangraphs.com/jaws-and-the-2026-hall-of-fame-ballot-felix-hernandez/",
+            "category": "National",
+            "date": "2025-12-01T15:15:42Z"
+        },
+        {
+            "title": "How Venezuela\u2019s Maduro became Washington\u2019s most persistent hemispheric adversary",
+            "summary": "Thousands of Venezuelans are protesting the 2024 reelection of President Nicol\u00e1s Maduro, signaling significant domestic political unrest. This widespread dissent within Venezuela against the incumbent leadership highlights ongoing challenges to democratic processes and political stability. The involvement of the US Secretary of War suggests potential international scrutiny or ramifications, making it a notable development in global politics for SSB aspirants to monitor.",
+            "url": "https://www.longwarjournal.org/archives/2025/12/how-venezuelas-maduro-became-washingtons-most-persistent-hemispheric-adversary.php",
+            "category": "International",
+            "date": "2025-12-01T15:12:19Z"
+        },
+        {
+            "title": "Battle: Los Angeles \u2013 The Story Behind the 2011 Alien Invasion Film",
+            "summary": "An episode titled 'What Happened to This Horror Movie' by Jaime Vasquez critically examines the film 'Battle: Los Angeles'. This analysis places the extraterrestrial thriller alongside other science fiction films like '2012' and 'The Day the Earth Stood Still', exploring themes common to such genre works. It discusses cinematic approaches to alien invasion scenarios and their portrayal.",
+            "url": "https://www.joblo.com/battle-los-angeles-wtf/",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T15:03:00Z"
+        },
+        {
+            "title": "(PR) Giga Computing to Establish Server Manufacturing Hub in India, Partnering with Syrma SGS",
+            "summary": "Giga Computing, a GIGABYTE subsidiary excelling in high-performance computing and data center solutions, announced a strategic partnership with Syrma SGS Technology Limited. This alliance aims to leverage their combined expertise, fostering innovation in computing infrastructure. For SSB aspirants, understanding such industry collaborations highlights the continuous advancement and growth within the vital Sci & Tech sector.",
+            "url": "https://www.techpowerup.com/343504/giga-computing-to-establish-server-manufacturing-hub-in-india-partnering-with-syrma-sgs",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T14:58:13Z"
+        },
+        {
+            "title": "Should Cole Hamels be in the Baseball Hall of Fame? Making the case for the 2026 ballot newcomer",
+            "summary": "The 2026 Baseball Hall of Fame ballot is described as relatively weak, with expectations of only a handful of players achieving induction. The article delves into trends observed over the last 15 voting cycles, highlighting the evolving selection process and challenges faced by voters. This event signifies a crucial moment in baseball's history, reflecting on player legacies and future enshrining into the prestigious Hall.",
+            "url": "https://www.cbssports.com/mlb/news/cole-hamels-baseball-hall-of-fame-ballot-cooperstown-phillies-rangers/",
+            "category": "International",
+            "date": "2025-12-01T14:38:46Z"
+        },
+        {
+            "title": "James Gunn Offers Updates on CLAYFACE, MAN OF TOMORROW, and More DCU Projects",
+            "summary": "DC Studios co-CEO James Gunn recently provided fans with an update on the company's future slate, sharing behind-the-scenes details on Threads. He offered insights into how the upcoming DC films and series are taking shape, outlining the studio's ambitious plans for its cinematic universe. This update gives an early glimpse into the creative direction and anticipated projects currently under development.",
+            "url": "https://geektyrant.com/news/james-gunn-offers-updates-on-clayface-man-of-tomorrow-and-more-dcu-projects",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T14:28:00Z"
+        },
+        {
+            "title": "The Best Game Boy Games Of All Time",
+            "summary": "GameSpot's financial model indicates revenue generation through affiliate partnerships and advertising. The platform earns income when sharing content and from purchases made via embedded links. This common digital strategy helps sustain operations by monetizing user engagement with products and services promoted on the site. It highlights the business mechanics of online content platforms.",
+            "url": "https://www.gamespot.com/gallery/the-best-game-boy-games-of-all-time/2900-3950/",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T14:11:00Z"
+        },
+        {
+            "title": "Germany\u2019s Merz, Pistorius to skip unveiling of Israel air defence purchase",
+            "summary": "Germany is set to formally unveil its newly procured Israeli-made Arrow 3 missile defence system. This advanced long-range interceptor system significantly enhances Germany's capabilities against ballistic missiles, providing a crucial layer of protection. The acquisition underscores Germany's commitment to strengthening its air defence infrastructure amidst evolving regional threats, marking a key step in modernizing its military capabilities.",
+            "url": "https://www.euractiv.com/news/germanys-merz-pistorius-to-skip-unveiling-of-israel-air-defence-purchase/",
+            "category": "Defence",
+            "date": "2025-12-01T14:07:24Z"
+        },
+        {
+            "title": "The Best Movies of 2025",
+            "summary": "Critics from Vulture are finalizing their annual top-ten lists to identify the best movies of 2025. This tradition involves critics like Bilge Ebiri evaluating cinematic releases to compile definitive rankings, influencing public discourse on significant film achievements and contributing to cultural commentary and entertainment industry trends.",
+            "url": "http://www.vulture.com/article/best-movies-2025-new-films.html",
+            "category": "National",
+            "date": "2025-12-01T14:00:00Z"
+        },
+        {
+            "title": "DRDO sanctioned 148 new R&D projects in last three years: Govt in Rajya Sabha",
+            "summary": "The DRDO has sanctioned 148 new research and development projects over the last three years, as informed to Parliament by the Minister of State for Defence. This initiative highlights India's strong focus on strengthening indigenous defence capabilities and achieving self-reliance in critical technologies, crucial for national security. For SSB aspirants, it underscores the nation's commitment to defence innovation.",
+            "url": "https://economictimes.indiatimes.com/news/defence/drdo-sanctioned-148-new-rd-projects-in-last-three-years-govt-in-rajya-sabha/articleshow/125696090.cms",
+            "category": "Defence",
+            "date": "2025-12-01T13:38:20Z"
+        },
+        {
+            "title": "Precore Gold Presenting at Precious Metals & Critical Minerals Virtual Investor Conference December 3rd",
+            "summary": "The article announces that the Precore Executive Chairman will be available for meetings from December 3rd to December 9th. While the complete details regarding the purpose or specific agenda of these engagements are reserved for subscribers, the snippet indicates a scheduled period for focused interactions involving the company's top executive within a Canadian context, as implied by the wider content availability.",
+            "url": "https://financialpost.com/globe-newswire/precore-gold-presenting-at-precious-metals-critical-minerals-virtual-investor-conference-december-3rd",
+            "category": "National",
+            "date": "2025-12-01T13:36:34Z"
+        },
+        {
+            "title": "\u2018Hal & Harper\u2019 Creator Cooper Raiff Says Lili Reinhart Was \u201cThe Very First Person\u201d He Thought Of to Play Harper",
+            "summary": "Filmmaker Cooper Raiff revealed a unique personal connection to his project \"Hal & Harper,\" where he always envisioned himself as one of the titular siblings. He stated this level of personal identification was unprecedented compared to any other work he had written, highlighting a distinct creative process for this particular show.",
+            "url": "https://decider.com/2025/12/01/hal-and-harper-cooper-raiff-lili-reinhart-interview/",
+            "category": "National",
+            "date": "2025-12-01T13:30:00Z"
+        },
+        {
+            "title": "Indian Air Force evacuates 57 stranded people in Sri Lanka amid Cyclone Ditwah",
+            "summary": "The Indian Air Force (IAF) successfully evacuated 57 stranded persons and delivered 2.5 tons of rations in Sri Lanka using its IFC 1875 helicopter. This humanitarian operation, coordinated by the Indian High Commission, underscores India's robust Humanitarian Assistance and Disaster Relief (HADR) capabilities and its commitment to regional stability. It exemplifies the IAF's rapid deployment and vital role in international aid.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-air-force-evacuates-57-stranded-people-in-sri-lanka-amid-cyclone-ditwah/articleshow/125695619.cms",
+            "category": "Defence",
+            "date": "2025-12-01T13:06:58Z"
+        },
+        {
+            "title": "City Advent Calendar - Day 1",
+            "summary": "The article notes that LEGO City Advent Calendars historically followed a highly formulaic design, often featuring limited new elements and largely repetitive models each year. This predictable approach meant little innovation or variation for consumers, maintaining a consistent pattern in their annual offerings over time.",
+            "url": "https://brickset.com/article/126254/city-advent-calendar-day-1",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T13:00:00Z"
+        },
+        {
+            "title": "Fancamp Announces Spin-Out of Mineral Exploration Assets and Creation of Goldera Exploration",
+            "summary": "Fancamp Exploration Ltd., a Canadian firm listed on the TSX Venture Exchange, made a corporate announcement from Vancouver, British Columbia, dated December 1, 2025. The news concerns a decision by its Board of Directors, indicating developments in internal governance or strategic direction for the company. While specific details are truncated, it signifies ongoing corporate activity within the exploration sector.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/01/3196946/0/en/Fancamp-Announces-Spin-Out-of-Mineral-Exploration-Assets-and-Creation-of-Goldera-Exploration.html",
+            "category": "National",
+            "date": "2025-12-01T13:00:00Z"
+        },
+        {
+            "title": "Horoscope Tomorrow, December 3, 2025: Unexpected money flow, these zodiac signs will gain financial comfort",
+            "summary": "This article provides tomorrow's horoscope, outlining universal plans and offering specific guidance for each zodiac sign. It covers key areas like relationships, potential career changes, and personal introspection, urging individuals to trust their instincts for navigating daily decisions and challenges. While this is a common feature in many publications, SSB aspirants should prioritize factual current affairs for their preparation.",
+            "url": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-tomorrow-december-3-2025-unexpected-money-flow-these-zodiac-signs-will-gain-financial-comfort/articleshow/125689099.cms",
+            "category": "National",
+            "date": "2025-12-01T12:54:01Z"
+        },
+        {
+            "title": "Bharat Dynamics Secures Orders Worth Over Rs 2,400 Crore From Indian Army",
+            "summary": "Bharat Dynamics Ltd. (BDL), a defence public sector undertaking, has secured significant additional orders worth Rs 2,462 crore from the Indian Army. This development, reported via an exchange filing, underscores the continuous efforts to bolster India's indigenous defence manufacturing capabilities and strengthen the armed forces. Such procurements are crucial for modernizing equipment and ensuring national security preparedness.",
+            "url": "https://www.ndtvprofit.com/markets/bharat-dynamics-secures-orders-worth-over-rs-2400-crore-from-indian-army",
+            "category": "Defence",
+            "date": "2025-12-01T12:52:19Z"
+        },
+        {
+            "title": "5 Things People Often Get Wrong About the Arctic",
+            "summary": "This article clarifies the common confusion between the Arctic and Antarctica, highlighting that their shared attributes are limited to being cold and icy. It precisely defines the Arctic as a distinct polar region located at Earth's top, uniquely characterized by the Arctic Ocean. Understanding such fundamental geographical distinctions is crucial for an SSB aspirant to grasp global environmental systems and strategic contexts.",
+            "url": "https://www.mentalfloss.com/geography/arctic-misconceptions-debunked",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T12:49:00Z"
+        },
+        {
+            "title": "The Three Cards Game: Three Versions of the Ukraine Peace Plan: Trump\u2019s 28-Point, The EU-24 Point and Trump\u2019s Reworked 19- Points",
+            "summary": "Multiple peace plans for Ukraine are under consideration, reflecting international efforts to resolve the conflict. Former US President Trump presented a 28-point plan, while the European Union introduced a modified 24-point version. These diverse proposals highlight the diplomatic complexities and differing approaches to achieving lasting peace, crucial for understanding global geopolitical dynamics.",
+            "url": "https://www.globalresearch.ca/three-cards-game/5907331",
+            "category": "International",
+            "date": "2025-12-01T12:41:03Z"
+        },
+        {
             "title": "Will there be baseball in 2027? Is a salary cap coming? What you need to know about MLB's looming labor battle\ufeff",
-            "summary": "Major League Baseball faces potential disruption as its current labor agreement expires on December 1, 2026. Owners and players are preparing for critical negotiations to avoid a potential lockout or strike. The upcoming discussions are crucial for the league's future stability, highlighting the complexities of labor relations within major professional sports and their national economic implications.",
+            "summary": "Major League Baseball (MLB) faces significant labor challenges with its collective bargaining agreement (CBA) expiring on December 1, 2026. Owners and players must negotiate a new deal to avoid potential lockouts or strikes. Failure to reach an accord could severely disrupt the league's operations and future, impacting professional baseball in the United States.",
             "url": "https://www.espn.com/mlb/story/_/id/47108752/mlb-labor-battle-cba-salary-cap-owners-players-union-mlbpa-faq-manfred",
             "category": "National",
             "date": "2025-12-01T12:28:36Z"
         },
         {
             "title": "Sri Lanka's Deputy Minister for Tourism thanks India for aid amid Ditwah havoc",
-            "summary": "Sri Lanka's Deputy Minister for Tourism, Ruwan Ranasinghe, expressed gratitude to India and its National Disaster Response Force (NDRF) for their crucial disaster response operations. This appreciation, conveyed via the High Commission of India in Sri Lanka, underscores India's commitment to regional humanitarian assistance and strengthens bilateral ties. The gesture highlights effective cross-border cooperation in times of emergencies, reinforcing India's role as a reliable partner in disaster management.",
+            "summary": "Sri Lanka's Deputy Minister for Tourism, Ruwan Ranasinghe, thanked India and its National Disaster Response Force (NDRF) for their effective disaster response operations. This gratitude, conveyed through the Indian High Commission, underscores India's crucial role in regional humanitarian aid and strengthens bilateral ties. It showcases India's commitment to supporting neighboring nations during crises, highlighting collaborative relief efforts.",
             "url": "https://economictimes.indiatimes.com/news/international/world-news/sri-lankas-dy-min-for-tourism-thanks-india-for-aid-amid-ditwah-havoc/articleshow/125694334.cms",
             "category": "International",
             "date": "2025-12-01T12:06:47Z"
         },
         {
             "title": "Patiyalkad mourns its \u2018Nammo\u2019: The quiet fighter pilot who rose from a hillside village to the Tejas cockpit",
-            "summary": "Wing Commander Namansh Syal, an Indian Air Force officer and son of a former Army man, has recently gained prominence in his hometown of Patiyalkad. While previously known simply as 'Nammo,' a significant event occurring nine days ago has likely brought his contributions or actions into the public spotlight, highlighting his service to the nation.",
+            "summary": "Wing Commander Namansh Syal, known as 'Nammo' to residents of Patiyalkad, was a soft-spoken individual and son of a former Army man. Recently, Syal, an IAF officer, gained significant recognition for his actions, underscoring the quiet dedication and profound impact of military personnel in service. This news reflects the values upheld by the armed forces.",
             "url": "https://indianexpress.com/article/india/nammo-quiet-fighter-pilot-who-rose-hillside-village-tejas-cockpit-10396114/",
             "category": "Defence",
             "date": "2025-12-01T12:04:11Z"
         },
         {
             "title": "Patiyalkad mourns its \u2018Nammo\u2019: The quiet fighter pilot who rose from a hillside village to the Tejas cockpit",
-            "summary": "Wing Commander Namansh Syal, son of an ex-Army man and known locally as Nammo, was until recently primarily recognized within his community. A significant event, occurring nine days ago, likely brought his professional accomplishments as a Wing Commander into national focus. This underscores the dedication and public recognition often gained by service personnel through critical operations, inspiring SSB aspirants.",
+            "summary": "Wing Commander Namansh Syal, previously known as 'Nammo' in Patiyalkad, the unassuming son of an ex-Army principal, has recently garnered significant attention. A notable event within the last nine days, likely related to his defence service, has brought his distinguished role as a Wing Commander into public focus, significantly changing how local residents perceive him.",
             "url": "https://indianexpress.com/article/cities/chandigarh/nammo-quiet-fighter-pilot-who-rose-hillside-village-tejas-cockpit-10396114/",
             "category": "Defence",
             "date": "2025-12-01T12:04:11Z"
         },
         {
+            "title": "Chandrayaan-3 successfully undertakes lunar flybys",
+            "summary": "ISRO's Chandrayaan-3 mission, launched in July 2023, is back in the news for successfully performing lunar flybys on November 6 and five days later. This highlights India's continuous advancements in space exploration, building on the mission's earlier historic lunar landing. Such milestones underscore the nation's growing scientific and technological prowess.",
+            "url": "https://www.thespacereview.com/article/5109/1",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T11:56:00Z"
+        },
+        {
             "title": "British and Indian Army conclude eighth exercise, Ajeya Warrior",
-            "summary": "The British Army's A Company, 2nd Battalion Royal Gurkha Rifles, and the Indian Army's 21st Sikh Regiment are engaged in complex joint training. This significant exercise is being conducted at the Mahajan Field Firing Ranges in Rajasthan, emphasizing enhanced interoperability and bilateral cooperation. Such combined drills are crucial for strengthening defence ties and operational readiness between India and the UK.",
+            "summary": "The British Army's A Company, 2nd Battalion Royal Gurkha Rifles, and the Indian Army's 21st Sikh Regiment are currently conducting complex joint training exercises. This significant bilateral defence collaboration is taking place at the Mahajan Field Firing Ranges in Rajasthan, enhancing interoperability and tactical skills between the two allied forces.",
             "url": "https://www.gov.uk/government/news/british-and-indian-army-conclude-eighth-exercise-ajeya-warrior",
             "category": "Defence",
             "date": "2025-12-01T11:50:00Z"
         },
         {
             "title": "$1.5 trillion lithium deposit found in U.S. supervolcano crater \u2014 site could supply batteries for decades",
-            "summary": "Scientists believe the McDermitt Caldera, located on the Nevada-Oregon border, might contain the world's largest lithium deposit. Formed by a collapsed magma chamber, this discovery is crucial as lithium is vital for electric vehicle batteries and various advanced technologies. This potential domestic source could significantly enhance national mineral security, reduce reliance on imports, and support the future growth of green energy and tech industries.",
+            "summary": "Scientists have identified the McDermitt Caldera, located on the Nevada-Oregon border, as potentially holding the world's largest lithium deposit. This massive crater, formed by a collapsed magma chamber, represents a significant find that could have profound implications for global energy demands and the rapidly expanding electric vehicle industry, underscoring the critical role of geological research.",
             "url": "https://www.tomshardware.com/tech-industry/manufacturing/usd1-5-trillion-lithium-deposit-found-in-u-s-supervolcano-crater-site-could-supply-batteries-for-decades",
             "category": "Sci & Tech",
             "date": "2025-12-01T11:48:05Z"
         },
         {
             "title": "What I Read in November 2025",
-            "summary": "Despite a busy schedule due to work like \"gift guide season\" and \"cyber week,\" an individual successfully read six books this month. Highlights included a book titled \"Conform.\" This accomplishment subtly underscores the importance of consistent personal development and time management, valuable qualities for SSB aspirants balancing various commitments and intellectual growth.",
+            "summary": "Despite a demanding month focused on work like gift guide season and cyber week, one individual successfully read six books. The highlights included 'Conform,' a new book. This personal account reflects the challenge and satisfaction of maintaining reading habits amidst a busy professional schedule, offering insight into personal productivity and literary pursuits.",
             "url": "https://thestripe.com/what-i-read-in-november-2025/",
             "category": "National",
             "date": "2025-12-01T11:00:00Z"
         },
         {
             "title": "Jim Carter Appointed Director General Commercial and Industry",
-            "summary": "Jim, who previously served as Commercial Director for the Submarine Delivery Agency since 2020, is currently serving as interim Director General. He possesses extensive public and private sector experience, which is expected to be valuable in this key role within the agency. Further information regarding the specifics of his ongoing tenure or permanent appointment is anticipated.",
+            "summary": "Jim, who previously served as Commercial Director for the Submarine Delivery Agency since 2020, has been acting as interim Director General. He brings a wealth of public and private sector experience to this key role. His background in defence procurement suggests a focus on strategic delivery and management within this crucial agency, likely overseeing critical projects.",
             "url": "https://www.gov.uk/government/news/jim-carter-appointed-director-general-commercial-and-industry",
             "category": "Defence",
             "date": "2025-12-01T10:48:12Z"
         },
         {
             "title": "Eight terrorists slain, 5 pushed back as forces foiled every infiltration bid across LoC this year: BSF IG",
-            "summary": "Indian security forces have reported no successful terrorist infiltration into Kashmir across the Line of Control (LoC) during the current year. This significant achievement underscores effective border management, with troops successfully eliminating eight infiltrators and repelling five others. This robust performance demonstrates enhanced operational readiness and proactive counter-infiltration strategies, ensuring regional stability and national security.",
+            "summary": "Indian security forces successfully prevented all terrorist infiltration into Kashmir across the Line of Control (LoC) this year. Despite attempts, no successful infiltrations occurred. Security forces neutralized eight infiltrators and pushed back five others, demonstrating robust vigilance. This highlights India's effective counter-infiltration grid, crucial for national defence and regional security.",
             "url": "https://economictimes.indiatimes.com/news/defence/eight-terrorists-slain-5-pushed-back-as-forces-foiled-every-infiltration-bid-across-loc-this-year-bsf-ig/articleshow/125691961.cms",
             "category": "Defence",
             "date": "2025-12-01T10:28:34Z"
         },
         {
             "title": "Focus on niche areas: Vice Chief of Air Staff to private firms in defence sector",
-            "summary": "Vice Chief of Air Staff Air Marshal Narmdeshwar Tiwari advised private defence industries to focus on their core strengths and niche areas. This strategic guidance aims to bolster India's indigenous defence manufacturing capabilities and promote self-reliance. By concentrating on specialized domains, the nation can optimize resource utilization and accelerate technological advancements within the crucial defence sector, aligning with national strategic objectives for a stronger defence ecosystem.",
+            "summary": "Vice Chief of Air Staff Air Marshal Narmdeshwar Tiwari advised private defence industries to focus on their unique strengths and niche areas. This strategic direction aims to bolster indigenous manufacturing, reduce reliance on imports, and achieve greater self-sufficiency in critical defence technologies, vital for India's national security and 'Make in India' objectives.",
             "url": "https://economictimes.indiatimes.com/news/defence/focus-on-niche-areas-vice-chief-of-air-staff-to-private-firms-in-defence-sector/articleshow/125691927.cms",
             "category": "Defence",
             "date": "2025-12-01T10:27:11Z"
-        },
-        {
-            "title": "Ukraine in focus as Orpo hosts Swedish PM, H\u00e4kk\u00e4nen visits US",
-            "summary": "Swedish Prime Minister Ulf Kristersson is on a two-day visit to Finland, meeting his Finnish counterpart, Petteri Orpo. Their discussions will likely focus on strengthening bilateral ties, regional security, and cooperation within the evolving European landscape, including their recent NATO memberships/applications. This visit underscores the deepening strategic partnership between the Nordic nations.",
-            "url": "https://yle.fi/a/74-20197107",
-            "category": "International",
-            "date": "2025-12-01T10:00:24Z"
-        },
-        {
-            "title": "Ato Forson warns against audit infractions at Defence Ministry",
-            "summary": "The Acting Minister of Defence has charged members of the newly inaugurated Internal Audit Committee of the Ministry of Defence (MoD) with protecting public funds. This directive emphasizes the crucial role of internal auditing in ensuring financial accountability and transparency within the defence sector. For SSB aspirants, this highlights the importance of robust oversight mechanisms to prevent misuse of resources and enhance efficiency in national defence operations.",
-            "url": "https://thechronicle.com.gh/ato-forson-warns-against-audit-infractions-at-defence-ministry/",
-            "category": "Defence",
-            "date": "2025-12-01T07:38:22Z"
-        },
-        {
-            "title": "PH, Japan hold 3rd maritime drill in WPS",
-            "summary": "Filipino and Japanese naval and air units successfully concluded their third bilateral Maritime Cooperative Activity (MCA). These joint exercises aim to enhance interoperability, strengthen defense capabilities, and foster closer security ties between the two nations. Such cooperative activities are crucial for regional stability, particularly given shared maritime security interests in the Indo-Pacific and South China Sea.",
-            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251130-pna01.htm",
-            "category": "Defence",
-            "date": "2025-12-01T07:25:03Z"
-        },
-        {
-            "title": "Top 10: Aircraft that were overshadowed",
-            "summary": "This article highlights 10 superb, yet often overlooked, aircraft from aviation history. Despite being overshadowed by more famous designs, these planes made significant contributions and showcased remarkable engineering and innovation. For SSB aspirants, this offers valuable insight into the diverse landscape of aviation development, recognizing the unsung heroes and critical technological advancements that shaped flight.",
-            "url": "https://www.yahoo.com/news/articles/top-10-aircraft-were-overshadowed-070206848.html",
-            "category": "Sci & Tech",
-            "date": "2025-12-01T07:02:06Z"
-        },
-        {
-            "title": "Sabre rattling in the Caribbean",
-            "summary": "US President Donald Trump confirmed discussions with Venezuelan President Nicol\u00e1s Maduro, even as the United States significantly increases its military presence in the Caribbean. This development signals escalating tensions between Washington and Caracas. The substantial troop buildup suggests a potential for further conflict amidst ongoing political instability and complex diplomatic exchanges between the two nations.",
-            "url": "https://www.irishtimes.com/world/2025/12/01/trump-may-find-momentum-of-us-military-build-up-targeting-venezuela-hard-to-resist/",
-            "category": "International",
-            "date": "2025-12-01T06:36:40Z"
-        },
-        {
-            "title": "Lipan Bara armoured vehicles won't be scrapped as Army still uses them, Dewan Rakyat told",
-            "summary": "Malaysia's Deputy Defence Minister Adly Z confirmed the Army has no plans to decommission 20 Lipan Bara armoured vehicles, despite their Thai origin. These vehicles remain crucial for ongoing training exercises and operational deployments. This decision highlights the continuous utilization of existing defence assets to maintain military readiness and operational effectiveness, ensuring robust national security.",
-            "url": "https://www.thestar.com.my/news/nation/2025/12/01/lipan-bara-armoured-vehicles-won039t-be-scrapped-as-army-still-uses-them-dewan-rakyat-told",
-            "category": "Defence",
-            "date": "2025-12-01T06:19:00Z"
-        },
-        {
-            "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "A report highlights activity within the global arms industry, exemplified by German manufacturer Rheinmetall's artillery shells. The article likely details the sales performance of the world's top 100 arms producers, offering insights into defence sector trends and financial figures. This emphasizes the substantial scale of international defence procurement and manufacturing, crucial for understanding global security dynamics.",
-            "url": "https://www.hurriyetdailynews.com/arms-makers-see-record-revenues-as-tensions-fuel-demand-report-216304",
-            "category": "Defence",
-            "date": "2025-12-01T06:06:41Z"
-        },
-        {
-            "title": "SCYTALYS: Strategic agreement with Indonesian PTDI for the development of a Maritime Surveillance aircraft",
-            "summary": "Greece's SCYTALYS (EFA GROUP) and an Indonesian company signed a strategically significant framework agreement in Athens on November 21, 2025. This pact, likely focusing on defence or advanced technology collaboration, aims to strengthen industrial cooperation between the two nations. For SSB aspirants, it underscores the growing importance of international strategic partnerships in boosting national security and technological capabilities.",
-            "url": "https://www.naftemporiki.gr/english/2040611/scytalys-strategic-agreement-with-indonesian-ptdi-for-the-development-of-a-maritime-surveillance-aircraft/",
-            "category": "Defence",
-            "date": "2025-12-01T06:02:14Z"
-        },
-        {
-            "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "Global arms sales by the top 100 manufacturers reached a record $679 billion last year, significantly boosted by the wars in Ukraine and Gaza. This surge highlights heightened global instability and increased defence spending worldwide. For SSB aspirants, understanding this trend is vital for grasping international security dynamics, the economics of conflict, and the evolving landscape of global defence industries.",
-            "url": "https://www.digitaljournal.com/business/arms-makers-see-record-revenues-as-tensions-fuel-demand-report/article",
-            "category": "Defence",
-            "date": "2025-12-01T05:55:48Z"
-        },
-        {
-            "title": "Week 13 INSTANT fantasy takeaways: Panthers stun Rams + Colts collapse + Holiday games reactions",
-            "summary": "Matt Harmon and Chris Allen delivered instant fantasy sports reactions covering all the action from Week 13. Their analysis specifically included games played over the Thanksgiving and Black Friday weekend. This segment provided critical insights and strategic advice for fantasy league participants, focusing on player performances and implications for team management in American football fantasy leagues.",
-            "url": "https://sports.yahoo.com/fantasy/article/week-13-instant-fantasy-takeaways-panthers-stun-rams--colts-collapse--holiday-games-reactions-055454361.html",
-            "category": "National",
-            "date": "2025-12-01T05:55:15Z"
-        },
-        {
-            "title": "Taiwan's first domestically-built submarine misses delivery deadline",
-            "summary": "Taiwanese shipbuilder CSBC Corp has missed the deadline for completing Taiwan's first domestically-made submarine, the Defence Minister confirmed. This delay in the indigenous submarine program is significant for Taiwan's defence self-reliance amidst regional complexities. For SSB aspirants, this illustrates the challenges and strategic importance of local defence manufacturing capabilities and project management in national security.",
-            "url": "https://www.channelnewsasia.com/east-asia/taiwan-first-domestic-built-submarine-miss-delivery-deadline-csbc-corp-5499251",
-            "category": "Defence",
-            "date": "2025-12-01T05:50:00Z"
-        },
-        {
-            "title": "Cyclone Ditwah batters Sri Lanka as it claims 334 lives, leaves 370 missing",
-            "summary": "Cyclone Ditwah has caused significant devastation in Sri Lanka, resulting in 334 confirmed deaths and leaving 370 people missing, according to the Disaster Management Centre. This severe natural disaster highlights the urgent need for robust emergency response and resilience strategies in vulnerable nations. The scale of the humanitarian crisis may necessitate international assistance for relief and recovery efforts.",
-            "url": "https://www.thehindubusinessline.com/news/world/cyclone-ditwah-batters-sri-lanka-as-it-claims-334-lives-leaves-370-missing/article70344176.ece",
-            "category": "International",
-            "date": "2025-12-01T05:37:43Z"
-        },
-        {
-            "title": "Diljit Dosanjh Takes to the Skies in \u2018Border 2\u2019 First Look as Film Expands Beyond Battlefield (EXCLUSIVE)",
-            "summary": "The first look of Diljit Dosanjh in \"Border 2\" has been unveiled, revealing the film's expanded scope to include the Indian Air Force alongside ground forces. This cinematic portrayal will depict integrated operations of India's armed forces, offering SSB aspirants a broader perspective on national defence capabilities and inter-service cooperation. Such films often serve as a source of inspiration and insight into military life.",
-            "url": "https://variety.com/2025/film/news/diljit-dosanjh-border-2-first-look-1236596051/",
-            "category": "Defence",
-            "date": "2025-12-01T05:26:27Z"
-        },
-        {
-            "title": "Acquisition of LIM College by Japan Educational Foundation\u00a0Completed",
-            "summary": "Japan Educational Foundation (JEF) has officially completed its acquisition of LIM College, a deal initially revealed in May. This strategic transaction sees LIM College becoming a key part of JEF's expanding global educational portfolio. The successful closure signifies a significant consolidation within the international education sector, enhancing JEF's worldwide presence through the integration of LIM College.",
-            "url": "http://wwd.com/business-news/business-features/lim-college-acquistion-japan-educational-foundation-completed-1238360100/",
-            "category": "International",
-            "date": "2025-12-01T05:01:00Z"
         }
     ]
 }
