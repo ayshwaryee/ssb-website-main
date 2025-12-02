@@ -1,306 +1,285 @@
 {
-    "last_updated": "2025-12-01T18:26:32.790810+00:00",
+    "last_updated": "2025-12-02T01:14:43.225054+00:00",
     "articles": [
         {
+            "title": "'Figment of imagination': Navy Chief Dinesh K. Tripathi on reports on missile test delay due to Chinese spy vessel",
+            "summary": "Reports emerged claiming an Indian missile test was delayed due to a Chinese spy vessel's presence. Chief of Naval Staff Admiral Dinesh K. Tripathi stated he was not fully aware of specific details regarding the alleged incident. This highlights continuous maritime surveillance challenges and the strategic importance of monitoring foreign naval activities in India's defence interests.",
+            "url": "https://economictimes.indiatimes.com/news/defence/figment-of-imagination-navy-chief-dinesh-k-tripathi-on-reports-on-missile-test-delay-due-to-chinese-spy-vessel/articleshow/125682921.cms",
+            "category": "Defence",
+            "date": "2025-12-01T00:59:13Z"
+        },
+        {
+            "title": "Ex-officer tells inquiry UK military committed war crimes in Afghanistan",
+            "summary": "A public inquiry has heard testimony from a former senior British officer regarding alleged war crimes by UK special forces in Afghanistan. He stated troops appeared to execute suspects, and this knowledge was widespread within the chain of command, suggesting a potential cover-up. The inquiry aims to uncover truth and accountability regarding these serious allegations, highlighting issues of military ethics and oversight.",
+            "url": "https://japantoday.com/category/world/ex-officer-tells-inquiry-uk-military-committed-war-crimes-in-afghanistan",
+            "category": "Defence",
+            "date": "2025-12-01T00:58:15Z"
+        },
+        {
+            "title": "All You Need To Know Going Into Trade On Monday",
+            "summary": "Bayer Cropscience received a revised order from the Karnataka GST authority, significantly reducing its penalty for FY2017-18. The original penalty of Rs 7.4 crore, related to GST on outward supply, has been decreased to Rs 3.1 crore. This adjustment offers substantial financial relief to the company, reflecting a re-evaluation of its tax liabilities by the state authority.",
+            "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-december-1-2025",
+            "category": "National",
+            "date": "2025-12-01T00:30:00Z"
+        },
+        {
+            "title": "Ex-officer tells inquiry UK military committed war crimes in Afghanistan",
+            "summary": "A former senior British officer has testified at a public inquiry, alleging that British special forces in Afghanistan committed war crimes by executing suspects. This testimony reveals grave accusations against elite military units regarding their operational conduct, prompting a significant investigation into potential unlawful killings and breaches of international law.",
+            "url": "https://uk.news.yahoo.com/ex-officer-tells-inquiry-uk-000642040.html",
+            "category": "Defence",
+            "date": "2025-12-01T00:06:42Z"
+        },
+        {
+            "title": "Top global arms producers\u2019 revenues surge as major wars rage: SIPRI report",
+            "summary": "Global arms sales by the top 100 defence companies reached a record $679 billion in 2024, as per new data from the Stockholm International Peace Research Institute (SIPRI). This substantial increase signifies a growing trend in worldwide military expenditure and demand for weapons and services, reflecting evolving international security dynamics and geopolitical tensions. Aspirants should note the economic impact and strategic implications.",
+            "url": "https://www.aljazeera.com/news/2025/11/30/top-global-arms-producers-revenues-surged-as-major-wars-rage-sipri-report",
+            "category": "Defence",
+            "date": "2025-11-30T23:59:56Z"
+        },
+        {
+            "title": "NSW Police bust international satanic child sex ring in Sydney",
+            "summary": "Australian police have successfully busted an international satanic child sex abuse material ring, charging four Australians for their alleged involvement. Detectives uncovered a Sydney-based paedophile network as part of this operation. This significant national and international law enforcement effort aims to dismantle illicit networks targeting children, highlighting the global challenge of combating such heinous crimes.",
+            "url": "https://7news.com.au/news/nsw-police-bust-international-satanic-child-sex-ring-in-sydney--c-20850596",
+            "category": "National",
+            "date": "2025-11-30T23:50:08Z"
+        },
+        {
+            "title": "actuonix-lac 0.1.0",
+            "summary": "The provided text is not a news article but a technical error message. It indicates a website component failed to load, possibly due to browser extensions, network issues, or browser settings. Users are advised to troubleshoot by checking their connection, disabling ad blockers, or trying an alternative browser to resolve the display problem. This content is unsuitable for a typical news summary or classification.",
+            "url": "https://pypi.org/project/actuonix-lac/0.1.0/",
+            "category": "Sci & Tech",
+            "date": "2025-11-30T23:43:18Z"
+        },
+        {
+            "title": "actuonix-lac added to PyPI",
+            "summary": "The provided content is a technical error message indicating a website part failed to load, possibly due to browser extensions, network issues, or specific browser settings. It instructs users to troubleshoot by checking their internet connection, disabling ad blockers, or trying an alternative browser to resolve the problem. This aims to restore access to the site's intended content.",
+            "url": "https://pypi.org/project/actuonix-lac/",
+            "category": "Sci & Tech",
+            "date": "2025-11-30T23:43:18Z"
+        },
+        {
+            "title": "Police bust alleged 'satanic' Sydney child abuse network",
+            "summary": "NSW Police have dismantled an alleged international child sex abuse material ring operating from Sydney suburbs. Four men were charged last week in connection with the \"satanic\" network. This significant bust highlights ongoing efforts against transnational organised crime involving child exploitation, emphasizing the global nature of such illicit activities and law enforcement's reach.",
+            "url": "https://www.abc.net.au/news/2025-12-01/sydney-arrests-satanic-child-abuse-network/106085480",
+            "category": "International",
+            "date": "2025-11-30T23:40:18Z"
+        },
+        {
+            "title": "Before Lanterns, This Green Lantern Series Nearly Became a Reality",
+            "summary": "Before DC Studios' upcoming 'Lanterns' series, a previous 'Green Lantern' show was in development, featuring Jeremy Irvine as Alan Scott and Finn Wittrock as Guy Gardner. This earlier project, likely intended for HBO Max, represented a different creative direction for the iconic DC Comics characters compared to the studio's current vision for the franchise.",
+            "url": "https://bleedingcool.com/tv/before-lanterns-this-green-lantern-series-nearly-became-a-reality/",
+            "category": "Sci & Tech",
+            "date": "2025-11-30T23:37:04Z"
+        },
+        {
+            "title": "Taiwan eyes Iron Dome-like defence against China",
+            "summary": "Taiwan's President announced a historic $40 billion increase in defence spending to bolster its military capabilities. This significant investment aims to develop advanced defence systems, potentially drawing inspiration from Israel's Iron Dome. The move reflects Taiwan's commitment to enhancing its air defence against potential threats, signifying a major step in its national security strategy.",
+            "url": "https://theweek.com/defence/taiwan-iron-dome-missile-defence-system-china",
+            "category": "Defence",
+            "date": "2025-11-30T23:35:25Z"
+        },
+        {
+            "title": "Week 13 winners and losers: Bijan Robinson runs wild, Davante Adams makes history",
+            "summary": "Week 13 of the 2025 fantasy football season featured standout performances, with Bijan Robinson, A.J. Brown, and Patrick Mahomes delivering impressive plays. The fantasy league also saw contributions from prominent stars like Lamar Jackson and Jahmyr Gibb. This update covers key player highlights and ongoing developments in the American football fantasy league.",
+            "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-47154022/nfl-week-13-fantasy-football-winners-losers-injuries-rankings-more",
+            "category": "International",
+            "date": "2025-11-30T23:20:29Z"
+        },
+        {
+            "title": "Early Week 14 Fantasy Kicker Rankings: Who to start, best sleepers, top streamers at K this week",
+            "summary": "This article from The Sporting News details early Week 14 fantasy kicker rankings, guiding players on strategic selections like who to start, best sleepers, and top streamers for their fantasy football teams. While focusing on sports gaming and player performance analytics, this specific content holds minimal direct relevance for SSB aspirants preparing for general awareness or defence-related discussions.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-kicker-rankings-week-14-2025/e39a7ff40d302ecfe9041560",
+            "category": "National",
+            "date": "2025-11-30T22:15:54Z"
+        },
+        {
+            "title": "Dyson\u2019s Cyber Monday deals are giving big air and big hair: Save big",
+            "summary": "With the holiday shopping rush at its peak, this article likely addresses critical cybersecurity threats. It probably focuses on safeguarding personal and financial data from online scams and breaches during this high-volume period. SSB aspirants should note the importance of digital security awareness, crucial for responsible online conduct and understanding national security implications in the digital domain.",
+            "url": "https://nypost.com/shopping/dyson-cyber-monday-deals-sale-2025/",
+            "category": "Sci & Tech",
+            "date": "2025-11-30T20:30:00Z"
+        },
+        {
+            "title": "La Liga round-up: Real Betis win El Gran Derbi, late winner leads Villarreal to victory as Celta Vigo lose to Espanyol",
+            "summary": "Match Day 14 of the 2025-26 La Liga season continued on Sunday with four fixtures across Spain. The day featured several key matchups, including a late game between Real Madrid and Girona. Sevilla was also actively involved in the day's sporting events, contributing to the competitive atmosphere of the Spanish football league.",
+            "url": "https://www.football-espana.net/2025/11/30/la-liga-round-up-real-betis-villarreal-celta-espanyol",
+            "category": "International",
+            "date": "2025-11-30T19:27:00Z"
+        },
+        {
+            "title": "Best Dyson Cyber Monday Deals (2025): Gen5 Detect, Airstrait",
+            "summary": "The article pinpoints the post-holiday Cyber Monday sales as the prime opportunity for purchasing Dyson vacuums and hair tools. It guides consumers to the best available deals on these technologically advanced household appliances and personal grooming devices. The focus is on significant discounts, making it an ideal period for buyers seeking high-quality, innovative Dyson products at reduced prices.",
+            "url": "https://www.wired.com/story/dyson-cyber-monday-deals-2025/",
+            "category": "Sci & Tech",
+            "date": "2025-11-30T19:20:54Z"
+        },
+        {
+            "title": "Terrorist launch pads still active across LoC, forces alert: BSF",
+            "summary": "Terrorist launching pads remain active across the Line of Control, despite previous Indian operations like Sindoor that targeted installations in Pakistan-occupied Kashmir. This ongoing threat highlights continuous efforts by terrorists to infiltrate Indian territory from PoK, posing a persistent security challenge for India's defence forces and requiring constant vigilance along the border.",
+            "url": "https://statetimes.in/terrorist-launch-pads-still-active-across-loc-forces-alert-bsf/",
+            "category": "Defence",
+            "date": "2025-11-30T19:10:15Z"
+        },
+        {
+            "title": "This terrifying build-up shows Trump's threat to Venezuela is very real indeed",
+            "summary": "Evan Ellis, a Latin America Research Professor at the US Army War College and a security analyst with over 30 years of experience, is currently monitoring the US military build-up in the Caribbean. As an expert in security issues, his analysis provides insight into the developments regarding increased US military presence in the region.",
+            "url": "https://www.rawstory.com/trump-venezuela-2674354138/",
+            "category": "Defence",
+            "date": "2025-11-30T19:08:13Z"
+        },
+        {
             "title": "Cyclone Ditwah batters Sri Lanka as death toll crosses 330",
-            "summary": "Sri Lanka is continuing extensive relief operations following catastrophic floods, landslides, and devastation caused by Cyclone Ditwah, which claimed over 33 lives. India is actively providing crucial assistance to Sri Lanka in these challenging times, demonstrating strong bilateral support and regional cooperation for disaster recovery efforts and humanitarian aid.",
+            "summary": "Sri Lanka continues extensive relief operations following catastrophic floods and landslides caused by Cyclone Ditwah, which has tragically killed over 33 people. India is actively providing crucial assistance to Sri Lanka in these recovery efforts, showcasing strong bilateral cooperation and humanitarian aid. This support underscores regional solidarity and India's role in disaster relief.",
             "url": "https://economictimes.indiatimes.com/news/international/world-news/cyclone-ditwah-batters-sri-lanka-as-death-toll-crosses-330/articleshow/125677714.cms",
             "category": "International",
             "date": "2025-11-30T18:01:50Z"
         },
         {
             "title": "The derby goes green and white: Betis beat Sevilla on a fiery afternoon",
-            "summary": "Betis emerged victorious in the latest Seville Derby, a fiercely contested football match. Pablo Fornals scored the crucial goal in the second half, securing Betis's lead and ultimately their triumph. This significant win in the renowned derby highlights competitive international sports events, showcasing the high stakes and passion involved in major European football rivalries.",
+            "summary": "Real Betis secured victory in the latest edition of the Seville Derby football match. The team took the lead in the second half, with Pablo Fornals scoring the decisive goal. The game was described as highly eventful, marking a significant sporting rivalry within Spain's vibrant football culture.",
             "url": "https://onefootball.com/en/news/the-derby-goes-green-and-white-betis-beat-sevilla-on-a-fiery-afternoon-42028231",
-            "category": "International",
+            "category": "National",
             "date": "2025-11-30T17:39:00Z"
         },
         {
             "title": "The Navy kept chasing a 100% solution to the point where they ended up with 0% of the ship being delivered",
-            "summary": "The US Navy's LCS program concluded in 2023. A production contract was then awarded to Fincantieri Marinette Marine of Wisconsin to build an entirely new, advanced type of naval vessel. This signifies a strategic shift in naval procurement, focusing on next-generation capabilities to enhance maritime defense following the previous program's termination.",
+            "summary": "The US Navy officially concluded its Littoral Combat Ship (LCS) program in 2023. Prior to its termination, a production contract was awarded to Wisconsin-based Fincantieri Marinette Marine. This significant agreement is for building an entirely new, advanced type of naval platform. This move highlights a strategic shift in naval procurement and future defense capabilities for the United States Navy, transitioning from the problematic LCS initiative.",
             "url": "https://www.isegoria.net/2025/11/the-navy-kept-chasing-a-100-solution-to-the-point-where-they-ended-up-with-0-of-the-ship-being-delivered/",
             "category": "Defence",
             "date": "2025-11-30T17:32:23Z"
         },
         {
             "title": "How DJ LeMahieu has a $15 million impact on Yankees' free agency",
-            "summary": "The article analyzes the significant financial impact of baseball player DJ LeMahieu on the New York Yankees' free agency strategy. It details his $15 million influence, exploring how this factor shapes the team's decisions regarding acquiring new talent, managing their roster, and negotiating future player contracts within the national league.",
+            "summary": "An article from The Sporting News details how baseball player DJ LeMahieu is reportedly having a significant $15 million impact on the New York Yankees' free agency decisions. This financial implication likely influences the team's overall strategy for signing new talent and managing its roster, requiring careful planning as the Yankees navigate this crucial period in player acquisition.",
             "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/how-dj-lemahieu-has-15-million-impact-yankees-free-agency/b3ea9db45fb5a399bee8ee7c",
             "category": "National",
             "date": "2025-11-30T17:28:37Z"
         },
         {
-            "title": "Terrorist launch pads still active across LoC, forces alert: BSF",
-            "summary": "BSF Inspector General has reported that terrorist launching pads remain active across the Line of Control (LoC), despite previous operations like 'Sindoor' having destroyed several such installations in Pakistan-occupied Kashmir (PoK). This indicates a persistent cross-border threat, emphasizing the continuous vigilance required by security forces along the LoC to maintain national security against such incursions.",
-            "url": "https://economictimes.indiatimes.com/news/defence/terrorist-launch-pads-still-active-across-loc-forces-alert-bsf/articleshow/125676991.cms",
-            "category": "Defence",
-            "date": "2025-11-30T17:28:35Z"
-        },
-        {
-            "title": "American Military Vehicles That Shaped the Battlefield",
-            "summary": "Wars throughout history have been profoundly shaped not just by the bravery of soldiers, sailors, airmen, and Marines, but crucially by the machines they employ. From tanks to modern weaponry, evolving military technology has consistently influenced combat strategies, troop deployment, and conflict outcomes. This highlights the indispensable interplay between human courage and technological advancements in warfare, a vital understanding for defence aspirants.",
-            "url": "https://guessingheadlights.com/american-military-vehicles-that-shaped-the-battlefield/",
-            "category": "Defence",
-            "date": "2025-11-30T17:00:41Z"
-        },
-        {
             "title": "I Found a Dyson Cordless Stick Vacuum Under $270 for Cyber Monday and I Still Can't Believe This Deal",
-            "summary": "The article highlights that Dyson's high-end vacuum cleaners, air purifiers, and hair stylers, usually known for their premium quality and expense, become available with significant discounts during the early Cyber Monday weekend. This period presents a valuable opportunity for consumers to acquire these advanced Dyson products at more accessible prices, making luxury tech more affordable during the sales event.",
+            "summary": "This article highlights Dyson's premium, high-quality, and expensive products. It notes that the Cyber Monday weekend provides substantial discounts on popular Dyson items such as vacuum cleaners, air purifiers, and hair styling tools. This period offers a valuable opportunity for consumers to acquire these advanced household and personal care technologies at significantly reduced prices, making them more accessible.",
             "url": "https://uk.pcmag.com/cyber-monday/161696/i-found-a-dyson-cordless-stick-vacuum-under-270-for-cyber-monday-and-i-still-cant-believe-this-deal",
             "category": "Sci & Tech",
             "date": "2025-11-30T16:02:53Z"
         },
         {
             "title": " The rocket of the weekend scored in Ligue 1 ",
-            "summary": "Strasbourg recently hosted Stade Brestois for the 14th matchday of Ligue 1. Stade Brestois, initially trailing 1-0 at halftime, demonstrated a strong turnaround in the second half against Strasbourg, referred to as the 'Alsatians.' The match likely featured an exciting 'screamer' goal, highlighting Brestois's improved performance or comeback victory in the French professional football league.",
+            "summary": "Stade Brestois secured a comeback victory against Strasbourg in a Ligue 1 football match. Trailing 1-0 at halftime during the 14th matchday encounter, the Bretons rallied in the second half to defeat the Alsatians. This decisive turnaround highlights Brestois' resilience and performance in the French top-tier league, ultimately changing the game's outcome.",
             "url": "https://onefootball.com/en/news/the-weekend-screamer-scored-in-ligue-1-42027706",
             "category": "International",
             "date": "2025-11-30T15:49:00Z"
         },
         {
-            "title": "Who should I start Week 13? Fantasy Sunday start sit rankings, last-minute lineup decisions, inactives, breaking news",
-            "summary": "This article from The Sporting News provides comprehensive fantasy sports advice for Week 13. It covers player start/sit rankings, crucial last-minute lineup decisions, injury updates, and relevant breaking news to guide fantasy league participants. While detailing sports entertainment, this specific content is unrelated to defence, national affairs, international relations, or scientific advancements pertinent to SSB aspirant preparation.",
-            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-week-13-sunday-rankings-start-sit-tracker-2025/7daf738b48233fddb6b14011",
-            "category": "National",
-            "date": "2025-11-30T15:40:00Z"
+            "title": "Absolute Green Lantern #9 Preview: Exes, Assassins, and Awkwardness",
+            "summary": "Absolute Green Lantern #9 is set to release this Wednesday, featuring a comatose Hal Jordan, encounters with awkward exes, and the threat of a deadly assassin. This preview highlights the dramatic storyline for the upcoming DC Comics issue, indicating potential conflicts and character development within the superhero narrative.",
+            "url": "https://bleedingcool.com/comics/absolute-green-lantern-9-preview-exes-assassins-and-awkwardness/",
+            "category": "Sci & Tech",
+            "date": "2025-11-30T15:26:03Z"
         },
         {
-            "title": "Beatles, Rolling Stones, Bob Dylan: A Survey Of Some Of 2025\u2019s Notable Music Reissues",
-            "summary": "This article snippet introduces iconic international music groups such as The Beatles, The Rolling Stones, and Tears for Fears. It appears to discuss their musical variety and artistic caliber, likely analyzing the significant impact and legacy of these renowned artists. While the full content is truncated, it suggests an exploration of their enduring influence on the global music scene, offering insights relevant to understanding cultural milestones.",
-            "url": "https://www.forbes.com/sites/davidchiu/2025/11/30/beatles-rolling-stones-bob-dylan-a-survey-of-some-of-2025s-notable-music-reissues/",
-            "category": "International",
-            "date": "2025-11-30T15:30:55Z"
+            "title": "PM Modi\u2019s Mann ki Baat: India has great winter tourism potential",
+            "summary": "Prime Minister Narendra Modi highlighted the immense potential of winter tourism in India, citing growing public interest in high-altitude and previously inaccessible locations. He emphasized that promoting these destinations could significantly boost local economies and offer unique experiences. This aligns with national efforts to develop robust tourism infrastructure and leverage India's diverse geographical assets for economic growth and showcasing national beauty.",
+            "url": "https://economictimes.indiatimes.com/news/india/pm-modis-mann-ki-baat-india-has-great-winter-tourism-potential/articleshow/125675089.cms",
+            "category": "National",
+            "date": "2025-11-30T15:25:19Z"
+        },
+        {
+            "title": "Moleiro snatches Villarreal late winner at Real Sociedad",
+            "summary": "Alberto Moleiro proved instrumental in Villarreal's thrilling 3-2 La Liga victory over Real Sociedad. Scoring twice, including a crucial stoppage-time winner, Moleiro's performance propelled Villarreal to joint second place in the Spanish league standings. This dramatic win highlights the competitive nature of the national football league and Villarreal's strong ascent.",
+            "url": "https://sports.yahoo.com/articles/moleiro-snatches-villarreal-winner-real-152508259.html",
+            "category": "National",
+            "date": "2025-11-30T15:25:08Z"
+        },
+        {
+            "title": "PM Narendra Modi highlights Samudrika Naval Marine Museum in Andaman in 'Mann Ki Baat'",
+            "summary": "Prime Minister Narendra Modi highlighted the 'Samudrika Naval Marine Museum' in the Andaman and Nicobar Islands, recognizing its role in attracting Navy-related tourism. This initiative underscores the importance of showcasing India's maritime heritage and strategic interests in the region. For SSB aspirants, such museums offer valuable insights into naval history, operations, and the strategic significance of island territories.",
+            "url": "https://economictimes.indiatimes.com/news/india/pm-narendra-modi-highlights-samudrika-naval-marine-museum-in-andaman-in-mann-ki-baat/articleshow/125674840.cms",
+            "category": "Defence",
+            "date": "2025-11-30T14:55:28Z"
         },
         {
             "title": "ITBP sets up strategic base in Naxal-hit Abujhmad in Chhattisgarh",
-            "summary": "As the March 2026 deadline to eliminate Naxalism nears, Indian security forces have initiated a comprehensive action plan for Chhattisgarh's remote Abujhmad region. The ITBP is actively involved in these operations. This strategy aims to decisively end Naxal insurgency in this critical stronghold, enhancing national security and bringing development to the affected areas by the stipulated timeline.",
+            "summary": "With the March 2026 deadline to eliminate Naxalism approaching, security forces have launched a comprehensive action plan in Chhattisgarh's remote Abujhmad region. The strategy involves intensified operations and development initiatives, spearheaded by forces like the ITBP, to neutralize Naxal strongholds and foster peace. This crucial push aims to secure national integrity and uplift affected communities.",
             "url": "https://economictimes.indiatimes.com/news/defence/itbp-sets-up-strategic-base-in-naxal-hit-abujhmad-in-chhattisgarh/articleshow/125674650.cms",
             "category": "National",
             "date": "2025-11-30T14:35:26Z"
         },
         {
+            "title": "IAF and other airlines fly home\u00a0stranded tourists from Sri Lanka",
+            "summary": "Following Cyclone Ditwah, over 320 Indian passengers stranded in Sri Lanka are returning home. The Indian Air Force deployed two aircraft to Colombo, facilitating their repatriation as normal flights resumed Sunday. This humanitarian mission highlights the IAF's crucial role in ensuring the swift return of nationals affected by natural disasters abroad, showcasing their operational readiness for such contingencies.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/iaf-airlines-fly-homestranded-tourists-from-sri-lanka/article70342160.ece",
+            "category": "Defence",
+            "date": "2025-11-30T14:21:44Z"
+        },
+        {
+            "title": "Mission Complete: HMS Prince of Wales Returns Home from Indo-Pacific Deployment",
+            "summary": "The UK's Carrier Strike Group 25 (CSG 25), led by HMS Prince of Wales, has successfully completed its seven-month deployment, codenamed Operation Highmast. Spanning 223 days, this extensive naval exercise highlights the Royal Navy's global operational readiness and its role in maintaining international maritime security. The group's return signifies the successful conclusion of vital strategic operations.",
+            "url": "https://theaviationist.com/2025/11/30/csg-25-mission-complete/",
+            "category": "Defence",
+            "date": "2025-11-30T13:53:26Z"
+        },
+        {
+            "title": "Thomas King: As we learn another \u2018hero\u2019 is non-Indigenous, let\u2019s not ignore a broader cultural problem",
+            "summary": "The author began researching Indigenous identity theft, a complex issue that intellectually intrigued and personally impacted them. They recall the initial difficulty in explaining this phenomenon to their own Indigenous family members, underscoring the challenges in communicating such nuanced identity-related concerns within communities, hinting at deeper societal implications regarding cultural appropriation and misrepresentation.",
+            "url": "https://theconversation.com/thomas-king-as-we-learn-another-hero-is-non-indigenous-lets-not-ignore-a-broader-cultural-problem-270773",
+            "category": "National",
+            "date": "2025-11-30T13:51:27Z"
+        },
+        {
             "title": "India\u2019s lab grown diamond market makes the cut as investor interest surges in 2025",
-            "summary": "India's laboratory-grown diamond (LGD) market is experiencing a significant surge, driven by substantial investor capital and increasing consumer adoption. This rapid growth has propelled the market value beyond $300 million. Fast-scaling brands are capitalizing on this trend, highlighting India's expanding role in this high-tech manufacturing sector and its potential for economic diversification, showcasing technological advancement in industry.",
+            "summary": "India's laboratory-grown diamond (LGD) market is witnessing a significant influx of investor capital, fueled by rapid brand scaling and increasing consumer adoption. This burgeoning segment, already valued over $300 million, highlights evolving consumer preferences for sustainable luxury. The investment surge underscores India's growing capabilities in high-value product manufacturing and its attractive market dynamics, promising further expansion in this innovative sector.",
             "url": "https://www.livemint.com/industry/indias-lab-grown-diamond-market-investor-interest2025-shilpa-shetty-jewellery-brands-limelight-11764486459134.html",
-            "category": "Sci & Tech",
+            "category": "National",
             "date": "2025-11-30T13:32:38Z"
         },
         {
             "title": "Analyzing Japanese free agents heading to MLB after Yankees declared interest",
-            "summary": "The Yankees have expressed a clear intention this offseason to re-engage with the Japanese player market. The team acknowledges the benefits of having Japanese representation, aiming to secure talent from Japan. This strategic move highlights their effort to strengthen the roster by leveraging international recruitment, indicating a renewed focus on Japanese players to enhance team performance and appeal.",
+            "summary": "The Yankees baseball team is making a clear push to re-enter the Japanese player market this offseason, expressing a strong desire to recruit talent from Japan. This strategic move aims to bring Japanese representation back onto their roster, highlighting an ongoing global trend of international player acquisition in professional sports across borders.",
             "url": "https://www.nydailynews.com/2025/11/30/yankees-mlb-npb-tatsuya-imai-munetaka-murakam/",
             "category": "International",
             "date": "2025-11-30T13:30:00Z"
         },
         {
             "title": "This Day in Braves History: Braves trade Tommy Hanson to the Angels",
-            "summary": "In 1961, Braves catcher Joe Torre finished second in the National League's Rookie of the Year race, behind Cubs outfielder Billy Williams. Nearly a decade later, in 1970, the Braves acquired the experienced 48-year-old knuckleballer Hoyt Wilhelm, adding depth to their roster with the veteran pitcher.",
+            "summary": "The article recounts specific historical events in American baseball, highlighting Joe Torre's second-place finish in the 1961 National League Rookie of the Year race with the Braves. It also details the Braves' 1970 acquisition of 48-year-old knuckleballer Hoyt Wilhelm. This reflects player movements and accolades within professional baseball history.",
             "url": "https://www.batterypower.com/atlanta-braves-history/123235/braves-trade-tommy-hanson-to-the-angels",
             "category": "National",
             "date": "2025-11-30T13:00:00Z"
         },
         {
             "title": "Sunday Notes: The Red Sox Expect Sonny Gray to Be Better Than Walker Buehler",
-            "summary": "The Boston Red Sox acquired pitcher Sonny Gray from the St. Louis Cardinals in a pre-Thanksgiving trade. In exchange, the Cardinals received 25-year-old right-hander Richard Fitts and a hard-throwing prospect, Brando. This strategic move aims to strengthen the Red Sox's pitching rotation, reflecting ongoing team building within Major League Baseball.",
+            "summary": "The Boston Red Sox made a pre-Thanksgiving trade, acquiring pitcher Sonny Gray from the St. Louis Cardinals. In exchange, the Cardinals received 25-year-old right-hander Richard Fitts and prospect Brando. This move aims to bolster the Red Sox's pitching rotation, reflecting strategic team adjustments common in professional baseball leagues.",
             "url": "https://blogs.fangraphs.com/sunday-notes-the-red-sox-expect-sonny-gray-to-be-better-than-walker-buehler/",
             "category": "National",
             "date": "2025-11-30T12:48:23Z"
         },
         {
-            "title": "First batch of women being recruited as jawans in Territorial Army, their turnout impressive: Deputy Army Chief",
-            "summary": "The Indian Army is actively recruiting women from the Northeast and Ladakh regions as jawans, confirmed by Deputy Chief of Army Staff Lt Gen Rakesh Kapoor. He highlighted an impressive turnout, signifying a key step towards enhanced gender inclusivity within the armed forces. This initiative opens new avenues for women to serve in combat roles, strengthening national defence from diverse regions.",
-            "url": "https://economictimes.indiatimes.com/news/defence/first-batch-of-women-being-recruited-as-jawans-in-territorial-army-their-turnout-impressive-dy-army-chief/articleshow/125672922.cms",
-            "category": "Defence",
-            "date": "2025-11-30T12:23:37Z"
-        },
-        {
             "title": "Week 13 inactives: C.J. Stroud and Baker Mayfield expected under center",
-            "summary": "This article provides strategic advice for fantasy football participants, focusing on optimal lineup selection. It guides users on deciding which players to 'start' or 'sit' to maximize team performance and avoid inactive offensive players. The content promises fantasy-relevant updates, aiding aspirants in making data-driven decisions for their competitive fantasy teams, reflecting analytical skills applied in a gaming context.",
+            "summary": "This article provides essential guidance for fantasy football players, assisting them in optimizing their lineups. It delivers fantasy-relevant updates to help decide which players to start or bench, thereby preventing the selection of inactive individuals. This ensures participants can maximize their team's performance and strategic advantage in competitive fantasy leagues.",
             "url": "https://www.espn.com/fantasy/football/story/_/id/47094805/nfl-fantasy-football-espn-injured-inactives-watchlist-week-13-2025-november-30",
             "category": "Sci & Tech",
             "date": "2025-11-30T12:14:14Z"
         },
         {
             "title": "Over 24,000 Runners Set The Pace At 9th Adani Ahmedabad Marathon",
-            "summary": "The 9th Adani Ahmedabad Marathon recently hosted 24,000 runners at the Sabarmati Riverfront Sports Park. Organized by the Adani Group, this significant national event operated under a purpose-led theme, fostering community engagement and promoting physical fitness. Such large-scale public participation events underscore national health and social initiatives, relevant for aspirants observing domestic affairs and civil participation.",
+            "summary": "The 9th Adani Ahmedabad Marathon, hosted at the Sabarmati Riverfront Sports Park, attracted a substantial turnout of up to 24,000 runners. This major event, organized by the Adani Group, highlights significant public participation in large-scale sporting activities across India, fostering community engagement and promoting fitness among citizens nationwide.",
             "url": "https://www.ndtvprofit.com/business/over-24000-runners-set-the-pace-at-9th-adani-ahmedabad-marathon",
             "category": "National",
             "date": "2025-11-30T12:08:37Z"
         },
         {
             "title": "What To Watch Sunday: The Chair Company Clocks Out, Hal & Harper Ends And More",
-            "summary": "TVLine's daily 'What to Watch' column serves as a comprehensive guide for English-language shows and select movies. It highlights new and returning series, detailing their premieres and fresh episodes across broadcast, cable, and streaming platforms. Organized by day, this column helps viewers easily track the latest entertainment offerings and stay informed about popular culture.",
+            "summary": "TVLine's daily 'What to Watch' column spotlights new and returning English-language shows and select movies across broadcast, cable, and streaming. It details fresh episodes and premieres, offering viewers a comprehensive guide to upcoming entertainment. This feature assists audiences in navigating the vast television and film landscape for their daily viewing choices.",
             "url": "https://www.tvline.com/2036417/what-to-watch-november-30-2025-tv-shows-movies/",
             "category": "National",
             "date": "2025-11-30T12:00:00Z"
         },
         {
             "title": "Links 11/30/2025",
-            "summary": "This news previews an article on a robot's advanced walking capabilities, indicated by 'Robot Walks for Three D\u2026'. While specific details are scarce, the comprehensive report (over 6800 characters) promises to elaborate on significant advancements in robotic locomotion, potentially highlighting endurance or complex 3D movement. This marks a notable technological development.",
+            "summary": "Recent reports detail a significant robotic advancement, featuring a robot's enhanced walking capabilities. The mention of 'Three D' likely indicates progress in its dimensional movement, endurance, or operational duration. This development reflects ongoing rapid strides in robotics and AI, with potential applications across automation and future technologies, crucial for general awareness for SSB aspirants.",
             "url": "https://www.nakedcapitalism.com/2025/11/links-11-30-2025.html",
             "category": "Sci & Tech",
             "date": "2025-11-30T11:55:44Z"
-        },
-        {
-            "title": "\u2018They melt their bones\u2019: Indian Army soldiers\u2019 cricket match in snow-laden landscape steals hearts. Watch",
-            "summary": "Indian Army soldiers secure national borders amidst extreme high-altitude conditions. They endure sub-freezing temperatures, deadly blizzards, painful winds, and poor visibility, showcasing immense resilience. This highlights the profound challenges and unwavering dedication of our forces in safeguarding the nation, a critical aspect for every aspiring officer to understand.",
-            "url": "https://indianexpress.com/article/trending/trending-in-india/indian-army-soldiers-cricket-match-in-snow-laden-landscape-steals-hearts-watch-10394544/",
-            "category": "Defence",
-            "date": "2025-11-30T11:45:20Z"
-        },
-        {
-            "title": "Week 7 Fantasy Basketball Schedule Primer: Warriors march on without Stephen Curry",
-            "summary": "The NBA is gearing up for a demanding Week 7, with most of its 30 teams scheduled to play four games. This busy period serves as the final full week before the highly anticipated Emirates NBA Cup quarterfinals. The crowded schedule is strategic, setting the stage for intense competition as teams vie for advancement in the cup tournament, highlighting a major event in global sports.",
-            "url": "https://sports.yahoo.com/articles/week-7-fantasy-basketball-schedule-110000061.html",
-            "category": "International",
-            "date": "2025-11-30T11:00:00Z"
-        },
-        {
-            "title": "DELIVERY OF 'TARAGIRI', THE FOURTH NILGIRI CLASS (PROJECT 17A) INDIGENOUS ADVANCED STEALTH FRIGATE",
-            "summary": "India's Ministry of Defence announced Taragiri (Yard 12653), the fourth ship of the Nilgiri Class (Project 17A) stealth frigates, is progressing. As the third built by Mazagon Dockyards Limited, this warship signifies a vital advancement in India's indigenous shipbuilding capabilities for the Indian Navy. Its induction will bolster maritime security and strengthen the nation's naval power.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251129-india-pib02.htm",
-            "category": "Defence",
-            "date": "2025-11-30T10:58:15Z"
-        },
-        {
-            "title": "Indian Army using indigenous armoured vehicles, ATVs in UN missions: Deputy Army Chief",
-            "summary": "Indian Army's Deputy Chief, Lt Gen Rakesh Kapoor, stated India has significantly strengthened protection, mobility, and logistics for its troops deployed in UN Peacekeeping Missions. This strategic upgrade aims to enhance operational effectiveness and ensure the safety of Indian peacekeepers in challenging global environments. These improved capabilities reflect India's ongoing commitment to international peace and security efforts.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-using-indigenous-armoured-vehicles-atvs-in-un-missions-deputy-army-chief/articleshow/125671303.cms",
-            "category": "Defence",
-            "date": "2025-11-30T10:03:48Z"
-        },
-        {
-            "title": "Of botany, bugs and bots",
-            "summary": "This article explores the unexpected connections between diverse scientific fields, such as memory in rice plants, microbes producing chemicals, and tiny robots. It aims to reveal a unifying pattern among these seemingly unrelated breakthroughs in biology, biotechnology, and robotics. For an SSB aspirant, understanding such interdisciplinary advancements is crucial for general awareness and comprehending the rapid pace of scientific innovation.",
-            "url": "https://www.thehindubusinessline.com/specials/pulse/of-botany-bugs-and-bots/article70341386.ece",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T09:45:11Z"
-        },
-        {
-            "title": "Learn Tamil during Kashi-Tamil Sangamam: PM Modi",
-            "summary": "Prime Minister Modi, in his 'Mann ki Baat' address, urged citizens to participate in the Kashi-Tamil Sangamam at Varanasi. He highlighted this as a key opportunity to learn Tamil and strengthen cultural bonds between Kashi and Tamil Nadu. The initiative promotes national integration by celebrating India's diverse heritage and fostering cultural exchange, enhancing mutual understanding across different regions.",
-            "url": "https://economictimes.indiatimes.com/news/india/learn-tamil-during-kashi-tamil-sangamam-pm-modi/articleshow/125670907.cms",
-            "category": "National",
-            "date": "2025-11-30T09:20:42Z"
-        },
-        {
-            "title": "Indian, British armies conclude 8th edition of Exercise Ajeya Warrior",
-            "summary": "The Indian and British armies recently concluded the eighth biennial joint exercise, Ajeya Warrior. This significant drill, held to enhance interoperability and mutual understanding between the forces, concluded on Sunday. Such exercises are crucial for strengthening bilateral defence cooperation and preparing for modern security challenges, benefiting both nations' strategic capabilities and fostering regional security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-british-armies-conclude-8th-edition-of-exercise-ajeya-warrior/articleshow/125670905.cms",
-            "category": "Defence",
-            "date": "2025-11-30T09:20:32Z"
-        },
-        {
-            "title": "Op Sagar Bandhu: Another C-130J deployed, Mi-17 helicopters positioned in Colombo",
-            "summary": "The Indian Air Force (IAF) has deployed an additional C-130J transport aircraft and positioned Mi-17 V5 helicopters in Colombo, Sri Lanka. This is part of India's ongoing humanitarian assistance operation, \"Sagar Bandhu,\" demonstrating India's commitment to regional stability and disaster relief efforts using its military assets to support neighboring nations during times of need.",
-            "url": "https://www.thehindubusinessline.com/news/world/op-sagar-bandhu-another-c-130j-deployed-mi-17-helicopters-positioned-in-colombo/article70341440.ece",
-            "category": "Defence",
-            "date": "2025-11-30T09:08:24Z"
-        },
-        {
-            "title": "Spirit of \u2018vocal for local\u2019 now a part of millions of Indians, says PM Modi",
-            "summary": "Prime Minister Narendra Modi lauded the success of the 'Vocal for Local' campaign during the recent festive season, encouraging citizens to support indigenous products. He also highlighted the remarkable growth of India's honey business, indicating a positive trend in local entrepreneurship and economic self-reliance. This reinforces the 'Aatmanirbhar Bharat' vision.",
-            "url": "https://www.thehindubusinessline.com/news/spirit-of-vocal-for-local-now-a-part-of-millions-of-indians-says-pm-modi/article70341355.ece",
-            "category": "National",
-            "date": "2025-11-30T08:23:26Z"
-        },
-        {
-            "title": "Bradley Chubb has momentum quote that should fire up Dolphins fans",
-            "summary": "An article from The Sporting News highlights a motivational quote from Bradley Chubb, intended to ignite enthusiasm among Miami Dolphins fans. The piece suggests Chubb's remarks are designed to build team momentum and foster fan engagement. Specific details of the quote and its broader context are not provided in the available text, but the focus is clearly on professional sports. ",
-            "url": "https://www.sportingnews.com/us/nfl/miami-dolphins/news/bradley-chubb-has-momentum-quote-should-fire-dolphins-fans/b6feaf859839dfe52d5a0167",
-            "category": "National",
-            "date": "2025-11-30T07:54:51Z"
-        },
-        {
-            "title": "In Mann ki Baat, PM Modi calls youth the core strength of \u2018Viksit Bharat\u2019",
-            "summary": "Prime Minister Modi highlighted the dedication of India's youth as the greatest strength for achieving 'Viksit Bharat'. He cited recent national achievements across diverse sectors, including advancements in space manufacturing, as examples of this progress. This underscores the government's focus on harnessing youth potential for national development and technological self-reliance, crucial for India's future growth and global standing.",
-            "url": "https://www.thehindubusinessline.com/news/national/in-mann-ki-baat-pm-modi-calls-youth-the-core-strength-of-viksit-bharat/article70341264.ece",
-            "category": "National",
-            "date": "2025-11-30T07:30:44Z"
-        },
-        {
-            "title": "5\ufe0f\u20e3 Start your day:  Flamengo soar, Bar\u00e7a win",
-            "summary": "This Sunday, November 30, an article introduces \"5 news of the day\" for readers to discuss before a day of football matches. It sets the stage for upcoming news stories but the content beyond the introduction is truncated, only beginning with \"Hector Vivas - 2025 Ge...\" without providing any actual details about the news items themselves. The full scope of the discussed news is therefore unavailable.",
-            "url": "https://onefootball.com/en/news/5-start-your-day-flamengo-soar-barca-win-42025803",
-            "category": "National",
-            "date": "2025-11-30T07:16:00Z"
-        },
-        {
-            "title": "'New thinking, innovation, youth power': PM Modi lauds Gen Zs attempting to fly drones in Mars-like conditions",
-            "summary": "Prime Minister Narendra Modi lauded India's significant achievements in the space sector, attributing its success to the nation's \"new thinking, innovation, and youth power.\" He emphasized how these strides reflect India's growing self-reliance and global standing in space technology. This recognition aims to inspire future generations, underscoring the importance of scientific exploration and technological advancement for national progress and global leadership.",
-            "url": "https://economictimes.indiatimes.com/news/science/new-thinking-innovation-youth-power-pm-modi-lauds-gen-zs-attempting-to-fly-drones-in-mars-like-conditions/articleshow/125669692.cms",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T06:55:08Z"
-        },
-        {
-            "title": "Yankees news: Tucker viewed as backup plan to Bellinger",
-            "summary": "Major League Baseball's New York Yankees are reportedly targeting star players Kyle Tucker and Cody Bellinger in free agency. Despite not yet making a significant acquisition, these two prominent talents have emerged as the Yankees' primary objectives to bolster their roster. This reflects the ongoing strategic player movements within professional sports leagues.",
-            "url": "https://www.pinstripealley.com/yankees-news/171139/yankees-news-kyle-tucker-backup-plan-cody-bellinger-spencer-jones-payroll",
-            "category": "International",
-            "date": "2025-11-30T05:00:00Z"
-        },
-        {
-            "title": "\u2018Fake AI videos still have a long way to go\u2019: Sachin Pilot calls out fake clip on Oxford Union debate row",
-            "summary": "Congress leader Sachin Pilot dismissed a video portraying him discussing the Oxford Union debate controversy as fake. He stated AI videos still need significant advancement, implying current deepfake technology isn't perfect. This incident highlights the growing challenge of misinformation spread via sophisticated AI tools, affecting public figures and political discourse, urging careful scrutiny of online content.",
-            "url": "https://indianexpress.com/article/india/sachin-pilot-calls-out-fake-clip-on-oxford-union-debate-row-10393602/",
-            "category": "National",
-            "date": "2025-11-30T01:45:33Z"
-        },
-        {
-            "title": "What is Taiwan's T-Dome?",
-            "summary": "Taiwan's government has proposed an additional $40 billion in defence spending over several years. This substantial investment is primarily aimed at developing a multi-layered air defence system. The move underscores Taiwan's strategic efforts to bolster its defensive capabilities amidst regional geopolitical complexities, making it a crucial development for defence observers and SSB aspirants to track regarding international security dynamics.",
-            "url": "https://www.spacewar.com/reports/What_is_Taiwans_T-Dome_999.html",
-            "category": "Defence",
-            "date": "2025-11-30T00:46:47Z"
-        },
-        {
-            "title": "Top 10: Aircraft that were overshadowed",
-            "summary": "This article explores aviation history, highlighting 10 superb aircraft that, despite their excellence, remain overshadowed by more famous designs. It delves into how some groundbreaking machines play second fiddle, offering SSB aspirants insights into overlooked technological marvels and the broader narrative of flight innovation. This expands general knowledge.",
-            "url": "https://www.yahoo.com/news/articles/top-10-aircraft-were-overshadowed-000145389.html",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T00:01:45Z"
-        },
-        {
-            "title": "Music Notes",
-            "summary": "The article details the author's recent experience of attending a Richard Thompson concert at the Jane Pickens Theater in Newport, Rhode Island. It highlights this musical event as a significant personal occasion for the author, marking their sixth time seeing the acclaimed artist. The narrative focuses on a cultural experience within a specific venue in the United States.",
-            "url": "https://www.lawyersgunsmoneyblog.com/2025/11/music-notes-230",
-            "category": "National",
-            "date": "2025-11-30T00:00:00Z"
-        },
-        {
-            "title": "Showing Plaintiffs' House in an Ad for Netflix Real Estate Reality Show Isn't Actionable Invasion of Privacy,",
-            "summary": "Justices Mark Hanasono and Anne Egerton recently issued a lengthy opinion in Dinho v. Netflix, Inc., detailing factual allegations. The document, published last week, outlines plaintiffs' claims against the streaming giant. It notes the plaintiffs' home is on a ridgeline, strongly implying the legal dispute concerns property, land use, or environmental impact related to Netflix's operational activities.",
-            "url": "https://reason.com/volokh/2025/12/01/showing-plaintiffs-house-in-an-ad-for-netflix-real-estate-reality-show-isnt-actionable-invasion-of-privacy/",
-            "category": "Sci & Tech",
-            "date": "2025-11-29T23:41:56Z"
-        },
-        {
-            "title": "A German court may have just shattered one of the Biden era\u2019s biggest lies",
-            "summary": "A report by Jonathan Turley for The Hill highlights a recent development where a German court's decision may have significantly challenged a major claim or narrative associated with the Biden administration. Dated November 29, 2025, the news suggests a legal or political ruling from Germany with considerable international implications, potentially impacting U.S. political discourse regarding the current presidential era.",
-            "url": "https://freerepublic.com/focus/f-news/4355223/posts",
-            "category": "International",
-            "date": "2025-11-29T23:30:12Z"
-        },
-        {
-            "title": "What is Cartel de los Soles and is this conflict about drugs or Venezuela's vast oil reserves? Explainer on US Venezuela tensions",
-            "summary": "The article explores 'Cartel de los Soles,' analyzing whether the Venezuelan conflict stems from drug trafficking or its vast oil reserves. It discusses US claims linking Venezuela's significant oil wealth with alleged drug networks. This highlights a complex geopolitical situation where economic interests, illicit trade, and international allegations intertwine, impacting regional stability and foreign relations.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/what-is-cartel-de-los-soles-and-is-this-conflict-about-drugs-or-venezuelas-vast-oil-reserves-explainer-on-us-venezuela-tensions-senior-military-officers-foreign-terrorist-list-wider-geopolitical-struggle-us-regional-security-diplomatic-tensions-airspace-caribbean-nuclear-submarine-military-buildup/articleshow/125666733.cms",
-            "category": "International",
-            "date": "2025-11-29T22:55:40Z"
-        },
-        {
-            "title": "14 Major US Navy Ships Sunk During WW2",
-            "summary": "This article introduces the formidable threat posed by United States Navy submarines, even before their nuclear-powered era. It specifically references the Gato-class submarine, USS Wahoo, as a representative example. The text emphasizes that these early submarines, despite not being considered exceptionally unique, were nevertheless a significant and unwelcomed encounter for any sailor, setting the stage for their historical impact.",
-            "url": "https://www.slashgear.com/2035677/navy-ships-sunk-ww2/",
-            "category": "Defence",
-            "date": "2025-11-29T20:05:25Z"
-        },
-        {
-            "title": "With Hot Oven (Thanksgiving) Behind Us, It\u2019s Now Hot Stove Season",
-            "summary": "The provided article snippet begins with a humorous, personal reflection on post-holiday experiences, specifically detailing overeating turkey and yams, and navigating interactions with 'least favorite relatives'. Due to significant truncation, the comprehensive content of the remaining 5000+ characters, its main topic, and specific relevance for an SSB aspirant cannot be accurately determined from this introductory segment.",
-            "url": "https://www.athleticsnation.com/commentary-analysis/101357/with-hot-oven-thanksgiving-behind-us-its-now-hot-stove-season",
-            "category": "National",
-            "date": "2025-11-29T20:05:00Z"
         }
     ]
 }
