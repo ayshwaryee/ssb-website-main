@@ -1,313 +1,173 @@
 {
-    "last_updated": "2025-12-02T06:26:24.939995+00:00",
+    "last_updated": "2025-12-02T12:35:11.684351+00:00",
     "articles": [
         {
+            "title": "Will there be baseball in 2027? Is a salary cap coming? What you need to know about MLB's looming labor battle\ufeff",
+            "summary": "Major League Baseball faces potential disruption as its current labor agreement expires on December 1, 2026. Owners and players are preparing for critical negotiations to avoid a potential lockout or strike. The upcoming discussions are crucial for the league's future stability, highlighting the complexities of labor relations within major professional sports and their national economic implications.",
+            "url": "https://www.espn.com/mlb/story/_/id/47108752/mlb-labor-battle-cba-salary-cap-owners-players-union-mlbpa-faq-manfred",
+            "category": "National",
+            "date": "2025-12-01T12:28:36Z"
+        },
+        {
+            "title": "Sri Lanka's Deputy Minister for Tourism thanks India for aid amid Ditwah havoc",
+            "summary": "Sri Lanka's Deputy Minister for Tourism, Ruwan Ranasinghe, expressed gratitude to India and its National Disaster Response Force (NDRF) for their crucial disaster response operations. This appreciation, conveyed via the High Commission of India in Sri Lanka, underscores India's commitment to regional humanitarian assistance and strengthens bilateral ties. The gesture highlights effective cross-border cooperation in times of emergencies, reinforcing India's role as a reliable partner in disaster management.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/sri-lankas-dy-min-for-tourism-thanks-india-for-aid-amid-ditwah-havoc/articleshow/125694334.cms",
+            "category": "International",
+            "date": "2025-12-01T12:06:47Z"
+        },
+        {
+            "title": "Patiyalkad mourns its \u2018Nammo\u2019: The quiet fighter pilot who rose from a hillside village to the Tejas cockpit",
+            "summary": "Wing Commander Namansh Syal, an Indian Air Force officer and son of a former Army man, has recently gained prominence in his hometown of Patiyalkad. While previously known simply as 'Nammo,' a significant event occurring nine days ago has likely brought his contributions or actions into the public spotlight, highlighting his service to the nation.",
+            "url": "https://indianexpress.com/article/india/nammo-quiet-fighter-pilot-who-rose-hillside-village-tejas-cockpit-10396114/",
+            "category": "Defence",
+            "date": "2025-12-01T12:04:11Z"
+        },
+        {
+            "title": "Patiyalkad mourns its \u2018Nammo\u2019: The quiet fighter pilot who rose from a hillside village to the Tejas cockpit",
+            "summary": "Wing Commander Namansh Syal, son of an ex-Army man and known locally as Nammo, was until recently primarily recognized within his community. A significant event, occurring nine days ago, likely brought his professional accomplishments as a Wing Commander into national focus. This underscores the dedication and public recognition often gained by service personnel through critical operations, inspiring SSB aspirants.",
+            "url": "https://indianexpress.com/article/cities/chandigarh/nammo-quiet-fighter-pilot-who-rose-hillside-village-tejas-cockpit-10396114/",
+            "category": "Defence",
+            "date": "2025-12-01T12:04:11Z"
+        },
+        {
+            "title": "British and Indian Army conclude eighth exercise, Ajeya Warrior",
+            "summary": "The British Army's A Company, 2nd Battalion Royal Gurkha Rifles, and the Indian Army's 21st Sikh Regiment are engaged in complex joint training. This significant exercise is being conducted at the Mahajan Field Firing Ranges in Rajasthan, emphasizing enhanced interoperability and bilateral cooperation. Such combined drills are crucial for strengthening defence ties and operational readiness between India and the UK.",
+            "url": "https://www.gov.uk/government/news/british-and-indian-army-conclude-eighth-exercise-ajeya-warrior",
+            "category": "Defence",
+            "date": "2025-12-01T11:50:00Z"
+        },
+        {
+            "title": "$1.5 trillion lithium deposit found in U.S. supervolcano crater \u2014 site could supply batteries for decades",
+            "summary": "Scientists believe the McDermitt Caldera, located on the Nevada-Oregon border, might contain the world's largest lithium deposit. Formed by a collapsed magma chamber, this discovery is crucial as lithium is vital for electric vehicle batteries and various advanced technologies. This potential domestic source could significantly enhance national mineral security, reduce reliance on imports, and support the future growth of green energy and tech industries.",
+            "url": "https://www.tomshardware.com/tech-industry/manufacturing/usd1-5-trillion-lithium-deposit-found-in-u-s-supervolcano-crater-site-could-supply-batteries-for-decades",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T11:48:05Z"
+        },
+        {
+            "title": "What I Read in November 2025",
+            "summary": "Despite a busy schedule due to work like \"gift guide season\" and \"cyber week,\" an individual successfully read six books this month. Highlights included a book titled \"Conform.\" This accomplishment subtly underscores the importance of consistent personal development and time management, valuable qualities for SSB aspirants balancing various commitments and intellectual growth.",
+            "url": "https://thestripe.com/what-i-read-in-november-2025/",
+            "category": "National",
+            "date": "2025-12-01T11:00:00Z"
+        },
+        {
+            "title": "Jim Carter Appointed Director General Commercial and Industry",
+            "summary": "Jim, who previously served as Commercial Director for the Submarine Delivery Agency since 2020, is currently serving as interim Director General. He possesses extensive public and private sector experience, which is expected to be valuable in this key role within the agency. Further information regarding the specifics of his ongoing tenure or permanent appointment is anticipated.",
+            "url": "https://www.gov.uk/government/news/jim-carter-appointed-director-general-commercial-and-industry",
+            "category": "Defence",
+            "date": "2025-12-01T10:48:12Z"
+        },
+        {
+            "title": "Eight terrorists slain, 5 pushed back as forces foiled every infiltration bid across LoC this year: BSF IG",
+            "summary": "Indian security forces have reported no successful terrorist infiltration into Kashmir across the Line of Control (LoC) during the current year. This significant achievement underscores effective border management, with troops successfully eliminating eight infiltrators and repelling five others. This robust performance demonstrates enhanced operational readiness and proactive counter-infiltration strategies, ensuring regional stability and national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/eight-terrorists-slain-5-pushed-back-as-forces-foiled-every-infiltration-bid-across-loc-this-year-bsf-ig/articleshow/125691961.cms",
+            "category": "Defence",
+            "date": "2025-12-01T10:28:34Z"
+        },
+        {
+            "title": "Focus on niche areas: Vice Chief of Air Staff to private firms in defence sector",
+            "summary": "Vice Chief of Air Staff Air Marshal Narmdeshwar Tiwari advised private defence industries to focus on their core strengths and niche areas. This strategic guidance aims to bolster India's indigenous defence manufacturing capabilities and promote self-reliance. By concentrating on specialized domains, the nation can optimize resource utilization and accelerate technological advancements within the crucial defence sector, aligning with national strategic objectives for a stronger defence ecosystem.",
+            "url": "https://economictimes.indiatimes.com/news/defence/focus-on-niche-areas-vice-chief-of-air-staff-to-private-firms-in-defence-sector/articleshow/125691927.cms",
+            "category": "Defence",
+            "date": "2025-12-01T10:27:11Z"
+        },
+        {
+            "title": "Ukraine in focus as Orpo hosts Swedish PM, H\u00e4kk\u00e4nen visits US",
+            "summary": "Swedish Prime Minister Ulf Kristersson is on a two-day visit to Finland, meeting his Finnish counterpart, Petteri Orpo. Their discussions will likely focus on strengthening bilateral ties, regional security, and cooperation within the evolving European landscape, including their recent NATO memberships/applications. This visit underscores the deepening strategic partnership between the Nordic nations.",
+            "url": "https://yle.fi/a/74-20197107",
+            "category": "International",
+            "date": "2025-12-01T10:00:24Z"
+        },
+        {
+            "title": "Ato Forson warns against audit infractions at Defence Ministry",
+            "summary": "The Acting Minister of Defence has charged members of the newly inaugurated Internal Audit Committee of the Ministry of Defence (MoD) with protecting public funds. This directive emphasizes the crucial role of internal auditing in ensuring financial accountability and transparency within the defence sector. For SSB aspirants, this highlights the importance of robust oversight mechanisms to prevent misuse of resources and enhance efficiency in national defence operations.",
+            "url": "https://thechronicle.com.gh/ato-forson-warns-against-audit-infractions-at-defence-ministry/",
+            "category": "Defence",
+            "date": "2025-12-01T07:38:22Z"
+        },
+        {
+            "title": "PH, Japan hold 3rd maritime drill in WPS",
+            "summary": "Filipino and Japanese naval and air units successfully concluded their third bilateral Maritime Cooperative Activity (MCA). These joint exercises aim to enhance interoperability, strengthen defense capabilities, and foster closer security ties between the two nations. Such cooperative activities are crucial for regional stability, particularly given shared maritime security interests in the Indo-Pacific and South China Sea.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251130-pna01.htm",
+            "category": "Defence",
+            "date": "2025-12-01T07:25:03Z"
+        },
+        {
+            "title": "Top 10: Aircraft that were overshadowed",
+            "summary": "This article highlights 10 superb, yet often overlooked, aircraft from aviation history. Despite being overshadowed by more famous designs, these planes made significant contributions and showcased remarkable engineering and innovation. For SSB aspirants, this offers valuable insight into the diverse landscape of aviation development, recognizing the unsung heroes and critical technological advancements that shaped flight.",
+            "url": "https://www.yahoo.com/news/articles/top-10-aircraft-were-overshadowed-070206848.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-01T07:02:06Z"
+        },
+        {
+            "title": "Sabre rattling in the Caribbean",
+            "summary": "US President Donald Trump confirmed discussions with Venezuelan President Nicol\u00e1s Maduro, even as the United States significantly increases its military presence in the Caribbean. This development signals escalating tensions between Washington and Caracas. The substantial troop buildup suggests a potential for further conflict amidst ongoing political instability and complex diplomatic exchanges between the two nations.",
+            "url": "https://www.irishtimes.com/world/2025/12/01/trump-may-find-momentum-of-us-military-build-up-targeting-venezuela-hard-to-resist/",
+            "category": "International",
+            "date": "2025-12-01T06:36:40Z"
+        },
+        {
             "title": "Lipan Bara armoured vehicles won't be scrapped as Army still uses them, Dewan Rakyat told",
-            "summary": "Malaysia's Deputy Defence Minister Adly Z stated the Army has no plans to decommission 20 Lipan Bara armoured vehicles, made by Thailand's Chaiseri. These vehicles are still crucial for ongoing training and operational duties. This decision underscores their continued importance in maintaining the armed forces' readiness and capabilities, ensuring effective military preparedness.",
+            "summary": "Malaysia's Deputy Defence Minister Adly Z confirmed the Army has no plans to decommission 20 Lipan Bara armoured vehicles, despite their Thai origin. These vehicles remain crucial for ongoing training exercises and operational deployments. This decision highlights the continuous utilization of existing defence assets to maintain military readiness and operational effectiveness, ensuring robust national security.",
             "url": "https://www.thestar.com.my/news/nation/2025/12/01/lipan-bara-armoured-vehicles-won039t-be-scrapped-as-army-still-uses-them-dewan-rakyat-told",
             "category": "Defence",
             "date": "2025-12-01T06:19:00Z"
         },
         {
             "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "The article highlights German arms manufacturer Rheinmetall, showcasing its artillery shells. It appears to be part of a larger report detailing sales by the world's top 100 arms producers. This suggests a comprehensive analysis of the global defence industry, focusing on major players and financial trends within the international arms market, providing insights into military equipment production and trade.",
+            "summary": "A report highlights activity within the global arms industry, exemplified by German manufacturer Rheinmetall's artillery shells. The article likely details the sales performance of the world's top 100 arms producers, offering insights into defence sector trends and financial figures. This emphasizes the substantial scale of international defence procurement and manufacturing, crucial for understanding global security dynamics.",
             "url": "https://www.hurriyetdailynews.com/arms-makers-see-record-revenues-as-tensions-fuel-demand-report-216304",
             "category": "Defence",
             "date": "2025-12-01T06:06:41Z"
         },
         {
             "title": "SCYTALYS: Strategic agreement with Indonesian PTDI for the development of a Maritime Surveillance aircraft",
-            "summary": "Greece's SCYTALYS and an Indonesian company signed a strategically important framework agreement in Athens on November 21, 2025. This collaboration, likely focused on defence communication systems given SCYTALYS's expertise, signifies strengthening bilateral ties and technological cooperation. For SSB aspirants, this highlights the growing trend of international defence partnerships and strategic technology transfers crucial for modern warfare readiness.",
+            "summary": "Greece's SCYTALYS (EFA GROUP) and an Indonesian company signed a strategically significant framework agreement in Athens on November 21, 2025. This pact, likely focusing on defence or advanced technology collaboration, aims to strengthen industrial cooperation between the two nations. For SSB aspirants, it underscores the growing importance of international strategic partnerships in boosting national security and technological capabilities.",
             "url": "https://www.naftemporiki.gr/english/2040611/scytalys-strategic-agreement-with-indonesian-ptdi-for-the-development-of-a-maritime-surveillance-aircraft/",
             "category": "Defence",
             "date": "2025-12-01T06:02:14Z"
         },
         {
             "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "Global arms sales by top 100 manufacturers hit a record $679 billion last year, propelled by increased demand from ongoing conflicts like the wars in Ukraine and Gaza. This surge signifies a global trend towards rearmament and heightened defence spending, reflecting evolving international security dynamics and strategic priorities worldwide for defence aspirants to note.",
+            "summary": "Global arms sales by the top 100 manufacturers reached a record $679 billion last year, significantly boosted by the wars in Ukraine and Gaza. This surge highlights heightened global instability and increased defence spending worldwide. For SSB aspirants, understanding this trend is vital for grasping international security dynamics, the economics of conflict, and the evolving landscape of global defence industries.",
             "url": "https://www.digitaljournal.com/business/arms-makers-see-record-revenues-as-tensions-fuel-demand-report/article",
             "category": "Defence",
             "date": "2025-12-01T05:55:48Z"
         },
         {
             "title": "Week 13 INSTANT fantasy takeaways: Panthers stun Rams + Colts collapse + Holiday games reactions",
-            "summary": "Sports analysts Matt Harmon and Chris Allen provided instant fantasy reactions to Week 13's American football action, including key games played over Thanksgiving and Black Friday. Their detailed analysis covered player performances, game outcomes, and strategic implications for fantasy football leagues, offering insights for enthusiasts. This expert commentary aimed to guide participants through the season's crucial developments and roster decisions.",
+            "summary": "Matt Harmon and Chris Allen delivered instant fantasy sports reactions covering all the action from Week 13. Their analysis specifically included games played over the Thanksgiving and Black Friday weekend. This segment provided critical insights and strategic advice for fantasy league participants, focusing on player performances and implications for team management in American football fantasy leagues.",
             "url": "https://sports.yahoo.com/fantasy/article/week-13-instant-fantasy-takeaways-panthers-stun-rams--colts-collapse--holiday-games-reactions-055454361.html",
             "category": "National",
             "date": "2025-12-01T05:55:15Z"
         },
         {
             "title": "Taiwan's first domestically-built submarine misses delivery deadline",
-            "summary": "Taiwan's defence minister announced that local shipbuilder CSBC Corp has missed the deadline for completing the nation's first domestically-made submarine. This setback impacts Taiwan's crucial indigenous submarine program, which aims to bolster its naval defence capabilities and reduce reliance on foreign suppliers amidst regional tensions. The delay affects Taiwan's strategic pursuit of self-sufficiency in critical military hardware.",
+            "summary": "Taiwanese shipbuilder CSBC Corp has missed the deadline for completing Taiwan's first domestically-made submarine, the Defence Minister confirmed. This delay in the indigenous submarine program is significant for Taiwan's defence self-reliance amidst regional complexities. For SSB aspirants, this illustrates the challenges and strategic importance of local defence manufacturing capabilities and project management in national security.",
             "url": "https://www.channelnewsasia.com/east-asia/taiwan-first-domestic-built-submarine-miss-delivery-deadline-csbc-corp-5499251",
             "category": "Defence",
             "date": "2025-12-01T05:50:00Z"
         },
         {
             "title": "Cyclone Ditwah batters Sri Lanka as it claims 334 lives, leaves 370 missing",
-            "summary": "Sri Lanka is facing a humanitarian crisis following Cyclone Ditwah, with the Disaster Management Centre confirming at least 334 fatalities and 370 people still missing. The devastating cyclone has caused widespread destruction across the island nation, necessitating urgent relief and recovery operations. This natural disaster underscores the severe impact of extreme weather events and the critical need for international support for affected populations.",
+            "summary": "Cyclone Ditwah has caused significant devastation in Sri Lanka, resulting in 334 confirmed deaths and leaving 370 people missing, according to the Disaster Management Centre. This severe natural disaster highlights the urgent need for robust emergency response and resilience strategies in vulnerable nations. The scale of the humanitarian crisis may necessitate international assistance for relief and recovery efforts.",
             "url": "https://www.thehindubusinessline.com/news/world/cyclone-ditwah-batters-sri-lanka-as-it-claims-334-lives-leaves-370-missing/article70344176.ece",
             "category": "International",
             "date": "2025-12-01T05:37:43Z"
         },
         {
             "title": "Diljit Dosanjh Takes to the Skies in \u2018Border 2\u2019 First Look as Film Expands Beyond Battlefield (EXCLUSIVE)",
-            "summary": "T-Series and JP Films have unveiled the first look of Diljit Dosanjh in \"Border 2.\" The upcoming film is set to expand its scope beyond ground forces to prominently feature the Indian Air Force. This sequel promises a broader portrayal of India's armed forces, offering audiences an expanded view of military operations and valor, building anticipation for its release.",
+            "summary": "The first look of Diljit Dosanjh in \"Border 2\" has been unveiled, revealing the film's expanded scope to include the Indian Air Force alongside ground forces. This cinematic portrayal will depict integrated operations of India's armed forces, offering SSB aspirants a broader perspective on national defence capabilities and inter-service cooperation. Such films often serve as a source of inspiration and insight into military life.",
             "url": "https://variety.com/2025/film/news/diljit-dosanjh-border-2-first-look-1236596051/",
             "category": "Defence",
             "date": "2025-12-01T05:26:27Z"
         },
         {
-            "title": "UPSC Current Affairs Pointers of the past week | November 24 to November 30, 2025",
-            "summary": "This article introduces the weekly 'UPSC Current Affairs Pointers' series, designed for aspirants of UPSC, State PCS, and other competitive exams. It aims to provide in-depth content beyond headlines, covering significant national events and developments. The series offers comprehensive insights crucial for analytical preparation, ensuring students are well-informed on key national issues for their examinations.",
-            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-current-affairs-pointers-past-week-november-24-to-30-2025-10389611/",
-            "category": "National",
-            "date": "2025-12-01T05:12:03Z"
-        },
-        {
             "title": "Acquisition of LIM College by Japan Educational Foundation\u00a0Completed",
-            "summary": "LIM College has been acquired by the Japan Educational Foundation (JEF), formalizing a deal first revealed in May. This strategic acquisition integrates the college into JEF's expanding global portfolio, marking a significant development in international educational sector consolidation and cross-border investment within higher education.",
+            "summary": "Japan Educational Foundation (JEF) has officially completed its acquisition of LIM College, a deal initially revealed in May. This strategic transaction sees LIM College becoming a key part of JEF's expanding global educational portfolio. The successful closure signifies a significant consolidation within the international education sector, enhancing JEF's worldwide presence through the integration of LIM College.",
             "url": "http://wwd.com/business-news/business-features/lim-college-acquistion-japan-educational-foundation-completed-1238360100/",
             "category": "International",
             "date": "2025-12-01T05:01:00Z"
-        },
-        {
-            "title": "Yankees news: To trade or not to trade",
-            "summary": "The article discusses MLB trade rumors concerning the New York Yankees' strategic outfield decisions. The team faces choices regarding their major-league outfield composition and the future of promising prospects like Jasson Dom\u00ednguez. This highlights the complex personnel management in professional sports, balancing immediate needs with long-term talent development and potential trade considerations within the league.",
-            "url": "https://www.pinstripealley.com/yankees-news/171186/yankees-news-dominguez-jones-outfield-depth-trades-japanese-market-tanaka-imai-volatile-free-agents-bellinger-williams",
-            "category": "International",
-            "date": "2025-12-01T05:00:00Z"
-        },
-        {
-            "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "Global arms sales by the top 100 manufacturers reached a record $679 billion last year. This surge was primarily fueled by heightened demand due to ongoing conflicts in Ukraine and Gaza. However, despite the increased orders, the defence industry experienced production bottlenecks, which subsequently hampered timely deliveries. This trend underscores the significant economic and strategic impact of international conflicts on the global defence sector.",
-            "url": "https://japantoday.com/category/world/arms-makers-see-record-revenues-as-tensions-fuel-demand-report",
-            "category": "Defence",
-            "date": "2025-12-01T04:34:36Z"
-        },
-        {
-            "title": "Opening NFL Week 14 Odds and Betting Lines: Lions -3 vs Cowboys on TNF",
-            "summary": "NFL Week 14 in December marks a critical period for American football teams. Teams on the playoff bubble face extremely slim margins for error, intensely jockeying for crucial postseason positioning. The article highlights the competitive landscape, specifically mentioning the Dallas Cowboys, as teams push towards securing a spot in the playoffs with heightened stakes.",
-            "url": "https://www.covers.com/nfl/week-14-odds-2025",
-            "category": "International",
-            "date": "2025-12-01T02:03:00Z"
-        },
-        {
-            "title": "Cyclone Ditwah: Indian Nationals Stranded In Sri Lanka Brought To Thiruvananthapuram On IAF Aircraft",
-            "summary": "Fifty-five civilians, including Indians, foreign nationals, and Sri Lankan survivors, were successfully evacuated to Colombo. This critical operation involved two Indian helicopters working round the clock. The swift action demonstrates India's significant humanitarian assistance capabilities and its commitment to regional support, often leveraging defence assets for disaster relief and civilian safety initiatives abroad.",
-            "url": "https://www.ndtvprofit.com/world/cyclone-ditwah-indian-nationals-stranded-in-sri-lanka-brought-to-thiruvananthapuram-on-iaf-aircraft",
-            "category": "Defence",
-            "date": "2025-12-01T01:48:04Z"
-        },
-        {
-            "title": "Hypocrisy and folly: why Australia\u2019s subservience to Trump\u2019s America is past its use-by date",
-            "summary": "Clinton Fernandes is recognized as a leading analyst of Australian security policy, known for his original insights. His expertise is likely informed by an early career within the Australian Army Intelligence Corps, providing him with a unique perspective on defence and security matters relevant to national interests.",
-            "url": "https://theconversation.com/hypocrisy-and-folly-why-australias-subservience-to-trumps-america-is-past-its-use-by-date-268664",
-            "category": "Defence",
-            "date": "2025-12-01T01:46:28Z"
-        },
-        {
-            "title": "Top 100 weapons makers post record $679bn sales despite supply-chain strains: Report",
-            "summary": "Global arms sales by the top 100 manufacturers soared to a record $679 billion last year. This surge was primarily driven by heightened demand due to ongoing conflicts, particularly in Ukraine and Gaza. While demand was robust, researchers noted that significant production issues prevented timely deliveries, indicating challenges in meeting the increased global appetite for armaments.",
-            "url": "https://economictimes.indiatimes.com/news/defence/top-100-weapons-makers-post-record-679bn-sales-despite-supply-chain-strains-report/articleshow/125683098.cms",
-            "category": "Defence",
-            "date": "2025-12-01T01:34:05Z"
-        },
-        {
-            "title": "China\u2019s military firms see 10% revenue slump after corruption crackdown, SIPRI study shows",
-            "summary": "A recent study indicates that China's major military firms experienced a significant revenue fall last year. This decline is attributed to extensive corruption purges within the defense sector, which effectively slowed down crucial arms contracts and procurement processes. This trend offers SSB aspirants insights into the operational challenges and internal vulnerabilities impacting the industrial base of a major global military power, highlighting the systemic impact of governance issues.",
-            "url": "https://economictimes.indiatimes.com/news/defence/chinas-military-firms-see-10-revenue-slump-after-corruption-crackdown-sipri-study-shows/articleshow/125683057.cms",
-            "category": "Defence",
-            "date": "2025-12-01T01:28:12Z"
-        },
-        {
-            "title": "'Figment of imagination': Navy Chief Dinesh K. Tripathi on reports on missile test delay due to Chinese spy vessel",
-            "summary": "Chief of Naval Staff Admiral Dinesh K. Tripathi addressed reports of an Indian missile test delay attributed to a Chinese spy vessel. While not fully aware of specific details, Admiral Tripathi affirmed India possesses a robust mechanism to monitor any activity within its Exclusive Economic Zone. This highlights India's vigilant approach to maritime security and potential foreign vessel presence near sensitive defence operations.",
-            "url": "https://economictimes.indiatimes.com/news/defence/figment-of-imagination-navy-chief-dinesh-k-tripathi-on-reports-on-missile-test-delay-due-to-chinese-spy-vessel/articleshow/125682921.cms",
-            "category": "Defence",
-            "date": "2025-12-01T00:59:13Z"
-        },
-        {
-            "title": "Ex-officer tells inquiry UK military committed war crimes in Afghanistan",
-            "summary": "A public inquiry has heard a senior former British officer allege that UK special forces in Afghanistan committed war crimes by executing suspects. Despite widespread knowledge within the chain of command, these actions continued. This revelation raises serious questions about accountability and oversight within elite military units operating in conflict zones, impacting international defence ethics and practices.",
-            "url": "https://japantoday.com/category/world/ex-officer-tells-inquiry-uk-military-committed-war-crimes-in-afghanistan",
-            "category": "Defence",
-            "date": "2025-12-01T00:58:15Z"
-        },
-        {
-            "title": "All You Need To Know Going Into Trade On Monday",
-            "summary": "The Karnataka GST authority has issued a revised order to Bayer Cropscience, significantly reducing a penalty related to GST on outward supply for FY2017-18. The initial penalty of Rs 7.4 crore has been cut down to Rs 3.1 crore. This development highlights ongoing regulatory adjustments and their financial implications for corporations operating within India, providing relief for the company's past tax obligations.",
-            "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-december-1-2025",
-            "category": "National",
-            "date": "2025-12-01T00:30:00Z"
-        },
-        {
-            "title": "Ex-officer tells inquiry UK military committed war crimes in Afghanistan",
-            "summary": "A former senior British officer has testified at a public inquiry, alleging that British special forces in Afghanistan appeared to commit war crimes. He stated that suspects were executed, bringing to light serious accusations regarding the conduct of elite troops during their deployment. This ongoing inquiry is investigating the legitimacy of these operations and the accountability of personnel involved, a critical issue for international military ethics.",
-            "url": "https://uk.news.yahoo.com/ex-officer-tells-inquiry-uk-000642040.html",
-            "category": "Defence",
-            "date": "2025-12-01T00:06:42Z"
-        },
-        {
-            "title": "Top global arms producers\u2019 revenues surge as major wars rage: SIPRI report",
-            "summary": "Global arms sales by the top 100 companies reached a record $679 billion in 2024, as per new data from the Stockholm International Peace Research Institute (SIPRI). This surge reflects heightened international tensions and ongoing conflicts, driving demand for weapons and military services worldwide. Aspirants should understand the geopolitical implications of such significant defence spending.",
-            "url": "https://www.aljazeera.com/news/2025/11/30/top-global-arms-producers-revenues-surged-as-major-wars-rage-sipri-report",
-            "category": "Defence",
-            "date": "2025-11-30T23:59:56Z"
-        },
-        {
-            "title": "actuonix-lac 0.1.0",
-            "summary": "A critical website component failed to load, potentially due to browser extensions, network issues, or specific browser settings. Users encountering this technical problem are advised to troubleshoot by checking their internet connection, disabling any ad blockers, or attempting to access the site using a different web browser to ensure full functionality.",
-            "url": "https://pypi.org/project/actuonix-lac/0.1.0/",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T23:43:18Z"
-        },
-        {
-            "title": "actuonix-lac added to PyPI",
-            "summary": "A technical error prevented a website component from loading, potentially due to browser extensions, network problems, or user settings. Aspirants are reminded that such digital literacy issues can impact information access. Troubleshooting steps include checking internet connection, disabling ad blockers, or trying an alternative browser to ensure seamless online resource utilization.",
-            "url": "https://pypi.org/project/actuonix-lac/",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T23:43:18Z"
-        },
-        {
-            "title": "Before Lanterns, This Green Lantern Series Nearly Became a Reality",
-            "summary": "Prior to DC Studios' upcoming 'Lanterns' series, a 'Green Lantern' live-action project nearly cast Jeremy Irvine as Alan Scott and Finn Wittrock as Guy Gardner for HBO Max. This earlier iteration would have explored the iconic DC Comics universe, focusing on key Green Lantern characters, but ultimately did not proceed in its original form, giving aspirants insight into major entertainment production developments.",
-            "url": "https://bleedingcool.com/tv/before-lanterns-this-green-lantern-series-nearly-became-a-reality/",
-            "category": "National",
-            "date": "2025-11-30T23:37:04Z"
-        },
-        {
-            "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "Global arms sales by top 100 manufacturers hit a record $679 billion last year, largely propelled by ongoing conflicts in Ukraine and Gaza. This surge signifies escalating global instability and increased defence spending worldwide. For SSB aspirants, understanding these geopolitical dynamics and their impact on international security and military preparedness is crucial.",
-            "url": "https://www.digitaljournal.com/world/arms-makers-see-record-revenues-as-tensions-fuel-demand-report/article",
-            "category": "Defence",
-            "date": "2025-11-30T23:27:20Z"
-        },
-        {
-            "title": "Early Week 14 Defense Fantasy Rankings: D/ST lineup tips on who to start, best sleepers, streamers",
-            "summary": "This Sporting News article provides early Week 14 fantasy football rankings for defensive and special teams (D/ST) units. It offers essential lineup tips, recommending which players to start, identifying 'sleepers' for surprise performances, and 'streamers' to help fantasy players optimize their team's defensive scoring for the upcoming week.",
-            "url": "https://www.sportingnews.com/us/nfl/news/fantasy-football-defense-rankings-week-14-2025/c9dd51533c14afd1b291368b",
-            "category": "Defence",
-            "date": "2025-11-30T23:23:01Z"
-        },
-        {
-            "title": "Badaru is unfit, sack him",
-            "summary": "Nigeria's Minister of Defence, Abubakar Badaru, faces intense criticism following a BBC Hausa interview, where he appeared 'hopelessly confused.' Accusations of being unfit to lead the Defence Ministry, responsible for overseeing Nigeria's military, are widespread. This raises serious concerns regarding leadership competence and national security in a key African nation's defence establishment.",
-            "url": "https://punchng.com/badaru-is-unfit-sack-him/",
-            "category": "Defence",
-            "date": "2025-11-30T23:21:31Z"
-        },
-        {
-            "title": "Week 13 winners and losers: Bijan Robinson runs wild, Davante Adams makes history",
-            "summary": "Week 13 of the 2025 fantasy football season witnessed noteworthy performances from key players. Bijan Robinson, A.J. Brown, and Patrick Mahomes delivered standout results, significantly impacting fantasy league standings. Other prominent fantasy stars like Lamar Jackson and Jahmyr Gibbs were also featured. This update provides crucial insights for enthusiasts tracking individual player contributions and overall league developments during this competitive week.",
-            "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-47154022/nfl-week-13-fantasy-football-winners-losers-injuries-rankings-more",
-            "category": "International",
-            "date": "2025-11-30T23:20:29Z"
-        },
-        {
-            "title": "Arms makers see record revenues as tensions fuel demand: report",
-            "summary": "Global arms sales soared to a record $679 billion last year, fueled primarily by the ongoing conflicts in Ukraine and Gaza. The heightened geopolitical tensions and increased demand for military equipment significantly boosted revenues for the world's top 100 arms manufacturers. This reflects the substantial impact of international wars on the global defence industry.",
-            "url": "https://finance.yahoo.com/news/arms-makers-see-record-revenues-231835678.html",
-            "category": "Defence",
-            "date": "2025-11-30T23:18:35Z"
-        },
-        {
-            "title": "Top 10: Aircraft that were overshadowed",
-            "summary": "This article explores aviation history, highlighting 10 superb aircraft often overshadowed by more famous designs. It sheds light on these less-recognized yet highly capable machines, encouraging aspirants to appreciate their innovative features and significant contributions to flight technology, which are crucial for a comprehensive understanding of aerospace advancements beyond popular narratives.",
-            "url": "https://www.yahoo.com/news/articles/top-10-aircraft-were-overshadowed-230149604.html",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T23:01:49Z"
-        },
-        {
-            "title": "Early Week 14 Fantasy Kicker Rankings: Who to start, best sleepers, top streamers at K this week",
-            "summary": "The Sporting News released its early Week 14 fantasy kicker rankings, offering strategic advice for fantasy sports enthusiasts. The guide details top players to start, identifies potential 'sleepers' for unexpected performance, and highlights key streamers for fantasy football leagues, aiding participants in making informed roster decisions for the upcoming week's games.",
-            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-kicker-rankings-week-14-2025/e39a7ff40d302ecfe9041560",
-            "category": "National",
-            "date": "2025-11-30T22:15:54Z"
-        },
-        {
-            "title": "Dyson\u2019s Cyber Monday deals are giving big air and big hair: Save big",
-            "summary": "As the holiday shopping rush intensifies, the New York Post article likely addresses critical cybersecurity concerns. It probably details common online threats, phishing scams, and essential measures consumers can take to protect their personal and financial data during peak digital transactions. The report likely emphasizes safe online shopping practices amidst heightened cyber activity.",
-            "url": "https://nypost.com/shopping/dyson-cyber-monday-deals-sale-2025/",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T20:30:00Z"
-        },
-        {
-            "title": "La Liga round-up: Real Betis win El Gran Derbi, late winner leads Villarreal to victory as Celta Vigo lose to Espanyol",
-            "summary": "Matchday 14 of the 2025-26 La Liga football season continued on Sunday with various fixtures across Spain. Prominent matches included Real Madrid taking on Girona in a late game, alongside action involving Sevilla and other significant teams. This update covers the ongoing competitive landscape of Spain's premier professional football league, highlighting key team engagements and the sport's global appeal.",
-            "url": "https://www.football-espana.net/2025/11/30/la-liga-round-up-real-betis-villarreal-celta-espanyol",
-            "category": "International",
-            "date": "2025-11-30T19:27:00Z"
-        },
-        {
-            "title": "Best Dyson Cyber Monday Deals (2025): Gen5 Detect, Airstrait",
-            "summary": "The article focuses on Dyson Cyber Monday deals, presenting an opportune time for consumers to purchase vacuum cleaners and hair tools. It guides readers to find discounts on these advanced household and personal care appliances, highlighting the commercial aspect of the post-holiday shopping season. This reflects consumer electronics market trends and purchasing opportunities for technologically innovative products.",
-            "url": "https://www.wired.com/story/dyson-cyber-monday-deals-2025/",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T19:20:54Z"
-        },
-        {
-            "title": "This terrifying build-up shows Trump's threat to Venezuela is very real indeed",
-            "summary": "Evan Ellis, a US Army War College professor and veteran security analyst, is closely monitoring the US military build-up in the Caribbean. Drawing on over 30 years of experience, his analysis focuses on understanding these significant defence developments and their potential regional implications for security. This observation provides insights into evolving military postures.",
-            "url": "https://www.rawstory.com/trump-venezuela-2674354138/",
-            "category": "Defence",
-            "date": "2025-11-30T19:08:13Z"
-        },
-        {
-            "title": "Cyclone Ditwah batters Sri Lanka as death toll crosses 330",
-            "summary": "Sri Lanka is continuing extensive relief operations following catastrophic floods, landslides, and devastation caused by Cyclone Ditwah, which has killed over 33 people. India is providing significant assistance to Sri Lanka in these humanitarian efforts. This collaboration highlights regional cooperation during natural calamities and India's commitment to supporting neighboring nations in times of crisis, an important aspect of India's foreign policy.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/cyclone-ditwah-batters-sri-lanka-as-death-toll-crosses-330/articleshow/125677714.cms",
-            "category": "International",
-            "date": "2025-11-30T18:01:50Z"
-        },
-        {
-            "title": "The derby goes green and white: Betis beat Sevilla on a fiery afternoon",
-            "summary": "In a fiercely contested Seville Derby, Betis emerged victorious after an eventful match. They established an early lead, with Pablo Fornals scoring the decisive goal in the second half. This significant win highlights Betis's strong performance in a crucial local showdown, showcasing their dominance against their rivals.",
-            "url": "https://onefootball.com/en/news/the-derby-goes-green-and-white-betis-beat-sevilla-on-a-fiery-afternoon-42028231",
-            "category": "National",
-            "date": "2025-11-30T17:39:00Z"
-        },
-        {
-            "title": "The Navy kept chasing a 100% solution to the point where they ended up with 0% of the ship being delivered",
-            "summary": "The U.S. Navy, after discontinuing its LCS program in 2023, awarded a significant production contract to Wisconsin-based Fincantieri Marinette Marine. This contract is for constructing a new, advanced type of vessel, replacing the previous program. This move signifies the Navy's strategic shift in its fleet modernization efforts, aiming for more capable ships for future operational demands.",
-            "url": "https://www.isegoria.net/2025/11/the-navy-kept-chasing-a-100-solution-to-the-point-where-they-ended-up-with-0-of-the-ship-being-delivered/",
-            "category": "Defence",
-            "date": "2025-11-30T17:32:23Z"
-        },
-        {
-            "title": "How DJ LeMahieu has a $15 million impact on Yankees' free agency",
-            "summary": "The news details baseball player DJ LeMahieu's significant $15 million financial impact on the New York Yankees' ongoing free agency strategies. This substantial figure is a critical consideration for the team's management as they navigate roster construction, player acquisitions, and overall competitive positioning for the upcoming league season, influencing key team decisions and financial planning.",
-            "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/how-dj-lemahieu-has-15-million-impact-yankees-free-agency/b3ea9db45fb5a399bee8ee7c",
-            "category": "National",
-            "date": "2025-11-30T17:28:37Z"
-        },
-        {
-            "title": "Terrorist launch pads still active across LoC, forces alert: BSF",
-            "summary": "BSF Inspector General Ashish Kumar stated that terrorist launching pads remain active across the Line of Control, despite previous successful strikes like Operation Sindoor in Pakistan-occupied Kashmir. This indicates a persistent threat of infiltration and sustained efforts by militant groups. The BSF continues to monitor and counter these challenges, reinforcing border security and vigilance against cross-border terrorism.",
-            "url": "https://economictimes.indiatimes.com/news/defence/terrorist-launch-pads-still-active-across-loc-forces-alert-bsf/articleshow/125676991.cms",
-            "category": "Defence",
-            "date": "2025-11-30T17:28:35Z"
-        },
-        {
-            "title": "American Military Vehicles That Shaped the Battlefield",
-            "summary": "Wars throughout history are defined by the courage of soldiers, sailors, airmen, and Marines, alongside the machines they operate. From tanks to advanced systems, military technology has been instrumental in shaping battlefield dynamics and outcomes. This continuous evolution of hardware alongside human bravery underscores its critical role in modern warfare and strategic planning for service personnel.",
-            "url": "https://guessingheadlights.com/american-military-vehicles-that-shaped-the-battlefield/",
-            "category": "Defence",
-            "date": "2025-11-30T17:00:41Z"
-        },
-        {
-            "title": "I Found a Dyson Cordless Stick Vacuum Under $270 for Cyber Monday and I Still Can't Believe This Deal",
-            "summary": "Dyson's premium products, known for their high quality and cost, frequently see substantial discounts during early Cyber Monday sales. This period is highlighted as ideal for purchasing Dyson vacuum cleaners, air purifiers, and hair stylers at reduced prices. Aspirants can note this makes advanced consumer technology more accessible for those seeking high-performance appliances and understanding market trends.",
-            "url": "https://uk.pcmag.com/cyber-monday/161696/i-found-a-dyson-cordless-stick-vacuum-under-270-for-cyber-monday-and-i-still-cant-believe-this-deal",
-            "category": "Sci & Tech",
-            "date": "2025-11-30T16:02:53Z"
-        },
-        {
-            "title": " The rocket of the weekend scored in Ligue 1 ",
-            "summary": "In a Ligue 1 match, Stade Brestois faced Strasbourg for the 14th matchday. After trailing 1-0 at halftime, the Bretons mounted a significant comeback against the Alsatians in the second half, turning the game around to secure a victory. This fixture highlighted a resilient performance from Brestois in the highly competitive French top-tier football league.",
-            "url": "https://onefootball.com/en/news/the-weekend-screamer-scored-in-ligue-1-42027706",
-            "category": "International",
-            "date": "2025-11-30T15:49:00Z"
         }
     ]
 }
