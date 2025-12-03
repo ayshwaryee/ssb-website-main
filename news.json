@@ -1,215 +1,320 @@
 {
-    "last_updated": "2025-12-03T01:15:01.231968+00:00",
+    "last_updated": "2025-12-03T06:25:53.181044+00:00",
     "articles": [
         {
+            "title": "5 government jobs expiring this week: Over 2,100 vacancies across UPPSC, DRDO, Prasar Bharati, NHM, SAIL; check eligibility",
+            "summary": "This article highlights over 2,100 government job vacancies across various prominent organizations with application deadlines expiring this week. Opportunities are available at UPPSC, DRDO, Prasar Bharati, NHM, and SAIL. Aspirants should review eligibility criteria promptly to apply for roles in diverse sectors, including defence, public service, broadcasting, health, and steel.",
+            "url": "https://timesofindia.indiatimes.com/education/news/5-government-jobs-expiring-this-week-over-2100-vacancies-across-uppsc-drdo-prasar-bharati-nhm-sail-check-eligibility/articleshow/125710808.cms",
+            "category": "National",
+            "date": "2025-12-02T06:24:43Z"
+        },
+        {
+            "title": "Early Week 14 Fantasy Rankings WR PPR: Who to start, best sleepers, top bye-week streamers for wide receivers",
+            "summary": "The Sporting News provides early Week 14 fantasy football rankings for wide receivers in PPR leagues. This guide offers crucial insights for fantasy enthusiasts, detailing player recommendations on who to start, identifying potential 'sleeper' picks, and suggesting top 'bye-week streamers' to help optimize team lineups for upcoming matchups.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-wr-rankings-week-14-2025/dafcc6e87e45acd141d265e5",
+            "category": "National",
+            "date": "2025-12-02T05:50:39Z"
+        },
+        {
+            "title": "SNMG1 launches High North mission, boosting NATO presence in the Norwegian Sea",
+            "summary": "NATO's Standing NATO Maritime Group 1 (SNMG1) has initiated its second High North deployment for 2025. This mission aims to reinforce Allied vigilance and enhance maritime awareness in the strategically important High North region. Such deployments underscore NATO's commitment to maintaining security and stability in the Arctic, vital for collective defence and monitoring geopolitical developments.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251201-nato-marcom01.htm",
+            "category": "Defence",
+            "date": "2025-12-02T05:44:04Z"
+        },
+        {
+            "title": "US Firms Are Snapping Up the Rare Earths Europe Needs to Rearm",
+            "summary": "Chinese rare earths sold before April 2025, ahead of new defense export restrictions, are being rapidly acquired. Buyers are snapping up these critical materials, making it difficult to quantify the rare earth elements in circulation. This high demand likely reflects anticipated supply constraints and their strategic importance due to the impending regulations.",
+            "url": "https://financialpost.com/pmn/business-pmn/us-firms-are-snapping-up-the-rare-earths-europe-needs-to-rearm",
+            "category": "Defence",
+            "date": "2025-12-02T05:22:19Z"
+        },
+        {
+            "title": "The awful arithmetic of our wars",
+            "summary": "Abraham Lincoln believed victory in war hinged on generals understanding its 'awful arithmetic' \u2013 the brutal realities and strategic calculus. This highlights the critical need for military leaders to grasp the full scope of warfare, including its human cost and resource demands, to effectively guide forces towards success. Such strategic acumen is vital for navigating complex conflict scenarios, a timeless lesson for aspiring officers.",
+            "url": "https://www.defenseone.com/ideas/2025/12/awful-arithmetic-our-wars/409852/",
+            "category": "Defence",
+            "date": "2025-12-02T04:18:21Z"
+        },
+        {
+            "title": "Soldiers Have \u2018Duty To Refuse\u2019 Hegseth\u2019s Order To Commit War Crimes",
+            "summary": "A Washington Post report alleges a war crime directly ordered by U.S. Secretary of Defense Pete Hegseth. The incident is linked to the Trump administration's actions regarding Venezuela, suggesting serious ethical breaches in international military conduct. This raises critical questions about accountability in global defence operations and potential violations of international law, which are vital for understanding complex geopolitical dynamics.",
+            "url": "https://www.lewrockwell.com/2025/12/no_author/soldiers-have-duty-to-refuse-hegseths-order-to-commit-war-crimes/",
+            "category": "Defence",
+            "date": "2025-12-02T04:01:00Z"
+        },
+        {
+            "title": "BDL shares in focus on securing Rs 2,4612 crore order from the Indian Army",
+            "summary": "Bharat Dynamics Limited (BDL), a prominent Public Sector Undertaking under India's Ministry of Defence, has secured substantial additional orders worth Rs 2,461.62 crore. This significant contract inflow underscores BDL's vital role in bolstering India's indigenous defence manufacturing capabilities and contributing to national security. Such developments are crucial for an aspirant to understand the ecosystem of India's defence industry and self-reliance efforts.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/bdl-shares-in-focus-on-securing-rs-24612-crore-order-from-the-indian-army/articleshow/125708848.cms",
+            "category": "Defence",
+            "date": "2025-12-02T03:50:41Z"
+        },
+        {
+            "title": "S-400s, Russian oil & RuPay\u2013Mir pact: Will the Modi\u2013Putin summit push India closer to Moscow and further from the West?",
+            "summary": "Russian President Vladimir Putin is set to visit India for a ModiPutin summit on December 4, marking his first trip since the Ukraine war began in early 2022. This high-profile visit underscores the ongoing strategic importance of India-Russia bilateral relations amidst global geopolitical shifts. The summit is expected to cover various aspects of cooperation, reinforcing ties between the two nations despite international scrutiny.",
+            "url": "https://economictimes.indiatimes.com/news/defence/s-400s-russian-oil-rupaymir-pact-will-the-modiputin-summit-push-india-closer-to-moscow-and-further-from-the-west/articleshow/125708291.cms",
+            "category": "International",
+            "date": "2025-12-02T03:30:41Z"
+        },
+        {
+            "title": "Stock benchmarks set to open higher after pause near record highs",
+            "summary": "Indian equity benchmarks are poised for a higher opening on Tuesday, aiming to recover after struggling to sustain record highs. This earlier struggle was primarily due to significant profit booking by investors and substantial foreign capital outflows. Despite previous volatility, the market anticipates a positive start, reflecting dynamic financial trends important for national economic stability.",
+            "url": "https://www.thehindubusinessline.com/markets/stock-benchmarks-set-to-open-higher-after-pause-near-record-highs/article70347945.ece",
+            "category": "National",
+            "date": "2025-12-02T03:27:49Z"
+        },
+        {
+            "title": "Gigabyte subsidiary partners with Syrma SGS to begin local server motherboard manufacturing in India",
+            "summary": "The article describes a common website functionality allowing subscribers to save their User ID and Password. This feature eliminates the need for users to re-enter their login credentials on every visit, significantly enhancing convenience and streamlining access to the site. Many users prefer this option to simplify their online experience, making site navigation quicker and more efficient by activating this time-saving function.",
+            "url": "https://www.digitimes.com/news/a20251202VL204/gigabyte-subsidiary-india-partnership-manufacturing.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-02T03:05:59Z"
+        },
+        {
+            "title": "Princess Aiko\u2019s popularity sparks calls to change Japan\u2019s male-only succession law",
+            "summary": "Japan's Princess Aiko, despite her popularity, is barred from ascending the Chrysanthemum Throne due to the nation's male-only succession law. With the imperial family's shrinking size, there's growing public and political debate urging reforms to allow female succession. This constitutional challenge reflects broader discussions on modernizing ancient traditions within the Japanese monarchy, a significant internal matter with international observation.",
+            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/princess-aikos-popularity-sparks-calls-to-change-japans-male-only-succession-law/articleshow/125708085.cms",
+            "category": "International",
+            "date": "2025-12-02T02:57:38Z"
+        },
+        {
+            "title": "\u2018US benefitted from H-1B, should not shut it down\u2019",
+            "summary": "SpaceX CEO Elon Musk strongly supports the US H-1B visa program, highlighting America's significant benefit from Indian talent. While acknowledging some misuse, he cautioned against ending it, emphasizing its crucial role in attracting skilled foreign professionals, particularly from India, to drive innovation and economic growth in the US tech sector. This underscores the ongoing debate on immigration's impact on global technological advancement.",
+            "url": "https://timesofindia.indiatimes.com/world/us/us-benefitted-from-h-1b-should-not-shut-it-down/articleshow/125708011.cms",
+            "category": "Sci & Tech",
+            "date": "2025-12-02T02:53:02Z"
+        },
+        {
+            "title": "Bigg Boss 19: Gaurav Khanna breaks down after being accused of using the \u2018child\u2019 topic for sympathy, says \u2018I love my wife\u2019",
+            "summary": "In Bigg Boss 19, contestant Gaurav Khanna faced emotional turmoil after being accused by fellow housemates of exploiting his child's topic for sympathy. Overwhelmed, Khanna broke down on national television, vehemently denying the allegations and affirming his profound love for his wife. The incident highlights the intense emotional pressures and personal challenges contestants endure within the reality show's competitive environment, sparking viewer discussion.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19-gaurav-khanna-breaks-down-after-being-accused-of-using-the-child-topic-for-sympathy-says-i-love-my-wife/articleshow/125707720.cms",
+            "category": "National",
+            "date": "2025-12-02T02:41:09Z"
+        },
+        {
+            "title": "Why Reliance, Bank of Maharashtra, Bharat Dynamics,\u00a0IRB InvIT, Coromandel Intl, NTPC,KEI Industries, Viceroy Hotels, Amber Enterprises GHV Infra, Ambuja Cements, Fineotex Chem, Shree Cement, East India Drums will remain in focus on Tuesday (December 2)",
+            "summary": "Reliance Industries has successfully completed the merger of its subsidiary, Star Television Productions Ltd (STPL), with Jiostar. This strategic consolidation, confirmed through regulatory updates, marks a significant development for Reliance's footprint in the media and entertainment sector. The move is expected to streamline operations and enhance the company's market position, following earlier preparations made around November 14, 2024.",
+            "url": "https://www.thehindubusinessline.com/markets/why-reliance-bank-of-maharashtra-bharat-dynamicsirb-invit-coromandel-intl-ntpckei-industries-viceroy-hotels-amber-enterprises-ghv-infra-ambuja-cements-fineotex-chem-shree-cement-east-india-drums-will/article70347891.ece",
+            "category": "National",
+            "date": "2025-12-02T02:35:38Z"
+        },
+        {
+            "title": "5 big questions for the Yankees: With Trent Grisham returning, what does the future hold for Cody Bellinger and Jasson Dominguez?",
+            "summary": "The New York Yankees, a prominent Major League Baseball team, concluded their season with a disappointing ALDS exit against the Toronto Blue Jays. Following this, the club dedicated November to strategic planning and preparations for the upcoming season. This included a significant pre-season activity, as they aim to bounce back from their recent performance.",
+            "url": "https://sports.yahoo.com/mlb/article/5-big-questions-for-the-yankees-with-trent-grisham-returning-what-does-the-future-hold-for-cody-bellinger-and-jasson-dominguez-020127579.html",
+            "category": "International",
+            "date": "2025-12-02T02:01:27Z"
+        },
+        {
+            "title": "Russia-Ukraine war: List of key events, day 1,377",
+            "summary": "On Tuesday, December 2, Russian forces launched a ballistic missile strike against Ukraine's Dnipro city. Ukrainian authorities reported this attack tragically killed four people and wounded 40 others. This incident underscores the continued intensity and human cost of the ongoing conflict between Russia and Ukraine, reflecting the persistent military engagements.",
+            "url": "https://www.aljazeera.com/news/2025/12/2/russia-ukraine-war-list-of-key-events-day-1377",
+            "category": "International",
+            "date": "2025-12-02T01:54:33Z"
+        },
+        {
+            "title": "Bajaj Housing, Bharat Dynamics, Raymond Realty, Hero MotoCorp & More",
+            "summary": "Major Indian companies, including Bajaj Housing Finance, Bharat Dynamics Ltd. (a defence PSU), Raymond Realty, Hero MotoCorp, and Maruti Suzuki India, were identified as 'stocks to watch' for Tuesday. This market analysis offers insights into key players across India's diverse economic sectors, providing valuable general awareness for SSB aspirants about national corporate developments.",
+            "url": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-bajaj-housing-bharat-dynamics-raymond-realty-hero-motocorp-maruti-suzuki",
+            "category": "National",
+            "date": "2025-12-02T01:30:00Z"
+        },
+        {
+            "title": "PM Modi pledges aid to Sri Lanka post-Cyclone Ditwah",
+            "summary": "Prime Minister Modi pledged India's unwavering support to Sri Lanka following Cyclone Ditwah's devastation. Under 'Operation Sagar Bandhu,' India swiftly dispatched essential emergency rations and relief materials. This crucial humanitarian aid reinforces India's commitment to regional solidarity and immediate assistance to neighboring nations in times of natural disasters, showcasing India's role as a first responder.",
+            "url": "https://timesofindia.indiatimes.com/india/pm-modi-pledges-aid-to-sri-lanka-post-cyclone-ditwah/articleshow/125707109.cms",
+            "category": "International",
+            "date": "2025-12-02T01:25:05Z"
+        },
+        {
+            "title": "SC refuses to grant more time for waqf detail upload on portal",
+            "summary": "The Supreme Court of India recently rejected a plea requesting an extension for uploading comprehensive details of waqf properties onto a designated national portal. This crucial decision underscores the judiciary's firm stance on ensuring timely compliance and enhancing transparency in the management of significant waqf assets across the country, reflecting ongoing efforts to streamline administrative oversight.",
+            "url": "https://timesofindia.indiatimes.com/india/sc-refuses-to-grant-more-time-for-waqf-detail-upload-on-portal/articleshow/125707059.cms",
+            "category": "National",
+            "date": "2025-12-02T01:22:01Z"
+        },
+        {
+            "title": "Study objections of Major\u2019s kin before clearing film: HC to CBFC",
+            "summary": "The Delhi High Court has directed the CBFC to consider objections from a Major's parents regarding a film before its clearance. This directive emphasizes respecting the sentiments and accurate portrayal concerns of a deceased officer's family. It highlights the judiciary's role in balancing artistic freedom with the rights and sensitivities concerning defence personnel.",
+            "url": "https://timesofindia.indiatimes.com/india/study-objections-of-majors-kin-before-clearing-film-hc-to-cbfc/articleshow/125707073.cms",
+            "category": "Defence",
+            "date": "2025-12-02T01:18:37Z"
+        },
+        {
+            "title": "SC to decide if CAA applicants can make it to rolls under SIR",
+            "summary": "The Supreme Court will consider a plea regarding the inclusion of persecuted minorities, eligible under the Citizenship Amendment Act (CAA), onto relevant rolls. This decision is crucial for individuals seeking citizenship through CAA from neighboring countries, potentially affecting their ability to be added to electoral or other civic registers. The court's ruling will clarify aspects of CAA implementation and its impact on new citizens' rights.",
+            "url": "https://timesofindia.indiatimes.com/india/sc-to-decide-if-caa-applicants-can-make-it-to-rolls-under-sir/articleshow/125707050.cms",
+            "category": "National",
+            "date": "2025-12-02T01:15:02Z"
+        },
+        {
             "title": "Parl forum for delivery, not drama, says PM Modi",
-            "summary": "Prime Minister Modi urged the opposition to stop using Parliament for expressing political frustration, especially after election defeats like in Bihar. He emphasized that the legislature's purpose is constructive debate and policymaking for national interest, not a platform for political grievances. Modi called for a focus on substantive issues rather than disrupting proceedings, highlighting the importance of parliamentary decorum for democratic functioning.",
+            "summary": "Prime Minister Modi urged the opposition to cease using Parliament for political frustration stemming from election defeats, citing Bihar. He stressed that the legislature's core function is constructive debate and law-making, not obstruction. This highlights the importance of parliamentary decorum and productive discourse for national progress, a critical aspect of India's democratic governance.",
             "url": "https://timesofindia.indiatimes.com/india/parl-forum-for-delivery-not-drama-says-pm-modi/articleshow/125707046.cms",
             "category": "National",
             "date": "2025-12-02T01:12:45Z"
         },
         {
             "title": "IITs bar from placement drive 20+ companies that rescinded offers",
-            "summary": "IITs have blacklisted over 20 companies from their placement drives for rescinding job offers previously made to students. This decisive action aims to safeguard students' interests and uphold the integrity of the rigorous IIT placement process. It sends a strong message to recruiters about accountability, ensuring fair recruitment practices and protecting the career prospects of graduating engineers.",
+            "summary": "IITs have banned over 20 companies from their future placement drives, taking a firm stand after these firms rescinded job offers previously made to students. This decisive action across the premier engineering institutes aims to protect student interests, maintain the sanctity of the placement process, and deter companies from unprofessional recruitment practices, ensuring accountability in campus hirings.",
             "url": "https://timesofindia.indiatimes.com/india/iits-bar-from-placement-drive-20-companies-that-rescinded-offers/articleshow/125706903.cms",
             "category": "National",
             "date": "2025-12-02T00:56:38Z"
         },
         {
-            "title": "Show results of anti-pollution steps: SC to Centre, NCR govts",
-            "summary": "The Supreme Court has directed the Centre and National Capital Region (NCR) governments to present concrete results of their anti-pollution measures. This directive emphasizes judicial oversight on environmental governance and accountability, urging immediate and effective implementation of policies to tackle rising pollution levels. For SSB aspirants, this highlights the judiciary's role in ensuring administrative action on critical national issues affecting public health and environment.",
-            "url": "https://timesofindia.indiatimes.com/india/show-results-of-anti-pollution-steps-sc-to-centre-ncr-govts/articleshow/125706824.cms",
-            "category": "National",
-            "date": "2025-12-02T00:37:55Z"
-        },
-        {
             "title": "Can give life convict bail during pendency of appeal if he has a fair chance of acquittal: SC",
-            "summary": "The Supreme Court has adopted a more lenient stance, ruling that a life convict can be granted bail during the pendency of their appeal. This is permissible if the individual demonstrates a 'fair chance of acquittal' and has already served a significant portion of their sentence. This decision reflects the court's evolving approach to balancing justice and individual liberty, potentially impacting many ongoing cases nationwide.",
+            "summary": "The Supreme Court has adopted a more lenient stance, ruling that a life convict can be granted bail during the pendency of their appeal if there's a fair chance of acquittal. This significant judicial development allows for pre-acquittal release, emphasizing the right to liberty when grounds for potential exoneration exist. It reflects an evolving approach to justice and prisoner rights in India.",
             "url": "https://timesofindia.indiatimes.com/india/can-give-life-convict-bail-during-pendency-of-appeal-if-he-has-a-fair-chance-of-acquittal-sc/articleshow/125706804.cms",
             "category": "National",
             "date": "2025-12-02T00:34:01Z"
         },
         {
             "title": "All You Need To Know Going Into Trade On Tuesday",
-            "summary": "Bajaj Finance plans to divest a 2% stake in its subsidiary, Bajaj Housing Finance, in a deal valued at Rs 1,740 crore. Currently, Bajaj Finance holds an 88.70% share. This strategic move by one of India's leading financial services companies indicates potential capital restructuring or portfolio optimization efforts within the group, attracting significant attention in the domestic market.",
+            "summary": "Bajaj Finance plans to sell a 2% stake in its subsidiary, Bajaj Housing Finance, for Rs 1,740 crore. This strategic move will slightly reduce Bajaj Finance's current 88.70% holding. The transaction reflects internal financial adjustments by a major Indian non-banking financial company, impacting its housing finance arm within the national economic landscape.",
             "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-december-2-2025",
             "category": "National",
             "date": "2025-12-02T00:30:00Z"
         },
         {
             "title": "A Reborn Scenic Field Above Waves / TJAD Original Design Studio",
-            "summary": "An architectural project, led by a design team including Ding Kuo and Wang Xunan, is highlighted. The Taizhou Jiaojiang District Social Development Group Co. is listed among the clients for this undertaking, photographed by ZY Architectural Photography. This details a domestic development effort, though presented as project metadata rather than a formal news report.",
+            "summary": "The provided text fragment details an architectural project involving a design team and the Taizhou Jiaojiang District Social Development Group Co. as clients. Without the full article, specific details about the project's nature, impact, or significance are unavailable, making a comprehensive summary for SSB aspirants impossible. It appears to be a domestic development initiative within China.",
             "url": "https://www.archdaily.com/1036147/a-reborn-scenic-field-above-waves-tjad-original-design-studio",
             "category": "National",
             "date": "2025-12-02T00:00:00Z"
         },
         {
             "title": "Yankees Hit Snag In Cody Bellinger Return Negotiations: Insider",
-            "summary": "Cody Bellinger, #35 of the New York Yankees, was observed running out of the dugout at Yankee Stadium on August 12, 2025. This was before a game against the Minnesota Twins in the Bronx borough of New York. The event marks a standard pre-game ritual for the professional baseball player, signaling the start of a domestic league match.",
+            "summary": "Cody Bellinger, representing the New York Yankees, participated in a baseball game against the Minnesota Twins at Yankee Stadium on August 12, 2025. This event is a routine fixture in American professional sports, highlighting the Major League Baseball season. Such domestic sporting events contribute to the cultural and recreational fabric of the nation, drawing significant viewership and community engagement.",
             "url": "https://www.forbes.com/sites/peterchawaga/2025/12/01/yankees-hit-snag-in-cody-bellinger-return-negotiations-insider/",
             "category": "National",
             "date": "2025-12-01T23:51:42Z"
         },
         {
             "title": "Shark scare, Ashes ambitions and sub tour star in WA's November photo picks",
-            "summary": "This article offers a retrospective review of November's news coverage, presented through illustrative photos. It highlights various past events, specifically mentioning an encounter with a suspected great white shark. The piece aims to provide a visual recap of key happenings and stories from that month, giving an aspirant a broad overview of diverse news topics captured visually.",
+            "summary": "This article recaps November's news coverage through a selection of photographs, marking the transition from spring to summer. A prominent visual highlight includes an intriguing incident involving a suspected great white shark. The collection offers a visual retrospective, illustrating diverse events and stories from the past month's reporting, capturing significant moments for readers.",
             "url": "https://www.abc.net.au/news/2025-12-02/wa-photo-wrap-november/106079370",
-            "category": "National",
+            "category": "International",
             "date": "2025-12-01T23:43:15Z"
         },
         {
             "title": "Govt taking steps to tackle GPS spoofing at airports: Naidu",
-            "summary": "The Indian government, through official Naidu, is taking proactive steps to combat GPS spoofing at airports. This initiative is vital for enhancing aviation safety, ensuring secure navigation, and protecting critical national infrastructure from potential cyber threats and disruptions. Such measures strengthen India's strategic preparedness.",
+            "summary": "The Indian government is actively addressing the threat of GPS spoofing at airports, as stated by Naidu. This crucial initiative aims to bolster aviation security and ensure the integrity of navigation systems vital for flight safety. The move reflects India's proactive stance in mitigating sophisticated technological challenges to its critical infrastructure.",
             "url": "https://timesofindia.indiatimes.com/india/govt-taking-steps-to-tackle-gps-spoofing-at-airports-naidu/articleshow/125706562.cms",
             "category": "National",
             "date": "2025-12-01T23:30:24Z"
         },
         {
             "title": "\u20183 PSUs among top 100 global arms makers but account for 1.1% of sales\u2019",
-            "summary": "India has 3 Public Sector Undertakings (PSUs) among the top 100 global arms manufacturers, though they currently account for 1.1% of global sales. This highlights India's presence in the defence sector and potential for greater self-reliance. The mention of \"BrahMos BOOM!\" further signals India's expanding strategic \"reach\" and advancements in its indigenous defence production capabilities, crucial for national security.",
+            "summary": "Three Indian Public Sector Undertakings (PSUs) have been ranked among the top 100 global arms manufacturers. While this signifies India's presence in the international defense industry, these PSUs collectively account for only 1.1% of total global arms sales. This highlights both India's emerging capability and the significant scope for enhancing indigenous defense production, crucial for national security.",
             "url": "https://timesofindia.indiatimes.com/india/3-psus-among-top-100-global-arms-makers-but-account-for-1-1-of-sales/articleshow/125706559.cms",
             "category": "Defence",
             "date": "2025-12-01T23:27:29Z"
         },
         {
+            "title": "India junks Pak reports on denial of airspace for relief flights to Sri Lanka",
+            "summary": "India has vehemently refuted Pakistani media claims of denying airspace for humanitarian relief flights destined for Sri Lanka. India termed these reports \"patently false\" and \"mischievous,\" asserting its strict adherence to international civil aviation norms. This strong denial underscores India's commitment to humanitarian assistance and regional cooperation, countering Pakistan's allegations of obstruction and highlighting diplomatic exchange over regional responsibility.",
+            "url": "https://timesofindia.indiatimes.com/india/india-junks-pak-reports-on-denial-of-airspace-for-relief-flights-to-sri-lanka/articleshow/125706552.cms",
+            "category": "International",
+            "date": "2025-12-01T23:21:49Z"
+        },
+        {
+            "title": "Parliament winter session: On CPR\u2019s 1st day as RS chairman, Congress raises Dhankhar issue",
+            "summary": "During the Parliament's winter session, Vice President C.P. Radhakrishnan began his first day as Rajya Sabha chairman. The Congress party promptly raised a significant issue concerning 'Dhankhar' during these initial proceedings. This marked an early point of political contention and discussion within the upper house of the Indian Parliament, setting the tone for legislative debates.",
+            "url": "https://timesofindia.indiatimes.com/india/parliament-winter-session-on-cprs-1st-day-as-rs-chairman-congress-raises-dhankhar-issue/articleshow/125706540.cms",
+            "category": "National",
+            "date": "2025-12-01T23:13:33Z"
+        },
+        {
             "title": "Winter session: Govt\u2019s broken conventions of Parliament, says Kharge",
-            "summary": "Congress chief Mallikarjun Kharge accused PM Modi and the government of \"dramabazi\" and consistently breaking parliamentary conventions during the Winter Session. Kharge expressed concerns over the government's legislative approach and democratic norms, intensifying political debate. This criticism highlights ongoing tensions between the ruling party and opposition regarding parliamentary conduct and governance in India.",
+            "summary": "Congress chief Mallikarjun Kharge accused the Modi government and the Prime Minister of breaking parliamentary conventions and engaging in \"dramabazi\" during the winter session. He criticized what he described as attempts to undermine the institution of Parliament. Kharge's statements highlight ongoing political tensions and disagreements over parliamentary conduct between the ruling party and the opposition, amidst a contentious legislative period.",
             "url": "https://timesofindia.indiatimes.com/india/winter-session-govts-broken-conventions-of-parliament-says-kharge/articleshow/125706522.cms",
             "category": "National",
             "date": "2025-12-01T23:00:27Z"
         },
         {
+            "title": "Early Week 14 Fantasy RB Rankings PPR: Running back tiers and lineup tips on who to start, best sleepers, streamers",
+            "summary": "This article focuses on early Week 14 fantasy football running back (RB) rankings for players participating in PPR (Points Per Reception) leagues. It offers detailed tiers and strategic lineup tips, guiding users on optimal player selections. The content aims to help fantasy managers identify who to start, discover the best sleeper picks, and utilize streamers to maximize their team's performance in upcoming games.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-rb-rankings-week-14-2025/18cb6d5d2bca954f25524d0a",
+            "category": "National",
+            "date": "2025-12-01T22:45:25Z"
+        },
+        {
+            "title": "SIR debate demand wipes out Day 1 of winter session",
+            "summary": "The winter session of Parliament commenced with disruptions as opposition parties demanded an immediate debate on the Election Commission's special intensive revision of electoral rolls. This highlights significant political contention regarding the transparency and fairness of electoral processes. The opposition's insistence on this debate reflects concerns that could shape discussions throughout the session, emphasizing the critical role of electoral integrity in national politics.",
+            "url": "https://timesofindia.indiatimes.com/india/sir-debate-demand-wipes-out-day-1-of-winter-session/articleshow/125706228.cms",
+            "category": "National",
+            "date": "2025-12-01T22:44:57Z"
+        },
+        {
             "title": "On MHA order, Raj Bhavans in 8 states renamed Lok Bhavan",
-            "summary": "Following a Ministry of Home Affairs (MHA) order, eight states and one Union Territory have renamed their Raj Bhavans (Governor's residences) to 'Lok Bhavan'. This administrative change signifies a shift in nomenclature for the official residences of governors and lieutenant governors, impacting governance terminology and public perception across these Indian regions.",
+            "summary": "Following a Ministry of Home Affairs (MHA) order, eight Indian states and one Union Territory have renamed their Governor's or Lieutenant Governor's residences from 'Raj Bhavan' to 'Lok Bhavan'. This administrative change signifies a move to symbolize a closer connection with the public and a more democratic ethos, with 'Lok' representing the people. It's a notable shift in nomenclature across several regions.",
             "url": "https://timesofindia.indiatimes.com/india/on-mha-order-raj-bhavans-in-8-states-renamed-lok-bhavan/articleshow/125706126.cms",
             "category": "National",
             "date": "2025-12-01T22:35:44Z"
         },
         {
             "title": "Bioterror serious concern, all nations must be ready: EAM",
-            "summary": "India's External Affairs Minister S. Jaishankar highlighted bioterrorism as a grave global concern requiring urgent international cooperation and preparedness from all nations. He stressed the importance of robust health security systems and collaborative strategies to mitigate such biological threats effectively. This emphasizes India's proactive stance on global security challenges and collective responsibility.",
+            "summary": "India's External Affairs Minister S. Jaishankar emphasized bioterrorism as a critical global concern, urging all nations to enhance preparedness. He underscored the urgent need for international cooperation to effectively counter biological threats. This highlights India's proactive stance on global security, advocating collaborative strategies to mitigate potential biological attacks and ensure worldwide safety.",
             "url": "https://timesofindia.indiatimes.com/india/bioterror-serious-concern-all-nations-must-be-ready-eam/articleshow/125705769.cms",
             "category": "International",
             "date": "2025-12-01T22:30:20Z"
         },
         {
             "title": "SC seeks Centre\u2019s response on Sunali\u2019s return from Bangladesh",
-            "summary": "The Supreme Court has sought a response from the Indian Centre regarding the case of a pregnant woman, Sunali, seeking to return to India from Bangladesh. The apex court is addressing the petition concerning her repatriation, pressing the government for clarification on the procedures and possibilities for her safe return amidst the ongoing situation.",
+            "summary": "The Supreme Court has sought a response from the Centre regarding the case of Sunali, a pregnant Indian woman currently in Bangladesh. The apex court is addressing the complexities surrounding her return to India, asking the government to clarify its stand and actions for facilitating her repatriation. This judicial intervention underscores the challenges faced by citizens abroad seeking to return, especially in vulnerable situations.",
             "url": "https://timesofindia.indiatimes.com/india/sc-seeks-centres-response-on-sunalis-return-from-bangladesh/articleshow/125705163.cms",
             "category": "National",
             "date": "2025-12-01T22:29:50Z"
         },
         {
             "title": "Winter session: MP makes a statement with a stray, sets off a dogfight",
-            "summary": "During Parliament's Winter session, Congress MP Renuka Chowdhury brought a rescued stray dog onto the premises. This distinctive act aimed to draw attention to animal welfare and the challenges faced by strays. The incident quickly sparked discussions among MPs and the public regarding parliamentary rules, animal rights, and the appropriate conduct within legislative bodies, generating considerable buzz in the national political arena.",
+            "summary": "During the Winter Session, Congress MP Renuka Chowdhury brought a rescued stray dog into the Indian Parliament, sparking considerable debate among lawmakers. This unconventional act, though drawing criticism for decorum, effectively highlighted issues surrounding animal welfare and parliamentary conduct. The incident prompted discussions on the appropriate environment and boundaries within legislative chambers, underscoring both a unique protest and parliamentary reactions.",
             "url": "https://timesofindia.indiatimes.com/india/winter-session-mp-makes-a-statement-with-a-stray-sets-off-a-dogfight/articleshow/125704458.cms",
             "category": "National",
             "date": "2025-12-01T22:15:56Z"
         },
         {
             "title": "Fantasy Football 2025: Waiver wire, Week 14 edition",
-            "summary": "This article provides the Week 14 fantasy football waiver wire, offering player recommendations and analysis for National Football League (NFL) and college football enthusiasts. It focuses on strategic roster adjustments for fantasy managers following recent intense sporting action. While this content is specific to American sports entertainment, it offers insights into competitive league management decisions.",
+            "summary": "The article presents the Fantasy Football Waiver Wire for Week 14, guiding enthusiasts on strategic roster changes after a busy NFL and college football period around Thanksgiving. It offers analysis and recommendations for player pickups and drops, helping participants optimize their fantasy teams for upcoming league matches. This content is specific to American sports entertainment.",
             "url": "https://www.bigblueview.com/new-york-giants-analysis/147013/fantasy-football-2025-waiver-wire-week-14-edition",
             "category": "National",
             "date": "2025-12-01T22:15:45Z"
         },
         {
             "title": "ED notice to Kerala CM Pinarayi Vijayan, chief principal secretary KM Abraham",
-            "summary": "The Enforcement Directorate (ED) has issued show-cause notices to Kerala Chief Minister Pinarayi Vijayan and his chief principal secretary, KM Abraham. This action by the central agency signals an ongoing inquiry or investigation into matters concerning the state's top leadership. Such developments are crucial for SSB aspirants to understand regarding national governance and current affairs, highlighting the role of investigative agencies.",
+            "summary": "The Enforcement Directorate (ED) has issued show-cause notices to Kerala Chief Minister Pinarayi Vijayan and his chief principal secretary, KM Abraham. This action signifies a major legal development involving a central agency investigating high-ranking state officials, highlighting the ongoing scrutiny into administrative and financial matters. Such instances are crucial for SSB aspirants to understand the interplay between central investigative bodies and state governance.",
             "url": "https://timesofindia.indiatimes.com/india/ed-notice-to-kerala-cm-pinarayi-vijayan-chief-principal-secretary-km-abraham/articleshow/125704456.cms",
             "category": "National",
             "date": "2025-12-01T22:09:17Z"
         },
         {
             "title": "Govt orders handset makers to preload its Sanchar Saathi app",
-            "summary": "The Indian government has mandated that all smartphone manufacturers pre-install its 'Sanchar Saathi' application on new devices. This directive aims to enhance digital safety and security for citizens, providing tools to track lost/stolen phones, check telecom connections, and report fraudulent activities. This initiative strengthens consumer protection within India's digital ecosystem by making essential safety features readily available.",
+            "summary": "The Indian government has mandated smartphone manufacturers to pre-install its Sanchar Saathi app on all new devices. This significant national policy aims to bolster digital security for citizens, combat telecom fraud, and aid in tracking lost or stolen phones more effectively. For SSB aspirants, this initiative underscores India's commitment to enhancing cyber safety and streamlining citizen services within the evolving digital landscape.",
             "url": "https://timesofindia.indiatimes.com/india/govt-orders-handset-makers-to-preload-its-sanchar-saathi-app/articleshow/125704436.cms",
             "category": "National",
             "date": "2025-12-01T22:04:11Z"
         },
         {
             "title": "Is this the age of strategic nuclear piracy?",
-            "summary": "France's nuclear submarine, \u00c9meraude, is scheduled for decommissioning in Brest on November 8, 2024. This event marks the end of its operational service, highlighting the lifecycle management of advanced naval defence assets. For aspirants, it underscores the continuous evolution and strategic considerations involved in maintaining a modern navy and managing nuclear capabilities, a significant aspect of national security.",
+            "summary": "France's nuclear submarine \u00c9meraude is slated for decommissioning in Brest by November 2024, marking a significant transition for French naval forces. The article\u2019s initial reference to the Hiroshima atomic bomb suggests a broader historical context for nuclear technology. This likely explores the strategic evolution and legacy of nuclear power, underscoring its profound implications for modern defence capabilities and national security.",
             "url": "https://mondediplo.com/2025/12/06nuclear",
             "category": "Defence",
             "date": "2025-12-01T21:41:19Z"
         },
         {
             "title": "Under-the-radar targets to watch for in Kentucky Football coaching search",
-            "summary": "The Kentucky Wildcats college football team is seeking a new head coach following the announcement of Mark Stoops' termination. Stoops is being fired after serving for 13 seasons, marking a significant leadership change for the program. This development initiates a crucial search for a successor and an opportunity to reshape the team's strategy for upcoming seasons, impacting its future direction.",
+            "summary": "The Kentucky Wildcats football team is searching for a new head coach after Mark Stoops was dismissed. Stoops' departure marks the end of his 13th season leading the team. This development signifies a significant change for the university's athletic program, prompting a recruitment process to find a successor capable of guiding the Wildcats.",
             "url": "https://www.aseaofblue.com/kentucky-wildcats-news/155124/under-radar-targets-watch-uk-football-coaching-search-collin-klein-texas-am-oc",
-            "category": "International",
+            "category": "National",
             "date": "2025-12-01T21:01:34Z"
         },
         {
             "title": "ESR acquires 60 acres in Pune for 1.35 million sq ft industrial park development",
-            "summary": "ESR, a leading real asset firm, acquired 60 acres in Pune's Talegaon to develop a major industrial and logistics park. This substantial investment in Indian infrastructure underscores the nation's economic growth and commitment to strengthening supply chains. Such developments are vital for job creation, industrial expansion, and overall national progress, reflecting India's evolving economic landscape important for SSB aspirants.",
+            "summary": "ESR, an Asia-Pacific real estate firm, has acquired a 60-acre land parcel in Talegaon, Pune, to develop a large-scale industrial and logistics park. This significant investment aims to bolster India's supply chain infrastructure and manufacturing capabilities, potentially boosting regional employment and economic growth. The project reflects growing confidence in India's logistics sector, crucial for national development.",
             "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/esr-acquires-60-acres-in-pune-for-1-35-million-sq-ft-industrial-park-development/articleshow/125703402.cms",
             "category": "National",
             "date": "2025-12-01T19:46:36Z"
-        },
-        {
-            "title": "Fantasy Basketball Week 7 Start/Sit: Is Reed Sheppard for Real?",
-            "summary": "The upcoming Week 7 features an intensely packed sports schedule, with most teams playing four games. This demanding calendar poses a significant challenge for managers, who must carefully decide player lineups. The difficulty arises from numerous choices, demanding strategic selection for optimal team performance amidst a demanding competitive environment.",
-            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-7-start-sit-lineup-decisions/",
-            "category": "National",
-            "date": "2025-12-01T19:35:41Z"
-        },
-        {
-            "title": "A Notorious DC Flop Directly Inspired Superman in a Way Nobody Noticed",
-            "summary": "DC Studios is reportedly drawing unexpected inspiration from one of the \"worst\" superhero movies for a specific detail in its upcoming Superman reboot, the first feature in the new DC cinematic universe. This unconventional creative decision highlights how filmmakers are exploring diverse influences to redefine iconic characters, re-evaluating past approaches, even from critically panned predecessors, to shape their fresh vision for the Man of Steel.",
-            "url": "http://comicbook.com/movies/feature/a-notorious-dc-flop-directly-inspired-superman-in-a-way-nobody-noticed/",
-            "category": "International",
-            "date": "2025-12-01T19:30:00Z"
-        },
-        {
-            "title": "The Red Sox are already crying poor",
-            "summary": "Major League Baseball (MLB) is currently in its free agent spending season, with a major collective bargaining dispute between management and labor anticipated within the next year. This situation primes MLB owners for critical negotiations impacting player contracts and the league\u2019s financial structure, setting the stage for significant discussions and potential future conflicts.",
-            "url": "https://www.overthemonster.com/red_sox_news/93836/the-red-sox-are-already-crying-poor-as-free-agency-begins",
-            "category": "National",
-            "date": "2025-12-01T19:10:20Z"
-        },
-        {
-            "title": "Ukraine seeks to shore up support in Brussels, Paris",
-            "summary": "Ukrainian President Zelenskyy met French President Macron in Paris to bolster support for Kyiv. Simultaneously, Ukrainian and European defence chiefs convened in Brussels for strategic talks. These high-level meetings underscore ongoing international efforts to strengthen Ukraine's defence capabilities and coordinate vital assistance amidst the conflict, highlighting critical diplomatic and military alignments across Europe.",
-            "url": "https://www.aljazeera.com/news/2025/12/1/ukraine-seeks-to-shore-up-support-in-brussels-paris",
-            "category": "Defence",
-            "date": "2025-12-01T16:03:00Z"
-        },
-        {
-            "title": "\u2018Hal & Harper\u2019s\u2019 Cooper Raiff Is the King of Coming of Age in Your 20s",
-            "summary": "The article introduces writer/director Cooper Raiff, highlighting his unique focus on the challenges of growing up in one's twenties. Still in his 20s himself, Raiff has built his early career around this relatable theme, crafting distinct narratives across his feature films. He has made a name for himself exploring the complexities of young adulthood through his cinematic work.",
-            "url": "https://www.thewrap.com/hal-and-harper-cooper-raiff-coming-of-age/",
-            "category": "National",
-            "date": "2025-12-01T16:00:00Z"
-        },
-        {
-            "title": "Why the looming salary cap battle is nothing new for MLB: A history of baseball's CBA negotiations",
-            "summary": "The article humorously introduces a metaphorical \"time machine\" operating within American sports media, designed to transport readers approximately a year into the future. It sets a speculative tone, anticipating future events or analyses within the sports world, while acknowledging the conceptual device's inherent \"trouble\" in precision. This unconventional opening primes the reader for forward-looking commentary on American sports.",
-            "url": "https://www.cbssports.com/mlb/news/mlb-salary-cap-history-cba-players-union/",
-            "category": "National",
-            "date": "2025-12-01T15:50:17Z"
-        },
-        {
-            "title": "Cyber Monday Brings $300 off a PCMag Award-Winning Dyson Stick Vacuum",
-            "summary": "Cyber Monday offers the lowest annual prices on Dyson's premium, high-end vacuum cleaners and air purifiers. This event provides a prime opportunity for consumers to invest in advanced home technology at significant discounts. It reflects the increasing accessibility of sophisticated consumer electronics during major retail sales, highlighting market trends in high-quality personal and home appliances.",
-            "url": "https://uk.pcmag.com/cyber-monday/161726/cyber-monday-brings-300-off-a-pcmag-award-winning-dyson-stick-vacuum",
-            "category": "Sci & Tech",
-            "date": "2025-12-01T15:42:37Z"
-        },
-        {
-            "title": "Daily Career Horoscope, December 3, 2025: Sudden job shifts are coming, these zodiac signs should stay ready",
-            "summary": "This article highlights the use of celestial guidance and tailored horoscopes for personal development in career and finance. It suggests that personalized insights can significantly boost productivity, aid in wise financial management, and help individuals effectively seize opportunities. This approach aims to provide daily direction for advancement and goal achievement through these tailored astrological predictions.",
-            "url": "https://timesofindia.indiatimes.com/astrology/horoscope/daily-career-horoscope-december-3-2025-sudden-job-shifts-are-coming-these-zodiac-signs-should-stay-ready/articleshow/125697806.cms",
-            "category": "National",
-            "date": "2025-12-01T15:42:02Z"
-        },
-        {
-            "title": "Cyclone Ditwah: PM Modi holds calls Sri Lankan Prez Dissanayake, condoles loss of lives",
-            "summary": "Prime Minister Modi spoke with Sri Lankan President Dissanayake, conveying condolences for recent loss of life and devastation. Modi reiterated India's solidarity and readiness to extend support to Sri Lanka during this challenging time. The discussion underscored India's commitment to humanitarian assistance and strengthening bilateral ties with its immediate neighbour, reflecting its 'Neighbourhood First' policy.",
-            "url": "https://economictimes.indiatimes.com/news/india/cyclone-ditwah-pm-modi-holds-calls-sri-lankan-prez-dissanayake-condoles-loss-of-lives/articleshow/125697855.cms",
-            "category": "International",
-            "date": "2025-12-01T15:26:49Z"
         }
     ]
 }
