@@ -1,96 +1,327 @@
 {
-    "last_updated": "2025-12-04T12:36:06.999143+00:00",
+    "last_updated": "2025-12-04T18:26:44.473607+00:00",
     "articles": [
         {
+            "title": "NCCs air squadron gets flying simulator at Udhampur, AOC inaugurates it",
+            "summary": "The NCC air squadron in Udhampur, Jammu & Kashmir, has received a new flying simulator, inaugurated by the Air Officer Commanding. This significant addition will provide cadets with advanced aviation training, enhancing their flying skills and technical knowledge. It offers valuable hands-on experience, fostering interest in aviation and defence careers among youth, crucial for SSB aspirants.",
+            "url": "https://statetimes.in/nccs-air-squadron-gets-flying-simulator-at-udhampur-aoc-inaugurates-it/",
+            "category": "Defence",
+            "date": "2025-12-03T18:12:48Z"
+        },
+        {
+            "title": "Inside the Evolving Nordic Airpower: How the Swedish Air Force Is Adapting to the Russian Threat",
+            "summary": "An interview with Col. Carl Wiseguy Bergqvist, Commandant of the Swedish Air Warfare Center, explored the evolving role of the Swedish Air Force. The discussion likely delved into adapting to modern aerial combat challenges, incorporating technological advancements, and strategic positioning. This offers valuable insights into Sweden's air defence capabilities and future operational doctrines, important for understanding contemporary air power trends.",
+            "url": "https://theaviationist.com/2025/12/03/interview-wiseguy-bergqvist/",
+            "category": "Defence",
+            "date": "2025-12-03T18:07:44Z"
+        },
+        {
+            "title": "Putin goes to India: From fighter jets to trade routes, massive deals are on offer",
+            "summary": "Russian President Vladimir Putin's upcoming visit to India on December 5 for a bilateral summit is crucial. It aims to reaffirm and strengthen the 'special and privileged strategic partnership' between the two nations. This high-level engagement underscores the enduring diplomatic ties and mutual interests, impacting regional stability and potentially covering various sectors beyond just defence, vital for India's strategic autonomy.",
+            "url": "https://www.rt.com/india/628864-putin-india-military-aviation/",
+            "category": "International",
+            "date": "2025-12-03T17:56:50Z"
+        },
+        {
+            "title": "India, US seal Rs 7,995-crore sustainment deal for Navy's MH-60R 'Seahawk' fleet",
+            "summary": "The United States announced a significant boost in defence cooperation with India after New Delhi signed a crucial sustainment package. This agreement provides long-term support for the Indian Navy's MH-60R 'Seahawk' helicopter fleet, ensuring their operational readiness. This step highlights the strengthening strategic partnership between the two nations, enhancing India's maritime capabilities and mutual security interests.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-us-seal-rs-7995-crore-sustainment-deal-for-navys-mh-60r-seahawk-fleet/articleshow/125748818.cms",
+            "category": "Defence",
+            "date": "2025-12-03T17:20:30Z"
+        },
+        {
+            "title": "India-Russia Meet: Development Of BrahMos Missiles' Advanced Variants Likely To Be Discussed",
+            "summary": "Russian President Vladimir Putin is set for a two-day official visit to India on December 4th and 5th. This high-profile engagement in the national capital is generating significant anticipation. Discussions are expected to encompass key strategic areas, including bilateral trade, defence cooperation, and regional security, reinforcing the strong partnership between the two nations.",
+            "url": "https://www.ndtvprofit.com/economy-finance/india-russia-meet-development-of-brahmos-missiles-advanced-variants-likely-to-be-discussed",
+            "category": "International",
+            "date": "2025-12-03T16:35:39Z"
+        },
+        {
+            "title": "Time Series and Trend Analysis Challenge Inspired by Real World Datasets",
+            "summary": "This article introduces time series data, which is ubiquitous in fields like stock markets, temperature tracking, and website traffic. It emphasizes that basic plotting is merely a starting point, implying a deeper dive into advanced analytical methods. The piece aims to equip readers with techniques to understand trends and make predictions from these crucial time-indexed datasets.",
+            "url": "https://www.kdnuggets.com/time-series-and-trend-analysis-challenge-inspired-by-real-world-datasets",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T16:32:12Z"
+        },
+        {
+            "title": "Mermaids, a Mystery, & More",
+            "summary": "The article recommends 'You Should Be So Lucky' by Cat Sebastian, currently available for $1.99. Reviewer Lara awarded the novel a B grade, noting its departure from Sebastian's typically extensive works. This snippet introduces what appears to be a detailed book review, likely discussing plot and character insights for potential readers.",
+            "url": "https://smartbitchestrashybooks.com/2025/12/mermaids-a-mystery-more/",
+            "category": "National",
+            "date": "2025-12-03T16:30:21Z"
+        },
+        {
+            "title": "Germany puts ballistic missile defence shield into service",
+            "summary": "Germany has deployed the first segment of a $4 billion ballistic missile defence system, enhancing Europe's protection amidst heightened tensions with Russia. This strategic move underscores Germany's commitment to bolstering collective defence within NATO. For SSB aspirants, this highlights the ongoing importance of advanced military preparedness and robust deterrence in the face of evolving geopolitical challenges in the European theatre.",
+            "url": "https://www.thelocal.de/20251203/germany-puts-ballistic-missile-defence-shield-into-service",
+            "category": "Defence",
+            "date": "2025-12-03T16:26:30Z"
+        },
+        {
+            "title": "Detective Conan: Fallen Angel of the Highway Film Unveils Video, Visual",
+            "summary": "The official X/Twitter account for the popular Detective Conan film series recently unveiled new promotional material for its upcoming movie, 'Detective Conan: Highway no Datenshi' (Fallen Angel of the Highway). This included an exciting video and a special 'Angel' visual, building anticipation for the latest installment in the long-running franchise. Fans can now get a glimpse of what's to come.",
+            "url": "https://www.animenewsnetwork.com/news/2025-12-03/detective-conan-fallen-angel-of-the-highway-film-unveils-video-visual/.231665",
+            "category": "International",
+            "date": "2025-12-03T16:22:46Z"
+        },
+        {
+            "title": "Gwyneth Paltrow awkwardly offered Timoth\u00e9e Chalamet skincare tips after mistaking his \u2018Marty Supreme\u2019 makeup for acne",
+            "summary": "Actress Gwyneth Paltrow recently mistook actor Timoth\u00e9e Chalamet's meticulously applied faux pockmarks for genuine acne scars during the filming of 'Marty Supreme.' This anecdote highlights the remarkable realism achievable through professional film makeup, even deceiving experienced individuals like Paltrow, who also runs a lifestyle brand. It underscores the transformative power of prosthetics and makeup artistry in cinema.",
+            "url": "https://pagesix.com/2025/12/03/style/gwyneth-paltrow-offers-timothee-chalamet-skincare-advice-for-marty-supreme-movie-makeup/",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T16:21:12Z"
+        },
+        {
+            "title": "Week 14 fantasy football kicker rankings: Best starts at kicker",
+            "summary": "American football quarterback Joe Burrow returned to action for the Cincinnati Bengals after an injury layoff since Week 2. Despite his comeback, the team's offense struggled significantly in the red zone during their Thanksgiving game, failing to convert scoring opportunities. This highlighted persistent offensive challenges, impacting the team's performance despite their key player's return.",
+            "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/12/03/fantasy-football-week-14-kicker-rankings-2025/87571442007/",
+            "category": "National",
+            "date": "2025-12-03T15:51:26Z"
+        },
+        {
+            "title": "Indian Navy showcases frontline platforms, combat prowess off Kerala coast",
+            "summary": "The Indian Navy conducted an impressive operational demonstration off the Shangumugham coast, showcasing its robust maritime prowess and multi-domain combat capabilities. President Droupadi Murmu's attendance underscored the strategic importance of this exercise. Such events highlight India's strong naval defence, preparedness, and ability to protect national interests across various maritime scenarios, crucial for aspiring defence personnel.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-showcases-frontline-platforms-combat-prowess-off-kerala-coast/articleshow/125746875.cms",
+            "category": "Defence",
+            "date": "2025-12-03T15:40:31Z"
+        },
+        {
+            "title": "Digital Realty and BW Digital Partner to Support Expansion of Cross-Border Connectivity Between Singapore and Batam",
+            "summary": "The direct landing of the Nongsa\u2013Changi submarine cable into Digital Realty\u2019s SIN12 facility is a significant boost for cross-border network resilience and capacity. This infrastructure enhancement promises faster interconnection, strengthening regional digital connectivity. Such developments are crucial for economic growth and strategic communication in the digital age, impacting various sectors vital for national progress and security.",
+            "url": "https://en.antaranews.com/news/394972/digital-realty-and-bw-digital-partner-to-support-expansion-of-cross-border-connectivity-between-singapore-and-batam",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T15:22:52Z"
+        },
+        {
+            "title": "Fantasy Football Week 14 Trade Chart: Player values & Rest of Season Rankings help you finalize deadline deals",
+            "summary": "The article discusses the Fantasy Football Trade Chart, a tool created by CBS Sports for fair trades in fantasy leagues, which expanded in 2025. This content is exclusively focused on sports entertainment and lacks any direct relevance or strategic insight for an SSB aspirant's preparation regarding defence, national, international, or scientific topics.",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-14-trade-chart/",
+            "category": "National",
+            "date": "2025-12-03T15:18:04Z"
+        },
+        {
+            "title": "India-Russia Su-57 agreement may be affected by rival countries, says Kremlin",
+            "summary": "Russia confirmed that discussions on the advanced Su-57 fighter jet will be on President Putin's agenda during his India visit. This signifies potential deep defence cooperation, enhancing India's air power with a fifth-generation aircraft. The talks, amidst caution about competing nations, highlight strategic implications for regional power dynamics and India's military modernisation efforts, drawing global attention to the bilateral relationship.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-russia-su-57-agreement-may-be-affected-by-rival-countries-says-kremlin/articleshow/125745896.cms",
+            "category": "Defence",
+            "date": "2025-12-03T14:59:41Z"
+        },
+        {
+            "title": "Ex-Brahmos scientist walks out of Maharashtra jail after 7 years",
+            "summary": "Nishant Agarwal, an award-winning scientist formerly with the BrahMos missile centre, has been acquitted of espionage charges by the Bombay High Court. He walked free from Nagpur Central Jail after the court cleared him, concluding a significant case. This development involves a scientist linked to India's crucial defence projects, underscoring the judicial process in matters of national security and the legal framework surrounding sensitive defence personnel.",
+            "url": "https://economictimes.indiatimes.com/news/india/ex-brahmos-scientist-walks-out-of-maharashtra-jail-after-7-years/articleshow/125746229.cms",
+            "category": "Defence",
+            "date": "2025-12-03T14:58:10Z"
+        },
+        {
+            "title": "TikTok to Invest More Than $37 Billion in Brazil Data Center",
+            "summary": "TikTok's parent company, ByteDance, is set to invest over $37.7 billion (200 billion reais) in Brazil to construct its first data center in Latin America. This significant move expands TikTok's global digital infrastructure and commitment to the region, potentially impacting local data services and digital economy development. This highlights major foreign direct investment in emerging tech markets.",
+            "url": "https://financialpost.com/pmn/business-pmn/tiktok-to-invest-more-than-37-billion-in-brazil-data-center",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T14:49:05Z"
+        },
+        {
+            "title": "War criminal without war",
+            "summary": "The text presents a stark assertion that Defense Secretary Pete Hegseth is seemingly a 'war criminal,' even without the context of an ongoing war. This provocative statement is immediately followed by an unrelated mention of Gwyn Griffin's 1967 World War II novel, 'An Operational Necessity,' leaving the connection between these two disparate points unexplained for the reader.",
+            "url": "https://www.lawyersgunsmoneyblog.com/2025/12/war-criminal-without-war",
+            "category": "Defence",
+            "date": "2025-12-03T14:43:00Z"
+        },
+        {
+            "title": "Gone Too Soon: Honoring Black Musicians Who We\u2019ve Lost Over The Years",
+            "summary": "The article lists numerous individuals, including J-Dilla (32), DMX (50), Black Rob (52), and Black the Ripper (from the U.K.), alongside their respective ages. This compilation serves as a roll call of deceased personalities, possibly influential in cultural or artistic fields, who passed away at diverse ages, from early thirties to their fifties.",
+            "url": "https://hiphopwired.com/2922950/gone-too-soon-honoring-black-musicians-who-weve-lost-over-the-years/",
+            "category": "International",
+            "date": "2025-12-03T14:37:12Z"
+        },
+        {
+            "title": "Gist of The Hindu : NOVEMBER-2025",
+            "summary": "This snippet from 'The Hindu: NOVEMBER-2025' highlights current affairs resources essential for SSB aspirants. It indicates that 'Week-1' summaries are freely accessible, while 'Week-2' and subsequent weekly digests are reserved for subscribed members. This offers a structured approach to staying updated on key national and international events, crucial for competitive exam preparation and general knowledge.",
+            "url": "https://iasexamportal.com/the-gist/the-hindu-november-2025",
+            "category": "National",
+            "date": "2025-12-03T14:35:45Z"
+        },
+        {
+            "title": "India, Russia likely to discuss advanced variants of BrahMos missiles",
+            "summary": "During Russian President Vladimir Putin's visit to India, beginning Thursday, December 3, high-level discussions are anticipated to center on the development of advanced variants of defence equipment. This engagement in New Delhi underscores the robust strategic partnership and long-standing bilateral ties between India and Russia, particularly emphasizing continued cooperation in defence technology and military advancements.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-russia-likely-to-discuss-advanced-variants-of-brahmos-missiles/articleshow/125745562.cms",
+            "category": "Defence",
+            "date": "2025-12-03T14:15:16Z"
+        },
+        {
+            "title": "How divided is South Korea a year after martial law fiasco?",
+            "summary": "South Korea witnessed rival demonstrations in Seoul as supporters of former President Yoon Suk Yeol and incumbent leader Lee Jae-myung clashed. These protests marked one year since Yoon assumed power. The political division highlights ongoing domestic tensions within the nation, reflecting strong public opinions regarding its leadership and future direction, crucial for understanding international political landscapes.",
+            "url": "https://www.dw.com/en/how-divided-is-south-korea-a-year-after-martial-law-fiasco/a-74998245",
+            "category": "International",
+            "date": "2025-12-03T14:08:00Z"
+        },
+        {
+            "title": "JAWS and the 2026 Hall of Fame Ballot: Cole Hamels",
+            "summary": "The article previews candidates for the Baseball Writers' Association of America (BBWAA) 2026 Hall of Fame ballot. Written by Jay Jaffe for USA TODAY Sports, it is part of an ongoing series that provides a detailed analysis of potential inductees. The piece delves into the merits of various baseball players vying for entry into the prestigious Hall of Fame.",
+            "url": "https://blogs.fangraphs.com/jaws-and-the-2026-hall-of-fame-ballot-cole-hamels/",
+            "category": "International",
+            "date": "2025-12-03T14:00:39Z"
+        },
+        {
+            "title": "Inside Meta's Effort to Build the World's Longest Underwater Cable",
+            "summary": "Meta's ambitious Project Waterworth, a new subsea cable initiative, is reportedly advancing rapidly. An executive confirms good progress. This crucial infrastructure project aims to significantly boost global internet connectivity, vital for Meta's vast digital services and future technologies. Subsea cables are fundamental for international data transmission, underpinning global communication networks.",
+            "url": "https://uk.pcmag.com/networking/161796/inside-metas-effort-to-build-the-worlds-longest-underwater-cable",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T14:00:00Z"
+        },
+        {
+            "title": "Inside Meta's Effort to Build the World's Longest Underwater Cable",
+            "summary": "Meta's ambitious Project Waterworth, a subsea cable initiative, was announced in February 2025. Despite initial silence, the program is now reportedly \"moving apace,\" according to subsea cable expert Andy Palmer-Felgate. This update suggests progress on what Meta previously called its \"most ambitious subsea cable yet,\" highlighting advancements in global digital infrastructure. Further developments on this crucial connectivity project are anticipated.",
+            "url": "https://me.pcmag.com/en/networking/33853/inside-metas-effort-to-build-the-worlds-longest-underwater-cable",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T14:00:00Z"
+        },
+        {
+            "title": "Russia and India to boost space cooperation \u2013 Roscosmos",
+            "summary": "Russia and India plan to significantly boost space cooperation, Roscosmos head announced. This mutually beneficial partnership will see detailed plans revealed soon. For SSB aspirants, this highlights strengthening bilateral ties and India's advancing space capabilities, crucial for national development, technological self-reliance, and international standing.",
+            "url": "https://www.rt.com/india/628868-russia-and-india-to-boost/",
+            "category": "Sci & Tech",
+            "date": "2025-12-03T13:35:23Z"
+        },
+        {
+            "title": "All hotels on Grand Canyon National Park's South Rim to close indefinitely",
+            "summary": "All hotels on Grand Canyon National Park's South Rim are scheduled for indefinite closure from December 2, 2025. This significant decision impacts tourism and operations within the renowned U.S. national park. Aspiring officers should consider the potential economic fallout for the region and broader implications for international travel and natural heritage site management.",
+            "url": "https://freerepublic.com/focus/f-chat/4355732/posts",
+            "category": "International",
+            "date": "2025-12-03T13:17:44Z"
+        },
+        {
             "title": "Punjab Regimental Centre inducts 962 Agniveers in Jharkhand's Ramgarh district",
-            "summary": "The Punjab Regimental Centre (PRC), one of the Indian Army's oldest regiments, recently inducted 962 Agniveers following a vibrant passing out parade in Ramgarh, Jharkhand. This event marks a crucial step in their military careers, demonstrating the continuous implementation of the Agnipath scheme and the integration of new recruits into the armed forces, bolstering national defence capabilities.",
+            "summary": "The Punjab Regimental Centre (PRC) in Ramgarh, Jharkhand, one of the Indian Army's oldest regiments, recently inducted 962 Agniveers during a vibrant passing out parade. This significant event showcases the successful integration of Agnipath recruits into the armed forces. For SSB aspirants, it highlights continuous opportunities and the structured entry pathways into the Indian Army, reinforcing national defence capabilities.",
             "url": "https://economictimes.indiatimes.com/news/defence/punjab-regimental-centre-inducts-962-agniveers-in-jharkhands-ramgarh-district/articleshow/125743558.cms",
             "category": "Defence",
             "date": "2025-12-03T12:31:11Z"
         },
         {
             "title": "The Scientific American Staff\u2019s Favorite Books of 2025",
-            "summary": "Scientific American staff annually curates a list of their best-read books. This year's selection features 67 new favorites and timeless classics across various subjects, offering valuable insights for curious minds. SSB aspirants can explore these recommendations to broaden their general knowledge, enhance critical thinking, and stay updated on diverse scientific and general interest topics, crucial for interview preparation.",
+            "summary": "Scientific American has released its annual list of 67 top book recommendations, featuring staff favorites, both new and classic. This diverse literary selection, often covering science and technology, provides valuable reading. For SSB aspirants, engaging with such content enhances general knowledge, critical thinking, and communication skills, vital for personality development and interview preparedness.",
             "url": "https://www.scientificamerican.com/article/the-scientific-american-staffs-favorite-books-of-2025/",
             "category": "Sci & Tech",
             "date": "2025-12-03T12:00:00Z"
         },
         {
             "title": "Kenyan MPs accuse British soldiers of sexual abuse and environmental destruction",
-            "summary": "Kenya's parliament has accused British soldiers of decades of sexual abuse during their long-standing training exercises in central Kenya. These serious allegations threaten the existing military agreement, under which British troops have operated for decades. The accusations could significantly impact bilateral defence relations and future joint training initiatives between Kenya and the UK.",
+            "summary": "Kenya's parliament has accused British soldiers of decades of sexual abuse, a serious allegation emerging despite a long-standing military agreement allowing British troops to train in central Kenya. These accusations cast a shadow over decades of defence cooperation, raising concerns about accountability and the conduct of international forces during training exercises abroad.",
             "url": "https://www.bbc.com/news/articles/cvgq5dvygllo",
             "category": "Defence",
             "date": "2025-12-03T11:55:24Z"
         },
         {
             "title": "Mastercard adds fraud protection tools to SME cards in Latin America and the Caribbean",
-            "summary": "Mastercard has significantly enhanced its credit card offerings specifically for Small and Medium-sized Enterprises (SMEs) across Latin America and the Caribbean (LAC). This strategic move aims to directly address the most pressing financial and operational needs faced by these businesses in the region, providing a stronger value proposition to support their growth and stability.",
+            "summary": "Mastercard has significantly improved its credit card offerings for Small and Medium-sized Enterprises (SMEs) across Latin America and the Caribbean. This initiative aims to better meet the pressing financial and operational needs of these businesses in the region. The enhanced value proposition includes various benefits and tools designed to support their growth and efficiency, thereby bolstering economic activity in the LAC market.",
             "url": "https://www.finextra.com/pressarticle/108175/mastercard-adds-fraud-protection-tools-to-sme-cards-in-latin-america-and-the-caribbean",
             "category": "International",
             "date": "2025-12-03T11:52:00Z"
         },
         {
             "title": "India, EU explore joint effort to secure undersea cables in Indian Ocean",
-            "summary": "Ahead of their annual summit, senior Indian and EU officials are meeting this week to deliberate on the security and resilience of undersea cables. This discussion forms part of a broader initiative to boost maritime security and cooperation between India and the European Union, emphasizing the protection of critical digital infrastructure and strengthening strategic partnerships in the Indo-Pacific.",
+            "summary": "Indian and EU officials are set to discuss the critical security and resilience of undersea cables ahead of their annual summit. This deliberation underscores a broader collaborative effort to enhance maritime security and connectivity. For SSB aspirants, this highlights India's strategic engagement with global partners on vital infrastructure, reflecting growing concerns over digital infrastructure vulnerability and geopolitical stability.",
             "url": "https://economictimes.indiatimes.com/news/india/india-eu-explore-joint-effort-to-secure-undersea-cables-in-indian-ocean/articleshow/125742348.cms",
             "category": "International",
             "date": "2025-12-03T11:32:10Z"
         },
         {
             "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 3rd December 2025",
-            "summary": "This article introduces a resource offering daily quizzes and current affairs questions vital for UPSC Prelims Exam preparation. The content is meticulously sourced from prominent national publications like The Hindu, Indian Express, and PIB, emphasizing their critical role in helping aspirants succeed in this competitive examination.",
+            "summary": "This resource offers daily current affairs questions vital for competitive exams like UPSC, drawing extensively from authoritative sources such as The Hindu, Indian Express, and PIB. These meticulously compiled questions ensure aspirants are comprehensively updated on key national and global developments, crucial for their preparation for service selection.",
             "url": "https://iasbaba.com/2025/12/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-3rd-december-2025/",
             "category": "National",
             "date": "2025-12-03T11:25:31Z"
         },
         {
             "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 1st December 2025",
-            "summary": "This section provides daily current affairs questions, vital for UPSC Prelims and highly relevant for SSB aspirants. Content is meticulously sourced from leading national publications like The Hindu, Indian Express, and government releases from PIB. Such comprehensive preparation ensures strong general awareness, essential for excelling in competitive examinations and interviews.",
+            "summary": "This content outlines the origins of current affairs questions for the crucial UPSC Prelims Exam in India. It emphasizes key national sources such as The Hindu, Indian Express, and PIB, vital for aspirants' preparation. Access to previous daily quiz archives is also highlighted as a resource for comprehensive study.",
             "url": "https://iasbaba.com/2025/12/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-1st-december-2025/",
             "category": "National",
             "date": "2025-12-03T11:19:57Z"
         },
         {
             "title": "How Kamloops, BC, generates $18 million per year from mountain biking",
-            "summary": "Kamloops, British Columbia, widely recognized as the 'birthplace of freeride,' has dramatically expanded its extensive trail network. This development solidifies its standing as a premier destination for extreme sports enthusiasts, particularly in mountain biking. The region's ongoing investment in infrastructure and diverse terrain continues to attract visitors, showcasing significant growth in adventure tourism and recreation within the area.",
+            "summary": "Kamloops, British Columbia, renowned as the \"birthplace of freeride,\" has dramatically expanded its extensive trail network over the years. This Canadian city continues to be a significant destination for adventure sports enthusiasts, especially in the world of mountain biking. Its growing infrastructure solidifies its international standing as a premier outdoor sports hub.",
             "url": "https://www.singletracks.com/?p=705913",
-            "category": "National",
+            "category": "International",
             "date": "2025-12-03T11:14:00Z"
         },
         {
             "title": "Video Shows India Firing Cruise Missile in Warning to Adversaries",
-            "summary": "The Indian Army recently emphasized the formidable capabilities of the BrahMos cruise missile system, highlighting its capacity for conducting \"decisive long-range precision strikes.\" This statement underscores the missile's strategic importance and its role in India's defence arsenal. It signals the BrahMos's advanced operational readiness for precision engagements over significant distances, reflecting the Army's confidence in its effectiveness for future missions and deterrence.",
+            "summary": "The Indian Army has affirmed the BrahMos cruise missile's capability to execute \"decisive long-range precision strikes.\" This statement highlights its critical role in India's defence strategy, emphasizing its ability to accurately engage distant targets. For SSB aspirants, this signifies India's advanced technological prowess and growing self-reliance in missile technology, crucial for bolstering national security and deterrence capabilities in the region.",
             "url": "https://biztoc.com/x/917ce9d08e3d6f9e",
             "category": "Defence",
             "date": "2025-12-03T10:44:28Z"
         },
         {
             "title": "Kenyan lawmakers identify 'disturbing trend' of misconduct by British troops",
-            "summary": "A Kenyan parliamentary inquiry has accused British troops training there of a pattern of sexual misconduct and significant environmental harm. The report highlights alleged abuses by forces from the former colonial power, raising serious questions about the conduct and accountability of foreign military personnel during training exercises. These findings could strain diplomatic relations and necessitate stricter oversight of international defence cooperation.",
+            "summary": "A Kenyan parliamentary inquiry has leveled serious accusations against British troops training in the country, citing a pattern of sexual misconduct and environmental harm. This ongoing investigation highlights significant concerns regarding the conduct of foreign forces during international training exercises and their negative impact on local communities and ecosystems, potentially straining diplomatic relations.",
             "url": "https://www.thestar.com.my/news/world/2025/12/03/kenyan-lawmakers-identify-039disturbing-trend039-of-misconduct-by-british-troops",
             "category": "Defence",
             "date": "2025-12-03T10:40:00Z"
         },
         {
             "title": "Israel says to allow Gazans to exit to Egypt 'in coming days'",
-            "summary": "Israel has announced its plan to open the Rafah crossing, linking Gaza to Egypt, in the coming days. This decision, made in accordance with a ceasefire agreement, will allow Palestinian residents to exit the territory. For SSB aspirants, this development highlights the complex humanitarian and diplomatic efforts amidst geopolitical conflicts, reflecting an attempt to ease civilian movement.",
+            "summary": "Israel announced it would open the Rafah crossing from Gaza to Egypt in the 'coming days' to allow residents to exit the Palestinian territory. This decision aligns with a ceasefire agreement, aiming to facilitate humanitarian movement and manage the ongoing conflict's impact on civilians. Such measures are crucial for regional stability and civilian safety.",
             "url": "https://www.hurriyetdailynews.com/israel-says-to-allow-gazans-to-exit-to-egypt-in-coming-days-216418",
             "category": "International",
             "date": "2025-12-03T10:24:58Z"
         },
         {
             "title": "Russian Defence Minister congratulates personnel of units, which took part in liberation of Volchansk in Kharkov region",
-            "summary": "Russian Defence Minister Andrei Belousov officially extended congratulations to the leadership and personnel of the prestigious 69th Guards Motorised Rifle Division. This significant gesture from the Defence Minister recognizes the division, which holds the Krasnoselskaya Order of Lenin and Red Banner distinctions, for unspecified achievements. Such commendations highlight the unit's importance within the Russian Armed Forces.",
+            "summary": "Russian Defence Minister Andrei Belousov congratulated the command and personnel of the 69th Guards Motorised Rifle Division. This event, dated December 1, 2025, reflects internal military recognition practices within Russia's defence forces. Such commendations often acknowledge operational successes or exemplary service, offering insight into the command chain and morale-building efforts in a significant global military power.",
             "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/12/ukraine-251201-russia-mod01.htm",
             "category": "Defence",
             "date": "2025-12-03T09:33:44Z"
         },
         {
-            "title": "Who is Amar Subramanya, the Indian-origin PhD from University of Washington leading Apple AI?",
-            "summary": "Amar Subramanya, an Indian-origin PhD from the University of Washington, is now leading Apple's Artificial Intelligence division. His appointment highlights the increasing global influence of Indian talent in cutting-edge technology and innovation. This significant role at a tech giant like Apple underscores the contributions of the Indian diaspora to the global scientific and technological landscape, inspiring aspirations for similar achievements.",
-            "url": "https://timesofindia.indiatimes.com/education/news/who-is-amar-subramanya-the-indian-origin-phd-from-university-of-washington-leading-apple-ai/articleshow/125736001.cms",
+            "title": "INDIA- MALDIVES JOINT MILITARY EXERCISE EKUVERIN COMMENCES IN KERALA",
+            "summary": "The 14th edition of Joint Military Exercise EKUVERIN between the Indian Army and Maldives National Defence Force has commenced. This annual exercise aims to enhance interoperability, share best practices in counter-terrorism, and strengthen bilateral defence cooperation. Such joint drills are crucial for regional security and strategic partnerships, underscoring India's commitment to international collaboration, a vital aspect for SSB aspirants.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251202-india-pib03.htm",
+            "category": "Defence",
+            "date": "2025-12-03T09:26:04Z"
+        },
+        {
+            "title": "INDIAN NAVY TO CONDUCT OPERATIONAL DEMONSTRATION AT SHANGUMUGHAM BEACH, THIRUVANANTHAPURAM",
+            "summary": "The Indian Navy is set to commemorate Navy Day 2025 with a grand Operational Demonstration (Op Demo 2025), organized by the Ministry of Defence. This annual event showcases the Navy's formidable capabilities and operational readiness to the nation. It highlights maritime power, honors service personnel, and aims to foster public awareness and pride in India's naval strength and strategic preparedness, demonstrating key naval assets.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251202-india-pib04.htm",
+            "category": "Defence",
+            "date": "2025-12-03T09:25:56Z"
+        },
+        {
+            "title": "Operation Sindoor is proof that India gives a befitting reply to those who do not understand the language of peace & goodwill, says Raksha Mantri",
+            "summary": "The Ministry of Defence reiterated India's commitment to peace but warned against any aggression, emphasizing a resolute stance on national security. A key focus is achieving a substantial Rs 3 lakh crore defence production target, signaling a push for self-reliance and strengthening indigenous capabilities. This strategic outlook combines a peaceful global approach with a firm resolve to protect national interests and enhance defence manufacturing.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251202-india-pib05.htm",
+            "category": "Defence",
+            "date": "2025-12-03T09:25:47Z"
+        },
+        {
+            "title": "Here are Yankees' 3 biggest needs as Winter Meetings approach",
+            "summary": "The New York Yankees' owner, Hal Steinbrenner, plans to keep the team's payroll near $300 million as they head into MLB's Winter Meetings. This strategy aims to avoid exceeding the luxury tax threshold, a recurring financial approach for the franchise. This decision is critical for the Yankees' roster construction and competitiveness in Major League Baseball.",
+            "url": "https://www.northjersey.com/story/sports/mlb/yankees/2025/12/03/yankees-needs-targets-mlb-winter-meetings-2025/87471234007/",
+            "category": "International",
+            "date": "2025-12-03T09:06:21Z"
+        },
+        {
+            "title": "Traffic Modeling Using Machine Learning",
+            "summary": "The article explains the fundamental difference between lab (synthetic) and field data, highlighting that laboratory settings enable testing under highly repeatable and controlled conditions. This allows for precise isolation and manipulation of variables, contrasting with the inherent variability of real-world field data. Understanding this distinction is crucial for rigorous scientific experimentation and data interpretation across various disciplines.",
+            "url": "https://calendar.perfplanet.com/2025/traffic-modeling-using-machine-learning/",
             "category": "Sci & Tech",
-            "date": "2025-12-03T06:40:11Z"
+            "date": "2025-12-03T09:01:00Z"
+        },
+        {
+            "title": "Meeting with Kursk Region Governor Alexander Khinshtein",
+            "summary": "Russian President Vladimir Putin recently held a working meeting with Alexander Khinshtein, Governor of the Kursk Region. The discussion, which occurred at the Kremlin in Moscow, focused on regional administrative matters. This engagement highlights Moscow's continued attention to internal governance and the specific challenges faced by its border regions, crucial for national stability.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2025/12/russia-251202-kremlin03.htm",
+            "category": "International",
+            "date": "2025-12-03T07:16:28Z"
+        },
+        {
+            "title": "Apocalypse Soon?",
+            "summary": "An individual reflects on their career, marking 20 years since retiring from the Air Force and 40 years since their initial entry into Cheyenne Mountain. This iconic facility serves as America's critical nuclear redoubt and a key command center for national defense. The account likely offers insights into its strategic importance, operational challenges, and the personnel dedicated to safeguarding US national security from within this formidable underground complex.",
+            "url": "https://www.counterpunch.org/2025/12/03/apocalypse-soon-3/",
+            "category": "Defence",
+            "date": "2025-12-03T06:57:31Z"
         }
     ]
 }
