@@ -1,89 +1,264 @@
 {
-    "last_updated": "2025-12-05T12:33:31.373003+00:00",
+    "last_updated": "2025-12-05T18:21:53.705721+00:00",
     "articles": [
         {
+            "title": "Complaint filed against Microsoft Ireland alleging it facilitated mass processing of \u2018illegal\u2019 surveillance data on Palestinians",
+            "summary": "Irish human rights campaigners have filed a complaint with regulators, submitting internal Microsoft files. They allege that Microsoft's Irish business facilitated the mass processing of data for Israel's military. This action raises significant concerns about corporate involvement in military operations and data privacy, highlighting the ethical responsibilities of multinational tech companies operating globally.",
+            "url": "https://www.irishtimes.com/ireland/2025/12/04/complaint-filed-against-microsoft-ireland-alleging-it-facilitated-mass-processing-of-illegal-surveillance-data-on-palestinians/",
+            "category": "International",
+            "date": "2025-12-04T18:11:46Z"
+        },
+        {
+            "title": "AUKUS will survive Trump, says former defense minister Smith",
+            "summary": "Australia's top diplomat in the UK, Stephen Smith, asserts confidence that the multi-billion-dollar AUKUS defence pact will endure a potential Donald Trump presidency. This trilateral security agreement, involving Australia, the UK, and the US, focuses on advanced defence capabilities, including nuclear-powered submarines. Smith believes AUKUS's strategic importance ensures its long-term viability despite potential political shifts in US leadership.",
+            "url": "https://www.abc.net.au/news/2025-12-05/steven-smith-prepares-to-leave-london-after-three-years/106103968",
+            "category": "Defence",
+            "date": "2025-12-04T18:04:44Z"
+        },
+        {
+            "title": "The Haute-Chaudi\u00e8re Wind Project in Quebec Reaches Financial Close, Paving the Way for Construction Start",
+            "summary": "Financing has been secured from a consortium of major banks, including National Bank of Canada, CIBC, Desjardins Group, Germany's KfW IPEX-Bank, and Japan's Sumitomo Mitsui Trust Bank. While the specific project is undisclosed due to content restrictions, this multi-national financial backing indicates a significant large-scale venture. Such collaboration demonstrates robust international financial engagement and the complex funding mechanisms behind major projects.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/the-haute-chaudiere-wind-project-in-quebec-reaches-financial-close-paving-the-way-for-construction-start",
+            "category": "International",
+            "date": "2025-12-04T17:52:22Z"
+        },
+        {
+            "title": "Amir El-Masry on Dislocating Finger While Playing Boxer Prince Naseem in \u2018Giant\u2019 With Pierce Brosnan Who Told Him: \u2018F\u2014 the Film. Worry About Your Health\u2019",
+            "summary": "British-Egyptian actor Amir El-Masry is set to portray the legendary British-Yemeni featherweight boxer \"Prince\" Naseem Hamed in the upcoming biopic \"Giant\". This significant film has been chosen to open Saudi Arabia\u2019s Red Sea Film Festival, marking a notable career highlight for El-Masry. The selection underscores the growing international collaboration and cultural prominence of the Middle East in global cinema.",
+            "url": "https://variety.com/2025/film/festivals/amir-el-masry-dislocating-finger-boxer-giant-pierce-brosnan-1236597162/",
+            "category": "International",
+            "date": "2025-12-04T17:24:23Z"
+        },
+        {
+            "title": "2026 ZiPS Projections: Washington Nationals",
+            "summary": "The provided text is a code snippet, likely for web development, featuring JavaScript functions like 'buildProspectsNavWidget' with parameters related to seasons and report IDs. It does not contain any news content relevant to national, international, or defence affairs for an SSB aspirant to summarize or analyze. Therefore, a traditional news summary cannot be generated from this input.",
+            "url": "https://blogs.fangraphs.com/2026-zips-projections-washington-nationals/",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T17:08:06Z"
+        },
+        {
+            "title": "Be Forever Yamato: Star Blazers: Rebel 3199 Episodes 11-14 Anime Review",
+            "summary": "The fourth \"REBEL 3199\" movie, \"The Aqua Sasha,\" has been released, marking the midpoint of this modern retelling series. It reinterprets the classic 1980s \"Space Battleship Yamato\" movie \"Be Forever Yamato\" and the TV show \"The Bolar Wars.\" This installment continues to update the beloved science fiction saga, bringing a contemporary twist to the iconic narrative for a new audience.",
+            "url": "https://www.animenewsnetwork.com/review/be-forever-yamato/star-blazers/rebel-3199/episodes-11-14/.231279",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T17:00:00Z"
+        },
+        {
+            "title": "Content Cluster [12-04-25]",
+            "summary": "The author recently featured on a podcast with Ben West, exploring a diverse range of subjects, notably commencing with \"Grea...\". The interview was described as quite different from the author's usual podcast topics, indicating a potentially unique or broader discussion. However, the provided article excerpt lacks further specifics regarding the content or nature of these discussed topics.",
+            "url": "https://dougwils.com/resources/the-content-muster/dece-first.html",
+            "category": "National",
+            "date": "2025-12-04T17:00:00Z"
+        },
+        {
+            "title": "Influence of Object Affordance on Action Language Understanding: Evidence from Dynamic Causal Modeling Analysis",
+            "summary": "arXivLabs is a framework designed to empower individuals and organizations to develop and integrate new features directly onto the arXiv website. This initiative fosters community-driven innovation, allowing collaborators to enhance the renowned scientific preprint repository. It aims to evolve arXiv's capabilities by leveraging external contributions, benefiting researchers and the broader academic community through improved accessibility and functionality.",
+            "url": "https://arxiv.org/abs/2512.04989",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T16:57:29Z"
+        },
+        {
+            "title": "Media Advisory \u2013 Newport News Shipbuilding to Host Barb (SSN 804) Keel Laying",
+            "summary": "HII's Newport News Shipbuilding division is hosting the keel laying ceremony for the future Virginia-class attack submarine USS Barb (SSN 807). This significant milestone in submarine construction marks the formal start of building a new advanced vessel for the U.S. Navy, enhancing its undersea warfare capabilities. Such projects are vital for national defence and naval strength.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/04/3200129/14858/en/Media-Advisory-Newport-News-Shipbuilding-to-Host-Barb-SSN-804-Keel-Laying.html",
+            "category": "Defence",
+            "date": "2025-12-04T16:45:00Z"
+        },
+        {
+            "title": "Guinea-Bissau Telecom Operators Intelligence Report 2025 Featuring Telecel and Orange",
+            "summary": "A new 'Guinea-Bissau Telecom Operators Country Intelligence Report' has been released by ResearchAndMarkets.com. This report provides an in-depth analysis of the telecommunications sector in Guinea-Bissau, covering market trends, operator performance, and regulatory insights. Aspiring officers should note how such detailed intelligence helps in understanding global technological infrastructure and economic dynamics, even if specific to a single nation's telecom landscape.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/04/3200110/28124/en/Guinea-Bissau-Telecom-Operators-Intelligence-Report-2025-Featuring-Telecel-and-Orange.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T16:27:00Z"
+        },
+        {
+            "title": "2025 Week 14 Fantasy Football Rankings: WR",
+            "summary": "Recent NFL updates highlight key player statuses and anticipated performances. Nico Collins is expected to have a significant impact in Kansas City, while Davante Adams continues to excel near the goal line. Michael Wilson's availability remains dependent on Marvin Harrison Jr.'s heel injury status. These reports detail crucial offensive player dynamics and position updates within American professional football.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/2025-week-14-fantasy-football-rankings-wr",
+            "category": "International",
+            "date": "2025-12-04T16:22:45Z"
+        },
+        {
+            "title": "2025 Week 14 Fantasy Football Rankings: RB",
+            "summary": "The article focuses on several NFL running backs and their ongoing struggles or competition for playing time. Jonathan Taylor is reportedly trying to overcome a recent performance slump in Jacksonville. RJ Harvey seeks increased opportunities against the Raiders, while Kenneth Walker and Zach Charbonnet are battling for touches in Atlanta, highlighting the dynamic nature of professional American football rosters and player contributions.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/2025-week-14-fantasy-football-rankings-rb",
+            "category": "International",
+            "date": "2025-12-04T16:22:43Z"
+        },
+        {
+            "title": "2025 Week 14 Fantasy Football Rankings: QB",
+            "summary": "The article previews key matchups in American football, focusing on prominent NFL quarterbacks. Lamar Jackson aims to improve performance against the Steelers, while Jordan Love prepares to face the Bears. Meanwhile, the Commanders team faces a significant decision between Jayden Daniels and Marcus Mariota for their starting quarterback position, highlighting current player dynamics and strategic team choices in the sport.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/2025-week-14-fantasy-football-rankings-qb",
+            "category": "National",
+            "date": "2025-12-04T16:22:42Z"
+        },
+        {
+            "title": "What to Know About Putin\u2019s Visit to India as Oil Trade Dries Up - The New York Times",
+            "summary": "This text, a standard digital 'fine print', clarifies that online comments are solely the responsibility of the individuals who post them. It explicitly states the platform itself bears no accountability for user-generated content, underscoring common legal frameworks governing online interaction. This emphasizes important policy aspects for users and providers within the technology sector.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180286139",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T16:13:15Z"
+        },
+        {
+            "title": "Defence ministers of India, Russia hold crucial talks ahead of summit\u2019",
+            "summary": "India and Russia have resolved to expand their bilateral defence cooperation, with New Delhi expressing keen interest in procuring additional batches of advanced S-400 missile systems. This move underscores India's commitment to strengthening its air defence capabilities and further solidifies the strategic defence partnership between the two nations, ensuring continued collaboration on critical military technologies.",
+            "url": "https://statetimes.in/defence-ministers-of-india-russia-hold-crucial-talks-ahead-of-summit/",
+            "category": "Defence",
+            "date": "2025-12-04T15:58:26Z"
+        },
+        {
+            "title": "Modi Welcomes Putin As India, Russia Look To Boost Ties",
+            "summary": "The US, under President Trump, imposed a 25% tariff on Indian goods in August, aiming to penalize New Delhi for its purchases of Russian oil. This move highlights US scrutiny of India-Russia ties, underscoring geopolitical tensions and challenges to India's strategic autonomy in energy procurement amid international pressure.",
+            "url": "https://www.ndtvprofit.com/nation/russia-president-vladimir-putin-india-visit-pm-narendra-modi-welcomes-palam-airport",
+            "category": "International",
+            "date": "2025-12-04T15:34:30Z"
+        },
+        {
+            "title": "Gold seizures fall, but smuggling remains a challenge: DRI report",
+            "summary": "Directorate of Revenue Intelligence (DRI) data indicates a significant drop in gold smuggling, with seizure volumes decreasing over 21 percent. This suggests a decline in illegal gold trade within the nation, potentially due to enhanced enforcement or shifting smuggling patterns. This development holds relevance for SSB aspirants discussing national security, economic stability, and law enforcement effectiveness, showcasing positive trends in combating illicit activities.",
+            "url": "https://www.thehindubusinessline.com/markets/gold/gold-seizure-down-but-smuggling-of-gold-remained-challenge-reveals-dri-report/article70358145.ece",
+            "category": "National",
+            "date": "2025-12-04T14:32:38Z"
+        },
+        {
+            "title": "Gold seizure down, but smuggling of gold remained challenge, reveals DRI report",
+            "summary": "According to Directorate of Revenue Intelligence (DRI) data, gold smuggling activities in India appear to have significantly decreased, with a reported dip of over 21% in the volume of seizures. This trend indicates improved border security and law enforcement efforts against illicit trade, contributing positively to national economic integrity and internal security. Such developments are crucial for maintaining stability.",
+            "url": "https://www.thehindubusinessline.com/news/gold-seizure-down-but-smuggling-of-gold-remained-challenge-reveals-dri-report/article70358145.ece",
+            "category": "National",
+            "date": "2025-12-04T14:32:38Z"
+        },
+        {
+            "title": "[Latest] Global 4D Printing in Healthcare Market Size/Share Worth USD 14240 Million by 2034 at a 84.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "summary": "A new report from Custom Market Insights, released December 2025, details the 4D Printing in Healthcare Market. It provides insights into market size, trends, and key components like equipment. For SSB aspirants, this highlights the rapid advancements in medical technology and the growing importance of emerging scientific fields. 4D printing offers transformative potential for dynamic applications in the healthcare sector.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/04/3199913/0/en/Latest-Global-4D-Printing-in-Healthcare-Market-Size-Share-Worth-USD-14240-Million-by-2034-at-a-84-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segm.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T14:30:00Z"
+        },
+        {
+            "title": "Modi Rolls Out the Red Carpet for Putin in State Visit to India",
+            "summary": "Russian President Vladimir Putin arrived in New Delhi for his first state visit since the Ukraine invasion, signaling strengthening India-Russia ties. This visit highlights India's strategic balancing act amidst global geopolitical shifts, particularly concerning energy and defence cooperation. The warming relationship has drawn concern from the US, emphasizing India's independent foreign policy and its importance in international diplomacy.",
+            "url": "https://financialpost.com/pmn/business-pmn/modi-rolls-out-the-red-carpet-for-putin-in-state-visit-to-india",
+            "category": "International",
+            "date": "2025-12-04T14:13:17Z"
+        },
+        {
+            "title": "UPSC Quiz \u2013 2025 : IASbaba\u2019s Daily Current Affairs Quiz 4th December 2025",
+            "summary": "This platform offers daily current affairs quizzes, essential for SSB aspirants and UPSC Prelims preparation. Questions are sourced from reputable publications like The Hindu, Indian Express, and PIB, providing crucial knowledge on national and international developments vital for competitive exams, helping aspirants stay updated and well-prepared.",
+            "url": "https://iasbaba.com/2025/12/upsc-quiz-2025-iasbabas-daily-current-affairs-quiz-4th-december-2025/",
+            "category": "National",
+            "date": "2025-12-04T14:02:44Z"
+        },
+        {
+            "title": "\u2018Over 100 terrorists waiting at launchpads\u2019. Why India could see more infiltration on LoC",
+            "summary": "A top BSF official warns of a potential surge in infiltration attempts by Pakistan-based terrorists. They are reportedly using new routes to evade detection, especially before high-altitude passes become inaccessible due to winter snow. This necessitates heightened vigilance and preparedness from border security forces along the international border to counter these evolving threats.",
+            "url": "https://timesofindia.indiatimes.com/toi-plus/defence-security/over-100-terrorists-waiting-at-launchpads-why-india-could-see-more-infiltration-on-loc/articleshow/125764998.cms",
+            "category": "Defence",
+            "date": "2025-12-04T13:54:51Z"
+        },
+        {
+            "title": "Putin Heads to India in First Visit Since 2022 Invasion of Ukraine - The Moscow Times",
+            "summary": "This text is a standard disclaimer clarifying that any user-posted comments are the sole responsibility of the individual who posted them. The platform explicitly states it holds no responsibility or liability for this user-generated content. This common legal safeguard is crucial for online services, limiting their accountability and managing risks associated with public discussions.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180284759",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T13:52:30Z"
+        },
+        {
+            "title": "Tata, Cyient and Applied Materials win \u20b94,500 crore mandate to modernise India\u2019s lone chip fab",
+            "summary": "Indian firms, including a Tata Group company, and a US chip design major have secured a \u20b94,500 crore project to establish India's sole semiconductor fabrication plant. This significant investment aims to bolster indigenous semiconductor manufacturing capabilities, crucial for technological self-reliance and reducing import dependence, marking a key step in India's tech sector.",
+            "url": "https://www.livemint.com/companies/news/tata-cyient-and-applied-materials-win-4-500-crore-mandate-to-modernise-india-s-lone-chip-fab-11764854473901.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T13:50:47Z"
+        },
+        {
+            "title": "Trump\u2019s ultimatum to Nicol\u00e1s Maduro: Step down as Venezuela\u2019s president and spend the rest of your life in Qatar \u2014 or else",
+            "summary": "Former US President Donald Trump delivered a stark ultimatum to Venezuelan President Nicol\u00e1s Maduro, demanding he step down immediately or face serious consequences. Administration sources hinted at options including allowing Maduro a peaceful exit. This action intensified international pressure on Maduro's regime, underscoring US engagement in resolving Venezuela's political and economic crises.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/trumps-ultimatum-to-nicols-maduro-step-down-as-venezuelas-president-and-spend-the-rest-of-your-life-in-qatar-or-else/articleshow/125767859.cms",
+            "category": "International",
+            "date": "2025-12-04T13:49:03Z"
+        },
+        {
+            "title": "Submarine hunting pact signed by UK amid Russian threat",
+            "summary": "The UK and Norway have signed a pioneering defence agreement, enabling their navies to operate a combined fleet of warships. This 'first of its kind' pact, announced by the UK's Ministry of Defence, significantly deepens bilateral security cooperation and enhances interoperability. It aims to strengthen maritime presence and collective defence capabilities, crucial for regional stability and strategic projection.",
+            "url": "https://news.sky.com/story/uk-and-norway-sign-submarine-hunting-pact-amid-russian-threat-to-undersea-cables-13479348",
+            "category": "Defence",
+            "date": "2025-12-04T13:47:00Z"
+        },
+        {
+            "title": "Lamb, Chase lead Week 14 fantasy football wide receiver rankings",
+            "summary": "This article outlines the Top-50 fantasy football wide receiver rankings for Week 14. Key players like CeeDee Lamb and Ja'Marr Chase are highlighted as leaders, with Jaxon Smith-Njigba, Jameson Williams, and Puka Nacua also mentioned. The detailed rankings aim to assist fantasy football enthusiasts in making informed player selections for the upcoming week's games.",
+            "url": "https://www.upi.com/Sports_News/NFL/2025/12/04/fantasy-football-wide-receiver-rankings-Week14/9911764850699/",
+            "category": "National",
+            "date": "2025-12-04T13:38:20Z"
+        },
+        {
+            "title": "NDDB plans solar-powered dairy in Kargil to supply fresh milk to Indian Army units",
+            "summary": "The National Dairy Development Board (NDDB) has initiated a landmark project to ensure an uninterrupted supply of fresh milk for Indian Army jawans. This crucial move targets soldiers posted in challenging frontline regions like the Siachen Base Camp, Nubra Valley, and Leh. The initiative significantly enhances troop welfare and logistical support in remote, high-altitude areas, directly benefiting personnel serving in arduous conditions.",
+            "url": "https://www.thehindubusinessline.com/economy/agri-business/nddb-to-set-up-high-altitude-solar-powered-dairy-at-kargil-for-supplying-fresh-milk-to-indian-army/article70357741.ece",
+            "category": "Defence",
+            "date": "2025-12-04T13:18:34Z"
+        },
+        {
+            "title": "India Expands Missile Test Zone Off Visakhapatnam Coast",
+            "summary": "A NOTAM (Notice to Airmen) is an official notification for pilots, airlines, and air traffic controllers about critical updates impacting flight operations or safety. These advisories are crucial for maintaining aviation safety and efficiency, informing all stakeholders of potential hazards, changes in facilities, or procedures. They ensure secure air travel by providing timely, essential information for effective airspace management.",
+            "url": "https://www.ndtvprofit.com/nation/india-expands-missile-test-zone-off-visakhapatnam-coast",
+            "category": "National",
+            "date": "2025-12-04T13:13:48Z"
+        },
+        {
             "title": "Govt refutes report of new $2 bn submarine deal with Russia, calls it 'misleading'",
-            "summary": "The Indian government has dismissed a Bloomberg report claiming a fresh $2 billion submarine deal with Russia during President Putin's recent visit. Labeling the report as \"misleading,\" the government clarified that no such agreement was reached. This emphasizes the importance of official channels for defence procurement news and verifying reports concerning strategic partnerships, crucial for aspirants tracking national security developments.",
+            "summary": "India's government strongly dismissed a Bloomberg report alleging a fresh $2 billion submarine deal with Russia during President Putin's recent visit, branding it misleading. This official clarification via PIB refutes claims of a major defence acquisition, emphasizing the government's commitment to transparent communication regarding strategic procurements and international defence partnerships, crucial information for defence aspirants.",
             "url": "https://economictimes.indiatimes.com/news/defence/govt-refutes-report-of-new-2-bn-submarine-deal-with-russia-calls-it-misleading/articleshow/125766742.cms",
             "category": "Defence",
             "date": "2025-12-04T12:17:58Z"
         },
         {
             "title": "$2-billion India\u2013Russia submarine deal sealed ahead of Putin\u2019s India visit",
-            "summary": "India is set to lease a nuclear-powered submarine from Russia for approximately $2 billion, finalizing a deal after nearly a decade of negotiations. This acquisition significantly bolsters the Indian Navy's underwater capabilities and strategic deterrence, crucial for maintaining regional security and projecting power. It represents a key step in strengthening India's maritime defence posture and strategic partnership with Russia.",
+            "summary": "India will lease a nuclear-powered submarine from Russia for approximately $2 billion, concluding nearly a decade of negotiations. This significant defence acquisition will bolster the Indian Navy's underwater capabilities and strategic deterrence. The deal underscores India's ongoing efforts to modernize its naval fleet and strengthen its maritime security posture, enhancing overall defence preparedness.",
             "url": "https://www.bloomberg.com/news/articles/2025-12-04/india-clinches-2-billion-russia-submarine-deal-as-putin-visits",
             "category": "Defence",
             "date": "2025-12-04T12:05:40Z"
         },
         {
             "title": "Indian Navy synonymous with exceptional courage and determination: PM Modi",
-            "summary": "Prime Minister Narendra Modi extended warm Navy Day greetings to Indian Navy personnel, commending their \"exceptional courage and determination.\" In a post on X, he highlighted the Navy's pivotal role in safeguarding national interests and ensuring maritime security. His message underscored the nation's profound pride and gratitude for their unwavering dedication and service to the country.",
+            "summary": "Prime Minister Narendra Modi extended Navy Day greetings, commending the Indian Navy's \"exceptional courage and determination.\" He praised force personnel for their selfless service and crucial role in safeguarding national interests and maritime security. This highlights the Navy's significant contributions to India's defence prowess, a vital aspect for aspiring SSB candidates to recognize and appreciate.",
             "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-synonymous-with-exceptional-courage-and-determination-pm-modi/articleshow/125766484.cms",
             "category": "Defence",
             "date": "2025-12-04T11:55:38Z"
         },
         {
             "title": "Ambrose Channel Pilot Cable",
-            "summary": "The Ambrose Channel pilot cable was an early 20th-century navigational aid, strategically installed on the seabed of New York Harbor\u2019s Ambrose Channel. This channel served as the critical deep-water entrance for large ships. Its historical development highlights foundational efforts in maritime engineering and navigation technology, crucial for ensuring safe passage into one of the world's busiest ports.",
+            "summary": "The Ambrose Channel pilot cable, an early 20th-century technological innovation, served as a crucial navigational aid in New York Harbor. Installed on the seabed of the main deep-water Ambrose Channel, it guided large ships entering the port. This engineering feat improved maritime safety and efficiency for vessels accessing one of the world's major ports, showcasing historical infrastructure development.",
             "url": "https://www.amusingplanet.com/2025/12/ambrose-channel-pilot-cable.html",
             "category": "Sci & Tech",
             "date": "2025-12-04T11:53:00Z"
         },
         {
-            "title": "India Gives Update on Growing Nuclear Missile Submarine Force",
-            "summary": "India is significantly bolstering its nuclear capabilities by preparing to commission its third nuclear-armed submarine. This strategic enhancement is crucial amidst ongoing rivalries with neighboring China and Pakistan. Placing another nuclear submarine into service underscores India's commitment to strengthening its deterrence posture and naval power, vital for national security and maintaining strategic balance in the region.",
-            "url": "https://biztoc.com/x/2ce168a4271082c6",
-            "category": "Defence",
-            "date": "2025-12-04T11:52:59Z"
-        },
-        {
-            "title": "UK and Norway form naval alliance to hunt Russian submarines",
-            "summary": "The UK and Norway have signed a significant defence pact, forming a combined fleet to hunt Russian submarines in the North Atlantic. This agreement bolsters regional security cooperation and maritime surveillance capabilities. Concurrently, HMS Glasgow, the first Type 26 frigate, is under construction for the Royal Navy, further enhancing the UK's naval power and readiness against evolving threats.",
-            "url": "https://www.bbc.com/news/articles/c3v152ep9l0o",
-            "category": "Defence",
-            "date": "2025-12-04T11:49:29Z"
-        },
-        {
-            "title": "Ex-Army man, woman held for sharing sensitive info with Pakistan spies",
-            "summary": "The Gujarat ATS has arrested a retired Army personnel and a woman on charges of espionage. They are accused of sharing sensitive information regarding Indian military establishments and personnel with Pakistani agents. This serious breach of national security highlights the constant threat of foreign intelligence operations and the importance of vigilance, even among former service members, to protect strategic assets.",
-            "url": "https://economictimes.indiatimes.com/news/defence/ex-army-man-woman-held-for-sharing-sensitive-info-with-pakistan-spies/articleshow/125766094.cms",
-            "category": "Defence",
-            "date": "2025-12-04T11:37:46Z"
-        },
-        {
-            "title": "Miami Dolphins looking for sweep vs. New York Jets. Will they get it?",
-            "summary": "The Miami Dolphins and New York Jets currently occupy the lower ranks of the AFC East this season, indicating a challenging performance for both teams. The Dolphins previously secured a win against the Jets at Hard Rock Stadium, gaining bragging rights in their rivalry. This piece likely discusses their ongoing season performance and competitive dynamics within the American football league.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2025/12/04/miami-dolphins-new-york-jets-predictions-weather/87571550007/",
-            "category": "International",
-            "date": "2025-12-04T11:02:38Z"
-        },
-        {
-            "title": "Germany Data Center Colocation Market Supply & Demand Analysis Report 2025: A $5.36 Billion Industry by 2030 with Frankfurt Leading the Charge in Data Center Operations",
-            "summary": "A new report titled 'Germany Data Center Colocation Market - Supply & Demand Analysis 2025-2030' has been added to ResearchAndMarkets.com's offerings. This analysis provides crucial insights into the supply and demand trends shaping Germany's data center colocation sector from 2025 to 2030. It's an essential resource for understanding technological infrastructure growth and market dynamics in a key European economy.",
-            "url": "https://www.globenewswire.com/news-release/2025/12/04/3199569/28124/en/Germany-Data-Center-Colocation-Market-Supply-amp-Demand-Analysis-Report-2025-A-5-36-Billion-Industry-by-2030-with-Frankfurt-Leading-the-Charge-in-Data-Center-Operations.html",
-            "category": "Sci & Tech",
-            "date": "2025-12-04T10:26:00Z"
-        },
-        {
             "title": "Why Indian Navy Day is celebrated on December 4?",
-            "summary": "India celebrates Navy Day annually on December 4th, a significant occasion to honour the Indian Navy's strategic role, exceptional bravery, and profound sacrifices. This observance underscores the critical contributions of the maritime force in ensuring national security and maritime interests. For SSB aspirants, understanding such national observances linked to defence is crucial.",
+            "summary": "India celebrates Navy Day on December 4th, honouring the Indian Navy's pivotal strategic role, exceptional bravery, and selfless sacrifices for the nation. This day commemorates their vital contributions to maritime security and national defence, serving as an inspiration for aspiring officers. It underscores the Navy's unwavering commitment to protecting India's interests and upholding its sovereignty on the high seas.",
             "url": "https://timesofindia.indiatimes.com/education/learning-with-toi/why-indian-navy-day-is-celebrated-on-december-4/articleshow/125764163.cms",
             "category": "Defence",
             "date": "2025-12-04T10:11:08Z"
         },
         {
-            "title": "India-Russia tango: Putin means business, and more",
-            "summary": "Russian President Vladimir Putin arrived in New Delhi for the 23rd India-Russia Summit, a pivotal meeting where both nations are reassessing their long-standing partnership. This high-level visit underscores ongoing diplomatic efforts to adapt the foundational elements of their bilateral relationship amidst evolving global dynamics, highlighting strategic discussions on future cooperation.",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/putin-india-trip-new-delhi-russia-tango-russian-president-vladimir-putin-means-business-and-more/articleshow/125763179.cms",
-            "category": "International",
-            "date": "2025-12-04T09:48:45Z"
+            "title": "Netherlands Data Center Colocation Market Supply & Demand Analysis Report 2025-2030: Expansion Driven by Planned Investments From Existing Providers and New Entrants Increasing National Facility Count",
+            "summary": "A new report from ResearchAndMarkets.com analyzes the \"Netherlands Data Center Colocation Market,\" focusing on supply and demand dynamics from 2025 to 2030. This study provides crucial insights into the evolving landscape of data center infrastructure in the Netherlands, assessing future growth and operational trends in digital storage and computing services, a key aspect of global technological advancement.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/04/3199562/28124/en/Netherlands-Data-Center-Colocation-Market-Supply-Demand-Analysis-Report-2025-2030-Expansion-Driven-by-Planned-Investments-From-Existing-Providers-and-New-Entrants-Increasing-Nation.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T10:03:00Z"
         },
         {
-            "title": "India-Russia tango: Putin means business, and more",
-            "summary": "Russian President Vladimir Putin arrived in New Delhi for the 23rd India-Russia Summit. This high-level diplomatic engagement focuses on both nations reassessing their foundational partnership. The summit is crucial for discussing strategic cooperation, bilateral ties, and economic relations, reflecting India's active foreign policy amidst evolving global dynamics. Aspirants should recognize its significance for international relations and India's position on the global stage.",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/putin-india-trip-new-delhi-russia-tango-russian-president-vladimir-putin-means-business-and-more/articleshow/125763819.cms",
+            "title": "Beyond barrels: India and Russia build a new energy playbook",
+            "summary": "India is set to host Russian President Vladimir Putin for the 23rd annual India-Russia Summit on December 4-5. The discussions will likely transcend traditional energy sector cooperation, exploring new avenues given rising global demand. This high-level meeting underscores the enduring strategic partnership between the two nations, aiming to deepen bilateral ties across various critical sectors, crucial for India's foreign policy and economic interests.",
+            "url": "https://www.rt.com/india/628898-beyond-barrels-india-and-russia/",
             "category": "International",
-            "date": "2025-12-04T09:48:45Z"
+            "date": "2025-12-04T09:42:32Z"
+        },
+        {
+            "title": "PARLIAMENT QUESTION: NISAR-SATELLITE",
+            "summary": "The NASA-ISRO Synthetic Aperture Radar (NISAR) satellite was successfully launched on July 30, 2025, from Sriharikota aboard ISRO's GSLV-F16. This significant joint mission underscores India's advancing capabilities in space technology and international collaboration. NISAR will provide critical Earth observation data, enhancing studies on climate change, natural disasters, and global environmental monitoring, reinforcing India's strategic importance in space science.",
+            "url": "https://www.globalsecurity.org/space/library/news/2025/space-251203-india-pib02.htm",
+            "category": "Sci & Tech",
+            "date": "2025-12-04T08:53:23Z"
         }
     ]
 }
