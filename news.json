@@ -1,89 +1,285 @@
 {
-    "last_updated": "2025-12-06T12:30:22.789902+00:00",
+    "last_updated": "2025-12-06T18:20:53.444919+00:00",
     "articles": [
         {
+            "title": "We may never discover who was operating the drones along Zelenskyy's flight path - here's why",
+            "summary": "Following Ukrainian President Zelenskyy's meeting with the Irish Taoiseach at Dublin Airport, an Irish Navy ship crew concurrently reported a significant sighting to headquarters. While specific details from the full report are extensive, this incident highlights active defence or maritime security observations during a high-profile international visit, suggesting broader security considerations for such events.",
+            "url": "https://www.thejournal.ie/drones-analysis-william-butler-yeats-dublin-6893629-Dec2025/",
+            "category": "Defence",
+            "date": "2025-12-05T18:14:08Z"
+        },
+        {
+            "title": "More than going back to the USSR",
+            "summary": "Russian President Vladimir Putin, leading a 100-member business delegation, visited India to discuss crucial cooperation agreements with the Government of India. This high-level engagement emphasizes the urgent need to strengthen India-Russia strategic and economic ties. The discussions aimed at deepening bilateral relations across various sectors, reflecting significant developments in India's international partnerships.",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/more-than-going-back-to-the-ussr/articleshow/125794194.cms",
+            "category": "International",
+            "date": "2025-12-05T18:13:34Z"
+        },
+        {
+            "title": "US-ROK Alliance: Washington Sees Only What It Wants To See",
+            "summary": "The provided article text is incomplete, consisting solely of a partnership disclaimer from KCPAC and the Daily Caller, followed by an ellipsis indicating missing content. Without the full article, it is impossible to accurately summarize any specific news for SSB aspirants or determine its precise topic for categorization within 'Defence', 'National', 'International', or 'Sci & Tech'.",
+            "url": "https://dailycaller.com/2025/12/05/opinion-south-korea-leftism-lee-jae-myung-china-north-korea/",
+            "category": "National",
+            "date": "2025-12-05T18:08:33Z"
+        },
+        {
+            "title": "Michael Kay gives bleak offseason outlook for budget-concerned Yankees",
+            "summary": "Michael Kay, the Yankees' television voice, presented a grim forecast for the team's upcoming offseason. He suggested that fans should not anticipate many new free-agent signings. This bleak outlook is likely driven by the team's financial considerations or strategic decisions, aiming to manage player expenses rather than aggressively pursue costly acquisitions, potentially disappointing fans hoping for significant roster enhancements.",
+            "url": "https://nypost.com/2025/12/05/sports/michael-kay-gives-bleak-offseason-outlook-for-budget-concerned-yankees/",
+            "category": "National",
+            "date": "2025-12-05T18:03:50Z"
+        },
+        {
+            "title": "France takes anti-drone measures after flight over nuclear sub base",
+            "summary": "The French military deployed anti-drone measures after detecting five unmanned aerial vehicles (UAVs) flying over a highly secured base. This incident highlights the escalating global challenge of unauthorized drone incursions over sensitive defence installations. Such occurrences underscore the critical importance of developing and deploying advanced counter-drone technologies and robust airspace security protocols to protect vital national assets.",
+            "url": "https://www.digitaljournal.com/world/france-takes-anti-drone-measures-after-flight-over-nuclear-sub-base-2/article",
+            "category": "Defence",
+            "date": "2025-12-05T18:02:20Z"
+        },
+        {
+            "title": "Which European countries have mandatory or voluntary military service",
+            "summary": "Several major European NATO members are strengthening their professional armies through voluntary national service schemes. This strategic shift aims to enhance military readiness and recruitment, as observed in recent live-fire exercises in Germany. Such initiatives demonstrate a proactive approach to bolstering defence capabilities across the alliance, providing valuable insights for SSB aspirants interested in military trends and career opportunities.",
+            "url": "https://www.bbc.com/news/articles/cvgj4npzp53o",
+            "category": "Defence",
+            "date": "2025-12-05T17:56:51Z"
+        },
+        {
+            "title": "Modi welcomes Putin to Delhi as leaders navigate western scrutiny on own terms",
+            "summary": "Prime Minister Modi's red-carpet welcome for President Putin's two-day visit underscored India's resolve to protect vital oil and defence interests. This high-level engagement highlighted New Delhi's ongoing pursuit of strategic partnerships, reinforcing the enduring India-Russia relationship despite global complexities. The visit solidified crucial bilateral cooperation, essential for India's energy security and defence capabilities, making it a key event in international diplomacy.",
+            "url": "https://www.irishtimes.com/world/asia-pacific/2025/12/05/modi-welcomes-putin-to-delhi-as-leaders-navigate-western-scrutiny-on-own-terms/",
+            "category": "International",
+            "date": "2025-12-05T17:55:00Z"
+        },
+        {
+            "title": "Malcolm in the Middle: Life's Still Unfair Teaser: Back-Shaving Day!",
+            "summary": "A new 'Malcolm in the Middle' revival, titled 'Life's Still Unfair,' is set to premiere on Hulu in 2026. The series will feature original stars Frankie Muniz, Bryan Cranston, and Jane Kaczmarek, bringing back the beloved cast for a continuation of the popular show. This highly anticipated return promises more comedic adventures for fans.",
+            "url": "https://bleedingcool.com/tv/malcolm-in-the-middle-lifes-still-unfair-teaser-back-shaving-day/",
+            "category": "National",
+            "date": "2025-12-05T17:30:04Z"
+        },
+        {
+            "title": "MALCOLM IN THE MIDDLE Revival Teaser Trailer Is Here",
+            "summary": "The article highlights a growing trend in the entertainment industry: the revival of beloved classic television series. Following the buzz around a \"Scrubs\" revival, anticipation is now building with the release of the first teaser trailer for a \"Malcolm in the Middle\" revival. This reflects a broader cultural phenomenon of bringing back popular shows, leveraging nostalgia and established fan bases to engage new and old audiences globally.",
+            "url": "https://nerdist.com/article/malcolm-in-the-middle-revival-teaser-trailer-life-still-unfair/",
+            "category": "International",
+            "date": "2025-12-05T17:26:57Z"
+        },
+        {
+            "title": "\u2018Malcolm in the Middle: Life\u2019s Still Unfair\u2019 Teaser Confirms 2026 Release",
+            "summary": "Disney officially announced the revival of the popular TV series \"Malcolm in the Middle,\" returning as a four-episode limited series on Hulu and Disney+ in 2026. A teaser for the show's comeback was recently released. This development highlights ongoing trends in digital content streaming and the resurgence of classic series, reflecting the evolving landscape of global entertainment technology.",
+            "url": "https://variety.com/2025/tv/news/malcolm-in-the-middle-lifes-still-unfair-revival-2026-1236601304/",
+            "category": "Sci & Tech",
+            "date": "2025-12-05T17:21:56Z"
+        },
+        {
+            "title": "\u2018Malcolm In The Middle\u2019: First Look Teaser Video Of Hulu Reboot Has Familiar Back-Shaving Moment",
+            "summary": "Hulu has released the first-look teaser for the much-anticipated *Malcolm in the Middle* reboot. The teaser prominently features a nostalgic callback to the original series, showing Malcolm getting his back shaved. This initial glimpse offers fans a taste of the show's return, hinting at the familiar humor and character dynamics that made the original series beloved.",
+            "url": "http://deadline.com/2025/12/malcolm-in-the-middle-first-look-teaser-video-hulu-reboot-1236637565/",
+            "category": "International",
+            "date": "2025-12-05T17:20:00Z"
+        },
+        {
+            "title": "Malcolm in the Middle Revival: Life's Still Unfair Teaser & Cast Updates",
+            "summary": "The hit 2000s TV show \"Malcolm in the Middle\" is set to return as a special four-part event on Hulu, titled \"Life's Still Unfair.\" Fans can anticipate the original cast reuniting to deliver more of their characteristic chaos and mayhem. This revival offers a nostalgic treat for viewers, bringing back the beloved series nearly two decades after its original run, continuing the story with its iconic characters.",
+            "url": "https://screenrant.com/malcolm-in-the-middle-teaser-trailer/",
+            "category": "National",
+            "date": "2025-12-05T17:15:55Z"
+        },
+        {
+            "title": "France investigates reports of drones over nuclear sub base",
+            "summary": "French prosecutors are investigating suspected drone flights over a nuclear submarine base on the Atlantic coast. This incident, involving unauthorized aerial surveillance of a critical defence installation, raises serious national security concerns regarding strategic military assets. The ongoing investigation aims to determine the drones' origin and intent, highlighting persistent challenges in protecting vital installations from potential reconnaissance or sabotage attempts.",
+            "url": "https://www.channelnewsasia.com/world/france-russia-drones-sub-police-5564421",
+            "category": "Defence",
+            "date": "2025-12-05T17:09:00Z"
+        },
+        {
+            "title": "Top 10 Ride Reimaginings Needed at Disneyland",
+            "summary": "Disney has major 10-year expansion plans for Disneyland and California Adventure. Marvel Land will double, adding attractions like \"Avengers Infinity Defense\" and \"Stark Flight Lab.\" Pandora: World of Avatar will also be introduced, significantly enhancing immersive visitor experiences with new themed areas and rides, representing a substantial investment in park growth.",
+            "url": "https://www.disneytouristblog.com/ride-reimaginings-disneyland-disney-california-adventure-wish-list/",
+            "category": "National",
+            "date": "2025-12-05T17:00:09Z"
+        },
+        {
+            "title": "How the Surprise Success of \u2018No One Noticed\u2019 Turned the Mar\u00edas Into One of the Breakthrough Artists of the Year",
+            "summary": "The article highlights The Mar\u00edas' song 'No One Noticed,' praised for its unique sound unlike any other hit from the last five decades. Featuring a distinct languid groove and smoky vocals, the tune stands out as an outlier in contemporary music. Its innovative style challenges conventional music trends, offering a fresh auditory experience that critics are noting.",
+            "url": "https://variety.com/2025/music/news/no-one-noticed-anti-hit-the-marias-1236599206/",
+            "category": "National",
+            "date": "2025-12-05T17:00:00Z"
+        },
+        {
+            "title": "Scarlett Johansson Reveals Why Her Mom Loved Her Son's Unique Name",
+            "summary": "Oscar-winning actress Scarlett Johansson recently elaborated on the unique name chosen for her son with husband Colin Jost. During an interview with Jenna Bush Hager, Johansson discussed the thoughtful process of naming a baby. This public sharing offers a glimpse into their personal life and the considerations behind their distinctive choice for their child.",
+            "url": "https://www.huffpost.com/entry/scarlett-johansson-son-name_n_6932e814e4b06a47b6d3b10b",
+            "category": "International",
+            "date": "2025-12-05T16:57:02Z"
+        },
+        {
+            "title": "India-Russia friendship remained steadfast like a 'guiding star', New Delhi ready to contribute for peace in Ukraine: PM Modi",
+            "summary": "India and Russia have unveiled a five-year roadmap aimed at forging a robust economic partnership. This initiative seeks to deepen bilateral trade ties and specifically address India's concerns over the existing trade deficit. This strategic move signifies a commitment to strengthening economic cooperation, ensuring mutual benefits and stability between the two nations across various sectors.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-russia-friendship-remained-steadfast-like-a-guiding-star-new-delhi-ready-to-contribute-for-peace-in-ukraine-pm-modi/articleshow/125792612.cms",
+            "category": "International",
+            "date": "2025-12-05T16:46:38Z"
+        },
+        {
+            "title": "Drone Incursion at French Navy Nuclear Submarine Base",
+            "summary": "French authorities have launched an investigation into an incursion into highly restricted and sensitive airspace, as reported by Le Monde and Agence France-Presse. This incident raises concerns about national security and the integrity of French airspace. An ongoing probe aims to determine the details and responsible parties behind this unauthorized entry, emphasizing the importance of securing critical aerial zones.",
+            "url": "https://theaviationist.com/2025/12/05/drones-spotted-french-submarine-base/",
+            "category": "Defence",
+            "date": "2025-12-05T16:46:33Z"
+        },
+        {
+            "title": "French Navy \u2018Opens Fire\u2019 at Five Drones Spotted Over Submarine Base",
+            "summary": "French authorities have initiated an investigation following an unauthorized incursion into highly restricted and sensitive airspace. Reported by French news agencies Le Monde and AFP, this incident highlights potential security concerns around critical national areas. The ongoing probe aims to ascertain the nature of the breach and identify those responsible, emphasizing the importance of maintaining national air defence integrity and security protocols in sensitive zones.",
+            "url": "https://theaviationist.com/2025/12/05/five-drones-spotted-french-submarine-base/",
+            "category": "Defence",
+            "date": "2025-12-05T16:46:33Z"
+        },
+        {
+            "title": "Garda national security team investigating rogue drones during Zelenskiy visit",
+            "summary": "Ireland's Garda Special Detective Unit is investigating multiple drone sightings near the flight path of the Ukrainian President. This incident highlights sophisticated national security threats, potentially involving surveillance or disruption by hostile actors. For SSB aspirants, it underscores the critical role of intelligence agencies in countering evolving threats like drone warfare, impacting international diplomacy and head-of-state security protocols during sensitive visits.",
+            "url": "https://www.irishtimes.com/crime-law/2025/12/05/garda-national-security-team-investigating-rogue-drones-during-zelenskiy-visit/",
+            "category": "International",
+            "date": "2025-12-05T16:33:57Z"
+        },
+        {
+            "title": "\u2018We want to make it big in gensets fuelled by green energy\u2019",
+            "summary": "Kirloskar Oil Engines, a leading Indian manufacturer of diesel engines and generator sets, is undergoing a major transformation towards green energy. The company is pivoting its focus to sustainable solutions and recently launched a new initiative in this sector. This strategic shift underscores India's industrial commitment to renewable energy and sustainable development, vital for national progress and environmental goals.",
+            "url": "https://www.thehindubusinessline.com/companies/we-want-to-make-it-big-in-gensets-fuelled-by-green-energy/article70361659.ece",
+            "category": "National",
+            "date": "2025-12-05T16:21:38Z"
+        },
+        {
+            "title": "3 moves Yankees could make if they are lowering payroll heading into 2026 MLB season",
+            "summary": "The article explores a hypothetical scenario where the New York Yankees might reduce their payroll for the 2026 Major League Baseball season. Despite potential financial cuts, the team reportedly intends to remain highly competitive, banking on their existing pool of talented players. This strategy aims to balance fiscal responsibility with sustained on-field success, a key consideration for sports management.",
+            "url": "https://sny.tv/articles/3-moves-yankees-could-make-if-they-are-lowering-payroll-2026",
+            "category": "National",
+            "date": "2025-12-05T15:11:00Z"
+        },
+        {
+            "title": "YouTube Star Markiplier\u2019s Self-Financed Horror Movie \u2018Iron Lung\u2019 to Hit Theaters in January",
+            "summary": "Popular YouTuber Markiplier's feature-film directorial debut, the horror sci-fi movie 'Iron Lung', is scheduled to open in theaters in late January 2026. This project has been over two years in the making. The film marks a significant step for Markiplier into professional filmmaking, leveraging his digital platform into mainstream cinema.",
+            "url": "https://variety.com/2025/digital/news/markiplier-iron-lung-theatrical-release-date-1236599072/",
+            "category": "Sci & Tech",
+            "date": "2025-12-05T15:00:00Z"
+        },
+        {
+            "title": "IFC invests $50m in Gujarat Fluorochemicals EV subsidiary",
+            "summary": "Gujarat Fluorochemicals (GFL) announced a strategic partnership with the International Finance Corporation (IFC), securing a $50 million investment for its subsidiary, GFCL EV Products. This significant capital infusion aims to bolster India's electric vehicle (EV) manufacturing capabilities, particularly in advanced materials and components. The collaboration underscores efforts to accelerate the nation's sustainable mobility goals and strengthen its position in the global EV supply chain.",
+            "url": "https://www.thehindubusinessline.com/companies/ifc-invests-50m-in-gujarat-fluorochemicals-ev-subsidiary/article70362663.ece",
+            "category": "National",
+            "date": "2025-12-05T14:43:34Z"
+        },
+        {
+            "title": "The Greek Factor in US Naval Warfare Logistics",
+            "summary": "The article anticipates that in a major Pacific war, the US would likely use the Greek fleet to bridge significant logistical gaps. However, it warns of a heavy human cost, with sailors from underdeveloped countries potentially sacrificing their lives. This highlights critical strategic dependencies and the grim geopolitical realities of future large-scale conflicts, crucial for understanding international defence dynamics.",
+            "url": "https://www.globalresearch.ca/greek-factor-us-naval-warfare-logistics/5908014",
+            "category": "Defence",
+            "date": "2025-12-05T14:39:13Z"
+        },
+        {
+            "title": "Field Marshal Asim Munir officially appointed as Pakistan's first Chief of Defence Forces",
+            "summary": "Pakistan's defence ministry officially appointed Field Marshal Asim Munir as its first Chief of Defence Forces (CDF). This significant move marks a major restructuring of the country's military, creating a unified command similar to India's CDS. The new role aims to enhance inter-service coordination and streamline defence operations, reflecting Pakistan's evolving strategic approach in the region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/field-marshal-asim-munir-officially-appointed-as-pakistans-first-chief-of-defence-forces/articleshow/125791307.cms",
+            "category": "International",
+            "date": "2025-12-05T14:38:14Z"
+        },
+        {
+            "title": "India To Hold Air Force Exercise In Arabian Sea, 200 Nautical Miles Away From Pakistan",
+            "summary": "India has notified an Air Force exercise in the Arabian Sea, scheduled for December 10-11, 2025. The designated danger zone is located approximately 200 nautical miles from Karachi, Pakistan. This exercise signifies India's growing strategic assertiveness and operational reach in a vital maritime domain, enhancing its regional security posture and showcasing its aerial power projection capabilities.",
+            "url": "https://www.ndtvprofit.com/nation/india-to-hold-air-force-exercise-in-arabian-sea-200-nautical-miles-away-from-pakistan",
+            "category": "Defence",
+            "date": "2025-12-05T14:29:26Z"
+        },
+        {
+            "title": "McMann Capital: Launches LOC to $750,000",
+            "summary": "McMann Capital launched a new business line of credit program on December 5, 2025, offering fast and flexible funding for small and mid-sized businesses. This initiative aims to bolster economic growth and support entrepreneurship by providing crucial financial resources. Such programs facilitate business expansion and job creation, contributing to overall economic stability and development in the respective nation.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/05/3200761/0/en/McMann-Capital-Launches-LOC-to-750-000.html",
+            "category": "International",
+            "date": "2025-12-05T14:15:00Z"
+        },
+        {
+            "title": "49 Years Ago Today, Movie History Was Changed by a Film You\u2019ve Never Even Seen",
+            "summary": "Ambitious cinematic projects often necessitate the development of groundbreaking technology. James Cameron's Avatar franchise exemplifies this trend, having spurred the creation of advanced new motion-capture and 3D filming technologies. Such innovations are crucial for realizing grand visions on screen, pushing the boundaries of what is cinematically possible and setting new industry standards for visual storytelling and production.",
+            "url": "http://comicbook.com/movies/feature/49-years-ago-today-movie-history-was-changed-by-a-film-youve-never-even-seen/",
+            "category": "Sci & Tech",
+            "date": "2025-12-05T14:00:00Z"
+        },
+        {
+            "title": "Indian Army scales Arunachal's highest peak Kangto",
+            "summary": "An Indian Army team from Eastern Command made history by becoming the first to successfully scale Mount Kangto, Arunachal Pradesh's highest peak (7,042 metres). This pioneering expedition marks a significant milestone in India's mountaineering achievements and highlights the prowess and adventurous spirit of the armed forces in challenging terrains, showcasing their commitment to exploration and national pride.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-scales-arunachals-highest-peak-kangto/articleshow/125790809.cms",
+            "category": "Defence",
+            "date": "2025-12-05T13:58:33Z"
+        },
+        {
+            "title": "UPSC Key: Indigo flight cancellation, Census 2027, and Flex fuel vehicles",
+            "summary": "This text outlines critical examination areas for aspirants, focusing on current events of national and international importance. It also emphasizes the study of government policies and interventions across various development sectors. For SSB candidates, mastering these subjects is crucial for enhancing general awareness, excelling in group discussions and lecturettes, and demonstrating a comprehensive understanding of contemporary national and global affairs relevant to civil service preparation.",
+            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-indigo-census-2027-india-russia-flex-fuel-vehicles-10404519/",
+            "category": "National",
+            "date": "2025-12-05T13:48:40Z"
+        },
+        {
+            "title": "German MPs back new military service model",
+            "summary": "German parliamentarians have backed a new military service scheme to bolster the nation's historically ill-equipped and understaffed armed forces. This critical reform is a direct response to Russia's invasion of Ukraine, signalling a significant shift in European defence policy. The initiative aims to strengthen Germany's military capabilities and preparedness amidst evolving geopolitical challenges, marking a pivotal step for its national security.",
+            "url": "https://www.euractiv.com/news/german-mps-back-new-military-service-model/",
+            "category": "Defence",
+            "date": "2025-12-05T13:46:41Z"
+        },
+        {
+            "title": "Much-anticipated steakhouse stakes new claim in West Fargo",
+            "summary": "Hal Gershman, owner of Happy Harry's, illustrates how meticulous attention to detail drives business success. He skillfully expanded his father's Grand Forks liquor store into five thriving brick-and-mortar establishments. His entrepreneurial journey underscores the critical role of diligent management in scaling a local business, offering a practical lesson for aspiring leaders.",
+            "url": "https://www.inforum.com/business/much-anticipated-steakhouse-stakes-new-claim-in-west-fargo",
+            "category": "National",
+            "date": "2025-12-05T13:44:30Z"
+        },
+        {
+            "title": "Sagar Defence inaugurates plant in Pune to manufacture uncrewed surface vehicles",
+            "summary": "An Indian defence firm has inaugurated a new plant in Pune for manufacturing Uncrewed Surface Vehicles (USVs). This initiative, a major step forward in partnership with a US company, signifies India's growing indigenous defence production capabilities. For SSB aspirants, it highlights advancements in unmanned marine technology, bolstering naval defence and strategic international collaboration for national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/sagar-defence-inaugurates-plant-in-pune-to-manufacture-uncrewed-surface-vehicles/articleshow/125790307.cms",
+            "category": "Defence",
+            "date": "2025-12-05T13:22:38Z"
+        },
+        {
             "title": "Drones buzz over French nuclear submarine base, AFP reports",
-            "summary": "French media reports indicate repeated drone sightings near a military base. Drones were spotted last month, though not directly overhead. This drone activity predates the invasion of Ukraine, suggesting a long-standing pattern of observation around the site. The ongoing presence of drones near a military installation raises security concerns.",
+            "summary": "French media reports confirm recurring drone sightings near an unspecified base, with recent incidents last month, though not directly overhead. This pattern of aerial surveillance, utilizing drones, has been observed even before the Ukraine invasion, signaling persistent security concerns or potential reconnaissance activities that an SSB aspirant should note regarding evolving threats.",
             "url": "https://www.politico.eu/article/drones-france-nuclear-submarine-base-reports/",
             "category": "Defence",
             "date": "2025-12-05T12:14:24Z"
         },
         {
             "title": "'Frankly, a Very Authoritarian Government': Labour-Led Britain Suspends Elections, Announces Rollout of China-Style Facial Recognition Cameras",
-            "summary": "The left-led UK government is again postponing elections and plans to introduce nationwide facial recognition surveillance. These actions follow previous controversies, including alleged attacks on Magna Carta and frequent social media arrests. The developments raise concerns about democratic processes and civil liberties within the UK, highlighting potential shifts towards increased state control and monitoring.",
+            "summary": "The UK's left-led government faces scrutiny for postponing elections again and concerns over civil liberties. Key issues include alleged attacks on Magna Carta, frequent social media arrests, and planned nationwide facial recognition technology. This situation underscores ongoing debates on democratic governance, individual freedoms, and state surveillance within a significant international power.",
             "url": "https://www.breitbart.com/europe/2025/12/05/frankly-a-very-authoritarian-government-left-led-uk-suspends-election/",
             "category": "International",
             "date": "2025-12-05T12:08:48Z"
         },
         {
             "title": "'Will walk shoulder to shoulder': PM Modi pushes 'Make in India, Partner with India' at Russia-India forum",
-            "summary": "Prime Minister Modi, addressing the India-Russia forum with President Putin, affirmed New Delhi's commitment to close cooperation with Moscow. He emphasized India's readiness to collaborate across various sectors, highlighting the importance of this strategic partnership. This engagement underscores ongoing efforts to strengthen bilateral ties and foster mutual development, crucial for regional stability and global influence.",
+            "summary": "Prime Minister Modi, addressing the India-Russia forum with President Putin, affirmed India's commitment to cooperate closely with Moscow. He emphasized New Delhi's readiness to walk shoulder to shoulder, strengthening bilateral ties and the strategic partnership. This signals continued robust diplomatic and economic engagement, vital for mutual growth and regional stability.",
             "url": "https://economictimes.indiatimes.com/news/india/will-walk-shoulder-to-shoulder-pm-modi-pushes-make-in-india-partner-with-india-at-russia-india-forum/articleshow/125788645.cms",
             "category": "International",
             "date": "2025-12-05T11:50:39Z"
         },
         {
             "title": "5 drones fly over French nuclear submarine base",
-            "summary": "French authorities confirmed five drones flew over the Ile Longue nuclear submarine base in western France on Thursday evening. This security breach at a critical defense facility, home to ballistic missile submarines, highlights significant vulnerabilities. The incident underscores the ongoing challenge of protecting strategic national assets from unauthorized aerial surveillance, a crucial aspect of national security for SSB aspirants to analyze.",
+            "summary": "French authorities confirmed five drones flew over the Ile Longue nuclear submarine base in western France on Thursday evening. This incident at a critical defence facility highlights potential security vulnerabilities and the evolving nature of aerial threats to strategic installations. Such events are closely monitored for their implications on national security and surveillance capabilities.",
             "url": "https://biztoc.com/x/056c52d3ce4d1230",
-            "category": "International",
+            "category": "Defence",
             "date": "2025-12-05T11:48:37Z"
         },
         {
             "title": "India, Russia firm up 5-year economic roadmap; PM Modi bats for peaceful resolution to Ukraine conflict",
-            "summary": "India and Russia have finalized a five-year plan to strengthen economic and trade relations, navigating the challenges posed by Washington's tariff and sanctions regime. Prime Minister Narendra Modi's involvement underscores India's strategic autonomy and its commitment to diverse international partnerships, crucial for national development and securing vital interests amidst geopolitical pressures.",
+            "summary": "India and Russia have finalized a five-year plan to bolster economic and trade relations, a strategic move amidst Washington's punitive tariff and sanctions regime. Prime Minister Modi's engagement underscores high-level commitment to deepening bilateral cooperation and exploring new avenues for partnership. This initiative aims to enhance both nations' economic resilience and strategic autonomy, navigating global geopolitical pressures effectively.",
             "url": "https://economictimes.indiatimes.com/news/india/india-russia-firm-up-5-year-economic-roadmap-pm-modi-bats-for-peaceful-resolution-to-ukraine-conflict/articleshow/125788710.cms",
             "category": "International",
             "date": "2025-12-05T11:48:01Z"
         },
         {
             "title": "India Pursuing Independent, Sovereign Policy Under Modi's Leadership - Putin",
-            "summary": "India, under PM Modi's leadership, is reportedly pursuing an independent and sovereign foreign policy. This approach emphasizes India's autonomy in global affairs, ensuring strategic decisions are made based purely on national interests, without external influence. This stance is vital for asserting India's growing international role and reflecting a self-reliant strategic vision.",
+            "summary": "The article highlights India's foreign policy under Prime Minister Modi, emphasizing its commitment to an independent and sovereign approach in international relations. This strategy reflects India's focus on prioritizing national interests and maintaining strategic autonomy on the global stage, shaping its engagement with global powers and reflecting its distinct position.",
             "url": "https://sputnikglobe.com/20251205/india-pursuing-independent-sovereign-policy-under-modis-leadership---putin-1123238967.html",
             "category": "International",
             "date": "2025-12-05T11:35:01Z"
-        },
-        {
-            "title": "South Korea\u2019s Hyundai feeds rapid naval upgrades in the Philippines",
-            "summary": "The Philippine Navy is undergoing significant modernization, transitioning from its historical reliance on aging, second-hand U.S. vessels to a steady intake of new, modern warships. This strategic upgrade enhances the Philippines' maritime capabilities, bolstering its defence posture and projecting greater sovereignty. The move signifies a crucial step in strengthening national security and regional presence, crucial for an aspirant to understand.",
-            "url": "https://www.yahoo.com/news/articles/south-korea-hyundai-feeds-rapid-112200051.html",
-            "category": "Defence",
-            "date": "2025-12-05T11:22:00Z"
-        },
-        {
-            "title": "Taiwan says China deploys warships in 'military operations'",
-            "summary": "Taiwan reported detecting Chinese naval ships, suggesting heightened military activity in the region. However, China's armed forces and state media have not confirmed any increased presence. A statement from Beijing's defence ministry was anticipated, highlighting the ongoing geopolitical tensions and contrasting accounts regarding military movements in the sensitive Taiwan Strait, crucial for regional stability and security assessments.",
-            "url": "https://www.channelnewsasia.com/east-asia/taiwan-china-warships-military-operations-south-china-sea-5563881",
-            "category": "Defence",
-            "date": "2025-12-05T11:11:11Z"
-        },
-        {
-            "title": "Organigram to Report Fourth Quarter Fiscal 2025 Results on December 16, 2025",
-            "summary": "Organigram Global Inc., Canada's leading cannabis company, announced it would report its fourth-quarter earnings. This update from the NASDAQ and TSX-listed firm offers insight into its financial performance and market standing. While niche, tracking such international business announcements contributes to an SSB aspirant's general awareness of global market dynamics and diverse industry trends.",
-            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-to-report-fourth-quarter-fiscal-2025-results-on-december-16-2025",
-            "category": "International",
-            "date": "2025-12-05T11:09:42Z"
-        },
-        {
-            "title": "Is zero an even or odd number? A students\u2019 guide to the logic behind the answer",
-            "summary": "Mathematicians have formally confirmed that zero is definitively an even number, resolving a common point of contention. According to the precise definition, an even number is any whole number divisible by two with no remainder. Zero perfectly fits this criterion, as 0 divided by 2 results in 0, with a remainder of zero, solidifying its place among even numbers.",
-            "url": "https://timesofindia.indiatimes.com/education/learning-with-toi/is-zero-an-even-or-odd-number-a-students-guide-to-the-logic-behind-the-answer/articleshow/125787067.cms",
-            "category": "Sci & Tech",
-            "date": "2025-12-05T11:03:03Z"
-        },
-        {
-            "title": "Will deploy smart factory solutions at govt's SCL fab: Applied Materials India head",
-            "summary": "US chip equipment maker Applied Materials has been selected as the L1 bidder for the Semiconductor Laboratory (SCL) Mohali's fab automation enhancement project. This development is crucial for boosting India's domestic semiconductor manufacturing capabilities and modernizing critical infrastructure. It signifies a vital step towards technological self-reliance and advancement in a strategic high-tech sector, fostering greater national innovation.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/will-deploy-smart-factory-solutions-at-govts-scl-fab-applied-materials-india-head/articleshow/125787693.cms",
-            "category": "Sci & Tech",
-            "date": "2025-12-05T10:50:45Z"
-        },
-        {
-            "title": "Karnataka signs MoU with The Allegiance Group of Taiwan to establish Ind-Taiwan Industrial Park",
-            "summary": "The Karnataka government's Department of Electronics, IT, Biotech, and S&T has signed a landmark Memorandum of Understanding (MoU) with The Allegiance International of Taiwan. This agreement aims to foster collaboration and development across crucial technological sectors. This strategic partnership is poised to enhance innovation and economic growth within Karnataka by leveraging international expertise in cutting-edge fields.",
-            "url": "https://www.thehindubusinessline.com/info-tech/karnataka-signs-mou-with-the-allegiance-group-of-taiwan-to-establish-ind-taiwan-industrial-park/article70361320.ece",
-            "category": "Sci & Tech",
-            "date": "2025-12-05T10:23:54Z"
         }
     ]
 }
