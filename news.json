@@ -1,26 +1,68 @@
 {
-    "last_updated": "2025-12-07T06:22:24.081230+00:00",
+    "last_updated": "2025-12-07T12:29:15.843098+00:00",
     "articles": [
         {
-            "title": "What happens when no hurricanes hit the Gulf? Texas just found out.",
-            "summary": "For the first time in a decade, the Atlantic hurricane season concluded without a major storm making landfall on U.S. shores. While offering domestic respite, it doesn't imply a globally inactive season. This underscores the unpredictable nature of extreme weather, emphasizing the ongoing importance of national disaster preparedness, resource allocation, and robust infrastructure for future challenges.",
-            "url": "https://www.chron.com/gulf-coast/article/atlantic-hurricane-season-texas-trump-21221267.php",
+            "title": "Week 14 fantasy football WR rankings: Best starts at wide receiver",
+            "summary": "NFL's leading receiver, Jaxon Smith-Njigba, experienced a forgettable performance last week, significantly underperforming his usual standards. This marked a notable dip, as he had only fallen below 100 receiving yards three times in the preceding twelve weeks, consistently demonstrating top-tier form. The recent game represented a rare setback for the star player, warranting analysis of this unusual downturn.",
+            "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/12/06/week-14-fantasy-football-wr-rankings-start-sit/87586468007/",
+            "category": "International",
+            "date": "2025-12-06T12:15:29Z"
+        },
+        {
+            "title": "Week 14 fantasy football RB rankings: Best starts at running back",
+            "summary": "The Tampa Bay Buccaneers offense faces significant challenges due to numerous player injuries. Their wide receiver corps is depleted, Quarterback Baker Mayfield is dealing with a sprained shoulder, and a constant rotation of replacement running backs disrupts continuity. These substantial personnel issues are significantly impacting the team's strategic execution and overall performance, posing hurdles for their season.",
+            "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/12/06/week-14-fantasy-football-rb-rankings-start-sit/87586394007/",
             "category": "National",
-            "date": "2025-12-06T06:01:00Z"
+            "date": "2025-12-06T12:03:33Z"
         },
         {
-            "title": "Infernal Hulk #2 Preview: Hulk's Atlantis Adventure Goes Awry",
-            "summary": "Infernal Hulk #2 previews the green goliath's attack on Atlantis, where an ancient evil soon intervenes with its own agenda. The upcoming Marvel comic also delves into the mystery surrounding Bruce Banner's current whereabouts. This issue promises intense fictional conflict and a compelling character mystery within the ongoing Hulk saga, highlighting a new major plot development.",
-            "url": "https://bleedingcool.com/comics/infernal-hulk-2-preview-hulks-atlantis-adventure-goes-awry/",
-            "category": "Defence",
-            "date": "2025-12-06T05:26:03Z"
+            "title": "Putin Lives by a Code Trump Doesn\u2019t Understand",
+            "summary": "The article critiques Donald Trump's perceived lack of understanding of Russian President Vladimir Putin and his contradictory strategies concerning peace in Ukraine. It highlights Trump's inconsistent approaches and \"gambits\" in dealing with the Russian leader, questioning their efficacy in resolving the ongoing conflict. The analysis suggests a critical view of Trump's foreign policy towards a significant international crisis, emphasizing the complexities of global diplomacy and leadership.",
+            "url": "https://www.theatlantic.com/international/2025/12/putin-trump-misunderstanding/685167/",
+            "category": "International",
+            "date": "2025-12-06T12:00:00Z"
         },
         {
-            "title": "DRDO hands over 7 technologies developed under tech development fund to armed forces",
-            "summary": "The DRDO recently transferred seven advanced defence technologies, including a long-life seawater battery for sustained underwater sensing and a waterjet propulsion system for fast interceptor craft, to the Indian Navy and industry. These indigenous developments aim to enhance India's maritime capabilities, improve surveillance, and bolster the operational readiness of its naval forces, reinforcing national security and self-reliance in critical defence technologies.",
-            "url": "https://economictimes.indiatimes.com/news/defence/drdo-hands-over-7-technologies-developed-under-tech-development-fund-to-armed-forces/articleshow/125799176.cms",
+            "title": "Modi-Putin meeting sets course for next-gen India\u2013Russia defence ties",
+            "summary": "India and Russia are transforming their long-standing defence partnership from a buyer-seller relationship to one focused on joint research, development, and co-production. This strategic shift aims to enhance India's indigenous defence manufacturing capabilities and self-reliance (Atmanirbhar Bharat), strengthening both nations' security interests and technological collaboration in the defence sector.",
+            "url": "https://economictimes.indiatimes.com/news/defence/modi-putin-meeting-sets-course-for-next-gen-indiarussia-defence-ties/articleshow/125804540.cms",
             "category": "Defence",
-            "date": "2025-12-06T03:25:46Z"
+            "date": "2025-12-06T11:54:52Z"
+        },
+        {
+            "title": "Telangana Rising Summit 2025 To Host International Delegates, Experts Across Sectors",
+            "summary": "A diverse group of key entities, including DRDO, Safran, Skyroot Aerospace, and Dhruva Space, alongside academic and industrial players, are listed as participants. This collaborative involvement, spanning defence, space technology, and critical sectors, suggests a major national initiative. The strong presence of defence and space firms highlights a strategic focus on technological advancement for national security.",
+            "url": "https://www.ndtvprofit.com/nation/telangana-rising-summit-2025-to-host-international-delegates-experts-across-sectors",
+            "category": "Defence",
+            "date": "2025-12-06T11:52:25Z"
+        },
+        {
+            "title": "France intercepts illegal drone overflight at nuclear submarine base",
+            "summary": "The text highlights a major corporate discussion exploring why Netflix might be acquiring Warner Bros for a staggering $72 billion, a move with significant potential to reshape the global entertainment landscape. It also touches upon critical international economic matters, specifically examining the Federal Reserve's actions concerning inflation. This reflects global business strategy and macroeconomic trends for SSB aspirants to consider.",
+            "url": "https://biztoc.com/x/04871e94d1982594",
+            "category": "International",
+            "date": "2025-12-06T11:04:55Z"
+        },
+        {
+            "title": "HBO's Green Lantern Show Set In James Gunn's DCU Is Officially Fixing A 26-Year DC Problem",
+            "summary": "HBO's upcoming Lanterns series is poised as a highly anticipated project within James Gunn's reinvented DC Universe. This ambitious initiative promises bold storytelling and fresh interpretations for iconic characters. It exemplifies how major entertainment franchises are evolving, leveraging new creative directions to re-engage global audiences with established intellectual properties, reflecting current trends in media production.",
+            "url": "https://screenrant.com/lanterns-hbo-fixing-dc-hal-jordan-problem/",
+            "category": "Sci & Tech",
+            "date": "2025-12-06T11:00:17Z"
+        },
+        {
+            "title": "But you don't have Canadian experience: That phrase tore me down as an immigrant but also made me resilient",
+            "summary": "This 'First Person' column by Hari KC, based in Kitchener, Ontario, details a personal experience. The visible beginning shows the author sitting across from a hiring manager in a job interview, suggesting a narrative focused on career, employment challenges, or a pivotal work-related moment. The complete article text is truncated, limiting a full summary.",
+            "url": "https://www.cbc.ca/news/canada/first-person-canadian-experience-9.6997443",
+            "category": "National",
+            "date": "2025-12-06T09:00:00Z"
+        },
+        {
+            "title": "Frank Gehry, the most celebrated architect of his time, dies at 96",
+            "summary": "Renowned architect Frank Gehry, celebrated globally for his groundbreaking and imaginative building designs, has passed away at 96. Gehry achieved an exceptional level of worldwide acclaim, leaving an indelible mark on modern architecture. His innovative structures redefined urban landscapes and artistic sensibilities, making his death a significant event for the design world.",
+            "url": "https://japantoday.com/category/world/frank-gehry-the-most-celebrated-architect-of-his-time-dies-at-96",
+            "category": "International",
+            "date": "2025-12-05T21:04:24Z"
         }
     ]
 }
