@@ -1,12 +1,61 @@
 {
-    "last_updated": "2025-12-09T06:26:06.513534+00:00",
+    "last_updated": "2025-12-09T12:35:07.328936+00:00",
     "articles": [
         {
-            "title": "Expedition Unknown S17E04 1080p WEB h264-FREQUENCY",
-            "summary": "A TV episode documents an expedition diving into the frigid Baltic Sea in search of the revolutionary Nazi submarine V-80. Known as a \"super sub,\" it was ordered scuttled by Hitler to prevent its capture by Allied forces. The search uncovers this historical enigma, shedding light on advanced World War II naval technology and a crucial wartime act to safeguard military secrets.",
-            "url": "https://post.rlsbb.to/expedition-unknown-s17e04-1080p-web-h264-frequency/",
+            "title": "Lithium Americas to Join the S&P/TSX Composite Index",
+            "summary": "The provided article text explicitly states that its content is reserved for subscribers, making the actual news details unavailable for summarization. Consequently, it's impossible to discern the specific topics, events, or main points of the article to create a concise summary or accurately assign a category like 'Defence' or 'National' based on the content itself.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lithium-americas-to-join-the-sp-tsx-composite-index",
+            "category": "National",
+            "date": "2025-12-08T12:02:38Z"
+        },
+        {
+            "title": "First Sea Lord's speech to the International Sea Power Conference",
+            "summary": "A speaker at a conference thanks a Minister, emphasizing the event's serious nature. They state it's not a casual gathering but rather focused on genuine 'commitment to action.' This approach, consistent with the speaker's style, highlights an expectation for substantive engagement rather than mere formalities from attendees, setting a serious tone for discussions.",
+            "url": "https://www.gov.uk/government/speeches/first-sea-lords-speech-to-the-international-sea-power-conference",
+            "category": "National",
+            "date": "2025-12-08T11:51:20Z"
+        },
+        {
+            "title": "Russell T Davies Lauding Himself in The Daily LITG, 8th December 2025",
+            "summary": "The BBC was reportedly left \"with jaws agape\" by writer Russell T Davies' undisclosed plans, becoming a most-read story. This highlights significant anticipation and surprise within the entertainment industry regarding his future projects. While specific details are secret, the national broadcaster's strong reaction suggests a potentially groundbreaking or highly controversial development in upcoming television programming.",
+            "url": "https://bleedingcool.com/tv/russell-t-davies-lauding-himself-in-the-daily-litg-8th-december-2025/",
+            "category": "National",
+            "date": "2025-12-08T11:50:03Z"
+        },
+        {
+            "title": "Inspired by Schools of Fish, This Magnetic Material Swarms to Eat Carbon Dioxide",
+            "summary": "CO2 scrubbing is vital for life support in confined spaces like spacecraft and submarines, but current systems are energy-intensive. New research focuses on developing more efficient methods for carbon dioxide removal. This technological advancement is crucial for extended missions, enhancing crew safety and reducing power consumption, thereby boosting operational endurance for both space exploration and underwater defence platforms.",
+            "url": "https://www.universetoday.com/articles/inspired-by-schools-of-fish-this-magnetic-material-swarms-to-eat-carbon-dioxide",
+            "category": "Sci & Tech",
+            "date": "2025-12-08T11:39:57Z"
+        },
+        {
+            "title": "China-made rocket among triggers for Thai airstrikes into Cambodia",
+            "summary": "Thailand launched airstrikes against Cambodian military facilities housing long-range artillery. This action followed surveillance indicating a potential threat from Cambodian rockets, including Chinese-made variants. These preemptive strikes highlight escalating regional tensions and Thailand's assertive response to perceived security threats, offering a pertinent case study in international defence strategy for SSB aspirants.",
+            "url": "https://economictimes.indiatimes.com/news/defence/china-made-rocket-among-triggers-for-thai-airstrikes-into-cambodia/articleshow/125833879.cms",
             "category": "Defence",
-            "date": "2025-12-08T06:25:35Z"
+            "date": "2025-12-08T11:37:45Z"
+        },
+        {
+            "title": "Thousands flee Thai-Cambodia border after deadly clashes",
+            "summary": "Fresh clashes have erupted along the disputed Thailand-Cambodia border, prompting widespread evacuations of residents from both countries. This renewed violence highlights persistent regional tensions and the humanitarian impact of border disputes. For SSB aspirants, this situation underscores the critical role of international diplomacy and regional security in maintaining stability and preventing civilian displacement.",
+            "url": "https://www.bbc.com/news/articles/cr7l0rjz05eo",
+            "category": "International",
+            "date": "2025-12-08T11:10:30Z"
+        },
+        {
+            "title": "Thailand-Cambodia clashes reignite, killing soldier and civilians",
+            "summary": "Thailand launched air strikes against neighboring Cambodia on Monday, December 8, 2025, amidst renewed border fighting. Both nations are trading blame for the escalating military engagement. This signals a significant breakdown in diplomatic relations and highlights regional instability, vital for SSB aspirants studying international conflicts and the use of air power.",
+            "url": "https://www.spacewar.com/reports/Thailand-Cambodia_clashes_reignite_killing_soldier_and_civilians_999.html",
+            "category": "International",
+            "date": "2025-12-08T10:51:21Z"
+        },
+        {
+            "title": "UK announces military tech to counter Russian submarine threat",
+            "summary": "Last month, the Russian spy ship Yantar reportedly directed lasers at British forces monitoring its presence in UK waters, marking a first-time incident. The Yantar, known for its intelligence gathering capabilities and operations near critical undersea infrastructure, poses a significant maritime security concern. This event highlights escalating tensions and the need for vigilance in international waters, underscoring hybrid warfare tactics.",
+            "url": "https://www.politico.eu/article/uk-russia-military-tech-to-counter-submarine-threat/",
+            "category": "Defence",
+            "date": "2025-12-08T10:47:07Z"
         }
     ]
 }
