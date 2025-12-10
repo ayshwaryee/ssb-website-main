@@ -1,19 +1,54 @@
 {
-    "last_updated": "2025-12-10T06:27:05.612176+00:00",
+    "last_updated": "2025-12-10T12:35:27.738990+00:00",
     "articles": [
         {
-            "title": "IPL Auction 2026 Player List: Check full list of 350 players for December 16 auction",
-            "summary": "The IPL auction, scheduled for December 16 in Abu Dhabi, will feature 350 cricketers, including 240 Indians. This final participant list was rigorously trimmed from 1,390 initial registrations, highlighting the intense competition for spots. The event marks a crucial phase for teams to finalize their squads for the upcoming season of India's premier T20 league, drawing significant national attention.",
-            "url": "https://economictimes.indiatimes.com/news/sports/ipl-auction-2026-player-list-check-full-list-of-350-players-for-december-16-tata-ipl-auction/articleshow/125862731.cms",
-            "category": "National",
-            "date": "2025-12-09T06:15:47Z"
+            "title": "Suspected drones seen over French military intelligence base, armed forces say",
+            "summary": "Suspected drones were observed flying over a French military intelligence base near Paris on three separate nights last month, prompting a security alert. The French Air and Space Force confirmed the incidents, which are part of a series of unauthorized drone flights over sensitive French sites. These events raise concerns about national security and potential reconnaissance activities, highlighting the evolving challenges in airspace protection.",
+            "url": "https://www.thestar.com.my/news/world/2025/12/09/suspected-drones-seen-over-french-military-intelligence-base-armed-forces-say",
+            "category": "Defence",
+            "date": "2025-12-09T12:23:00Z"
         },
         {
-            "title": "Brian Cashman reveals Yankees level of interest in non-Kyle Tucker top free agent",
-            "summary": "Yankees General Manager Brian Cashman has revealed the team's level of interest in a top free agent, explicitly stating it's not Kyle Tucker. This announcement, sourced from The Sporting News, suggests the Yankees are actively pursuing strategic roster enhancements by targeting high-profile players in the free agency market. Further details on the specific player or the intensity of their pursuit are anticipated as the baseball season approaches.",
-            "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/brian-cashman-yankees-interest-non-kyle-tucker-free-agent/868c7b42d75b127615f3cac4",
+            "title": "HII Deepens Partnership with Babcock International Group in Support of Virginia-Class Submarine Construction",
+            "summary": "HII (Huntington Ingalls Industries) and Babcock International Group have expanded their strategic partnership through a new contract. This collaboration between the major U.S. and UK defence companies likely aims to strengthen naval capabilities, possibly involving submarine technology and maintenance. Such international defence industry alliances are vital for enhancing interoperability and advancing military readiness, crucial for global security operations.",
+            "url": "https://www.globenewswire.com/news-release/2025/12/09/3202205/14858/en/HII-Deepens-Partnership-with-Babcock-International-Group-in-Support-of-Virginia-Class-Submarine-Construction.html",
+            "category": "Defence",
+            "date": "2025-12-09T12:00:00Z"
+        },
+        {
+            "title": "Eyeing IAF's transport aircraft deal, Lockheed Martin plans to set up co-production facility for C-130J planes in India",
+            "summary": "US aerospace major Lockheed Martin plans to establish a co-production facility in India for its C-130J Super Hercules heavy-lift military transport aircraft. This strategic initiative supports India's 'Make in India' drive, enhancing indigenous defence manufacturing, technology transfer, and job creation. For SSB aspirants, this highlights strengthening India's defence industrial base, critical aerospace capabilities, and deepening strategic partnerships with the US.",
+            "url": "https://economictimes.indiatimes.com/news/defence/eyeing-iafs-transport-aircraft-deal-lockheed-martin-plans-to-set-up-co-production-facility-for-c-130j-planes-in-india/articleshow/125869680.cms",
+            "category": "Defence",
+            "date": "2025-12-09T11:50:23Z"
+        },
+        {
+            "title": "South Korea scrambles jets after Russian, Chinese planes approach",
+            "summary": "South Korea scrambled fighter jets after seven Russian and two Chinese military aircraft entered its Air Defence Identification Zone (ADIZ) on Tuesday. This incident, involving multiple powers in a sensitive region, prompted Seoul's immediate response to an undeclared entry. Such joint flyovers by Russia and China often raise concerns about regional security dynamics and military posturing, highlighting the importance of air defence readiness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/south-korea-scrambles-jets-after-russian-chinese-planes-approach/articleshow/125868980.cms",
+            "category": "Defence",
+            "date": "2025-12-09T11:14:42Z"
+        },
+        {
+            "title": "10 landmark photos that encapsulate 2025: From Operation Sindoor, Trump-Zelensky meet to Women\u2019s World Cup win",
+            "summary": "This article provides a retrospective on the year 2025, characterizing it as a period of significant global contrasts marked by both tragedy and courage, despair and hope. It aims to revisit ten powerful images depicting moments from around the world that profoundly impacted nations. Aspiring officers should consider how such diverse global events shape international relations and human resilience.",
+            "url": "https://m.economictimes.com/news/new-updates/10-landmark-photos-that-encapsulate-2025-from-operation-sindoor-trump-zelensky-meet-to-womens-world-cup-win/the-defining-pictures-of-2025/slideshow/125868672.cms",
             "category": "International",
-            "date": "2025-12-09T06:13:49Z"
+            "date": "2025-12-09T10:57:22Z"
+        },
+        {
+            "title": "40 Incredible Sculptures Around The Globe That Look Too Stunning To Be Real",
+            "summary": "The article explores extraordinary sculptures globally that transcend imagination, blurring the line between reality and the unreal. These artistic creations, often carved from stone or cast, surpass conventional expectations through their unique forms and intricate details. They highlight human ingenuity in transforming materials into breathtaking works that challenge perception and inspire awe, demonstrating art's profound ability to evoke wonder.",
+            "url": "https://www.demilked.com/extraordinary-sculptures-world/",
+            "category": "International",
+            "date": "2025-12-09T10:54:56Z"
+        },
+        {
+            "title": "Goa nightclub fire: Luthra brothers in Thailand, police focus on tracking third owner, raid Gurgaon residence",
+            "summary": "Police investigating the Goa nightclub fire, which tragically killed 25 people, have confirmed a third owner involved, in addition to brothers Saurabh and Gaurav Luthra, who fled to Thailand. This development intensifies the probe into accountability and potential negligence behind the incident. The investigation aims to uncover all responsible parties and address safety lapses in commercial establishments, underscoring the importance of strict regulatory compliance.",
+            "url": "https://indianexpress.com/article/india/goa-nightclub-fire-luthra-brothers-thailand-police-focus-third-owner-raid-gurgaon-residence-10410945/",
+            "category": "National",
+            "date": "2025-12-09T10:11:30Z"
         }
     ]
 }
