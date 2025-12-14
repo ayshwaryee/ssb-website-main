@@ -1,54 +1,33 @@
 {
-    "last_updated": "2025-12-14T01:22:14.718218+00:00",
+    "last_updated": "2025-12-14T06:23:55.781866+00:00",
     "articles": [
         {
-            "title": "Blue Jays target bullpen reliability with $37 million submarine pitcher",
-            "summary": "The Toronto Blue Jays baseball team is reportedly focusing on bolstering its bullpen's reliability. They are targeting the acquisition of a 'submarine' pitcher, with a reported investment of $37 million. This strategic move, aiming to strengthen the team's pitching capabilities, was originally reported by The Sporting News.",
-            "url": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/blue-jays-tyler-rogers-bullpen-contract/60eac7803858315244427527",
+            "title": "North Korean leader Kim hails troops returning from Russia mission, state media says",
+            "summary": "North Korean leader Kim Jong Un attended a welcoming ceremony for an army engineering unit returning from Russia. The unit had carried out unspecified duties in Russia. This event highlights military interaction between North Korea and Russia, attracting international attention regarding the nature of their cooperation and its geopolitical implications.",
+            "url": "https://japantoday.com/category/world/north-korean-leader-kim-hails-troops-returning-from-russia-mission-state-media-says1",
             "category": "International",
-            "date": "2025-12-13T01:05:27Z"
+            "date": "2025-12-13T06:00:03Z"
         },
         {
-            "title": "Blue Jays sign ex-Mets, Giants reliever with funky delivery to $37 million contract",
-            "summary": "The Toronto Blue Jays have reportedly secured a significant signing, bringing on a former Mets and Giants relief pitcher for a substantial $37 million contract. This acquisition adds an experienced reliever, notably known for his distinctive \"funky delivery,\" to the Blue Jays' roster. The move is expected to bolster the team's bullpen strength for upcoming seasons, integrating a unique pitching style.",
-            "url": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/blue-jays-sign-ex-mets-giants-reliever-funky-37-million/67cdd85af08647ad39304b74",
-            "category": "International",
-            "date": "2025-12-13T01:03:13Z"
-        },
-        {
-            "title": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
-            "summary": "Venezuelan President Nicol\u00e1s Maduro is reportedly questioning the steadfastness of his key international allies, China and Russia. Though his reliance on these nations was once \"rock solid,\" a perceived weakening in their support suggests evolving dynamics. This highlights the complex nature of Venezuela's foreign relations and its global standing, impacting regional stability.",
-            "url": "https://www.bbc.com/news/articles/c075mr3190mo",
-            "category": "International",
-            "date": "2025-12-13T00:35:21Z"
-        },
-        {
-            "title": "Tigers Trade RHP Chase Lee to Toronto For Lefty Prospect",
-            "summary": "The Detroit Tigers executed a player trade, sending right-hander Chase Lee to Toronto in exchange for left-hander Johan Simon. This roster adjustment was made to create space for their newly signed player, Drew Anderson. Such moves are common in professional sports, reflecting strategic team management and player rotation.",
-            "url": "https://roundtable.io/tigers/news/tigers-trade-rhp-chase-lee-to-toronto-for-lefty-prospect",
-            "category": "International",
-            "date": "2025-12-13T00:21:19Z"
-        },
-        {
-            "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-            "summary": "Recent Russian attacks have systematically destroyed warehouses supplying most of Ukraine's pharmacies. This deliberate targeting severely cripples the nation's medical supply chain, significantly impacting civilians' access to essential medicines and healthcare. The destruction exacerbates the humanitarian crisis, directly undermining public health infrastructure amidst the ongoing conflict.",
-            "url": "https://www.bbc.com/news/articles/cqlkk9qk7vyo",
-            "category": "International",
-            "date": "2025-12-13T00:05:21Z"
-        },
-        {
-            "title": "Spatial fluorescence barcode by transiently luminescent DNA beads",
-            "summary": "The provided text is not a news article but a list of scientific citations. It references academic work on 'biodiagnostic development' and 'submicrometre geometrically encoded fluorescent' technologies. This content appears to be from a research paper's bibliography, focusing on highly specialized scientific and technological research rather than current events relevant for general awareness.",
-            "url": "https://www.nature.com/articles/s41467-025-67410-3",
-            "category": "Sci & Tech",
-            "date": "2025-12-13T00:00:00Z"
-        },
-        {
-            "title": "Girls basketball: KMS Fighting Saints star makes her mark",
-            "summary": "Acelynn Hacker, a senior from Kerkhoven-Murdock-Sunburg High School, is being celebrated as one of its all-time greatest athletes. Her remarkable achievements while representing the 'Fighting Saints' jersey highlight consistent excellence in sports. This news focuses on her significant contributions and legacy, potentially inspiring aspirants to strive for peak performance and dedication in their chosen fields.",
-            "url": "https://www.wctrib.com/sports/prep/girls-basketball-6",
+            "title": "Review vehicular emission standard, install air purifiers in schools, suggests House panel",
+            "summary": "A comprehensive report outlines a multi-faceted strategy to combat air pollution. Recommendations include reviewing national vehicular emission standards, deploying a dedicated satellite for monitoring farm fires, and installing air purifiers in public schools and hospitals. This integrated approach aims to significantly improve air quality and public health across the nation through policy, technology, and infrastructure upgrades.",
+            "url": "https://indianexpress.com/article/cities/delhi/review-vehicular-emission-standard-install-air-purifiers-in-schools-10418130/",
             "category": "National",
-            "date": "2025-12-12T23:36:00Z"
+            "date": "2025-12-13T05:57:30Z"
+        },
+        {
+            "title": "Thailand vows to keep fighting Cambodia, despite Trump\u2019s ceasefire claim",
+            "summary": "A Southeast Asian nation's Prime Minister, Anutin Charnvirakul, announced via Facebook their commitment to ongoing military actions. He affirmed these operations would continue until all perceived harm and threats to the nation's land and people are fully neutralized. This declaration underscores a strong national resolve to safeguard sovereignty and ensure comprehensive security amidst regional dynamics.",
+            "url": "https://indianexpress.com/article/world/thailand-fighting-cambodia-trumps-ceasefire-claim-10418129/",
+            "category": "Defence",
+            "date": "2025-12-13T05:53:36Z"
+        },
+        {
+            "title": "Thailand's PM says attacks on Cambodia 'will continue'",
+            "summary": "Thailand affirmed its continuation of military operations against Cambodia, directly contradicting US President Donald Trump's earlier statement that both nations had agreed to halt fighting after his intervention. This ongoing conflict underscores persistent regional tensions between the Southeast Asian neighbours and presents a challenge to international diplomatic efforts aimed at de-escalation, indicating a volatile security situation.",
+            "url": "https://www.rte.ie/news/asia/2025/1213/1548836-cambodia-thailand/",
+            "category": "International",
+            "date": "2025-12-13T04:58:46Z"
         }
     ]
 }
