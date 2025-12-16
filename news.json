@@ -1,26 +1,54 @@
 {
-    "last_updated": "2025-12-16T12:36:15.851339+00:00",
+    "last_updated": "2025-12-16T18:25:41.345608+00:00",
     "articles": [
         {
-            "title": "Samsung SWA President & CEO JB Park\u2019s Message on Completing 30 Years in India & the Launch of #PoweringInnovationforIndia",
-            "summary": "An entity established in New Delhi in 1995 celebrates three decades of significant contribution to India's growth and innovation. Beginning with modest operations, it has consistently built and evolved, demonstrating a long-term commitment to national development and progress alongside the nation over the past thirty years.",
-            "url": "https://news.samsung.com/in/samsung-swa-president-ceo-jb-parks-message-on-completing-30-years-in-india-the-launch-of-poweringinnovationforindia",
+            "title": "The Grab List: How Museums Decide What to Save in a Disaster",
+            "summary": "In 2008, the University of Iowa Museum of Art's $250 million collection faced peril from a major flood. Thousands of valuable art pieces were successfully evacuated before the water reached the museum. This incident demonstrates critical disaster management for preserving national treasures and cultural heritage, emphasizing proactive measures in times of crisis.",
+            "url": "http://longreads.com/2025/12/15/art-museum-climate-disaster/",
             "category": "National",
-            "date": "2025-12-15T12:05:03Z"
+            "date": "2025-12-15T18:19:36Z"
         },
         {
-            "title": "Record order books, rising exports: Nirmal Bang\u2019s Jyoti Gupta on why defence remains a long-term growth story",
-            "summary": "India's defence manufacturing sector is experiencing a significant upcycle, driven by record approvals, a robust multi-year order book, and rising indigenisation. Accelerating exports further bolster India's self-reliance and global competitiveness in military production. This positive trend highlights substantial growth and enhanced capabilities within the nation's defence industry, crucial for national security and strategic autonomy.",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/record-order-books-rising-exports-nirmal-bangs-jyoti-gupta-on-why-defence-remains-a-long-term-growth-story/articleshow/125978001.cms",
+            "title": "Why policy must keep pace with the structural shift in India's spending patterns",
+            "summary": "Indian consumption patterns have significantly transformed over the last decade, with households allocating a growing share of expenditure to non-food items. This structural shift indicates evolving lifestyles, increased discretionary spending on services and goods, and a move beyond basic necessities. It reflects a maturing consumer base and changing economic priorities within the nation.",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/why-policy-must-keep-pace-with-the-structural-shift-in-indias-spending-patterns/articleshow/125988598.cms",
+            "category": "National",
+            "date": "2025-12-15T18:15:51Z"
+        },
+        {
+            "title": "Most Economists Still Don\u2019t Understand How Inflation Is Destroying Our Economy",
+            "summary": "An article from Mises Wire highlights a critical issue in macroeconomics education. It posits that many current textbooks discuss monetary and banking policies without adequately reflecting the profound changes and lessons from the 2008 financial crisis and 2020 economic events. The author questions why academic materials have not fully integrated these significant shifts, suggesting a need for updated approaches to accurately represent modern economic policy realities.",
+            "url": "https://biztoc.com/x/eeb1589cc8eca6a2",
+            "category": "National",
+            "date": "2025-12-15T17:38:35Z"
+        },
+        {
+            "title": "J-K: Encounter breaks out between security forces and terrorists in Udhampur",
+            "summary": "Security forces are currently engaged in an encounter with terrorists in the Sohan area of Udhampur district in Jammu and Kashmir. The operation was launched based on specific intelligence inputs regarding the presence of militants. The Indian Army and Jammu and Kashmir Police are reportedly involved in this ongoing anti-terrorist operation to neutralize the threat in the region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/j-k-encounter-breaks-out-between-security-forces-and-terrorists-in-udhampur/articleshow/125987725.cms",
             "category": "Defence",
-            "date": "2025-12-15T11:11:45Z"
+            "date": "2025-12-15T17:36:54Z"
         },
         {
-            "title": "Trump Unable To Flip Coins; Overturns Accessibility Instead",
-            "summary": "The article critically evaluates former President Trump's financial management, portraying it as a leading example of poor decision-making. It suggests his economic policies and actions led to national economic backsliding. For SSB aspirants, this highlights the importance of effective financial leadership and its broad impact on national prosperity and governance.",
-            "url": "https://www.jezebel.com/trump-unable-to-flip-coins-overturns-accessibility-instead",
+            "title": "Bell Court Win Sends $24,000 Message to Copper Thieves",
+            "summary": "A Qu\u00e9bec court has ordered a man to pay $24,000 in damages for copper theft that disrupted Bell telecommunication services in the Saguenay\u2013Lac-Saint-Jean region. This ruling is significant, as Bell considers it the first time punitive damages have been awarded in such a case, setting a precedent regarding the severe legal repercussions for tampering with critical public infrastructure and essential services.",
+            "url": "https://www.iphoneincanada.ca/2025/12/15/bell-court-win-sends-24000-message-to-copper-thieves/",
             "category": "National",
-            "date": "2025-12-15T11:06:00Z"
+            "date": "2025-12-15T17:36:18Z"
+        },
+        {
+            "title": "Homestead's Belot wins Piggly Wiggly high school athlete of the week vote",
+            "summary": "Oliver Belot, a junior basketball player from Homestead High School, was named the Milwaukee Journal Sentinel Piggly Wiggly high school athlete of the week for December 1-6. Belot secured this recognition after scoring an impressive 29 points during games, highlighting his strong performance on the court and individual sporting achievement.",
+            "url": "https://www.jsonline.com/story/sports/high-school/athlete-of-the-week/2025/12/15/homestead-boys-basketball-oliver-belot-wins-piggly-wiggly-high-school-athlete-of-the-week/87774430007/",
+            "category": "International",
+            "date": "2025-12-15T17:31:27Z"
+        },
+        {
+            "title": "Fantasy Basketball Week 9 Start/Sit: Dylan Harper continues to shine despite limited opportunities",
+            "summary": "Following disruptions from the NBA Cup, the professional basketball league's schedule is set to largely normalize in Week 9. While Tuesday and Wednesday will feature fewer games, the week promises a diverse array of matches. This marks a return to a regular cadence for teams after a special tournament phase, highlighting ongoing events in the global sports landscape.",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-9-start-sit/",
+            "category": "International",
+            "date": "2025-12-15T17:27:54Z"
         }
     ]
 }
