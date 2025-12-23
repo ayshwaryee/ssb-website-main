@@ -1,4 +1,54 @@
 {
-    "last_updated": "2025-12-22T18:24:47.465388+00:00",
-    "articles": []
+    "last_updated": "2025-12-23T01:17:14.050915+00:00",
+    "articles": [
+        {
+            "title": "Red Sox Acquire Willson Contreras",
+            "summary": "A sports commentator praised the Boston Red Sox's recent acquisition, deeming it a valuable addition to the team. Conversely, the commentator criticized the management of the New York Yankees, Cashman and Hal, for their perceived inaction during the winter meetings. Concern was raised about the lack of strategic moves, especially with spring training commencing in seven weeks.",
+            "url": "https://www.mlbtraderumors.com/2025/12/red-sox-acquire-willson-contreras.html",
+            "category": "National",
+            "date": "2025-12-22T00:49:45Z"
+        },
+        {
+            "title": "Italian companies ready to seize opportunities offered by India: Antonio Tajani, Deputy Prime Minister",
+            "summary": "Italy's Deputy Prime Minister and Foreign Minister Antonio Tajani stated that Italy, Europe's second industrial powerhouse, can significantly contribute to India's growth trajectory. His remarks highlight a push for strengthened bilateral ties and economic cooperation. Tajani's emphasis signals increasing strategic alignment and partnership opportunities between India and Italy across various sectors, enhancing their global engagement.",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/italian-companies-ready-to-seize-opportunities-offered-by-india-antonio-tajani-deputy-prime-minister/articleshow/126112176.cms",
+            "category": "International",
+            "date": "2025-12-22T00:45:20Z"
+        },
+        {
+            "title": "Karnataka all set to corner data centre projects worth Rs 1,350 crore",
+            "summary": "Datasamudra, Teleindia Datacenter's division, plans a significant Rs 300-500 crore investment over the next few years. This aims to expand its data centre operations across India, beyond Bengaluru. This strategic expansion reflects growing demand for data infrastructure nationally, strengthening India's digital capabilities and creating economic opportunities within the tech sector.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/karnataka-all-set-to-corner-data-centre-projects-worth-rs-1350-crore/articleshow/126108080.cms",
+            "category": "National",
+            "date": "2025-12-22T00:31:00Z"
+        },
+        {
+            "title": "Early Week 17 Fantasy Kicker Rankings: Who to start, best sleepers, top streamers at K this week",
+            "summary": "This article from The Sporting News provides early Week 17 fantasy football kicker rankings. It offers detailed analysis and recommendations on which kickers to select, highlighting 'sleepers' for potential high returns and 'top streamers' for short-term gains. The aim is to assist fantasy sports enthusiasts in optimizing their team's performance for the upcoming week's matchups by making informed roster decisions.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-kicker-rankings-week-17-2025/ab9cab2d55bc8342f5d182b0",
+            "category": "National",
+            "date": "2025-12-22T00:25:15Z"
+        },
+        {
+            "title": "Computational design of allulose-responsive biosensor toolbox for auto-inducible protein expression and CRISPRi mediated dynamic metabolic regulation",
+            "summary": "A scientific paper by Weidem\u00fcller et al. highlights transcription factors as crucial molecules that bridge cell signaling with gene regulation. Published in Proteomics (2021), this research illuminates how cells communicate and control genetic expression, essential for understanding fundamental biological processes like development and disease. This advances basic biological science.",
+            "url": "https://www.nature.com/articles/s41467-025-67669-6",
+            "category": "Sci & Tech",
+            "date": "2025-12-22T00:00:00Z"
+        },
+        {
+            "title": "Delhi Confidential: New Face",
+            "summary": "MoS Finance Pankaj Chaudhary's appointment as BJP President of Uttar Pradesh signals an impending change in the Ministry of Finance. Government officials anticipate a new face for the MoS Finance position following Chaudhary's significant new political role. His absence from a key \"Chintan\" meeting further underscores this important shift in national political leadership and government portfolios.",
+            "url": "https://indianexpress.com/article/delhi-confidential/bjp-uttar-pradesh-president-pankaj-chaudhary-chintan-shivir-10432230/",
+            "category": "National",
+            "date": "2025-12-21T23:45:44Z"
+        },
+        {
+            "title": "Early Week 17 Defense Fantasy Rankings: D/ST fantasy playoffs start-sit, with best sleepers, streamers",
+            "summary": "This article from The Sporting News provides fantasy rankings for American football's defense/special teams (D/ST) units for Week 17. It offers strategic start-sit advice for fantasy championship games, identifying optimal 'sleepers' and 'streamers' to guide participants in their crucial roster decisions for competitive league play.",
+            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-defense-rankings-week-17-2025/2b0331090a1c371ea407756e",
+            "category": "Defence",
+            "date": "2025-12-21T23:43:11Z"
+        }
+    ]
 }
