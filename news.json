@@ -1,19 +1,54 @@
 {
-    "last_updated": "2025-12-24T06:27:21.750551+00:00",
+    "last_updated": "2025-12-24T12:34:33.559476+00:00",
     "articles": [
         {
-            "title": "US\u2019 \u2018100x More Powerful\u2019 Battleship Dreams Vs. Hard Reality",
-            "summary": "This article previews global defense news, likely focusing on US aspirations for significantly more powerful battleships. It would delve into theoretical naval capabilities, advanced ship designs, and the strategic implications of such developments. For an SSB aspirant, understanding these discussions provides insight into evolving global military technology, naval power projection, and future defense strategies, crucial for comprehending international security dynamics.",
-            "url": "https://sputnikglobe.com/20251223/us-100x-more-powerful-battleship-dreams-vs-hard-reality-1123348478.html",
-            "category": "Defence",
-            "date": "2025-12-23T06:20:55Z"
+            "title": "Countdown for launch of ISRO's Bluebird Block-2 Mission begins in Sriharikota",
+            "summary": "ISRO has commenced the 24-hour countdown for the launch of its LVM3-M6 rocket from Sriharikota, Andhra Pradesh. This mission is significant as the rocket will carry a new generation US communication satellite, highlighting India's growing prowess in space technology and its role in global space commercial services. This launch further solidifies ISRO's position in international space collaboration.",
+            "url": "https://economictimes.indiatimes.com/news/science/countdown-for-launch-of-isros-bluebird-block-2-mission-begins-in-sriharikota/articleshow/126141678.cms",
+            "category": "Sci & Tech",
+            "date": "2025-12-23T12:27:53Z"
         },
         {
-            "title": "Syrian army, Kurdish-led SDF agree to stop deadly fighting in Aleppo",
-            "summary": "Syrian government forces and the Kurdish-led Syrian Democratic Forces (SDF) have agreed to a ceasefire in the northern city of Aleppo. This development follows recent attacks that killed at least two civilians. The agreement aims to de-escalate tensions and prevent further loss of life, marking a potential step towards stability amidst the ongoing complex conflict in the region.",
-            "url": "https://www.aljazeera.com/news/2025/12/23/syrian-army-and-kurdish-led-forces-agree-to-de-escalate-violence-in-aleppo",
+            "title": "Delhi HC directs Indian consulate in UAE to provide list of locally accredited lawyers for Celina Jaitly's detained brother",
+            "summary": "The Delhi High Court issued directions in a plea filed by actor Celina Jaitly, seeking assistance for her brother, a former Indian Army officer. This case, involving a veteran's welfare and legal recourse, underscores the importance of judicial support for defence personnel and their families, a key aspect for SSB aspirants to note regarding national legal frameworks and veteran care.",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-hc-directs-indian-consulate-in-uae-to-provide-list-of-locally-accredited-lawyers-for-celina-jaitlys-detained-brother/articleshow/126141428.cms",
+            "category": "National",
+            "date": "2025-12-23T12:14:16Z"
+        },
+        {
+            "title": "Villarreal seal first signing of January transfer window with Argentine midfielder arriving",
+            "summary": "Villarreal, a prominent Spanish football club, is actively preparing for the upcoming winter transfer window. Known for their significant activity in the transfer market over recent years, the 'Yellow Submarine' aims to further strengthen their squad. This proactive approach reflects their continuous strategy to enhance team performance and maintain a competitive edge in domestic and potentially international competitions.",
+            "url": "https://www.football-espana.net/2025/12/23/villarreal-seal-first-signing-of-january-transfer-window-with-argentine-midfielder-arriving",
+            "category": "National",
+            "date": "2025-12-23T12:05:00Z"
+        },
+        {
+            "title": "NTA to introduce facial biometric checks, live photography across entrance exams from 2026",
+            "summary": "The National Testing Agency (NTA) is set to implement facial biometric authentication during entrance examinations to bolster security. This measure, along with live photography at the application stage, aims to prevent impersonation and ensure fair conduct for all aspirants. This national initiative reinforces the integrity of the examination system, crucial for selection processes, including those impacting SSB candidates.",
+            "url": "https://economictimes.indiatimes.com/industry/services/education/nta-to-introduce-facial-biometric-checks-live-photography-across-entrance-exams-from-2026/articleshow/126141097.cms",
+            "category": "National",
+            "date": "2025-12-23T11:54:44Z"
+        },
+        {
+            "title": "India announces USD 450 mn package as PM Modi's special envoy meets cyclone-hit Sri Lanka's top leaders",
+            "summary": "India's External Affairs Minister S Jaishankar announced a USD 450 million reconstruction package for Cyclone Ditwah-hit Sri Lanka. This substantial aid demonstrates India's commitment to regional solidarity, humanitarian assistance, and reinforcing strong bilateral ties with its crucial island neighbor. This initiative underscores India's role as a reliable partner and responsible power in the Indian Ocean region.",
+            "url": "https://economictimes.indiatimes.com/news/india/india-announces-usd-450-mn-package-as-pm-modis-special-envoy-meets-cyclone-hit-sri-lankas-top-leaders/articleshow/126140750.cms",
             "category": "International",
-            "date": "2025-12-23T05:38:41Z"
+            "date": "2025-12-23T11:36:25Z"
+        },
+        {
+            "title": "Aerospace, defence electronics firm CoreEL secures $30 million Series B",
+            "summary": "CoreEL Technologies India, a provider of advanced electronic systems and solutions for the Aerospace and Defence sector, made an announcement on Tuesday. While the specific details are not provided in the truncated text, the news pertains to their contributions within the critical defence technology domain, highlighting their role in enhancing national capabilities.",
+            "url": "https://www.thehindubusinessline.com/info-tech/aerospace-defence-electronics-firm-coreel-secures-30-million-series-b/article70429395.ece",
+            "category": "Defence",
+            "date": "2025-12-23T11:13:49Z"
+        },
+        {
+            "title": "Defence electronics firm CoreEL Technologies raises $30 million from ValuQuest, 360 ONE Asset",
+            "summary": "CoreEL Technologies, an aerospace and defence electronics firm, has secured $30 million in funding led by ValueQuest, with 360 ONE Asset also participating. This capital infusion is earmarked for scaling its operations. This development signifies growing investor confidence in India's indigenous defence technology sector, crucial for enhancing national security and self-reliance in critical electronics.",
+            "url": "https://economictimes.indiatimes.com/tech/funding/defence-electronics-firm-coreel-technologies-raises-30-million-from-valuquest-360-one-asset/articleshow/126139285.cms",
+            "category": "Defence",
+            "date": "2025-12-23T10:16:42Z"
         }
     ]
 }
