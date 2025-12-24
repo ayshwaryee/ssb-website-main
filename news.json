@@ -1,54 +1,19 @@
 {
-    "last_updated": "2025-12-24T01:16:16.128250+00:00",
+    "last_updated": "2025-12-24T06:27:21.750551+00:00",
     "articles": [
         {
-            "title": "The Canned Cocktails in This Advent Calendar, Ranked",
-            "summary": "Portland's Straightaway Cocktails, a canned libation and liqueur maker, launched its '12 Nights of Cocktails' advent calendar, now in its second successful holiday season. This unique product offers consumers a festive way to explore various pre-mixed cocktails. The company's rapid success highlights a growing trend in convenience-oriented alcoholic beverages in the international market.",
-            "url": "https://www.portlandmercury.com/food-and-drink/2025/12/22/48204603/the-canned-cocktails-in-this-advent-calendar-ranked",
-            "category": "International",
-            "date": "2025-12-23T01:00:00Z"
-        },
-        {
-            "title": "New entrants reshape ET 500 rankings as Tejas Networks, Hyundai Motor India make strong debuts",
-            "summary": "This year's ET 500 list reflects intense competitive pressure, with a majority of companies losing their rankings from the previous year. Specifically, 267 firms slipped, highlighting a dynamic and challenging corporate environment. For SSB aspirants, this emphasizes the importance of understanding economic trends and their impact on national development and strategic decision-making.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-entrants-reshape-et-500-rankings-as-tejas-networks-hyundai-motor-india-make-strong-debuts/articleshow/126131417.cms",
-            "category": "National",
-            "date": "2025-12-23T00:59:09Z"
-        },
-        {
-            "title": "Data centre certification push to be tailored to make it AI ready",
-            "summary": "The Indian government is set to revise its certification framework for data centres to meet the escalating computational demands, particularly from emerging technologies like Artificial Intelligence. This strategic move aims to ensure data centre infrastructure remains robust and efficient, thereby bolstering the nation's digital capabilities and technological growth. The updated standards will facilitate high-performance computing and secure future digital infrastructure needs.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-certification-push-to-be-tailored-to-make-it-ai-ready/articleshow/126127338.cms",
-            "category": "Sci & Tech",
-            "date": "2025-12-23T00:30:00Z"
-        },
-        {
-            "title": "India closer to $450m BrahMos pacts with Vietnam, Indonesia",
-            "summary": "India is nearing a significant $450 million BrahMos missile export deal with Vietnam and Indonesia. This move would significantly boost India's indigenous defence manufacturing capabilities and enhance its position as a key defence exporter. Such strategic pacts strengthen India's partnerships in Southeast Asia, underscoring its growing role in regional security dynamics and maritime cooperation.",
-            "url": "https://timesofindia.indiatimes.com/india/india-closer-to-450m-brahmos-pacts-with-vietnam-indonesia/articleshow/126131232.cms",
+            "title": "US\u2019 \u2018100x More Powerful\u2019 Battleship Dreams Vs. Hard Reality",
+            "summary": "This article previews global defense news, likely focusing on US aspirations for significantly more powerful battleships. It would delve into theoretical naval capabilities, advanced ship designs, and the strategic implications of such developments. For an SSB aspirant, understanding these discussions provides insight into evolving global military technology, naval power projection, and future defense strategies, crucial for comprehending international security dynamics.",
+            "url": "https://sputnikglobe.com/20251223/us-100x-more-powerful-battleship-dreams-vs-hard-reality-1123348478.html",
             "category": "Defence",
-            "date": "2025-12-23T00:14:22Z"
+            "date": "2025-12-23T06:20:55Z"
         },
         {
-            "title": "Japan loses another H3 launcher, plus the satnav bird it carried",
-            "summary": "Japan's Aerospace Exploration Agency (JAXA) has formed a Special Task Force to investigate the recent failed launch of its H3 rocket on Monday. This was the eighth launch for the H3, a significant medium-lift rocket. Such incidents are closely watched globally, impacting national space capabilities and future missions, highlighting the challenges in advanced aerospace engineering.",
-            "url": "https://www.theregister.com/2025/12/23/jaxa_h3_failure_inquiry/",
-            "category": "Sci & Tech",
-            "date": "2025-12-23T00:09:43Z"
-        },
-        {
-            "title": "Rapid viscous flow of crustal rocks controls dyke emplacement in the ductile crust",
-            "summary": "A 1991 geophysical research paper by Lister and Kerr detailed fluid-mechanical models concerning crack propagation. Their study specifically applied these models to understand magma transport within geological dykes. This research is fundamental for comprehending the dynamics of subterranean geological processes and volcanic activity, highlighting the role of advanced scientific modeling in Earth sciences and geophysics.",
-            "url": "https://www.nature.com/articles/s41467-025-67464-3",
-            "category": "Sci & Tech",
-            "date": "2025-12-23T00:00:00Z"
-        },
-        {
-            "title": "At least two civilians killed in Aleppo violence as Syrian government, SDF trade blame",
-            "summary": "On Dec 22, the northern Syrian city of Aleppo experienced a wave of attacks, resulting in the deaths of at least two civilians and several wounded. The violence involved government forces and the Kurdish-led Syrian Democratic Forces (SDF), highlighting ongoing instability and conflict in the region. This incident underscores the complex multi-factional struggles affecting Syria.",
-            "url": "https://www.thestar.com.my/news/world/2025/12/23/at-least-two-civilians-killed-in-aleppo-violence-as-syrian-government-sdf-trade-blame",
+            "title": "Syrian army, Kurdish-led SDF agree to stop deadly fighting in Aleppo",
+            "summary": "Syrian government forces and the Kurdish-led Syrian Democratic Forces (SDF) have agreed to a ceasefire in the northern city of Aleppo. This development follows recent attacks that killed at least two civilians. The agreement aims to de-escalate tensions and prevent further loss of life, marking a potential step towards stability amidst the ongoing complex conflict in the region.",
+            "url": "https://www.aljazeera.com/news/2025/12/23/syrian-army-and-kurdish-led-forces-agree-to-de-escalate-violence-in-aleppo",
             "category": "International",
-            "date": "2025-12-22T18:49:00Z"
+            "date": "2025-12-23T05:38:41Z"
         }
     ]
 }
