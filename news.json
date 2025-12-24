@@ -1,61 +1,54 @@
 {
-    "last_updated": "2025-12-23T18:24:39.979107+00:00",
+    "last_updated": "2025-12-24T01:16:16.128250+00:00",
     "articles": [
         {
-            "title": "Fantasy Football Waiver Wire Pickups, Week 17: Taysom Hill, Tyler Shough among top players to target",
-            "summary": "This article features Justin Boone's weekly analysis of fantasy football waiver-wire pickups, based on Yahoo league roster percentages. While popular among sports enthusiasts, this specific content on fantasy league strategy has limited direct relevance for an SSB aspirant's current affairs preparation concerning defence, national, international, or scientific developments.",
-            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-pickups-week-17-taysom-hill-tyler-shough-among-top-players-to-target-180909944.html",
-            "category": "National",
-            "date": "2025-12-22T18:09:09Z"
-        },
-        {
-            "title": "2026 is poised to become a definitive turning point in India\u2019s odyssey toward space",
-            "summary": "ISRO concluded 2025 having achieved consistent progress throughout the year. This included their usual schedule of satellite launches and steady advancements made within their cleanroom facilities, indicating a year of sustained development for India's space program.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/2026-is-poised-to-become-a-definitive-turning-point-in-indias-odyssey-toward-space/articleshow/126126583.cms",
-            "category": "Sci & Tech",
-            "date": "2025-12-22T17:51:37Z"
-        },
-        {
-            "title": "Early Week 17 Fantasy TE Rankings PPR: Fantasy playoffs start-sit tight end tips, best sleepers, top streamers",
-            "summary": "This article offers fantasy football enthusiasts key insights for Week 17's fantasy playoffs, specifically for Tight End (TE) rankings in PPR leagues. It provides start-sit tips, identifies potential 'sleepers,' and suggests 'top streamers,' aiming to help players optimize their lineups. The goal is to guide users in making informed decisions for fantasy league victory.",
-            "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-te-rankings-week-17-2025/3b1ef80cc2a9c16b1b030794",
-            "category": "National",
-            "date": "2025-12-22T17:08:32Z"
-        },
-        {
-            "title": "Blumhouse & Atomic Monster Pass $1 Billion At Worldwide Box Office For First Time",
-            "summary": "Prominent film studios Blumhouse and Atomic Monster reportedly faced a perceived 'stale streak' during a year heavy with horror releases. This trend was particularly evident with their sequel, M3GAN 2.0, which apparently did not live up to expectations. The situation highlights potential challenges within their recent cinematic productions despite the genre's prevalence.",
-            "url": "http://deadline.com/2025/12/box-office-blumhouse-atomic-monster-billion-2025-1236655012/",
+            "title": "The Canned Cocktails in This Advent Calendar, Ranked",
+            "summary": "Portland's Straightaway Cocktails, a canned libation and liqueur maker, launched its '12 Nights of Cocktails' advent calendar, now in its second successful holiday season. This unique product offers consumers a festive way to explore various pre-mixed cocktails. The company's rapid success highlights a growing trend in convenience-oriented alcoholic beverages in the international market.",
+            "url": "https://www.portlandmercury.com/food-and-drink/2025/12/22/48204603/the-canned-cocktails-in-this-advent-calendar-ranked",
             "category": "International",
-            "date": "2025-12-22T17:06:41Z"
+            "date": "2025-12-23T01:00:00Z"
         },
         {
-            "title": "Vote for Journal Sentinel high school athlete of the week, presented by Piggly Wiggly",
-            "summary": "The article invites readers in the Milwaukee area to participate in selecting the 'Piggly Wiggly Milwaukee Journal Sentinel Athlete of the Week.' Voting is open until 3 p.m. on December 27th, allowing the public to recognize the region's top high school athlete. This local initiative highlights community engagement in recognizing achievements within prep sports.",
-            "url": "https://www.jsonline.com/story/sports/high-school/athlete-of-the-week/2025/12/22/vote-for-journal-sentinel-piggly-wiggly-high-school-athlete-of-the-week-dec-15-20-2025/87881350007/",
+            "title": "New entrants reshape ET 500 rankings as Tejas Networks, Hyundai Motor India make strong debuts",
+            "summary": "This year's ET 500 list reflects intense competitive pressure, with a majority of companies losing their rankings from the previous year. Specifically, 267 firms slipped, highlighting a dynamic and challenging corporate environment. For SSB aspirants, this emphasizes the importance of understanding economic trends and their impact on national development and strategic decision-making.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-entrants-reshape-et-500-rankings-as-tejas-networks-hyundai-motor-india-make-strong-debuts/articleshow/126131417.cms",
             "category": "National",
-            "date": "2025-12-22T16:32:19Z"
+            "date": "2025-12-23T00:59:09Z"
         },
         {
-            "title": "The Music of the Sea",
-            "summary": "Historically crucial, whales provided humanity with meat and oil, yet significant understanding of these creatures was surprisingly limited until recent advancements. The text even posits highly speculative future roles, like whales potentially saving Earth from an incoming space probe. This highlights a shift from past resource exploitation and ignorance to a broader appreciation of their underestimated, potentially vital contributions.",
-            "url": "https://hackaday.com/2025/12/22/the-music-of-the-sea/",
+            "title": "Data centre certification push to be tailored to make it AI ready",
+            "summary": "The Indian government is set to revise its certification framework for data centres to meet the escalating computational demands, particularly from emerging technologies like Artificial Intelligence. This strategic move aims to ensure data centre infrastructure remains robust and efficient, thereby bolstering the nation's digital capabilities and technological growth. The updated standards will facilitate high-performance computing and secure future digital infrastructure needs.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-certification-push-to-be-tailored-to-make-it-ai-ready/articleshow/126127338.cms",
             "category": "Sci & Tech",
-            "date": "2025-12-22T16:30:17Z"
+            "date": "2025-12-23T00:30:00Z"
         },
         {
-            "title": "Show HN: TinyDOCX \u2013 5kb Word/ODT library (20x smaller than docx)",
-            "summary": "This news highlights 'tinydocx,' a highly efficient software library for creating DOCX/ODT documents. Noteworthy for its minimal code (~680 Lines) and zero dependencies, it significantly outperforms larger alternatives in terms of file size (5.0 KB vs. 108.6 KB). This technological advancement demonstrates the ongoing pursuit of efficiency and streamlined solutions in software development.",
-            "url": "https://github.com/Lulzx/tinydocx",
-            "category": "Sci & Tech",
-            "date": "2025-12-22T16:26:07Z"
-        },
-        {
-            "title": "Anti-submarine warfare shallow water craft 'Anjadip' delivered to Navy",
-            "summary": "The Anti-Submarine Warfare Shallow Water Craft (ASW SWC) 'Anjadip' was delivered to the Indian Navy, marking a significant milestone in indigenous shipbuilding. Built by GRSE, Kolkata, it's the 3rd of eight such crafts, designed to detect and destroy enemy submarines in shallow waters. This delivery enhances India's naval capabilities and self-reliance in defence manufacturing, crucial for bolstering maritime security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/anti-submarine-warfare-shallow-water-craft-anjadip-delivered-to-navy/articleshow/126124409.cms",
+            "title": "India closer to $450m BrahMos pacts with Vietnam, Indonesia",
+            "summary": "India is nearing a significant $450 million BrahMos missile export deal with Vietnam and Indonesia. This move would significantly boost India's indigenous defence manufacturing capabilities and enhance its position as a key defence exporter. Such strategic pacts strengthen India's partnerships in Southeast Asia, underscoring its growing role in regional security dynamics and maritime cooperation.",
+            "url": "https://timesofindia.indiatimes.com/india/india-closer-to-450m-brahmos-pacts-with-vietnam-indonesia/articleshow/126131232.cms",
             "category": "Defence",
-            "date": "2025-12-22T15:23:13Z"
+            "date": "2025-12-23T00:14:22Z"
+        },
+        {
+            "title": "Japan loses another H3 launcher, plus the satnav bird it carried",
+            "summary": "Japan's Aerospace Exploration Agency (JAXA) has formed a Special Task Force to investigate the recent failed launch of its H3 rocket on Monday. This was the eighth launch for the H3, a significant medium-lift rocket. Such incidents are closely watched globally, impacting national space capabilities and future missions, highlighting the challenges in advanced aerospace engineering.",
+            "url": "https://www.theregister.com/2025/12/23/jaxa_h3_failure_inquiry/",
+            "category": "Sci & Tech",
+            "date": "2025-12-23T00:09:43Z"
+        },
+        {
+            "title": "Rapid viscous flow of crustal rocks controls dyke emplacement in the ductile crust",
+            "summary": "A 1991 geophysical research paper by Lister and Kerr detailed fluid-mechanical models concerning crack propagation. Their study specifically applied these models to understand magma transport within geological dykes. This research is fundamental for comprehending the dynamics of subterranean geological processes and volcanic activity, highlighting the role of advanced scientific modeling in Earth sciences and geophysics.",
+            "url": "https://www.nature.com/articles/s41467-025-67464-3",
+            "category": "Sci & Tech",
+            "date": "2025-12-23T00:00:00Z"
+        },
+        {
+            "title": "At least two civilians killed in Aleppo violence as Syrian government, SDF trade blame",
+            "summary": "On Dec 22, the northern Syrian city of Aleppo experienced a wave of attacks, resulting in the deaths of at least two civilians and several wounded. The violence involved government forces and the Kurdish-led Syrian Democratic Forces (SDF), highlighting ongoing instability and conflict in the region. This incident underscores the complex multi-factional struggles affecting Syria.",
+            "url": "https://www.thestar.com.my/news/world/2025/12/23/at-least-two-civilians-killed-in-aleppo-violence-as-syrian-government-sdf-trade-blame",
+            "category": "International",
+            "date": "2025-12-22T18:49:00Z"
         }
     ]
 }
