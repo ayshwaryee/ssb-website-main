@@ -1,12 +1,54 @@
 {
-    "last_updated": "2025-12-25T06:27:04.667158+00:00",
+    "last_updated": "2025-12-25T12:33:19.549803+00:00",
     "articles": [
         {
-            "title": "South Korea, US Seek New Deal to Cooperate on Nuclear Submarines",
-            "summary": "South Korea and the US have agreed to pursue a separate agreement, formalizing Seoul's right to build nuclear-powered submarines. This significant defence development strengthens South Korea's naval capabilities and its alliance with the US. Working-level talks are set to commence early next year to finalize the terms of this strategic cooperation, impacting regional security dynamics.",
-            "url": "https://financialpost.com/pmn/business-pmn/south-korea-us-seek-new-deal-to-cooperate-on-nuclear-submarines",
+            "title": "China aims to reset India ties amid LAC calm, US report says",
+            "summary": "China is actively seeking to leverage the current reduction in tensions along the Line of Actual Control (LAC) with India. Their strategic objective is to stabilize fraught bilateral relations and, crucially, to deter New Delhi from forging deeper strategic alliances, particularly with Western powers. This move reflects Beijing's broader geopolitical strategy to manage regional dynamics and prevent India from aligning more closely with rival blocs.",
+            "url": "https://www.thehindubusinessline.com/news/national/china-aims-to-reset-india-ties-amid-lac-calm-us-report-says/article70433700.ece",
             "category": "Defence",
-            "date": "2025-12-24T05:55:15Z"
+            "date": "2025-12-24T12:21:33Z"
+        },
+        {
+            "title": "Is Trump's Golden Fleet the Great White Fleet of the 21st century?",
+            "summary": "The Trump administration unveiled plans for a 'Golden Fleet,' a comprehensive naval reform program. This initiative includes building a new class of battleships, signifying a major transformation in the US Navy's capabilities and force structure. The ambitious program aims to modernize and expand the fleet, enhancing global maritime power.",
+            "url": "https://newatlas.com/military/trump-golden-fleet-great-white/",
+            "category": "Defence",
+            "date": "2025-12-24T12:03:00Z"
+        },
+        {
+            "title": "Five sleeper races that could upend 2026 \u2013 from Pennsylvania\u2019s Alleghenies to New Mexico",
+            "summary": "The article uses the metaphor of Santa's quiet approach to describe upcoming election contests as the new year nears. It anticipates that several electoral battles will remain relatively calm and uneventful, with public interest possibly low until the very end, when results are expected to be closely contested. Specific details regarding the nature or location of these elections are not provided in this excerpt.",
+            "url": "https://www.foxnews.com/politics/five-sleeper-races-could-upend-2026-from-pennsylvanias-alleghenies-new-mexico",
+            "category": "National",
+            "date": "2025-12-24T12:00:46Z"
+        },
+        {
+            "title": "John Helmer: Merz\u2019s War Against Russia Is Splitting the Europeans \u2013 Greek Role in Tanker Attack Exposed",
+            "summary": "John Helmer reports on escalating actions by the US and NATO against Russia, specifically highlighting an increased focus on targeting ships. He cites a recent tanker attack in the Mediterranean as a key example of this growing aggression. This situation underscores intensifying geopolitical tensions and the heightened risk of military confrontation, demanding vigilance regarding international maritime security dynamics and potential broader conflict implications.",
+            "url": "https://www.nakedcapitalism.com/2025/12/john-helmer-merzs-war-against-russia-is-splitting-the-europeans-greek-role-in-tanker-attack-exposed.html",
+            "category": "Defence",
+            "date": "2025-12-24T11:50:14Z"
+        },
+        {
+            "title": "Not even Christmas can escape America\u2019s war fetish",
+            "summary": "The historic USS Joseph P. Kennedy, a Gearing-class destroyer, once equipped with Mark 32 torpedoes and anti-submarine missiles, has been decorated for Christmas. This iconic vessel, a testament to naval defence engineering, now likely serves a commemorative purpose, reflecting on its significant service history while celebrating the festive season.",
+            "url": "https://www.salon.com/2025/12/24/not-even-christmas-can-escape-americas-war-fetish/",
+            "category": "Defence",
+            "date": "2025-12-24T11:45:55Z"
+        },
+        {
+            "title": "China probably seeks to capitalise from deescalating tensions along Line of Actual Control with India: US report",
+            "summary": "A recent report indicates China seeks to leverage de-escalating tensions along the Line of Actual Control (LAC) with India. This move aims to stabilise bilateral relations, ultimately preventing a further deepening of strategic US-India ties. For SSB aspirants, this highlights China's intricate geopolitical objectives and its influence on India's defence and foreign policy challenges in the region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/china-probably-seeks-to-capitalise-from-deescalating-tensions-along-line-of-actual-control-with-india-us-report/articleshow/126159901.cms",
+            "category": "Defence",
+            "date": "2025-12-24T11:45:42Z"
+        },
+        {
+            "title": "Thailand-Cambodia border talks proceed after venue row",
+            "summary": "Cambodian and Thai officials have commenced four days of crucial talks at a shared border checkpoint. These high-level discussions aim to address the severe humanitarian crisis stemming from recent fighting, which has already displaced approximately a million people. The initiative underscores efforts to stabilize the border situation and find diplomatic solutions for the affected populations in the region.",
+            "url": "https://www.digitaljournal.com/world/thailand-cambodia-border-talks-proceed-after-venue-row/article",
+            "category": "International",
+            "date": "2025-12-24T10:53:26Z"
         }
     ]
 }
