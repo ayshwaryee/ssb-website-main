@@ -1,61 +1,54 @@
 {
-    "last_updated": "2025-12-25T18:23:26.990325+00:00",
+    "last_updated": "2025-12-26T01:17:21.458480+00:00",
     "articles": [
         {
-            "title": "Indian Army JCO killed in firing in J&K's Samba district",
-            "summary": "An Army Junior Commissioned Officer (JCO) tragically died in a firing incident within a military camp in Samba district, Jammu and Kashmir, late Tuesday. Army officials confirmed the incident, which occurred inside a secure military facility. An investigation into the circumstances surrounding the JCO's death is currently underway, as authorities review the details of this unfortunate event.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-jco-killed-in-firing-in-jks-samba-district/articleshow/126164893.cms",
+            "title": "North Korea's Kim Jong Un oversees test-firing of long-range missiles, state media reports",
+            "summary": "North Korean leader Kim Jong Un oversaw the test-firing of long-range surface-to-air missiles near its east coast. This latest test signifies North Korea's ongoing military modernization efforts and its defiance of international sanctions. For SSB aspirants, this highlights persistent regional instability, the continued proliferation of advanced weaponry, and the complex challenges to global security and non-proliferation treaties, requiring careful geopolitical analysis.",
+            "url": "https://economictimes.indiatimes.com/news/defence/north-koreas-kim-jong-un-oversees-test-firing-of-long-range-missiles-state-media-reports/articleshow/126169002.cms",
+            "category": "International",
+            "date": "2025-12-25T01:15:08Z"
+        },
+        {
+            "title": "Kim Jong Un Oversees Test of New Anti-Air Missile, KCNA Says",
+            "summary": "North Korean leader Kim Jong Un supervised the testing of a new high-altitude, long-range missile, as reported by state media. This move significantly escalates tensions in the region, coming shortly after a US nuclear submarine arrived. The test highlights North Korea's ongoing military advancements and provocative posture, raising concerns for international security and regional stability amidst heightened geopolitical friction.",
+            "url": "https://financialpost.com/pmn/business-pmn/kim-jong-un-oversees-test-of-new-anti-air-missile-kcna-says",
             "category": "Defence",
-            "date": "2025-12-24T18:23:08Z"
+            "date": "2025-12-25T00:40:15Z"
         },
         {
-            "title": "Thailand-Cambodia resume border peace talks once more",
-            "summary": "Thailand and Cambodia have resumed crucial talks this Wednesday, focusing on securing a durable ceasefire after recent renewed fighting erupted along their shared border. Senior military officials from both nations are engaging in discussions to de-escalate tensions and establish lasting peace in the disputed region, a development important for regional stability.",
-            "url": "https://www.dw.com/en/thailand-cambodia-resume-border-peace-talks-once-more/a-75297093",
-            "category": "International",
-            "date": "2025-12-24T18:20:00Z"
-        },
-        {
-            "title": "2025 Week 17 Fantasy Football Rankings: WR",
-            "summary": "The article focuses on the recent performances and dynamics within American football. It highlights Mike Evans' efforts to improve the Buccaneers' form and Drake London's aim for a better showing. Additionally, Michael Wilson is noted for his ongoing competition with Marvin Harrison Jr., underscoring individual player battles and team struggles within the league.",
-            "url": "https://www.nbcsports.com/fantasy/football/news/2025-week-17-fantasy-football-rankings-wr",
+            "title": "Venture Bros Holiday Song 2025: Dragoon and Red Mantle \"Like Life\"",
+            "summary": "The creators of \"The Venture Bros.\", Jackson Publick and Doc Hammer, have released a 2025 holiday song featuring characters Dragoon and Red Mantle. Titled \"I Like Life,\" this new musical piece offers fans a festive listen from the popular animated series. This news highlights an ongoing engagement with the show's fanbase, providing fresh content for its dedicated audience.",
+            "url": "https://bleedingcool.com/tv/venture-bros-holiday-song-2025-dragoon-and-red-mantle-like-life/",
             "category": "National",
-            "date": "2025-12-24T18:18:14Z"
+            "date": "2025-12-25T00:36:03Z"
         },
         {
-            "title": "2025 Week 17 Fantasy Football Rankings: TE, K, DEF",
-            "summary": "The article analyzes NFL players like Taysom Hill and Dallas Goedert from a fantasy football perspective. It discusses their performance, particularly how rookies Colston Loveland and Tyler Warren are finishing strong. The content is primarily aimed at fantasy sports managers, evaluating player contributions and impacts on fantasy leagues.",
-            "url": "https://www.nbcsports.com/fantasy/football/news/2025-week-17-fantasy-football-rankings-te-k-def",
-            "category": "National",
-            "date": "2025-12-24T18:17:09Z"
-        },
-        {
-            "title": "What are the Yankees doing? Reviewing Bronx Bombers' mild winter",
-            "summary": "The New York Yankees disappointed fans this holiday season by failing to make any major new player signings. Their primary objective remains re-signing star free agent Cody Bellinger. This lack of significant roster upgrades highlights a cautious off-season approach, leaving the eager fan base awaiting substantial team improvements.",
-            "url": "https://www.usatoday.com/story/sports/mlb/2025/12/24/what-are-yankees-doing-reviewing-bronx-bombers-mild-winter/87908541007/",
-            "category": "International",
-            "date": "2025-12-24T18:01:40Z"
-        },
-        {
-            "title": "2025 reforms form the base for a superstructure to emerge in late 2020s-early 2030s",
-            "summary": "India's economic policymakers conclude a challenging year marked by both significant achievements and hurdles. Despite robust GDP growth rates, the nation faced demonstrable economic difficulties, including the impact of sanctions. The period reflects a 'gritty, combative' struggle to maintain economic stability and progress amidst various pressures.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/2025-reforms-form-the-base-for-a-superstructure-to-emerge-in-late-2020s-early-2030s/articleshow/126164274.cms",
-            "category": "National",
-            "date": "2025-12-24T17:42:19Z"
-        },
-        {
-            "title": "Vaishnaw thanks Rahul Gandhi for 'acknowledging success' of 'Make in India'",
-            "summary": "Rahul Gandhi praised job creation at Foxconn's Karnataka unit, crediting the state's Congress government for fostering a robust manufacturing ecosystem. He emphasized the significant employment opportunities generated, showcasing a model for industrial growth. This highlights the impact of state policies in attracting investment and boosting national economic development through job creation initiatives.",
-            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/vaishnaw-thanks-rahul-gandhi-for-acknowledging-success-of-make-in-india/articleshow/126164076.cms",
-            "category": "National",
-            "date": "2025-12-24T17:28:31Z"
-        },
-        {
-            "title": "Is Your Android Battery About to Fail? This Hidden Check Reveals the Truth",
-            "summary": "This article highlights the pervasive role of smartphones in modern life, from daily commutes to work, making them almost indispensable. It likely explores the profound impact of constant engagement on attention spans, social interactions, and daily routines. For SSB aspirants, understanding technology's societal influence and the psychological implications of digital habits is crucial for contemporary discussions.",
-            "url": "https://www.talkandroid.com/519470-is-your-android-battery-about-to-fail-this-hidden-check-reveals-the-truth/",
+            "title": "\"Enabling\" C threads in a Python / Wasm environment",
+            "summary": "Having faced challenges with bare metal programming early on, the author strongly believes in the value of multithreading for achieving speedup. They argue that the performance gains from multithreading are worth pursuing, even if the implementation is limited or complex. This perspective highlights a commitment to optimizing execution speed, irrespective of the technical difficulties involved in parallel processing.",
+            "url": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
             "category": "Sci & Tech",
-            "date": "2025-12-24T16:30:00Z"
+            "date": "2025-12-25T00:00:00Z"
+        },
+        {
+            "title": "Kim Jong Un tours nuclear sub plant, slams US-South Korea 'threat': Report",
+            "summary": "North Korean leader Kim Jong Un recently visited a nuclear-powered submarine manufacturing site and oversaw the test launch of new-type anti-air missiles, state media reported. This highlights North Korea's ongoing focus on modernizing its defence capabilities, particularly in naval power and air defence systems. For SSB aspirants, this signifies persistent regional security challenges and the importance of monitoring such strategic military developments.",
+            "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-nuclear-submarine-test-firing-missiles-5708611",
+            "category": "Defence",
+            "date": "2025-12-24T23:38:50Z"
+        },
+        {
+            "title": "ISRO rocket LVM-3 places 6000-kg US satellite \u2013 its heaviest \u2013 into orbit",
+            "summary": "The LVM3-M6 mission marked the ninth consecutive successful launch for the LVM-3 vehicle, showcasing its 100% reliability. The satellite was precisely positioned into its planned orbit, with a deviation of less than 2-km. This achievement underscores India's advanced capabilities and consistent success in space launch technology and satellite deployment.",
+            "url": "https://indianexpress.com/article/technology/science/isro-rocket-lvm-3-places-6000-kg-us-satellite-its-heaviest-into-orbit-10437836/",
+            "category": "Sci & ",
+            "date": "2025-12-24T23:28:21Z"
+        },
+        {
+            "title": "30 Of The Most Anticipated New & Returning Scripted Shows of 2026",
+            "summary": "The year 2026 is anticipated to be pivotal for television, following the conclusion of major streaming hits like Netflix's 'Stranger Things' and Prime Video's 'The Summer I Turned Pretty' in 2025. This development signals evolving trends in digital entertainment and streaming platform content strategies, impacting how technology delivers popular media to audiences.",
+            "url": "https://deadline.com/lists/most-anticipated-tv-shows-2026/",
+            "category": "Sci & Tech",
+            "date": "2025-12-24T23:17:16Z"
         }
     ]
 }
