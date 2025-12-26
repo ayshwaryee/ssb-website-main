@@ -1,54 +1,12 @@
 {
-    "last_updated": "2025-12-26T01:17:21.458480+00:00",
+    "last_updated": "2025-12-26T06:26:34.944700+00:00",
     "articles": [
         {
-            "title": "North Korea's Kim Jong Un oversees test-firing of long-range missiles, state media reports",
-            "summary": "North Korean leader Kim Jong Un oversaw the test-firing of long-range surface-to-air missiles near its east coast. This latest test signifies North Korea's ongoing military modernization efforts and its defiance of international sanctions. For SSB aspirants, this highlights persistent regional instability, the continued proliferation of advanced weaponry, and the complex challenges to global security and non-proliferation treaties, requiring careful geopolitical analysis.",
-            "url": "https://economictimes.indiatimes.com/news/defence/north-koreas-kim-jong-un-oversees-test-firing-of-long-range-missiles-state-media-reports/articleshow/126169002.cms",
-            "category": "International",
-            "date": "2025-12-25T01:15:08Z"
-        },
-        {
-            "title": "Kim Jong Un Oversees Test of New Anti-Air Missile, KCNA Says",
-            "summary": "North Korean leader Kim Jong Un supervised the testing of a new high-altitude, long-range missile, as reported by state media. This move significantly escalates tensions in the region, coming shortly after a US nuclear submarine arrived. The test highlights North Korea's ongoing military advancements and provocative posture, raising concerns for international security and regional stability amidst heightened geopolitical friction.",
-            "url": "https://financialpost.com/pmn/business-pmn/kim-jong-un-oversees-test-of-new-anti-air-missile-kcna-says",
-            "category": "Defence",
-            "date": "2025-12-25T00:40:15Z"
-        },
-        {
-            "title": "Venture Bros Holiday Song 2025: Dragoon and Red Mantle \"Like Life\"",
-            "summary": "The creators of \"The Venture Bros.\", Jackson Publick and Doc Hammer, have released a 2025 holiday song featuring characters Dragoon and Red Mantle. Titled \"I Like Life,\" this new musical piece offers fans a festive listen from the popular animated series. This news highlights an ongoing engagement with the show's fanbase, providing fresh content for its dedicated audience.",
-            "url": "https://bleedingcool.com/tv/venture-bros-holiday-song-2025-dragoon-and-red-mantle-like-life/",
+            "title": "The Christmas quiz 2025",
+            "summary": "This article introduces a general knowledge quiz or a 'year in review' feature for 2025. It challenges readers to test their awareness of news events and personalities from that year, including a question about a sitting Tory MP. The feature aims to assess how closely individuals followed major happenings, with answers provided at the end.",
+            "url": "https://theweek.com/puzzles/christmas-quiz-current-affairs-general-knowledge",
             "category": "National",
-            "date": "2025-12-25T00:36:03Z"
-        },
-        {
-            "title": "\"Enabling\" C threads in a Python / Wasm environment",
-            "summary": "Having faced challenges with bare metal programming early on, the author strongly believes in the value of multithreading for achieving speedup. They argue that the performance gains from multithreading are worth pursuing, even if the implementation is limited or complex. This perspective highlights a commitment to optimizing execution speed, irrespective of the technical difficulties involved in parallel processing.",
-            "url": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
-            "category": "Sci & Tech",
-            "date": "2025-12-25T00:00:00Z"
-        },
-        {
-            "title": "Kim Jong Un tours nuclear sub plant, slams US-South Korea 'threat': Report",
-            "summary": "North Korean leader Kim Jong Un recently visited a nuclear-powered submarine manufacturing site and oversaw the test launch of new-type anti-air missiles, state media reported. This highlights North Korea's ongoing focus on modernizing its defence capabilities, particularly in naval power and air defence systems. For SSB aspirants, this signifies persistent regional security challenges and the importance of monitoring such strategic military developments.",
-            "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-nuclear-submarine-test-firing-missiles-5708611",
-            "category": "Defence",
-            "date": "2025-12-24T23:38:50Z"
-        },
-        {
-            "title": "ISRO rocket LVM-3 places 6000-kg US satellite \u2013 its heaviest \u2013 into orbit",
-            "summary": "The LVM3-M6 mission marked the ninth consecutive successful launch for the LVM-3 vehicle, showcasing its 100% reliability. The satellite was precisely positioned into its planned orbit, with a deviation of less than 2-km. This achievement underscores India's advanced capabilities and consistent success in space launch technology and satellite deployment.",
-            "url": "https://indianexpress.com/article/technology/science/isro-rocket-lvm-3-places-6000-kg-us-satellite-its-heaviest-into-orbit-10437836/",
-            "category": "Sci & ",
-            "date": "2025-12-24T23:28:21Z"
-        },
-        {
-            "title": "30 Of The Most Anticipated New & Returning Scripted Shows of 2026",
-            "summary": "The year 2026 is anticipated to be pivotal for television, following the conclusion of major streaming hits like Netflix's 'Stranger Things' and Prime Video's 'The Summer I Turned Pretty' in 2025. This development signals evolving trends in digital entertainment and streaming platform content strategies, impacting how technology delivers popular media to audiences.",
-            "url": "https://deadline.com/lists/most-anticipated-tv-shows-2026/",
-            "category": "Sci & Tech",
-            "date": "2025-12-24T23:17:16Z"
+            "date": "2025-12-25T06:00:00Z"
         }
     ]
 }
