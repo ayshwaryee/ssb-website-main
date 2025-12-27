@@ -1,54 +1,54 @@
 {
-    "last_updated": "2025-12-27T12:31:11.110245+00:00",
+    "last_updated": "2025-12-27T18:22:37.048984+00:00",
     "articles": [
         {
-            "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
-            "summary": "Thailand's air force launched strikes on a disputed border area with Cambodia on Friday. This military action occurred even as officials from both nations continued talks aimed at de-escalating the conflict. The Thai Air Force confirmed targeting Cambodian positions, highlighting ongoing tensions and a complex situation involving both military engagement and diplomatic efforts to resolve the long-standing border dispute.",
-            "url": "https://www.bbc.com/news/articles/c4gk15x85jlo",
-            "category": "International",
-            "date": "2025-12-26T12:18:26Z"
-        },
-        {
-            "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
-            "summary": "Ongoing fighting has escalated along a 500-mile border, impacting nearly every province. Cambodia's defence ministry confirmed recent attacks in its north-western Banteay Meanchey province. This regional conflict underscores persistent geopolitical tensions and the crucial role of defence forces in border security. SSB aspirants must stay informed on such international flashpoints.",
-            "url": "https://www.bbc.co.uk/news/articles/c4gk15x85jlo",
-            "category": "International",
-            "date": "2025-12-26T12:18:26Z"
-        },
-        {
-            "title": "Acsia Technologies named among CII\u2019s Top 50 Innovative Companies for 2025",
-            "summary": "Acsia Technologies, a global automotive software provider known for Digital Cockpits, e-Mobility, and Telematics, has been recognized among India's Top 50 Innovative Companies. This achievement underscores their significant contributions to advanced automotive technology solutions. Their innovative work strengthens India's position in the global tech landscape, highlighting their expertise in developing cutting-edge software for the automotive sector, crucial for future industry advancements and national technological prowess.",
-            "url": "https://www.thehindubusinessline.com/info-tech/acsia-technologies-named-among-ciis-top-50-innovative-companies-for-2025/article70439671.ece",
+            "title": "Show HN: A small embeddable and hackable Lisp-2 interpreter in C",
+            "summary": "This news introduces an embeddable and hackable Lisp-2 interpreter, accessible online via a WebAssembly build. Designed with features akin to Common Lisp or Emacs Lisp, it supports lexical scoping. Such developments in programming language tools are crucial for software innovation and understanding fundamental computing principles, offering insights into modern technological advancements relevant to various fields, including defence applications requiring custom software solutions.",
+            "url": "https://github.com/mistivia/bamboo-lisp",
             "category": "Sci & Tech",
-            "date": "2025-12-26T12:00:35Z"
+            "date": "2025-12-26T18:22:27Z"
         },
         {
-            "title": "Links 12/26/2025",
-            "summary": "This article explores two distinct health topics: an anatomist's explanation for our physiological capacity for dessert, and the potential health risks associated with marathon training. It suggests that chronic, intense cardiovascular stress from endurance activities might shorten lifespan, arguing the human heart is not designed for continuous extreme punishment. This prompts critical reflection on lifestyle choices and long-term well-being.",
-            "url": "https://www.nakedcapitalism.com/2025/12/links-12-26-2025.html",
+            "title": "India\u2019s Regulatory Revolution: How 2025 Made Ease of Doing Business a Habit!",
+            "summary": "In the early 2010s, India's business environment was highly challenging, exemplified by its abysmal 184th ranking (out of 190 countries) for construction permits. This highlights past regulatory complexities and inefficiencies. The article likely explores these hurdles and the efforts, or ongoing challenges, in enhancing India's ease of doing business, crucial for national economic growth and investment.",
+            "url": "https://statetimes.in/indias-regulatory-revolution-how-2025-made-ease-of-doing-business-a-habit/",
+            "category": "National",
+            "date": "2025-12-26T18:17:23Z"
+        },
+        {
+            "title": "FOX Super 6 Contest: Chris 'The Bear' Fallica's NFL Saturday Picks, Predictions",
+            "summary": "FOX Super 6 offers a free-to-play game for football enthusiasts to engage with NFL matchups on Saturday. Participants can predict outcomes and win money, adding an interactive dimension to watching their favourite sport. This initiative combines entertainment with the thrill of potential financial gain, aiming to enhance the viewer experience during major sporting events.",
+            "url": "https://www.foxsports.com/stories/nfl/fox-super-6-contest-chris-the-bear-fallicas-nfl-saturday-picks-predictions",
+            "category": "National",
+            "date": "2025-12-26T17:48:35Z"
+        },
+        {
+            "title": "My Steam Replay for 2025",
+            "summary": "The annual 'Steam Replay' post sparks discussions on user gaming habits and platform loyalty. The author notes a common sentiment among gamers who don't exclusively purchase titles on the Steam platform, reflecting broader trends in digital game distribution and player engagement across various gaming ecosystems. This highlights the evolving landscape of digital game acquisition.",
+            "url": "https://tagn.wordpress.com/2025/12/26/my-steam-replay-for-2025/",
             "category": "Sci & Tech",
-            "date": "2025-12-26T11:55:36Z"
+            "date": "2025-12-26T16:15:55Z"
         },
         {
-            "title": "President Murmu set for submarine sea sortie on Dec 28",
-            "summary": "President Droupadi Murmu will undertake a historic submarine sortie from Karwar Harbour, Karnataka, on December 28. This significant event is a key highlight of her four-day visit spanning Goa, Karnataka, and Jharkhand. Her participation emphasizes the President's active engagement with India's defence forces and maritime capabilities, showcasing national leadership's commitment to naval strength and readiness for future SSB aspirants.",
-            "url": "https://economictimes.indiatimes.com/news/india/president-murmu-set-for-submarine-sea-sortie-on-dec-28/articleshow/126189835.cms",
-            "category": "Defence",
-            "date": "2025-12-26T11:51:07Z"
+            "title": "Emerge's 2025 Project of the Year: The Deep-Sea Machine That Caught an Ultra High-Energy Ghost",
+            "summary": "The KM3NeT project is advancing astronomy through innovative deep-sea engineering and multi-messenger physics. Even with construction ongoing, it's already redefining the field by capturing significant events, like a 220-PeV signal. This pioneering project demonstrates the power of combining advanced technology with fundamental physics research to explore the universe's mysteries.",
+            "url": "https://decrypt.co/351467/emerge-2025-project-year-km3net",
+            "category": "Sci & Tech",
+            "date": "2025-12-26T16:01:02Z"
         },
         {
-            "title": "North Korea Releases Photos of Submarine Equipped with Nuclear Engine for Extended Underwater Travel",
-            "summary": "North Korea's state media published photographs revealing a new submarine, reportedly equipped with a nuclear engine. This signifies a major advancement in Pyongyang's military capabilities, potentially enhancing its naval power and strategic deterrence. Such a submarine could enable stealthier, longer-duration deployments, posing new challenges to regional security and international non-proliferation efforts, warranting close observation by global powers.",
-            "url": "https://www.ibtimes.com/north-korea-releases-photos-submarine-equipped-nuclear-engine-extended-underwater-travel-3793724",
-            "category": "Defence",
-            "date": "2025-12-26T11:24:54Z"
+            "title": "8 movies about our current relationship with AI",
+            "summary": "Science fiction and real-world technologies are intricately linked, with sci-fi acting as a vital sandbox for exploring human fears, hopes, and societal blind spots. It allows for the conceptual testing of innovative ideas and future scenarios before they become tangible realities. This relationship underscores sci-fi's significant role in influencing technological development and helping us envision and prepare for the future.",
+            "url": "https://www.techradar.com/ai-platforms-assistants/8-movies-about-our-current-relationship-with-ai",
+            "category": "Sci & Tech",
+            "date": "2025-12-26T15:30:00Z"
         },
         {
-            "title": "Thai defence minister to attend truce talks with Cambodia, PM says",
-            "summary": "Thailand's Defence Minister will join talks with Cambodia on Saturday to secure a truce following persistent border clashes between the two Southeast Asian nations. The Thai Premier emphasized diplomatic efforts to de-escalate tensions and foster regional stability. This significant engagement aims to resolve the longstanding conflict peacefully, showcasing a commitment to regional security.",
-            "url": "https://www.channelnewsasia.com/asia/thailand-cambodia-truce-talks-ceasefire-defence-minister-5723666",
-            "category": "International",
-            "date": "2025-12-26T11:10:00Z"
+            "title": "Texans Stats: Houston Texans vs Los Angeles Chargers",
+            "summary": "Houston Texans offensive coordinator Nick Caley drew criticism last weekend for his play-calling against the Las Vegas Raiders. Observers suggested his strategies seemed to inadvertently help the opposition, sparking debate about coaching decisions and team performance. This incident highlights accountability challenges in professional sports, prompting discussions among fans and analysts regarding tactical choices.",
+            "url": "https://www.battleredblog.com/houston-texans-analysis/73383/texans-stats-houston-texans-vs-los-angeles-chargers",
+            "category": "National",
+            "date": "2025-12-26T15:17:10Z"
         }
     ]
 }
