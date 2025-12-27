@@ -1,26 +1,54 @@
 {
-    "last_updated": "2025-12-27T06:24:43.138641+00:00",
+    "last_updated": "2025-12-27T12:31:11.110245+00:00",
     "articles": [
         {
-            "title": "Defence Ministry may clear major indigenous defence projects today including integrated air defence weapon system",
-            "summary": "The Defence Acquisition Council (DAC), the Defence Ministry's top procurement body, is set to meet today to approve significant indigenous projects for the Indian defence forces. This move aims to bolster India's self-reliance in defence manufacturing, clearing major homegrown equipment, including an integrated air defence system. Such initiatives are crucial for modernizing our armed forces and strengthening national security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/defence-ministry-may-clear-major-indigenous-defence-projects-today-including-integrated-air-defence-weapon-system/articleshow/126184335.cms",
-            "category": "Defence",
-            "date": "2025-12-26T06:09:45Z"
-        },
-        {
-            "title": "IRCTC ticket fare hike 2025 from today: List of trains, distance slabs and classes with revised ticket prices",
-            "summary": "Indian Railways has revised passenger fares, aiming to balance affordability for travellers with the long-term sustainability of railway operations. This strategic move is crucial for bolstering the national transporter's financial health, enabling modernization and infrastructure development. Such initiatives are vital for enhancing national connectivity, supporting economic growth, and maintaining efficient public transport systems, impacting India's logistical capabilities and overall internal security.",
-            "url": "https://economictimes.indiatimes.com/wealth/save/irctc-ticket-fare-hike-2025-from-today-list-of-trains-distance-slabs-and-classes-with-revised-ticket-prices/articleshow/126184053.cms",
-            "category": "National",
-            "date": "2025-12-26T06:02:14Z"
-        },
-        {
-            "title": "Can the Gaza ceasefire hold? Trump\u2019s peace plan enters its most perilous stage",
-            "summary": "US President Donald Trump hopes to announce an early next-year commencement for the second phase of the Gaza ceasefire agreement between Israel and Hamas. Despite acknowledging significant obstacles and unresolved questions, the administration aims for progress in stabilizing the region. This move is crucial for fostering peace and security in the Middle East, requiring sustained diplomatic efforts.",
-            "url": "https://www.irishtimes.com/world/middle-east/2025/12/26/can-the-gaze-ceasefire-hold-trumps-peace-plan-enters-its-most-perilous-stage/",
+            "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
+            "summary": "Thailand's air force launched strikes on a disputed border area with Cambodia on Friday. This military action occurred even as officials from both nations continued talks aimed at de-escalating the conflict. The Thai Air Force confirmed targeting Cambodian positions, highlighting ongoing tensions and a complex situation involving both military engagement and diplomatic efforts to resolve the long-standing border dispute.",
+            "url": "https://www.bbc.com/news/articles/c4gk15x85jlo",
             "category": "International",
-            "date": "2025-12-26T06:00:00Z"
+            "date": "2025-12-26T12:18:26Z"
+        },
+        {
+            "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
+            "summary": "Ongoing fighting has escalated along a 500-mile border, impacting nearly every province. Cambodia's defence ministry confirmed recent attacks in its north-western Banteay Meanchey province. This regional conflict underscores persistent geopolitical tensions and the crucial role of defence forces in border security. SSB aspirants must stay informed on such international flashpoints.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gk15x85jlo",
+            "category": "International",
+            "date": "2025-12-26T12:18:26Z"
+        },
+        {
+            "title": "Acsia Technologies named among CII\u2019s Top 50 Innovative Companies for 2025",
+            "summary": "Acsia Technologies, a global automotive software provider known for Digital Cockpits, e-Mobility, and Telematics, has been recognized among India's Top 50 Innovative Companies. This achievement underscores their significant contributions to advanced automotive technology solutions. Their innovative work strengthens India's position in the global tech landscape, highlighting their expertise in developing cutting-edge software for the automotive sector, crucial for future industry advancements and national technological prowess.",
+            "url": "https://www.thehindubusinessline.com/info-tech/acsia-technologies-named-among-ciis-top-50-innovative-companies-for-2025/article70439671.ece",
+            "category": "Sci & Tech",
+            "date": "2025-12-26T12:00:35Z"
+        },
+        {
+            "title": "Links 12/26/2025",
+            "summary": "This article explores two distinct health topics: an anatomist's explanation for our physiological capacity for dessert, and the potential health risks associated with marathon training. It suggests that chronic, intense cardiovascular stress from endurance activities might shorten lifespan, arguing the human heart is not designed for continuous extreme punishment. This prompts critical reflection on lifestyle choices and long-term well-being.",
+            "url": "https://www.nakedcapitalism.com/2025/12/links-12-26-2025.html",
+            "category": "Sci & Tech",
+            "date": "2025-12-26T11:55:36Z"
+        },
+        {
+            "title": "President Murmu set for submarine sea sortie on Dec 28",
+            "summary": "President Droupadi Murmu will undertake a historic submarine sortie from Karwar Harbour, Karnataka, on December 28. This significant event is a key highlight of her four-day visit spanning Goa, Karnataka, and Jharkhand. Her participation emphasizes the President's active engagement with India's defence forces and maritime capabilities, showcasing national leadership's commitment to naval strength and readiness for future SSB aspirants.",
+            "url": "https://economictimes.indiatimes.com/news/india/president-murmu-set-for-submarine-sea-sortie-on-dec-28/articleshow/126189835.cms",
+            "category": "Defence",
+            "date": "2025-12-26T11:51:07Z"
+        },
+        {
+            "title": "North Korea Releases Photos of Submarine Equipped with Nuclear Engine for Extended Underwater Travel",
+            "summary": "North Korea's state media published photographs revealing a new submarine, reportedly equipped with a nuclear engine. This signifies a major advancement in Pyongyang's military capabilities, potentially enhancing its naval power and strategic deterrence. Such a submarine could enable stealthier, longer-duration deployments, posing new challenges to regional security and international non-proliferation efforts, warranting close observation by global powers.",
+            "url": "https://www.ibtimes.com/north-korea-releases-photos-submarine-equipped-nuclear-engine-extended-underwater-travel-3793724",
+            "category": "Defence",
+            "date": "2025-12-26T11:24:54Z"
+        },
+        {
+            "title": "Thai defence minister to attend truce talks with Cambodia, PM says",
+            "summary": "Thailand's Defence Minister will join talks with Cambodia on Saturday to secure a truce following persistent border clashes between the two Southeast Asian nations. The Thai Premier emphasized diplomatic efforts to de-escalate tensions and foster regional stability. This significant engagement aims to resolve the longstanding conflict peacefully, showcasing a commitment to regional security.",
+            "url": "https://www.channelnewsasia.com/asia/thailand-cambodia-truce-talks-ceasefire-defence-minister-5723666",
+            "category": "International",
+            "date": "2025-12-26T11:10:00Z"
         }
     ]
 }
