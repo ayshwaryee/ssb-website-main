@@ -1,19 +1,54 @@
 {
-    "last_updated": "2025-12-28T06:25:14.317581+00:00",
+    "last_updated": "2025-12-28T12:32:02.397325+00:00",
     "articles": [
         {
-            "title": "Thailand and Cambodia sign truce to halt fierce border conflict",
-            "summary": "Thailand and Cambodia have agreed to halt weeks of intense border clashes, marking the worst fighting between the Southeast Asian nations in years. The agreement, reached on Saturday, aims to de-escalate tensions that have seen significant military engagement. This diplomatic breakthrough is crucial for regional stability and resolving long-standing territorial disputes between the two neighbours.",
-            "url": "https://www.thestar.com.my/news/world/2025/12/27/thailand-and-cambodia-sign-truce-to-halt-fierce-border-conflict",
-            "category": "International",
-            "date": "2025-12-27T06:06:00Z"
+            "title": "Battle Of Galwan teaser out! Salman Khan surprises fans with his fierce look as an Indian Army officer",
+            "summary": "Bollywood superstar Salman Khan has released the teaser for his upcoming war drama, 'Battle of Galwan', coinciding with his 60th birthday. The film is anticipated as a solemn tribute to India's frontline soldiers, likely commemorating their bravery and sacrifices during the Galwan Valley confrontation. This project underscores the significant role of mainstream cinema in honoring military personnel and national defence narratives.",
+            "url": "https://www.wionews.com/entertainment/bollywood/battle-of-galwan-teaser-out-salman-khan-surprises-fans-with-his-fierce-look-as-an-indian-army-officer-1766832311262",
+            "category": "Defence",
+            "date": "2025-12-27T11:32:22Z"
         },
         {
-            "title": "Thailand and Cambodia sign truce to halt fierce border conflict",
-            "summary": "Thailand and Cambodia have agreed to halt weeks of intense border clashes, marking the worst fighting in years between the Southeast Asian countries. The conflict notably involved fighter jet sorties and significant exchanges, underscoring persistent regional security concerns. This agreement aims to de-escalate the volatile situation.",
-            "url": "https://japantoday.com/category/world/thailand-and-cambodia-sign-truce-to-halt-fierce-border-conflict",
+            "title": "Thailand and Cambodia agree ceasefire after weeks of border clashes",
+            "summary": "Thailand and Cambodia have agreed to an immediate ceasefire, ending weeks of deadly border clashes. This conflict led to over 100 fatalities and displaced more than half a million people from both nations. The agreement marks a crucial step towards de-escalating tensions and addressing the humanitarian crisis caused by the prolonged territorial dispute, fostering regional stability.",
+            "url": "https://www.irishtimes.com/world/asia-pacific/2025/12/27/thailand-and-cambodia-agree-ceasefire-after-weeks-of-border-clashes/",
             "category": "International",
-            "date": "2025-12-27T05:01:44Z"
+            "date": "2025-12-27T11:00:46Z"
+        },
+        {
+            "title": "Ukraine Sees the Future of Naval Warfare. Trump Doesn\u2019t.",
+            "summary": "Former US President Donald Trump recently announced a new class of U.S. Navy battleships, which will be named after him. The U.S. Navy claims these upcoming warships will be the \"most lethal surface combatant ever constructed.\" This development highlights a significant advancement in naval warfare technology, aiming to bolster the United States' maritime power projection capabilities.",
+            "url": "https://www.theatlantic.com/ideas/2025/12/trump-navy-drones-ships/685445/",
+            "category": "Defence",
+            "date": "2025-12-27T11:00:00Z"
+        },
+        {
+            "title": "The 12 biggest space stories of 2025 \u2014 according to you",
+            "summary": "The current year has been notably dynamic for space science. The Trump administration, which recently took office, has already initiated significant changes within the academic research sector. This likely points to an exploration of how these governmental shifts are influencing space-related scientific endeavors and broader academic studies, marking a period of considerable upheaval and re-evaluation in the scientific community.",
+            "url": "https://www.space.com/space-exploration/the-12-biggest-space-stories-of-2025-according-to-you",
+            "category": "Sci & Tech",
+            "date": "2025-12-27T11:00:00Z"
+        },
+        {
+            "title": "Thailand, Cambodia sign new ceasefire deal to end weeks of border fighting",
+            "summary": "Thailand and Cambodia have signed a ceasefire agreement, effective Saturday noon, to end weeks of armed combat along their shared border. The conflict arose from long-standing competing territorial claims between the two nations. This diplomatic resolution aims to de-escalate tensions and restore stability in the region, offering an example of international conflict management for aspiring officers.",
+            "url": "https://www.cbc.ca/news/world/thailand-cambodia-border-clashes-ceasefire-agreement-9.7028492",
+            "category": "International",
+            "date": "2025-12-27T10:32:03Z"
+        },
+        {
+            "title": "Reinforcing PH Navy's missile capabilities amid WPS tensions",
+            "summary": "The Philippine Navy is significantly enhancing its maritime capabilities with the planned commissioning of two new Miguel Malvar-class guided-missile frigates this year. These advanced vessels will bolster the PN's defense posture and contribute to national security, particularly in strategic waterways. This development is crucial for understanding regional power dynamics and the continuous modernization efforts of navies globally.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251226-pna01.htm",
+            "category": "Defence",
+            "date": "2025-12-27T10:14:52Z"
+        },
+        {
+            "title": "North Korea accelerates nuclear navy, slams US-South Korea submarine deal an 'offensive act'",
+            "summary": "North Korean leader Kim Jong Un strongly condemned South Korea's joint plan with the US to develop nuclear-powered submarines, terming it an \"offensive act.\" This denunciation signals escalating regional tensions and a potential arms race on the Korean Peninsula. SSB aspirants should monitor such developments, as they underscore geopolitical complexities and strategic implications for stability in Northeast Asia, involving major powers.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2025/dprk-251226-presstv01.htm",
+            "category": "Defence",
+            "date": "2025-12-27T10:09:43Z"
         }
     ]
 }
