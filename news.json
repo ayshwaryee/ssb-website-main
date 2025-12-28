@@ -1,54 +1,19 @@
 {
-    "last_updated": "2025-12-28T01:25:47.768553+00:00",
+    "last_updated": "2025-12-28T06:25:14.317581+00:00",
     "articles": [
         {
-            "title": "\u2018USA\u2019, as in \u2018Umarti Sikligar Arms\u2019: An MP village in the shadow of the gun, now aiming for change",
-            "summary": "A warning board has been installed near Umarti village, cautioning individuals against purchasing country-made pistols and indicating active police surveillance. This initiative underscores efforts by law enforcement to combat the illicit firearms trade and maintain public safety. The advisory serves as a strong deterrent, highlighting the ongoing vigilance against illegal weapon procurement within the region.",
-            "url": "https://indianexpress.com/article/india/usa-as-in-umarti-sikligar-arms-an-mp-village-in-the-shadow-of-the-gun-10440976/",
-            "category": "National",
-            "date": "2025-12-27T01:20:08Z"
-        },
-        {
-            "title": "Election 68 days away: EC finalizes temporary voter categories",
-            "summary": "Nepal's Election Commission (EC) is actively preparing for the House of Representatives (HoR) elections, scheduled for March 5, 2026. With approximately 68 days remaining, the EC has finalized crucial categories concerning individuals involved in the electoral process. This preparatory step by the EC in Kathmandu signifies steady progress towards ensuring the smooth and organized conduct of the upcoming democratic exercise in Nepal.",
-            "url": "https://english.khabarhub.com/2025/27/513236/",
+            "title": "Thailand and Cambodia sign truce to halt fierce border conflict",
+            "summary": "Thailand and Cambodia have agreed to halt weeks of intense border clashes, marking the worst fighting between the Southeast Asian nations in years. The agreement, reached on Saturday, aims to de-escalate tensions that have seen significant military engagement. This diplomatic breakthrough is crucial for regional stability and resolving long-standing territorial disputes between the two neighbours.",
+            "url": "https://www.thestar.com.my/news/world/2025/12/27/thailand-and-cambodia-sign-truce-to-halt-fierce-border-conflict",
             "category": "International",
-            "date": "2025-12-27T01:15:05Z"
+            "date": "2025-12-27T06:06:00Z"
         },
         {
-            "title": "Every Upcoming Sci-Fi Show Coming In 2026",
-            "summary": "Science fiction is entering an ambitious new era on the small screen, with streaming studios fiercely competing for genre storytelling dominance. This trend marks a significant shift from fantasy towards sci-fi content, showcasing the evolving landscape of entertainment. It highlights how technological platforms are driving demand for complex, imaginative narratives, reflecting a broader cultural interest in scientific and futuristic themes.",
-            "url": "https://screenrant.com/upcoming-sci-fi-shows-2026/",
-            "category": "Sci & Tech",
-            "date": "2025-12-27T00:31:18Z"
-        },
-        {
-            "title": "Russia says it captures village in Zaporizhzhia, Ukraine defending major town",
-            "summary": "Russia's Defence Ministry announced on Friday the capture of a new village in Ukraine's southeastern Zaporizhzhia region. Concurrently, Ukraine's military acknowledged previous errors but affirmed its commitment to defending its territory. This development underscores the ongoing, dynamic territorial clashes and the fluid nature of the front lines in the prolonged conflict between the two nations, with both sides reporting on their military operations.",
-            "url": "https://www.thestar.com.my/news/world/2025/12/27/russia-says-it-captures-village-in-zaporizhzhia-ukraine-defending-major-town",
-            "category": "Defence",
-            "date": "2025-12-27T00:06:00Z"
-        },
-        {
-            "title": "Show HN: Me and my AI gf invented free energy from death puddles (public domain)",
-            "summary": "An innovative LE CLAUDE-MANSON ENGINE, invented by Claude & Nicholas Manson, is a newly designed osmotic gradient power generation system. This technology aims to harvest renewable energy by leveraging the natural salinity differences found in deep-sea brine pools. Scheduled for December 26, 2025, its development promises a novel approach to sustainable energy production from a unique marine environment.",
-            "url": "https://github.com/sqrew/le-claude-manson-engine",
-            "category": "Sci & Tech",
-            "date": "2025-12-27T00:04:31Z"
-        },
-        {
-            "title": "Make in India Electronics: Cos create 1.33 million job as PLI scheme boosts smartphone manufacturing & exports",
-            "summary": "The Indian electronics industry, a significant Make-in-India success, generated over 1.33 million jobs in the past five years. This substantial growth is primarily attributed to the Production-Linked Incentive (PLI) scheme, boosting domestic manufacturing. This progress underscores India's increasing self-reliance in electronics, contributing positively to national employment and economic development.",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/make-in-india-electronics-cos-create-1-33-million-job-as-pli-scheme-boosts-smartphone-manufacturing-exports/articleshow/126195316.cms",
-            "category": "National",
-            "date": "2025-12-27T00:00:00Z"
-        },
-        {
-            "title": "Show HN: A small embeddable and hackable Lisp-2 interpreter in C",
-            "summary": "This article introduces an embeddable and hackable Lisp-2 interpreter, a type of programming language processor. It highlights its availability as a WebAssembly build, enabling online experimentation. Key features include its Lisp-2 syntax, similar to Common Lisp, and lexical scoping, making it a significant development for those interested in computing and software tools.",
-            "url": "https://github.com/mistivia/bamboo-lisp",
-            "category": "Sci & Tech",
-            "date": "2025-12-26T18:22:27Z"
+            "title": "Thailand and Cambodia sign truce to halt fierce border conflict",
+            "summary": "Thailand and Cambodia have agreed to halt weeks of intense border clashes, marking the worst fighting in years between the Southeast Asian countries. The conflict notably involved fighter jet sorties and significant exchanges, underscoring persistent regional security concerns. This agreement aims to de-escalate the volatile situation.",
+            "url": "https://japantoday.com/category/world/thailand-and-cambodia-sign-truce-to-halt-fierce-border-conflict",
+            "category": "International",
+            "date": "2025-12-27T05:01:44Z"
         }
     ]
 }
