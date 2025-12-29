@@ -1,26 +1,54 @@
 {
-    "last_updated": "2025-12-29T06:28:37.847253+00:00",
+    "last_updated": "2025-12-29T12:36:36.279268+00:00",
     "articles": [
         {
-            "title": "Adani plans to spend \u20b91.8 lakh crore on defence to boost indigenous military capabilities",
-            "summary": "Adani Group plans a substantial \u20b91.8 lakh crore investment next year in defence manufacturing, with a strategic focus on unmanned and autonomous systems alongside advanced guided weapons. This move is crucial for bolstering India's indigenous defence capabilities, enhancing self-reliance, and modernizing the armed forces. Such investments are vital for national security and technological advancement, benefiting SSB aspirants by strengthening the nation's defence sector.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/adani-plans-18-lakh-crore-defence-spend-to-boost-indigenous-military-capabilities/article70445662.ece",
-            "category": "Defence",
-            "date": "2025-12-28T05:53:32Z"
-        },
-        {
-            "title": "At least 1 killed as Russia strikes Ukraine\u2019s capital ahead of Zelenskyy-Trump meeting",
-            "summary": "Russia conducted significant missile and drone strikes on Kyiv on Saturday, killing one person and injuring at least 27, according to Ukrainian officials. The early morning attacks targeted the capital, underscoring the persistent intensity of the conflict. This event highlights the ongoing humanitarian impact and security challenges in the region, crucial for understanding current global geopolitical dynamics.",
-            "url": "https://indianexpress.com/article/world/russia-strikes-ukraines-capital-and-kills-at-least-1-person-a-day-before-zelenskyy-trump-meeting-10442577/",
-            "category": "International",
-            "date": "2025-12-28T02:14:38Z"
-        },
-        {
-            "title": "Four boys left home to play soccer. Why they never returned has divided Ecuador",
-            "summary": "Ecuadorian brothers Ismael (15) and Josu\u00e9 (14) Arroyo embody a common dream among boys their age: aspiring to become great soccer players. Deeply inspired by global football icons, Ismael dreams of emulating Neymar, while Josu\u00e9 looks up to Kylian Mbapp\u00e9. Their ambition reflects a widespread passion for the sport, driving their pursuit of a professional career.",
-            "url": "https://www.abc.net.au/news/2025-12-28/guayaquil-four-sentence-lays-bare-racism-and-security-in-ecuador/106173084",
+            "title": "BIS releases national testing standard for electric agricultural tractors",
+            "summary": "India has released national test standards for electric agricultural tractors, developed by the Bureau of Indian Standards (BIS) for the first time. This ensures the safety, reliability, and performance of such machinery. The initiative aims to boost electric vehicle adoption in agriculture, providing farmers with dependable technology and promoting quality manufacturing, crucial for sustainable development and national progress.",
+            "url": "https://www.thehindubusinessline.com/economy/agri-business/bis-releases-national-testing-standard-for-electric-agricultural-tractors/article70446083.ece",
             "category": "National",
-            "date": "2025-12-28T01:35:38Z"
+            "date": "2025-12-28T12:17:31Z"
+        },
+        {
+            "title": "Mumbai\u2019s vertical boom runs ahead of infrastructure",
+            "summary": "Mumbai's skyline is rapidly expanding with numerous high-rise constructions. However, critics argue this development lacks adequate urban planning and essential regulatory checks. This unchecked growth is reportedly undermining the city's overall coherence, functionality, and basic liveability for its residents. The concerns focus on sustainable urbanisation practices amidst rapid vertical expansion in India's financial capital.",
+            "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/mumbai-skyline-high-rise-development-urban-planning/articleshow/126215259.cms",
+            "category": "National",
+            "date": "2025-12-28T12:09:27Z"
+        },
+        {
+            "title": "Today News Headlines for School Assembly, Dec 29, 2025: India Vs Sri Lanka Women 4th T20I, Ukraine peace plan & more",
+            "summary": "The December 29, 2025 news headlines for school assemblies mentioned national developments, notably featuring President Droupadi Murmu's involvement with a submarine. This likely signifies a significant event for the Indian Navy, such as the commissioning of a new vessel or a high-level inspection. For SSB aspirants, this highlights advancements in India's maritime defence capabilities and the President's role in national security.",
+            "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-dec-29-2025-india-vs-sri-lanka-women-4th-t20i-ukraine-peace-plan-more-10443461/",
+            "category": "Defence",
+            "date": "2025-12-28T12:06:02Z"
+        },
+        {
+            "title": "DC Super Hero Girls High School Reunion by Shea Fontana & Yancey Labat",
+            "summary": "This news snippet announces \"DC Super Hero Girls: High School Reunion,\" a graphic novel by Shea Fontana and Yancey Labat. Part of the DC Comics universe, it features popular characters like Batman, Superman, and the Justice League through the DC Super Hero Girls franchise. The article likely details the plot or release information for this upcoming comic book, catering to fans of the popular superhero series.",
+            "url": "https://bleedingcool.com/comics/dc-super-hero-girls-high-school-reunion-by-shea-fontana-yancey-labat/",
+            "category": "International",
+            "date": "2025-12-28T11:57:05Z"
+        },
+        {
+            "title": "Fantasy Basketball Week 11 Schedule Primer: Giannis Antetokounmpo is back!",
+            "summary": "Fantasy sports managers can look forward to a favorable five-game slate for New Year's Day. Following Christmas, good news confirms no games will begin early. This provides ample time for team management and holiday celebrations, ensuring a relaxed start to the New Year. Participants can enjoy festivities without scheduling conflicts or rushing preparations.",
+            "url": "https://sports.yahoo.com/articles/fantasy-basketball-week-11-schedule-110000490.html",
+            "category": "National",
+            "date": "2025-12-28T11:00:00Z"
+        },
+        {
+            "title": "2025 in review: Navy",
+            "summary": "A new battleship design has been announced, set to significantly enhance naval power. These formidable vessels will displace approximately 35,000 tons, making them three times larger than current Arleigh Burke-class destroyers. This development highlights a major advancement in naval architecture and defence capabilities, indicating a strategic shift towards larger, more powerful maritime assets.",
+            "url": "https://www.defenseone.com/policy/2025/12/2025-review-navy/410390/",
+            "category": "Defence",
+            "date": "2025-12-28T11:00:00Z"
+        },
+        {
+            "title": "ISRO aims to commission third launch pad at Shriharikota in 4 years: Scientist",
+            "summary": "ISRO is developing a third launch pad at its Shriharikota spaceport. A top scientist confirmed that the Indian space agency is currently in the process of identifying suitable vendors for its construction. This expansion aims to enhance India's space launch capabilities and frequency, supporting future missions like Gaganyaan and increased commercial launches from the strategic facility.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-aims-to-commission-third-launch-pad-at-shriharikota-in-4-years-scientist/articleshow/126213323.cms",
+            "category": "Sci & Tech",
+            "date": "2025-12-28T07:14:33Z"
         }
     ]
 }
