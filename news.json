@@ -1,19 +1,54 @@
 {
-    "last_updated": "2025-12-30T06:27:02.373185+00:00",
+    "last_updated": "2025-12-30T12:35:08.842192+00:00",
     "articles": [
         {
-            "title": "Your most-read stories of 2025",
-            "summary": "BBC Scotland News has compiled its top 20 most-read stories of 2025, ranked by page views. The list is headlined by a UK Supreme Court ruling, indicating significant public interest in judicial decisions and national legal affairs within Scotland and the wider UK. This retrospective offers insight into the key events and topics that most captivated Scottish audiences throughout the year.",
-            "url": "https://www.bbc.com/news/articles/cvg17e1jmq5o",
+            "title": "India's 'golden boy' Neeraj Chopra's stellar 2025: From touching 90 m mark to heartbreaking 26-event streak end",
+            "summary": "India's ace javelin thrower Neeraj Chopra, an Olympic medalist and former world champion, concluded his extraordinary 26-event streak of top-two podium finishes. This marks a significant moment for the national sporting icon, ending a remarkable period of consistent excellence in his illustrious career. His unprecedented run showcased unparalleled dedication and performance at the highest level, inspiring aspirants nationwide to strive for similar consistency.",
+            "url": "https://economictimes.indiatimes.com/news/sports/indias-golden-boy-neeraj-chopras-stellar-2025-from-touching-90-m-mark-to-heartbreaking-26-event-streak-end/articleshow/126232340.cms",
             "category": "National",
-            "date": "2025-12-29T06:05:49Z"
+            "date": "2025-12-29T12:23:25Z"
         },
         {
-            "title": "From data center spas to servers in space: How the energy crunch is reshaping cloud computing",
-            "summary": "Lenovo, in partnership with AKT II and Mamou-Mani, is conceptualizing the data centers of the future, envisioning a unique 'data center spa.' This innovative approach is driven by the breakneck speed of artificial intelligence advancements, which necessitates a fundamental rethinking of power management and infrastructure for next-generation computing. The collaboration aims to redefine how data centers function and integrate.",
-            "url": "https://www.cnbc.com/2025/12/29/future-of-the-cloud-from-spas-to-orbital-space-data-centers.html",
+            "title": "BoG exempts informal cross-border traders from LOC requirement",
+            "summary": "The Bank of Ghana has exempted informal cross-border traders from needing a Letter of Commitment (LOC). This aims to ease regulatory burdens for small-scale merchants, simplifying trade processes and potentially fostering economic activity within the informal sector. The central bank issued new guidelines to govern this exemption, impacting national trade and financial inclusion for numerous local traders.",
+            "url": "https://www.ghanaweb.com/GhanaHomePage/business/BoG-exempts-informal-cross-border-traders-from-LOC-requirement-2015618",
+            "category": "National",
+            "date": "2025-12-29T12:22:32Z"
+        },
+        {
+            "title": "From camouflage software to tank decoys, DRDO boosts Army\u2019s concealment playbook following Op Sindoor",
+            "summary": "India is significantly strengthening battlefield concealment strategies, recognizing deception's critical role in modern warfare. This proactive measure follows recent hostilities with Pakistan, which underscored the escalating threat from advanced missiles. By enhancing its ability to hide assets and personnel, India aims to improve survivability and operational effectiveness, ensuring forces remain less detectable and more resilient against modern adversaries.",
+            "url": "https://economictimes.indiatimes.com/news/defence/from-camouflage-software-to-tank-decoys-drdo-boosts-armys-concealment-playbook-following-op-sindoor/articleshow/126231940.cms",
+            "category": "Defence",
+            "date": "2025-12-29T12:18:36Z"
+        },
+        {
+            "title": "Top Trump official melts down with vulgar attack on MAGA influencers",
+            "summary": "Harmeet Dhillon, an Assistant Attorney General for Civil Rights at the U.S. Justice Department, reportedly launched a vulgar tirade. She targeted MAGA influencers who had criticized the Trump administration. This incident reveals internal tensions and disagreements within segments of the Republican sphere regarding support for the former president, drawing attention to conduct within political circles and the Justice Department.",
+            "url": "https://www.rawstory.com/harmeet-dhillon-2674834219/",
+            "category": "National",
+            "date": "2025-12-29T12:14:16Z"
+        },
+        {
+            "title": "Inside world's ultimate X-ray machine before it becomes more powerful",
+            "summary": "SLAC National Accelerator Laboratory is developing its LCLS-II X-ray laser, a complex system featuring an electron beam traveling through a niobium cavity. This critical component helps generate powerful X-ray pulses, essential for cutting-edge scientific research in diverse fields. The Klystron Gallery houses key infrastructure supporting this advanced technological endeavor.",
+            "url": "https://www.newscientist.com/article/2508932-inside-worlds-ultimate-x-ray-machine-before-it-becomes-more-powerful/",
             "category": "Sci & Tech",
-            "date": "2025-12-29T06:00:01Z"
+            "date": "2025-12-29T12:00:42Z"
+        },
+        {
+            "title": "Raiders NFL Draft order 2026: Where Las Vegas stands after Week 17 vs. NY Giants",
+            "summary": "The Las Vegas Raiders strategically lost their Week 17 NFL game against the New York Giants, a calculated move dubbed the \"Tank Bowl.\" This defeat secured them the coveted No. 1 overall pick for the 2026 NFL draft. This illustrates the long-term strategic planning in professional sports, where teams prioritize future talent acquisition and team rebuilding over immediate game results, showcasing competitive foresight.",
+            "url": "https://www.silverandblackpride.com/las-vegas-raiders-draft/118250/nfl-draft-order-2026-first-round-pick-updated-week-17",
+            "category": "National",
+            "date": "2025-12-29T12:00:00Z"
+        },
+        {
+            "title": "\"Will help in enhancing operational capabilities\": Rajnath Singh after DAC approves proposals worth Rs 79,000 crore",
+            "summary": "The Defence Acquisition Council (DAC) recently granted Acceptance of Necessity (AoN) for diverse proposals from the Armed Forces. Defence Minister Rajnath Singh subsequently underscored the Ministry's commitment to these initiatives. This crucial approval initiates the procurement process, essential for modernizing India's military capabilities and bolstering national defence, reflecting strategic intent in defence preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/will-help-in-enhancing-operational-capabilities-rajnath-singh-after-dac-approves-proposals-worth-rs-79000-crore/articleshow/126231694.cms",
+            "category": "Defence",
+            "date": "2025-12-29T11:43:30Z"
         }
     ]
 }
