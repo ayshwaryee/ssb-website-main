@@ -1,47 +1,12 @@
 {
-    "last_updated": "2026-01-03T01:14:38.751392+00:00",
+    "last_updated": "2026-01-03T06:25:14.840797+00:00",
     "articles": [
         {
-            "title": "wolof-nlp added to PyPI",
-            "summary": "Wolof, spoken by over 18 million across Senegal, Gambia, and Mauritania, is significantly underserved by mainstream Natural Language Processing (NLP) libraries like spaCy and NLTK. This lack of support presents a major hurdle for technological development and digital inclusion for its speakers. It highlights the critical need for more inclusive language representation in artificial intelligence and tech tools.",
-            "url": "https://pypi.org/project/wolof-nlp/",
-            "category": "Sci & Tech",
-            "date": "2026-01-02T00:15:22Z"
-        },
-        {
-            "title": "10 Best Comedy Movies To Stream At Home Right Now",
-            "summary": "Streaming platforms now offer a vast array of comedy films, making entertainment easily accessible with just a few clicks. Comedy has historically remained one of cinema's most consistent and enduring genres. This highlights the ongoing popularity of humorous content and the technological advancements in its digital delivery to audiences worldwide.",
-            "url": "https://screenrant.com/best-comedy-movies-stream/",
-            "category": "Sci & Tech",
-            "date": "2026-01-01T23:46:19Z"
-        },
-        {
-            "title": "After missing multiple deadlines, Gaganyaan\u2019s first uncrewed mission likely to lift-off by March",
-            "summary": "The country's human spaceflight program, likely India's Gaganyaan mission, faces further delays. The first of three crucial uncrewed test missions has yet to launch, despite revised deadlines continually being missed. This ongoing slippage in the timeline for preparatory flights raises concerns about the ambitious schedule for sending Indian astronauts into space, highlighting challenges in project execution and technological readiness.",
-            "url": "https://indianexpress.com/article/india/after-missing-multiple-deadlines-gaganyaans-first-uncrewed-mission-likely-to-lift-off-by-march-10450643/",
-            "category": "Sci & Tech",
-            "date": "2026-01-01T22:45:58Z"
-        },
-        {
-            "title": "7 Most Powerful DC/Marvel Amalgam Heroes",
-            "summary": "Amalgam Comics orchestrated an iconic crossover, merging the DC and Marvel Universes into a novel world with combined heroes and villains. This ambitious event in comic book history redefined character origins and narratives, showcasing a unique collaborative effort between two major fictional powerhouses, offering fans an imaginative blend of beloved characters.",
-            "url": "http://comicbook.com/comics/list/7-most-powerful-dc-marvel-amalgam-heroes/",
-            "category": "Sci & Tech",
-            "date": "2026-01-01T22:00:00Z"
-        },
-        {
-            "title": "Xi Jinping Vows 'Unstoppable' Reunification with Taiwan as Tensions Surge",
-            "summary": "Chinese President Xi Jinping declared the reunification of self-governing Taiwan \"unstoppable\" in a New Year proclamation, intensifying anxieties across the Taiwan Strait. This statement reiterates Beijing's firm resolve over Taiwan's future, posing significant geopolitical implications and raising international concerns about regional stability and potential conflict, highlighting ongoing cross-strait tensions.",
-            "url": "https://www.ibtimes.com/xi-jinping-vows-unstoppable-reunification-taiwan-tensions-surge-3794160",
+            "title": "South Korean President Lee to visit Beijing for pivotal 2nd summit with Xi",
+            "summary": "Chinese President Xi Jinping has extended an invitation to South Korean President Lee Jae Myung for a state visit to Beijing. This diplomatic initiative signals China's clear intent to strengthen bilateral relations with South Korea. The invitation comes at a time of significant regional turbulence, suggesting a strategic move by China to reinforce crucial partnerships amidst a complex geopolitical environment and foster greater stability.",
+            "url": "https://www.aljazeera.com/news/2026/1/2/south-korean-president-lee-to-visit-beijing-for-pivotal-2nd-summit-with-xi",
             "category": "International",
-            "date": "2026-01-01T20:58:24Z"
-        },
-        {
-            "title": "Mohol slams NCP for supporting gangsters\u2019 kin in PMC poll, but justifies BJP\u2019s fielding criminal\u2019s spouse",
-            "summary": "A BJP leader, Mohol, criticized the NCP for backing relatives of alleged gangsters in the PMC elections. Yet, he controversially justified the BJP's own practice of fielding spouses of individuals with criminal records. This exposed a political double standard regarding candidate selection and alleged criminal ties in local body polls, sparking debate over ethical practices within parties.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/mohol-slams-ncp-for-supporting-gangsters-kin-in-pmc-poll-but-justifies-bjps-fielding-criminals-spouse/articleshow/126292721.cms",
-            "category": "National",
-            "date": "2026-01-01T20:45:00Z"
+            "date": "2026-01-02T06:08:14Z"
         }
     ]
 }
