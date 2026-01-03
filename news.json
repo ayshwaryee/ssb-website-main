@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-01-02T18:24:22.089802+00:00",
+    "last_updated": "2026-01-03T01:14:38.751392+00:00",
     "articles": [
         {
-            "title": "ICE deports single dad of 6 American children after 34 years in the US",
-            "summary": "US Immigration and Customs Enforcement (ICE) has deported a single father who had resided in the United States for 34 years. This individual is the parent of six American-born children. The deportation highlights critical issues surrounding immigration enforcement, family separation, and the long-term implications for individuals who have established deep roots within the nation.",
-            "url": "https://freerepublic.com/focus/f-news/4359897/posts",
-            "category": "National",
-            "date": "2026-01-01T18:20:39Z"
-        },
-        {
-            "title": "Ancient African bedrock reveals the violent beginnings of life on our blue planet",
-            "summary": "Inspired by Mars rover images, scientists ponder a 'time machine' concept to explore Earth's deep geological past. This hypothetical tool would provide unprecedented insights into our planet's ancient history, from continental shifts to climatic changes, much like current space exploration. It aims to unlock mysteries of Earth's evolution, offering crucial data on its development over millions of years.",
-            "url": "https://theconversation.com/ancient-african-bedrock-reveals-the-violent-beginnings-of-life-on-our-blue-planet-268365",
+            "title": "wolof-nlp added to PyPI",
+            "summary": "Wolof, spoken by over 18 million across Senegal, Gambia, and Mauritania, is significantly underserved by mainstream Natural Language Processing (NLP) libraries like spaCy and NLTK. This lack of support presents a major hurdle for technological development and digital inclusion for its speakers. It highlights the critical need for more inclusive language representation in artificial intelligence and tech tools.",
+            "url": "https://pypi.org/project/wolof-nlp/",
             "category": "Sci & Tech",
-            "date": "2026-01-01T18:15:12Z"
+            "date": "2026-01-02T00:15:22Z"
         },
         {
-            "title": "Seven bodies recovered, 96 rescued after migrant boat capsizes, Gambia says",
-            "summary": "Gambia's defence ministry reported a tragic boat capsizing incident near Banjul, involving migrants. Seven bodies were recovered, and 96 individuals were successfully rescued overnight. This highlights the ongoing humanitarian crisis of illegal migration and the critical role of search and rescue operations in maritime security, often involving defence forces.",
-            "url": "https://www.thestar.com.my/news/world/2026/01/02/seven-bodies-recovered-96-rescued-after-migrant-boat-capsizes-gambia-says",
+            "title": "10 Best Comedy Movies To Stream At Home Right Now",
+            "summary": "Streaming platforms now offer a vast array of comedy films, making entertainment easily accessible with just a few clicks. Comedy has historically remained one of cinema's most consistent and enduring genres. This highlights the ongoing popularity of humorous content and the technological advancements in its digital delivery to audiences worldwide.",
+            "url": "https://screenrant.com/best-comedy-movies-stream/",
+            "category": "Sci & Tech",
+            "date": "2026-01-01T23:46:19Z"
+        },
+        {
+            "title": "After missing multiple deadlines, Gaganyaan\u2019s first uncrewed mission likely to lift-off by March",
+            "summary": "The country's human spaceflight program, likely India's Gaganyaan mission, faces further delays. The first of three crucial uncrewed test missions has yet to launch, despite revised deadlines continually being missed. This ongoing slippage in the timeline for preparatory flights raises concerns about the ambitious schedule for sending Indian astronauts into space, highlighting challenges in project execution and technological readiness.",
+            "url": "https://indianexpress.com/article/india/after-missing-multiple-deadlines-gaganyaans-first-uncrewed-mission-likely-to-lift-off-by-march-10450643/",
+            "category": "Sci & Tech",
+            "date": "2026-01-01T22:45:58Z"
+        },
+        {
+            "title": "7 Most Powerful DC/Marvel Amalgam Heroes",
+            "summary": "Amalgam Comics orchestrated an iconic crossover, merging the DC and Marvel Universes into a novel world with combined heroes and villains. This ambitious event in comic book history redefined character origins and narratives, showcasing a unique collaborative effort between two major fictional powerhouses, offering fans an imaginative blend of beloved characters.",
+            "url": "http://comicbook.com/comics/list/7-most-powerful-dc-marvel-amalgam-heroes/",
+            "category": "Sci & Tech",
+            "date": "2026-01-01T22:00:00Z"
+        },
+        {
+            "title": "Xi Jinping Vows 'Unstoppable' Reunification with Taiwan as Tensions Surge",
+            "summary": "Chinese President Xi Jinping declared the reunification of self-governing Taiwan \"unstoppable\" in a New Year proclamation, intensifying anxieties across the Taiwan Strait. This statement reiterates Beijing's firm resolve over Taiwan's future, posing significant geopolitical implications and raising international concerns about regional stability and potential conflict, highlighting ongoing cross-strait tensions.",
+            "url": "https://www.ibtimes.com/xi-jinping-vows-unstoppable-reunification-taiwan-tensions-surge-3794160",
             "category": "International",
-            "date": "2026-01-01T18:03:00Z"
+            "date": "2026-01-01T20:58:24Z"
         },
         {
-            "title": "Russia and Ukraine trade allegations of civilian attacks on New Year's day",
-            "summary": "Russia and Ukraine intensified accusations of targeting civilians over New Year. Moscow reported a deadly Ukrainian strike on a hotel in Russian-occupied southern Ukraine, killing at least five. Concurrently, Ukraine detailed extensive Russian missile and drone attacks nationwide, causing casualties and damage. Both nations condemned these actions, underscoring the severe civilian impact of the ongoing conflict.",
-            "url": "https://www.thestar.com.my/news/world/2026/01/02/russia-and-ukraine-trade-allegations-of-civilian-attacks-on-new-year039s-day",
-            "category": "International",
-            "date": "2026-01-01T17:16:00Z"
-        },
-        {
-            "title": "The Most Anticipated TV of 2026",
-            "summary": "The provided article text is severely truncated, containing only an introductory sentence about New Year's resolutions and returning to work after holidays. It lacks any substantive news content, making it impossible to create a meaningful summary for an SSB aspirant or accurately assign a specific news category based on actual information. The original content is missing.",
-            "url": "https://www.indiewire.com/lists/new-shows-watch-2026-tv-preview/",
+            "title": "Mohol slams NCP for supporting gangsters\u2019 kin in PMC poll, but justifies BJP\u2019s fielding criminal\u2019s spouse",
+            "summary": "A BJP leader, Mohol, criticized the NCP for backing relatives of alleged gangsters in the PMC elections. Yet, he controversially justified the BJP's own practice of fielding spouses of individuals with criminal records. This exposed a political double standard regarding candidate selection and alleged criminal ties in local body polls, sparking debate over ethical practices within parties.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/mohol-slams-ncp-for-supporting-gangsters-kin-in-pmc-poll-but-justifies-bjps-fielding-criminals-spouse/articleshow/126292721.cms",
             "category": "National",
-            "date": "2026-01-01T17:00:00Z"
-        },
-        {
-            "title": "Irvine Talks Scrapped \u201cGreen Lantern\u201d Series",
-            "summary": "Before a leadership change at DC Studios with James Gunn and Peter Safran taking over, HBO Max was actively developing a TV series based on the iconic DC Comics property, Green Lantern. Arrow-verse creator Greg Berlanti was reportedly involved in this significant project, which commenced development in 2021/22, aiming to expand the DC universe on streaming platforms.",
-            "url": "https://www.darkhorizons.com/irvine-talks-scrapped-green-lantern-series/",
-            "category": "National",
-            "date": "2026-01-01T16:41:12Z"
-        },
-        {
-            "title": "In FY 2025-26, till Dec, Defence Ministry signed capital contracts amounting to Rs 1.82 lakh crore: Govt",
-            "summary": "The Defence Ministry has committed Rs 1.82 lakh crore in capital contracts by December of financial year 2025-26 for the modernisation of India's armed forces. These substantial procurements signify a strong government focus on enhancing defence capabilities, ensuring advanced equipment for national security. This development highlights India's commitment to self-reliance and preparedness.",
-            "url": "https://economictimes.indiatimes.com/news/defence/in-fy-2025-26-till-dec-defence-ministry-signed-capital-contracts-amounting-to-rs-1-82-lakh-crore-govt/articleshow/126290940.cms",
-            "category": "Defence",
-            "date": "2026-01-01T16:36:47Z"
-        },
-        {
-            "title": "Links 1/1/2026",
-            "summary": "The article extends a New Year's greeting for 2026 from a publication to its readers, expressing deep gratitude for their consistent readership, comments, links, and unwavering support. It emphasizes the honor of serving such an engaged audience, reinforcing the bond and appreciation between the platform and its loyal community for the upcoming year.",
-            "url": "https://www.nakedcapitalism.com/2026/01/links-1-1-2026.html",
-            "category": "National",
-            "date": "2026-01-01T11:55:24Z"
+            "date": "2026-01-01T20:45:00Z"
         }
     ]
 }
