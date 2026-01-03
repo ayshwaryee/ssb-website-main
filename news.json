@@ -1,47 +1,61 @@
 {
-    "last_updated": "2026-01-03T12:31:40.072325+00:00",
+    "last_updated": "2026-01-03T18:22:43.425210+00:00",
     "articles": [
         {
-            "title": "India lines up military camels and eagles for annual parade (VIDEO)",
-            "summary": "As India celebrates Republic Day on January 26, the annual parade will feature a unique spectacle. The Indian Army\u2019s animal contingent, part of the Remount and Veterinary Corps, is anticipated to be a major highlight, drawing significant attention. This special unit's participation underscores the vital role and unique capabilities of animals in military service during this national celebration.",
-            "url": "https://www.rt.com/india/630344-india-lines-up-military-camels/",
-            "category": "Defence",
-            "date": "2026-01-02T12:23:15Z"
-        },
-        {
-            "title": "MACC targets more people of interest in military contracts probe",
-            "summary": "The Malaysian Anti-Corruption Commission (MACC) has identified more individuals in an ongoing corruption probe concerning military contract tenders. This investigation highlights the critical need for transparency and integrity in defence procurement processes globally. Such probes underscore the importance of robust oversight mechanisms to prevent graft, ensuring national security assets are acquired ethically and efficiently, which is vital for any nation's defence preparedness.",
-            "url": "https://www.thestar.com.my/news/nation/2026/01/02/macc-targets-more-people-of-interest-in-military-contracts-probe",
-            "category": "Defence",
-            "date": "2026-01-02T11:59:00Z"
-        },
-        {
-            "title": "Links 1/2/2026",
-            "summary": "The news examines whether US homebuilders should emulate Swedish construction techniques and explores how non-genetically identical cells within us provide insights into life and death, as reported by Nature. It also briefly mentions incidents involving fireworks on champagne bottles. This diverse content highlights areas from industrial innovation to biological discovery.",
-            "url": "https://www.nakedcapitalism.com/2026/01/links-1-2-2026.html",
-            "category": "Sci & Tech",
-            "date": "2026-01-02T11:55:56Z"
-        },
-        {
-            "title": "Maruti Suzuki records highest-ever production in CY25 at over 22.55 lakh units",
-            "summary": "Maruti Suzuki India Ltd (MSIL) reported record production of over 22.55 lakh units in calendar year 2025, its highest-ever annual output. This achievement marks the second consecutive year the company has reached such a significant milestone. The robust production figures highlight MSIL's strong manufacturing capabilities and continued dominance in the Indian automotive market, reflecting strong demand and operational efficiency within the sector.",
-            "url": "https://www.thehindubusinessline.com/companies/maruti-suzuki-records-highest-ever-production-in-cy25-at-over-2255-lakh-units/article70463677.ece",
-            "category": "National",
-            "date": "2026-01-02T11:02:03Z"
-        },
-        {
-            "title": "Serving constable, contract killer held in ex-IAF officer\u2019s murder; sons accused of hiring hitmen",
-            "summary": "Police identified two contract killers, including a serving constable, in the murder of a retired Indian Air Force officer who was shot dead near his house. This incident raises concerns about the security of ex-servicemen and the integrity within law enforcement. Authorities are actively investigating the motive and full circumstances surrounding this targeted killing, emphasizing the need for robust internal security measures.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/serving-constable-contract-killer-held-in-ex-iaf-officers-murder-sons-accused-of-hiring-hitmen/articleshow/126304228.cms",
-            "category": "National",
-            "date": "2026-01-02T10:48:23Z"
-        },
-        {
-            "title": "Fiorentina reach agreement with Spurs over Israel forward Solomon",
-            "summary": "Italian club Fiorentina has reached an agreement with England's Tottenham Hotspur to sign Israeli winger Manor Solomon on a loan deal. This significant international football transfer is currently pending the player's medical examination. Solomon is expected to join the Serie A side, a move reported by The Athletic, impacting both clubs' squad dynamics for the upcoming season.",
-            "url": "https://football-italia.net/fiorentina-reach-agreement-spurs-solomon/",
+            "title": "Toddlers found alone in Milwaukee: Parents located",
+            "summary": "Milwaukee police successfully located the parents of two young toddlers, a boy and a girl, who were found alone on Friday morning. Officers from the Milwaukee Police Department responded to the scene at approximately 9:20 a.m. The swift action of the police ensured the children's safety and their eventual reunification with guardians, underscoring the vital role of local law enforcement.",
+            "url": "https://www.wisn.com/article/toddlers-found-alone-on-milwaukee-street-police-seek-family/69903598",
             "category": "International",
-            "date": "2026-01-02T10:19:16Z"
+            "date": "2026-01-02T18:04:50Z"
+        },
+        {
+            "title": "NayanGeneralUtils 1.5.2",
+            "summary": "This describes a personal Python library for general utility functions, developed to standardize reusable code. It includes modules for tasks like file handling, aiming to streamline programming efficiency. For SSB aspirants, this exemplifies systematic problem-solving and automation through self-developed tools \u2013 crucial skills for optimizing tasks and enhancing operational effectiveness in any domain, including defence.",
+            "url": "https://pypi.org/project/NayanGeneralUtils/",
+            "category": "Sci & Tech",
+            "date": "2026-01-02T17:54:40Z"
+        },
+        {
+            "title": "Police Arrest Two Anchor-Dragging Ship's Crew Over Alleged Damage to Submarine Cables in Gulf of Finland",
+            "summary": "Finnish authorities have arrested two cargo ship crew members regarding damage to an undersea telecommunications cable in the Gulf of Finland. The investigation focuses on the vessel's involvement in an incident that impacted vital communication infrastructure. This development highlights ongoing international efforts to safeguard critical undersea networks and investigate potential disruptions.",
+            "url": "https://www.breitbart.com/europe/2026/01/02/police-arrest-two-anchor-dragging-ships-crew-over-alleged-damage-to-submarine-cables-in-gulf-of-finland/",
+            "category": "International",
+            "date": "2026-01-02T17:23:24Z"
+        },
+        {
+            "title": "RUMOR: New Details About The Type Of Actress James Gunn Wants For The DCU's WONDER WOMAN Revealed",
+            "summary": "Wonder Woman is now expected to debut in James Gunn's upcoming Superman sequel, \"Man of Tomorrow,\" making her highly anticipated entry into the new DC Universe. All attention is currently on DC Studios' crucial decision regarding who will be cast in the iconic role, generating significant buzz among fans and industry observers for this pivotal character introduction.",
+            "url": "https://comicbookmovie.com/superman/man-of-tomorrow/rumor-new-details-about-the-type-of-actress-james-gunn-wants-for-the-dcus-wonder-woman-revealed-a225806",
+            "category": "National",
+            "date": "2026-01-02T17:20:00Z"
+        },
+        {
+            "title": "Army bolsters long-term warfighting capability with 90 pc ammunition indigenisation",
+            "summary": "The Indian Army, managing over 200 ammunition variants, is targeting more than 90% indigenization through focused policy reforms and increased industry engagement. This strategic move aims to bolster domestic manufacturing capabilities, enhance self-reliance in critical defence supplies, and modernize the arsenal for various weapon systems. Such initiatives are crucial for ensuring the Army's operational readiness and strategic autonomy.",
+            "url": "https://economictimes.indiatimes.com/news/defence/army-bolsters-long-term-warfighting-capability-with-90-pc-ammunition-indigenisation/articleshow/126309919.cms",
+            "category": "Defence",
+            "date": "2026-01-02T16:54:17Z"
+        },
+        {
+            "title": "PM Modi reviews progress on acquisition of critical mineral assets abroad, sops for domestic recycling",
+            "summary": "Prime Minister Modi reviewed India's strategic progress in acquiring critical mineral assets globally and assessed a Rs 1,500-crore incentive scheme. This initiative is crucial for securing vital resources essential for India's industrial growth and strategic independence. It underscores the nation's proactive approach towards future resource security and economic resilience, vital for national development and self-reliance.",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/pm-modi-reviews-progress-on-acquisition-of-critical-mineral-assets-abroad-sops-for-domestic-recycling/articleshow/126309878.cms",
+            "category": "National",
+            "date": "2026-01-02T16:49:22Z"
+        },
+        {
+            "title": "2026 Horror Preview: Will It Live Up to 2025?",
+            "summary": "As the new year approaches, an article compiles a list of anticipated horror movies scheduled for release. It highlights some of the most interesting films for enthusiasts looking forward to fresh cinematic scares and thrilling entertainment in the coming months. This guide serves as a preview for upcoming genre releases, offering a glimpse into the next wave of frightening blockbusters.",
+            "url": "https://www.joblo.com/2026-horror-preview-will-it-live-up-to-2025/",
+            "category": "National",
+            "date": "2026-01-02T14:48:51Z"
+        },
+        {
+            "title": "Germany takes first step towards reviving military service for 18-year-olds",
+            "summary": "Germany's defence ministry has begun reactivating military service, initiating the process by sending letters to all 18-year-olds. Defence Minister Boris Pistorius confirmed this move, signaling a potential return to conscription. This development underscores Germany's efforts to strengthen its armed forces and security posture, reflecting a significant policy shift amidst evolving geopolitical challenges. Aspiring officers should note the global trend towards bolstering national defence.",
+            "url": "https://www.irishtimes.com/world/europe/2026/01/02/germany-takes-first-step-towards-reviving-military-service-for-18-year-olds/",
+            "category": "Defence",
+            "date": "2026-01-02T13:00:21Z"
         }
     ]
 }
