@@ -1,47 +1,54 @@
 {
-    "last_updated": "2026-01-04T12:31:54.311065+00:00",
+    "last_updated": "2026-01-04T18:22:53.028497+00:00",
     "articles": [
         {
-            "title": "NFL contract incentives, milestones Week 18: Sam Darnold headlines list",
-            "summary": "This article explores player motivation in the NFL, specifically focusing on incentive bonuses. It highlights how money, deadlines, and the pursuit of greatness drive professional athletes. For an SSB aspirant, this illustrates how various incentives, both tangible and intangible, play a crucial role in enhancing performance and achieving excellence in competitive fields like professional sports.",
-            "url": "https://www.usatoday.com/story/sports/nfl/2026/01/03/nfl-player-contract-incentives-milestones-list-week-18/87970048007/",
-            "category": "International",
-            "date": "2026-01-03T11:03:05Z"
-        },
-        {
-            "title": "China to lead joint naval drills with Brics nations in South African waters",
-            "summary": "China will lead the first BRICS joint naval exercise next week in South African waters. This significant defence cooperation involves BRICS nations, including South Africa, Russia, India, and China. The drill is poised to raise alarm bells in Washington and other Western capitals, underscoring evolving geopolitical dynamics and the increasing multi-polar nature of global military engagements, relevant for understanding international relations.",
-            "url": "https://www.yahoo.com/news/articles/china-lead-joint-naval-drills-093000195.html",
-            "category": "Defence",
-            "date": "2026-01-03T09:30:00Z"
-        },
-        {
-            "title": "Make in India: Why sum of parts is bigger than the whole",
-            "summary": "India's PLI scheme has successfully boosted its global manufacturing presence. However, a less-known scheme is quietly achieving crucial results that the highly successful PLI couldn't. This highlights India's multi-pronged strategy to strengthen its domestic industrial base and expand its global footprint, fostering economic growth and national self-reliance through diverse policy initiatives.",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/make-in-india-why-sum-of-parts-is-bigger-than-the-whole/articleshow/126319684.cms",
-            "category": "National",
-            "date": "2026-01-03T09:25:02Z"
-        },
-        {
-            "title": "Saudi Arabia welcomes request from Yemen to help resolve southern battle",
-            "summary": "Saudi Arabia has welcomed a request from Yemen's Saudi-backed Presidential Leadership Council (PLC) to host a forum in Riyadh. This initiative aims to resolve a deadly factional rift plaguing southern Yemen. The diplomatic move signals an effort to de-escalate internal conflict and foster stability in the war-torn nation, highlighting regional engagement for peace.",
-            "url": "https://www.aljazeera.com/news/2026/1/3/saudi-arabia-welcomes-request-from-yemen-to-help-resolve-southern-battle",
-            "category": "International",
-            "date": "2026-01-03T08:36:07Z"
-        },
-        {
-            "title": "Zelenskyy shuffles team with new defence minister pick",
-            "summary": "Ukrainian President Volodymyr Zelenskyy announced his intention to replace the defence minister, offering the crucial wartime portfolio to his current Minister of Digital Transformation. This significant leadership reshuffle occurs amidst Ukraine's ongoing conflict with Russia, signaling internal governmental adjustments as the nation continues its defence efforts. Such high-profile changes are closely monitored for their potential impact on Kyiv's strategic direction.",
-            "url": "https://www.euractiv.com/news/zelenskyy-shuffles-team-with-new-defence-minister-pick/",
-            "category": "International",
-            "date": "2026-01-03T08:09:34Z"
-        },
-        {
-            "title": "Show HN: AI Coding Tools Benchmark \u2013 What Developers Experience",
-            "summary": "This article provides a definitive comparison of AI coding agents, featuring real-world benchmarks and user experiences. Updated for January 2026, it details agents like Claude 3.7 Sonnet, released February 2025, highlighting its 128K output tokens and 62.3% SWE-Bench performance. The piece aims to offer comprehensive insights into the evolving landscape and capabilities of AI in software development, crucial for staying updated on technological advancements.",
-            "url": "https://github.com/murataslan1/ai-agent-benchmark",
+            "title": "2001: A Space Odyssey: It Comes Down at Last to Bowman vs. HAL",
+            "summary": "An ongoing analysis of '2001: A Space Odyssey' reveals the film's first two acts function as preludes, with the central narrative truly commencing in Act 3. This pivotal segment introduces Dr. David Bowman, initiating the core story and deeper plot developments. The analysis aims to explore the movie's renowned scientific and philosophical themes, moving beyond foundational elements to uncover its primary narrative progression.",
+            "url": "https://biztoc.com/x/88f90498a459d09f",
             "category": "Sci & Tech",
-            "date": "2026-01-03T07:45:48Z"
+            "date": "2026-01-03T17:57:24Z"
+        },
+        {
+            "title": "A timeline of the US military\u2019s buildup and strikes against Venezuela leading to Maduro\u2019s capture",
+            "summary": "Former President Donald Trump had consistently threatened military strikes against targets within Venezuelan territory. These threats stemmed from months of attacks on boats suspected of drug trafficking originating from Venezuela. This highlights a period of significant international tension concerning drug interdiction and potential US military intervention in South America.",
+            "url": "https://www.wpxi.com/news/local/timeline-us-militarys-buildup-strikes-against-venezuela-leading-maduros-capture/JQP2LTBFAREUZKQ34CQOVP54OI/",
+            "category": "International",
+            "date": "2026-01-03T17:54:02Z"
+        },
+        {
+            "title": "Army sets up community radio station near LoC in J&K's Rajouri to counter misinformation",
+            "summary": "The Indian Army, in collaboration with local administration, has launched Radio Sangam (88.8 FM), the first community radio station on the Line of Control in Rajouri, Jammu & Kashmir. This initiative aims to strengthen community bonds, counter misinformation, and empower locals by providing essential information and entertainment, fostering peace and development in the sensitive border region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/army-sets-up-community-radio-station-near-loc-in-jks-rajouri-to-counter-misinformation/articleshow/126325920.cms",
+            "category": "Defence",
+            "date": "2026-01-03T17:45:36Z"
+        },
+        {
+            "title": "President Trump: 'Brilliant' U.S. Military Operation Captured Maduro",
+            "summary": "U.S. President Donald Trump praised a U.S. military operation that reportedly captured Venezuelan dictator Nicolas Maduro, hailing it as \"brilliant.\" Trump's comments, made in a New York Times interview, underscore the direct application of American military power in addressing foreign leadership deemed hostile. This highlights significant defence engagement and strategic operations undertaken by the U.S. forces abroad, reflecting active foreign policy through military means.",
+            "url": "https://www.breitbart.com/politics/2026/01/03/president-trump-brilliant-u-s-military-operation-captured-maduro/",
+            "category": "Defence",
+            "date": "2026-01-03T17:37:06Z"
+        },
+        {
+            "title": "Catholic Caucus: Daily Mass Readings 3-January-2026",
+            "summary": "The provided text is a biblical passage from the Gospel of John, where John the Baptist identifies Jesus as 'the Lamb of God.' This foundational theological statement highlights Jesus's divine role in atoning for the world's sins, a core tenet of Christian belief. It represents a significant historical-religious declaration, globally influential.",
+            "url": "https://freerepublic.com/focus/f-religion/4360185/posts",
+            "category": "International",
+            "date": "2026-01-03T14:54:15Z"
+        },
+        {
+            "title": "What we know about the US attacks on Venezuela",
+            "summary": "Following months of escalating military and economic pressure, the United States launched airstrikes across Venezuela on January 3rd. The US subsequently claimed to have deposed the nation's authoritarian leader through these actions. This significant intervention marks a major escalation in international relations, demonstrating the use of military force to influence political outcomes in a sovereign state.",
+            "url": "https://www.channelnewsasia.com/world/venezuela-us-strikes-capture-nicolas-maduro-trump-what-we-know-5787936",
+            "category": "International",
+            "date": "2026-01-03T14:49:24Z"
+        },
+        {
+            "title": "Ukraine hosts talks with security allies in Kyiv",
+            "summary": "Ukraine is hosting crucial security adviser talks, with Kyiv asserting that negotiations are nearing a deal. However, Russia claims a recent deadly New Year strike has undermined these peace efforts. This ongoing diplomatic activity reflects the complex and tense environment surrounding the conflict, highlighting differing perspectives on potential resolutions and the impact of military actions on political dialogue.",
+            "url": "https://punchng.com/ukraine-hosts-talks-with-security-allies-in-kyiv/",
+            "category": "International",
+            "date": "2026-01-03T03:33:47Z"
         }
     ]
 }
