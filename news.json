@@ -1,54 +1,54 @@
 {
-    "last_updated": "2026-01-04T18:22:53.028497+00:00",
+    "last_updated": "2026-01-05T01:25:35.946802+00:00",
     "articles": [
         {
-            "title": "2001: A Space Odyssey: It Comes Down at Last to Bowman vs. HAL",
-            "summary": "An ongoing analysis of '2001: A Space Odyssey' reveals the film's first two acts function as preludes, with the central narrative truly commencing in Act 3. This pivotal segment introduces Dr. David Bowman, initiating the core story and deeper plot developments. The analysis aims to explore the movie's renowned scientific and philosophical themes, moving beyond foundational elements to uncover its primary narrative progression.",
-            "url": "https://biztoc.com/x/88f90498a459d09f",
+            "title": "North Korea fires ballistic missiles in first test of 2026",
+            "summary": "North Korean leader Kim Jong Un visited a factory on January 3, 2026, according to official KCNA reports. While specific details remain undisclosed, such high-profile visits often underscore North Korea's focus on bolstering its industrial capabilities, frequently pertaining to defence production or strategic technologies. This event is significant for understanding regional security dynamics.",
+            "url": "https://www.digitaljournal.com/world/north-korea-fires-ballistic-missiles-in-first-test-of-2026/article",
+            "category": "Defence",
+            "date": "2026-01-04T01:17:20Z"
+        },
+        {
+            "title": "US capture of Venezuela\u2019s Nicolas Maduro puts New Delhi in a bind: Political stakes low, moral dilemma high",
+            "summary": "US President Trump's announcement of an attack on Venezuela and the capture of President Nicolas Maduro placed India in a significant diplomatic dilemma. India had to navigate between the US's unilateral actions and upholding international norms of sovereignty. This situation highlighted complex foreign policy challenges for India regarding major global powers and international law.",
+            "url": "https://indianexpress.com/article/explained/us-capture-of-venezuelas-nicolas-maduro-puts-new-delhi-in-a-bind-political-stakes-low-moral-dilemma-high-10454015/",
+            "category": "International",
+            "date": "2026-01-04T00:00:23Z"
+        },
+        {
+            "title": "5 Overlooked DC Storylines That Deserve a Comeback",
+            "summary": "DC Comics has cultivated a vast mythological ecosystem over decades, yet many brilliant storylines have regrettably faded into obscurity despite celebrated classics. This highlights challenges in preserving comprehensive creative legacies within major entertainment franchises. For SSB aspirants, it illustrates how even dominant cultural entities grapple with maintaining diverse historical content and ensuring its continued relevance across generations.",
+            "url": "http://comicbook.com/comics/list/5-overlooked-dc-storylines-that-deserve-a-comeback/",
+            "category": "National",
+            "date": "2026-01-03T23:30:00Z"
+        },
+        {
+            "title": "Britain and France conduct joint airstrike on suspected ISIS arms cache in Syria",
+            "summary": "British and French air forces conducted a joint operation in Syria on Saturday evening, bombing a suspected underground arms cache previously utilized by the Islamic State group. This coordinated strike targeted infrastructure linked to the terrorist organization, demonstrating ongoing international efforts to combat ISIS and prevent their resurgence in the region, according to Britain's defence statements.",
+            "url": "https://www.thehindubusinessline.com/news/world/britain-and-france-conduct-joint-airstrike-on-suspected-isis-arms-cache-in-syria/article70469078.ece",
+            "category": "International",
+            "date": "2026-01-03T23:17:56Z"
+        },
+        {
+            "title": "Britain says it and France bombed suspected Islamic State arms dump in Syria",
+            "summary": "British and French air forces recently conducted a joint operation in Syria, bombing a suspected underground arms cache. This target was previously used by the Islamic State group. The collaborative strike highlights ongoing international counter-terrorism efforts and the importance of multinational defence cooperation to maintain regional stability and combat extremist threats effectively.",
+            "url": "https://www.thestar.com.my/news/world/2026/01/04/britain-says-it-and-france-bombed-suspected-islamic-state-arms-dump-in-syria",
+            "category": "International",
+            "date": "2026-01-03T23:16:00Z"
+        },
+        {
+            "title": "Show HN: Debugging ESP32-S3 watchdog resets caused by flash/cache interactions",
+            "summary": "Pazzk specializes in providing comprehensive hardware and software solutions. The company offers its own reference boards, alongside expert firmware porting and complete system integration services tailored for diverse customer hardware. This technical proficiency helps businesses effectively navigate and overcome various hardware constraints, ensuring robust and customized technological performance and seamless operation for their specific needs.",
+            "url": "https://pazzk.net/en/blog/esp32s3-flash-cache-issue",
             "category": "Sci & Tech",
-            "date": "2026-01-03T17:57:24Z"
+            "date": "2026-01-03T23:11:09Z"
         },
         {
-            "title": "A timeline of the US military\u2019s buildup and strikes against Venezuela leading to Maduro\u2019s capture",
-            "summary": "Former President Donald Trump had consistently threatened military strikes against targets within Venezuelan territory. These threats stemmed from months of attacks on boats suspected of drug trafficking originating from Venezuela. This highlights a period of significant international tension concerning drug interdiction and potential US military intervention in South America.",
-            "url": "https://www.wpxi.com/news/local/timeline-us-militarys-buildup-strikes-against-venezuela-leading-maduros-capture/JQP2LTBFAREUZKQ34CQOVP54OI/",
+            "title": "Seth Jones Net Worth: Details on his salary, endorsement, NHL career, and more",
+            "summary": "Venezuelan soldiers have alleged a U.S. attack, reporting 40 troops killed while fighting against the Maduro regime, indicating active international conflict. Concurrently, the wife of a senior U.S. official published a map of Greenland with a U.S. flag, a symbolic gesture stirring geopolitical speculation. These events underscore evolving global tensions.",
+            "url": "https://timesofindia.indiatimes.com/sports/nhl/news/seth-jones-net-worth-details-on-his-salary-endorsement-nhl-career-and-more/articleshow/126329455.cms",
             "category": "International",
-            "date": "2026-01-03T17:54:02Z"
-        },
-        {
-            "title": "Army sets up community radio station near LoC in J&K's Rajouri to counter misinformation",
-            "summary": "The Indian Army, in collaboration with local administration, has launched Radio Sangam (88.8 FM), the first community radio station on the Line of Control in Rajouri, Jammu & Kashmir. This initiative aims to strengthen community bonds, counter misinformation, and empower locals by providing essential information and entertainment, fostering peace and development in the sensitive border region.",
-            "url": "https://economictimes.indiatimes.com/news/defence/army-sets-up-community-radio-station-near-loc-in-jks-rajouri-to-counter-misinformation/articleshow/126325920.cms",
-            "category": "Defence",
-            "date": "2026-01-03T17:45:36Z"
-        },
-        {
-            "title": "President Trump: 'Brilliant' U.S. Military Operation Captured Maduro",
-            "summary": "U.S. President Donald Trump praised a U.S. military operation that reportedly captured Venezuelan dictator Nicolas Maduro, hailing it as \"brilliant.\" Trump's comments, made in a New York Times interview, underscore the direct application of American military power in addressing foreign leadership deemed hostile. This highlights significant defence engagement and strategic operations undertaken by the U.S. forces abroad, reflecting active foreign policy through military means.",
-            "url": "https://www.breitbart.com/politics/2026/01/03/president-trump-brilliant-u-s-military-operation-captured-maduro/",
-            "category": "Defence",
-            "date": "2026-01-03T17:37:06Z"
-        },
-        {
-            "title": "Catholic Caucus: Daily Mass Readings 3-January-2026",
-            "summary": "The provided text is a biblical passage from the Gospel of John, where John the Baptist identifies Jesus as 'the Lamb of God.' This foundational theological statement highlights Jesus's divine role in atoning for the world's sins, a core tenet of Christian belief. It represents a significant historical-religious declaration, globally influential.",
-            "url": "https://freerepublic.com/focus/f-religion/4360185/posts",
-            "category": "International",
-            "date": "2026-01-03T14:54:15Z"
-        },
-        {
-            "title": "What we know about the US attacks on Venezuela",
-            "summary": "Following months of escalating military and economic pressure, the United States launched airstrikes across Venezuela on January 3rd. The US subsequently claimed to have deposed the nation's authoritarian leader through these actions. This significant intervention marks a major escalation in international relations, demonstrating the use of military force to influence political outcomes in a sovereign state.",
-            "url": "https://www.channelnewsasia.com/world/venezuela-us-strikes-capture-nicolas-maduro-trump-what-we-know-5787936",
-            "category": "International",
-            "date": "2026-01-03T14:49:24Z"
-        },
-        {
-            "title": "Ukraine hosts talks with security allies in Kyiv",
-            "summary": "Ukraine is hosting crucial security adviser talks, with Kyiv asserting that negotiations are nearing a deal. However, Russia claims a recent deadly New Year strike has undermined these peace efforts. This ongoing diplomatic activity reflects the complex and tense environment surrounding the conflict, highlighting differing perspectives on potential resolutions and the impact of military actions on political dialogue.",
-            "url": "https://punchng.com/ukraine-hosts-talks-with-security-allies-in-kyiv/",
-            "category": "International",
-            "date": "2026-01-03T03:33:47Z"
+            "date": "2026-01-03T22:34:19Z"
         }
     ]
 }
