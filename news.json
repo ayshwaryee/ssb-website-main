@@ -1,54 +1,12 @@
 {
-    "last_updated": "2026-01-07T01:19:12.835130+00:00",
+    "last_updated": "2026-01-07T06:27:38.665193+00:00",
     "articles": [
         {
-            "title": "Do It Yourself: code coverage and testing",
-            "summary": "This article is the third part of a series detailing the development of sightread.org, emphasizing a minimal tooling approach. It builds on previous discussions about efficient JavaScript module structuring for parallel loading and professional build processes. For SSB aspirants, this offers valuable insight into modern web development, lean software engineering principles, and how digital platforms are constructed efficiently, highlighting innovation in technology.",
-            "url": "https://www.phpied.com/do-it-yourself-code-coverage-and-testing/",
-            "category": "Sci & Tech",
-            "date": "2026-01-06T00:47:36Z"
-        },
-        {
-            "title": "Mike McDaniel not closing door on Tua Tagovailoa's return, foresees 2026 QB competition",
-            "summary": "NFL quarterback Tua Tagovailoa has expressed a desire for a fresh start away from the Miami Dolphins. The team, however, has not yet determined his future with them. Coach Mike McDaniel is scheduled to meet with Tagovailoa to discuss the situation, highlighting ongoing uncertainty regarding his role for the upcoming season.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-not-closing-door-on-tua-tagovailoas-return-foresees-2026-qb-competition",
-            "category": "National",
-            "date": "2026-01-06T00:31:38Z"
-        },
-        {
-            "title": "Seth Michael Larson: \u201cFood JPEGs\u201d in Super Smash Bros & Kirby Air Riders",
-            "summary": "The article highlights director Masahiro Sakurai's artistic decision to consistently use flat, billboarded stock images for food graphics in games like Super Smash Bros. and Kirby Air Riders. This design choice, persisting across titles, prompts an analysis of its aesthetic intent, development efficiency, and player perception, offering insight into unique visual storytelling within the video game industry.",
-            "url": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders?utm_campaign=rss",
-            "category": "Sci & Tech",
-            "date": "2026-01-06T00:00:00Z"
-        },
-        {
-            "title": "Tennessee Titans sign 11 players to reserve/futures contracts",
-            "summary": "The Tennessee Titans NFL team has wrapped up its 2025 season, initiating an intensive search for a new head coach. The franchise's general manager has reportedly issued multiple interview requests to prospective candidates. This pivotal recruitment drive signifies a significant organizational transition as the team seeks to appoint new leadership for future seasons.",
-            "url": "https://titanswire.usatoday.com/story/sports/nfl/titans/2026/01/05/tennessee-titans-11-players-signed-reserve-futures-contracts/88037921007/",
+            "title": "Venezuela after Maduro: What Washington really wants",
+            "summary": "The article scrutinizes Washington's rhetoric concerning a potential military operation to remove Venezuelan leader Nicol\u00e1s Maduro, urging separation of fact from fiction. It asserts that despite significant 'noise' about regime change, there is currently no active US-led regime change operation underway in Venezuela. The piece likely analyzes US foreign policy and the complexities of intervention versus diplomatic approaches in the region.",
+            "url": "https://indianexpress.com/article/opinion/columns/venezuela-after-maduro-what-washington-really-wants-10457872/",
             "category": "International",
-            "date": "2026-01-05T23:04:46Z"
-        },
-        {
-            "title": "Keeping Syria connected during war: Surviving ISIS and Intelligence",
-            "summary": "A prominent computer scientist and technical analyst is highlighted for their work covering internet outages during the 2011 Arab Spring. This individual, having contributed through organizations like Renesys and Dyn Research, provided crucial analysis of internet disruptions. Their expertise illuminated the technical aspects and broader implications of communication blackouts during a significant period of international upheaval, offering valuable insights into cyber infrastructure and its vulnerabilities.",
-            "url": "https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/",
-            "category": "Sci & Tech",
-            "date": "2026-01-05T21:38:22Z"
-        },
-        {
-            "title": "China and South Korea pledge to bolster ties as regional tensions rise",
-            "summary": "Chinese and South Korean leaders met in Beijing, committing to boost trade and safeguard regional stability. The South Korean president's visit aimed to strengthen bilateral ties, but discussions were significantly overshadowed by North Korea's recent provocations. This high-level dialogue highlights ongoing efforts to navigate geopolitical tensions and foster economic cooperation in East Asia.",
-            "url": "https://japantoday.com/category/world/china-and-south-korea-pledge-to-bolster-ties-as-regional-tensions-rise",
-            "category": "International",
-            "date": "2026-01-05T21:31:04Z"
-        },
-        {
-            "title": "The Packers and Bears have only met in the playoffs twice before",
-            "summary": "The historic rivalry between American football teams, the Green Bay Packers and Chicago Bears, is a prominent feature of the sport. However, the contest has become remarkably lopsided since 2009. The Packers have shown significant dominance, winning 29 of 35 games against the Bears, signifying a sustained period of one-sided results in this long-standing sporting tradition.",
-            "url": "https://www.acmepackingcompany.com/green-bay-packers-history/77732/the-packers-and-bears-have-only-met-in-the-playoffs-twice-before",
-            "category": "National",
-            "date": "2026-01-05T20:58:44Z"
+            "date": "2026-01-06T06:25:23Z"
         }
     ]
 }
