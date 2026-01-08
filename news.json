@@ -1,40 +1,54 @@
 {
-    "last_updated": "2026-01-08T12:36:59.851268+00:00",
+    "last_updated": "2026-01-08T18:22:29.725954+00:00",
     "articles": [
         {
-            "title": "Unmanned Underwater Vehicles Market Projected to Reach US$ 46.62 Billion by 2035 | Astute Analytica",
-            "summary": "The global unmanned underwater vehicles (UUV) market, valued at US$5.49 billion in 2025, is projected to surge significantly, reaching US$46.62 billion. This robust growth underscores increasing demand for advanced underwater capabilities in defence for intelligence, surveillance, and reconnaissance, alongside applications in scientific research and commercial exploration. Aspiring officers should recognize UUVs as a vital component of modern naval strategy and technological advancement.",
-            "url": "https://www.globenewswire.com/news-release/2026/01/07/3214433/0/en/Unmanned-Underwater-Vehicles-Market-Projected-to-Reach-US-46-62-Billion-by-2035-Astute-Analytica.html",
+            "title": "Army sets sights on indigenous suicide drones that can hit deep into enemy territory",
+            "summary": "The Indian Army is seeking advanced indigenous loitering munitions to enhance precision strike capabilities deep within enemy territory. These \"suicide drones\" are crucial for modern warfare, designed to counter heavy jamming and provide a tactical advantage. This procurement drive emphasizes self-reliance and technological superiority in defence, essential for future battlefield dominance.",
+            "url": "https://economictimes.indiatimes.com/news/defence/army-sets-sights-on-indigenous-suicide-drones-that-can-hit-deep-into-enemy-territory/articleshow/126400484.cms",
             "category": "Defence",
-            "date": "2026-01-07T12:30:00Z"
+            "date": "2026-01-07T18:19:39Z"
         },
         {
-            "title": "AI and the Next Economy",
-            "summary": "AI labs are promoting a compelling narrative regarding Artificial General Intelligence (AGI). They foresee AGI unlocking astonishing productivity and significantly boosting GDP. This story is particularly attractive to those building or investing in these new technologies, highlighting AI's profound potential to reshape global economies and drive innovation.",
-            "url": "https://www.oreilly.com/radar/ai-and-the-next-economy/#BlogPosting",
+            "title": "2026 SAG Awards, Now Actor Awards, Nominations List in Full",
+            "summary": "The 2026 SAG Awards, rebranded as the Actor Awards, recently unveiled their nominations. The film 'One Battle After Another' leads with seven nods, including for best stunt ensemble. This announcement highlights significant achievements in the entertainment industry, providing insight into prominent cinematic works and individual performances that garner international attention.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/2026-sag-awards-actor-awards-nominations-list-1236466410/",
+            "category": "International",
+            "date": "2026-01-07T18:18:44Z"
+        },
+        {
+            "title": "Reflagged by Russia, seized by US: Why so much interest in a rusty tanker in the Atlantic?",
+            "summary": "US forces seized a rusty crude oil tanker in the Atlantic after days of surveillance, drawing global attention. The vessel, floating north, became a focal point amidst rising tensions, with hints of Russian military involvement. This incident underscores critical aspects of international maritime security, naval operations, and geopolitical complexities in global oil trade.",
+            "url": "https://www.irishtimes.com/world/us/2026/01/07/reflagged-by-russia-seized-by-us-why-so-much-interest-in-a-rusty-tanker-in-the-atlantic/",
+            "category": "Defence",
+            "date": "2026-01-07T18:07:22Z"
+        },
+        {
+            "title": "Israeli courts in limbo after abrupt death of judge leaves submarine corruption verdict pending",
+            "summary": "A judge is set to deliver a verdict concerning a suspect embroiled in the 'submarine and naval vessels affair'. This case involves two major defence procurement deals with a German conglomerate for acquiring submarines and other naval assets. The outcome will be significant, addressing alleged irregularities in national defence acquisitions, crucial for maintaining integrity within the armed forces' procurement processes.",
+            "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/israeli-courts-in-limbo-after-judges-death-leaves-submarine-corruption-verdict-pending/0000019b-9910-dd39-a7ff-fb3a36c50000",
+            "category": "Defence",
+            "date": "2026-01-07T17:48:28Z"
+        },
+        {
+            "title": "Transforming legal workflows with conversational AI agents",
+            "summary": "The legal profession is increasingly digital, moving beyond isolated traditional practices. This transformation brings significant challenges, including rapidly climbing caseloads and the continuous introduction of new rules. It highlights how technology is reshaping legal work, demanding professionals adapt to a dynamic, digitized environment and constantly evolving regulatory landscape. This reflects broader shifts across industries.",
+            "url": "https://www.digitaljournal.com/business/transforming-legal-workflows-with-conversational-ai-agents/article",
             "category": "Sci & Tech",
-            "date": "2026-01-07T12:20:47Z"
+            "date": "2026-01-07T17:39:42Z"
         },
         {
-            "title": "Review \u2013 Absolute Green Lantern #10: Gold and Blood",
-            "summary": "The latest Green Lantern #10 comic explores a significant shift in its narrative arc. While initial stories focused on cosmic threats, the new storyline delves into the implications of the Lanterns becoming public knowledge. This development introduces fresh challenges and explores the impact of their powers and presence within a broader, public context, evolving beyond purely extraterrestrial dangers.",
-            "url": "https://geekdad.com/2026/01/review-absolute-green-lantern-10-gold-and-blood/",
-            "category": "Sci & Tech",
-            "date": "2026-01-07T12:20:43Z"
+            "title": "Punjab launches second phase of 'Yudh Nashian Virudh' campaign to step up fight against drugs",
+            "summary": "Punjab has launched the second phase of its 'Yudh Nashian Virudh' campaign, significantly stepping up efforts to combat the pervasive drug menace across the state. This intensified initiative aims to strengthen the fight against drug abuse and trafficking, reflecting the state's commitment to fostering a healthier, drug-free society. Aspiring officers should understand the importance of such robust state-level governance in national security.",
+            "url": "https://timesofindia.indiatimes.com/india/punjab-launches-second-phase-of-yudh-nashian-virudh-campaign-to-step-up-fight-against-drugs/articleshow/126399271.cms",
+            "category": "National",
+            "date": "2026-01-07T17:20:50Z"
         },
         {
-            "title": "Russia sends submarine to escort tanker the US tried to seize off Venezuela: Report",
-            "summary": "Russia has deployed a submarine and other naval vessels to escort an empty, ageing oil tanker attempting to evade a US blockade near Venezuela. This move, reported by the Wall Street Journal, underscores heightened geopolitical tensions and Russia's assertive support for Venezuela against US sanctions. It highlights the projection of naval power and potential for international flashpoints over resource control and sovereignty disputes.",
-            "url": "https://www.channelnewsasia.com/world/russia-sends-submarine-escort-venezuela-oil-tanker-pursued-us-5836406",
-            "category": "Defence",
-            "date": "2026-01-07T12:18:26Z"
-        },
-        {
-            "title": "There are no signs of more Russian and Chinese ships near Greenland",
-            "summary": "Chinese and Russian naval presence in Greenlandic waters is raising significant U.S. security concerns. These ships are perceived as a growing threat to American interests, especially considering the strategic importance of the Arctic region. The U.S. criticizes Denmark for its apparent inaction, highlighting potential vulnerabilities in regional defence and international maritime security.",
-            "url": "https://politiken.dk/edition/news/art10682863/There-are-no-signs-of-more-Russian-and-Chinese-ships-near-Greenland",
-            "category": "Defence",
-            "date": "2026-01-07T12:17:22Z"
+            "title": "MLB trade rumors: Ketel Marte trade buzz grows as New York Yankees, Chicago Cubs, and Los Angeles Dodgers watch Arizona Diamondbacks",
+            "summary": "MLB trade rumors are intensifying around Arizona Diamondbacks' player Ketel Marte, with several major teams reportedly expressing interest. The New York Yankees, Chicago Cubs, and Los Angeles Dodgers are among the clubs closely watching Marte, signaling potential significant movements in the Major League Baseball trade market. This growing buzz indicates a busy period for player transfers in professional baseball.",
+            "url": "https://timesofindia.indiatimes.com/sports/mlb/news/mlb-trade-rumors-ketel-marte-trade-buzz-grows-as-new-york-yankees-chicago-cubs-and-los-angeles-dodgers-watch-arizona-diamondbacks/articleshow/126399149.cms",
+            "category": "National",
+            "date": "2026-01-07T17:08:08Z"
         }
     ]
 }
