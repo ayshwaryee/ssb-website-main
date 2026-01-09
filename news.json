@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-01-09T06:27:42.375187+00:00",
+    "last_updated": "2026-01-09T12:35:58.112522+00:00",
     "articles": [
         {
-            "title": "US seizes two more sanctioned oil tankers with links to Venezuela, military says",
-            "summary": "The US military seized two more oil tankers linked to Venezuela, enforcing international sanctions. This action highlights ongoing geopolitical tensions and the US strategy to pressure the Venezuelan regime economically. Such maritime interdictions demonstrate the strategic importance of naval power in upholding foreign policy and influencing global trade, reflecting key international relations dynamics.",
-            "url": "https://freerepublic.com/focus/f-news/4360966/posts",
-            "category": "International",
-            "date": "2026-01-08T06:17:25Z"
+            "title": "As Trump ramps up the heat on Greenland, Denmark warns it would shoot US forces",
+            "summary": "Denmark has reaffirmed a 1952 military rule, mandating its forces to respond immediately to any invasion of Greenland without awaiting further orders. This decisive confirmation emerges amidst escalating geopolitical tensions, likely in the Arctic region, underscoring the nation's unwavering commitment to defending its sovereign territories and strategic interests. It highlights the principle of immediate territorial defense.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/as-trump-ramps-up-the-heat-on-greenland-denmark-warns-it-would-shoot-us-forces/articleshow/126414302.cms",
+            "category": "Defence",
+            "date": "2026-01-08T12:34:18Z"
         },
         {
-            "title": "Delhi HC asks RBI about steps taken to enforce digital lending rules",
-            "summary": "The Delhi High Court has directed the Reserve Bank of India (RBI) to furnish details regarding actions taken to enforce its digital lending rules. This intervention highlights judicial scrutiny over financial regulation and the RBI's efforts to curb malpractices in the rapidly growing digital lending sector. It underscores the importance of regulatory oversight for financial stability and consumer protection in India's evolving economy.",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-hc-asks-rbi-about-steps-taken-to-enforce-digital-lending-rules/articleshow/126407086.cms",
+            "title": "25 Surreal Things People Saw That Made Them Question Their Reality",
+            "summary": "The article explores how our minds cope with experiences that defy reality. When confronted with strange, unsettling, or eerie phenomena, our brains instinctively dismiss them or frantically seek logical explanations. This inherent human tendency highlights our psychological need to rationalize the inexplicable, delving into the cognitive mechanisms and biases that shape our perception when faced with the bizarre.",
+            "url": "https://www.demilked.com/bizarre-things-witness/",
+            "category": "Sci & Tech",
+            "date": "2026-01-08T12:33:39Z"
+        },
+        {
+            "title": "Russian war deaths are rising to unsustainable levels, says Ukraine",
+            "summary": "Ukrainian intelligence indicates Russia faces unsustainably high front-line mortality rates, with 35,000 casualties reported in December alone. These figures suggest Russia's current voluntary recruitment method cannot sustain the human cost of the ongoing conflict. This poses significant manpower challenges, underscoring the severe attrition rates experienced in modern warfare and the pressure on military logistics and personnel.",
+            "url": "https://www.aljazeera.com/news/2026/1/8/russian-war-fatalities-are-rising-to-unsustainable-levels-says-ukraine",
+            "category": "Defence",
+            "date": "2026-01-08T12:12:11Z"
+        },
+        {
+            "title": "How to Fix America\u2019s Broken Arsenal",
+            "summary": "The U.S. defense industrial base faces significant challenges due to a skilled labor shortage. A 2023 report indicated 64% of firms struggled to hire, leading to a national security advisor's warning in late 2024. This critical issue impacts industrial capacity, raising concerns about the base's ability to meet national security demands effectively and sustain operations.",
+            "url": "http://foreignpolicy.com/2026/01/08/defense-industrial-base-arsenal-hegseth-trump/",
+            "category": "Defence",
+            "date": "2026-01-08T12:00:39Z"
+        },
+        {
+            "title": "Delhi HC stays order requiring second-level review of RBI ombudsman complaints",
+            "summary": "The Delhi High Court on Thursday stayed its own earlier direction which required a second level human intervention by trained legal personnel for complaints rejected by the Reserve Bank of India (RBI). This significant move impacts the review process for public grievances against the central bank, potentially streamlining or altering the previously mandated oversight for unresolved issues.",
+            "url": "https://www.thehindubusinessline.com/money-and-banking/delhi-hc-stays-order-requiring-second-level-review-of-rbi-ombudsman-complaints/article70486337.ece",
             "category": "National",
-            "date": "2026-01-08T05:04:33Z"
+            "date": "2026-01-08T11:52:51Z"
+        },
+        {
+            "title": "Russian MP issues nuclear threat, says 'sinking American ships' would stop US after tanker seizure",
+            "summary": "The US military seized a Russian-flagged oil tanker in the North Atlantic, leading to a stern warning from a senior Russian lawmaker to Washington. Moscow asserted its intention to retaliate, indicating escalating tensions between the two global powers. The incident underscores growing friction in international maritime activities and bilateral relations.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russian-mp-issues-nuclear-threat-says-sinking-american-ships-would-stop-us-after-tanker-seizure/articleshow/126414193.cms",
+            "category": "International",
+            "date": "2026-01-08T11:46:41Z"
+        },
+        {
+            "title": "A titan in tears: Anil Agarwal\u2019s gritty journey from Bihar to billions",
+            "summary": "Agnivesh Agarwal, son of Vedanta founder Anil Agarwal, tragically passed away at 49 in the United States. His sudden demise sent shockwaves through India Inc., deeply affecting the nation's business community. This significant loss highlights the fragility of life even among prominent corporate families, resonating widely across the Indian economic landscape and drawing national attention.",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/a-titan-in-tears-anil-agarwals-gritty-journey-from-bihar-to-billions/articleshow/126413702.cms",
+            "category": "National",
+            "date": "2026-01-08T11:29:05Z"
         }
     ]
 }
