@@ -1,54 +1,19 @@
 {
-    "last_updated": "2026-01-10T01:17:22.833855+00:00",
+    "last_updated": "2026-01-10T06:24:34.655688+00:00",
     "articles": [
         {
-            "title": "Beatbot Launches Sora 70: Full Coverage, Innovative Skimming, Zero Hassle",
-            "summary": "At CES 2026, Beatbot, a global leader in smart pool robotics, announced the Beatbot Sora 70. This new device represents an advancement in automated pool maintenance, aiming to introduce innovative features for efficient and intelligent cleaning. The launch underscores Beatbot's commitment to pioneering robotic solutions, enhancing user experience through cutting-edge technology in pool management.",
-            "url": "https://the-gadgeteer.com/2026/01/08/beatbot-launches-sora-70-full-coverage-innovative-skimming-zero-hassle/",
-            "category": "Sci & Tech",
-            "date": "2026-01-09T00:50:42Z"
-        },
-        {
-            "title": "Fostering innovation through experimentation",
-            "summary": "An analysis of the world's most valuable companies, exemplified by Apple, highlights a strong emphasis on innovation as their crucial shared trait. This consistent focus on pioneering new ideas and technologies drives their market leadership and economic power globally. For SSB aspirants, understanding innovation's indispensable role in business success and technological advancement is vital for broader general awareness.",
-            "url": "https://www.thehindubusinessline.com/opinion/fostering-innovation-through-experimentation/article70487747.ece",
-            "category": "Sci & Tech",
-            "date": "2026-01-09T00:40:00Z"
-        },
-        {
-            "title": "Edging Closer to Armageddon?",
-            "summary": "The TomDispatch article contrasts Cold War-era nuclear fear, evident in 'duck and cover' drills and private bunker construction, with today's perceived complacency. It likely analyzes how public awareness and preparedness regarding nuclear threats have diminished over time, exploring the shifting psychological and strategic landscape concerning global nuclear risks and their societal impact.",
-            "url": "https://original.antiwar.com/michael_klare/2026/01/08/edging-closer-to-armageddon/",
+            "title": "Syria live: Ceasefire in Aleppo after at least 22 killed since Tuesday",
+            "summary": "Syria's Defence Ministry has declared a ceasefire in Aleppo neighbourhoods following intense fighting since Tuesday. This critical announcement aims to halt renewed hostilities that tragically claimed 22 lives. For SSB aspirants, this highlights ongoing geopolitical complexities and the crucial role of defence establishments in managing and de-escalating conflicts in war-torn regions like Syria.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/1/9/syria-live-ceasefire-in-aleppo-after-at-least-22-killed-since-tuesday",
             "category": "Defence",
-            "date": "2026-01-09T00:00:35Z"
+            "date": "2026-01-09T05:51:23Z"
         },
         {
-            "title": "Climatic niche conservatism in non-native plants depends on introduction history and biogeographic context",
-            "summary": "A scientific research project, supported by the Deutsche Forschungsgemeinschaft (German Research Foundation), has acknowledged its funding and the vital contributions of various herbaria. This international collaborative effort (project 505288495) signifies ongoing work in botanical or ecological studies, leveraging global plant data for significant scientific advancements.",
-            "url": "https://www.nature.com/articles/s41467-025-68023-6",
-            "category": "Sci & Tech",
-            "date": "2026-01-09T00:00:00Z"
-        },
-        {
-            "title": "Quebec Trafficker Jonathan \"Rambo\" Bouchard Killed in Puerto Vallarta...After Leaving a Gym",
-            "summary": "Jonathan \u201cRambo\u201d Bouchard, a 32-year-old individual with known ties to police in Saguenay-Lac-Saint-Jean, Quebec, was reportedly found in circumstances not fully elaborated in the provided article excerpt. The news indicates a significant development concerning Bouchard, highlighting a domestic event within Canada involving a figure known to law enforcement. Further details are required to understand the full context of the discovery.",
-            "url": "https://www.borderlandbeat.com/2026/01/quebec-trafficker-jonathan-rambo.html",
-            "category": "National",
-            "date": "2026-01-08T23:57:00Z"
-        },
-        {
-            "title": "Insurgency: \u2018Over 408,000 Nigerians displaced to Cameroon, Niger, Chad\u2019",
-            "summary": "Over 408,000 Nigerian refugees remain displaced across three neighboring Lake Chad Basin countries, despite ongoing repatriation efforts by the Borno State Government. This highlights a persistent humanitarian crisis in the region, demanding continued international attention and support for affected populations and safe return efforts, emphasizing regional instability.",
-            "url": "https://punchng.com/insurgency-over-408000-nigerians-displaced-to-cameroon-niger-chad/",
-            "category": "International",
-            "date": "2026-01-08T23:21:26Z"
-        },
-        {
-            "title": "Embassy: Modern embedded framework, using Rust and async",
-            "summary": "Embassy is a next-generation framework developed for embedded applications, utilizing the Rust programming language and its asynchronous features. It enables developers to write safer, more correct, and energy-efficient embedded code at an accelerated pace. This technological advancement is crucial for modern systems, enhancing performance and reliability in diverse applications, from IoT devices to specialized hardware, reflecting significant progress in software development.",
-            "url": "https://github.com/embassy-rs/embassy",
-            "category": "Sci & Tech",
-            "date": "2026-01-08T23:00:45Z"
+            "title": "Should Strategic Ambiguity Be Saved?",
+            "summary": "Taiwan has begun distributing a new, cartoon-filled civil defense handbook to its citizens, detailing emergency preparedness like kit assembly and relief station procedures. This initiative underscores Taiwan's proactive approach to national resilience and citizen readiness. For SSB aspirants, this highlights the critical importance of civil defence strategies and public preparedness in safeguarding national security amidst geopolitical complexities and potential crisis scenarios.",
+            "url": "https://www.theamericanconservative.com/should-strategic-ambiguity-be-saved/",
+            "category": "Defence",
+            "date": "2026-01-09T05:01:00Z"
         }
     ]
 }
