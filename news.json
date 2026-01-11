@@ -1,26 +1,47 @@
 {
-    "last_updated": "2026-01-11T06:25:31.555306+00:00",
+    "last_updated": "2026-01-11T12:32:32.053896+00:00",
     "articles": [
         {
-            "title": "PSLV C62 mission: ISRO set to launch Earth Observation Satellite on January 12, check time, specifications, partner countries & other details",
-            "summary": "ISRO is launching its PSLV C62 mission on January 12, marking the start of its 2026 launch calendar. The mission will deploy the EOS-N1 earth observation satellite, alongside 14 other payloads. This highlights India's robust space program, providing vital data for various national applications and showcasing advanced indigenous technological capabilities for future strategic deployments.",
-            "url": "https://economictimes.indiatimes.com/news/science/pslv-c62-mission-isro-set-to-launch-earth-observation-satellite-on-january-12-check-time-specifications-partner-countries-other-details/articleshow/126448161.cms",
+            "title": "a3-tradehub-test-2 added to PyPI",
+            "summary": "The Ant-A3 Python SDK provides a streamlined, secure, and efficient interface for interacting with the Ant-A3 API. This powerful software development kit offers extensive features essential for managing diverse trading operations and monitoring real-time market data. It is crucial for developers and financial professionals seeking programmatic control over trading functionalities and robust data analysis, enhancing automation and decision-making in financial markets.",
+            "url": "https://pypi.org/project/a3-tradehub-test-2/",
             "category": "Sci & Tech",
-            "date": "2026-01-10T05:52:01Z"
+            "date": "2026-01-10T11:20:38Z"
         },
         {
-            "title": "20 Air Force officers believed to be involved in 'yeye' culture, says RMAF chief",
-            "summary": "Around 20 Royal Malaysian Air Force (RMAF) officers in Kuala Lumpur are reportedly involved in \"yeye culture,\" a term for immoral activities. RMAF chief Jeneral Datuk Seri Muhamad Norazlan Aris confirmed initial findings. This incident, implicating military personnel in misconduct, highlights concerns regarding discipline and ethical standards within the armed forces, suggesting potential internal investigations and disciplinary measures for those involved.",
-            "url": "https://www.thestar.com.my/news/nation/2026/01/10/20-air-force-officers-believed-to-be-involved-in-039yeye039-culture-says-rmaf-chief",
+            "title": "How do solar storms impact Earth\u2019s magnetic field? ISRO\u2019s Aditya-L1 decodes",
+            "summary": "ISRO's Aditya-L1 solar mission has provided crucial new insights into how powerful solar storms affect Earth's magnetic shield. The data helps understand the most severe impacts during direct storm events, contributing significantly to space weather research. This understanding is vital for improving predictions and developing mitigation strategies against solar disturbances, enhancing planetary protection.",
+            "url": "https://economictimes.indiatimes.com/news/science/how-do-solar-storms-impact-earths-magnetic-field-isros-aditya-l1-decodes/articleshow/126451277.cms",
+            "category": "Sci & Tech",
+            "date": "2026-01-10T10:41:55Z"
+        },
+        {
+            "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+            "summary": "The article discusses websites such as Dutamovie21, which facilitate free online movie streaming and downloads. It emphasizes that content found on these platforms, including Duniamovie21 and Samehadaku, often involves copyright infringement. This underscores the prevalent issue of digital piracy and the unauthorized distribution of films online, highlighting critical aspects of internet ethics and legal compliance in the digital age.",
+            "url": "https://oceanartsdesigns.com/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010/",
+            "category": "Sci & Tech",
+            "date": "2026-01-10T09:53:10Z"
+        },
+        {
+            "title": "Republic Day 2026: Why Delhi govt is using 1,275 kg of boneless chicken to guard the sky",
+            "summary": "For the Republic Day celebrations, the Delhi Forest Department adopted an unusual strategy to ensure the safety of fighter jet flypasts. They deployed 1,275 kg of boneless chicken to deter birds from the flight path over the national capital's skies. This unique approach aims to minimize bird strikes, safeguarding both the aircraft and spectators during the aerial display.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/republic-day-2026-why-delhi-govt-is-using-1275-kg-of-boneless-chicken-to-guard-the-sky/articleshow/126450760.cms",
+            "category": "National",
+            "date": "2026-01-10T09:49:47Z"
+        },
+        {
+            "title": "Finland's Minister of Defence H\u00e4kk\u00e4nen meets Supreme Allied Commander Europe of NATO",
+            "summary": "Finnish Defence Minister Antti H\u00e4kk\u00e4nen engaged with General Alexus G. Grynkewich, Supreme Allied Commander Europe (SACEUR). This significant meeting likely focused on enhancing defence cooperation and regional security, underscoring Finland's evolving role within NATO. For SSB aspirants, understanding such high-level military-diplomatic interactions is crucial for comprehending international defence strategies and alliance dynamics.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260109-finmod01.htm",
             "category": "Defence",
-            "date": "2026-01-10T05:36:00Z"
+            "date": "2026-01-10T09:34:20Z"
         },
         {
-            "title": "Tejas Networks Q3 Results: Cons loss widens to Rs 196 crore, revenue sinks 88% YoY",
-            "summary": "Indian telecom gear manufacturer Tejas Networks reported a consolidated loss of Rs 196.55 crore for the October-December quarter, its second consecutive loss. This was mainly due to lower sales. The financial setback for this domestic player highlights challenges in the competitive telecom equipment manufacturing sector, impacting India's technological self-reliance.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tejas-networks-q3-results-cons-loss-widens-to-rs-196-crore-revenue-sinks-88-yoy/articleshow/126447501.cms",
-            "category": "Sci & Tech",
-            "date": "2026-01-10T04:46:29Z"
+            "title": "Statement by Russian Defence Ministry",
+            "summary": "Overnight, five Ukrainian fixed-wing unmanned aerial vehicles were successfully intercepted and neutralised by alerted air defence systems. Two drones were shot down over the Bryansk region, indicating continued cross-border aerial activity. This incident highlights the ongoing use of drones in the conflict and the vigilance of defensive measures against such incursions.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/01/ukraine-260108-russia-mod01.htm",
+            "category": "Defence",
+            "date": "2026-01-10T09:24:05Z"
         }
     ]
 }
