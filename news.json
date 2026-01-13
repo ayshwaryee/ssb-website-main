@@ -1,68 +1,54 @@
 {
-    "last_updated": "2026-01-13T12:37:46.130682+00:00",
+    "last_updated": "2026-01-13T18:26:45.631812+00:00",
     "articles": [
         {
-            "title": "The athletes, coaches, lawmakers and officials who have picked a side in the SCOTUS women's sports battle",
-            "summary": "The U.S. Supreme Court is set to rule on two cases regarding the participation of biological males in women's sports. This highly debated issue has prompted hundreds of prominent figures in sports and politics to publicly declare their positions, underscoring the complexities and divided opinions surrounding fairness and gender identity in athletic competition.",
-            "url": "https://www.foxnews.com/sports/which-athletes-coaches-lawmakers-scientists-have-picked-side-scotus-womens-sports-battle",
-            "category": "National",
-            "date": "2026-01-12T12:35:04Z"
-        },
-        {
-            "title": "Bhartha Mahasayulaku Wignyapthi Movie Review LIVE Updates: Ravi Teja to clash with Chiranjeevi and Prabhas at box office",
-            "summary": "The latest film, 'Bhartha Mahasayulaku Wignyapthi', is currently receiving reviews, ratings, and live release updates. The movie is significant for actor Ravi Teja, who is reportedly banking on this release to reverse a recent series of box office disappointments. Its performance will be a key indicator for his career trajectory in the industry.",
-            "url": "https://indianexpress.com/article/entertainment/telugu/bhartha-mahasayulaku-wignyapthi-movie-review-rating-box-office-collection-live-updates-ravi-teja-10469147/",
-            "category": "National",
-            "date": "2026-01-12T12:32:51Z"
-        },
-        {
-            "title": "Armed pirates abduct nine sailors off Gabon coast",
-            "summary": "Nine sailors were abducted by armed assailants from a fishing trawler off Gabon's coast on Saturday night, the defence ministry reported. This incident marks the latest act of piracy in the region, highlighting ongoing maritime security challenges in international waters. Such events underscore the need for robust naval patrols and international cooperation to safeguard shipping routes and personnel.",
-            "url": "https://punchng.com/armed-pirates-abduct-nine-sailors-off-gabon-coast/",
+            "title": "Pakistani drones sighted along J&K's LoC & international border",
+            "summary": "Indian armed forces detected suspected drone movement along the International Border and Line of Control in Jammu and Kashmir's Samba, Rajouri, and Poonch districts over the past 24 hours. This highlights persistent security challenges in border areas, indicating potential surveillance or illicit activities. Such incidents necessitate enhanced vigilance and robust counter-drone measures by our defence forces to maintain national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/pakistani-drones-sighted-along-jks-loc-international-border/articleshow/126490744.cms",
             "category": "Defence",
-            "date": "2026-01-12T12:20:07Z"
+            "date": "2026-01-12T18:19:34Z"
         },
         {
-            "title": "span-aligner added to PyPI",
-            "summary": "This article introduces a software utility for precisely aligning and mapping text spans across different text representations. It's particularly useful for ensuring compatibility with data annotation tools like Label Studio, offering features to sanitize span boundaries. This technology is vital for developers and data scientists working on robust text processing and preparing high-quality datasets for machine learning applications.",
-            "url": "https://pypi.org/project/span-aligner/",
+            "title": "Linux Audio Conference 2026",
+            "summary": "The Linux Audio Conference (LAC) is an international event dedicated to free and open-source software for music, audio, and other media creation. It emphasizes GNU/Linux as the primary platform for developing these innovative tools. The conference serves as a global forum, bringing together developers and users passionate about advancing digital audio production through open technology and collaborative efforts.",
+            "url": "https://www.soundonsound.com/news/linux-audio-conference-2026",
             "category": "Sci & Tech",
-            "date": "2026-01-12T11:37:27Z"
+            "date": "2026-01-12T18:00:00Z"
         },
         {
-            "title": "India and Germany eye defence industry boost to ties",
-            "summary": "India and Germany are actively pursuing enhanced defence industry cooperation, as announced by Prime Minister Narendra Modi. Following his meeting with German Chancellor Friedrich Merz in Gujarat, PM Modi highlighted the mutual interest in strengthening defence ties. This move signifies a strategic push to boost manufacturing capabilities and technological exchange between the two nations, aiming for greater self-reliance and global partnership.",
-            "url": "https://www.channelnewsasia.com/asia/india-and-germany-eye-defence-industry-boost-ties-5852741",
+            "title": "Forest fire triggers landmine blasts along LoC in Poonch",
+            "summary": "A forest fire along the Line of Control (LoC) in Poonch, Jammu and Kashmir, caused multiple landmines to detonate. While no casualties were reported, this incident highlights the persistent security challenges and inherent dangers faced by defence personnel operating in volatile border regions. It underscores the importance of constant vigilance and readiness in managing the complex LoC environment, a critical aspect for national security.",
+            "url": "https://statetimes.in/forest-fire-triggers-landmine-blasts-along-loc-in-poonch-4/",
             "category": "Defence",
-            "date": "2026-01-12T11:23:47Z"
+            "date": "2026-01-12T17:44:16Z"
         },
         {
-            "title": "High-Voltage Equipment Market Projected to Reach US$ 281.88 Billion by 2035, Supported by European Transmission Investments Says Astute Analytica",
-            "summary": "The global high-voltage equipment market, valued at US$ 131.78 billion in 2025, is projected to nearly double, reaching US$ 281.88 billion by 2035. This significant growth, as highlighted in a report from Chicago, underscores a substantial expansion in demand for advanced electrical infrastructure and related technologies worldwide over the next decade.",
-            "url": "https://www.globenewswire.com/news-release/2026/01/12/3216656/0/en/High-Voltage-Equipment-Market-Projected-to-Reach-US-281-88-Billion-by-2035-Supported-by-European-Transmission-Investments-Says-Astute-Analytica.html",
+            "title": "Crypto OG Hal Finney Predicted Bitcoin Price To Reach $10 Million 17 Years Ago \u2014 Now Analysts Say He May Be Right",
+            "summary": "Cryptography pioneer Hal Finney, in 2009, astoundingly predicted Bitcoin (BTC) would reach a $10 million valuation per coin. This early forecast, made almost two decades ago, highlights the long-term vision of cryptocurrency's pioneers. It contextualizes current discussions around Bitcoin's price trajectory, showing how foundational figures anticipated its significant future value.",
+            "url": "https://zycrypto.com/crypto-og-hal-finney-predicted-bitcoin-price-to-reach-10-million-17-years-ago-now-analysts-say-he-may-be-right/",
             "category": "Sci & Tech",
-            "date": "2026-01-12T11:14:00Z"
+            "date": "2026-01-12T17:10:36Z"
         },
         {
-            "title": "Tejas Networks won big with BSNL\u2014so why is it losing money now?",
-            "summary": "Tejas Networks, a Tata group-backed telecom gear maker, initiated a major project in 2024-25 to deploy a 4G network across approximately 100,000 sites for state-owned Bharat Sanchar Nigam Ltd (BSNL). This significant undertaking highlights indigenous capabilities in developing critical national telecommunications infrastructure, marking a milestone in enhancing India's domestic digital connectivity.",
-            "url": "https://www.livemint.com/companies/tejas-networks-bsnl-order-delay-inventory-losses-financial-struggle-investors-11768209578166.html",
+            "title": "Highway crash leaves woman dead northeast of Winnipeg",
+            "summary": "A 78-year-old woman died following a fatal car crash in the rural municipality of Lac du Bonnet on Friday. Driving west on Minnewawa Street, her vehicle reportedly entered the Highway 11 intersection, leading to the collision. This tragic incident highlights the importance of road safety and careful driving, especially at intersections, to prevent such unfortunate outcomes.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/highway-crash-leaves-woman-dead-northeast-of-winnipeg-9.7042164",
             "category": "National",
-            "date": "2026-01-12T10:56:39Z"
+            "date": "2026-01-12T16:50:55Z"
         },
         {
-            "title": "India and Germany eye defence industry boost to ties",
-            "summary": "German Chancellor Friedrich Merz and Indian Prime Minister Narendra Modi attended a kite flying festival, symbolizing cultural diplomacy ahead of their official discussions. The leaders aim to bolster bilateral relations, fostering cooperation across diverse sectors. This high-level engagement signifies both nations' commitment to enhancing strategic partnership, addressing global challenges, and strengthening economic ties for mutual benefit.",
-            "url": "https://www.digitaljournal.com/world/india-and-germany-eye-defence-industry-boost-to-ties/article",
-            "category": "International",
-            "date": "2026-01-12T10:52:32Z"
+            "title": "Russia\u2019s Invasion of Ukraine Has Now Lasted Longer Than Nazi Germany\u2019s War Against the Soviet Union",
+            "summary": "As of January 2026, Russia's ongoing invasion of Ukraine has reportedly surpassed the duration of Nazi Germany's war against the Soviet Union. This significant comparison, highlighted by United 24 Media, underscores the prolonged nature and devastating impact of the current conflict. The grim milestone draws attention to the immense historical scale of the geopolitical struggle in Eastern Europe and its continued human cost.",
+            "url": "https://freerepublic.com/focus/f-news/4361711/posts",
+            "category": "Defence",
+            "date": "2026-01-12T16:26:35Z"
         },
         {
-            "title": "Market Wrap: Sensex adds 302 pts, Nifty above 25,750 as D-St ends 5-day losing run, rebounding on US trade deal hopes",
-            "summary": "Indian equities, with the Sensex and Nifty, closed higher Monday, breaking a five-session losing streak. A late-afternoon rebound saw investors take comfort from signs of renewed engagement, likely between major global entities. This market recovery reflects improved national economic sentiment and investor confidence amidst evolving international dynamics, signaling stability for aspirants observing current affairs.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-adds-302-pts-nifty-above-25750-as-d-st-ends-5-day-losing-run-rebounding-on-us-trade-deal-hopes/articleshow/126481809.cms",
-            "category": "National",
-            "date": "2026-01-12T10:32:39Z"
+            "title": "DRDO successfully flight-tests man portable anti-tank guided missile",
+            "summary": "India successfully test-fired a new, advanced version of a man-portable anti-tank guided missile (MPATGM) at a Maharashtra firing range. The Defence Ministry confirmed its \"top attack capability,\" designed to target tanks from above, enhancing its lethality. This successful trial signifies a boost for indigenous defence manufacturing and strengthens the Indian Army's anti-armour capabilities, crucial for modern warfare.",
+            "url": "https://economictimes.indiatimes.com/news/defence/drdo-successfully-flight-tests-man-portable-anti-tank-guided-missile/articleshow/126488122.cms",
+            "category": "Defence",
+            "date": "2026-01-12T16:17:11Z"
         }
     ]
 }
