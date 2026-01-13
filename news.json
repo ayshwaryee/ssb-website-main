@@ -1,19 +1,68 @@
 {
-    "last_updated": "2026-01-13T06:27:33.091910+00:00",
+    "last_updated": "2026-01-13T12:37:46.130682+00:00",
     "articles": [
         {
-            "title": "2026 Tata Punch launch tomorrow: Everything you need to know",
-            "summary": "Jaish-e-Mohammed chief Masood Azhar has reportedly re-emerged, issuing an audio threat as India continues to tighten its terror noose. This highlights the persistent national security challenges posed by terror outfits. SSB aspirants should understand India's ongoing counter-terrorism strategies and vigilance required against such threats to maintain regional stability and national integrity.",
-            "url": "https://timesofindia.indiatimes.com/auto/cars/2026-tata-punch-launch-tomorrow-everything-you-need-to-know/articleshow/126476337.cms",
-            "category": "Defence",
-            "date": "2026-01-12T06:25:25Z"
+            "title": "The athletes, coaches, lawmakers and officials who have picked a side in the SCOTUS women's sports battle",
+            "summary": "The U.S. Supreme Court is set to rule on two cases regarding the participation of biological males in women's sports. This highly debated issue has prompted hundreds of prominent figures in sports and politics to publicly declare their positions, underscoring the complexities and divided opinions surrounding fairness and gender identity in athletic competition.",
+            "url": "https://www.foxnews.com/sports/which-athletes-coaches-lawmakers-scientists-have-picked-side-scotus-womens-sports-battle",
+            "category": "National",
+            "date": "2026-01-12T12:35:04Z"
         },
         {
-            "title": "Himachal Pradesh\u2019s Arki market blaze: 8-year-old dies, several feared trapped in Solan; SDRF joins rescue efforts",
-            "summary": "Jaish-e-Mohammed (Jem) chief Masood Azhar has reportedly resurfaced with an audio threat, highlighting persistent terror challenges. This comes as India intensifies its counter-terrorism operations, tightening its grip against extremist elements. This development underscores the continuous vigilance and robust security measures required to counter such threats to national security, a key area for aspiring officers.",
-            "url": "https://timesofindia.indiatimes.com/city/shimla/solans-arki-market-blaze-8-year-old-dies-several-feared-trapped-sdrf-joins-rescue-efforts/articleshow/126477138.cms",
+            "title": "Bhartha Mahasayulaku Wignyapthi Movie Review LIVE Updates: Ravi Teja to clash with Chiranjeevi and Prabhas at box office",
+            "summary": "The latest film, 'Bhartha Mahasayulaku Wignyapthi', is currently receiving reviews, ratings, and live release updates. The movie is significant for actor Ravi Teja, who is reportedly banking on this release to reverse a recent series of box office disappointments. Its performance will be a key indicator for his career trajectory in the industry.",
+            "url": "https://indianexpress.com/article/entertainment/telugu/bhartha-mahasayulaku-wignyapthi-movie-review-rating-box-office-collection-live-updates-ravi-teja-10469147/",
+            "category": "National",
+            "date": "2026-01-12T12:32:51Z"
+        },
+        {
+            "title": "Armed pirates abduct nine sailors off Gabon coast",
+            "summary": "Nine sailors were abducted by armed assailants from a fishing trawler off Gabon's coast on Saturday night, the defence ministry reported. This incident marks the latest act of piracy in the region, highlighting ongoing maritime security challenges in international waters. Such events underscore the need for robust naval patrols and international cooperation to safeguard shipping routes and personnel.",
+            "url": "https://punchng.com/armed-pirates-abduct-nine-sailors-off-gabon-coast/",
             "category": "Defence",
-            "date": "2026-01-12T06:23:46Z"
+            "date": "2026-01-12T12:20:07Z"
+        },
+        {
+            "title": "span-aligner added to PyPI",
+            "summary": "This article introduces a software utility for precisely aligning and mapping text spans across different text representations. It's particularly useful for ensuring compatibility with data annotation tools like Label Studio, offering features to sanitize span boundaries. This technology is vital for developers and data scientists working on robust text processing and preparing high-quality datasets for machine learning applications.",
+            "url": "https://pypi.org/project/span-aligner/",
+            "category": "Sci & Tech",
+            "date": "2026-01-12T11:37:27Z"
+        },
+        {
+            "title": "India and Germany eye defence industry boost to ties",
+            "summary": "India and Germany are actively pursuing enhanced defence industry cooperation, as announced by Prime Minister Narendra Modi. Following his meeting with German Chancellor Friedrich Merz in Gujarat, PM Modi highlighted the mutual interest in strengthening defence ties. This move signifies a strategic push to boost manufacturing capabilities and technological exchange between the two nations, aiming for greater self-reliance and global partnership.",
+            "url": "https://www.channelnewsasia.com/asia/india-and-germany-eye-defence-industry-boost-ties-5852741",
+            "category": "Defence",
+            "date": "2026-01-12T11:23:47Z"
+        },
+        {
+            "title": "High-Voltage Equipment Market Projected to Reach US$ 281.88 Billion by 2035, Supported by European Transmission Investments Says Astute Analytica",
+            "summary": "The global high-voltage equipment market, valued at US$ 131.78 billion in 2025, is projected to nearly double, reaching US$ 281.88 billion by 2035. This significant growth, as highlighted in a report from Chicago, underscores a substantial expansion in demand for advanced electrical infrastructure and related technologies worldwide over the next decade.",
+            "url": "https://www.globenewswire.com/news-release/2026/01/12/3216656/0/en/High-Voltage-Equipment-Market-Projected-to-Reach-US-281-88-Billion-by-2035-Supported-by-European-Transmission-Investments-Says-Astute-Analytica.html",
+            "category": "Sci & Tech",
+            "date": "2026-01-12T11:14:00Z"
+        },
+        {
+            "title": "Tejas Networks won big with BSNL\u2014so why is it losing money now?",
+            "summary": "Tejas Networks, a Tata group-backed telecom gear maker, initiated a major project in 2024-25 to deploy a 4G network across approximately 100,000 sites for state-owned Bharat Sanchar Nigam Ltd (BSNL). This significant undertaking highlights indigenous capabilities in developing critical national telecommunications infrastructure, marking a milestone in enhancing India's domestic digital connectivity.",
+            "url": "https://www.livemint.com/companies/tejas-networks-bsnl-order-delay-inventory-losses-financial-struggle-investors-11768209578166.html",
+            "category": "National",
+            "date": "2026-01-12T10:56:39Z"
+        },
+        {
+            "title": "India and Germany eye defence industry boost to ties",
+            "summary": "German Chancellor Friedrich Merz and Indian Prime Minister Narendra Modi attended a kite flying festival, symbolizing cultural diplomacy ahead of their official discussions. The leaders aim to bolster bilateral relations, fostering cooperation across diverse sectors. This high-level engagement signifies both nations' commitment to enhancing strategic partnership, addressing global challenges, and strengthening economic ties for mutual benefit.",
+            "url": "https://www.digitaljournal.com/world/india-and-germany-eye-defence-industry-boost-to-ties/article",
+            "category": "International",
+            "date": "2026-01-12T10:52:32Z"
+        },
+        {
+            "title": "Market Wrap: Sensex adds 302 pts, Nifty above 25,750 as D-St ends 5-day losing run, rebounding on US trade deal hopes",
+            "summary": "Indian equities, with the Sensex and Nifty, closed higher Monday, breaking a five-session losing streak. A late-afternoon rebound saw investors take comfort from signs of renewed engagement, likely between major global entities. This market recovery reflects improved national economic sentiment and investor confidence amidst evolving international dynamics, signaling stability for aspirants observing current affairs.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-adds-302-pts-nifty-above-25750-as-d-st-ends-5-day-losing-run-rebounding-on-us-trade-deal-hopes/articleshow/126481809.cms",
+            "category": "National",
+            "date": "2026-01-12T10:32:39Z"
         }
     ]
 }
