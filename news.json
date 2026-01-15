@@ -1,47 +1,54 @@
 {
-    "last_updated": "2026-01-14T18:27:46.449242+00:00",
+    "last_updated": "2026-01-15T01:18:09.936535+00:00",
     "articles": [
         {
-            "title": "US commander says Russia and China's Arctic patrols are 'not for peaceful purposes'",
-            "summary": "A U.S. commander warns that Russia and China are strategically expanding their Arctic presence, driven by non-peaceful interests, not science. This indicates escalating geopolitical competition and potential military implications in the vital, resource-rich region. Their assertive moves raise significant concerns for international security and stability, demanding attention from global powers.",
-            "url": "https://www.foxnews.com/politics/us-commander-says-russia-chinas-arctic-patrols-not-peaceful-purposes",
-            "category": "International",
-            "date": "2026-01-13T18:00:51Z"
-        },
-        {
-            "title": "India, France co-chair key strategic dialogue in Delhi",
-            "summary": "India and France co-chaired a strategic dialogue in New Delhi, exploring opportunities for joint development and collaboration. The discussions emphasized aligning efforts with India's 'Make in India' and 'Aatmanirbhar Bharat' initiatives. This partnership aims to strengthen strategic ties, likely focusing on key sectors like defence, technology transfer, and co-production, bolstering both nations' self-reliance and shared security interests.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-france-co-chair-key-strategic-dialogue-in-delhi/articleshow/126510893.cms",
+            "title": "India and France co-chair strategic dialogue on defence, technology, nuclear ties",
+            "summary": "India and France co-chaired a crucial strategic dialogue, exploring joint development and collaboration opportunities. This initiative aligns with India's 'Make in India' and 'Aatmanirbhar Bharat' vision, aiming to bolster self-reliance through international partnership. The discussions underscore deepening bilateral ties and strategic cooperation, particularly in defence and technology sectors, vital for national security and economic growth.",
+            "url": "https://www.thehindubusinessline.com/news/india-and-france-co-chair-strategic-dialogue-on-defence-technology-nuclear-ties/article70507878.ece",
             "category": "Defence",
-            "date": "2026-01-13T17:55:24Z"
+            "date": "2026-01-14T00:46:06Z"
         },
         {
-            "title": "India looking at raising 'rocket-cum-missile' force: Army chief",
-            "summary": "Army Chief Gen Upendra Dwivedi announced India's plans to raise a 'rocket-cum-missile' force. This strategic move aims to counter evolving regional security challenges, especially given that China and Pakistan already possess similar units. The initiative is crucial for strengthening India's conventional deterrence and modernizing its military capabilities to maintain strategic balance in the region.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-looking-at-raising-rocket-cum-missile-force-army-chief/articleshow/126510469.cms",
+            "title": "Shaksgam Valley is Indian territory, says Army chief amid China projects",
+            "summary": "Army Chief Gen Upendra Dwivedi declared India considers the 1963 agreement between Pakistan and China regarding the Shaksgam Valley \"illegal\". This statement reaffirms India's consistent position, asserting that Pakistan illegally ceded Indian territory to China. It underscores India's firm stance on its sovereign claims and territorial integrity, highlighting critical national security and border dispute issues for SSB aspirants.",
+            "url": "https://www.thehindubusinessline.com/news/shaksgam-valley-is-indian-territory-says-army-chief-amid-china-projects/article70507879.ece",
             "category": "Defence",
-            "date": "2026-01-13T17:32:21Z"
+            "date": "2026-01-14T00:40:54Z"
         },
         {
-            "title": "LAC stable, misadventures will face firm response on western front: Gen Dwivedi",
-            "summary": "Army Chief Gen Upendra Dwivedi stated that the eastern Ladakh border with China remains stable but needs constant monitoring. He underscored the Indian Army's readiness to counter any northern border threats and warned Pakistan against supporting terrorism. Gen Dwivedi also highlighted the force's focus on modernization, integrating cutting-edge technology, and promoting indigenous defence production to bolster operational capabilities and ensure future preparedness against evolving security challenges.",
-            "url": "https://statetimes.in/lac-stable-misadventures-will-face-firm-response-on-western-front-gen-dwivedi/",
+            "title": "India mulls raising rocket-cum-missile force amid China, Pakistan threat",
+            "summary": "Indian Army Chief Gen Upendra Dwivedi announced plans for India to establish a dedicated \"rocket-cum-missile\" force. This strategic initiative is a response to the evolving regional security situation, considering both China and Pakistan already possess similar units. The move aims to enhance India's defence capabilities and ensure robust preparedness against emerging threats, reinforcing national security measures.",
+            "url": "https://www.thehindubusinessline.com/news/india-mulls-raising-rocket-cum-missile-force-amid-china-pakistan-threat/article70507880.ece",
             "category": "Defence",
-            "date": "2026-01-13T17:20:25Z"
+            "date": "2026-01-14T00:36:27Z"
         },
         {
-            "title": "The researcher making music education personal",
-            "summary": "Reports indicate Iran's Supreme Leader, Khamenei, has issued a 'shoot at sight' order to the IRGC and police amid ongoing internal unrest. This directive has reportedly resulted in a staggering 12,000 fatalities within just 48 hours. The grim situation underscores an extremely severe crackdown on dissent within Iran, highlighting the drastic measures being employed by the regime against its own populace.",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/the-researcher-making-music-education-personal/articleshow/126509898.cms",
-            "category": "International",
-            "date": "2026-01-13T17:19:54Z"
+            "title": "Reinforcement learning-driven model predictive control for optimizing counter-rotating permanent magnet synchronous motor in submarine propulsion system",
+            "summary": "The provided text highlights recent research, specifically a 2024 study by Peng et al. investigating the hydrodynamic performance of shaftless rim-driven thrusters. This indicates ongoing advancements in marine engineering and propulsion system technology. While the full article content isn't available, the focus on innovative thruster designs suggests crucial developments in naval architecture and potentially quieter, more efficient systems vital for future maritime operations and defence capabilities.",
+            "url": "https://www.nature.com/articles/s41598-026-36126-9",
+            "category": "Sci & Tech",
+            "date": "2026-01-14T00:00:00Z"
         },
         {
-            "title": "Three lion cubs born at Sanjay Gandhi National Park",
-            "summary": "Supreme Leader Khamenei reportedly ordered Iran's IRGC and police to 'shoot at sight', leading to an estimated 12,000 deaths within 48 hours. This signifies a severe internal crackdown and human rights crisis in Iran, potentially impacting regional stability. Separately, three lion cubs were born at Sanjay Gandhi National Park in India, contributing to wildlife conservation efforts.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/three-lion-cubs-born-at-sanjay-gandhi-national-park/articleshow/126509981.cms",
+            "title": "In situ growth rates of cold-water corals fouling oceanographic moorings in the Central Mediterranean Sea",
+            "summary": "A study by Van Oevelen et al. investigates cold-water coral communities on continental margins, specifically the Rockall Bank in the Northeast Atlantic. Using food-web analysis, researchers identified these communities as critical hotspots for carbon cycling. This research highlights the significant ecological role of deep-sea corals in marine ecosystems and their contribution to global carbon dynamics, crucial for understanding oceanic health.",
+            "url": "https://www.nature.com/articles/s41598-025-34582-3",
+            "category": "Sci & Tech",
+            "date": "2026-01-14T00:00:00Z"
+        },
+        {
+            "title": "MACC hails anti-graft overhaul at Mindef",
+            "summary": "Malaysia's Defence Ministry has implemented a major overhaul of its anti-corruption plan, a welcomed move by the Malaysian Anti-Corruption Commission. This comprehensive initiative aims to decisively curb misconduct and abuse of power within the defence sector. The reforms are designed to bolster integrity, accountability, and transparent governance, ensuring efficient resource management crucial for national security.",
+            "url": "https://www.thestar.com.my/news/nation/2026/01/14/macc-hails-anti-graft-overhaul-at-mindef",
+            "category": "Defence",
+            "date": "2026-01-13T23:00:00Z"
+        },
+        {
+            "title": "Trump\u2019s \u201cWild West\u201d and the Greenland Move. \u201cGreenland is Ours \u2026The U.S. is Ready to Use Force \u2026\u201d",
+            "summary": "The United States is openly questioning Denmark's legal control over Greenland, with a former Trump administration official even suggesting a potential annexation scenario. This development signifies escalating geopolitical tensions and highlights Greenland's strategic importance in the Arctic region. For SSB aspirants, this underscores the dynamic nature of international relations and challenges to established national sovereignty.",
+            "url": "https://www.globalresearch.ca/trump-wild-west-greenland-move/5912143",
             "category": "International",
-            "date": "2026-01-13T17:06:00Z"
+            "date": "2026-01-13T19:46:48Z"
         }
     ]
 }
