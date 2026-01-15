@@ -1,54 +1,19 @@
 {
-    "last_updated": "2026-01-15T01:18:09.936535+00:00",
+    "last_updated": "2026-01-15T06:27:35.723095+00:00",
     "articles": [
         {
-            "title": "India and France co-chair strategic dialogue on defence, technology, nuclear ties",
-            "summary": "India and France co-chaired a crucial strategic dialogue, exploring joint development and collaboration opportunities. This initiative aligns with India's 'Make in India' and 'Aatmanirbhar Bharat' vision, aiming to bolster self-reliance through international partnership. The discussions underscore deepening bilateral ties and strategic cooperation, particularly in defence and technology sectors, vital for national security and economic growth.",
-            "url": "https://www.thehindubusinessline.com/news/india-and-france-co-chair-strategic-dialogue-on-defence-technology-nuclear-ties/article70507878.ece",
+            "title": "Dominant outings in crosstown rivalry basketball games between Oshkosh schools",
+            "summary": "The article details the season's first basketball matchup between crosstown rivals Oshkosh North and Oshkosh West in Oshkosh. Hosted by Oshkosh West, their girls' team secured a victory with a score of 67. This event marked the commencement of the competitive season for both boys' and girls' teams, initiating their local rivalry.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/basketball/2026/01/14/takeaways-from-oshkosh-west-vs-oshkosh-north-girls-and-boys-basketball/88101166007/",
+            "category": "National",
+            "date": "2026-01-14T06:21:11Z"
+        },
+        {
+            "title": "'Of course it's not safe': Small Russian city tries to shrug off war",
+            "summary": "Authorities in Russia's western regions, including Tver, are regularly implementing prolonged mobile phone service shutdowns. Locals face hours without phone access, a deliberate state measure likely aimed at national security. This widespread communication disruption points to tactical responses against potential external threats or information control efforts, significantly impacting daily life for citizens in these areas and highlighting the intersection of technology and defence strategy.",
+            "url": "https://economictimes.indiatimes.com/news/defence/of-course-its-not-safe-small-russian-city-tries-to-shrug-off-war/articleshow/126515738.cms",
             "category": "Defence",
-            "date": "2026-01-14T00:46:06Z"
-        },
-        {
-            "title": "Shaksgam Valley is Indian territory, says Army chief amid China projects",
-            "summary": "Army Chief Gen Upendra Dwivedi declared India considers the 1963 agreement between Pakistan and China regarding the Shaksgam Valley \"illegal\". This statement reaffirms India's consistent position, asserting that Pakistan illegally ceded Indian territory to China. It underscores India's firm stance on its sovereign claims and territorial integrity, highlighting critical national security and border dispute issues for SSB aspirants.",
-            "url": "https://www.thehindubusinessline.com/news/shaksgam-valley-is-indian-territory-says-army-chief-amid-china-projects/article70507879.ece",
-            "category": "Defence",
-            "date": "2026-01-14T00:40:54Z"
-        },
-        {
-            "title": "India mulls raising rocket-cum-missile force amid China, Pakistan threat",
-            "summary": "Indian Army Chief Gen Upendra Dwivedi announced plans for India to establish a dedicated \"rocket-cum-missile\" force. This strategic initiative is a response to the evolving regional security situation, considering both China and Pakistan already possess similar units. The move aims to enhance India's defence capabilities and ensure robust preparedness against emerging threats, reinforcing national security measures.",
-            "url": "https://www.thehindubusinessline.com/news/india-mulls-raising-rocket-cum-missile-force-amid-china-pakistan-threat/article70507880.ece",
-            "category": "Defence",
-            "date": "2026-01-14T00:36:27Z"
-        },
-        {
-            "title": "Reinforcement learning-driven model predictive control for optimizing counter-rotating permanent magnet synchronous motor in submarine propulsion system",
-            "summary": "The provided text highlights recent research, specifically a 2024 study by Peng et al. investigating the hydrodynamic performance of shaftless rim-driven thrusters. This indicates ongoing advancements in marine engineering and propulsion system technology. While the full article content isn't available, the focus on innovative thruster designs suggests crucial developments in naval architecture and potentially quieter, more efficient systems vital for future maritime operations and defence capabilities.",
-            "url": "https://www.nature.com/articles/s41598-026-36126-9",
-            "category": "Sci & Tech",
-            "date": "2026-01-14T00:00:00Z"
-        },
-        {
-            "title": "In situ growth rates of cold-water corals fouling oceanographic moorings in the Central Mediterranean Sea",
-            "summary": "A study by Van Oevelen et al. investigates cold-water coral communities on continental margins, specifically the Rockall Bank in the Northeast Atlantic. Using food-web analysis, researchers identified these communities as critical hotspots for carbon cycling. This research highlights the significant ecological role of deep-sea corals in marine ecosystems and their contribution to global carbon dynamics, crucial for understanding oceanic health.",
-            "url": "https://www.nature.com/articles/s41598-025-34582-3",
-            "category": "Sci & Tech",
-            "date": "2026-01-14T00:00:00Z"
-        },
-        {
-            "title": "MACC hails anti-graft overhaul at Mindef",
-            "summary": "Malaysia's Defence Ministry has implemented a major overhaul of its anti-corruption plan, a welcomed move by the Malaysian Anti-Corruption Commission. This comprehensive initiative aims to decisively curb misconduct and abuse of power within the defence sector. The reforms are designed to bolster integrity, accountability, and transparent governance, ensuring efficient resource management crucial for national security.",
-            "url": "https://www.thestar.com.my/news/nation/2026/01/14/macc-hails-anti-graft-overhaul-at-mindef",
-            "category": "Defence",
-            "date": "2026-01-13T23:00:00Z"
-        },
-        {
-            "title": "Trump\u2019s \u201cWild West\u201d and the Greenland Move. \u201cGreenland is Ours \u2026The U.S. is Ready to Use Force \u2026\u201d",
-            "summary": "The United States is openly questioning Denmark's legal control over Greenland, with a former Trump administration official even suggesting a potential annexation scenario. This development signifies escalating geopolitical tensions and highlights Greenland's strategic importance in the Arctic region. For SSB aspirants, this underscores the dynamic nature of international relations and challenges to established national sovereignty.",
-            "url": "https://www.globalresearch.ca/trump-wild-west-greenland-move/5912143",
-            "category": "International",
-            "date": "2026-01-13T19:46:48Z"
+            "date": "2026-01-14T01:52:22Z"
         }
     ]
 }
