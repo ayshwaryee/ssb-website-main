@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-01-15T06:27:35.723095+00:00",
+    "last_updated": "2026-01-15T12:36:48.630103+00:00",
     "articles": [
         {
-            "title": "Dominant outings in crosstown rivalry basketball games between Oshkosh schools",
-            "summary": "The article details the season's first basketball matchup between crosstown rivals Oshkosh North and Oshkosh West in Oshkosh. Hosted by Oshkosh West, their girls' team secured a victory with a score of 67. This event marked the commencement of the competitive season for both boys' and girls' teams, initiating their local rivalry.",
-            "url": "https://www.thenorthwestern.com/story/sports/high-school/basketball/2026/01/14/takeaways-from-oshkosh-west-vs-oshkosh-north-girls-and-boys-basketball/88101166007/",
-            "category": "National",
-            "date": "2026-01-14T06:21:11Z"
+            "title": "KID re-entry capsule transmitted data after separation from PSLV-C62: Spanish start up",
+            "summary": "Spanish startup Orbital Paradigm claims its Kestrel Initial Technology Demonstrator (KID) capsule survived the failed PSLV-C62 mission. Despite the rocket's failure, the company asserts the KID separated and transmitted data. This unconfirmed report, awaiting official verification from ISRO, highlights potential for unexpected payload resilience even during mission anomalies, a notable event in space technology.",
+            "url": "https://economictimes.indiatimes.com/news/science/kid-re-entry-capsule-transmitted-data-after-separation-from-pslv-c62-spanish-start-up/articleshow/126526772.cms",
+            "category": "Sci & Tech",
+            "date": "2026-01-14T12:21:29Z"
         },
         {
-            "title": "'Of course it's not safe': Small Russian city tries to shrug off war",
-            "summary": "Authorities in Russia's western regions, including Tver, are regularly implementing prolonged mobile phone service shutdowns. Locals face hours without phone access, a deliberate state measure likely aimed at national security. This widespread communication disruption points to tactical responses against potential external threats or information control efforts, significantly impacting daily life for citizens in these areas and highlighting the intersection of technology and defence strategy.",
-            "url": "https://economictimes.indiatimes.com/news/defence/of-course-its-not-safe-small-russian-city-tries-to-shrug-off-war/articleshow/126515738.cms",
+            "title": "Review \u2013 DC KO #3: Tag Team Terror",
+            "summary": "A recent comic book review details the ongoing 'DC KO' event, now progressing to its quarter-final stage. After eight preliminary one-shots and tie-ins, only eight contenders remain. These remaining participants are set to face a critical and challenging test involving the powerful 'Heart of Apokalips', signaling an intense competition within the DC universe.",
+            "url": "https://geekdad.com/2026/01/review-dc-ko-3-tag-team-terror/",
             "category": "Defence",
-            "date": "2026-01-14T01:52:22Z"
+            "date": "2026-01-14T12:00:22Z"
+        },
+        {
+            "title": "India Approves Boeing 767 Tankers to Fill Long-Standing Refueling Capability Gap",
+            "summary": "India's Ministry of Defence approved acquiring six Boeing B-767 airliners for conversion into aerial refuellers by Israel Aerospace Industries. This crucial step enhances the Indian Air Force's operational reach and endurance, significantly boosting its strategic capabilities for long-range missions and power projection. The move underscores India's commitment to modernizing its aerial assets and strengthens defence cooperation.",
+            "url": "https://theaviationist.com/2026/01/14/india-approves-boeing-767-tankers/",
+            "category": "Defence",
+            "date": "2026-01-14T11:59:57Z"
+        },
+        {
+            "title": "Russia says attack on oil tanker near CPC was carried out by Ukrainian drones",
+            "summary": "The Russian Ministry of Defence reported an attack on its 'Matilda' oil tanker in the Black Sea on January 13th. Moscow stated two Ukrainian unmanned aerial vehicles (UAVs) were responsible, striking the vessel approximately 100 km offshore. This incident highlights ongoing naval tensions and drone warfare tactics in the conflict zone, underscoring the strategic importance of Black Sea shipping routes amidst the Ukraine war.",
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/14/russia-says-attack-on-oil-tanker-near-cpc-was-carried-out-by-ukrainian-drones",
+            "category": "Defence",
+            "date": "2026-01-14T11:37:27Z"
+        },
+        {
+            "title": "Pre-Order Alert: McFarlane Toys DC Direct Platinum Edition The Flash 7-in Action Figure With Comic",
+            "summary": "The article announces the pre-order availability of the new McFarlane Toys DC Direct Platinum Edition The Flash 7-inch Action Figure, which includes a comic. Now available at Gamestop, this release targets collectors and fans of the DC universe, offering a new collectible for enthusiasts to acquire as part of their merchandise.",
+            "url": "https://toynewsi.com/14-61374",
+            "category": "Sci & Tech",
+            "date": "2026-01-14T11:12:11Z"
+        },
+        {
+            "title": "'We must strengthen Arctic defences to deter Putin' Foreign Secretary says during Arctic visit",
+            "summary": "Britain's Foreign Secretary emphasized the critical importance of Arctic security for protecting the UK and NATO during her visit to the High North. She pledged support for allies in the region, highlighting its strategic significance. Additionally, Labour's Yvette Cooper is set to advocate for increased NATO engagement and a stronger presence in the Arctic, underlining the growing security concerns.",
+            "url": "https://www.gov.uk/government/news/we-must-strengthen-arctic-defences-to-deter-putin-foreign-secretary-says-during-arctic-visit",
+            "category": "Defence",
+            "date": "2026-01-14T11:01:57Z"
+        },
+        {
+            "title": "Pre-Order Alert: McFarlane Toys DC Direct Page Punchers Green Lantern and Flash Figures",
+            "summary": "A customer expressed high satisfaction with Best Buy's service, reporting a swift delivery of their \"Professor Pyg\" order. Placed on the 7th, the item was received by the 9th, demonstrating efficient logistics and quick fulfillment in the e-commerce sector. This positive consumer experience highlights the operational capabilities of major retailers in meeting customer expectations for prompt service.",
+            "url": "https://toynewsi.com/14-61371",
+            "category": "National",
+            "date": "2026-01-14T11:00:04Z"
         }
     ]
 }
