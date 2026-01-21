@@ -1,19 +1,61 @@
 {
-    "last_updated": "2026-01-21T06:29:51.211072+00:00",
+    "last_updated": "2026-01-21T12:39:54.112718+00:00",
     "articles": [
         {
-            "title": "India exports Pinaka rockets to Armenia: Check the guided missile system\u2019s capabilities that even France is interested in",
-            "summary": "Defence Minister Rajnath Singh flagged off the first batch of guided Pinaka rocket systems destined for Armenia from Nagpur. This significant defence export underscores India's growing capabilities in manufacturing advanced weaponry and its commitment to 'Make in India' for global markets. The deal strengthens strategic defence cooperation between India and Armenia, marking a notable milestone in India's defence exports.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-exports-pinaka-rockets-to-armenia-check-the-guided-missile-systems-capabilities-that-even-france-is-interested-in/articleshow/126759755.cms",
-            "category": "Defence",
-            "date": "2026-01-20T05:54:01Z"
+            "title": "Mail: Why does Prince William still refuse to wear a kilt during his visits to Scotland?",
+            "summary": "The British press has frequently pointed out Prince William's departure from royal tradition concerning wearing a kilt in Scotland. Historically, male royals have consistently donned kilts for public events in Scotland. This observation sparks a cultural discussion on modern royal adherence to historic customs, particularly within a region possessing distinct sartorial heritage, becoming a minor point of media scrutiny.",
+            "url": "https://www.celebitchy.com/957841/mail_why_does_prince_william_still_refuse_to_wear_a_kilt_during_his_visits_to_scotland/",
+            "category": "International",
+            "date": "2026-01-20T12:10:59Z"
         },
         {
-            "title": "Syria tightens grip after Kurds pull back, but Islamic State prisoners escape",
-            "summary": "Accusations have surfaced against the Syrian Democratic Forces (SDF) for allegedly freeing militants from Shaddadi prison in Syria, claims which the SDF strongly denies. Concurrently, Syrian government troops are consolidating their control across significant northern and eastern territories. This situation highlights the complex and volatile multi-faction conflict continuing in Syria, impacting regional stability and security dynamics.",
-            "url": "https://www.independent.ie/world-news/middle-east/syria-tightens-grip-after-kurds-pull-back-but-islamic-state-prisoners-escape/a642864840.html",
-            "category": "International",
-            "date": "2026-01-20T05:30:00Z"
+            "title": "Defence budget may grow 8\u201310% annually; execution key for defence stocks: Amit Anwani, PL Capital",
+            "summary": "India's upcoming Budget is unlikely to see a sharp increase in defence spending as a percentage of GDP. However, capital outlays for defence are projected to grow steadily by 8-10% annually over the next few years. This indicates a sustained focus on modernization and capacity building for the armed forces, crucial for national security and strategic preparedness.",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/defence-budget-may-grow-810-annually-execution-key-for-defence-stocks-amit-anwani-pl-capital/articleshow/126795040.cms",
+            "category": "Defence",
+            "date": "2026-01-20T11:44:15Z"
+        },
+        {
+            "title": "Defence Ministry announces four senior Armed Forces appointments",
+            "summary": "Malaysia's Defence Ministry announced the appointment of four senior Malaysian Armed Forces (MAF) officers, including the Malaysian Institute of Defence and Security (MiDAS) chief executive. These key personnel changes aim to strengthen leadership within the MAF. For an SSB aspirant, such appointments highlight the continuous need for robust command structures and strategic human resource management in national defence.",
+            "url": "https://www.thestar.com.my/news/nation/2026/01/20/defence-ministry-announces-four-senior-armed-forces-appointments",
+            "category": "Defence",
+            "date": "2026-01-20T11:26:00Z"
+        },
+        {
+            "title": "Budget Expectations: Axis picks 26 stocks from 8 sectors to watch out for",
+            "summary": "The upcoming FY27 Union Budget is expected to strike a vital balance between economic growth and macro-economic stability. Amidst a challenging external environment marked by geopolitical uncertainties, the budget aims to provide robust growth support while ensuring fiscal prudence. This strategic balancing act is crucial for India's economic resilience and navigating global pressures.",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/budget-expectations-axis-picks-26-stocks-from-8-sectors-to-watch-out-for/articleshow/126790773.cms",
+            "category": "National",
+            "date": "2026-01-20T11:08:24Z"
+        },
+        {
+            "title": "The Miraculous Story of St. Agnes",
+            "summary": "The article introduces Agnes, born into a Roman noble family in 291 AD and raised Christian. As a beautiful young teen, she quickly became sought after by the Roman nobility. Her story likely details her life, faith, and potential challenges or martyrdom during that era of early Christianity in the Roman Empire.",
+            "url": "https://www.indiancatholicmatters.org/the-miraculous-story-of-st-agnes/",
+            "category": "National",
+            "date": "2026-01-20T11:00:19Z"
+        },
+        {
+            "title": "Show HN: Gemini-live-react \u2013 Real-time voice AI that works in the browser",
+            "summary": "Gemini Live, a real-time bidirectional voice AI, faces significant technical challenges for smooth browser operation. Key issues include audio sampling rate mismatches (16kHz input vs. browser's 44.1/48kHz), PCM16 endianness problems, and the critical trade-off between data buffering and achieving low latency. These complexities highlight the effort required to integrate advanced AI seamlessly into standard web environments, affecting user experience.",
+            "url": "https://news.ycombinator.com/item?id=46690392",
+            "category": "Sci & Tech",
+            "date": "2026-01-20T10:45:14Z"
+        },
+        {
+            "title": "Vietnam Seed Market Insights Report 2026-2031: Market Share Analysis, Industry Trends & Statistics, Growth Forecasts",
+            "summary": "ResearchAndMarkets.com has announced a new report titled \"Vietnam Seed - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026-2031)\". This comprehensive study offers an in-depth analysis of Vietnam's seed market, covering its current share, identifying emerging industry trends, and presenting statistical data. It also includes vital growth forecasts for the period 2026-2031, providing valuable insights into the agricultural seed sector and its future trajectory.",
+            "url": "https://www.globenewswire.com/news-release/2026/01/20/3221432/28124/en/Vietnam-Seed-Market-Insights-Report-2026-2031-Market-Share-Analysis-Industry-Trends-Statistics-Growth-Forecasts.html",
+            "category": "Sci & Tech",
+            "date": "2026-01-20T10:36:00Z"
+        },
+        {
+            "title": "U-571 2000 1080p RTE WEB-DL H264-PiRaTeS",
+            "summary": "A highly decorated film, potentially depicting a historical event, chronicles a daring operation where American submariners, disguised as enemy crew, boarded a German submarine. Their critical objective was to capture the sophisticated Enigma cipher machine. This strategic maneuver highlights crucial aspects of intelligence gathering, naval espionage, and the pivotal role of technology in wartime, all vital elements for understanding military history and operations.",
+            "url": "https://post.rlsbb.to/u-571-2000-1080p-rte-web-dl-h264-pirates/",
+            "category": "Defence",
+            "date": "2026-01-20T10:03:18Z"
         }
     ]
 }
