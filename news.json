@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-01-23T06:28:50.823632+00:00",
+    "last_updated": "2026-01-23T12:37:51.515549+00:00",
     "articles": [
         {
-            "title": "Wings India 2026: Here are all the aircraft confirmed to be on display",
-            "summary": "Wings India has emerged as India's premier airshow equivalent, addressing the lack of a dedicated national airshow. The Federation of Indian Chambers of Commerce & Industry (FICCI) is responsible for organizing this significant event. It showcases developments and opportunities within the Indian aviation sector, fostering growth and collaboration critical for national progress.",
-            "url": "https://livefromalounge.com/wings-india-2026-preview/",
-            "category": "National",
-            "date": "2026-01-22T06:26:39Z"
+            "title": "The Daily Heller: The Cloud That Kills",
+            "summary": "The article posits the atomic bomb's mushroom cloud as the most terrifying image of the mid-to-late 20th century, surpassing traditional monstrous depictions. Spectators of the first atomic detonation described a fearsome cloud, highlighting how this scientific marvel, when weaponized, became a profound symbol of global fear and destruction, reshaping perceptions of warfare and power dynamics in the modern era.",
+            "url": "https://www.printmag.com/daily-heller/the-daily-heller-the-cloud-that-kills/",
+            "category": "Defence",
+            "date": "2026-01-22T12:00:00Z"
         },
         {
-            "title": "From GREEN LANTERN to DEADPOOL: 8 Actors Who Bounced Back After Comic Book Movie Flops",
-            "summary": "Hollywood faces a growing challenge in casting comic book characters for films, as the pool of available actors for such numerous roles is finite. This situation likely prompts the industry to explore innovative solutions, potentially including advanced CGI, digital human technologies, or AI-generated performances, to sustain the continuous adaptation of popular comic book franchises for the big screen and manage production demands.",
-            "url": "https://comicbookmovie.com/marvel-studios/from-green-lantern-to-deadpool-8-actors-who-bounced-back-after-comic-book-movie-flops-a226051",
+            "title": "Stuck for nearly four decades, Rajinikanth-Shatrughan Sinha-starrer Hum Mein Shahenshah Koun set for theatrical release",
+            "summary": "Former US President Trump attended the prestigious Davos summit, an international forum for global leaders. The article suggests China achieved a strategic advantage or 'win' even without direct participation, likely through geopolitical maneuvering or economic developments discussed at or related to the event. This underscores the intricate dynamics of international relations and global economic influence.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/stuck-for-nearly-four-decades-rajinikanth-shatrughan-sinha-starrer-hum-mein-shahenshah-koun-set-for-theatrical-release/articleshow/127148276.cms",
+            "category": "International",
+            "date": "2026-01-22T11:43:52Z"
+        },
+        {
+            "title": "Notion outage sparks backlash as Theo Browne pushes back against Obsidian suggestions",
+            "summary": "A recent outage of the Notion productivity software caused significant user backlash. Tech influencer Theo Browne publicly resisted suggestions to switch to alternative tools like Obsidian. This incident highlights user dependency on digital productivity platforms and the ongoing debate over reliable tech alternatives when services are disrupted, a crucial consideration for any professional.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/notion-outage-sparks-backlash-as-theo-browne-pushes-back-against-obsidian-suggestions/articleshow/127137922.cms",
             "category": "Sci & Tech",
-            "date": "2026-01-22T04:46:00Z"
+            "date": "2026-01-22T11:37:40Z"
+        },
+        {
+            "title": "President Trump\u2019s Davos remarks on Greenland misrepresented US and Danish history",
+            "summary": "Former U.S. President Donald Trump proposed the idea of the United States acquiring Greenland during his address to international leaders in Davos, Switzerland on Jan. 21. He clarified that any potential acquisition would not involve military force, outlining his unconventional proposition for the autonomous Danish territory.",
+            "url": "https://www.poynter.org/fact-checking/2026/did-greenland-ever-belong-to-usa/",
+            "category": "International",
+            "date": "2026-01-22T11:30:57Z"
+        },
+        {
+            "title": "Delhi High Court seeks IndiGo affidavit on refunds, compensation after December flight chaos",
+            "summary": "The Delhi High Court has directed IndiGo airline to file an affidavit detailing refunds and compensation provided to passengers affected by significant flight cancellations and disruptions. This directive comes amidst large-scale operational issues faced by the airline, prompting judicial oversight to ensure passenger rights are upheld regarding flight delays, cancellations, and associated financial redressal.",
+            "url": "https://www.livemint.com/companies/news/indigo-flight-refund-indigo-delhi-high-court-11769077832817.html",
+            "category": "National",
+            "date": "2026-01-22T10:49:24Z"
+        },
+        {
+            "title": "AFCAT 1 admit card 2026 released at afcat.edcil.co.in: Direct link to download hall ticket here",
+            "summary": "The AFCAT 1 admit card for the 2026 examination has been officially released, now available for download. Aspirants appearing for the Air Force Common Admission Test can access their hall tickets via the direct link provided on the official website, afcat.edcil.co.in. This crucial release enables candidates to prepare for the upcoming defence entrance exam, a significant step towards joining the Indian Air Force.",
+            "url": "https://timesofindia.indiatimes.com/education/news/afcat-1-admit-card-2026-released-at-afcat-edcil-co-in-direct-link-to-download-hall-ticket-here/articleshow/127128524.cms",
+            "category": "Defence",
+            "date": "2026-01-22T10:29:24Z"
+        },
+        {
+            "title": "10 soldiers killed, 11 injured as Army vehicle plunges into gorge in J-K's Doda",
+            "summary": "An Army vehicle tragically skidded off the road and plunged into a deep gorge in Doda district, Jammu and Kashmir. The accident resulted in the death of 10 soldiers and left 11 others injured. This incident underscores the inherent risks and challenging conditions faced by military personnel operating in arduous terrains, emphasizing the importance of operational safety and vigilance.",
+            "url": "https://economictimes.indiatimes.com/news/defence/10-soldiers-killed-11-injured-as-army-vehicle-plunges-into-gorge-in-j-ks-doda/articleshow/127139740.cms",
+            "category": "Defence",
+            "date": "2026-01-22T10:11:02Z"
         }
     ]
 }
