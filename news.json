@@ -1,19 +1,61 @@
 {
-    "last_updated": "2026-01-28T06:30:21.098736+00:00",
+    "last_updated": "2026-01-28T12:39:46.009864+00:00",
     "articles": [
         {
-            "title": "\u2018Whiskey on the Rocks\u2019 Creators Set Nordic Noir Actioner \u2018Becker & Kempe,\u2019 Cold War Heist Dramedy \u2018Made in Sweden\u2019 (EXCLUSIVE)",
-            "summary": "Patrick Nebout and Henrik Jansson-Schweizer, creators of the record-breaking series 'Whiskey on the Rocks' for Disney+/SVT, have unveiled two new premium projects. Their previous success, achieving high ratings, underscores their expertise in high-quality content creation within the global entertainment industry. This development highlights ongoing innovation and new ventures by established creators, influencing international media landscapes with fresh offerings.",
-            "url": "https://variety.com/2026/tv/global/whiskey-on-the-rocks-nebout-jansson-schweizer-new-slate-1236641524/",
-            "category": "International",
-            "date": "2026-01-27T06:30:00Z"
+            "title": "North Korea fires ballistic missiles towards Sea of Japan",
+            "summary": "North Korea reportedly fired at least two ballistic missiles towards the Sea of Japan on Tuesday, according to Tokyo and Seoul. This action, occurring a day after a US official's visit, highlights ongoing regional instability. SSB aspirants should note such events as indicators of geopolitical tensions and the strategic challenges posed by North Korea's military provocations.",
+            "url": "https://www.spacewar.com/reports/North_Korea_fires_ballistic_missiles_towards_Sea_of_Japan_999.html",
+            "category": "Defence",
+            "date": "2026-01-27T12:26:12Z"
         },
         {
-            "title": "Bhairav Battalion: Indian Army\u2019s new elite force born for immediate action",
-            "summary": "Kolkata's Red Road hosted a historic parade showcasing a 'new breed of soldier', signaling a significant shift in India's military posture. This event highlights ongoing defence modernization and evolving strategies. SSB aspirants should keenly observe such developments, which reflect the Indian Armed Forces' future direction and commitment to adapting to contemporary security challenges.",
-            "url": "https://economictimes.indiatimes.com/news/defence/bhairav-battalion-indian-armys-new-elite-commandos-born-for-immediate-action/articleshow/127601211.cms",
+            "title": "Russian strikes kill 4, wound two dozen in Ukraine",
+            "summary": "On January 27, 2026, Russian forces conducted separate attacks in Odesa, Ukraine, resulting in four deaths and nearly two dozen wounded, including children and a pregnant woman. This incident highlights the severe civilian cost and humanitarian challenges of the ongoing conflict. SSB aspirants should note such events for understanding international security dynamics and the impact of warfare.",
+            "url": "https://www.spacewar.com/reports/Russian_strikes_kill_4_wound_two_dozen_in_Ukraine_999.html",
             "category": "Defence",
-            "date": "2026-01-27T06:25:33Z"
+            "date": "2026-01-27T12:26:12Z"
+        },
+        {
+            "title": "Russia's military chief visits troops in east Ukraine: defence ministry",
+            "summary": "Russia's chief of staff, Valery Gerasimov, visited troops engaged in fighting in eastern Ukraine, as confirmed by the defence ministry. This visit underscores the ongoing military operations and leadership's direct involvement in the conflict zone. For SSB aspirants, it highlights command structure and active engagement in contemporary international defence scenarios, demonstrating leadership's role during wartime.",
+            "url": "https://www.spacewar.com/reports/Russias_military_chief_visits_troops_in_east_Ukraine_defence_ministry_999.html",
+            "category": "Defence",
+            "date": "2026-01-27T12:26:12Z"
+        },
+        {
+            "title": "Must move forward keeping in mind 'survival of the fastest' in tech, not just 'fittest': Rajnath Singh",
+            "summary": "Defence Minister Rajnath Singh stated that \"Operation Sindoor\" exemplifies how indigenous systems are bolstering India's operational readiness. He commended DRDO for its crucial role in developing these advanced defence technologies. This underscores the nation's growing self-reliance and strength in defence manufacturing, vital for national security and military preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/must-move-forward-keeping-in-mind-survival-of-the-fastest-in-tech-not-just-fittest-rajnath-singh/articleshow/127623799.cms",
+            "category": "Defence",
+            "date": "2026-01-27T12:15:12Z"
+        },
+        {
+            "title": "India Riding On Reforms Express, Says Modi",
+            "summary": "Prime Minister Modi announced India's energy sector presents USD 500 billion in investment opportunities. This significant potential stems from accelerated reforms, signaling India's strategic shift from merely ensuring energy security towards a more comprehensive energy strategy, likely encompassing sustainability and independence. This highlights a crucial area for national economic growth and future development.",
+            "url": "https://www.ndtvprofit.com/economy/india-riding-on-reforms-express-500-billion-investment-opportunity-in-energy-sector-pm-narednra-modi-10893425",
+            "category": "National",
+            "date": "2026-01-27T11:49:33Z"
+        },
+        {
+            "title": "Mahindra shares lose Rs 18,000 crore: Is India-EU trade deal really bad for top SUV seller?",
+            "summary": "Mahindra & Mahindra shares plunged over 4%, wiping out Rs 18,000 crore, as investors reacted to the India-EU trade deal. This agreement slashes tariffs on European cars, intensifying competition for domestic manufacturers like M&M. Such international trade agreements significantly impact national industries, crucial for SSB aspirants to understand regarding economic strategy and market dynamics.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-shares-lose-rs-18000-crore-is-india-eu-trade-deal-really-bad-for-top-suv-seller/articleshow/127621462.cms",
+            "category": "International",
+            "date": "2026-01-27T11:43:48Z"
+        },
+        {
+            "title": "Russian strikes kill 4, wound two dozen in Ukraine",
+            "summary": "Russian forces conducted an air attack on Odesa, Ukraine, causing damage to apartments and resulting in casualties. This incident highlights the ongoing Russia-Ukraine conflict, demonstrating its devastating impact on civilian areas. For SSB aspirants, it underscores the harsh realities of modern warfare and the evolving geopolitical landscape in Eastern Europe, emphasizing strategic implications.",
+            "url": "https://www.hurriyetdailynews.com/russian-strikes-kill-4-wound-two-dozen-in-ukraine-218292",
+            "category": "International",
+            "date": "2026-01-27T11:28:35Z"
+        },
+        {
+            "title": "Army assumes responsibility for monitoring drones along borders with China and Pakistan",
+            "summary": "The Indian Army has taken charge of monitoring flying objects within 35 km of India's borders and up to three kilometres in height. This proactive measure is crucial to effectively counter enemy drone intrusions and the increasing use of aerial surveillance. This move enhances border security, demonstrating the Army's adaptability to modern asymmetric threats.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/army-assumes-responsibility-for-monitoring-drones-along-borders-with-china-and-pakistan/articleshow/127617165.cms",
+            "category": "Defence",
+            "date": "2026-01-27T10:47:58Z"
         }
     ]
 }
