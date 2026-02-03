@@ -1,47 +1,54 @@
 {
-    "last_updated": "2026-02-03T12:50:19.726671+00:00",
+    "last_updated": "2026-02-03T18:51:00.257657+00:00",
     "articles": [
         {
-            "title": "Defence minister approves grant of 'Miniratna' Category-I status to Yantra India",
-            "summary": "Defence Minister Rajnath Singh has approved 'Miniratna' Category-I status for Yantra India Limited (YIL). This significant move reflects the government's strong commitment to strengthening India's defence industrial base and promoting self-reliance. The enhanced status will grant YIL greater operational and financial autonomy, enabling it to contribute more effectively to national defence manufacturing and reduce import dependency.",
-            "url": "https://economictimes.indiatimes.com/news/defence/defence-minister-approves-grant-of-miniratna-category-i-status-to-yantra-india/articleshow/127862486.cms",
-            "category": "Defence",
-            "date": "2026-02-02T12:34:08Z"
-        },
-        {
-            "title": "TS SSC 2026 hall tickets released at bse.telangana.gov.in: Direct link to download here",
-            "summary": "Thousands protested ICE's presence in Portland, USA, amidst unrest against Trump's agents. India experienced a BJP-Congress parliamentary showdown and a CBI Operation CyStrike. Bangladesh's Sheikh Hasina faced conviction again. This digest highlights global political unrest, domestic legislative debates, law enforcement, and an international judicial event.",
-            "url": "https://timesofindia.indiatimes.com/education/news/ts-ssc-2026-hall-tickets-released-at-bse-telangana-gov-in-direct-link-to-download-here/articleshow/127862409.cms",
-            "category": "International",
-            "date": "2026-02-02T12:33:02Z"
-        },
-        {
-            "title": "101 Short March Quotes for a Positive, Happy and Motivated Month",
-            "summary": "March marks the end of a long, cold winter, ushering in the promise of brighter days and fresh starts. This transitional month bridges the unmotivated winter period with the rejuvenating spirit of spring. It symbolizes a crucial shift, offering renewed opportunities and a collective anticipation for warmer weather and new beginnings after the challenging colder months.",
-            "url": "https://www.positivityblog.com/short-march-quotes/",
-            "category": "National",
-            "date": "2026-02-02T12:31:50Z"
-        },
-        {
-            "title": "China's top general probe to 'remove obstacles' in military: State media",
-            "summary": "China has launched a significant anti-corruption probe targeting top general Zhang Youxia and other senior defence officials. State media suggests this crackdown aims to 'remove roadblocks' and significantly strengthen the Chinese military. For SSB aspirants, this highlights China's focus on internal purges to enhance military efficiency and loyalty, a critical factor in understanding global defence strategies and geopolitical stability.",
-            "url": "https://economictimes.indiatimes.com/news/defence/chinas-top-general-probe-to-remove-obstacles-in-military-state-media/articleshow/127862192.cms",
-            "category": "Defence",
-            "date": "2026-02-02T12:28:33Z"
-        },
-        {
-            "title": "Show HN: Ziggy \u2013 high performance lock free MPMC channel in under 200 LOC",
-            "summary": "This text describes 'lock-free MPMC' (Multiple Producer, Multiple Consumer) computing designs, using 'sequence-per-slot' for ultra-efficient, concurrent data processing. These architectures manage producer and consumer cursors across cache lines, maximizing system performance and reliability. Understanding such cutting-edge concepts highlights advancements in high-speed computing, crucial for modern technological infrastructure and potential defence applications.",
-            "url": "https://github.com/nubskr/ziggy",
+            "title": "Show HN: Axiom \u2013 C++ tensor library with NumPy API and Metal GPU support",
+            "summary": "A developer is building a C++ tensor library to bring the user-friendly ergonomics of Python's NumPy/PyTorch to native code. The project aims for a familiar API, incorporating features like operator overloading and method chaining. This initiative seeks to simplify complex numerical and machine learning operations for C++ developers, making native code development more intuitive and efficient.",
+            "url": "https://news.ycombinator.com/item?id=46859292",
             "category": "Sci & Tech",
-            "date": "2026-02-02T12:26:02Z"
+            "date": "2026-02-02T18:20:56Z"
         },
         {
-            "title": "France's budget set to clear the way for Macron's military spending boost",
-            "summary": "France's delayed budget is set to pass, paving the way for President Macron's promised higher military spending. This aims to bolster French defense capabilities in response to threats from Russia's war in Ukraine. For SSB aspirants, this underscores a major European nation's strategic commitment to strengthening its armed forces amidst evolving geopolitical instability and challenges to regional security.",
-            "url": "https://abcnews.go.com/Business/wireStory/frances-budget-set-clear-macrons-military-spending-boost-129776403",
+            "title": "Fantasy Basketball Week 16 Start/Sit: The Moose Is Loose!",
+            "summary": "The approaching trade deadline is intensifying strategic decisions for sports managers regarding roster moves. With only days remaining, the importance of 'sit/start' decisions for player valuation is critically high. Managers are expected to exercise caution before making any final player adjustments as the deadline approaches, making every choice vital in shaping team performance and prospects.",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-16-startsit-the-moose-is-loose/",
+            "category": "National",
+            "date": "2026-02-02T17:30:39Z"
+        },
+        {
+            "title": "All 8 Mission: Impossible Films, Ranked From Worst to Best",
+            "summary": "Tom Cruise's Mission: Impossible film series stands out as a consistently acclaimed action franchise, celebrated for its remarkable quality across eight entries. It has profoundly influenced the action-adventure genre globally, establishing itself as a benchmark for thrilling cinematic entertainment. The series' enduring appeal and significant impact on filmmaking are widely recognized.",
+            "url": "http://comicbook.com/movies/list/all-8-mission-impossible-films-ranked-from-worst-to-best/",
+            "category": "International",
+            "date": "2026-02-02T17:00:00Z"
+        },
+        {
+            "title": "\u2018A whole new experience of\u00a0Kubrick\u2019",
+            "summary": "Stanley Kubrick, celebrated as one of the 20th century's greatest and most influential filmmakers, continues to shape cinematic art. His enduring legacy is currently highlighted by an event at the Harvard Film, running until April 27th. This cultural tribute acknowledges his meticulous craft and significant contributions to cinema.",
+            "url": "https://news.harvard.edu/gazette/story/2026/02/a-whole-new-experience-of-kubrick/",
+            "category": "National",
+            "date": "2026-02-02T16:51:36Z"
+        },
+        {
+            "title": "An aspirational Defence Budget",
+            "summary": "Defence preparedness is vital for a nation like India to enforce its strategic autonomy amidst global geopolitical instability. A strong military enables the nation to make independent choices on the world stage, safeguarding national interests without external pressure. This proactive approach ensures India remains resilient and capable of navigating complex international challenges while upholding its sovereign decisions.",
+            "url": "https://www.thehindubusinessline.com/economy/budget/an-aspirational-defence-budget/article70584495.ece",
             "category": "Defence",
-            "date": "2026-02-02T12:21:33Z"
+            "date": "2026-02-02T16:11:03Z"
+        },
+        {
+            "title": "10 Best Killer Car Movies Ever, Ranked",
+            "summary": "Female drivers on Los Angeles freeways are facing terror from a man dubbed 'The Fiddler'. Operating a Dodge van with tinted windows, he targets women, adding to the intimidation by playing loud fiddle music. This ongoing situation has created distress among motorists in the area, highlighting a concerning pattern of harassment.",
+            "url": "https://www.slashfilm.com/2086373/best-killer-car-movies-ranked/",
+            "category": "National",
+            "date": "2026-02-02T16:10:00Z"
+        },
+        {
+            "title": "Budget will foster competitiveness",
+            "summary": "India is intensely focused on achieving developed economy status by 2047, a goal driving policy towards long-term sustainable growth, comprehensive structural reforms, and strengthening institutional capacity across sectors. This strategic national vision is vital for economic prosperity and enhancing India's global standing, impacting future development and national power significantly for SSB aspirants.",
+            "url": "https://www.thehindubusinessline.com/opinion/budget-will-foster-competitiveness/article70584478.ece",
+            "category": "National",
+            "date": "2026-02-02T16:08:55Z"
         }
     ]
 }
