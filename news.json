@@ -1,19 +1,47 @@
 {
-    "last_updated": "2026-02-03T06:43:47.162115+00:00",
+    "last_updated": "2026-02-03T12:50:19.726671+00:00",
     "articles": [
         {
-            "title": "IT Blocron by Indotype",
-            "summary": "This document outlines a font's usage agreement, strictly permitting its use for personal projects only. Commercial exploitation is expressly forbidden, and installing the font signifies acceptance of these terms. Adherence to such intellectual property agreements is essential in the digital domain, highlighting the legal frameworks governing creative assets and software usage.",
-            "url": "https://www.fontspace.com/it-blocron-font-f158201",
-            "category": "Sci & Tech",
-            "date": "2026-02-02T06:39:39Z"
+            "title": "Defence minister approves grant of 'Miniratna' Category-I status to Yantra India",
+            "summary": "Defence Minister Rajnath Singh has approved 'Miniratna' Category-I status for Yantra India Limited (YIL). This significant move reflects the government's strong commitment to strengthening India's defence industrial base and promoting self-reliance. The enhanced status will grant YIL greater operational and financial autonomy, enabling it to contribute more effectively to national defence manufacturing and reduce import dependency.",
+            "url": "https://economictimes.indiatimes.com/news/defence/defence-minister-approves-grant-of-miniratna-category-i-status-to-yantra-india/articleshow/127862486.cms",
+            "category": "Defence",
+            "date": "2026-02-02T12:34:08Z"
         },
         {
-            "title": "At least 15 killed in Russian strike as Zelenskiy announces more peace talks",
-            "summary": "A Russian drone strike tragically hit a bus carrying mineworkers in the Ukrainian city of Dnipro, killing 15 people, according to Ukrainian emergency services. This incident underscores the devastating civilian toll and humanitarian crisis resulting from the ongoing Russia-Ukraine conflict. For SSB aspirants, it highlights the critical importance of understanding international security dynamics and the profound impact of geopolitical tensions on global stability.",
-            "url": "https://www.irishtimes.com/world/europe/2026/02/01/at-least-15-killed-in-russian-strike-as-zelenskiy-announces-more-peace-talks/",
+            "title": "TS SSC 2026 hall tickets released at bse.telangana.gov.in: Direct link to download here",
+            "summary": "Thousands protested ICE's presence in Portland, USA, amidst unrest against Trump's agents. India experienced a BJP-Congress parliamentary showdown and a CBI Operation CyStrike. Bangladesh's Sheikh Hasina faced conviction again. This digest highlights global political unrest, domestic legislative debates, law enforcement, and an international judicial event.",
+            "url": "https://timesofindia.indiatimes.com/education/news/ts-ssc-2026-hall-tickets-released-at-bse-telangana-gov-in-direct-link-to-download-here/articleshow/127862409.cms",
             "category": "International",
-            "date": "2026-02-01T18:25:45Z"
+            "date": "2026-02-02T12:33:02Z"
+        },
+        {
+            "title": "101 Short March Quotes for a Positive, Happy and Motivated Month",
+            "summary": "March marks the end of a long, cold winter, ushering in the promise of brighter days and fresh starts. This transitional month bridges the unmotivated winter period with the rejuvenating spirit of spring. It symbolizes a crucial shift, offering renewed opportunities and a collective anticipation for warmer weather and new beginnings after the challenging colder months.",
+            "url": "https://www.positivityblog.com/short-march-quotes/",
+            "category": "National",
+            "date": "2026-02-02T12:31:50Z"
+        },
+        {
+            "title": "China's top general probe to 'remove obstacles' in military: State media",
+            "summary": "China has launched a significant anti-corruption probe targeting top general Zhang Youxia and other senior defence officials. State media suggests this crackdown aims to 'remove roadblocks' and significantly strengthen the Chinese military. For SSB aspirants, this highlights China's focus on internal purges to enhance military efficiency and loyalty, a critical factor in understanding global defence strategies and geopolitical stability.",
+            "url": "https://economictimes.indiatimes.com/news/defence/chinas-top-general-probe-to-remove-obstacles-in-military-state-media/articleshow/127862192.cms",
+            "category": "Defence",
+            "date": "2026-02-02T12:28:33Z"
+        },
+        {
+            "title": "Show HN: Ziggy \u2013 high performance lock free MPMC channel in under 200 LOC",
+            "summary": "This text describes 'lock-free MPMC' (Multiple Producer, Multiple Consumer) computing designs, using 'sequence-per-slot' for ultra-efficient, concurrent data processing. These architectures manage producer and consumer cursors across cache lines, maximizing system performance and reliability. Understanding such cutting-edge concepts highlights advancements in high-speed computing, crucial for modern technological infrastructure and potential defence applications.",
+            "url": "https://github.com/nubskr/ziggy",
+            "category": "Sci & Tech",
+            "date": "2026-02-02T12:26:02Z"
+        },
+        {
+            "title": "France's budget set to clear the way for Macron's military spending boost",
+            "summary": "France's delayed budget is set to pass, paving the way for President Macron's promised higher military spending. This aims to bolster French defense capabilities in response to threats from Russia's war in Ukraine. For SSB aspirants, this underscores a major European nation's strategic commitment to strengthening its armed forces amidst evolving geopolitical instability and challenges to regional security.",
+            "url": "https://abcnews.go.com/Business/wireStory/frances-budget-set-clear-macrons-military-spending-boost-129776403",
+            "category": "Defence",
+            "date": "2026-02-02T12:21:33Z"
         }
     ]
 }
