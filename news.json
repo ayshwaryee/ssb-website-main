@@ -1,54 +1,40 @@
 {
-    "last_updated": "2026-02-04T01:42:53.507607+00:00",
+    "last_updated": "2026-02-04T06:44:01.707844+00:00",
     "articles": [
         {
-            "title": "Stock Market Live Updates Feb 3: Stock to buy today: Mahindra Lifespace Developers (\u20b9383.15) \u2013 BUY",
-            "summary": "Recent financial updates highlight live stock market activity, including daily stock recommendations for February 3, 2026. A key focus also surrounds the developments regarding an India-US trade agreement, which is likely to have significant implications for India's economic trajectory and bilateral relations. Aspirants should grasp how such international trade pacts influence domestic market dynamics and national policy.",
-            "url": "https://www.thehindubusinessline.com/markets/stock-market-live-february-3-2026/article70582909.ece",
-            "category": "National",
-            "date": "2026-02-03T01:42:46Z"
-        },
-        {
-            "title": "India-US trade agreement: The deal will strengthen 'Make in India' endeavours, spur growth: Jaishankar",
-            "summary": "External Affairs Minister S Jaishankar welcomed the India-US trade agreement, expecting it to significantly boost economic growth for both nations. He emphasized its role in strengthening India's 'Make in India' initiative, fostering domestic manufacturing and global competitiveness. This partnership highlights deepened bilateral economic cooperation and strategic alignment, crucial for future trade relations.",
-            "url": "https://www.thehindubusinessline.com/news/india-us-trade-agreement-the-deal-will-strengthen-make-in-india-endeavours-spur-growth-jaishankar/article70585851.ece",
+            "title": "\u2018Exciting new phase\u2019 for India\u2013US partnership, says envoy",
+            "summary": "India's Ambassador to the US, Vinay Mohan Kwatra, lauded a recent India-US deal, emphasizing its potential to unlock vast opportunities for both nations. He highlighted the significance of high-level discussions between the leaders. This agreement underscores strengthening bilateral ties and strategic cooperation, crucial for regional stability and economic growth, reflecting important developments in international diplomacy for SSB aspirants.",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exciting-new-phase-for-indiaus-partnership-says-envoy/articleshow/127878050.cms",
             "category": "International",
-            "date": "2026-02-03T01:27:04Z"
+            "date": "2026-02-03T06:37:21Z"
         },
         {
-            "title": "How a YouTuber\u2019s self-financed horror film became a surprise hit",
-            "summary": "A YouTuber's self-financed and self-distributed sci-fi horror film, \"Iron Lung,\" an adaptation of an indie video game, has defied industry expectations by achieving significant box office success. This highlights the growing influence of independent creators and digital platforms in disrupting traditional film distribution and production models, proving that unique content can find a massive audience.",
-            "url": "https://www.nbcnews.com/pop-culture/viral/markiplier-youtuber-iron-lung-film-box-office-hit-rcna257110",
-            "category": "Sci & Tech",
-            "date": "2026-02-03T00:14:50Z"
+            "title": "Johnnette delivers third batch of JM-1 loitering munitions to Indian Army under emergency procurement",
+            "summary": "Johnnette Technologies, an Indian manufacturer, has successfully delivered the third batch of its indigenously developed JM-1 loitering munitions to the Indian armed forces. This milestone highlights India's growing self-reliance in advanced defence technology, particularly in unmanned systems. Such capabilities are crucial for modern warfare, enhancing surveillance and precision strike options for our troops on the ground, strengthening national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/johnnette-delivers-third-batch-of-jm-1-loitering-munitions-to-indian-army-under-emergency-procurement/articleshow/127877576.cms",
+            "category": "Defence",
+            "date": "2026-02-03T06:12:50Z"
         },
         {
-            "title": "Somatotopy-independent reduction of audio-tactile intersensory facilitation for looming sounds within the peripersonal space during arm movements execution",
-            "summary": "This neuroscience research by Serino examines Peripersonal Space (PPS), conceptualized as a crucial multisensory interface between an individual and their environment. PPS defines our 'self-space,' impacting how we perceive and interact with our immediate surroundings. Understanding this fundamental aspect of brain function, particularly concerning spatial awareness and reactions to external stimuli, holds relevance for developing sharper observational skills and effective operational responses.",
-            "url": "https://www.nature.com/articles/s41598-026-36796-5",
+            "title": "Vodafone: New subsea interconnection between Crete and Athens via Milos",
+            "summary": "Vodafone Carrier Services is constructing a new high-capacity subsea fiber optic cable system in Greece. This critical infrastructure project will connect the island of Crete to the mainland, significantly enhancing internet access and digital connectivity for residents and businesses. Such advancements in communication technology are vital for national development and economic growth, aligning with global trends in digital transformation.",
+            "url": "https://www.naftemporiki.gr/english/2067435/vodafone-new-subsea-interconnection-between-crete-and-athens-via-milos/",
             "category": "Sci & Tech",
-            "date": "2026-02-03T00:00:00Z"
+            "date": "2026-02-03T06:00:40Z"
         },
         {
-            "title": "Show HN: Nono \u2013 Kernel-enforced sandboxing for AI agents",
-            "summary": "A significant warning has been issued concerning an early, unaudited release that lacks comprehensive security review and peer vetting. Despite the author's extensive security background, users are cautioned about potential vulnerabilities and inherent risks associated with this preliminary version, which has not undergone rigorous security auditing for robust protection.",
-            "url": "https://github.com/lukehinds/nono",
+            "title": "OpenClaw and Moltbook: why a DIY AI agent and social media for bots feel so new (but really aren\u2019t)",
+            "summary": "The article introduces OpenClaw, an artificial intelligence entity also known as Clawdbot or Moltbot, which has gained significant traction on social media. Its mention reflects the increasing public engagement and growing familiarity with various evolving AI technologies and their presence within online communities, highlighting a key area of modern technological development.",
+            "url": "https://theconversation.com/openclaw-and-moltbook-why-a-diy-ai-agent-and-social-media-for-bots-feel-so-new-but-really-arent-274744",
             "category": "Sci & Tech",
-            "date": "2026-02-02T23:42:40Z"
+            "date": "2026-02-03T05:32:44Z"
         },
         {
-            "title": "Review: IRON LUNG May Be Painfully Empty and Completly Lost on Me, But Its Massive Success is Impressive as Hell",
-            "summary": "The author shares their initial, optimistic impressions of the game 'Iron Lung', acknowledging no prior experience with it or its creator, YouTuber Markiplier (Mark Fischbach). The piece begins with a neutral stance, indicating a forthcoming exploration of the game's design and user experience, framed from a fresh perspective on digital entertainment.",
-            "url": "https://geektyrant.com/news/review-iron-lung-may-be-painfully-empty-and-completly-lost-on-me-but-its-massive-success-is-impressive-as-hell",
-            "category": "Sci & Tech",
-            "date": "2026-02-02T23:30:00Z"
-        },
-        {
-            "title": "'I Think It Might Be a Big Win for Independent Filmmaking' \u2013 Markiplier Cries While Thanking Fans for Supporting His Iron Lung Movie",
-            "summary": "YouTube star Markiplier (Mark Fischbach) celebrated his new movie, \"Iron Lung,\" achieving significant box office success over the weekend. The prominent digital creator shared an emotional livestream with fans, expressing heartfelt gratitude for the film's warm reception. This highlights a growing trend of online personalities successfully transitioning and making a substantial impact in traditional entertainment industries, marking a notable career milestone for Fischbach.",
-            "url": "https://www.ign.com/articles/i-think-it-might-be-a-big-win-for-independent-filmmaking-markiplier-cries-while-thanking-fans-for-supporting-his-iron-lung-movie",
-            "category": "Sci & Tech",
-            "date": "2026-02-02T23:08:08Z"
+            "title": "China market access slow; Make in India, import balancing key to cutting trade deficit: Sitharaman",
+            "summary": "This article promotes financial investment strategies and tools for wealth growth. It outlines using stock ideas and sectoral trends, highlighting 'Stock Reports Plus' for identifying optimal buy/sell points based on 'Stock Score' and 'Upside potential'. The 'BigBull Portfolio' is also featured for effective investment management, offering insights into market dynamics and personal finance.",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-market-access-slow-make-in-india-import-balancing-key-to-cutting-trade-deficit-sitharaman/articleshow/127876043.cms",
+            "category": "National",
+            "date": "2026-02-03T05:00:47Z"
         }
     ]
 }
