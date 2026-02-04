@@ -1,40 +1,54 @@
 {
-    "last_updated": "2026-02-04T06:44:01.707844+00:00",
+    "last_updated": "2026-02-04T12:49:29.049568+00:00",
     "articles": [
         {
-            "title": "\u2018Exciting new phase\u2019 for India\u2013US partnership, says envoy",
-            "summary": "India's Ambassador to the US, Vinay Mohan Kwatra, lauded a recent India-US deal, emphasizing its potential to unlock vast opportunities for both nations. He highlighted the significance of high-level discussions between the leaders. This agreement underscores strengthening bilateral ties and strategic cooperation, crucial for regional stability and economic growth, reflecting important developments in international diplomacy for SSB aspirants.",
-            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exciting-new-phase-for-indiaus-partnership-says-envoy/articleshow/127878050.cms",
-            "category": "International",
-            "date": "2026-02-03T06:37:21Z"
-        },
-        {
-            "title": "Johnnette delivers third batch of JM-1 loitering munitions to Indian Army under emergency procurement",
-            "summary": "Johnnette Technologies, an Indian manufacturer, has successfully delivered the third batch of its indigenously developed JM-1 loitering munitions to the Indian armed forces. This milestone highlights India's growing self-reliance in advanced defence technology, particularly in unmanned systems. Such capabilities are crucial for modern warfare, enhancing surveillance and precision strike options for our troops on the ground, strengthening national security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/johnnette-delivers-third-batch-of-jm-1-loitering-munitions-to-indian-army-under-emergency-procurement/articleshow/127877576.cms",
-            "category": "Defence",
-            "date": "2026-02-03T06:12:50Z"
-        },
-        {
-            "title": "Vodafone: New subsea interconnection between Crete and Athens via Milos",
-            "summary": "Vodafone Carrier Services is constructing a new high-capacity subsea fiber optic cable system in Greece. This critical infrastructure project will connect the island of Crete to the mainland, significantly enhancing internet access and digital connectivity for residents and businesses. Such advancements in communication technology are vital for national development and economic growth, aligning with global trends in digital transformation.",
-            "url": "https://www.naftemporiki.gr/english/2067435/vodafone-new-subsea-interconnection-between-crete-and-athens-via-milos/",
-            "category": "Sci & Tech",
-            "date": "2026-02-03T06:00:40Z"
-        },
-        {
-            "title": "OpenClaw and Moltbook: why a DIY AI agent and social media for bots feel so new (but really aren\u2019t)",
-            "summary": "The article introduces OpenClaw, an artificial intelligence entity also known as Clawdbot or Moltbot, which has gained significant traction on social media. Its mention reflects the increasing public engagement and growing familiarity with various evolving AI technologies and their presence within online communities, highlighting a key area of modern technological development.",
-            "url": "https://theconversation.com/openclaw-and-moltbook-why-a-diy-ai-agent-and-social-media-for-bots-feel-so-new-but-really-arent-274744",
-            "category": "Sci & Tech",
-            "date": "2026-02-03T05:32:44Z"
-        },
-        {
-            "title": "China market access slow; Make in India, import balancing key to cutting trade deficit: Sitharaman",
-            "summary": "This article promotes financial investment strategies and tools for wealth growth. It outlines using stock ideas and sectoral trends, highlighting 'Stock Reports Plus' for identifying optimal buy/sell points based on 'Stock Score' and 'Upside potential'. The 'BigBull Portfolio' is also featured for effective investment management, offering insights into market dynamics and personal finance.",
-            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-market-access-slow-make-in-india-import-balancing-key-to-cutting-trade-deficit-sitharaman/articleshow/127876043.cms",
+            "title": "Noida Film City to house world\u2019s largest integrated content creators\u2019 incubation and lab ecosystem",
+            "summary": "Noida Film City is set to host the world's largest integrated Content Creators Incubation and Lab Ecosystem. This initiative is a major milestone for India's burgeoning creator economy, providing advanced infrastructure and support. It aims to foster talent, drive innovation, and solidify India's position in the global digital content landscape, generating significant employment opportunities nationally.",
+            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/noida-film-city-to-house-worlds-largest-integrated-content-creators-incubation-and-lab-ecosystem/articleshow/127886204.cms",
             "category": "National",
-            "date": "2026-02-03T05:00:47Z"
+            "date": "2026-02-03T12:35:02Z"
+        },
+        {
+            "title": "Big leap in air combat tech as India nails advanced Ramjet missile test",
+            "summary": "India's DRDO successfully demonstrated its Solid Fuel Ducted Ramjet (SFDR) system, marking a significant advancement in missile propulsion technology. This achievement enhances India's long-range air-to-air missile capabilities. The SFDR technology offers improved range and speed over traditional solid-propellant rockets, boosting India's indigenous defence research and strategic capabilities for future missile development programs.",
+            "url": "https://economictimes.indiatimes.com/news/defence/big-leap-in-air-combat-tech-as-india-nails-advanced-ramjet-missile-test/articleshow/127885880.cms",
+            "category": "Defence",
+            "date": "2026-02-03T12:27:54Z"
+        },
+        {
+            "title": "AG&P Industrial and Pragati Infra Solutions Announce Joint Venture for India\u2019s First Advanced Modular EPC and Fabrication Manufacturing Facility; Sign MoU",
+            "summary": "During India Energy Week in Goa, AG&P Industrial announced a significant boost to India's industrial infrastructure. This initiative, by the Atlantic, Gulf and Pacific Company, likely involves substantial investments and projects aimed at enhancing national industrial capabilities. It underscores growing international collaboration in India's energy sector and broader industrial development, supporting economic growth.",
+            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/agp-industrial-and-pragati-infra-solutions-announce-joint-venture-for-indias-first-advanced-modular-epc-and-fabrication-manufacturing-facility-sign-mou/article70586855.ece",
+            "category": "National",
+            "date": "2026-02-03T12:06:51Z"
+        },
+        {
+            "title": "Modi Appears to Cave to Trump, Agrees to Buy Venezuela Oil in Place of Russia\u2019s, End Tariffs on US Agriculture",
+            "summary": "The article expresses confusion over Prime Minister Modi's perceived concession to US President Trump regarding tariff threats. It suggests Modi might be yielding to pressure from Trump's protectionist stance on trade, impacting India-US economic relations. The author, while not a subcontinent expert, questions the implications of this apparent capitulation for India's trade policy.",
+            "url": "https://www.nakedcapitalism.com/2026/02/modi-appears-to-cave-to-trump-agrees-to-buy-venezuela-oil-in-place-of-russias-end-tariffs-on-us-agriculture.html",
+            "category": "International",
+            "date": "2026-02-03T11:40:25Z"
+        },
+        {
+            "title": "Apple\u2019s new iOS setting addresses a hidden layer of location tracking",
+            "summary": "While iPhone users manage app permissions for location access, an additional layer of location tracking operates independently of these controls. This underlying system tracks user location beyond what individual app settings allow, raising significant privacy concerns. Understanding these inherent tracking mechanisms is crucial for device owners regarding data privacy and security awareness.",
+            "url": "https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking",
+            "category": "Sci & Tech",
+            "date": "2026-02-03T11:20:19Z"
+        },
+        {
+            "title": "Organigram to Report First Quarter Fiscal 2026 Results on February 10, 2026",
+            "summary": "Organigram Global Inc., a Canadian company listed on NASDAQ and TSX, announced it will report its first-quarter earnings results. Based in Toronto and recognized as Canada's #1 cannabis company by market share, this update signifies an upcoming financial disclosure. The announcement indicates standard corporate reporting practices from a significant player in the Canadian market, reflecting corporate governance and market activity.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-to-report-first-quarter-fiscal-2026-results-on-february-10-2026",
+            "category": "International",
+            "date": "2026-02-03T11:02:42Z"
+        },
+        {
+            "title": "Russia won\u2019t be provoked into arms race after nuclear treaty expires, Ryabkov says",
+            "summary": "Russia's top arms control official stated that Moscow will not be provoked into a new arms race, even as the New START nuclear treaty expires this week. This signals Russia's intent to avoid escalating military competition despite the lapse of the key agreement limiting strategic offensive arms with the U.S., emphasizing stability in global nuclear security discussions.",
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/03/russia-won-t-be-provoked-into-arms-race-after-nuclear-treaty-expires-ryabkov-says",
+            "category": "Defence",
+            "date": "2026-02-03T08:26:31Z"
         }
     ]
 }
