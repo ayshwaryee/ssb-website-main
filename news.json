@@ -1,54 +1,54 @@
 {
-    "last_updated": "2026-02-03T18:51:00.257657+00:00",
+    "last_updated": "2026-02-04T01:42:53.507607+00:00",
     "articles": [
         {
-            "title": "Show HN: Axiom \u2013 C++ tensor library with NumPy API and Metal GPU support",
-            "summary": "A developer is building a C++ tensor library to bring the user-friendly ergonomics of Python's NumPy/PyTorch to native code. The project aims for a familiar API, incorporating features like operator overloading and method chaining. This initiative seeks to simplify complex numerical and machine learning operations for C++ developers, making native code development more intuitive and efficient.",
-            "url": "https://news.ycombinator.com/item?id=46859292",
-            "category": "Sci & Tech",
-            "date": "2026-02-02T18:20:56Z"
-        },
-        {
-            "title": "Fantasy Basketball Week 16 Start/Sit: The Moose Is Loose!",
-            "summary": "The approaching trade deadline is intensifying strategic decisions for sports managers regarding roster moves. With only days remaining, the importance of 'sit/start' decisions for player valuation is critically high. Managers are expected to exercise caution before making any final player adjustments as the deadline approaches, making every choice vital in shaping team performance and prospects.",
-            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-16-startsit-the-moose-is-loose/",
+            "title": "Stock Market Live Updates Feb 3: Stock to buy today: Mahindra Lifespace Developers (\u20b9383.15) \u2013 BUY",
+            "summary": "Recent financial updates highlight live stock market activity, including daily stock recommendations for February 3, 2026. A key focus also surrounds the developments regarding an India-US trade agreement, which is likely to have significant implications for India's economic trajectory and bilateral relations. Aspirants should grasp how such international trade pacts influence domestic market dynamics and national policy.",
+            "url": "https://www.thehindubusinessline.com/markets/stock-market-live-february-3-2026/article70582909.ece",
             "category": "National",
-            "date": "2026-02-02T17:30:39Z"
+            "date": "2026-02-03T01:42:46Z"
         },
         {
-            "title": "All 8 Mission: Impossible Films, Ranked From Worst to Best",
-            "summary": "Tom Cruise's Mission: Impossible film series stands out as a consistently acclaimed action franchise, celebrated for its remarkable quality across eight entries. It has profoundly influenced the action-adventure genre globally, establishing itself as a benchmark for thrilling cinematic entertainment. The series' enduring appeal and significant impact on filmmaking are widely recognized.",
-            "url": "http://comicbook.com/movies/list/all-8-mission-impossible-films-ranked-from-worst-to-best/",
+            "title": "India-US trade agreement: The deal will strengthen 'Make in India' endeavours, spur growth: Jaishankar",
+            "summary": "External Affairs Minister S Jaishankar welcomed the India-US trade agreement, expecting it to significantly boost economic growth for both nations. He emphasized its role in strengthening India's 'Make in India' initiative, fostering domestic manufacturing and global competitiveness. This partnership highlights deepened bilateral economic cooperation and strategic alignment, crucial for future trade relations.",
+            "url": "https://www.thehindubusinessline.com/news/india-us-trade-agreement-the-deal-will-strengthen-make-in-india-endeavours-spur-growth-jaishankar/article70585851.ece",
             "category": "International",
-            "date": "2026-02-02T17:00:00Z"
+            "date": "2026-02-03T01:27:04Z"
         },
         {
-            "title": "\u2018A whole new experience of\u00a0Kubrick\u2019",
-            "summary": "Stanley Kubrick, celebrated as one of the 20th century's greatest and most influential filmmakers, continues to shape cinematic art. His enduring legacy is currently highlighted by an event at the Harvard Film, running until April 27th. This cultural tribute acknowledges his meticulous craft and significant contributions to cinema.",
-            "url": "https://news.harvard.edu/gazette/story/2026/02/a-whole-new-experience-of-kubrick/",
-            "category": "National",
-            "date": "2026-02-02T16:51:36Z"
+            "title": "How a YouTuber\u2019s self-financed horror film became a surprise hit",
+            "summary": "A YouTuber's self-financed and self-distributed sci-fi horror film, \"Iron Lung,\" an adaptation of an indie video game, has defied industry expectations by achieving significant box office success. This highlights the growing influence of independent creators and digital platforms in disrupting traditional film distribution and production models, proving that unique content can find a massive audience.",
+            "url": "https://www.nbcnews.com/pop-culture/viral/markiplier-youtuber-iron-lung-film-box-office-hit-rcna257110",
+            "category": "Sci & Tech",
+            "date": "2026-02-03T00:14:50Z"
         },
         {
-            "title": "An aspirational Defence Budget",
-            "summary": "Defence preparedness is vital for a nation like India to enforce its strategic autonomy amidst global geopolitical instability. A strong military enables the nation to make independent choices on the world stage, safeguarding national interests without external pressure. This proactive approach ensures India remains resilient and capable of navigating complex international challenges while upholding its sovereign decisions.",
-            "url": "https://www.thehindubusinessline.com/economy/budget/an-aspirational-defence-budget/article70584495.ece",
-            "category": "Defence",
-            "date": "2026-02-02T16:11:03Z"
+            "title": "Somatotopy-independent reduction of audio-tactile intersensory facilitation for looming sounds within the peripersonal space during arm movements execution",
+            "summary": "This neuroscience research by Serino examines Peripersonal Space (PPS), conceptualized as a crucial multisensory interface between an individual and their environment. PPS defines our 'self-space,' impacting how we perceive and interact with our immediate surroundings. Understanding this fundamental aspect of brain function, particularly concerning spatial awareness and reactions to external stimuli, holds relevance for developing sharper observational skills and effective operational responses.",
+            "url": "https://www.nature.com/articles/s41598-026-36796-5",
+            "category": "Sci & Tech",
+            "date": "2026-02-03T00:00:00Z"
         },
         {
-            "title": "10 Best Killer Car Movies Ever, Ranked",
-            "summary": "Female drivers on Los Angeles freeways are facing terror from a man dubbed 'The Fiddler'. Operating a Dodge van with tinted windows, he targets women, adding to the intimidation by playing loud fiddle music. This ongoing situation has created distress among motorists in the area, highlighting a concerning pattern of harassment.",
-            "url": "https://www.slashfilm.com/2086373/best-killer-car-movies-ranked/",
-            "category": "National",
-            "date": "2026-02-02T16:10:00Z"
+            "title": "Show HN: Nono \u2013 Kernel-enforced sandboxing for AI agents",
+            "summary": "A significant warning has been issued concerning an early, unaudited release that lacks comprehensive security review and peer vetting. Despite the author's extensive security background, users are cautioned about potential vulnerabilities and inherent risks associated with this preliminary version, which has not undergone rigorous security auditing for robust protection.",
+            "url": "https://github.com/lukehinds/nono",
+            "category": "Sci & Tech",
+            "date": "2026-02-02T23:42:40Z"
         },
         {
-            "title": "Budget will foster competitiveness",
-            "summary": "India is intensely focused on achieving developed economy status by 2047, a goal driving policy towards long-term sustainable growth, comprehensive structural reforms, and strengthening institutional capacity across sectors. This strategic national vision is vital for economic prosperity and enhancing India's global standing, impacting future development and national power significantly for SSB aspirants.",
-            "url": "https://www.thehindubusinessline.com/opinion/budget-will-foster-competitiveness/article70584478.ece",
-            "category": "National",
-            "date": "2026-02-02T16:08:55Z"
+            "title": "Review: IRON LUNG May Be Painfully Empty and Completly Lost on Me, But Its Massive Success is Impressive as Hell",
+            "summary": "The author shares their initial, optimistic impressions of the game 'Iron Lung', acknowledging no prior experience with it or its creator, YouTuber Markiplier (Mark Fischbach). The piece begins with a neutral stance, indicating a forthcoming exploration of the game's design and user experience, framed from a fresh perspective on digital entertainment.",
+            "url": "https://geektyrant.com/news/review-iron-lung-may-be-painfully-empty-and-completly-lost-on-me-but-its-massive-success-is-impressive-as-hell",
+            "category": "Sci & Tech",
+            "date": "2026-02-02T23:30:00Z"
+        },
+        {
+            "title": "'I Think It Might Be a Big Win for Independent Filmmaking' \u2013 Markiplier Cries While Thanking Fans for Supporting His Iron Lung Movie",
+            "summary": "YouTube star Markiplier (Mark Fischbach) celebrated his new movie, \"Iron Lung,\" achieving significant box office success over the weekend. The prominent digital creator shared an emotional livestream with fans, expressing heartfelt gratitude for the film's warm reception. This highlights a growing trend of online personalities successfully transitioning and making a substantial impact in traditional entertainment industries, marking a notable career milestone for Fischbach.",
+            "url": "https://www.ign.com/articles/i-think-it-might-be-a-big-win-for-independent-filmmaking-markiplier-cries-while-thanking-fans-for-supporting-his-iron-lung-movie",
+            "category": "Sci & Tech",
+            "date": "2026-02-02T23:08:08Z"
         }
     ]
 }
