@@ -1,54 +1,75 @@
 {
-    "last_updated": "2026-02-05T12:52:35.476307+00:00",
+    "last_updated": "2026-02-05T18:42:09.680881+00:00",
     "articles": [
         {
-            "title": "Review \u2013 Absolute Green Lantern #11: Red With Rage",
-            "summary": "This article reviews 'Absolute Green Lantern #11', giving it a perfect 10/10 rating. It highlights how the comic successfully portrays the terrifying aspects of space, a nuanced approach compared to the franchise's typical cosmic adventures. The review suggests a compelling blend of fright and the established Green Lantern universe, offering a deep, adventurous read for comic enthusiasts.",
-            "url": "https://geekdad.com/2026/02/review-absolute-green-lantern-11-red-with-rage/",
+            "title": "Treaty limiting US, Russian nuclear weapons expiring as leaders mull what's next",
+            "summary": "The last major nuclear arms control treaty between the U.S. and Russia, New START, has expired, ending decades of agreements limiting deployable nuclear weapons. This development raises significant concerns about global strategic stability and could lead to an unchecked arms race. For SSB aspirants, understanding this shift in international relations and its defence implications is crucial.",
+            "url": "https://www.cbsnews.com/news/start-arms-control-treaty-u-s-russia-nuclear-weapons-expire/",
+            "category": "Defence",
+            "date": "2026-02-04T18:39:19Z"
+        },
+        {
+            "title": "Carney\u2019s government is cutting hundreds of environment and science jobs. Here\u2019s what that means for Canadians",
+            "summary": "Canadian scientists monitoring environmental health, extreme weather, and industrial disasters are at risk of federal job cuts. This decision could significantly impact Canada's capacity to protect its citizens and environment from future challenges, raising concerns about the nation's ability to adapt to climate change and effectively prepare for disasters. The potential cuts highlight a broader debate on government priorities and scientific investment.",
+            "url": "https://www.cbc.ca/radio/whatonearth/environment-canada-cuts-9.7073623",
+            "category": "National",
+            "date": "2026-02-04T18:28:04Z"
+        },
+        {
+            "title": "New Start\u2019s expiration will make the world less safe \u2013 even if it doesn\u2019t spark another nuclear arms race",
+            "summary": "The New Start nuclear arms control treaty between the US and Russia is set to expire on February 4, opening a period of great power uncertainty. This development raises concerns about a potential new global arms race, highlighting the complexities of international security and strategic stability for SSB aspirants.",
+            "url": "https://theconversation.com/new-starts-expiration-will-make-the-world-less-safe-even-if-it-doesnt-spark-another-nuclear-arms-race-275116",
+            "category": "Defence",
+            "date": "2026-02-04T18:19:33Z"
+        },
+        {
+            "title": "How plans for Trump International hotel in Belgrade unravelled",
+            "summary": "A city's iconic bomb-damaged defence ministry complex, known as Generalstab, which remained semi-functional despite its state, is set to be replaced. This significant architectural and historical landmark, once a powerful symbol, will make way for new developments. For SSB aspirants, this highlights urban renewal efforts affecting national defence infrastructure, representing both progress and the end of a wartime relic.",
+            "url": "https://www.bbc.com/news/articles/cx2y8lg9e2jo",
+            "category": "Defence",
+            "date": "2026-02-04T18:14:19Z"
+        },
+        {
+            "title": "Mickey Lolich death draws memories from Detroit Tigers greats",
+            "summary": "Legendary Detroit Tigers pitcher Mickey Lolich passed away on February 4th at 85. The famed 'lefty from Oregon' had a remarkable 16-year MLB career, including 13 seasons with the Tigers. A three-time All-Star, Lolich was a pivotal figure in baseball history, known for his impactful contributions to the sport.",
+            "url": "https://www.freep.com/story/sports/mlb/tigers/2026/02/04/mickey-lolich-detroit-tigers-reactions/88445901007/",
+            "category": "National",
+            "date": "2026-02-04T18:07:19Z"
+        },
+        {
+            "title": "Mixed emotions among Palestinians as Rafah crossing partially reopens",
+            "summary": "The Rafah crossing between Egypt and war-torn Gaza has partially reopened, allowing a small number of Palestinians to return to their homes. Emotional crowds gathered, expressing immense joy at the limited border access. This development underscores the critical humanitarian situation and the longing for stability amidst the ongoing regional conflict, highlighting the impact of border policies on civilian populations.",
+            "url": "https://www.aljazeera.com/gallery/2026/2/4/mixed-emotions-among-palestinians-as-rafah-crossing-partially-reopens",
+            "category": "International",
+            "date": "2026-02-04T18:02:03Z"
+        },
+        {
+            "title": "Record Store Day 2026: Check out the full list of releases",
+            "summary": "Fans can anticipate collectible and limited-edition vinyl records from artists like Charli XCX, releasing a \"Party 4U\" 7\", and Ethel Cain, whose \"Inbred EP\" will be available on 12\" vinyl for the first time. These special releases cater to music enthusiasts and collectors, offering unique physical media in the global music market.",
+            "url": "https://www.thelineofbestfit.com/news/record-store-day-2026-full-list-of-releases",
+            "category": "International",
+            "date": "2026-02-04T18:00:00Z"
+        },
+        {
+            "title": "Trump vs. Canada",
+            "summary": "This week on The David Frum Show, host David Frum discusses a significant reported $500 million deal. The conversation centers on an agreement involving World Liberty Financial. While further details about the nature of this substantial financial transaction are not provided in this snippet, the episode promises insights into this major economic development.",
+            "url": "https://www.theatlantic.com/podcasts/2026/02/david-frum-show-jason-kenney-trump-versus-canada/685878/",
+            "category": "National",
+            "date": "2026-02-04T18:00:00Z"
+        },
+        {
+            "title": "Two dead in a road accident",
+            "summary": "Gaming and internet technology giant NetEase has officially denied recent reports alleging it instructed its development studios to halt the use of Artificial Intelligence. The company explicitly stated that it has not published any such directive. This denial refutes speculations about a potential shift in its AI strategy, clarifying its ongoing approach to integrating AI within its creative and development processes for games and other services.",
+            "url": "https://timesofindia.indiatimes.com/city/rajahmundry/two-dead-in-a-road-accident/articleshow/127915985.cms",
             "category": "Sci & Tech",
-            "date": "2026-02-04T12:40:47Z"
+            "date": "2026-02-04T17:46:03Z"
         },
         {
-            "title": "Reading scores are falling in the US: Why boys are losing ground faster than girls in class",
-            "summary": "Reading scores across the United States are declining significantly, revealing a concerning trend where boys are losing ground faster than girls in classroom performance. This educational disparity highlights a growing gender gap in literacy and academic achievement. The underlying causes of this rapid decline for boys, relative to girls, warrant further examination into teaching methodologies and societal factors impacting learning.",
-            "url": "https://timesofindia.indiatimes.com/education/news/american-students-struggle-with-reading-why-boys-are-losing-ground-faster-than-girls-in-class/articleshow/127908788.cms",
+            "title": "President offers prayers at Puri Jagannath temple",
+            "summary": "A minister reported 238 villages in Koraput and Rayagada districts (Odisha) lack mobile connectivity, highlighting a persistent digital divide. Concurrently, Delhi Metro has completed pollution-control installations at its elevated stations. These developments reflect national efforts in addressing infrastructure gaps and enhancing urban environmental sustainability, vital for understanding India's progress and challenges.",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/president-offers-prayers-at-puri-jagannath-temple/articleshow/127915461.cms",
             "category": "National",
-            "date": "2026-02-04T12:18:56Z"
-        },
-        {
-            "title": "Consumer Electronics Market Size to Reach USD 1,949 Billion by 2035",
-            "summary": "A new report highlights the accelerating global consumer electronics market, driven by significant increases in disposable income and improved living standards worldwide. Key technological advancements, including the widespread adoption of AI, IoT, and other connected technologies, are further fueling this growth, signifying a shift towards more technologically integrated consumer lifestyles globally.",
-            "url": "https://www.globenewswire.com/news-release/2026/02/04/3231926/0/en/Consumer-Electronics-Market-Size-to-Reach-USD-1-949-Billion-by-2035.html",
-            "category": "International",
-            "date": "2026-02-04T12:14:00Z"
-        },
-        {
-            "title": "Meet the 2026 Mariners NRIs",
-            "summary": "The article highlights an annual tradition of scrutinizing the Mariners' non-roster invitees. This process involves extensive discussion about players unlikely to make the main team. It reflects a common pre-season practice in sports, focusing on initial player evaluations and potential roster additions. This tradition sets the stage for deeper analysis of future team composition and performance expectations.",
-            "url": "https://www.lookoutlanding.com/seattle-mariners-analysis/138749/meet-the-2026-mariners-nris",
-            "category": "National",
-            "date": "2026-02-04T12:00:00Z"
-        },
-        {
-            "title": "Global partners advance plans to harden submarine cable networks",
-            "summary": "In Madrid on February 4, 2026, governments, industry representatives, and international organizations from over 70 countries collectively agreed on new guidance. This significant international accord aims to bolster resilience, indicating a concerted global effort to enhance capabilities and preparedness across various sectors against emerging challenges, fostering greater stability and security worldwide through unified approaches.",
-            "url": "https://www.spacedaily.com/reports/Global_partners_advance_plans_to_harden_submarine_cable_networks_999.html",
-            "category": "International",
-            "date": "2026-02-04T11:54:21Z"
-        },
-        {
-            "title": "India Data Center Market to Reach Over US$ 31.36 Billion by 2035 Driven by Generative AI, 5G Rollout, and Cloud Infrastructure Growth | Astute Analytica",
-            "summary": "India's data center market is projected for robust growth, valued at US$ 8.94 billion in 2025 and expected to reach US$ 31.36 billion by 2035, exhibiting a significant CAGR of 13.37%. This expansion highlights India's accelerating digital transformation, increasing demand for data infrastructure, and its growing importance as a global data hub, vital for national economic and technological progress.",
-            "url": "https://www.globenewswire.com/news-release/2026/02/04/3231872/0/en/India-Data-Center-Market-to-Reach-Over-US-31-36-Billion-by-2035-Driven-by-Generative-AI-5G-Rollout-and-Cloud-Infrastructure-Growth-Astute-Analytica.html",
-            "category": "National",
-            "date": "2026-02-04T11:40:00Z"
-        },
-        {
-            "title": "40 Little-Known Moments In History You Won\u2019t Find In Textbooks",
-            "summary": "Vintage photos possess a unique magnetic quality, freezing authentic moments in time. They expertly capture everyday life, significant historical events, and subtle details often overlooked by traditional history books. Their appeal lies in preserving genuine slices of the past, offering a visual window into bygone eras for enthusiasts and historians alike.",
-            "url": "https://www.demilked.com/interesting-old-historical-pics/",
-            "category": "National",
-            "date": "2026-02-04T11:17:03Z"
+            "date": "2026-02-04T17:22:00Z"
         }
     ]
 }
