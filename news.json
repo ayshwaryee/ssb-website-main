@@ -1,40 +1,40 @@
 {
-    "last_updated": "2026-02-07T01:41:11.547238+00:00",
+    "last_updated": "2026-02-07T06:36:37.087561+00:00",
     "articles": [
         {
-            "title": "Going Dutch Season 2 E04: \"None of the Good Guys\" Preview: Sabotage?",
-            "summary": "FOX's series 'Going Dutch,' featuring Denis Leary and Taylor Misiak, airs its Season 2, Episode 4 titled 'None of the Good Guys' tonight. The episode promises a narrative centered around 'bad men and bad guys.' This new installment continues the popular television drama's run, offering viewers the latest developments in its ongoing storyline.",
-            "url": "https://bleedingcool.com/tv/going-dutch-season-2-e04-none-of-the-good-guys-preview-sabotage/",
-            "category": "National",
-            "date": "2026-02-06T01:37:08Z"
-        },
-        {
-            "title": "HII CEO touts productivity gains\u2014but says new contracts are needed to sustain progress",
-            "summary": "A major U.S. military shipbuilder reported increased production for 2025 but warned of potential delays in submarine construction. The company stated that building schedules could slip significantly if the U.S. Navy doesn't award crucial new contracts by midyear. This highlights potential challenges in defence procurement and maintaining naval readiness, impacting future fleet capabilities and national security.",
-            "url": "https://www.defenseone.com/business/2026/02/hii-ceo-touts-productivity-gains-says-new-contracts-are-needed-sustain-progress/411243/",
-            "category": "Defence",
-            "date": "2026-02-06T00:25:47Z"
-        },
-        {
-            "title": "Russia, Ukraine exchange 300 prisoners as US peace talks end without breakthrough",
-            "summary": "Russia and Ukraine have agreed to release 157 prisoners of war from each side following recent talks involving the US. While analysts suggest this exchange might be largely symbolic, it marks a significant step in ongoing diplomatic efforts amidst the conflict. This development offers a glimmer of hope for future humanitarian initiatives and de-escalation, even as broader peace remains elusive.",
-            "url": "https://nypost.com/2026/02/05/world-news/russia-ukraine-exchange-more-than-300-prisoners-after-us-peace-talks/",
+            "title": "Ukraine and Russia carry out prisoner swap after US-brokered talks",
+            "summary": "US-brokered talks between Ukraine and Russia concluded a second round in Abu Dhabi, aimed at resolving Europe's largest conflict since WWII. A major prisoner swap occurred, indicating some diplomatic engagement despite ongoing hostilities. These discussions highlight the complex nature of international mediation in seeking de-escalation and peace, crucial for understanding global geopolitics.",
+            "url": "https://www.independent.ie/world-news/europe/ukraine-and-russia-carry-out-prisoner-swap-after-us-brokered-talks/a254433155.html",
             "category": "International",
-            "date": "2026-02-05T23:29:46Z"
+            "date": "2026-02-06T05:30:00Z"
         },
         {
-            "title": "mrrc added to PyPI",
-            "summary": "A new Rust library, featuring Python bindings, has been developed for efficiently reading, writing, and manipulating MARC bibliographic records. This project is significant for library and information science, enabling advanced data management. Notably, its creation leveraged 'agentic coding tools,' highlighting advancements in AI-assisted software development and demonstrating innovative approaches to complex technical challenges.",
-            "url": "https://pypi.org/project/mrrc/",
-            "category": "Sci & Tech",
-            "date": "2026-02-05T22:22:21Z"
+            "title": "India, US discuss ways to boost collaboration in critical, emerging defence tech",
+            "summary": "India and the US recently held a key meeting, focusing on strengthening collaboration in critical and emerging defence technologies. Discussions centered on meeting evolving security requirements and boosting joint development and co-production initiatives. This strategic partnership aims to advance both nations' defence capabilities, enhance interoperability, and ensure readiness for future challenges, reinforcing regional stability.",
+            "url": "https://www.thehindubusinessline.com/news/india-us-discuss-ways-to-boost-collaboration-in-critical-emerging-defence-tech/article70598571.ece",
+            "category": "Defence",
+            "date": "2026-02-06T04:49:59Z"
         },
         {
-            "title": "Parshat Yitro: What inspired Yitro in the war with Amaleik?",
-            "summary": "This week's Parshah introduces Yitro, described as history's first convert to the Jewish people. As Moshe's father-in-law for decades, Yitro was inspired to join after learning about the miraculous splitting of the sea. This narrative highlights a significant moment of spiritual conversion and historical faith within religious texts, detailing a foundational event for the Jewish people.",
-            "url": "https://www.israelnationalnews.com/news/422028",
-            "category": "National",
-            "date": "2026-02-05T21:54:51Z"
+            "title": "Russia-Ukraine war: List of key events, day 1,443",
+            "summary": "Ukrainian forces reportedly inflicted serious damage on the Russian city of Belgorod through nighttime shelling on Friday, February 6. The region's Governor, Vyacheslav G..., confirmed the extensive damage. This incident highlights the ongoing military exchanges and their impact on civilian infrastructure, serving as a critical point for defence analysis within the wider international conflict.",
+            "url": "https://www.aljazeera.com/news/2026/2/6/russia-ukraine-war-list-of-key-events-day-1443",
+            "category": "Defence",
+            "date": "2026-02-06T03:46:52Z"
+        },
+        {
+            "title": "Neon releases creepy liminal trailer for Exit 8 \u2014 and I'm hoping for another great horror adaptation",
+            "summary": "Film distributor Neon has announced its new horror movie, 'Exit 8,' with the official trailer now released. The film is set to premiere in theaters on April 10. 'Exit 8' joins a growing slate of recent horror adaptations, such as 'Iron Lung,' highlighting ongoing trends within the entertainment industry and cultural sector.",
+            "url": "https://www.techradar.com/streaming/entertainment/neon-releases-creepy-liminal-trailer-for-exit-8-and-im-hoping-for-another-great-horror-adaptation",
+            "category": "International",
+            "date": "2026-02-06T03:00:00Z"
+        },
+        {
+            "title": "5 LCA Mk1A fighter jets fully ready for delivery to IAF: HAL",
+            "summary": "Hindustan Aeronautics Limited (HAL) has announced that five Light Combat Aircraft (LCA) Mk1A fighter jets are now fully ready for delivery to the Indian Air Force (IAF). This development marks a significant achievement in India's indigenous defence manufacturing capabilities, bolstering the IAF's operational strength with advanced, domestically produced aircraft. It highlights the nation's progress towards self-reliance in critical defence technology.",
+            "url": "https://timesofindia.indiatimes.com/india/5-lca-mk1a-fighter-jets-fully-ready-for-delivery-to-iaf-hal/articleshow/127955596.cms",
+            "category": "Defence",
+            "date": "2026-02-05T21:32:57Z"
         }
     ]
 }
