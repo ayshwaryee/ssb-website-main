@@ -1,40 +1,54 @@
 {
-    "last_updated": "2026-02-07T06:36:37.087561+00:00",
+    "last_updated": "2026-02-07T12:38:17.911643+00:00",
     "articles": [
         {
-            "title": "Ukraine and Russia carry out prisoner swap after US-brokered talks",
-            "summary": "US-brokered talks between Ukraine and Russia concluded a second round in Abu Dhabi, aimed at resolving Europe's largest conflict since WWII. A major prisoner swap occurred, indicating some diplomatic engagement despite ongoing hostilities. These discussions highlight the complex nature of international mediation in seeking de-escalation and peace, crucial for understanding global geopolitics.",
-            "url": "https://www.independent.ie/world-news/europe/ukraine-and-russia-carry-out-prisoner-swap-after-us-brokered-talks/a254433155.html",
+            "title": "The Winter Olympics opening ceremony is here and how ICE agents are scanning people's faces: Morning Rundown",
+            "summary": "Today's newsletter previews the Winter Olympics opening ceremony, marking the official start of the Games. It also discusses the controversial deployment of facial scanning technology by immigration agents for tracking both specific targets and general bystanders, raising significant concerns about privacy and surveillance implications.",
+            "url": "https://www.nbcnews.com/news/us-news/winter-olympics-opening-ceremony-ice-scanning-faces-morning-rundown-rcna257742",
             "category": "International",
-            "date": "2026-02-06T05:30:00Z"
+            "date": "2026-02-06T12:12:16Z"
         },
         {
-            "title": "India, US discuss ways to boost collaboration in critical, emerging defence tech",
-            "summary": "India and the US recently held a key meeting, focusing on strengthening collaboration in critical and emerging defence technologies. Discussions centered on meeting evolving security requirements and boosting joint development and co-production initiatives. This strategic partnership aims to advance both nations' defence capabilities, enhance interoperability, and ensure readiness for future challenges, reinforcing regional stability.",
-            "url": "https://www.thehindubusinessline.com/news/india-us-discuss-ways-to-boost-collaboration-in-critical-emerging-defence-tech/article70598571.ece",
-            "category": "Defence",
-            "date": "2026-02-06T04:49:59Z"
-        },
-        {
-            "title": "Russia-Ukraine war: List of key events, day 1,443",
-            "summary": "Ukrainian forces reportedly inflicted serious damage on the Russian city of Belgorod through nighttime shelling on Friday, February 6. The region's Governor, Vyacheslav G..., confirmed the extensive damage. This incident highlights the ongoing military exchanges and their impact on civilian infrastructure, serving as a critical point for defence analysis within the wider international conflict.",
-            "url": "https://www.aljazeera.com/news/2026/2/6/russia-ukraine-war-list-of-key-events-day-1443",
-            "category": "Defence",
-            "date": "2026-02-06T03:46:52Z"
-        },
-        {
-            "title": "Neon releases creepy liminal trailer for Exit 8 \u2014 and I'm hoping for another great horror adaptation",
-            "summary": "Film distributor Neon has announced its new horror movie, 'Exit 8,' with the official trailer now released. The film is set to premiere in theaters on April 10. 'Exit 8' joins a growing slate of recent horror adaptations, such as 'Iron Lung,' highlighting ongoing trends within the entertainment industry and cultural sector.",
-            "url": "https://www.techradar.com/streaming/entertainment/neon-releases-creepy-liminal-trailer-for-exit-8-and-im-hoping-for-another-great-horror-adaptation",
+            "title": "IndiGo plans to launch Delhi-Shanghai flight",
+            "summary": "IndiGo is set to launch direct flights connecting New Delhi and Shanghai, becoming the third airline to operate services between India and China since air travel resumed. This move aims to enhance connectivity and facilitate easier travel, strengthening bilateral ties between the two nations by improving accessibility for passengers and businesses.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-plans-to-launch-delhi-shanghai-flight/articleshow/127988854.cms",
             "category": "International",
-            "date": "2026-02-06T03:00:00Z"
+            "date": "2026-02-06T12:11:49Z"
         },
         {
-            "title": "5 LCA Mk1A fighter jets fully ready for delivery to IAF: HAL",
-            "summary": "Hindustan Aeronautics Limited (HAL) has announced that five Light Combat Aircraft (LCA) Mk1A fighter jets are now fully ready for delivery to the Indian Air Force (IAF). This development marks a significant achievement in India's indigenous defence manufacturing capabilities, bolstering the IAF's operational strength with advanced, domestically produced aircraft. It highlights the nation's progress towards self-reliance in critical defence technology.",
-            "url": "https://timesofindia.indiatimes.com/india/5-lca-mk1a-fighter-jets-fully-ready-for-delivery-to-iaf-hal/articleshow/127955596.cms",
+            "title": "Telco trio launches African cross-border fibre project",
+            "summary": "Three African telecom operators have launched a cross-border optical fibre project to significantly boost digital connectivity across East and Northeast Africa. This strategic partnership aims to enhance internet access and data transmission capabilities, fostering economic growth and regional integration by creating robust digital infrastructure across multiple nations.",
+            "url": "https://www.telecomtv.com/content/access-evolution/telco-trio-launches-african-cross-border-fibre-project-54799/",
+            "category": "International",
+            "date": "2026-02-06T11:55:46Z"
+        },
+        {
+            "title": "How India is gearing up to power its AI ambitions",
+            "summary": "India's ambitious Artificial Intelligence (AI) roadmap critically depends on robust energy infrastructure. Sustainable and reliable power is essential to support the massive data centres and digital networks required for AI development and deployment. This foundational energy backbone is vital for enabling large-scale AI initiatives nationwide, ensuring India's technological advancement and strategic capabilities in this crucial sector.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-india-is-gearing-up-to-power-its-ai-ambitions/articleshow/127987641.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-06T11:43:45Z"
+        },
+        {
+            "title": "More Navy sailors gain access to Headspace mental health therapy, coaching program",
+            "summary": "The U.S. Navy is enhancing mental health support for its personnel, demonstrating a growing emphasis on well-being within the armed forces. Sailors at Yokosuka Naval Base, Japan, were introduced to the Headspace app, a mental health care tool. This expansion signifies the Navy's commitment to providing accessible resources, crucial for operational readiness and overall welfare of service members globally.",
+            "url": "https://www.stripes.com/branches/navy/2026-02-06/navy-mental-health-care-headspace-20643196.html",
             "category": "Defence",
-            "date": "2026-02-05T21:32:57Z"
+            "date": "2026-02-06T11:00:29Z"
+        },
+        {
+            "title": "Zhang Youxia: veteran princeling caught in China's military purge",
+            "summary": "China's announcement of an investigation into its top general has stunned global defence watchers, significantly weakening the country's senior military leadership. This development further highlights President Xi Jinping's ongoing anti-corruption drive and efforts to consolidate power within the People's Liberation Army. The probe raises questions regarding stability and future strategic direction within China's armed forces and leadership.",
+            "url": "https://www.sinodaily.com/reports/Zhang_Youxia_veteran_princeling_caught_in_Chinas_military_purge_999.html",
+            "category": "Defence",
+            "date": "2026-02-06T10:39:07Z"
+        },
+        {
+            "title": "$47.88 Bn Power Transmission Towers & Cables Markets - Global Forecast Report 2026-2032 - Growth Driven by Infrastructure Modernization, Aging Grid Assets, and Heightened Energy Security Initiatives",
+            "summary": "A new global market research report forecasting the 'Power Transmission Towers & Cables Market' from 2026-2032 has been published by ResearchAndMarkets.com. This study, announced from Dublin, provides critical insights into the future of worldwide power infrastructure. Understanding such global energy sector trends is vital for SSB aspirants to grasp economic development and strategic planning.",
+            "url": "https://www.globenewswire.com/news-release/2026/02/06/3233667/28124/en/47-88-Bn-Power-Transmission-Towers-amp-Cables-Markets-Global-Forecast-Report-2026-2032-Growth-Driven-by-Infrastructure-Modernization-Aging-Grid-Assets-and-Heightened-Energy-Securit.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-06T10:37:00Z"
         }
     ]
 }
