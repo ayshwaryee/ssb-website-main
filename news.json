@@ -1,19 +1,75 @@
 {
-    "last_updated": "2026-02-09T06:59:31.326831+00:00",
+    "last_updated": "2026-02-09T12:58:53.337784+00:00",
     "articles": [
         {
-            "title": "In the Age of AI Writing Tools, I Picked Emacs for My Sci-Fi Novel",
-            "summary": "An author is developing a new science fiction novel set 500 years in the future, exploring themes of advanced artificial intelligence. The story will feature a sentient artificial being, reminiscent of the HAL 9000 from '2001: A Space Odyssey'. This upcoming work promises to delve into the complexities of future technology and consciousness, offering speculative insights into AI's role in society.",
-            "url": "https://itsfoss.com/emacs-the-ux-ideal/",
-            "category": "Sci & Tech",
-            "date": "2026-02-08T06:24:45Z"
+            "title": "Yasmine Karachiwala to Gunjan Taneja: Top 5 female fitness content creators who have been ruling the digital space",
+            "summary": "This article highlights the top five female fitness content creators, including prominent figures like Yasmine Karachiwala and Gunjan Taneja, who are significantly influencing the digital space. These creators are recognized for their widespread reach and impact in promoting health and wellness online, guiding a diverse audience in their fitness journeys through digital platforms.",
+            "url": "https://timesofindia.indiatimes.com/women/wellness-beauty/yasmine-karachiwala-to-gunjan-taneja-top-5-female-fitness-content-creators-who-have-been-ruling-the-digital-space/articleshow/128071632.cms",
+            "category": "National",
+            "date": "2026-02-08T12:57:07Z"
         },
         {
-            "title": "Adrian Weckler: If you\u2019re looking for signs of a weird and creepy AI dystopia, you\u2019ve come to the right place",
-            "summary": "Concerns are escalating in the AI sector, with discussions turning 'dystopian'. OpenAI CEO Sam Altman, known for ChatGPT, is at the forefront of recent developments. The article highlights growing tensions and significant events within the AI industry, suggesting critical shifts and debates around its future direction and societal implications. This reflects a period of heightened activity and potential challenges in advanced technology.",
-            "url": "https://www.independent.ie/business/technology/adrian-weckler-if-youre-looking-for-signs-of-a-weird-and-creepy-ai-dystopia-youve-come-to-the-right-place/a1378774251.html",
-            "category": "Sci & Tech",
-            "date": "2026-02-08T05:30:00Z"
+            "title": "9-page red-ink note and walk-in psychiatry visit deepen mystery around Bengaluru businessman C J Roy\u2019s suicide",
+            "summary": "C J Roy, a 57-year-old high-profile real estate businessman, died by suicide in Bengaluru. His death, confirmed over a month after the incident, occurred amidst an ongoing Income Tax department probe at his central Bengaluru office. This incident brings to light the pressures involved during financial investigations involving prominent figures.",
+            "url": "https://indianexpress.com/article/cities/bangalore/mystery-around-real-estate-tycoon-c-j-roy-suicide-sit-probe-10520994/",
+            "category": "National",
+            "date": "2026-02-08T12:53:04Z"
+        },
+        {
+            "title": "Labour codes trigger job surge in smaller cities, women hiring sees strong boost",
+            "summary": "Reports from Goa cover a local connection boosting Portugal's T20 World Cup hopes, Chief Minister Sawant's impending budget presentation, and the CM's remarks on Naxalite concerns. Concurrently, Thiruvananthapuram faces infrastructure issues, with stalled road work and controversies surrounding its Smart City Phase 2 project. These updates reflect diverse state-level developments and governance challenges across India.",
+            "url": "https://timesofindia.indiatimes.com/education/careers/news/labour-codes-trigger-job-surge-in-smaller-cities-women-hiring-sees-strong-boost/articleshow/128071548.cms",
+            "category": "National",
+            "date": "2026-02-08T12:50:10Z"
+        },
+        {
+            "title": "Delhi CM Rekha Gupta approves Rs 1,200 cr grant for DTC salaries, pensions and transport modernisation",
+            "summary": "Delhi Chief Minister Rekha Gupta has approved a substantial grant of \u20b91,200 crore for the Delhi Transport Corporation (DTC). This critical funding is designated to cover employee salaries and pensions, alongside initiating the modernization of the capital's transport infrastructure. This decision aims to bolster public transport services and ensure their efficient operation for citizens.",
+            "url": "https://timesofindia.indiatimes.com/india/delhi-cm-rekha-gupta-approves-rs-1200-cr-grant-for-dtc-salaries-pensions-and-transport-modernisation/articleshow/128071505.cms",
+            "category": "National",
+            "date": "2026-02-08T12:47:38Z"
+        },
+        {
+            "title": "Venture capitalists must increase support for defence start-ups: NITI Aayog's Saraswat",
+            "summary": "NITI Aayog member and former DRDO director general VK Saraswat urged venture capitalists to significantly increase financial support for Indian defence start-ups. Saraswat highlighted the considerable progress made by these start-ups, emphasizing that greater investment is crucial for fostering indigenous innovation. This call aims to bolster India's self-reliance in defence manufacturing and strengthen national security capabilities by backing emerging domestic technologies.",
+            "url": "https://www.thehindubusinessline.com/news/venture-capitalists-must-increase-support-for-defence-start-ups-niti-aayogs-saraswat/article70607388.ece",
+            "category": "Defence",
+            "date": "2026-02-08T12:24:08Z"
+        },
+        {
+            "title": "Venture capitalists must increase support for defence startups, says NITI Aayog's Saraswat",
+            "summary": "NITI Aayog member and former DRDO director general VK Saraswat urged venture capitalists to significantly increase financial support for Indian defence startups. He emphasized the substantial progress made by these companies, highlighting their potential to strengthen the nation's defence capabilities and foster self-reliance. This call aims to accelerate indigenous innovation and reduce dependence on foreign technology in the critical defence sector.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/venture-capitalists-must-increase-support-for-defence-startups-says-niti-aayogs-saraswat/articleshow/128070625.cms",
+            "category": "Defence",
+            "date": "2026-02-08T12:14:55Z"
+        },
+        {
+            "title": "Baba Vanga Prediction 2026: Is a Massive Gold & Silver Price Surge Coming?",
+            "summary": "Lt Gen AK Bhatt has disclosed the inside account of the 2017 Doklam standoff between India and China. His revelations offer critical insights into the intense military and diplomatic confrontation, highlighting the strategic challenges and India's decisive responses. This information is vital for understanding border security and regional stability dynamics for SSB aspirants.",
+            "url": "https://timesofindia.indiatimes.com/astrology/others/baba-vanga-prediction-2026-is-a-massive-gold-silver-price-surge-coming/articleshow/128066650.cms",
+            "category": "Defence",
+            "date": "2026-02-08T11:41:37Z"
+        },
+        {
+            "title": "How corporate layoffs and the US H-1B to green card system leave skilled workers in prolonged immigration limbo",
+            "summary": "This article discusses how corporate layoffs in the US, combined with the complexities of the H-1B visa and green card system, are creating prolonged immigration uncertainty for skilled workers. It highlights the challenges faced by these professionals who find themselves in limbo due to economic shifts and bureaucratic processes, impacting their career and personal stability in the United States.",
+            "url": "https://timesofindia.indiatimes.com/education/news/how-corporate-layoffs-and-the-us-h-1b-to-green-card-system-leave-skilled-workers-in-prolonged-immigration-limbo/articleshow/128068615.cms",
+            "category": "International",
+            "date": "2026-02-08T11:08:29Z"
+        },
+        {
+            "title": "Diesel Engines Need Air, Submarines Run Underwater, So How Do Diesel Submarines Work?",
+            "summary": "Submarines acquire air through two main methods: surfacing above water or employing a snorkel in shallow depths. A snorkel is a pipe designed to extend just above the surface, drawing crucial air into the submarine. This innovation enables extended submerged operations without needing to fully surface, significantly enhancing their stealth capabilities and operational endurance for naval missions.",
+            "url": "https://www.jalopnik.com/2091133/how-do-diesel-submarines-work-underwater/",
+            "category": "Defence",
+            "date": "2026-02-08T11:05:00Z"
+        },
+        {
+            "title": "India\u2019s textile sector at an inflection point as global tariff barriers ease; Arvind Fashion, Raymond Lifestyle top buys",
+            "summary": "India's textile industry is entering a crucial phase as recent tariff relaxations by the US significantly boost its global competitiveness. This development is resetting the economics of the sector, offering Indian textiles a stronger position in the international market. The move is expected to drive growth and expand opportunities for the industry, making it a key focus for national economic strategy.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-textile-sector-at-an-inflection-point-as-global-tariff-barriers-ease-arvind-fashion-raymond-lifestyle-top-buys/articleshow/128058839.cms",
+            "category": "National",
+            "date": "2026-02-08T04:41:56Z"
         }
     ]
 }
