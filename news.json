@@ -1,40 +1,61 @@
 {
-    "last_updated": "2026-02-10T06:59:06.424560+00:00",
+    "last_updated": "2026-02-10T13:03:04.486748+00:00",
     "articles": [
         {
-            "title": "The History of Science Fiction",
-            "summary": "This article highlights science fiction as an exceptionally popular genre spanning literature, film, and television globally. Its widespread appeal underscores its significant cultural impact, engaging audiences with imaginative narratives centered on futuristic technologies, scientific possibilities, and societal evolution. Understanding such broad cultural phenomena can be relevant for general knowledge discussions.",
-            "url": "https://everything-everywhere.com/the-history-of-science-fiction/",
+            "title": "Coupang Confirms More Data Leaks Which South Korean Aide Says Has \u2018Shaken\u2019 US Ties",
+            "summary": "South Korean e-commerce giant Coupang confirmed a major security breach, revealing the data leak of an additional 165,000 users. This incident highlights the growing cybersecurity challenges faced by global companies and underscores the importance of data protection. The South Korean government is reportedly involved in the ongoing investigation, emphasizing the need for robust digital security measures.",
+            "url": "https://www.insurancejournal.com/news/international/2026/02/09/857373.htm",
             "category": "Sci & Tech",
-            "date": "2026-02-09T06:41:33Z"
+            "date": "2026-02-09T12:43:45Z"
         },
         {
-            "title": "Axiscades Technologies hit 5% upper circuit as arm wins \u20b980-crore order",
-            "summary": "Axiscades Technologies' subsidiary, Mistral Solutions, secured an Rs 80 crore order from Hindustan Aeronautics Ltd (HAL). This significant contract underscores Mistral's contribution to HAL's projects, likely involving specialized technology or engineering services. Such domestic collaborations are vital for enhancing India's indigenous defence manufacturing capabilities and promoting technological self-reliance, aligning with national security priorities.",
-            "url": "https://www.business-standard.com/markets/news/axiscades-technologies-hit-5-percent-upper-circuit-as-arm-wins-80-crore-order-126020900350_1.html",
+            "title": "py-big-brother added to PyPI",
+            "summary": "This article outlines an \"AI-first\" Python code structuring principle mandating \"1 file, 1 function.\" This approach organizes code intuitively, enabling AI agents to easily discern each file's purpose by its name. It promotes modularity, clarity, and efficient project management, crucial for developing robust AI systems and streamlining complex software development processes, vital skills in various technical fields.",
+            "url": "https://pypi.org/project/py-big-brother/",
+            "category": "Sci & Tech",
+            "date": "2026-02-09T12:27:04Z"
+        },
+        {
+            "title": "Jeffs\u2019 Brands: KeepZone AI Enters Into Anti-Submarine and Underwater Security Systems with Strategic Agreement",
+            "summary": "A Tel Aviv-based global leader in underwater domain awareness has secured an exclusive agreement to support Mexican maritime and offshore security operations. This collaboration will enhance Mexico's ability to monitor its underwater territories effectively. For SSB aspirants, this underscores the critical role of advanced maritime surveillance technologies and international defence partnerships in safeguarding national security and economic zones against evolving threats.",
+            "url": "https://www.globenewswire.com/news-release/2026/02/09/3234423/0/en/Jeffs-Brands-KeepZone-AI-Enters-Into-Anti-Submarine-and-Underwater-Security-Systems-with-Strategic-Agreement.html",
             "category": "Defence",
-            "date": "2026-02-09T06:18:17Z"
+            "date": "2026-02-09T12:22:00Z"
         },
         {
-            "title": "Akhilesh Yadav slams India-US trade deal; says \u2018Make in India\u2019 abandoned",
-            "summary": "Samajwadi Party chief Akhilesh Yadav sharply criticized the BJP-led Centre over the recently announced US-India interim trade deal. Yadav accused the government of compromising national interests, stating it was 'handing over India.' This political attack highlights domestic opposition concerns regarding India's international economic agreements and their potential impact on national sovereignty and trade policy, a significant aspect of governance.",
-            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/akhilesh-yadav-slams-india-us-trade-deal-says-make-in-india-abandoned/articleshow/128099190.cms",
-            "category": "National",
-            "date": "2026-02-09T05:43:48Z"
+            "title": "UPSC Key: India-Malaysia relations, PM CARES Fund, and AI Impact Summit",
+            "summary": "This exam syllabus excerpt emphasizes the critical importance of current affairs for SSB aspirants. The Preliminary Examination requires knowledge of national and international developments. For the Mains, General Studies-II specifically covers India's bilateral, regional, and global engagements, including international groupings and agreements. Aspirants must cultivate a comprehensive understanding of India's foreign policy and its role in global affairs.",
+            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-india-malaysia-relations-pm-cares-fund-and-ai-impact-summit-10522699/",
+            "category": "International",
+            "date": "2026-02-09T12:14:09Z"
         },
         {
-            "title": "Sweden's defence firm SAAB says Gripen fighter jet has place in IAF",
-            "summary": "Sweden's SAAB has proposed establishing the world's most advanced aerospace industry in India, targeting the Indian Government. This ambitious plan encompasses multi-layered design, production, and maintenance capabilities, aiming to significantly enhance India's indigenous defence manufacturing. Such a collaboration would boost local fighter jet production, strengthening India's strategic self-reliance and technological base in critical defence sectors.",
-            "url": "https://www.thehindubusinessline.com/news/swedens-defence-firm-saab-says-gripen-fighter-jet-has-place-in-iaf/article70609664.ece",
+            "title": "ISRO identifies site for Chandrayaan-4 lander",
+            "summary": "ISRO has identified a landing site in the Moon's South Polar region for its Chandrayaan-4 mission, expected in two years. The union government has already approved this ambitious lunar exploration project. This initiative underscores India's continuous advancement in space technology and its commitment to scientific research, building upon previous successful lunar missions and demonstrating national capability in space exploration.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-identifies-site-for-chandrayaan-4-lander-mons-mouton-south-polar-region-of-moon/articleshow/128113745.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-09T12:05:50Z"
+        },
+        {
+            "title": "High On Life 2, Yakuza Kiwami 3 and Romeo Is A Dead Man go head to head in another crowded week for PC games",
+            "summary": "The author observes a shift in weather patterns, noting traces of blue sky through sallow clouds and sunshine on wet leaves. These environmental cues signal the onset of a new phase, potentially indicating a seasonal transition or an improvement in weather conditions. This personal observation highlights subtle changes in daily atmospheric phenomena.",
+            "url": "https://www.rockpapershotgun.com/high-on-life-2-yakuza-kiwami-3-and-romeo-is-a-dead-man-go-head-to-head-in-another-crowded-week-for-pc-games",
+            "category": "Sci & Tech",
+            "date": "2026-02-09T12:00:44Z"
+        },
+        {
+            "title": "JMI organises two-day Employability Enhancement Workshop",
+            "summary": "The new Galaxy F70e 5G smartphone is highlighted for redefining mobile technology specifically for content creators. Described as 'smooth, sharp, and spotlight-ready,' it targets professionals and enthusiasts with advanced features for capturing high-quality media. This launch signifies an advancement in smartphone capabilities, catering to the growing digital content creation market by delivering powerful performance and enhanced user experience.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/events/delhi/jmi-organises-two-day-employability-enhancement-workshop/articleshow/128112609.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-09T11:40:51Z"
+        },
+        {
+            "title": "Singapore Airshow 2026 Milestone Edition: 20 Years of Shaping the Aerospace Landscape as Asia-Pacific Drives Global",
+            "summary": "The Singapore Airshow 2026, organised by Experia Events, is set to take place from February 3-8 at the Changi Exhibition Centre. Marking its 10th edition, this premier international aerospace and defence exhibition will showcase cutting-edge aviation technology, foster industry collaborations, and highlight advancements crucial for global security and economic growth, attracting key players and stakeholders worldwide.",
+            "url": "https://en.antaranews.com/news/403650/singapore-airshow-2026-milestone-edition-20-years-of-shaping-the-aerospace-landscape-as-asia-pacific-drives-global",
             "category": "Defence",
-            "date": "2026-02-09T05:23:05Z"
-        },
-        {
-            "title": "Hall of Fame voter Tony Dungy declines to disclose whether he voted for Bill Belichick",
-            "summary": "Hall of Fame coach Tony Dungy recently declined to reveal whether he voted for his former rival, Bill Belichick, for induction into the new Hall of Fame class. This specific news pertains to American professional football, highlighting the voting process and rivalries among prominent figures in the sport. It reflects internal cultural and sporting events within a nation.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-voter-tony-dungy-declines-to-disclose-whether-he-voted-for-bill-belichick",
-            "category": "National",
-            "date": "2026-02-09T01:10:53Z"
+            "date": "2026-02-09T09:54:38Z"
         }
     ]
 }
