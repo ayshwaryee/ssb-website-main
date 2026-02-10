@@ -1,54 +1,40 @@
 {
-    "last_updated": "2026-02-10T05:48:49.302961+00:00",
+    "last_updated": "2026-02-10T06:59:06.424560+00:00",
     "articles": [
         {
+            "title": "The History of Science Fiction",
+            "summary": "This article highlights science fiction as an exceptionally popular genre spanning literature, film, and television globally. Its widespread appeal underscores its significant cultural impact, engaging audiences with imaginative narratives centered on futuristic technologies, scientific possibilities, and societal evolution. Understanding such broad cultural phenomena can be relevant for general knowledge discussions.",
+            "url": "https://everything-everywhere.com/the-history-of-science-fiction/",
+            "category": "Sci & Tech",
+            "date": "2026-02-09T06:41:33Z"
+        },
+        {
+            "title": "Axiscades Technologies hit 5% upper circuit as arm wins \u20b980-crore order",
+            "summary": "Axiscades Technologies' subsidiary, Mistral Solutions, secured an Rs 80 crore order from Hindustan Aeronautics Ltd (HAL). This significant contract underscores Mistral's contribution to HAL's projects, likely involving specialized technology or engineering services. Such domestic collaborations are vital for enhancing India's indigenous defence manufacturing capabilities and promoting technological self-reliance, aligning with national security priorities.",
+            "url": "https://www.business-standard.com/markets/news/axiscades-technologies-hit-5-percent-upper-circuit-as-arm-wins-80-crore-order-126020900350_1.html",
+            "category": "Defence",
+            "date": "2026-02-09T06:18:17Z"
+        },
+        {
             "title": "Akhilesh Yadav slams India-US trade deal; says \u2018Make in India\u2019 abandoned",
-            "summary": "Samajwadi Party chief Akhilesh Yadav sharply attacked the BJP-led Central government over the recently announced US-India interim trade deal. He accused the government of \"handing over\" national interests, implying significant concessions or compromises detrimental to India's economy or sovereignty through the agreement. This demonstrates political opposition reacting to international trade policies.",
+            "summary": "Samajwadi Party chief Akhilesh Yadav sharply criticized the BJP-led Centre over the recently announced US-India interim trade deal. Yadav accused the government of compromising national interests, stating it was 'handing over India.' This political attack highlights domestic opposition concerns regarding India's international economic agreements and their potential impact on national sovereignty and trade policy, a significant aspect of governance.",
             "url": "https://economictimes.indiatimes.com/news/politics-and-nation/akhilesh-yadav-slams-india-us-trade-deal-says-make-in-india-abandoned/articleshow/128099190.cms",
             "category": "National",
             "date": "2026-02-09T05:43:48Z"
         },
         {
             "title": "Sweden's defence firm SAAB says Gripen fighter jet has place in IAF",
-            "summary": "Sweden's SAAB has proposed to the Indian Government the establishment of the world's most advanced aerospace industry within India. This multi-layered initiative covers indigenous design, production, and maintenance capabilities, including the potential induction of fighter aircraft. The proposal aims to significantly enhance India's defence manufacturing prowess and self-reliance, aligning with strategic objectives for indigenous defence production.",
+            "summary": "Sweden's SAAB has proposed establishing the world's most advanced aerospace industry in India, targeting the Indian Government. This ambitious plan encompasses multi-layered design, production, and maintenance capabilities, aiming to significantly enhance India's indigenous defence manufacturing. Such a collaboration would boost local fighter jet production, strengthening India's strategic self-reliance and technological base in critical defence sectors.",
             "url": "https://www.thehindubusinessline.com/news/swedens-defence-firm-saab-says-gripen-fighter-jet-has-place-in-iaf/article70609664.ece",
             "category": "Defence",
             "date": "2026-02-09T05:23:05Z"
         },
         {
-            "title": "Sweden's defence firm SAAB seeks Indian Air Force induction for its Gripen fighter jet",
-            "summary": "Swedish defence giant SAAB has proposed establishing the world's most advanced aerospace industry in India to the Indian Government. This ambitious plan includes multi-layered design, production, and maintenance capabilities, significantly boosting indigenisation efforts. The initiative aims to enhance India's self-reliance and technological prowess in the critical aerospace sector, aligning with national defence and \"Make in India\" objectives.",
-            "url": "https://economictimes.indiatimes.com/news/defence/swedens-defence-firm-saab-seeks-indian-air-force-induction-for-its-gripen-fighter-jet/articleshow/128097277.cms",
-            "category": "Defence",
-            "date": "2026-02-09T04:43:15Z"
-        },
-        {
-            "title": "\u2018Secure indoor ventilation standards, or we end up inhaling high carbon dioxide\u2019",
-            "summary": "Professor Pawel Wargocki from the Technical University of Denmark (DTU), a leading authority on indoor air quality and environmental health, engaged with The Indian Express, Mumbai team. The discussion likely focused on crucial aspects of indoor environments and their impact on human well-being, providing insights into modern challenges and scientific solutions related to health and building design.",
-            "url": "https://indianexpress.com/article/cities/mumbai/secure-indoor-ventilation-standards-inhaling-high-carbon-dioxide-10521825/",
-            "category": "Sci & Tech",
-            "date": "2026-02-09T04:19:00Z"
-        },
-        {
-            "title": "Top 10: Very cool planes from the Cold War",
-            "summary": "The Cold War, fueled by extensive defence funding, spearheaded the creation of a fascinating variety of warplanes. This era witnessed the development of aircraft that ranged from remarkably innovative and iconic designs to those considered unconventional or even controversial. Exploring these diverse Cold War aviation projects offers valuable insights into defence technology evolution and strategic thinking that shaped global military aerospace.",
-            "url": "https://www.yahoo.com/lifestyle/articles/top-10-very-cool-planes-040209009.html",
-            "category": "Defence",
-            "date": "2026-02-09T04:02:09Z"
-        },
-        {
-            "title": "ETMarkets Smart Talk | Cap global allocation at 20% as currency turns X-factor in 2026: Prashant Gupta",
-            "summary": "India's Union Budget 2026 potentially eased outbound investment norms, encouraging global diversification for Indian entities. While this move strengthens the case for international ventures, aspirants should note that currency volatility remains a critical factor. It could significantly alter the return equation for overseas investors, demanding careful risk assessment for any international financial planning.",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/etmarkets-smart-talk-cap-global-allocation-at-20-as-currency-turns-x-factor-in-2026-prashant-gupta/articleshow/128061730.cms",
+            "title": "Hall of Fame voter Tony Dungy declines to disclose whether he voted for Bill Belichick",
+            "summary": "Hall of Fame coach Tony Dungy recently declined to reveal whether he voted for his former rival, Bill Belichick, for induction into the new Hall of Fame class. This specific news pertains to American professional football, highlighting the voting process and rivalries among prominent figures in the sport. It reflects internal cultural and sporting events within a nation.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-voter-tony-dungy-declines-to-disclose-whether-he-voted-for-bill-belichick",
             "category": "National",
-            "date": "2026-02-09T03:30:00Z"
-        },
-        {
-            "title": "Weekly IFR 2026 contest: Sailing with the Times - 1st part of the jigsaw (Week 5)",
-            "summary": "The provided article text consists solely of copyright information, social media prompts, and reprint rights notices. It does not contain any actual news content or information that can be summarized for an SSB aspirant or categorized under Defence, National, International, or Sci & Tech.",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/weekly-ifr-2026-contest-sailing-with-the-times-1st-part-of-the-jigsaw-week-5/articleshow/128093322.cms",
-            "category": "N/A",
-            "date": "2026-02-09T02:22:21Z"
+            "date": "2026-02-09T01:10:53Z"
         }
     ]
 }
