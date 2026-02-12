@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-02-12T06:56:27.771145+00:00",
+    "last_updated": "2026-02-12T12:57:49.868159+00:00",
     "articles": [
         {
-            "title": "India Showcases Indigenous Defence Might at World Defence Show 2026 in Riyadh, Saudi Arabia",
-            "summary": "Raksha Rajya Mantri Shri Sanjay Seth led a high-level Indian delegation from the Ministry of Defence to the World Defence Show. India's participation underscores its commitment to global defence cooperation, exploring new technologies, and strengthening strategic partnerships on the international stage. This engagement is vital for showcasing India's defence capabilities and fostering future collaborations.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260210-india-pib02.htm",
-            "category": "Defence",
-            "date": "2026-02-11T06:55:45Z"
-        },
-        {
-            "title": "Submarine maker TKMS hits record $22 billion order backlog, raises sales outlook",
-            "summary": "German submarine maker TKMS has achieved a record $22 billion order backlog, significantly raising its sales outlook. This surge is attributed to a global increase in demand for warships, indicating nations are bolstering their naval capabilities amidst evolving geopolitical dynamics. For SSB aspirants, this highlights the robust growth in the international defence sector and the strategic importance of naval assets.",
-            "url": "https://www.channelnewsasia.com/business/submarine-maker-tkms-hits-record-22-billion-order-backlog-raises-sales-outlook-5922591",
-            "category": "Defence",
-            "date": "2026-02-11T06:54:08Z"
-        },
-        {
-            "title": "cle-net added to PyPI",
-            "summary": "This document presents core project statistics, detailing metrics for a pure Python implementation. It highlights a total of 13,974 lines of code, offering insights into the technical scope and scale of the software development effort. Such data is crucial for project management and understanding development progress within a technology context.",
-            "url": "https://pypi.org/project/cle-net/",
+            "title": "Show HN: I tried to build a soundproof sleep capsule",
+            "summary": "This article discusses the subtle yet impactful nature of sound, particularly noise pollution. Unlike physical damage, sound leaves no visible evidence, such as stains or cracks. It illustrates how an apartment's ambiance can transform from peaceful daytime silence to a hostile environment late at night due to intrusive disturbances like loud bass, highlighting the often-invisible nuisance of unwanted noise and its subjective perception.",
+            "url": "https://www.lepekhin.com/2026/02/10/Soundproof-Sleep-Capsule",
             "category": "Sci & Tech",
-            "date": "2026-02-11T06:49:43Z"
+            "date": "2026-02-11T12:57:09Z"
+        },
+        {
+            "title": "Delays are natural, India must persist with Gaganyaan: Shubhanshu Shukla",
+            "summary": "Group Captain Shubhanshu Shukla, an Indian astronaut, stresses India's critical need to persistently pursue its ambitious human spaceflight program. He emphasized sustained enthusiasm despite inherent complexities and unknowns. For SSB aspirants, this highlights India's growing scientific capabilities and strategic commitment to space exploration, crucial for national prestige and technological advancement.",
+            "url": "https://www.business-standard.com/india-news/india-must-sustain-momentum-on-gaganyaan-despite-complexities-group-captain-shubhanshu-shukla-126021100965_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-11T12:26:53Z"
+        },
+        {
+            "title": "IN-SPACe selects Astrome, Azista and Dhruva Space for satellite bus plan",
+            "summary": "Three Indian companies \u2013 Astrome, Azista, and Dhruva Space \u2013 will each receive \u20b95 crore under IN-SPACe's SBaaS initiative. This funding aims to boost the development of indigenous small satellite bus platforms, crucial for hosted payload services. This significant step strengthens India's self-reliance in advanced space technology, fostering domestic capabilities and innovation in the rapidly growing global space sector.",
+            "url": "https://www.business-standard.com/industry/news/in-space-selects-astrome-azista-dhruva-for-satellite-bus-service-126021101187_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-11T12:25:42Z"
+        },
+        {
+            "title": "Avantel wins \u20b9122.58 cr antenna order from ISRO arm NewSpace India",
+            "summary": "Avantel Ltd secured a \u20b9122.58 crore order from NewSpace India Limited (NSIL) for crucial S/X-band antennas, to be completed by August 2027. This project enhances India's space infrastructure, vital for satellite communication, tracking, and data reception across various applications. It reinforces indigenous technological prowess in a strategic sector, bolstering national capabilities for future space missions.",
+            "url": "https://www.business-standard.com/companies/news/avantel-bags-rs-122-58-crore-order-from-isros-nsil-126021101174_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-11T12:10:27Z"
+        },
+        {
+            "title": "Forget Waldo. Where\u2019s Luna 9?",
+            "summary": "Luna 9 made history in 1966 as the first spacecraft to successfully achieve a soft landing on the Moon. It deployed a 99-kg lander module that utilized an innovative landing bag system to cushion the impact. This pioneering mission showcased remarkable technological ingenuity, overcoming significant challenges with the limited resources of the era, marking a pivotal achievement in early space exploration.",
+            "url": "https://hackaday.com/2026/02/11/forget-waldo-wheres-luna-9/",
+            "category": "Sci & Tech",
+            "date": "2026-02-11T12:00:32Z"
+        },
+        {
+            "title": "Sarlaben: Amul rolls out AI assistant for 36 lakh farmers and their 3 crore cattle",
+            "summary": "Amul has launched \"Sarlaben,\" an AI-powered assistant, to guide 36 lakh milk producers nationwide. This platform will provide crucial information on cattle health, breeding practices, and government schemes. Leveraging artificial intelligence, Sarlaben aims to empower the dairy community, enhancing productivity and ensuring millions of farmers have access to vital agricultural support, marking a significant technological advancement in the sector.",
+            "url": "https://www.thehindubusinessline.com/economy/agri-business/sarlaben-amul-rolls-out-ai-assistant-for-36-lakh-farmers-and-their-3-crore-cattle/article70619594.ece",
+            "category": "Sci & Tech",
+            "date": "2026-02-11T11:57:42Z"
+        },
+        {
+            "title": "Indian Navy's Deputy Chief Vice Admiral Tarun Sobti holds bilateral talks with Bahrain's Crown Prince",
+            "summary": "India's Deputy Chief of Naval Staff Vice Admiral Tarun Sobti met with Bahrain's Crown Prince, Prime Minister, and Deputy Supreme Commander of Armed Forces, Prince Salman bin Hamad Al Khalifa, in Riffa. Discussions focused on bolstering bilateral defence cooperation, maritime security, and strategic partnerships. This high-level engagement underscores ongoing efforts to enhance defence ties and regional stability between India and Bahrain.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-navys-deputy-chief-vice-admiral-tarun-sobti-holds-bilateral-talks-with-bahrains-crown-prince/articleshow/128205282.cms",
+            "category": "Defence",
+            "date": "2026-02-11T11:42:20Z"
+        },
+        {
+            "title": "Rafale fighter jet was hero during Operation Sindoor, says Vice Chief of Air Staff Air Marshal Nagesh Kapoor",
+            "summary": "Vice Chief of Air Staff Air Marshal Nagesh Kapoor praised Rafale fighter jets as crucial during 'Operation Sindoor,' highlighting their multi-role capabilities. He affirmed the Indian Air Force's strategic goal to induct more Multi-Role Fighter (MRF) aircraft. This initiative underscores the IAF's commitment to modernizing its fleet and significantly enhancing its operational prowess and air power for future security challenges.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rafale-fighter-jet-was-hero-during-operation-sindoor-says-vice-chief-of-air-staff-air-marshal-nagesh-kapoor/articleshow/128200084.cms",
+            "category": "Defence",
+            "date": "2026-02-11T09:44:41Z"
         }
     ]
 }
