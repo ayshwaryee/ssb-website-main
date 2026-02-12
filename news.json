@@ -1,54 +1,26 @@
 {
-    "last_updated": "2026-02-12T01:50:33.058290+00:00",
+    "last_updated": "2026-02-12T06:56:27.771145+00:00",
     "articles": [
         {
-            "title": "The one glaring reason this year's Winter Olympics are not gender equal",
-            "summary": "The 2026 Winter Olympics, hosted across northern Italy, are being celebrated as the most gender-equal Games in history. The International Olympic Committee (IOC) announced that this edition will feature a record 47% female participation. This milestone underscores a significant global push towards greater inclusivity and gender parity within major international sporting events.",
-            "url": "https://www.abc.net.au/news/2026-02-11/winter-olympics-2026-milan-cortina-nordic-combined-inequality/105991114",
-            "category": "International",
-            "date": "2026-02-11T01:01:04Z"
-        },
-        {
-            "title": "Xi's Beijing inspection; Li on rare earths; Hong Kong white paper; Taiwan Affairs Work Conference; PBoC report",
-            "summary": "Chinese President Xi Jinping inspected Beijing for two days ahead of the Lunar New Year holiday. This high-profile visit likely aimed to review preparations, ensure public welfare, and maintain stability before the national festivities. Such leader engagements are significant for national governance and public morale, demonstrating a leader's proactive approach to national affairs, which is crucial for overall administrative effectiveness and public confidence.",
-            "url": "https://sinocism.com/p/xis-beijing-inspection-li-on-rare",
-            "category": "International",
-            "date": "2026-02-11T00:36:50Z"
-        },
-        {
-            "title": "Medical robotics startup Articulus Surgical raises funding from Kalaari Capital",
-            "summary": "Indian medical startup Articulus Surgical secured funding from Kalaari Capital to commercially launch its indigenously developed surgical robotics systems. This investment will facilitate the rollout of these advanced technologies across Indian hospitals. It marks a significant step for domestic innovation and self-reliance in India's medical sector, enhancing surgical capabilities nationwide.",
-            "url": "https://economictimes.indiatimes.com/tech/funding/medical-robotics-startup-articulus-surgical-raises-funding-from-kalaari-capital/articleshow/128167614.cms",
-            "category": "Sci & Tech",
-            "date": "2026-02-11T00:31:00Z"
-        },
-        {
-            "title": "Less is more for AI companies scaling their revenues with a lean workforce",
-            "summary": "Indian AI-native startups are building market-ready products with significantly smaller teams, demonstrating remarkable efficiency. AI tools enable them to achieve revenue milestones faster while dramatically reducing headcount and capital requirements. This trend underscores AI's transformative impact on India's startup ecosystem, fostering agile innovation and accelerated economic growth through optimized resource utilization.",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/less-is-more-for-ai-companies-scaling-their-revenues-with-a-lean-workforce/articleshow/128165967.cms",
-            "category": "Sci & Tech",
-            "date": "2026-02-11T00:30:00Z"
-        },
-        {
-            "title": "Rajnath-led council to discuss procurement of French Rafale jets this week, key nod likely",
-            "summary": "Ahead of French President Emmanuel Macron's visit, India's Defence Acquisition Council (DAC) is set to discuss procuring additional Rafale fighter jets for the Indian Air Force. This significant defence acquisition decision highlights ongoing strategic partnership and modernizes India's air capabilities. The discussions are crucial for bolstering national security and strengthening Indo-French defence ties, aligning with India's self-reliance efforts.",
-            "url": "https://indianexpress.com/article/india/rajnath-led-council-to-discuss-procurement-of-french-rafale-jets-this-week-key-nod-likely-10525470/",
+            "title": "India Showcases Indigenous Defence Might at World Defence Show 2026 in Riyadh, Saudi Arabia",
+            "summary": "Raksha Rajya Mantri Shri Sanjay Seth led a high-level Indian delegation from the Ministry of Defence to the World Defence Show. India's participation underscores its commitment to global defence cooperation, exploring new technologies, and strengthening strategic partnerships on the international stage. This engagement is vital for showcasing India's defence capabilities and fostering future collaborations.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260210-india-pib02.htm",
             "category": "Defence",
-            "date": "2026-02-11T00:25:12Z"
+            "date": "2026-02-11T06:55:45Z"
         },
         {
-            "title": "Russian Defence Minister Andrei Belousov holds talks with CSTO Secretary General Taalatbek Masadykov",
-            "summary": "Russian Defence Minister Andrei Belousov engaged in talks with CSTO Secretary General Taalatbek Masadykov. The discussion likely focused on reviewing the significant work accomplished by the Collective Security Treaty Organization over the years. This high-level engagement between Russia's defence leadership and the CSTO head highlights ongoing efforts to strengthen regional security cooperation and military-technical partnerships among the alliance's member states.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260209-russia-mod01.htm",
+            "title": "Submarine maker TKMS hits record $22 billion order backlog, raises sales outlook",
+            "summary": "German submarine maker TKMS has achieved a record $22 billion order backlog, significantly raising its sales outlook. This surge is attributed to a global increase in demand for warships, indicating nations are bolstering their naval capabilities amidst evolving geopolitical dynamics. For SSB aspirants, this highlights the robust growth in the international defence sector and the strategic importance of naval assets.",
+            "url": "https://www.channelnewsasia.com/business/submarine-maker-tkms-hits-record-22-billion-order-backlog-raises-sales-outlook-5922591",
             "category": "Defence",
-            "date": "2026-02-11T00:19:02Z"
+            "date": "2026-02-11T06:54:08Z"
         },
         {
-            "title": "As U.S. Drilling Cools, Oilfield Service Firms Chase Middle East Demand",
-            "summary": "The U.S. shale revolution significantly impacts global energy markets. Concerns regarding LNG supplies and Europe's new carbon border tax highlight its broad influence. This development underscores the complex interplay between national energy production, international trade, and evolving environmental policies. Understanding these global energy shifts is crucial for assessing international relations and future economic landscapes.",
-            "url": "https://oilprice.com/Energy/Energy-General/As-US-Drilling-Cools-Oilfield-Service-Firms-Chase-Middle-East-Demand.html",
-            "category": "International",
-            "date": "2026-02-10T20:00:00Z"
+            "title": "cle-net added to PyPI",
+            "summary": "This document presents core project statistics, detailing metrics for a pure Python implementation. It highlights a total of 13,974 lines of code, offering insights into the technical scope and scale of the software development effort. Such data is crucial for project management and understanding development progress within a technology context.",
+            "url": "https://pypi.org/project/cle-net/",
+            "category": "Sci & Tech",
+            "date": "2026-02-11T06:49:43Z"
         }
     ]
 }
