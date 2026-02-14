@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-02-13T18:40:45.482943+00:00",
+    "last_updated": "2026-02-14T01:43:22.947152+00:00",
     "articles": [
         {
-            "title": "Larry \u2018Ratso\u2019 Sloman\u2019s Surreal Journey From Bob Dylan to \u2018Marty Supreme\u2019",
-            "summary": "Renowned actor Timoth\u00e9e Chalamet stars in the film 'Marty Supreme', prominently featuring in its closing credits. Recognized as one of the most famous actors currently, his performance is a key highlight. While the excerpt doesn't detail plot or deeper context, his involvement signifies a notable development within the global entertainment industry, attracting international attention.",
-            "url": "http://www.rollingstone.com/music/music-features/larry-ratso-sloman-bob-dylan-marty-supreme-1235515225/",
-            "category": "International",
-            "date": "2026-02-12T18:37:58Z"
+            "title": "Weekly IFR 2026 contest: Sailing with the Times; 2nd part of the jigsaw (Week 5)",
+            "summary": "The article reports escalating US-Iran tensions, with Supreme Leader Khamenei issuing a challenge as US warships are deployed near Iran. Simultaneously, it highlights difficulties for US peace initiatives within NATO, meeting resistance. Poland, in particular, issued a \"chilling statement,\" indicating strain within the alliance and challenges to US foreign policy and military strategies on multiple international fronts, impacting global security dynamics.",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/weekly-ifr-2026-contest-sailing-with-the-times-2nd-part-of-the-jigsaw-week-5/articleshow/128283464.cms",
+            "category": "Defence",
+            "date": "2026-02-13T01:42:39Z"
         },
         {
-            "title": "Scientists May Have Spotted the Soviet Union Lander That\u2019s Been Missing for 60 Years",
-            "summary": "On February 3, 1966, the Soviet Union's Luna 9 achieved a monumental feat, becoming the first human-made object to successfully soft-land on the lunar surface. This historic mission also transmitted the first photographs directly from the Moon, marking a pivotal moment in space exploration. It demonstrated advanced technological capability and significantly contributed to humanity's understanding of the lunar environment, pushing the boundaries of scientific discovery.",
-            "url": "https://gizmodo.com/scientists-may-have-spotted-the-soviet-union-lander-thats-been-missing-for-60-years-2000720560",
+            "title": "Going Dutch Season 2: Here's Our S02E05: \"Canuck Stops Here\" Preview",
+            "summary": "This text is a preview for 'Canuck Stops Here,' S02E05 of FOX's TV show 'Going Dutch,' starring Denis Leary and Taylor Misiak, airing tonight. It is entertainment news, not substantive reporting on defence, national, international, or scientific topics relevant for an SSB aspirant's general awareness.",
+            "url": "https://bleedingcool.com/tv/going-dutch-season-2-heres-our-s02e05-canuck-stops-here-preview/",
+            "category": "National",
+            "date": "2026-02-13T01:37:08Z"
+        },
+        {
+            "title": "Clicked on malicious invitation which installed screen sharing software",
+            "summary": "An individual reported accidentally installing the ScreenConnect screen-sharing application on their PC after unknowingly clicking a malicious email invitation. This incident highlights the critical importance of cybersecurity awareness and digital vigilance. SSB aspirants should note the necessity of scrutinizing unsolicited emails and attachments to prevent malware installation, safeguarding personal data and systems from potential cyber threats.",
+            "url": "https://www.bleepingcomputer.com/forums/t/813761/clicked-on-malicious-invitation-which-installed-screen-sharing-software/",
             "category": "Sci & Tech",
-            "date": "2026-02-12T18:15:09Z"
+            "date": "2026-02-13T01:14:24Z"
         },
         {
-            "title": "bindantic added to PyPI",
-            "summary": "Bindantic is a Python library designed to automate BIND9 DNS server configuration. It allows administrators to define DNS settings using Pydantic models, eliminating manual `named.conf` file editing. This library automatically generates configurations, significantly reducing errors and enhancing efficiency in server administration. It streamlines the deployment and maintenance of critical DNS infrastructure.",
-            "url": "https://pypi.org/project/bindantic/",
-            "category": "Sci & Tech",
-            "date": "2026-02-12T18:14:36Z"
-        },
-        {
-            "title": "Crowded field of robot-boat makers vies for Navy's attention",
-            "summary": "Boston-based Blue Water Autonomy aims to transition its 190-foot autonomous robot patrol craft from prototype to production this year. This initiative places them within a burgeoning industry of unmanned maritime systems, vital for modern naval strategies and maritime security. For SSB aspirants, this highlights advancements in autonomous technology's role in future defence capabilities and naval warfare.",
-            "url": "https://www.defenseone.com/business/2026/02/crowded-field-robot-boat-makers-vying-navys-attention/411390/",
+            "title": "Bristol's apprentices celebrated as the future of the defence industry",
+            "summary": "The Defence Minister celebrated National Apprenticeship Week by visiting Babcock in Bristol, highlighting the defence sector's robust growth. The industry is projected to support 25,000 apprenticeship roles nationally by 2025, marking a 4% increase. This initiative underscores the defence sector's commitment to skill development and employment, strengthening national capabilities and contributing to the workforce pipeline for future defence needs.",
+            "url": "https://www.gov.uk/government/news/bristols-apprentices-celebrated-as-the-future-of-the-defence-industry",
             "category": "Defence",
-            "date": "2026-02-12T18:07:18Z"
+            "date": "2026-02-13T00:01:01Z"
         },
         {
-            "title": "Israeli soldier and citizen accused of using classified information to bet on air strikes",
-            "summary": "An Israeli reserve soldier and citizen have been indicted for allegedly using classified information to place bets on military operations via the Polymarket website. This case underscores severe security vulnerabilities within defence systems and the potential for individuals to exploit sensitive intelligence for personal gain, jeopardizing national security and operational integrity.",
-            "url": "https://www.irishtimes.com/world/middle-east/2026/02/12/israeli-soldier-and-citizen-accused-of-using-classified-information-to-bet-on-air-strikes/",
+            "title": "It\u2019s a Go: Ministry clears purchase of 114 Rafales, SCALP missiles & more",
+            "summary": "India's Defence Ministry has approved acquiring 114 additional Rafale fighter jets, with most slated for domestic manufacturing, boosting the 'Make in India' initiative and strengthening the Indian Air Force. This significant procurement, part of broader defence purchases, aims to enhance national security and operational capabilities through advanced military platforms.",
+            "url": "https://economictimes.indiatimes.com/news/defence/its-a-go-ministry-clears-purchase-of-more-rafales-scalp-missiles-more/articleshow/128273317.cms",
             "category": "Defence",
-            "date": "2026-02-12T17:40:22Z"
+            "date": "2026-02-13T00:00:00Z"
         },
         {
-            "title": "Israel charges two over betting on military operations",
-            "summary": "Two Israelis have been charged with allegedly using classified military information to place bets on Polymarket. This serious breach, involving military secrets exploited for personal financial gain on a prediction market platform, is under joint investigation by Israel's Defence Ministry, Shin Bet security service, and police. The incident raises significant national security concerns regarding information integrity and potential insider threats.",
-            "url": "https://www.aljazeera.com/news/2026/2/12/israel-charges-two-over-betting-on-military-operations",
-            "category": "Defence",
-            "date": "2026-02-12T17:38:43Z"
-        },
-        {
-            "title": "DAP 2026: India's new defence procurement policy aims for indigenous tech sovereignty",
-            "summary": "The Defence Ministry released the draft Defence Acquisition Procedure (DAP) 2026 for feedback, a pivotal move towards bolstering indigenous defence manufacturing. This policy aims to reduce import dependency, strengthening India's self-reliance in military equipment. For SSB aspirants, understanding DAP 2026's 'Make in India' emphasis is crucial for discussions on national security and strategic autonomy.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/dap-2026-indias-new-defence-procurement-policy-aims-for-indigenous-tech-sovereignty/articleshow/128269125.cms",
-            "category": "Defence",
-            "date": "2026-02-12T17:30:07Z"
-        },
-        {
-            "title": "Naravane memoir leak: Delhi Police questions Penguin India team, probes conspiracy angle",
-            "summary": "Delhi Police is investigating the alleged leak of retired Army chief General M M Naravane's unpublished memoir. Representatives from Penguin India, the book's publisher, were questioned as part of this probe. The investigation focuses on how confidential details from the former Army Chief's upcoming book might have been prematurely disclosed, raising concerns over information security protocols.",
-            "url": "https://economictimes.indiatimes.com/news/india/naravane-memoir-leak-delhi-police-questions-penguin-india-team-probes-conspiracy-angle/articleshow/128269035.cms",
-            "category": "Defence",
-            "date": "2026-02-12T17:21:14Z"
+            "title": "Barney Miller: The Groundbreaking 1970s Sitcom That Aged Well",
+            "summary": "Barney Miller, a pioneering American sitcom from the 1970s, is recognized for being years ahead of its time. Though its legacy may be overlooked today, it stands as one of the first truly great American sitcoms, establishing a high standard for the genre. The series holds significant cultural importance in the history of American television, lauded for its innovative approach.",
+            "url": "https://screenrant.com/barney-miller-detective-sitcom-ahead-of-its-time/",
+            "category": "National",
+            "date": "2026-02-12T23:00:19Z"
         }
     ]
 }
