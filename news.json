@@ -1,54 +1,26 @@
 {
-    "last_updated": "2026-02-15T01:52:22.590556+00:00",
+    "last_updated": "2026-02-15T06:45:17.047448+00:00",
     "articles": [
         {
-            "title": "Heads of international military cooperation bodies of CSTO members' defence departments meet in Moscow",
-            "summary": "Russian Defence Minister Andrei Belousov met CSTO Secretary General Taalatbek Masadykov for a follow-up discussion. The meeting likely focused on enhancing military cooperation and addressing regional security within the Collective Security Treaty Organization. Such high-level engagements are vital for coordinating defence strategies among member states, strengthening collective stability and preparedness.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260212-russia-mod01.htm",
+            "title": "PM Modi inaugurates Northeast\u2019s first Emergency Landing Facility in Moran. Why it matters?",
+            "summary": "Prime Minister Narendra Modi inaugurated the Northeast's first Emergency Landing Facility (ELF) at Moran, Dibrugarh, Assam. This strategic infrastructure project significantly enhances regional air connectivity and preparedness for emergencies. Such facilities are crucial for bolstering national security, disaster response, and improving overall operational readiness in remote areas, marking a significant step in regional development.",
+            "url": "https://economictimes.indiatimes.com/news/india/pm-modi-inaugurates-northeasts-first-emergency-landing-facility-in-moran-why-it-matters/articleshow/128336418.cms",
+            "category": "National",
+            "date": "2026-02-14T06:11:17Z"
+        },
+        {
+            "title": "PM Narendra Modi makes historic landing at Northeast's first emergency landing facility in Assam's Dibrugarh",
+            "summary": "Prime Minister Narendra Modi made a historic landing at the Northeast's first Emergency Landing Facility in Assam's Dibrugarh. This 4.2-km reinforced stretch on National Highway-3 marks a critical infrastructure development. Such facilities enhance regional connectivity, improve disaster response, and offer strategic advantages for national security, aiding rapid deployment during emergencies and bolstering India's preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/india/narendra-modi-assam-emergency-landing-facility-chabua-makes-historic-landing-at-northeasts-first-emergency-landing-facility-at-dibrugarh/articleshow/128335747.cms",
+            "category": "National",
+            "date": "2026-02-14T05:40:07Z"
+        },
+        {
+            "title": "72 countries, 60 warships, including of US & Russia, to participate in international fleet review, MILAN exercise",
+            "summary": "India is set to host the MILAN exercise, a significant international fleet review. This major naval event will gather 72 countries and 60 warships, including vessels from global powers like the US and Russia. For SSB aspirants, this highlights India's growing strategic importance in global maritime security and its commitment to fostering international defence cooperation.",
+            "url": "https://timesofindia.indiatimes.com/india/72-countries-60-warships-including-of-us-russia-to-participate-in-international-fleet-review-milan-exercise/articleshow/128332411.cms",
             "category": "Defence",
-            "date": "2026-02-14T01:26:02Z"
-        },
-        {
-            "title": "Where is the bloop sound?",
-            "summary": "The Bloop sound, a powerful, low-frequency underwater noise detected in 1997, captivated scientists. Its origin is now understood to be massive icequakes or significant glacial movements, like large icebergs cracking. This scientific explanation clarifies the intense sound's source, attributing it to natural geological processes in the deep ocean, thereby debunking earlier speculative theories.",
-            "url": "https://www.lifesciencesworld.com/where-is-the-bloop-sound/",
-            "category": "Sci & Tech",
-            "date": "2026-02-14T01:14:13Z"
-        },
-        {
-            "title": "Iran regime change could be 'best thing', says Trump; hints at 'tremendous power soon' in Middle East",
-            "summary": "U.S. President Trump signaled potential regime change in Iran, announcing \"tremendous power\" would soon be in the Middle East. This declaration coincided with the Pentagon deploying a second aircraft carrier to the region, significantly escalating the military presence. The move underscores a robust U.S. posture aimed at pressuring Iran, intensifying geopolitical tensions and security concerns in the critical Middle East.",
-            "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-regime-change-could-be-best-thing-says-trump-hints-at-tremendous-power-soon-in-middle-east/articleshow/128329474.cms",
-            "category": "Defence",
-            "date": "2026-02-14T00:43:53Z"
-        },
-        {
-            "title": "Trump Says Iran Regime Change Could Be 'Best Thing' As Second Carrier Heads To Middle East",
-            "summary": "U.S. President Donald Trump recently endorsed the prospect of regime change in Iran, signaling a potentially significant shift in American foreign policy. He also indicated that formidable power would soon be asserted in the Middle East. This development suggests escalating geopolitical tensions and a more assertive U.S. posture, with profound implications for regional stability and international relations concerning Iran.",
-            "url": "https://www.huffpost.com/entry/trump-iran-regime-change-carrier-middle-east_n_698fc291e4b0be3c0c97b454",
-            "category": "International",
-            "date": "2026-02-14T00:39:29Z"
-        },
-        {
-            "title": "edgefirst-hal 0.6.2",
-            "summary": "A critical website component failed to load, likely due to browser extensions, network issues, or specific browser settings. Users encountering this technical difficulty are advised to check their internet connection, disable ad blockers, or try an alternative browser to resolve the display malfunction and access the site's full functionality.",
-            "url": "https://pypi.org/project/edgefirst-hal/0.6.2/",
-            "category": "Sci & Tech",
-            "date": "2026-02-14T00:35:51Z"
-        },
-        {
-            "title": "Earthquake dynamics sustained by seismic CO2",
-            "summary": "This research explains how earthquakes cause 'slip weakening'\u2014reduced friction\u2014and the function of 'asperities'\u2014rough fault patches. It attributes these to 'thermal pressurization,' where friction-generated heat increases fluid pressure within faults, lowering resistance. This scientific insight is vital for advancing seismology and improving earthquake prediction and mitigation efforts.",
-            "url": "https://www.nature.com/articles/s41467-026-69174-w",
-            "category": "Sci & Tech",
-            "date": "2026-02-14T00:00:00Z"
-        },
-        {
-            "title": "\u2018Iron Lung\u2019 Director Markiplier On YouTube, Moviemaking & 79,800 Gallons Of Fake Blood \u2013 The Deadline Q&A",
-            "summary": "A low-budget science fiction film recently made a significant impact at the domestic box office, surprisingly opening with an impressive $18 million in wide release. This unexpected success for a sci-fi genre film highlights the potential for smaller productions to achieve substantial commercial success, challenging typical box office expectations and demonstrating strong audience engagement for independent features in this domain.",
-            "url": "http://deadline.com/2026/02/markiplier-irong-lung-interview-youtube-1236717847/",
-            "category": "Sci & Tech",
-            "date": "2026-02-13T22:05:12Z"
+            "date": "2026-02-14T03:11:49Z"
         }
     ]
 }
