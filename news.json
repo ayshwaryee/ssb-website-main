@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-02-15T06:45:17.047448+00:00",
+    "last_updated": "2026-02-15T12:39:41.619091+00:00",
     "articles": [
         {
-            "title": "PM Modi inaugurates Northeast\u2019s first Emergency Landing Facility in Moran. Why it matters?",
-            "summary": "Prime Minister Narendra Modi inaugurated the Northeast's first Emergency Landing Facility (ELF) at Moran, Dibrugarh, Assam. This strategic infrastructure project significantly enhances regional air connectivity and preparedness for emergencies. Such facilities are crucial for bolstering national security, disaster response, and improving overall operational readiness in remote areas, marking a significant step in regional development.",
-            "url": "https://economictimes.indiatimes.com/news/india/pm-modi-inaugurates-northeasts-first-emergency-landing-facility-in-moran-why-it-matters/articleshow/128336418.cms",
-            "category": "National",
-            "date": "2026-02-14T06:11:17Z"
+            "title": "T20 World Cup: Will India shake hands with Pakistan on Sunday? Suryakumar Yadav says \u2018wait and watch\u2019",
+            "summary": "India's T20 captain, Suryakumar Yadav, declined to clarify whether his team would shake hands with Pakistan during their T20 World Cup clash in Colombo. He advised waiting 24 hours for a resolution, adding intrigue to the highly anticipated match. This statement comes amidst heightened interest in the sporting encounter between the two nations, setting the stage for pre-game discussions.",
+            "url": "https://economictimes.indiatimes.com/news/sports/t20-world-cup-will-india-shake-hands-with-pakistan-on-sunday-suryakumar-yadav-says-wait-and-watch/articleshow/128347561.cms",
+            "category": "International",
+            "date": "2026-02-14T12:29:09Z"
         },
         {
-            "title": "PM Narendra Modi makes historic landing at Northeast's first emergency landing facility in Assam's Dibrugarh",
-            "summary": "Prime Minister Narendra Modi made a historic landing at the Northeast's first Emergency Landing Facility in Assam's Dibrugarh. This 4.2-km reinforced stretch on National Highway-3 marks a critical infrastructure development. Such facilities enhance regional connectivity, improve disaster response, and offer strategic advantages for national security, aiding rapid deployment during emergencies and bolstering India's preparedness.",
-            "url": "https://economictimes.indiatimes.com/news/india/narendra-modi-assam-emergency-landing-facility-chabua-makes-historic-landing-at-northeasts-first-emergency-landing-facility-at-dibrugarh/articleshow/128335747.cms",
-            "category": "National",
-            "date": "2026-02-14T05:40:07Z"
+            "title": "GRSE commences production of two coastal research vessels for GSI",
+            "summary": "Defence PSU Garden Reach Shipbuilders and Engineers (GRSE) has commenced construction of two Coastal Research Vessels (CRVs) for the Geological Survey of India (GSI). These vessels will significantly enhance India's marine research capabilities, supporting GSI in coastal mapping, seabed resource exploration, and detailed geological studies. This initiative boosts national scientific infrastructure vital for understanding and managing India's extensive maritime domain.",
+            "url": "https://www.business-standard.com/industry/news/grse-commences-production-of-two-coastal-research-vessels-for-gsi-126021401100_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-14T12:12:44Z"
         },
         {
-            "title": "72 countries, 60 warships, including of US & Russia, to participate in international fleet review, MILAN exercise",
-            "summary": "India is set to host the MILAN exercise, a significant international fleet review. This major naval event will gather 72 countries and 60 warships, including vessels from global powers like the US and Russia. For SSB aspirants, this highlights India's growing strategic importance in global maritime security and its commitment to fostering international defence cooperation.",
-            "url": "https://timesofindia.indiatimes.com/india/72-countries-60-warships-including-of-us-russia-to-participate-in-international-fleet-review-milan-exercise/articleshow/128332411.cms",
+            "title": "Australia's Jakara Anthony wins 1st Olympic title in women's dual moguls",
+            "summary": "Australian skier Jakara Anthony clinched a gold medal in the women's freestyle skiing dual moguls at the Milano Cortina Winter Olympics on Saturday. This triumph marked a significant redemption for Anthony, who had previously experienced a disappointing loss in the single moguls event, demonstrating remarkable resilience and competitive drive on the international stage.",
+            "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/olympic-women-dual-moguls-final-milano-cortina-february-14-9.7089953",
+            "category": "International",
+            "date": "2026-02-14T11:55:36Z"
+        },
+        {
+            "title": "Bhartha Mahasayulaku Wignyapthi new OTT release details: Where and when to watch Ravi Teja starrer comedy online",
+            "summary": "Ravi Teja's latest Telugu comedy romance film, 'Bhartha Mahasayulaku Wignyapthi,' premiered during Sankranthi on January 13, 2026. The movie opened to mixed reactions, marking a significant release for the actor amidst the festive season. This event highlights the dynamic regional film industry within India and the commercial landscape of Indian cinema.",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/bhartha-mahasayulaku-wignyapthi-new-ott-release-details-where-and-when-to-watch-ravi-teja-starrer-comedy-online/articleshow/128346198.cms",
+            "category": "National",
+            "date": "2026-02-14T11:48:46Z"
+        },
+        {
+            "title": "NISAR to provide 100 m soil moisture data every 12 days: ISRO",
+            "summary": "ISRO announced that the NISAR satellite is systematically imaging the Indian landmass. Utilizing S- and L-bands, NISAR delivers high-resolution, wide-swath data with a 12-day repetitivity. This advanced Earth observation mission by ISRO is crucial for monitoring terrestrial changes across India, providing valuable data for scientific research and environmental monitoring.",
+            "url": "https://economictimes.indiatimes.com/news/science/isros-nisar-satellite-revolutionizes-agriculture-with-100m-soil-moisture-data-every-12-days/articleshow/128345370.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-14T11:40:29Z"
+        },
+        {
+            "title": "NISAR to deliver 100m soil moisture data every 13 days across India: ISRO",
+            "summary": "ISRO's NISAR satellite is systematically imaging the Indian landmass using S- and L-bands, delivering high-resolution, wide swath data with a 12-day repetitivity. This advanced Earth observation mission provides crucial information for various applications, including disaster management, agriculture, and climate studies, showcasing significant advancements in India's space technology capabilities for national benefit.",
+            "url": "https://www.business-standard.com/india-news/nisar-to-deliver-100m-soil-moisture-data-every-13-days-across-india-isro-126021400941_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-14T11:34:50Z"
+        },
+        {
+            "title": "PM Modi aboards C-130J, lands on highway in Dibrugarh close to China border",
+            "summary": "Prime Minister Narendra Modi recently inaugurated India's first Emergency Landing Facility (ELF) on a national highway in Dibrugarh, Assam, by successfully landing a C-130J transport aircraft. This strategic 'first of its kind' infrastructure will significantly enhance rapid response capabilities during emergencies and facilitate military operational readiness, marking a crucial advancement in national defence and connectivity.",
+            "url": "https://www.thehindubusinessline.com/news/pm-modi-aboards-c-130j-lands-on-highway-in-dibrugarh-close-to-china-border/article70631972.ece",
             "category": "Defence",
-            "date": "2026-02-14T03:11:49Z"
+            "date": "2026-02-14T11:30:30Z"
+        },
+        {
+            "title": "THE INDIAN AIR FORCE (IAF) CONDUCTS IN-SITU JOINT EXERCISE WITH ROYAL THAI AIR FORCE (RTAF) IN INDIAN OCEAN REGION",
+            "summary": "The Indian Air Force (IAF) conducted an 'In-situ Exercise' with the Royal Thai Air Force (RTAF) on February 13, 2026. This joint drill, announced by the Ministry of Defence, focuses on enhancing interoperability and strengthening bilateral defence cooperation between India and Thailand. Such exercises are vital for sharing best practices and improving combined operational capabilities, benefiting both nations' air forces in regional security.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260213-india-pib03.htm",
+            "category": "Defence",
+            "date": "2026-02-14T08:59:04Z"
         }
     ]
 }
