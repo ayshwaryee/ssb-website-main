@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-02-15T18:29:23.280298+00:00",
+    "last_updated": "2026-02-16T01:48:16.904502+00:00",
     "articles": [
         {
-            "title": "PM Modi opens North East's first highway airstrip in Assam",
-            "summary": "Prime Minister Narendra Modi inaugurated a highway-based emergency landing facility (ELF) at Moran, Assam's Dibrugarh district. The PM landed on the emergency runway himself, showcasing a significant boost to national infrastructure and strategic readiness. These dual-use facilities are crucial for emergency operations and can serve as alternative airstrips for defence aircraft, enhancing rapid response capabilities in remote areas and strengthening national security.",
-            "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/assam/pm-modi-opens-north-easts-first-highway-airstrip-in-assam/articleshow/128357761.cms",
-            "category": "Defence",
-            "date": "2026-02-14T18:22:39Z"
-        },
-        {
-            "title": "Border dispute with China arose after India recognised Tibet in 1954: CDS",
-            "summary": "Chief of Defence Staff General Anil Chauhan elucidated the India-China border dispute's origins, tracing it back to India's 1954 recognition of Tibet as part of China, formalized by the Panchsheel Agreement. This historical perspective from the top military official provides crucial insight for understanding the complex roots of the ongoing national security challenge and India's strategic stance on the Line of Actual Control.",
-            "url": "https://www.business-standard.com/india-news/border-dispute-with-china-arose-after-india-recognised-tibet-in-1954-cds-126021401386_1.html",
-            "category": "Defence",
-            "date": "2026-02-14T17:38:57Z"
-        },
-        {
-            "title": "Getafe pick off Villarreal with perfect battle strategy at the Coliseum",
-            "summary": "The article highlights the intense competition in Spain's La Liga, detailing Getafe's critical battle to avoid relegation and secure their spot for next season. Concurrently, Villarreal is shown to be in strong contention for a coveted third-place finish, underscoring significant stakes for both teams within the highly competitive football division.",
-            "url": "https://www.football-espana.net/2026/02/14/getafe-villarreal",
+            "title": "EAM Jaishankar meets G7 Foreign Ministers in Munich Security Conference 2026",
+            "summary": "EAM S. Jaishankar met G7 Foreign Ministers at the Munich Security Conference 2026, reiterating India's strong support for the UN80 agenda. The discussions underscored New Delhi's crucial role in global governance and multilateralism. This engagement highlights India's active participation in shaping international discourse on security and cooperation, reinforcing its growing global stature and commitment to a rules-based international order.",
+            "url": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-meets-g7-foreign-ministers-in-munich-security-conference-2026/articleshow/128367881.cms",
             "category": "International",
-            "date": "2026-02-14T17:25:00Z"
+            "date": "2026-02-15T01:36:57Z"
         },
         {
-            "title": "US strikes dozens of Islamic State targets in Syria in retaliation for deadly ambush",
-            "summary": "The US military confirmed striking over 30 Islamic State targets in Syria this month. These retaliatory attacks followed an IS ambush that tragically killed two US soldiers and an American civilian interpreter. This operation highlights the ongoing US commitment to counter-terrorism efforts, demonstrating a firm stance against groups like ISIS and reinforcing the continuous global struggle to protect personnel and degrade extremist capabilities in conflict zones.",
-            "url": "https://news.sky.com/story/us-strikes-dozens-of-islamic-state-targets-in-syria-in-retaliation-for-deadly-ambush-13507580",
-            "category": "Defence",
-            "date": "2026-02-14T17:04:00Z"
-        },
-        {
-            "title": "Today's news and jokes",
-            "summary": "A maintenance technician at the National Cathedral was observed using a GoPro to inspect frozen water within the building's gargoyles. This innovative approach ensures thorough inspection of ice-related damage, critical for structural preservation, even as the frozen elements were noted to enhance the gargoyles' formidable appearance. This highlights practical technology use in safeguarding national heritage.",
-            "url": "https://www.superpunch.net/2026/02/todays-news-and-jokes_01670536341.html",
-            "category": "National",
-            "date": "2026-02-14T17:00:00Z"
-        },
-        {
-            "title": "Modi mounts fierce attack on Congress, positions \u2018new Assam\u2019 as BJP\u2019s 2026 battle cry",
-            "summary": "Prime Minister Narendra Modi recently criticized the Congress party while projecting a transformed and confident Assam. Speaking at an event, PM Modi highlighted the state's significant progress, attributing it to ongoing developmental efforts. His remarks underscored the government's vision for Assam's future, emphasizing stability and growth, as he contrasted the current scenario with past administrations.",
-            "url": "https://www.syllad.com/modi-mounts-fierce-attack-on-congress-positions-new-assam-as-bjps-2026-battle-cry/",
-            "category": "National",
-            "date": "2026-02-14T16:46:14Z"
-        },
-        {
-            "title": "(THE\u00a0GIST OF PIB) Remount and Veterinary Corps",
-            "summary": "This specialized Indian Army Corps is vital for military operations, focusing on the breeding, rearing, and training of Army animals. It manages indispensable assets like horses, mules, and Army dogs, ensuring their readiness and effectiveness in diverse operational roles. This dedication supports various logistical and combat functions across different terrains.",
-            "url": "https://iasexamportal.com/the-gist/pib-remount-and-veterinary-corps",
-            "category": "Defence",
-            "date": "2026-02-14T16:39:30Z"
-        },
-        {
-            "title": "chuk-mcp-maritime-archives added to PyPI",
-            "summary": "A comprehensive Model Context Protocol (MCP) server is being developed to facilitate querying historical maritime archives. This system provides detailed access to past shipping records, vessel specifications, crew muster rolls, and cargo manifests. Its purpose is to streamline research and analysis of historical seafaring and trade, leveraging advanced technology for efficient data retrieval and management, offering valuable insights into maritime history.",
-            "url": "https://pypi.org/project/chuk-mcp-maritime-archives/",
+            "title": "28 Years Ago, DC Comics Gave Readers the Perfect Justice League Origin",
+            "summary": "The Justice League profoundly impacted superhero comics, inspiring Marvel's resurgence in the genre. Its immense popularity created the foundation for modern superhero narratives and was pivotal in the genesis of subsequent superhero media, including potentially movies, shaping the entire industry's trajectory. This highlights the enduring cultural influence of specific fictional franchises.",
+            "url": "http://comicbook.com/comics/feature/28-years-ago-dc-comics-gave-readers-the-perfect-justice-league-origin/",
             "category": "Sci & Tech",
-            "date": "2026-02-14T15:23:45Z"
+            "date": "2026-02-15T01:00:00Z"
+        },
+        {
+            "title": "Show HN: Twsnmp FK \u2013 Lightweight NMS Built with Go, Wails, and Svelte",
+            "summary": "TWSNMP FK is highlighted as a next-generation Network Management System, leveraging advanced technologies. It uses Go for superior performance, Svelte for user interface simplicity, and Wails to ensure a seamless desktop application experience. This innovative, lightweight system is designed to provide efficient and modern capabilities for managing computer networks, a crucial area for robust digital infrastructure.",
+            "url": "https://github.com/twsnmp/twsnmpfk",
+            "category": "Sci & Tech",
+            "date": "2026-02-15T00:33:44Z"
+        },
+        {
+            "title": "Bee pollen: Nature\u2019s multivitamin (2)",
+            "summary": "Avocado pear is in season, offering significant health benefits, particularly for diabetics. Its consumption does not lead to blood sugar spikes, making it an excellent dietary choice for managing glucose levels. This natural gift promotes overall well-being and can be a valuable addition to an aspirant's healthy diet, supporting sustained energy without adverse effects.",
+            "url": "https://punchng.com/bee-pollen-natures-multivitamin-2/",
+            "category": "Sci & Tech",
+            "date": "2026-02-15T00:10:58Z"
+        },
+        {
+            "title": "Rapper Tone Loc Hospitalized After Flight Emergency, Misses Mardi Gras Appearance",
+            "summary": "Popular rapper Tone Loc, known for hits like \"Wild Thing\" and \"Funky Cold Medina,\" is reportedly recovering in a Georgia hospital after experiencing a medical incident. The artist, who has faced prior health issues, is receiving treatment. While specific details of his condition remain undisclosed, sources confirm he is recuperating. Fans are wishing him a swift recovery.",
+            "url": "https://www.tmz.com/2026/02/14/tone-loc-hospitalized-after-medical-emergency-on-plane/",
+            "category": "International",
+            "date": "2026-02-15T00:00:04Z"
+        },
+        {
+            "title": "Vinicius double fires Real Madrid to with 4-1 win over Real Sociedad",
+            "summary": "Real Madrid achieved a decisive 4-1 victory over Real Sociedad in LaLiga, with Vinicius Jr converting two penalties. This crucial win propelled Real Madrid to the provisional top spot in the league table, demonstrating their dominant performance in Spanish football. It signifies a significant event in the global sports arena.",
+            "url": "https://www.channelnewsasia.com/sport/vinicius-double-fires-real-madrid-4-1-win-over-real-sociedad-5932296",
+            "category": "International",
+            "date": "2026-02-14T22:15:40Z"
         }
     ]
 }
