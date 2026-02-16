@@ -1,19 +1,68 @@
 {
-    "last_updated": "2026-02-16T06:57:53.293300+00:00",
+    "last_updated": "2026-02-16T12:53:44.022123+00:00",
     "articles": [
         {
+            "title": "HAL expects seaplane certification in two years, sees potential from domestic market, friendly countries",
+            "summary": "Hindustan Aeronautics Limited (HAL) expects its indigenously developed seaplane to achieve certification in two years. This dual-use aircraft holds significant potential for India's domestic market, enhancing connectivity and disaster response, and for export to friendly nations like Malaysia. The development underscores India's advancing aerospace capabilities, promoting self-reliance in strategic manufacturing and potential regional influence.",
+            "url": "https://www.thehindubusinessline.com/companies/hal-expects-seaplane-certification-in-two-years-sees-potential-from-domestic-market-friendly-countries/article70635131.ece",
+            "category": "Defence",
+            "date": "2026-02-15T12:30:26Z"
+        },
+        {
+            "title": "Canadiens: Mike Matheson Made Those Kids\u2019 Day",
+            "summary": "Quebec City will host its annual International Pee Wee Tournament from February 11 to 22. This prominent youth ice hockey competition attracts teams globally, including a representative squad from the Montreal Canadiens. The tournament provides a platform for young athletes to showcase their skills, promoting sportsmanship, cultural exchange, and international camaraderie within the realm of junior sports.",
+            "url": "https://thehockeynews.com/nhl/montreal-canadiens/latest-news/canadiens-mike-matheson-made-those-kids-day",
+            "category": "International",
+            "date": "2026-02-15T12:00:02Z"
+        },
+        {
+            "title": "Taiwan president vows to strengthen island's defences in Chinese New Year message",
+            "summary": "Taiwanese President Lai Ching-te, in his Chinese New Year message, affirmed the island's commitment to bolstering its defence and ensuring national security in the coming year. This declaration from Taipei underscores Taiwan's resolve to safeguard its sovereignty amidst regional complexities. For an SSB aspirant, this highlights the importance of understanding geopolitical stability and national defence postures.",
+            "url": "https://www.channelnewsasia.com/east-asia/lai-ching-te-taiwan-president-vows-strengthen-defences-message-5932606",
+            "category": "Defence",
+            "date": "2026-02-15T11:57:00Z"
+        },
+        {
+            "title": "Still River by Hal Clement",
+            "summary": "A rare 1984 Letraset typeface, Obliq, has been sighted in both its weights within Hal Clement's classic science fiction novel, \"The Riddle of Enigma.\" This unusual discovery provides a unique insight into the typographic design choices employed for science fiction literature from that era, showcasing a distinctive element of the book's aesthetic.",
+            "url": "https://fontsinuse.com/uses/75266/still-river-by-hal-clement",
+            "category": "Sci & Tech",
+            "date": "2026-02-15T09:18:34Z"
+        },
+        {
+            "title": "Russia says seized a dozen Ukrainian villages in February",
+            "summary": "Russia's army chief, Valery Gerasimov, visited troops in Ukraine, announcing that Kremlin forces seized a dozen eastern villages in February. The defence ministry confirmed his visit, where he also discussed operational plans. This highlights Russia's ongoing military advances and leadership involvement in the Ukraine conflict, providing insight into ground realities for SSB aspirants.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-says-seized-a-dozen-ukrainian-villages-in-february/articleshow/128377747.cms",
+            "category": "Defence",
+            "date": "2026-02-15T09:16:18Z"
+        },
+        {
+            "title": "Deep in China's mountains, nuclear revival takes shape in remote facilities",
+            "summary": "Satellite imagery confirms China's significant expansion of its secretive nuclear facilities and arsenal. This development emerges as global nuclear arms control guardrails diminish, raising serious strategic concerns for international security. Aspiring officers should note Beijing's accelerated nuclear build-up, which complicates global stability and non-proliferation efforts, impacting future geopolitical dynamics.",
+            "url": "https://www.business-standard.com/world-news/deep-in-china-s-mountains-nuclear-revival-takes-shape-in-remote-facilities-126021500301_1.html",
+            "category": "Defence",
+            "date": "2026-02-15T09:03:50Z"
+        },
+        {
+            "title": "India AI Summit: French President Macron to meet PM Modi as Rafale deal worth \u20b93.25 lakh cr gains altitude",
+            "summary": "French President Emmanuel Macron will visit India this week for the India AI Impact Summit and a meeting with PM Narendra Modi. This significant visit aims to deepen strategic ties between India and France, covering advanced technology cooperation, including artificial intelligence. The engagement reinforces the robust bilateral partnership across crucial sectors, highlighting diplomatic and technological collaboration for mutual benefit.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-ai-summit-french-president-macron-to-meet-pm-modi-as-rafale-deal-worth-3-25-lakh-cr-gains-altitude/articleshow/128375127.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-15T07:42:01Z"
+        },
+        {
             "title": "Google\u2013PLDT deploy \u2018air laser\u2019 internet to island barangay, bypassing cables entirely",
-            "summary": "PLDT and Google's Taara project successfully delivered fiber-like internet to Barangay Subay in Talim Island, Rizal. This innovative initiative bypassed the need for traditional underwater cables, employing a new system to bridge the connectivity gap. The project demonstrates a significant advancement in bringing high-speed internet to remote or challenging locations, showcasing technological solutions for last-mile connectivity without extensive infrastructure.",
+            "summary": "PLDT and Google's Taara project have brought fiber-like internet to Barangay Subay, Talim Island, Rizal. This innovative initiative delivers high-speed connectivity without laying a single underwater cable, utilizing advanced technology. It effectively bridges the digital divide in remote areas, showcasing how technological advancements can overcome geographical hurdles and significantly enhance national communication infrastructure.",
             "url": "https://www.yugatech.com/news/google-pldt-deploy-air-laser-internet-to-island-barangay-bypassing-cables-entirely/",
             "category": "Sci & Tech",
             "date": "2026-02-15T06:01:11Z"
         },
         {
-            "title": "Parag Parikh Flexi Cap Fund: ITC, MCX among stocks bought and sold in January",
-            "summary": "Parag Parikh Flexi Cap Fund, India's largest active and flexicap fund by assets under management (AUM), reported an AUM of Rs 1,33,969 crore in January 2026. This figure underscores its dominant position in the financial market and indicates substantial growth. The fund's performance is a key indicator of investor confidence and trends within the national financial landscape, reflecting broader economic activity.",
-            "url": "https://m.economictimes.com/mf/analysis/parag-parikh-flexi-cap-fund-itc-mcx-among-stocks-bought-and-sold-in-january/portfolio-churn/slideshow/128371324.cms",
-            "category": "National",
-            "date": "2026-02-15T04:33:00Z"
+            "title": "India plans AI 'data city' on staggering scale",
+            "summary": "India is planning a vast \"data city\" to power digital growth and narrow its artificial intelligence (AI) gap with the US and China. This strategic initiative aims to significantly accelerate the nation's technological advancement and data-driven economy. Crucial for future innovation and global competitiveness, it underscores India's commitment to becoming a major AI player.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/india-plans-ai-data-city-on-staggering-scale/articleshow/128370656.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-15T04:10:44Z"
         }
     ]
 }
