@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-02-17T12:53:56.114356+00:00",
+    "last_updated": "2026-02-17T18:52:10.602702+00:00",
     "articles": [
         {
-            "title": "Starmer: UK needs to go faster on defense spending",
-            "summary": "Labour leader Keir Starmer, speaking at the Munich Security Conference and responding to a BBC report, urged the UK and Europe to significantly enhance their defence capabilities. He stressed the imperative for European nations to collectively 'step up' their commitment to security. This call underscores ongoing concerns regarding regional stability and the need for stronger collective action against emerging threats.",
-            "url": "https://www.politico.eu/article/keir-starmer-uk-needs-to-go-faster-on-defense-spending/",
+            "title": "55,000 extra social housing homes are being built. But a new study shows that boom still falls short",
+            "summary": "Australia plans to deliver an extra 55,000 quality homes for low-income citizens by 2030, thanks to unprecedented public funding in the 2020s. This national initiative aims to nearly triple the existing social housing stock, significantly boosting affordable housing availability and improving living conditions for vulnerable populations across the nation.",
+            "url": "https://theconversation.com/55-000-extra-social-housing-homes-are-being-built-but-a-new-study-shows-that-boom-still-falls-short-275925",
+            "category": "International",
+            "date": "2026-02-16T18:24:09Z"
+        },
+        {
+            "title": "India Greenlights Acquisition of 114 Rafales",
+            "summary": "India's Defence Acquisition Council (DAC) on Feb. 12, 2026, accorded Acceptance of Necessity (AoN) for acquiring additional Dassault Rafale fighters. This crucial approval, part of the Multi-Role Fighter Aircraft (MRFA) program, significantly bolsters India's air power and strategic defence capabilities. Such acquisitions are vital for enhancing national security and maintaining a robust deterrent posture against evolving regional threats.",
+            "url": "https://theaviationist.com/2026/02/16/india-greenlights-acquisition-of-114-rafales/",
             "category": "Defence",
-            "date": "2026-02-16T12:21:31Z"
+            "date": "2026-02-16T18:21:08Z"
         },
         {
-            "title": "Indian Army hosts inaugural UN training programme on small arms control in Jabalpur",
-            "summary": "The Indian Army is hosting the inaugural United Nations Fellowship Training Programme on Small Arms and Light Weapons (SALW) in Jabalpur. This initiative significantly boosts India's global contribution to peace and disarmament efforts. The programme emphasizes India's commitment to international security and arms control, providing a crucial platform for addressing SALW proliferation, which is vital for global stability and a key area for defence diplomacy.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-hosts-inaugural-un-training-programme-on-small-arms-control-in-jabalpur/articleshow/128422662.cms",
+            "title": "Tie up Processes under National Aero Engine Mission launched",
+            "summary": "India has initiated a major fighter jet engine development project with France, operating under a new National Aero Engine Mission. This strategic collaboration highlights India's strong commitment to achieving self-reliance in advanced defence technology. The partnership aims to reduce dependence on foreign suppliers for critical military hardware, significantly boosting indigenous defence manufacturing capabilities and enhancing national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/tie-up-processes-under-national-aero-engine-mission-launched/articleshow/128433882.cms",
             "category": "Defence",
-            "date": "2026-02-16T12:17:18Z"
+            "date": "2026-02-16T18:15:10Z"
         },
         {
-            "title": "Shipwreck hunter finds luxury steamer that sank in Lake Michigan in 1872",
-            "summary": "Researchers have located the wreck of a luxury steamer ship that sank in Lake Michigan in 1872. Announced by Shipwreck World, this discovery sheds new light on maritime history and past incidents on the Great Lakes. The find contributes to understanding historical events and the challenges faced by early shipping, offering valuable insights into maritime archaeology.",
-            "url": "https://www.foxnews.com/us/shipwreck-hunter-finds-luxury-steamer-sank-lake-michigan-1872",
+            "title": "Fantasy Basketball Week 18 Start/Sit: Why Fantasy managers may want to prioritize Tristan Vukcevic",
+            "summary": "The All-Star weekend concluded, offering players essential rest before entering the demanding final two months of the regular season. This period is crucial as teams' directions become clearer, strategizing for playoff pushes or potential rebuilding. The upcoming phase will focus on intense competition and performance adjustments as the season progresses towards its climax.",
+            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-18-startsit/",
             "category": "National",
-            "date": "2026-02-16T12:06:18Z"
+            "date": "2026-02-16T18:09:12Z"
         },
         {
-            "title": "Madras high court upholds life sentence of couple who murdered daughter",
-            "summary": "India's Chief Economic Adviser urged rapid structural reforms to propel the nation into the AI era. This highlights AI's strategic importance for national growth, global competitiveness, and future challenges. For SSB aspirants, this underscores the critical intersection of technology and policy for India's progressive development and security, emphasizing proactive adaptation to emerging technological landscapes.",
-            "url": "https://timesofindia.indiatimes.com/city/madurai/hc-upholds-life-sentence-to-couple-for-murdering-daughter/articleshow/128421835.cms",
-            "category": "Sci & Tech",
-            "date": "2026-02-16T11:58:07Z"
-        },
-        {
-            "title": "RRB Group D answer key 2026 expected to be released soon: Check when and where to check",
-            "summary": "India's Chief Economic Adviser has stressed the urgent need for the nation to accelerate its pace in the AI era, calling for significant structural reforms. This directive highlights a strategic focus on integrating advanced technology and adapting the economy to foster future growth and maintain global competitiveness. Such national policy shifts are crucial for future leaders to understand.",
-            "url": "https://timesofindia.indiatimes.com/education/news/rrb-group-d-answer-key-2026-expected-to-be-released-soon-check-when-and-where-to-check/articleshow/128421760.cms",
-            "category": "National",
-            "date": "2026-02-16T11:49:53Z"
-        },
-        {
-            "title": "WATCH: 19th-century shipwreck found in Lake Michigan",
-            "summary": "Recent reports highlight former President Obama's reaction to a video shared by President Trump. Concurrently, a former NYPD chief has offered new insights into the ongoing Nancy Guthrie kidnapping investigation. Furthermore, growing repercussions are observed in the wake of an unspecified 'Ep\u2026' release, indicating multiple significant national developments.",
-            "url": "https://abcnews.com/video/130201014/",
-            "category": "National",
-            "date": "2026-02-16T11:42:45Z"
-        },
-        {
-            "title": "From NDA rejection to national glory: Pune\u2019s Tanu Bhan wins best NCC Cadet award",
-            "summary": "Tanu Bhan from Pune district was honored as \"India's Best NCC Cadet,\" receiving a gold medal directly from Prime Minister Narendra Modi. Her achievement underscores the rigorous training and dedication required in the National Cadet Corps, highlighting a journey of excellence that transcends merely winning an award. This national recognition inspires future cadets and emphasizes commitment to service.",
-            "url": "https://indianexpress.com/article/cities/pune/from-nda-rejection-to-national-glory-punes-tanu-bhan-wins-best-ncc-cadet-award-10535078/",
+            "title": "Infra accelerates in NE states close to China border",
+            "summary": "India is undertaking a massive infrastructure development drive along its northern borders with China. This strategic push involves projects like underwater tunnels and highway-based emergency landing facilities, significantly enhancing connectivity and bolstering defence preparedness in critical border areas. Such initiatives are vital for national security and rapid deployment, improving India's strategic posture.",
+            "url": "https://economictimes.indiatimes.com/news/india/infra-accelerates-in-ne-states-close-to-china-border/articleshow/128433634.cms",
             "category": "Defence",
-            "date": "2026-02-16T11:07:26Z"
+            "date": "2026-02-16T18:07:18Z"
+        },
+        {
+            "title": "Khelo India Winter Games starting from Feb 23, raises hopes of tourism revival in Gulmarg",
+            "summary": "The Khelo India Winter Games are set to commence on February 23 in Gulmarg, Kashmir, attracting over 700 athletes and officials. This national sporting event promotes winter sports and youth participation across India. Its successful organisation in a region like Kashmir underscores the government's focus on mainstreaming the area through sports, fostering national integration, and boosting regional development and tourism, aligning with national building objectives.",
+            "url": "https://statetimes.in/khelo-india-winter-games-starting-from-feb-23-raises-hopes-of-tourism-revival-in-gulmarg/",
+            "category": "National",
+            "date": "2026-02-16T18:01:38Z"
+        },
+        {
+            "title": "French defence major Thales sets up R&D centre in Bengaluru",
+            "summary": "French defence major Thales is setting up an R&D centre in India to drive advanced research, bolstering the nation's self-reliance vision. This move highlights India's push for indigenous defence technology and manufacturing. For SSB aspirants, it signifies strengthened strategic autonomy, fostered innovation, and international collaboration in critical sectors, aligning with the 'Atmanirbhar Bharat' initiative.",
+            "url": "https://economictimes.indiatimes.com/news/defence/french-defence-major-thales-sets-up-rd-centre-in-bengaluru/articleshow/128432013.cms",
+            "category": "Defence",
+            "date": "2026-02-16T17:11:36Z"
+        },
+        {
+            "title": "The YouTuber Who Paid His Own Way Into Hollywood",
+            "summary": "Recent box office data revealed a significant trend where four out of the top five grossing movies were independent productions, not from major studios. This highlights the growing success of smaller films, exemplified by 'Solo Mio,' an inspirational romantic drama starring Kevin James, challenging traditional studio dominance and signalling a shift in audience preferences within the entertainment industry.",
+            "url": "https://www.theatlantic.com/culture/2026/02/iron-lung-markiplier-youtuber-movie-review/686020/",
+            "category": "International",
+            "date": "2026-02-16T16:56:25Z"
         }
     ]
 }
