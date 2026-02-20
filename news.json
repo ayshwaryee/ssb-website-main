@@ -1,19 +1,33 @@
 {
-    "last_updated": "2026-02-20T01:44:59.714186+00:00",
+    "last_updated": "2026-02-20T06:50:55.327534+00:00",
     "articles": [
         {
-            "title": "Linux Still Working To Clean Up The Realtek RTL8723BS 802.11b/g/n WiFi Driver In 2026",
-            "summary": "The Realtek RTL8723BS WiFi driver, supporting an 802.11 b/g/ SDIO WLAN adapter with Bluetooth 4.0 connectivity, was integrated into the Linux 4.12 kernel's staging area in 2017. This driver is essential for enabling crucial wireless and Bluetooth functionalities for this specific Realtek hardware on various Linux-based systems, reflecting continuous efforts in hardware-software compatibility within the open-source community.",
-            "url": "https://www.phoronix.com/news/Linux-7.0-Staging",
+            "title": "Old School Visual Effects: The Cloud Tank (2010)",
+            "summary": "This article explores the evolution of visual effects, contrasting traditional 'old school' techniques with modern computer-generated imagery (CGI). It highlights how technological advancements in computing have largely rendered many classic practical effects obsolete. The piece reflects on this shift in cinematic visual storytelling, promising to delve into a specific historical technique that has now been superseded by digital methods.",
+            "url": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
             "category": "Sci & Tech",
-            "date": "2026-02-19T01:25:25Z"
+            "date": "2026-02-19T06:43:53Z"
         },
         {
-            "title": "Groups Identify Wreck Found Near Site of Diver's Death",
-            "summary": "David VanZandt, 70, founder of Cleveland Underwater Explorers, tragically died in a June 2024 diving accident while actively working to confirm a shipwreck's identity. His passing occurred at the site where his nonprofit was dedicated to uncovering maritime history. This incident highlights the inherent risks involved in underwater exploration efforts to identify submerged vessels.",
-            "url": "https://www.newser.com/story/383984/groups-identify-wreck-found-near-site-of-divers-death.html",
-            "category": "National",
-            "date": "2026-02-19T00:30:00Z"
+            "title": "What prompted the U.S. military buildup in the Middle East? #politics",
+            "summary": "The Pentagon has bolstered its military presence in the Middle East, deploying additional naval, air, and missile-defense assets. This significant move comes amidst escalating tensions with Iran and serves as a strategic signal. The deployments aim to reinforce U.S. deterrence capabilities and underscore commitment to regional security, potentially countering perceived threats from Iran.",
+            "url": "https://alltoc.com/politics/what-prompted-the-u-s-military-buildup-in-the-middle-east",
+            "category": "Defence",
+            "date": "2026-02-19T06:06:42Z"
+        },
+        {
+            "title": "Hellenic Cables: New project for the BC-Wind offshore wind project in Poland",
+            "summary": "Hellenic Cables has won a contract from DEME to supply crucial inter-array cables for Poland's BC-Wind offshore wind project. This major renewable energy initiative, developed by Ocean Winds (a joint venture of EDP Renewables and ENGIE), signifies international collaboration in sustainable power generation. For SSB aspirants, it underscores global efforts in energy transition and infrastructure development, impacting future energy security and economic partnerships.",
+            "url": "https://www.naftemporiki.gr/english/2074794/hellenic-cables-new-project-for-the-bc-wind-offshore-wind-project-in-poland/",
+            "category": "International",
+            "date": "2026-02-19T06:05:53Z"
+        },
+        {
+            "title": "U.S. military pushes more weaponry into the Middle East for possible strikes on Iran",
+            "summary": "The Pentagon is deploying significant additional weaponry, including warships, air defenses, and submarines, to the Middle East. This strategic move is in preparation for a potential military strike on Iran, reflecting escalating tensions and a readiness for military action in the region. This aims to bolster US capabilities and deterrence.",
+            "url": "https://www.nbcnews.com/world/iran/us-military-pushes-weaponry-middle-east-possible-strikes-iran-rcna259632",
+            "category": "Defence",
+            "date": "2026-02-19T04:21:43Z"
         }
     ]
 }
