@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-02-20T06:50:55.327534+00:00",
+    "last_updated": "2026-02-20T12:48:34.604890+00:00",
     "articles": [
         {
-            "title": "Old School Visual Effects: The Cloud Tank (2010)",
-            "summary": "This article explores the evolution of visual effects, contrasting traditional 'old school' techniques with modern computer-generated imagery (CGI). It highlights how technological advancements in computing have largely rendered many classic practical effects obsolete. The piece reflects on this shift in cinematic visual storytelling, promising to delve into a specific historical technique that has now been superseded by digital methods.",
-            "url": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
+            "title": "International naval exercises commence near eastern India",
+            "summary": "International naval exercises, MILAN 2026, have begun off Visakhapatnam, India. This large-scale event sees participation from over 70 nations, with the Indian Navy playing a significant role. These multinational exercises are crucial for enhancing interoperability, fostering maritime cooperation, and strengthening naval diplomacy among participating countries in the Indo-Pacific region.",
+            "url": "https://www.rt.com/india/632772-international-naval-exercises-commence-near/",
+            "category": "Defence",
+            "date": "2026-02-19T12:39:44Z"
+        },
+        {
+            "title": "Global fraternity must join hands to tackle evolving maritime challenges: Defence Minister inaugurates Exercise MILAN in Vizag",
+            "summary": "Defence Minister Rajnath Singh urged the international community to effectively tackle complex and interconnected challenges at sea, emphasizing multilateralism. He called for collective action to ensure a safe, secure, and open global maritime commons. Singh highlighted India's commitment to a rules-based international order and responsible use of oceans for shared prosperity, essential for global stability and economic well-being.",
+            "url": "https://economictimes.indiatimes.com/news/defence/global-fraternity-must-join-hands-to-tackle-evolving-maritime-challenges-defence-minister-inaugurates-exercise-milan-in-vizag/articleshow/128557722.cms",
+            "category": "Defence",
+            "date": "2026-02-19T12:32:45Z"
+        },
+        {
+            "title": "Coding Tricks Used in the C64 Game Seawolves",
+            "summary": "A game developer has announced the release of their first commercial game, \"Seawolves,\" for the Commodore 64 platform. The author plans to publish a detailed account of the game's construction process, specifically aimed at coders. This initiative offers valuable insights into retro game development, explaining the technical aspects behind creating games on classic computing systems for fellow programming enthusiasts.",
+            "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
             "category": "Sci & Tech",
-            "date": "2026-02-19T06:43:53Z"
+            "date": "2026-02-19T12:24:33Z"
         },
         {
-            "title": "What prompted the U.S. military buildup in the Middle East? #politics",
-            "summary": "The Pentagon has bolstered its military presence in the Middle East, deploying additional naval, air, and missile-defense assets. This significant move comes amidst escalating tensions with Iran and serves as a strategic signal. The deployments aim to reinforce U.S. deterrence capabilities and underscore commitment to regional security, potentially countering perceived threats from Iran.",
-            "url": "https://alltoc.com/politics/what-prompted-the-u-s-military-buildup-in-the-middle-east",
+            "title": "DRDO conducts successful qualification test for Gaganyaan Drogue Parachute",
+            "summary": "India's Gaganyaan human spaceflight programme achieved a significant milestone with the successful qualification-level load test of the Drogue Parachute. Conducted at the Rail Track Rocket Sledge (RTRS) facility, this crucial test validates a critical component for safe crew module recovery. This progress brings India closer to its ambitious goal of sending astronauts to space, demonstrating robust indigenous capabilities in space technology and boosting national pride.",
+            "url": "https://economictimes.indiatimes.com/news/science/drdo-conducts-successful-qualification-test-for-gaganyaan-drogue-parachute/articleshow/128556918.cms",
+            "category": "Sci & Tech",
+            "date": "2026-02-19T12:02:01Z"
+        },
+        {
+            "title": "Surya Kiran, Sarang Helicopter teams to perform over Jaipur's Jal Mahal on Feb 20, 22",
+            "summary": "The Indian Air Force's renowned Surya Kiran Aerobatic Team and Sarang Helicopter Display Team will stage breathtaking aerial displays over Jaipur's iconic Jal Mahal. This event showcases the IAF's precision and skill, offering spectacular performances for spectators. Such demonstrations boost public morale and inspire youth towards careers in the defence forces, highlighting India's air power capabilities.",
+            "url": "https://economictimes.indiatimes.com/news/defence/surya-kiran-sarang-helicopter-teams-to-perform-over-jaipurs-jal-mahal-on-feb-20-22/articleshow/128556063.cms",
             "category": "Defence",
-            "date": "2026-02-19T06:06:42Z"
+            "date": "2026-02-19T11:41:30Z"
         },
         {
-            "title": "Hellenic Cables: New project for the BC-Wind offshore wind project in Poland",
-            "summary": "Hellenic Cables has won a contract from DEME to supply crucial inter-array cables for Poland's BC-Wind offshore wind project. This major renewable energy initiative, developed by Ocean Winds (a joint venture of EDP Renewables and ENGIE), signifies international collaboration in sustainable power generation. For SSB aspirants, it underscores global efforts in energy transition and infrastructure development, impacting future energy security and economic partnerships.",
-            "url": "https://www.naftemporiki.gr/english/2074794/hellenic-cables-new-project-for-the-bc-wind-offshore-wind-project-in-poland/",
+            "title": "NxtGen AI deploys national-scale AI infrastructure in India with Vertiv and NVIDIA",
+            "summary": "NxtGen AI has deployed a national-scale sovereign AI factory in India, powered by NVIDIA Blackwell GPUs and Vertiv's data centre infrastructure. This strategic initiative significantly boosts India's indigenous AI capabilities, ensuring national data security and technological self-reliance. The facility represents a major step in enhancing domestic AI processing power, crucial for advancement across various national sectors.",
+            "url": "https://www.thehindubusinessline.com/info-tech/nxtgen-ai-deploys-national-scale-ai-infrastructure-in-india-with-vertiv-and-nvidia/article70651521.ece",
+            "category": "Sci & Tech",
+            "date": "2026-02-19T11:24:22Z"
+        },
+        {
+            "title": "France and India hail growing ties as Modi hosts Macron",
+            "summary": "French President Emmanuel Macron began a three-day visit to India on February 17, 2026, in Mumbai. The visit celebrated India-France ties as a significant force for global stability. Discussions were primarily focused on bolstering bilateral cooperation, particularly in technology, reinforcing their strategic partnership amidst evolving international dynamics. This emphasizes India's growing diplomatic importance.",
+            "url": "https://www.spacewar.com/reports/France_and_India_hail_growing_ties_as_Modi_hosts_Macron_999.html",
             "category": "International",
-            "date": "2026-02-19T06:05:53Z"
+            "date": "2026-02-19T11:09:34Z"
         },
         {
-            "title": "U.S. military pushes more weaponry into the Middle East for possible strikes on Iran",
-            "summary": "The Pentagon is deploying significant additional weaponry, including warships, air defenses, and submarines, to the Middle East. This strategic move is in preparation for a potential military strike on Iran, reflecting escalating tensions and a readiness for military action in the region. This aims to bolster US capabilities and deterrence.",
-            "url": "https://www.nbcnews.com/world/iran/us-military-pushes-weaponry-middle-east-possible-strikes-iran-rcna259632",
+            "title": "Organigram Announces C$65.2 Million BAT Private Placement Investment in Connection with the Acquisition of Sanity Group",
+            "summary": "Organigram Global Inc., a company listed on both NASDAQ Global Select Market and TSX, operates through its wholly owned subsidiary, Organigram Inc. This subsidiary is a licensed entity specializing in the cultivation of cannabis and the manufacturing of various cannabis-derived products. The news highlights Organigram's operational scope and market positioning within the regulated cannabis industry, underscoring its role as a key player.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-announces-c65-2-million-bat-private-placement-investment-in-connection-with-the-acquisition-of-sanity-group",
+            "category": "Sci & Tech",
+            "date": "2026-02-19T11:05:44Z"
+        },
+        {
+            "title": "How uncrewed narco subs could transform the Colombian drug trade",
+            "summary": "The Tayrona semisubmersible, a specialized naval asset, is located at Colombia's ARC Bol\u00edvar naval base in Cartagena. It currently sits in outdoor storage, visibly weathered by rain-streaked paint. Its state and proximity to an older, bulkier naval craft imply disuse or pending maintenance.",
+            "url": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
             "category": "Defence",
-            "date": "2026-02-19T04:21:43Z"
+            "date": "2026-02-19T11:00:00Z"
         }
     ]
 }
