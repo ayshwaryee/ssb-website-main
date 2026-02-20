@@ -1,68 +1,61 @@
 {
-    "last_updated": "2026-02-20T12:48:34.604890+00:00",
+    "last_updated": "2026-02-20T18:39:28.958063+00:00",
     "articles": [
         {
-            "title": "International naval exercises commence near eastern India",
-            "summary": "International naval exercises, MILAN 2026, have begun off Visakhapatnam, India. This large-scale event sees participation from over 70 nations, with the Indian Navy playing a significant role. These multinational exercises are crucial for enhancing interoperability, fostering maritime cooperation, and strengthening naval diplomacy among participating countries in the Indo-Pacific region.",
-            "url": "https://www.rt.com/india/632772-international-naval-exercises-commence-near/",
-            "category": "Defence",
-            "date": "2026-02-19T12:39:44Z"
-        },
-        {
-            "title": "Global fraternity must join hands to tackle evolving maritime challenges: Defence Minister inaugurates Exercise MILAN in Vizag",
-            "summary": "Defence Minister Rajnath Singh urged the international community to effectively tackle complex and interconnected challenges at sea, emphasizing multilateralism. He called for collective action to ensure a safe, secure, and open global maritime commons. Singh highlighted India's commitment to a rules-based international order and responsible use of oceans for shared prosperity, essential for global stability and economic well-being.",
-            "url": "https://economictimes.indiatimes.com/news/defence/global-fraternity-must-join-hands-to-tackle-evolving-maritime-challenges-defence-minister-inaugurates-exercise-milan-in-vizag/articleshow/128557722.cms",
-            "category": "Defence",
-            "date": "2026-02-19T12:32:45Z"
-        },
-        {
-            "title": "Coding Tricks Used in the C64 Game Seawolves",
-            "summary": "A game developer has announced the release of their first commercial game, \"Seawolves,\" for the Commodore 64 platform. The author plans to publish a detailed account of the game's construction process, specifically aimed at coders. This initiative offers valuable insights into retro game development, explaining the technical aspects behind creating games on classic computing systems for fellow programming enthusiasts.",
-            "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
-            "category": "Sci & Tech",
-            "date": "2026-02-19T12:24:33Z"
-        },
-        {
-            "title": "DRDO conducts successful qualification test for Gaganyaan Drogue Parachute",
-            "summary": "India's Gaganyaan human spaceflight programme achieved a significant milestone with the successful qualification-level load test of the Drogue Parachute. Conducted at the Rail Track Rocket Sledge (RTRS) facility, this crucial test validates a critical component for safe crew module recovery. This progress brings India closer to its ambitious goal of sending astronauts to space, demonstrating robust indigenous capabilities in space technology and boosting national pride.",
-            "url": "https://economictimes.indiatimes.com/news/science/drdo-conducts-successful-qualification-test-for-gaganyaan-drogue-parachute/articleshow/128556918.cms",
-            "category": "Sci & Tech",
-            "date": "2026-02-19T12:02:01Z"
-        },
-        {
-            "title": "Surya Kiran, Sarang Helicopter teams to perform over Jaipur's Jal Mahal on Feb 20, 22",
-            "summary": "The Indian Air Force's renowned Surya Kiran Aerobatic Team and Sarang Helicopter Display Team will stage breathtaking aerial displays over Jaipur's iconic Jal Mahal. This event showcases the IAF's precision and skill, offering spectacular performances for spectators. Such demonstrations boost public morale and inspire youth towards careers in the defence forces, highlighting India's air power capabilities.",
-            "url": "https://economictimes.indiatimes.com/news/defence/surya-kiran-sarang-helicopter-teams-to-perform-over-jaipurs-jal-mahal-on-feb-20-22/articleshow/128556063.cms",
-            "category": "Defence",
-            "date": "2026-02-19T11:41:30Z"
-        },
-        {
-            "title": "NxtGen AI deploys national-scale AI infrastructure in India with Vertiv and NVIDIA",
-            "summary": "NxtGen AI has deployed a national-scale sovereign AI factory in India, powered by NVIDIA Blackwell GPUs and Vertiv's data centre infrastructure. This strategic initiative significantly boosts India's indigenous AI capabilities, ensuring national data security and technological self-reliance. The facility represents a major step in enhancing domestic AI processing power, crucial for advancement across various national sectors.",
-            "url": "https://www.thehindubusinessline.com/info-tech/nxtgen-ai-deploys-national-scale-ai-infrastructure-in-india-with-vertiv-and-nvidia/article70651521.ece",
-            "category": "Sci & Tech",
-            "date": "2026-02-19T11:24:22Z"
-        },
-        {
-            "title": "France and India hail growing ties as Modi hosts Macron",
-            "summary": "French President Emmanuel Macron began a three-day visit to India on February 17, 2026, in Mumbai. The visit celebrated India-France ties as a significant force for global stability. Discussions were primarily focused on bolstering bilateral cooperation, particularly in technology, reinforcing their strategic partnership amidst evolving international dynamics. This emphasizes India's growing diplomatic importance.",
-            "url": "https://www.spacewar.com/reports/France_and_India_hail_growing_ties_as_Modi_hosts_Macron_999.html",
+            "title": "Infiltration bid foiled, terror module busted in Jammu",
+            "summary": "Reports indicate King Charles' brother, former Prince Andrew, has been arrested in connection with the 'Epstein Files' over alleged misconduct. This significant development follows long-standing scrutiny related to the high-profile case. SSB aspirants should note its international implications regarding royal family conduct and legal accountability, a key topic for current affairs awareness.",
+            "url": "https://timesofindia.indiatimes.com/india/infiltration-bid-foiled-terror-module-busted-in-jammu/articleshow/128571938.cms",
             "category": "International",
-            "date": "2026-02-19T11:09:34Z"
+            "date": "2026-02-19T18:32:30Z"
         },
         {
-            "title": "Organigram Announces C$65.2 Million BAT Private Placement Investment in Connection with the Acquisition of Sanity Group",
-            "summary": "Organigram Global Inc., a company listed on both NASDAQ Global Select Market and TSX, operates through its wholly owned subsidiary, Organigram Inc. This subsidiary is a licensed entity specializing in the cultivation of cannabis and the manufacturing of various cannabis-derived products. The news highlights Organigram's operational scope and market positioning within the regulated cannabis industry, underscoring its role as a key player.",
-            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-announces-c65-2-million-bat-private-placement-investment-in-connection-with-the-acquisition-of-sanity-group",
-            "category": "Sci & Tech",
-            "date": "2026-02-19T11:05:44Z"
-        },
-        {
-            "title": "How uncrewed narco subs could transform the Colombian drug trade",
-            "summary": "The Tayrona semisubmersible, a specialized naval asset, is located at Colombia's ARC Bol\u00edvar naval base in Cartagena. It currently sits in outdoor storage, visibly weathered by rain-streaked paint. Its state and proximity to an older, bulkier naval craft imply disuse or pending maintenance.",
-            "url": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
+            "title": "Garden Reach Shipbuilders set for Navratna status as DPE clears proposal, final nod awaited",
+            "summary": "The Department of Public Enterprises (DPE) has granted 'Navratna' status to state-run shipbuilder Garden Reach Shipbuilders & Engineers Ltd (GRSE). This prestigious designation provides GRSE with significantly increased financial and operational autonomy, enabling greater investment without direct government approval. This strategic upgrade enhances GRSE's capability to contribute to India's naval defence and maritime infrastructure, reinforcing its vital role in national security.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/garden-reach-shipbuilders-set-for-navratna-status-as-dpe-clears-proposal-final-nod-awaited/articleshow/128571774.cms",
             "category": "Defence",
-            "date": "2026-02-19T11:00:00Z"
+            "date": "2026-02-19T18:12:27Z"
+        },
+        {
+            "title": "A Guide to the\u00a0Comics That Have Inspired James Gunn\u2019s DC Universe",
+            "summary": "Filmmaker James Gunn's early recommendations for DC works surprisingly highlighted Alan Moore's 'Top 10' comic run, alongside titles like 'Swamp Thing'. This selection stood out as a particularly unexpected choice among his suggested readings. The mention underlines the diverse and sometimes unconventional influences potentially guiding future projects within the DC universe's expansive narrative landscape.",
+            "url": "http://www.denofgeek.com/comics/guide-comics-inspired-james-gunns-dc-universe/",
+            "category": "National",
+            "date": "2026-02-19T18:00:00Z"
+        },
+        {
+            "title": "Les Wexner: How the billionaire enabled Jeffrey Epstein\u2019s rise",
+            "summary": "US lawmakers conducted a closed-door session in Ohio, questioning billionaire Leslie Wexner regarding Jeffrey Epstein's controversial rise to wealth and influence. The inquiry delved into Wexner's past associations with Epstein and his potential involvement or knowledge of the disgraced financier's operations, aiming for transparency among powerful figures in American society.",
+            "url": "https://www.aljazeera.com/news/2026/2/19/les-wexner-how-the-billionaire-enabled-jeffrey-epsteins-rise",
+            "category": "National",
+            "date": "2026-02-19T17:57:41Z"
+        },
+        {
+            "title": "Army foils infiltration bid along LoC in Rajouri",
+            "summary": "Alert Indian Army troops successfully scuttled a terrorist infiltration attempt along the Line of Control (LoC) in Jammu and Kashmir's Rajouri district on Thursday. This swift action highlights the army's constant vigilance and effectiveness in maintaining border security. Such operations are crucial for protecting national sovereignty and demonstrate the unwavering dedication of our forces against external threats.",
+            "url": "https://statetimes.in/army-foils-infiltration-bid-along-loc-in-rajouri/",
+            "category": "Defence",
+            "date": "2026-02-19T17:21:37Z"
+        },
+        {
+            "title": "Starlink loss a blow to Russian forces in Ukraine: experts",
+            "summary": "Elon Musk's Starlink has cut Russian access to its satellites over Ukraine, likely disrupting Russian communication and operational capabilities amidst the ongoing conflict. This strategic move by the US tech titan highlights the significant role of private satellite technology in modern warfare, impacting military operations on the ground and showcasing technology's dual-use nature.",
+            "url": "https://www.digitaljournal.com/world/starlink-loss-a-blow-to-russian-forces-in-ukraine-experts/article",
+            "category": "Defence",
+            "date": "2026-02-19T17:07:20Z"
+        },
+        {
+            "title": "scpn-control added to PyPI",
+            "summary": "\"scpn-control\" is a neuro-symbolic engine converting Stochastic Petri Nets into formally verified spiking neural network controllers. This innovation creates highly reliable, provably correct AI-based control systems. It's vital for developing dependable autonomous platforms in defence, aerospace, and robotics, ensuring precision and safety for critical missions.",
+            "url": "https://pypi.org/project/scpn-control/",
+            "category": "Sci & Tech",
+            "date": "2026-02-19T17:05:47Z"
+        },
+        {
+            "title": "interface.ai Launches Smart Collections - An Agentic, Multi-Channel Collections AI Agent Built for Credit Unions and Community Banks to Increase Payments",
+            "summary": "interface.ai, a leading provider of specialized AI agents for credit unions and community banks, launched 'Smart Collections' on Feb 19, 2026. This new AI-powered solution from Palo Alto, California, aims to optimize financial operations. It highlights the increasing role of artificial intelligence in enhancing efficiency and customer engagement within the banking sector, signifying advancements in fintech.",
+            "url": "https://www.globenewswire.com/news-release/2026/02/19/3241335/0/en/interface-ai-Launches-Smart-Collections-An-Agentic-Multi-Channel-Collections-AI-Agent-Built-for-Credit-Unions-and-Community-Banks-to-Increase-Payments.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-19T16:00:00Z"
         }
     ]
 }
