@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-02-21T18:28:06.244561+00:00",
+    "last_updated": "2026-02-22T01:47:53.091109+00:00",
     "articles": [
         {
-            "title": "Over 650 participants compete in Chinar Open Winter Games 2026 at Gulmarg",
-            "summary": "The two-day Chinar Open Winter Games 2026 concluded at Gulmarg, Jammu and Kashmir, witnessing over 650 participants in eight events. This significant event, likely organized or supported by the Indian Army's Chinar Corps, promotes sportsmanship and community engagement, showcasing the region's talent and fostering a positive environment through winter sports.",
-            "url": "https://statetimes.in/over-650-participants-compete-in-chinar-open-winter-games-2026-at-gulmarg/",
+            "title": "Russian Defence Minister Andrei Belousov holds talks with Madagascar's Minister of Defence, Corps General Maminirina Ely Razafitombo",
+            "summary": "The head of the Russian Defence Ministry reported significant progress during a recent visit by a Malagasy delegation. Highlighting well-coordinated joint efforts, the statement indicates strengthened bilateral defence cooperation between Russia and Madagascar. This engagement likely focused on enhancing military ties and preparing for future collaborative initiatives, underscoring ongoing strategic interactions between the two nations.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260219-russia-mod01.htm",
             "category": "Defence",
+            "date": "2026-02-21T00:32:55Z"
+        },
+        {
+            "title": "Opening ceremony of MILAN-2026 international exercise takes place at the port of Visakhapatnam in India",
+            "summary": "The multinational naval exercise MYLAN-2026 officially commenced with its opening ceremony on February 20, 2026, at Visakhapatnam, India. This significant event brings together various navies, highlighting India's role in fostering international defence cooperation and maritime security. Such exercises are crucial for enhancing interoperability and readiness among participating nations, offering vital insights for SSB aspirants into global defence dynamics.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260220-russia-mod01.htm",
+            "category": "Defence",
+            "date": "2026-02-21T00:32:16Z"
+        },
+        {
+            "title": "Engineering non-exponential proliferation in Escherichia coli using functionalized protein aggregates",
+            "summary": "The provided text appears to be a list of scientific references focusing on microbiology. Key topics cited include \"stationary-phase physiology\" and \"bacterial cell proliferation.\" This academic content delves into how bacteria behave and multiply, crucial for understanding biological systems. While not a news article, it highlights areas of scientific research that might contribute to a general understanding of life sciences for an aspirant.",
+            "url": "https://www.nature.com/articles/s41467-026-69334-y",
+            "category": "Sci & Tech",
+            "date": "2026-02-21T00:00:00Z"
+        },
+        {
+            "title": "The Wreck Of A Luxury Steamer That Sank In 1872 Has Been Found Intact And Upright On The Bottom Of Lake Michigan",
+            "summary": "After more than 150 years, the shipwreck of the Lac La Belle, which sank off Wisconsin's coast due to inclement weather, has finally been located. Decades of searching by dedicated shipwreck hunters culminated in this discovery, unearthing a significant piece of maritime history previously lost to the Great Lakes. This finding brings closure to a long-standing mystery.",
+            "url": "https://allthatsinteresting.com/lake-michigan-lac-la-belle-shipwreck-discovered",
+            "category": "National",
+            "date": "2026-02-20T22:45:33Z"
+        },
+        {
+            "title": "Over 650 participants compete in Chinar Open Winter Games 2026 at Gulmarg",
+            "summary": "The Chinar Open Winter Games 2026 successfully concluded at Gulmarg, Jammu and Kashmir, drawing over 650 participants across eight events. This two-day winter sports extravaganza promoted athleticism and national spirit in a picturesque setting. Such initiatives showcase India's capability to host significant sporting competitions, encouraging local talent and contributing to national unity and development through sports.",
+            "url": "https://statetimes.in/over-650-participants-compete-in-chinar-open-winter-games-2026-at-gulmarg/",
+            "category": "National",
             "date": "2026-02-20T18:04:34Z"
         },
         {
             "title": "Operation Jwala: Arms, ammo recovered near LoC in J&K\u2019s Rajouri",
-            "summary": "Under 'Operation Jwala,' Indian security forces successfully recovered significant arms and ammunition near the Line of Control (LoC) in Jammu and Kashmir's Rajouri district. This operation highlights ongoing efforts to neutralize threats and maintain vigilance against infiltrators and terror elements along the sensitive border region, ensuring national security and stability for the nation.",
+            "summary": "Indian security forces, under 'Operation Jwala', successfully recovered significant caches of arms and ammunition near the Line of Control in Rajouri, Jammu & Kashmir. This operation highlights the continuous vigilance of our armed forces in combating potential threats and preventing the flow of illegal weaponry, crucial for maintaining peace and security in the border region and ensuring national integrity.",
             "url": "https://timesofindia.indiatimes.com/india/operation-jwala-arms-ammo-recovered-near-loc-in-jks-rajouri/articleshow/128619354.cms",
             "category": "Defence",
             "date": "2026-02-20T18:00:10Z"
-        },
-        {
-            "title": "krabby-hal-tools added to PyPI",
-            "summary": "A critical website loading error occurred, potentially caused by browser extensions, network problems, or incorrect browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or trying an alternative browser to resolve the issue and ensure uninterrupted access to online information and services.",
-            "url": "https://pypi.org/project/krabby-hal-tools/",
-            "category": "Sci & Tech",
-            "date": "2026-02-20T17:51:47Z"
-        },
-        {
-            "title": "Call for Presentations (CFP) LAC-PF 2026",
-            "summary": "Originating from the NANOG mailing list, this article introduces the Latin American and Caribbean Peering Forum. Though details are limited, it pertains to network infrastructure and internet peering in the region. For SSB aspirants, understanding such global tech forums highlights international collaboration in critical digital connectivity, essential for national infrastructure and strategic communication.",
-            "url": "https://seclists.org/nanog/2026/Feb/133",
-            "category": "Sci & Tech",
-            "date": "2026-02-20T17:43:25Z"
-        },
-        {
-            "title": "Ooredoo separates fibre and subsea assets to power regional growth",
-            "summary": "Amidst rising global bandwidth demand and AI-driven cloud expansion, Ooredoo is establishing an independent business focused on international services. This strategic move aims to adapt to the evolving digital landscape, capitalizing on new traffic corridors and infrastructure needs worldwide. It highlights how telecommunication companies are restructuring to meet the demands of AI and increasing data flow.",
-            "url": "https://www.verdict.co.uk/ooredoo-separates-fibre-subsea-assets/",
-            "category": "Sci & Tech",
-            "date": "2026-02-20T17:41:42Z"
-        },
-        {
-            "title": "Weapon cache, supplies recovered along LoC day after troops foiled infiltration bid in Rajouri",
-            "summary": "Security forces in Jammu and Kashmir's Rajouri district recovered a significant cache of arms and ammunition during a search operation on Friday. This crucial recovery followed a successful operation a day prior, where Indian troops effectively foiled an infiltration bid in the same area. Such actions highlight the Indian Army's vigilance and operational readiness in maintaining border security and combating insurgency in the region.",
-            "url": "https://statetimes.in/weapon-cache-supplies-recovered-along-loc-day-after-troops-foiled-infiltration-bid-in-rajouri/",
-            "category": "Defence",
-            "date": "2026-02-20T17:39:30Z"
-        },
-        {
-            "title": "Pak violates ceasefire along LoC in Kupwara",
-            "summary": "Pakistan violated the ceasefire along the Line of Control (LoC) in Jammu and Kashmir\u2019s Kupwara district on Friday. Officials reported the incident occurred around noon, underscoring persistent border tensions. These violations are crucial for SSB aspirants to understand, as they highlight ongoing national security challenges and the constant vigilance required by Indian defence forces.",
-            "url": "https://statetimes.in/pak-violates-ceasefire-along-loc-in-kupwara/",
-            "category": "Defence",
-            "date": "2026-02-20T17:33:02Z"
-        },
-        {
-            "title": "The Golden Schmoes: The Nominees Are Live \u2013 Vote for the winners today!",
-            "summary": "The Golden Schmoes, reputedly the longest-running online movie fan awards, provide an alternative platform for enthusiasts to express their views on annual film nominations, in contrast to established awards like the Oscars. These awards celebrate fan engagement, highlighting the growing influence of audience sentiment and online participation in shaping perceptions within the global entertainment industry.",
-            "url": "https://www.joblo.com/the-golden-schmoes-the-nominees-are-live-vote-for-the-winners-today/",
-            "category": "International",
-            "date": "2026-02-20T15:00:39Z"
         }
     ]
 }
