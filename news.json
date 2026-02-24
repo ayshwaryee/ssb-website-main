@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-02-23T18:56:57.156618+00:00",
+    "last_updated": "2026-02-24T01:46:13.278021+00:00",
     "articles": [
         {
-            "title": "What are 9M336 missiles? Why is Iran-Russia 'secret' arms deal worth $589 million important?",
-            "summary": "Iran and Russia have reportedly sealed a secret 500 million euro deal for thousands of advanced shoulder-fired missiles. This clandestine arms acquisition by Iran from Russia indicates strengthening military cooperation, potentially impacting regional security and international arms proliferation. For SSB aspirants, this highlights evolving geopolitical alliances and their global strategic implications.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/what-are-9m336-missiles-why-is-iran-russia-secret-arms-deal-worth-589-million-important/articleshow/128686189.cms",
+            "title": "Mexican military kills cartel boss El Mencho in US-backed raid",
+            "summary": "Notorious Mexican drug lord Nemesio Oseguera, known as \"El Mencho,\" was killed in a military raid on Sunday (Feb 22) in Mexico. His death immediately triggered widespread retaliatory violence across the country. This significant operation by Mexican forces targeted a major figure in international drug trafficking, but the ensuing unrest underscores the persistent challenges in combating organized crime and maintaining stability in the region.",
+            "url": "https://www.channelnewsasia.com/world/mexico-el-mencho-cartel-boss-killed-us-raid-5946066",
+            "category": "International",
+            "date": "2026-02-23T01:46:02Z"
+        },
+        {
+            "title": "Moscow airports operating again after restrictions over drones",
+            "summary": "This snippet introduces investment ideas and tools designed for wealth growth, focusing on stock opportunities and sectoral trends. It highlights \"Stock Reports Plus\" for strategic buying and selling, leveraging features like \"Stock Score\" and \"Upside potential.\" Additionally, a \"BigBull Portfolio\" is mentioned, emphasizing resources available for individuals seeking informed decisions within financial markets.",
+            "url": "https://economictimes.indiatimes.com/nri/latest-updates/moscow-airports-operating-again-after-restrictions-over-drones/articleshow/128695085.cms",
+            "category": "National",
+            "date": "2026-02-23T01:38:14Z"
+        },
+        {
+            "title": "Trump's hospital ship plan provokes defense of Greenland health care system",
+            "summary": "Former U.S. President Donald Trump controversially announced plans to deploy a U.S. Navy hospital ship to Greenland, citing widespread illness and lack of care for its populace. This statement was made despite both active U.S. Navy hospital ships potentially being unavailable or occupied, raising questions about the feasibility and diplomatic implications of such a unilateral humanitarian deployment to the Danish autonomous territory.",
+            "url": "https://kutv.com/news/nation-world/trumps-hospital-ship-plan-provokes-defense-of-greenland-health-care-system-02-22-2026",
+            "category": "International",
+            "date": "2026-02-23T00:00:41Z"
+        },
+        {
+            "title": "Why every scientist needs a librarian",
+            "summary": "Academic libraries often resemble sacred, hushed spaces with grand architecture, akin to places of worship, notes Jane Harvell, director of library culture. This unique ambiance fosters deep contemplation. The article explores the cultural significance and atmosphere of these institutions, emphasizing their role in promoting focused study and intellectual development.",
+            "url": "https://www.nature.com/articles/d41586-026-00568-y",
+            "category": "National",
+            "date": "2026-02-23T00:00:00Z"
+        },
+        {
+            "title": "Taliban vows retaliation claiming Pakistan strikes killed children",
+            "summary": "Pakistan conducted overnight air strikes in Afghanistan, claiming to have killed dozens of militants. However, Afghans are burying villagers reportedly killed in these attacks, underscoring civilian casualties. This cross-border military action has significantly heightened tensions between the two nations, with starkly different accounts of the incident's impact and targets. The strikes underscore ongoing regional instability and security challenges.",
+            "url": "https://www.abc.net.au/news/2026-02-23/pakistan-launches-deadly-strikes-against-afghanistan/106374946",
+            "category": "International",
+            "date": "2026-02-22T23:16:13Z"
+        },
+        {
+            "title": "31 packets of charas worth Rs 14 crore found inside unclaimed bag on express train in Mumbai",
+            "summary": "News reveals 21-year-old Austin Tucker Martin as the Mar-A-Lago intruder, facing questions regarding an alleged attempt on Trump's life. Simultaneously, Ukraine's drone swarm attack against Russia reportedly failed, with Russian air defense systems effectively crushing the enemy drones, resulting in Moscow's airspace lockdown and showcasing strong counter-drone capabilities.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/31-packets-of-charas-worth-rs-14-crore-found-inside-unclaimed-bag-on-express-train-in-mumbai/articleshow/128686183.cms",
             "category": "Defence",
-            "date": "2026-02-22T18:33:02Z"
-        },
-        {
-            "title": "Greenland Says \u2018No Thanks\u2019 To Trump\u2019s Hospital Ship",
-            "summary": "Greenland's Prime Minister Jens-Frederik Nielsen rejected former U.S. President Donald Trump\u2019s offer to send a hospital ship. This move highlights Greenland's assertion of autonomy as a Danish territory amidst persistent American interest in its strategic Arctic location. Such offers are often viewed in the broader context of geopolitical influence and resource control in the rapidly changing Arctic region.",
-            "url": "https://gcaptain.com/greenland-says-no-thanks-to-trumps-hospital-ship/",
-            "category": "International",
-            "date": "2026-02-22T18:05:35Z"
-        },
-        {
-            "title": "AP Was There: An Olympic 'Miracle On Ice' as US shocks USSR",
-            "summary": "The 1980 Winter Olympics witnessed one of sport's greatest upsets when the U.S. men's hockey team, composed of amateurs, miraculously defeated the heavily favored, professional Soviet Union squad. This 'Miracle on Ice' transcended the sport, becoming a powerful symbol of national pride, underdog spirit, and perseverance, inspiring generations with its testament to collective effort and determination against overwhelming odds.",
-            "url": "https://sports.yahoo.com/articles/ap-olympic-miracle-ice-us-180407255.html",
-            "category": "International",
-            "date": "2026-02-22T18:04:07Z"
-        },
-        {
-            "title": "Denmark Evacuates US Submarine Crew Member In\u00a0Greenlandic Waters",
-            "summary": "Denmark's Joint Arctic Command recently conducted an urgent medical evacuation of a crew member from a U.S. submarine in Greenlandic waters. This operation highlights international cooperation and the critical role of Arctic commands in providing humanitarian assistance, even for foreign military personnel, in challenging and strategically important regions. Such joint efforts are crucial for maritime safety and diplomatic relations, demonstrating effective cross-border defence collaboration.",
-            "url": "https://gcaptain.com/denmark-evacuates-us-submarine-crew-member-in-greenlandic-waters/",
-            "category": "Defence",
-            "date": "2026-02-22T17:56:20Z"
-        },
-        {
-            "title": "'No thanks': \u200bGreenland leader gives icy reception to Trump's bizarre hospital ship plan",
-            "summary": "Former US President Donald Trump's proposal to deploy a hospital ship to Greenland was met with a polite rejection from Greenland's Prime Minister Jens-Frederick Nielsen. The unusual plan, part of broader US interest in the the Arctic region, highlighted complex diplomatic relations and Greenland's autonomous stance regarding foreign assets on its territory.",
-            "url": "https://www.rawstory.com/greenland-2675292228/",
-            "category": "International",
-            "date": "2026-02-22T17:48:22Z"
-        },
-        {
-            "title": "Trump Pledges Hospital Boat for Greenland\u2014Which, Unlike US, Has 'Free and Equal Access to Health for All'",
-            "summary": "The Danish military recently evacuated a US submarine crew member off Greenland for urgent medical care. Following this, President Donald Trump pledged to send a 'hospital boat' in response. This incident highlights international military cooperation and rapid humanitarian aid operations, demonstrating allied support and resource deployment capabilities in remote regions, crucial for maintaining operational readiness.",
-            "url": "https://www.commondreams.org/news/greenland-healthcare",
-            "category": "Defence",
-            "date": "2026-02-22T17:33:04Z"
-        },
-        {
-            "title": "India condemns Pakistan\u2019s strikes on Afghanistan as an attempt to \u2018externalise internal failures\u2019, backs Kabul\u2019s sovereignty",
-            "summary": "India strongly condemned Pakistan's reported airstrikes on Afghan territory, citing civilian casualties, including women and children, during Ramadan. Emphasizing respect for territorial integrity and international law, India called for restraint. This incident underscores regional instability and India's firm stance against cross-border aggression, highlighting the humanitarian impact of such military actions in the sensitive Central Asian region.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-condemns-pakistans-strikes-on-afghanistan-as-an-attempt-to-externalise-internal-failures-backs-kabuls-sovereignty/articleshow/128682410.cms",
-            "category": "International",
-            "date": "2026-02-22T16:25:17Z"
-        },
-        {
-            "title": "The Rolling Stones Lets Spend The Night Together 1982 1080p BluRay x264-TREBLE",
-            "summary": "The provided text describes a documentary film capturing The Rolling Stones' 1981 US tour. It focuses on their notable performances in Tempe, Arizona, and East Rutherford, New Jersey. This snippet offers a glimpse into a significant cultural and musical event featuring the iconic rock band, suitable for understanding historical entertainment documentation.",
-            "url": "https://post.rlsbb.to/the-rolling-stones-lets-spend-the-night-together-1982-1080p-bluray-x264-treble/",
-            "category": "International",
-            "date": "2026-02-22T15:02:30Z"
+            "date": "2026-02-22T20:59:00Z"
         }
     ]
 }
