@@ -1,61 +1,68 @@
 {
-    "last_updated": "2026-02-25T12:54:54.382104+00:00",
+    "last_updated": "2026-02-25T18:59:28.104903+00:00",
     "articles": [
         {
-            "title": "Virgil Popescu: The War in Ukraine accelerated key decisions for energy independence",
-            "summary": "A former Romanian Energy Minister reflected on their challenging tenure, describing it as one of the most demanding periods for the portfolio. The minister emphasized dedicated efforts to ensure Romania's energy stability amidst significant difficulties. This statement highlights the critical role of strong leadership and effective policy in maintaining national energy security, particularly during periods of intense pressure and uncertainty within the energy sector.",
-            "url": "https://www.mediafax.ro/english/virgil-popescu-the-war-in-ukraine-accelerated-key-decisions-for-energy-independence-23692217",
-            "category": "National",
-            "date": "2026-02-24T12:32:12Z"
-        },
-        {
-            "title": "India hosts military adventure event, 7 other nations participate",
-            "summary": "The Indian Army hosted a multi-national military adventure event in the Eastern Himalayas, with seven other nations participating. Held in Guwahati, this initiative promoted regional defence cooperation, camaraderie, and shared best practices in military skills and endurance. It showcased India's commitment to strengthening strategic partnerships and operational readiness among allied forces in challenging terrains, enhancing collective security and interoperability.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-hosts-military-adventure-event-7-other-nations-participate/articleshow/128750718.cms",
-            "category": "Defence",
-            "date": "2026-02-24T11:54:42Z"
-        },
-        {
-            "title": "Dream Cricket appoints Arpith Kanade as Head of Studio to drive global growth",
-            "summary": "Sports tech company Dream Sports has appointed Arpith Kanade as the Head of Studio for Dream Cricket. This rapidly expanding AAA mobile cricket game boasts over 25 million users and features more than 500 licensed elements, highlighting its significant presence in the mobile gaming market. Kanade's role will focus on leading the game's continued development and growth.",
-            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/dream-sports-names-zynga-veteran-arpith-kanade-head-of-studio-to-turn-dream-cricket-into-worlds-no1-mobile-cricket-game/articleshow/128750153.cms",
+            "title": "zodify added to PyPI",
+            "summary": "A new Python library, 'zodify,' offers Zod-inspired dictionary validation with zero dependencies and a single-file design. This tool aims to simplify data validation for developers. Currently in its alpha phase, zodify\u2019s API is subject to change, and community feedback is encouraged to help shape its future development. This open-source initiative highlights ongoing advancements in software development tools.",
+            "url": "https://pypi.org/project/zodify/",
             "category": "Sci & Tech",
-            "date": "2026-02-24T11:47:37Z"
+            "date": "2026-02-24T18:50:21Z"
         },
         {
-            "title": "China military purge taking toll on command and readiness, study finds",
-            "summary": "China's ongoing military corruption purges are reportedly creating serious deficiencies within its command structure. These widespread purges are likely to have significantly hampered the readiness of the People's Liberation Army (PLA), potentially impacting its operational capabilities and strategic ambitions. This situation has implications for regional power dynamics and global security, crucial for an SSB aspirant to understand.",
-            "url": "https://www.yahoo.com/news/articles/china-military-purge-taking-toll-110632518.html",
-            "category": "Defence",
-            "date": "2026-02-24T11:47:20Z"
+            "title": "krabby-hal-client added to PyPI",
+            "summary": "The provided text indicates a website encountered a critical loading error, preventing a required component from displaying. This issue could stem from various technical factors such as browser extensions, network connectivity problems, or specific browser settings. Users are advised to troubleshoot by verifying their internet connection, disabling any active ad blockers, or attempting to access the site using an alternative web browser.",
+            "url": "https://pypi.org/project/krabby-hal-client/",
+            "category": "Sci & Tech",
+            "date": "2026-02-24T18:45:10Z"
         },
         {
-            "title": "Thailand, Cambodia dispute exchange of fire at border",
-            "summary": "Thailand's military reported exchanging fire with Cambodian forces along their border, accusing them of violating a December truce. This incident signals a renewed escalation in the long-standing territorial dispute. While Thailand claims its neighbour breached the ceasefire, Cambodia's capital, Phnom Penh, denied any use of weapons, highlighting ongoing tensions between the Southeast Asian nations.",
-            "url": "https://www.rte.ie/news/world/2026/0224/1560143-thailand-cambodia/",
-            "category": "International",
-            "date": "2026-02-24T11:33:53Z"
-        },
-        {
-            "title": "President Droupadi Murmu to fly indigenous ALH, witness IAF\u2019s Vayu Shakti-2026 in Jaisalmer",
-            "summary": "The provided text does not contain any news content suitable for an SSB aspirant. It exclusively features boilerplate information, including a call to follow on social media, copyright details for Bennett, Coleman & Co. Ltd. (dated 2026), and a reference to Times Syndication Service for reprint rights. Consequently, no specific event or topic can be summarized from this material.",
-            "url": "https://timesofindia.indiatimes.com/city/jaipur/president-droupadi-murmu-to-fly-indigenous-alh-witness-iafs-vayu-shakti-2026-in-jaisalmer/articleshow/128748872.cms",
+            "title": "Tejas skips major fire power demo exercise following recent accident",
+            "summary": "The provided text promotes financial services aimed at wealth growth through stock market investments. It highlights 'Investment Ideas' for sectoral trends, 'Stock Reports Plus' offering comprehensive stock research with scores and peer comparisons, and 'BigBull Portfolio'. These tools are designed to provide individuals with insights and resources for informed decision-making in personal finance and stock market engagement.",
+            "url": "https://economictimes.indiatimes.com/news/defence/tejas-skips-major-fire-power-demo-exercise-following-recent-accident/articleshow/128759412.cms",
             "category": "National",
-            "date": "2026-02-24T11:09:35Z"
+            "date": "2026-02-24T18:11:35Z"
         },
         {
-            "title": "Organigram Further Expands Global Portfolio with Launch of Edison and BOXHOT Medical Vapes and Pastilles in Australia",
-            "summary": "Organigram's new launch in Australia addresses the growing demand for medical cannabis alternatives, solidifying its global presence. This initiative highlights the expanding international market and evolving acceptance of medical cannabis beyond traditional forms. For aspirants, it reflects shifts in healthcare and global business strategies, emphasizing adaptability to emerging sectors.",
-            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-further-expands-global-portfolio-with-launch-of-edison-and-boxhot-medical-vapes-and-pastilles-in-australia",
-            "category": "International",
-            "date": "2026-02-24T11:00:58Z"
+            "title": "The Russians Turning to Google Maps In Search of Missing Soldiers",
+            "summary": "Google Maps significantly differs from traditional paper maps by enabling collective user annotation. Unlike private notes on a physical map, Google Maps allows individuals to contribute collaboratively, thereby fostering a new kind of shared geographical knowledge. This collective intelligence transforms how information is accessed and built upon, creating a dynamic, community-driven platform for common understanding.",
+            "url": "https://www.newyorker.com/news/the-lede/the-russians-turning-to-google-maps-in-search-of-missing-soldiers",
+            "category": "Sci & Tech",
+            "date": "2026-02-24T17:55:47Z"
         },
         {
-            "title": "Russia can't match NATO's conventional strength, so it's betting on submarines and nuclear asymmetry, commander says",
-            "summary": "Russia is reportedly banking on its potent submarine force and advanced experimental nuclear weapons to compensate for its conventional military deficit against NATO. A top Norwegian official revealed this strategy, underscoring Russia's asymmetric approach to maintain deterrence and project power. This highlights the ongoing strategic competition and the critical role of naval power and advanced weaponry in modern geopolitical dynamics.",
-            "url": "https://www.businessinsider.com/russia-cant-match-nato-conventional-strength-betting-submarines-nuclear-asymmetry-2026-2",
-            "category": "Defence",
-            "date": "2026-02-24T10:46:01Z"
+            "title": "Rahsaan Roland Kirk \u2013 Seek & Listen: Live at the Penthouse (2025)",
+            "summary": "In November 2025, Resonance Records, led by producers Zev Feldman and George Klabin, released two previously unissued live recordings by the legendary Rahsaan Roland Kirk. One prominent release is \"Seek & Listen: Live at the Penthouse.\" This initiative brings rare historical performances to fans, enriching the iconic musician's legacy and demonstrating continued efforts in music preservation and distribution.",
+            "url": "https://exystence.net/blog/2026/02/24/rahsaan-roland-kirk-seek-listen-live-at-the-penthouse-2025/",
+            "category": "National",
+            "date": "2026-02-24T17:25:26Z"
+        },
+        {
+            "title": "HC dismisses Save India Foundation\u2019s PIL challenging Waqf notification 46 years later, calls it \u2018habitual\u2019 petitioner",
+            "summary": "The Delhi High Court dismissed a Public Interest Litigation (PIL) by the Save India Foundation, challenging a 46-year-old Delhi Waqf Board notification. The PIL contested the declaration of certain properties, but the court upheld the historical notification. This ruling underscores the judiciary's role in addressing long-standing administrative and property-related disputes within national legal frameworks, reinforcing the existing status of the properties.",
+            "url": "https://indianexpress.com/article/cities/delhi/hc-save-india-foundation-pil-waqf-10550287/",
+            "category": "National",
+            "date": "2026-02-24T16:58:37Z"
+        },
+        {
+            "title": "Srinagar civil enclave to be developed further at the cost of \u20b91,677 cr",
+            "summary": "A new civil enclave is being developed at Srinagar International Airport in the Kashmir Valley, costing an estimated \u20b91,677 crore. This significant project aims to substantially strengthen aviation infrastructure in the region, enhancing connectivity and boosting civilian travel and logistics within Jammu and Kashmir, thereby supporting regional growth and accessibility.",
+            "url": "https://www.thehindubusinessline.com/news/national/srinagar-civil-enclave-to-be-developed-further-at-the-cost-of-1677-cr/article70672491.ece",
+            "category": "National",
+            "date": "2026-02-24T16:52:53Z"
+        },
+        {
+            "title": "Robert Carradine, 'Revenge of the Nerds' and 'Lizzie McGuire' star, dies at 71",
+            "summary": "An Editor's Note highlights critical mental health support, directing individuals struggling with depression or suicidal ideation to the 988 Suicide & Crisis Lifeline. This vital resource can be accessed by calling 988 or finding online assistance at 988lifeline.org. It emphasizes the availability of immediate help and support for those facing mental health challenges.",
+            "url": "https://www.pbs.org/newshour/arts/robert-carradine-revenge-of-the-nerds-and-lizzie-mcguire-star-dies-at-71",
+            "category": "National",
+            "date": "2026-02-24T16:36:48Z"
+        },
+        {
+            "title": "Azim Premji University says 20 people vandalised campus, caused ruckus; probe ordered",
+            "summary": "Azim Premji University in Bengaluru addressed a Monday campus ruckus where individuals shouted slogans, vandalized property, and assaulted people. The university condemned these disruptive acts, emphasizing the breach of peace and safety. It clarified the situation, reassuring the community on maintaining a secure academic environment.",
+            "url": "https://economictimes.indiatimes.com/news/bengaluru-news/azim-premji-university-says-20-people-vandalised-campus-caused-ruckus-probe-ordered/articleshow/128757270.cms",
+            "category": "National",
+            "date": "2026-02-24T16:34:33Z"
         }
     ]
 }
