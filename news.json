@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-02-26T01:44:57.785332+00:00",
+    "last_updated": "2026-02-26T06:54:50.037171+00:00",
     "articles": [
         {
-            "title": "ARLnow Daily Debrief for Feb 24, 2026",
-            "summary": "This article serves as an introductory recap for news published on February 24th in Arlington, covering the day's stories and a look ahead at the upcoming event calendar. It functions as a placeholder, promising detailed news coverage without providing specific headlines or summaries within the current snippet, thus awaiting the actual content for further analysis and insights relevant to national or local developments.",
-            "url": "https://www.arlnow.com/2026/02/24/debrief-2242026/",
-            "category": "National",
-            "date": "2026-02-25T01:30:04Z"
-        },
-        {
-            "title": "Alkane Advances Near-Mine Kendal Deposit with High Grade Antimony-Gold Intercepts at Costerfield",
-            "summary": "Alkane Resources Limited, an internationally listed company, recently announced its latest exploration results from Perth, Australia. These findings are crucial for assessing potential resource deposits and future project viability. For SSB aspirants, understanding such announcements highlights global resource management and the strategic importance of mineral exploration for national development and economic stability, impacting various sectors.",
-            "url": "https://www.globenewswire.com/news-release/2026/02/25/3244200/0/en/Alkane-Advances-Near-Mine-Kendal-Deposit-with-High-Grade-Antimony-Gold-Intercepts-at-Costerfield.html",
-            "category": "Sci & Tech",
-            "date": "2026-02-25T01:28:00Z"
-        },
-        {
-            "title": "krabby-controller 0.1.1",
-            "summary": "The provided text reports a website component failure, likely caused by browser extensions, network issues, or settings. It advises users to check their internet connection, disable ad blockers, or try an alternative browser for resolution. This highlights common technical troubleshooting steps relevant for digital literacy.",
-            "url": "https://pypi.org/project/krabby-controller/0.1.1/",
-            "category": "Sci & Tech",
-            "date": "2026-02-25T01:10:41Z"
-        },
-        {
-            "title": "A Brief List of Pitchers I Believe Could Knock an Apple off My Head Without Maiming Me",
-            "summary": "As the baseball season emerges from hibernation, the Milwaukee Brewers sparked curiosity by involving celebrity wrestler 'The Miz'. This promotional event prompts fans to consider a unique challenge: facing The Miz's fastball. Such creative marketing stunts aim to generate excitement and engage audiences for the sport's return, blending sports with entertainment in national media discussions.",
-            "url": "https://blogs.fangraphs.com/a-brief-list-of-pitchers-i-believe-could-knock-an-apple-off-my-head-without-maiming-me/",
-            "category": "National",
-            "date": "2026-02-24T23:50:27Z"
-        },
-        {
-            "title": "Robert Carradine, 'Revenge of the Nerds' and 'Lizzie McGuire' star, dies at 71",
-            "summary": "Veteran Hollywood actor Robert Carradine, widely recognized for his leading role as Lewis Skolnick in the iconic 1984 comedy 'Revenge of the Nerds', has passed away at 71. The youngest member of a celebrated acting family, Carradine had a prolific career spanning decades in film and television, leaving a notable mark on popular culture.",
-            "url": "https://japantoday.com/category/entertainment/robert-carradine-%27revenge-of-the-nerds%27-and-%27lizzie-mcguire%27-star-dies-at-71",
+            "title": "Trump claims he ended India-Pak conflict, says Pak PM Shehbaz Sharif told him 35 million would have died otherwise",
+            "summary": "During his State of the Union Address, US President Donald Trump claimed he had ended eight wars, notably including the India-Pakistan conflict. This assertion likely refers to de-escalation following tensions like the Pulwama attack and Balakot airstrikes. Trump's statement underscores the international community's focus on South Asian stability and potential US diplomatic involvement in regional disputes, a key point for SSB aspirants to understand regarding global affairs.",
+            "url": "https://www.thehindubusinessline.com/news/world/trump-claims-he-ended-india-pak-conflict-says-pak-pm-shehbaz-sharif-told-him-35-million-would-have-died-otherwise/article70674470.ece",
             "category": "International",
-            "date": "2026-02-24T21:44:38Z"
+            "date": "2026-02-25T06:40:53Z"
+        },
+        {
+            "title": "U.S. accelerates major military deployment as Iran deadline looms",
+            "summary": "The U.S. is accelerating a significant military deployment, with a mid-March deadline to position all forces for potential operations against Iran. This marks the most substantial preparation to date, signaling heightened tensions and the possibility of a major international military engagement. SSB aspirants should understand the strategic implications of such large-scale deployments on global security and foreign policy dynamics.",
+            "url": "https://www.naturalnews.com/2026-02-25-us-accelerates-military-deployment-iran-deadline-looms.html",
+            "category": "International",
+            "date": "2026-02-25T06:00:00Z"
+        },
+        {
+            "title": "Indian Navy to commission 'Dolphin Hunter' INS Anjadip in Chennai",
+            "summary": "The Indian Navy is set to commission INS Anjadip at Chennai port on February 27, significantly bolstering coastal defence. This vessel is the third of eight indigenously built Anti-Submarine Warfare Shallow Water Craft (ASW SWC) series. Its induction enhances the Navy's capabilities in anti-submarine operations and strengthens maritime security, vital for protecting India's strategic interests and ensuring national defence preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-to-commission-dolphin-hunter-ins-anjadip-in-chennai/articleshow/128771542.cms",
+            "category": "Defence",
+            "date": "2026-02-25T05:57:15Z"
         }
     ]
 }
