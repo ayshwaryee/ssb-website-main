@@ -1,19 +1,61 @@
 {
-    "last_updated": "2026-02-27T06:46:07.081645+00:00",
+    "last_updated": "2026-02-27T12:48:39.598979+00:00",
     "articles": [
         {
-            "title": "Europe\u2019s nuclear hawks need a reality check",
-            "summary": "European strategists are debating establishing an autonomous nuclear defence for the continent. While some find this prospect exciting, the article cautions against its significant practical and political challenges, urging a 'reality check.' Pursuing this ambitious project would fundamentally alter Europe's security architecture and strategic independence, demanding thorough consideration of its implications for continental defence posture and stability.",
-            "url": "https://www.irishtimes.com/world/2026/02/26/talk-of-european-states-developing-their-own-nuclear-umbrella-is-fanciful/",
+            "title": "The Weakening Position of Aircraft Carriers in the Hypersonic Era",
+            "summary": "The advent of the hypersonic era fundamentally alters the strategic role of aircraft carriers in naval warfare. Previously considered decisive power projection tools, these massive vessels are now deemed high-risk platforms due to increased vulnerability. This paradigm shift necessitates a critical re-evaluation of naval doctrine, future fleet composition, and defence investments, impacting global maritime power dynamics significantly.",
+            "url": "https://www.globalresearch.ca/weakening-position-aircraft-carriers-hypersonic-era/5916974",
             "category": "Defence",
-            "date": "2026-02-26T06:40:02Z"
+            "date": "2026-02-26T11:57:01Z"
         },
         {
-            "title": "Russia accuses U.K. and France of plotting to SMUGGLE NUCLEAR WEAPON into Ukraine",
-            "summary": "Russia's Foreign Intelligence Service (SVR) alleges the U.K. and France are covertly planning to transfer a nuclear warhead or a radioactive \"dirty bomb\" to Ukraine. Moscow warns this would be a catastrophic violation of the Nuclear Non-Proliferation Treaty (NPT). This serious accusation from Russia highlights escalating tensions and has significant international security implications concerning WMD proliferation in conflict zones.",
-            "url": "https://www.naturalnews.com/2026-02-26-russia-accuses-uk-france-smuggle-nuclear-weapon-ukraine.html",
+            "title": "paircloud added to PyPI",
+            "summary": "A new hybrid Python/Rust software package has been developed for advanced data visualization. It specializes in generating aesthetically pleasing, transparent data graphs, including faded dotplots, shadeplots, and classic raincloud plots. This tool, drawing inspiration from Dallas Novakowski's blog post, offers data scientists powerful capabilities for creating insightful and visually appealing statistical plots.",
+            "url": "https://pypi.org/project/paircloud/",
+            "category": "Sci & Tech",
+            "date": "2026-02-26T11:42:36Z"
+        },
+        {
+            "title": "The New York Times Magazine, \u201cThe Lives They Lived\u201d 2024 issue",
+            "summary": "\u201cThe Lives They Lived\u201d is the New York Times Magazine's annual special issue, released at year-end. This commemorative edition pays tribute to prominent artists, innovators, and thinkers who passed away during the preceding year. It serves as a significant retrospective, remembering their contributions and legacies across various fields, offering readers a moment to reflect on their impact.",
+            "url": "https://fontsinuse.com/uses/75361/the-new-york-times-magazine-the-lives-they-2",
+            "category": "National",
+            "date": "2026-02-26T11:40:49Z"
+        },
+        {
+            "title": "Gainers & Losers: XTGlobal, Tejas Networks among 5 top movers on Thursday",
+            "summary": "India's benchmark stock indices, Nifty and BSE Sensex, concluded Thursday with minimal change. Significant selling pressure in key financial stocks, notably heavyweight HDFC Bank, offset potential gains during a volatile trading session. This performance reflects current market dynamics driven by specific sector movements, indicating a stable yet cautious sentiment among investors regarding India's financial sector.",
+            "url": "https://m.economictimes.com/markets/stocks/news/gainers-amp-losers-xtglobal-tejas-networks-among-5-top-movers-on-thursday/slideshow/128811973.cms",
+            "category": "National",
+            "date": "2026-02-26T11:20:26Z"
+        },
+        {
+            "title": "Subsea Reconfigurable Optical Add-Drop Multiplexer (ROADM) Industry Research Report 2026: A $2.69 Billion Market by 2030 with Global Long-term Forecast to 2025",
+            "summary": "ResearchAndMarkets.com has released its 'Subsea Reconfigurable Optical Add-Drop Multiplexer (ROADM) Market Report 2026'. This report details the market for crucial technology used in undersea fiber optic networks. Subsea ROADMs enable dynamic configuration of optical signals, essential for managing high-capacity data traffic across global internet infrastructure. This highlights ongoing advancements in telecommunications technology and their market implications.",
+            "url": "https://www.globenewswire.com/news-release/2026/02/26/3245361/28124/en/Subsea-Reconfigurable-Optical-Add-Drop-Multiplexer-ROADM-Industry-Research-Report-2026-A-2-69-Billion-Market-by-2030-with-Global-Long-term-Forecast-to-2025.html",
+            "category": "Sci & Tech",
+            "date": "2026-02-26T11:03:00Z"
+        },
+        {
+            "title": "France and UK Plan to Supply Nuclear Weapons to Ukraine",
+            "summary": "Russian intelligence has reportedly claimed the 'Collective West' is escalating the Ukrainian conflict, revealing a joint plan involving France. This development suggests ongoing international strategic moves by Western nations, which Russia views as pushing the conflict towards its ultimate consequences. The alleged plan highlights deepening involvement and geopolitical tensions surrounding the protracted Ukraine war.",
+            "url": "https://www.globalresearch.ca/france-uk-plan-supply-nuclear-weapons-ukraine/5917233",
             "category": "International",
-            "date": "2026-02-26T06:00:00Z"
+            "date": "2026-02-26T10:45:12Z"
+        },
+        {
+            "title": "'Tedha hai par mera hai': Viral post on F-16 vs Tejas crashes ignites heated debate over HAL",
+            "summary": "A viral social media post has sparked a significant debate in India, highlighting a perceived disparity in public outrage over fighter jet crashes. It notes that recent incidents involving American-made jets abroad garnered little concern, unlike similar crashes involving Indian defence assets which ignite substantial national discussion. This debate scrutinizes differing perceptions and reactions to military aviation incidents.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/tedha-hai-par-mera-hai-viral-post-on-f-16-vs-tejas-crashes-ignites-heated-debate-over-hal/articleshow/128807673.cms",
+            "category": "Defence",
+            "date": "2026-02-26T09:11:04Z"
+        },
+        {
+            "title": "Before Monarch Season 2, The Monsterverse Goes Bigger Than Ever Before",
+            "summary": "The MonsterVerse, home to Godzilla and Kong, has dramatically expanded through a new crossover series with DC Comics. 'Justice League vs Godzilla vs Kong 2 #7' explores unprecedented scenarios, bringing together iconic superheroes and legendary titans. This storyline, while thrilling for fans and offering significant plot developments, operates outside the established canon of Legendary's MonsterVerse, creating a unique narrative convergence for these colossal franchises.",
+            "url": "https://screenrant.com/monsterverse-goes-bigger-than-ever-justice-league-godzilla-kong-2-finale/",
+            "category": "Sci & Tech",
+            "date": "2026-02-26T01:00:19Z"
         }
     ]
 }
