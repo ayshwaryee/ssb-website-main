@@ -1,26 +1,47 @@
 {
-    "last_updated": "2026-02-28T06:32:02.049506+00:00",
+    "last_updated": "2026-02-28T12:36:12.995382+00:00",
     "articles": [
         {
-            "title": "Indian Air Force Group Captain Shukla says sustainable practices adopted in space offer lessons for North Eastern states",
-            "summary": "IAF Group Captain Shubhanshu Shukla highlighted that sustainable practices developed for space exploration hold valuable lessons for India's North Eastern states, particularly Meghalaya. He suggested these could be leveraged to significantly expand renewable energy infrastructure in remote regions, contributing to national development and environmental sustainability by adapting advanced concepts for terrestrial application.",
-            "url": "https://economictimes.indiatimes.com/news/science/indian-air-force-group-captain-shukla-says-sustainable-practices-adopted-in-space-offer-lessons-for-north-eastern-states/articleshow/128838929.cms",
-            "category": "National",
-            "date": "2026-02-27T06:22:20Z"
-        },
-        {
-            "title": "Gaza civil defense says Israeli strikes kill at least 5",
-            "summary": "Israeli strikes in Gaza killed at least five people on Friday, according to the civil defense ministry. Violence continues in the Palestinian territory despite a U.S.-brokered truce. This ongoing conflict highlights the volatile security situation in the Middle East, crucial for SSB aspirants to understand global geopolitical challenges.",
-            "url": "https://www.hurriyetdailynews.com/gaza-civil-defense-says-israeli-strikes-kill-at-least-5-219371",
-            "category": "International",
-            "date": "2026-02-27T06:22:17Z"
-        },
-        {
-            "title": "Indian Navy adds \u2018Dolphin Hunter\u2019 INS Anjadip to fleet; aims to boost anti-submarine capabilities",
-            "summary": "The Indian Navy commissioned INS Anjadip, a new warship, enhancing anti-submarine warfare (ASW) and coastal surveillance capabilities. Chief of the Naval Staff, Admiral Dinesh K Tripathi, presided over the event, marking a significant boost to India's naval power. This commissioning reflects the nation's commitment to modernizing its defence forces and strengthening maritime security, especially in coastal regions.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-adds-dolphin-hunter-ins-anjadip-to-fleet-aims-to-boost-anti-submarine-capabilities/articleshow/128838681.cms",
+            "title": "Indian Army upgrades 'Make in India' 96 T-72 tanks with night-fighting systems",
+            "summary": "The Indian Army has successfully equipped 96 T-72 tanks with indigenously manufactured Thermal Imaging Fire Control Systems (TIFCS). These domestically developed systems have passed rigorous firing validation trials, significantly enhancing the tanks' night fighting capabilities and accuracy. This upgrade boosts the operational effectiveness of the armoured fleet and reinforces India's commitment to self-reliance in defence technology.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-upgrades-make-in-india-96-t-72-tanks-with-night-fighting-systems/articleshow/128849878.cms",
             "category": "Defence",
-            "date": "2026-02-27T06:16:44Z"
+            "date": "2026-02-27T12:26:36Z"
+        },
+        {
+            "title": "New Frostrail video delivers more survival train horror shooting plus weird underground Tomb Raider temples",
+            "summary": "Frostrail, a new first-person co-op horror survival game by Barotrauma's creators, is receiving mixed initial reactions from reviewers. Despite a general appreciation for 'apocalypse train' narratives, one reviewer expresses surprising ambivalence towards this latest title. Aspiring players might find its unique blend of co-op survival and horror elements intriguing, but initial impressions suggest a nuanced experience awaits.",
+            "url": "https://www.rockpapershotgun.com/new-frostrail-video-delivers-more-survival-train-horror-shooting-plus-weird-underground-tomb-raider-temples",
+            "category": "Sci & Tech",
+            "date": "2026-02-27T12:01:44Z"
+        },
+        {
+            "title": "Gainers & Losers: Redington, Tejas Networks among 8 stocks in limelight on Friday",
+            "summary": "India's Nifty and Sensex benchmark indices closed with significant losses on Friday due to widespread selling pressure. Key sectors like Auto, financials, and FMCG experienced major declines, reflecting broad market weakness. However, the IT sector saw some selective buying, indicating a mixed performance despite the overall downturn. This market trend signifies current economic sentiments.",
+            "url": "https://m.economictimes.com/markets/stocks/news/gainers-amp-losers-redington-tejas-networks-vishal-mega-mart-among-8-stocks-in-limelight-on-friday/slideshow/128846900.cms",
+            "category": "National",
+            "date": "2026-02-27T11:20:00Z"
+        },
+        {
+            "title": "Watch: This teen innovator from Gujarat has designed a life-saving device for fighter jets, DRDO takes notice",
+            "summary": "A 17-year-old aeronautical engineering student from Vadodara has garnered attention from India's top defence research agency. He developed a simple mechanical system designed to significantly improve and simplify fighter jet ejection mechanisms. This innovation holds potential for enhancing pilot safety and efficiency in critical situations, showcasing a promising national contribution to defence technology from a young talent.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/watch-this-teen-innovator-from-gujarat-has-designed-a-life-saving-device-for-fighter-jets-drdo-takes-notice/articleshow/128846460.cms",
+            "category": "Defence",
+            "date": "2026-02-27T11:14:57Z"
+        },
+        {
+            "title": "Sam\u2019s Links: February Edition",
+            "summary": "Sam Enright, an innovation policy expert at Dublin's Progress Ireland think tank and editor of The Fitzwilliam, actively shares insights on his blog. His work focuses on shaping national policies for innovation, crucial for Ireland's economic growth and strategic development. While specific topics aren't detailed, his contributions likely inform national progress and future capabilities, relevant for understanding national strategies and self-reliance.",
+            "url": "https://www.econlib.org/econlog/sams-links-february-2026/",
+            "category": "National",
+            "date": "2026-02-27T11:00:48Z"
+        },
+        {
+            "title": "Emma Roberts to Star in BRIDE WARS Reimagination For TV at Peacock",
+            "summary": "Actress Emma Roberts, known for roles in \"American Horror Story,\" is slated to both star in and executive produce an upcoming television series. This new project will serve as a reimagining of the 2009 romantic comedy film \"Bride Wars.\" The development signifies a dual role for Roberts in TV production and reflects the ongoing trend of adapting popular films for new series.",
+            "url": "https://geektyrant.com/news/emma-roberts-to-star-in-bride-wars-reimagination-for-tv-at-peacock",
+            "category": "International",
+            "date": "2026-02-27T11:00:00Z"
         }
     ]
 }
