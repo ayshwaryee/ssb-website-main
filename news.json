@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-02-27T18:35:13.410326+00:00",
+    "last_updated": "2026-02-28T01:25:19.741436+00:00",
     "articles": [
         {
-            "title": "Maroof Raza, ex-Army officer, defence expert and Indo-Pak commentator, passes away after battling illness",
-            "summary": "Major Maroof Raza, a revered retired Indian Army officer and prominent defence analyst, has passed away. His demise signifies the end of an influential era in India's televised strategic commentary. Widely respected for his deep expertise in national security affairs, Raza's contributions provided crucial insights into defence strategies, a valuable resource for aspiring officers to understand geopolitical dynamics.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/maroof-raza-ex-army-officer-defence-expert-and-indo-pak-commentator-passes-away-after-battling-illness/articleshow/128822637.cms",
+            "title": "Pakistan carries out airstrikes in Kabul and Afghan provinces after cross-border clashes",
+            "summary": "Pakistan conducted airstrikes in Afghanistan's Kabul and other provinces early Friday, responding to a prior cross-border attack by Afghanistan. This reciprocal military action highlights escalating tensions and ongoing border disputes between the two nations. Such developments are crucial for understanding regional security dynamics and international relations.",
+            "url": "https://www.thehindubusinessline.com/news/world/pakistan-carries-out-airstrikes-in-kabul-and-afghan-provinces-after-cross-border-clashes/article70682402.ece",
+            "category": "International",
+            "date": "2026-02-27T01:03:08Z"
+        },
+        {
+            "title": "6 Best Derek Carr Landing Spots as QB Nears NFL Return",
+            "summary": "NFL player Derek Carr, who retired last season due to a debilitating labral tear in his shoulder, is reportedly serious about a comeback. Lingering pain forced his earlier retirement, but insights from NFL insider Jordan Schultz suggest a strong belief in his potential return to professional football. This development highlights player resilience and recovery in elite sports.",
+            "url": "https://sportsnaut.com/nfl/derek-carr-landing-spots-as-qb-nears-nfl-return",
+            "category": "National",
+            "date": "2026-02-27T00:38:36Z"
+        },
+        {
+            "title": "Pakistan bombs Kabul after Afghanistan attacks border",
+            "summary": "Pakistan launched airstrikes on Afghanistan's Kabul and Kandahar cities, following an Afghan forces' attack on Pakistani border troops. The Taliban government justified their actions as retaliation for prior deadly Pakistani airstrikes. This escalating exchange signifies worsening cross-border tensions and military engagements between the two nations, demanding close monitoring for regional security implications.",
+            "url": "https://economictimes.indiatimes.com/news/defence/pakistan-bombs-kabul-after-afghanistan-attacks-border/articleshow/128833375.cms",
+            "category": "International",
+            "date": "2026-02-27T00:35:23Z"
+        },
+        {
+            "title": "Defence tech Constelli bags $20 million from General Catalyst, others",
+            "summary": "Defence technology startup Constelli secured $20 million (approx. Rs 180-190 crore) in a funding round led by Silicon Valley's General Catalyst. This investment underscores the increasing focus on indigenous defence innovation within India. For SSB aspirants, this signifies the nation's commitment to strengthening its defence capabilities through private sector advancements and technological self-reliance.",
+            "url": "https://economictimes.indiatimes.com/tech/funding/defence-tech-constelli-bags-20-million-from-general-catalyst-others/articleshow/128825815.cms",
             "category": "Defence",
-            "date": "2026-02-26T18:06:48Z"
+            "date": "2026-02-27T00:30:00Z"
         },
         {
-            "title": "Smart Salaam in Jerusalem: Shifting geopolitics prompts a keener approach by India in West Asia",
-            "summary": "Prime Minister Narendra Modi, addressing the Israeli Knesset, affirmed India's unwavering support for Israel. He unequivocally condemned the murder of civilians, stating that no cause can justify such violence. Modi's strong remarks highlight India's diplomatic stance on the ongoing conflict, aligning with Israel while emphasizing the protection of human life and opposition to terrorism in the complex West Asian geopolitical landscape.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/smart-salaam-in-jerusalem-shifting-geopolitics-prompts-a-keener-approach-by-india-in-west-asia/articleshow/128822643.cms",
-            "category": "International",
-            "date": "2026-02-26T18:06:02Z"
-        },
-        {
-            "title": "2G Engineering Introduces Intelligent Solid-State Relay for Extreme Subsea and High-Power DC Applications",
-            "summary": "2G Engineering has launched its intelligent Solid-State Relay (iSSR), a next-generation power switching solution. Designed to offer advanced solid-state technology, the iSSR promises enhanced efficiency and precise control in various electrical systems. This innovation from Sun Prairie, WI, marks a significant step in power management, benefiting industries requiring reliable and sophisticated switching solutions.",
-            "url": "https://www.globenewswire.com/news-release/2026/02/26/3245936/0/en/2G-Engineering-Introduces-Intelligent-Solid-State-Relay-for-Extreme-Subsea-and-High-Power-DC-Applications.html",
-            "category": "Sci & Tech",
-            "date": "2026-02-26T17:29:00Z"
-        },
-        {
-            "title": "Show HN: A WASM to Go Translator",
-            "summary": "This technical process details the conversion of WebAssembly (Wasm) modules into Go source files. The output is a self-contained Go package, using only the standard library. This method allows seamless integration of Wasm functionalities into Go applications, boosting development efficiency and cross-platform compatibility. It represents an advancement in software interoperability, streamlining technical project execution.",
-            "url": "https://github.com/ncruces/wasm2go",
-            "category": "Sci & Tech",
-            "date": "2026-02-26T16:47:09Z"
-        },
-        {
-            "title": "DC Finally Gives Its Most Underrated Green Lantern Their Due",
-            "summary": "The Green Lanterns, prominent DC heroes, are poised for a significant emergence, stepping up in a major way within their universe. Unlike many DC characters who share their heroic mantles, the extensive Green Lantern Corps suggests a broader narrative focus on their unique abilities and diverse roster. This development indicates a heightened importance for the iconic emerald protectors.",
-            "url": "http://comicbook.com/comics/feature/dc-finally-gives-its-most-underrated-green-lantern-their-due/",
-            "category": "Sci & Tech",
-            "date": "2026-02-26T16:30:00Z"
-        },
-        {
-            "title": "Bryan Cranston Changed Malcolm In The Middle's Original Plans For Hal",
-            "summary": "Bryan Cranston, famed for his roles as Hal in \"Malcolm in the Middle\" and the intense Walter White in \"Breaking Bad,\" is reportedly reprising his beloved character Hal. This return marks a significant moment for fans, bringing back the lighter side of Cranston's versatile acting career, which first endeared him to audiences before his dramatic turn.",
-            "url": "https://www.tvline.com/2110051/bryan-cranston-malcolm-in-the-middle-hal-original-plans-changes/",
-            "category": "International",
-            "date": "2026-02-26T16:12:00Z"
+            "title": "J&K to get National Centre of Excellence for winter sports: Mandaviya",
+            "summary": "Sports Minister Mansukh Mandaviya announced the establishment of a National Centre of Excellence for winter sports in Gulmarg, Jammu and Kashmir. This strategic initiative aims to bolster India's global presence in winter sports, nurturing talent from the region, and providing state-of-the-art training facilities. It will significantly contribute to national sports development and promote J&K as a premier winter sports hub.",
+            "url": "https://statetimes.in/jk-to-get-national-centre-of-excellence-for-winter-sports-mandaviya/",
+            "category": "National",
+            "date": "2026-02-26T19:30:59Z"
         },
         {
             "title": "Guide: 50 Best Nintendo 3DS Games Of All Time",
-            "summary": "The Nintendo 3DS, a significant handheld gaming console, is set to celebrate its 15th anniversary on February 26th, 2026, marking its Japanese debut. As the inaugural device in the popular '3DS family of systems,' it pioneered stereoscopic 3D gaming without special glasses and grew substantially, leaving a notable legacy in the gaming industry. Its anniversary highlights its impact on portable entertainment.",
+            "summary": "February 26, 2026, marks the 15th anniversary of the Nintendo 3DS' Japanese debut. As the inaugural system in the evolving '3DS family,' it introduced groundbreaking features and significantly impacted the portable gaming landscape. Its success paved the way for future iterations, solidifying its place as a pivotal console in technology history, enjoyed by millions worldwide.",
             "url": "https://www.nintendolife.com/guides/50-best-nintendo-3ds-games-of-all-time",
             "category": "Sci & Tech",
             "date": "2026-02-26T16:00:00Z"
-        },
-        {
-            "title": "How Islam evolved from its beginnings to now",
-            "summary": "John Tolan's 'Islam: A New History from Muhammad to the Present' offers a sweeping account of the religion's evolution. It details influential figures, sectarian divisions, and its global expansion from Muhammad's time to the present. This comprehensive historical perspective provides crucial insights into a major world religion's development and global impact for SSB aspirants.",
-            "url": "https://blogs.lse.ac.uk/lsereviewofbooks/2026/02/26/book-review-islam-a-new-history-from-muhammad-to-the-present-john-tolan/",
-            "category": "International",
-            "date": "2026-02-26T13:39:35Z"
         }
     ]
 }
