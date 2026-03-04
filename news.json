@@ -1,68 +1,47 @@
 {
-    "last_updated": "2026-03-03T18:40:48.139429+00:00",
+    "last_updated": "2026-03-04T01:42:31.304158+00:00",
     "articles": [
         {
-            "title": "UK PM says US will not use British bases in Cyprus",
-            "summary": "UK Prime Minister Keir Starmer has declared that British military bases in Cyprus will not be used by the United States in its ongoing conflict with Iran. This move, made despite reported U.S. criticism, reflects the UK's strategic decision to avoid direct military involvement in escalating Middle Eastern tensions, underscoring evolving diplomatic and defence stances in the region.",
-            "url": "https://www.hurriyetdailynews.com/uk-pm-says-us-will-not-use-british-bases-in-cyprus-219508",
-            "category": "Defence",
-            "date": "2026-03-02T18:34:24Z"
+            "title": "US embassy in Riyadh hit by drones: Saudi defence ministry",
+            "summary": "Two drones attacked the US embassy in Riyadh, Saudi Arabia, causing a limited fire and material damage. The kingdom's defence ministry confirmed the incident on March 3 via a post on X, citing an initial assessment. This event underscores persistent security threats and regional instability, providing crucial context for understanding geopolitical dynamics.",
+            "url": "https://www.channelnewsasia.com/world/us-embassy-riyadh-hit-drones-iran-conflict-5965686",
+            "category": "International",
+            "date": "2026-03-03T01:23:00Z"
         },
         {
-            "title": "Fans gather for Peaky Blinders premiere in Birmingham",
-            "summary": "Peaky Blinders creator Steven Knight recently unveiled a tram named in his honour, celebrating his significant cultural impact. The tram features striking livery depicting Cillian Murphy as Tommy Shelby, a nod to the iconic series. Knight lauded the 'amazing' design, recognizing the public tribute to his creative work. This event underscores the recognition of prominent figures in national culture.",
-            "url": "https://www.rte.ie/entertainment/2026/0302/1561290-fans-gather-for-premiere-for-peaky-blinders-premiere/",
+            "title": "Satellite images show destruction at huge oil refinery, Iranian nuclear facility",
+            "summary": "Newly released satellite imagery confirms the aftermath of an Iranian drone attack on Saudi Aramco's Ras Tanura refinery, one of the world's largest oil facilities. This incident highlights persistent regional tensions and the evolving threat of drone warfare against critical infrastructure, offering a key case study for understanding contemporary defence challenges.",
+            "url": "https://www.abc.net.au/news/2026-03-03/satellite-images-destruction-at-oil-refinery-iran-nuclear-base/106408822",
+            "category": "Defence",
+            "date": "2026-03-03T01:20:57Z"
+        },
+        {
+            "title": "U.S. Embassy In Riyadh Hit By Drones, Saudi Defense Ministry Says",
+            "summary": "The U.S. embassy in Riyadh, Saudi Arabia, was targeted by two drones on March 3rd, resulting in a limited fire and material damage. Reported by the Saudi defence ministry, this incident underscores ongoing regional security concerns and the vulnerability of diplomatic missions to drone attacks. It signifies potential escalations affecting international interests in the Middle East.",
+            "url": "https://www.huffpost.com/entry/us-embassy-riyadh-hit-drones-saudi-defense-ministry-says_n_69a63432e4b0c9c664ac72ee",
+            "category": "Defence",
+            "date": "2026-03-03T01:14:59Z"
+        },
+        {
+            "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+            "summary": "France has announced plans to significantly boost its nuclear arsenal and extend its nuclear deterrence capability to encompass European allies. This strategic move aims to strengthen European collective security and strategic autonomy. SSB aspirants should consider its implications for NATO's role, European defence integration, and the evolving geopolitical landscape concerning nuclear proliferation and strategic partnerships.",
+            "url": "https://freerepublic.com/focus/f-news/4369022/posts",
+            "category": "Defence",
+            "date": "2026-03-02T23:20:52Z"
+        },
+        {
+            "title": "Big Three pharmacies to close 880 locations...",
+            "summary": "Major US pharmacy chains, including CVS Health, Rite Aid, and Walgreens, are planning to close hundreds of locations nationwide. This widespread closure is attributed to significant industry-wide problems and mounting economic pressures. The move highlights challenges faced by the retail pharmacy sector, potentially impacting access to healthcare services and local economies.",
+            "url": "https://www.the-sun.com/money/16024683/pharmacy-closures-cvs-health-rite-aid-walgreens/",
             "category": "National",
-            "date": "2026-03-02T18:30:08Z"
+            "date": "2026-03-02T23:00:13Z"
         },
         {
-            "title": "Professor in America's most Muslim city blasts Trump for killing 'pure soul' Ayatollah as he vows to 'hold Iranian leader's BLOOD and teach it to our children'",
-            "summary": "A professor in a predominantly Muslim American city vehemently criticized former President Trump, accusing him of killing a \"pure soul\" Iranian leader, likely referencing Qassem Soleimani. The professor vowed to remember the \"blood\" of the Iranian leader, pledging to teach its significance to future generations, reflecting deeply entrenched anti-US sentiment following the controversial incident.",
-            "url": "https://freerepublic.com/focus/f-news/4368980/posts",
-            "category": "International",
-            "date": "2026-03-02T18:28:47Z"
-        },
-        {
-            "title": "Qatar downs Iran warplanes, halts LNG production as Gulf crisis deepens",
-            "summary": "Qatar has reportedly shot down two Iranian fighter jets and subsequently halted its Liquefied Natural Gas (LNG) production. This significant escalation comes in response to Iran's latest strike, as per reports from Doha. The incident signals a sharp rise in tensions between the two Gulf nations, with direct military confrontation and potential global energy implications.",
-            "url": "https://www.hurriyetdailynews.com/qatar-downs-iran-warplanes-halts-lng-production-as-gulf-crisis-deepens-219507",
+            "title": "France to boost nuclear arsenal, involve European allies in deterrence",
+            "summary": "French President Emmanuel Macron announced France will increase its nuclear arsenal and, for the first time, permit temporary deployment of its nuclear-armed aircraft. This strategic decision underscores France's commitment to strengthening its deterrence capabilities amid evolving global security challenges. For SSB aspirants, this highlights significant shifts in European defence policies and international power dynamics, impacting global strategic stability and alliance structures.",
+            "url": "https://www.abc.net.au/news/2026-03-03/macron-france-allow-nuclear-armed-jets-deployment-to-euro-allies/106408404",
             "category": "Defence",
-            "date": "2026-03-02T18:26:00Z"
-        },
-        {
-            "title": "Qatar downs two Iranian jets as Gulf crisis hits LNG, oil facilities",
-            "summary": "A sharply escalating Gulf crisis saw Qatar down two Iranian bombers and halt LNG production. This comes as Iran widened its attacks, targeting oil facilities in Saudi Arabia and the UAE. The situation reflects a serious regional conflict with significant military and economic repercussions, indicating heightened tensions in the Middle East.",
-            "url": "https://punchng.com/qatar-downs-two-iranian-jets-as-gulf-crisis-hits-lng-oil-facilities/",
-            "category": "International",
-            "date": "2026-03-02T18:23:22Z"
-        },
-        {
-            "title": "Trump awards the Medal of Honor to 3 US Army service members in a White House ceremony",
-            "summary": "President Donald Trump honored three U.S. Army soldiers with the prestigious Medal of Honor at the White House. Two of these commendations were awarded posthumously, recognizing their exceptional bravery and sacrifice in service to the nation. This ceremony underscores the highest recognition for military valor, inspiring future aspirants towards selfless duty and commitment.",
-            "url": "https://abcnews.com/US/wireStory/trump-awards-medal-honor-3-us-army-service-130678582",
-            "category": "Defence",
-            "date": "2026-03-02T18:18:56Z"
-        },
-        {
-            "title": "Fantasy Basketball Week 20 Start/Sit: Trusting Reed Sheppard with the playoffs on the line",
-            "summary": "The article discusses Week 20 of a fantasy sports league, detailing the crucial playoff period where many participants are either nearing qualification or have already secured their spot. It highlights the typical schedule and the difficult roster decisions players face as they navigate towards the championship phase, emphasizing strategic planning for success in the league.",
-            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-20-startsit/",
-            "category": "National",
-            "date": "2026-03-02T18:06:59Z"
-        },
-        {
-            "title": "Pakistan's UN post in Skardu torched amid pro-Iran unrest",
-            "summary": "Pakistan, a staunch advocate for expanding and strengthening the UN Military Observers Group in India and Pakistan (UNMOGIP), recently faced a diplomatic setback. Despite consistent efforts to broaden UNMOGIP's mandate, Pakistan failed to advance its agenda, highlighting challenges in influencing the UN observer mission concerning the India-Pakistan border.",
-            "url": "https://economictimes.indiatimes.com/news/defence/pakistans-un-post-in-skardu-torched-amid-pro-iran-unrest/articleshow/128953176.cms",
-            "category": "International",
-            "date": "2026-03-02T18:06:45Z"
-        },
-        {
-            "title": "France to increase nuclear warheads, lend nuclear aircraft to Europe allies",
-            "summary": "French President Macron announced France will increase its nuclear warheads and temporarily deploy nuclear-armed aircraft to eight European nations. This move aims to bolster European defence and deterrence capabilities, signaling a strengthened commitment to nuclear security amidst evolving geopolitical landscapes. It underscores France's role in NATO's strategic posture.",
-            "url": "https://www.aljazeera.com/news/2026/3/2/france-to-increase-nuclear-warheads-lend-nuclear-aircraft-to-europe-allies",
-            "category": "Defence",
-            "date": "2026-03-02T17:59:01Z"
+            "date": "2026-03-02T22:51:24Z"
         }
     ]
 }
