@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-03-05T01:45:30.161162+00:00",
+    "last_updated": "2026-03-05T06:44:19.032936+00:00",
     "articles": [
         {
-            "title": "CENTCOM commander: Nearly 2,000 Iranian targets struck in Operation Epic Fury",
-            "summary": "US Central Command Commander Admiral Brad Cooper provided an update on 'Operation Epic Fury', confirming extensive strikes by the United States and its partners. This highlights ongoing multinational military operations, emphasizing international cooperation in maintaining regional security. Such updates are crucial for understanding global defence strategies and the role of allied forces in addressing threats.",
-            "url": "https://www.israelnationalnews.com/news/423335",
-            "category": "Defence",
-            "date": "2026-03-04T01:16:21Z"
+            "title": "Union Minister for Communications launches Tejas Networks' hyper-scalable Data Center Interconnect (DCI) platform at Mobile World Congress",
+            "summary": "Tejas Networks launched its next-generation TJ1600-D3, a versatile WDM (Wavelength Division Multiplexing) system. This advanced technology is vital for optimizing high-capacity data transmission over optical fiber networks. Such innovations significantly enhance India's digital communication infrastructure, supporting national development, critical sectors, and potentially robust command-and-control systems, aligning with 'Digital India' initiatives for a stronger nation.",
+            "url": "https://www.prnewswire.co.uk/news-releases/union-minister-for-communications-launches-tejas-networks-hyper-scalable-data-center-interconnect-dci-platform-at-mobile-world-congress-302703514.html",
+            "category": "Sci & Tech",
+            "date": "2026-03-04T06:26:00Z"
         },
         {
-            "title": "Iran missile and drone barrages create dilemma for Gulf states",
-            "summary": "Saudi Arabia has escalated its military readiness in response to recent attacks attributed to Iran. Sources suggest potential military retaliation if Saudi oil infrastructure is targeted. This situation highlights the critical importance of regional stability, strategic resource protection, and rapid defence response capabilities amidst heightened Middle Eastern tensions for any aspiring officer.",
-            "url": "https://www.channelnewsasia.com/world/iran-war-gulf-states-hit-response-uae-saudi-arabia-qatar-5968656",
+            "title": "Oil Jumps Again as US Escort Plan for Hormuz Fails to Bring Calm",
+            "summary": "Oil prices rose due to new attacks in the Middle East, intensifying regional instability. This rise is also influenced by a US plan to insure and escort tankers through the strategically vital Strait of Hormuz. The US initiative aims to secure global oil supply lines and ensure safe passage through this critical waterway, highlighting maritime security challenges.",
+            "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-again-as-us-escort-plan-for-hormuz-fails-to-bring-calm",
+            "category": "Defence",
+            "date": "2026-03-04T05:59:17Z"
+        },
+        {
+            "title": "US, Israel Vow No Letup And 'A Lot Of Hurt' As Campaign Against Iran Intensifies",
+            "summary": "US President Trump announced \"big-scale hitting\" against Iran after Iranian defensive assets were reportedly destroyed. A US commander confirmed an initial attack on Iran, signaling a significant military escalation. This points to an intensifying international conflict between the US and Iran, underscoring critical geopolitical developments and global security impacts.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260304-rferl01.htm",
             "category": "International",
-            "date": "2026-03-04T01:14:23Z"
+            "date": "2026-03-04T05:31:20Z"
         }
     ]
 }
