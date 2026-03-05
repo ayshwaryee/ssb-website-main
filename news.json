@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-03-05T06:44:19.032936+00:00",
+    "last_updated": "2026-03-05T12:51:11.686631+00:00",
     "articles": [
         {
-            "title": "Union Minister for Communications launches Tejas Networks' hyper-scalable Data Center Interconnect (DCI) platform at Mobile World Congress",
-            "summary": "Tejas Networks launched its next-generation TJ1600-D3, a versatile WDM (Wavelength Division Multiplexing) system. This advanced technology is vital for optimizing high-capacity data transmission over optical fiber networks. Such innovations significantly enhance India's digital communication infrastructure, supporting national development, critical sectors, and potentially robust command-and-control systems, aligning with 'Digital India' initiatives for a stronger nation.",
-            "url": "https://www.prnewswire.co.uk/news-releases/union-minister-for-communications-launches-tejas-networks-hyper-scalable-data-center-interconnect-dci-platform-at-mobile-world-congress-302703514.html",
-            "category": "Sci & Tech",
-            "date": "2026-03-04T06:26:00Z"
-        },
-        {
-            "title": "Oil Jumps Again as US Escort Plan for Hormuz Fails to Bring Calm",
-            "summary": "Oil prices rose due to new attacks in the Middle East, intensifying regional instability. This rise is also influenced by a US plan to insure and escort tankers through the strategically vital Strait of Hormuz. The US initiative aims to secure global oil supply lines and ensure safe passage through this critical waterway, highlighting maritime security challenges.",
-            "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-again-as-us-escort-plan-for-hormuz-fails-to-bring-calm",
+            "title": "Missile launched from Iran towards T\u00fcrkiye destroyed: Ankara",
+            "summary": "NATO air defence systems successfully intercepted and destroyed a missile launched from Iran, heading for Turkish airspace via Iraq and Syria. This incident highlights ongoing regional tensions and the critical role of collective defence alliances like NATO in safeguarding member nations. It underscores the importance of robust air defence capabilities and international cooperation against cross-border threats.",
+            "url": "https://www.channelnewsasia.com/world/missile-launched-iran-towards-turkiye-destroyed-ankara-5970686",
             "category": "Defence",
-            "date": "2026-03-04T05:59:17Z"
+            "date": "2026-03-04T12:51:00Z"
         },
         {
-            "title": "US, Israel Vow No Letup And 'A Lot Of Hurt' As Campaign Against Iran Intensifies",
-            "summary": "US President Trump announced \"big-scale hitting\" against Iran after Iranian defensive assets were reportedly destroyed. A US commander confirmed an initial attack on Iran, signaling a significant military escalation. This points to an intensifying international conflict between the US and Iran, underscoring critical geopolitical developments and global security impacts.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260304-rferl01.htm",
+            "title": "Chinese cable project opposed by US sparks row in Chile",
+            "summary": "The US has expressed significant concerns over a proposed Chinese undersea fiber optic cable designed to link Asia with South America. This issue led to a diplomatic spat with Chile's outgoing government. The US likely fears potential security implications and China's expanding geopolitical influence through critical digital infrastructure, highlighting escalating international competition for technological and regional dominance.",
+            "url": "https://www.spacewar.com/reports/Chinese_cable_project_opposed_by_US_sparks_row_in_Chile_999.html",
             "category": "International",
-            "date": "2026-03-04T05:31:20Z"
+            "date": "2026-03-04T12:50:08Z"
+        },
+        {
+            "title": "Europe reacts to Macron's atomic offer",
+            "summary": "French President Emmanuel Macron announced that France is considering deploying nuclear-armed aircraft to allied European nations for the first time. This unprecedented move aims to bolster European defence capabilities and signifies a potential shift in France's nuclear doctrine. Macron's invitation to eight European countries underscores a collaborative effort to strengthen regional security amidst evolving geopolitical landscapes.",
+            "url": "https://www.spacewar.com/reports/Europe_reacts_to_Macrons_atomic_offer_999.html",
+            "category": "Defence",
+            "date": "2026-03-04T12:50:08Z"
+        },
+        {
+            "title": "Saudi Arabia intercepts drone attack targeting huge refinery: defence ministry",
+            "summary": "Saudi Arabia's defence ministry successfully intercepted a drone attack targeting its massive Ras Tanura oil refinery. This incident underscores the persistent regional security challenges and the critical importance of robust air defence systems in safeguarding vital energy infrastructure. For SSB aspirants, it highlights the continuous need for advanced military preparedness and strategic asset protection against evolving threats.",
+            "url": "https://www.spacewar.com/reports/Saudi_Arabia_intercepts_drone_attack_targeting_huge_refinery_defence_ministry_999.html",
+            "category": "Defence",
+            "date": "2026-03-04T12:50:08Z"
+        },
+        {
+            "title": "France to boost nuclear arsenal, could deploy atomic weapons to European allies",
+            "summary": "French President Emmanuel Macron announced plans to expand France's atomic arsenal, including the potential deployment of nuclear-armed aircraft. This strategic decision reinforces France's commitment to strengthening its defence capabilities and maintaining nuclear deterrence in a shifting global security environment. For SSB aspirants, this highlights the critical role of nuclear power in national defence strategies and international geopolitical dynamics, emphasizing ongoing military modernization efforts.",
+            "url": "https://www.spacewar.com/reports/France_to_boost_nuclear_arsenal_could_deploy_atomic_weapons_to_European_allies_999.html",
+            "category": "Defence",
+            "date": "2026-03-04T12:50:08Z"
+        },
+        {
+            "title": "Turkey says NATO defences destroyed missile from Iran headed toward its airspace",
+            "summary": "NATO air and missile defence systems in the eastern Mediterranean successfully intercepted and destroyed a ballistic missile fired from Iran. The missile was neutralized as it entered Turkish airspace, after traversing Syria and Iraq. This incident demonstrates NATO's robust defence capabilities and highlights ongoing regional tensions, emphasizing the importance of airspace security for member states.",
+            "url": "https://economictimes.indiatimes.com/news/defence/turkey-says-nato-defences-destroyed-missile-from-iran-headed-toward-its-airspace/articleshow/129026298.cms",
+            "category": "Defence",
+            "date": "2026-03-04T12:16:07Z"
+        },
+        {
+            "title": "NATO defences destroy missile fired from Iran over Mediterranean: Turkiye",
+            "summary": "NATO air defence systems successfully destroyed a ballistic missile fired from Iran, which was en route to Turkish airspace after traversing Syria and Iraq. The Turkish Ministry of Defence confirmed this crucial interception. This incident underscores the heightened regional tensions and demonstrates NATO's readiness and capabilities in protecting its member states from external threats, highlighting the critical role of integrated air defence in maintaining regional security.",
+            "url": "https://www.aljazeera.com/news/2026/3/4/nato-defences-destroy-missile-fired-from-iran-over-mediterranean-turkiye",
+            "category": "Defence",
+            "date": "2026-03-04T12:12:21Z"
+        },
+        {
+            "title": "Iranian ships and submarines that destroyed America before IRIS Dena",
+            "summary": "Reports confirm the IRIS Dena, an Iranian armed warship, was attacked and destroyed today near Galle, Sri Lanka. This incident also indicates that several other Iranian Navy vessels were involved. The nature of the attack and the status of the other ships are under investigation, pointing to a significant naval engagement in international waters. This raises concerns about maritime security.",
+            "url": "https://english.gossiplankanews.com/2026/03/iranian-ships-and-submarines-that.html",
+            "category": "Defence",
+            "date": "2026-03-04T11:50:23Z"
         }
     ]
 }
