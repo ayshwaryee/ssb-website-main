@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-03-06T06:40:46.926008+00:00",
+    "last_updated": "2026-03-06T12:43:29.289030+00:00",
     "articles": [
         {
-            "title": "Ukraine\u2019s F-16 jets were starved of US-made missiles for weeks",
-            "summary": "Ukrainian F-16 fighter jets reportedly suffered a critical missile shortage for over three weeks, severely hampering their ability to counter Russian drones and missiles. Supplies from Kyiv's international partners had dried up precisely as Moscow was preparing a major offensive. This incident underscores the significant logistical and strategic challenges faced by Ukraine in sustaining its air defence capabilities amidst the ongoing conflict.",
-            "url": "https://www.thehindubusinessline.com/news/world/ukraines-f-16-jets-were-starved-of-us-made-missiles-for-weeks/article70706171.ece",
+            "title": "Macron\u2019s Plan with France\u2019s Nuclear Arsenal Threatens Europe\u2019s Security",
+            "summary": "Amid reports of US and Israeli airstrikes on Iran over alleged nuclear weapon development, French President Emmanuel Macron is strategizing to manage this international escalation. Concurrently, Macron is focused on strengthening France's own nuclear defence capabilities. This dual approach highlights a critical juncture in global security, emphasizing nuclear deterrence and the need for diplomatic de-escalation in a volatile geopolitical environment.",
+            "url": "https://www.globalresearch.ca/macron-plan-france-nuclear-arsenal-threatens-europe-security/5917931",
             "category": "Defence",
-            "date": "2026-03-05T06:36:50Z"
+            "date": "2026-03-05T12:40:15Z"
         },
         {
-            "title": "Iran denies firing missile towards Turkiye after NATO interception",
-            "summary": "Iran's Armed Forces have vehemently denied allegations of firing any missiles towards Turkish territory. Via state media, they emphasized Iran's deep respect for Turkiye's sovereignty, refuting claims of military action. This statement clarifies Iran's stance amidst regional geopolitical tensions, reiterating its commitment to maintaining peaceful relations and respecting its neighbor's territorial integrity, addressing reports of potential engagement.",
-            "url": "https://www.aljazeera.com/news/2026/3/5/iran-denies-firing-missile-towards-turkiye-after-nato-interception",
-            "category": "International",
-            "date": "2026-03-05T06:24:58Z"
-        },
-        {
-            "title": "arvak 1.9.1",
-            "summary": "The provided text is an error message, not a news article. It indicates that a required website component failed to load, possibly due to browser extensions, network issues, or browser settings. Users are advised to check their connection, disable ad blockers, or try an alternative browser to resolve the problem and access the site's content.",
-            "url": "https://pypi.org/project/arvak/1.9.1/",
+            "title": "Lanterns Drops Early, The Boys, Firefly & More: BCTV Daily Dispatch",
+            "summary": "The BCTV Daily Dispatch highlights a range of popular television shows and streaming content, including titles like 'Firefly', 'SNL', 'The Boys', 'Doctor Who', and 'Game of Thrones'. This dispatch covers the entertainment industry, focusing on updates across various TV series and streaming platforms, indicating trends in digital media consumption.",
+            "url": "https://bleedingcool.com/tv/lanterns-drops-early-the-boys-firefly-more-bctv-daily-dispatch/",
             "category": "Sci & Tech",
-            "date": "2026-03-05T06:00:16Z"
+            "date": "2026-03-05T12:37:08Z"
+        },
+        {
+            "title": "Wary European states pledge military aid for Cyprus, Gulf",
+            "summary": "Amid escalating US-Israeli tensions involving Iran, the Gulf region is experiencing travel disruptions. Airlines have resumed limited flights, while various governments are chartering planes to facilitate citizen movement. European countries, wary of direct involvement in the conflict, are closely monitoring the volatile situation. This highlights the broad geopolitical impact and the cautious international response to the regional instability.",
+            "url": "https://www.digitaljournal.com/world/wary-european-states-pledge-military-aid-for-cyprus-gulf/article",
+            "category": "Defence",
+            "date": "2026-03-05T12:27:20Z"
+        },
+        {
+            "title": "How to charge your electric car/scooter safely at home: Simple tips",
+            "summary": "This news highlights practical guidance for safely charging electric vehicles and scooters at home, emphasizing crucial precautions for users. It also references an upcoming article on International Women's Day 2026, exploring its historical significance. These diverse topics cover both critical technological safety practices and important social awareness, relevant for general knowledge.",
+            "url": "https://timesofindia.indiatimes.com/auto/advice-centre/how-to-charge-your-electric-car/scooter-safely-at-home-simple-tips/articleshow/129090579.cms",
+            "category": "Sci & Tech",
+            "date": "2026-03-05T12:25:32Z"
+        },
+        {
+            "title": "US Submarine Sinks Iran Ship as War Spreads Across Middle East",
+            "summary": "The United States and Israel are reportedly targeting Iran's military, leadership, and internal security forces, marking a significant escalation and spread of the ongoing Middle East conflict. This development highlights increasing regional tensions and complex geopolitical dynamics, crucial for SSB aspirants to understand regarding international security and military affairs.",
+            "url": "https://www.today.com/video/us-uses-torpedo-to-sink-iran-navy-ship-for-first-time-since-wwii-258744901622",
+            "category": "International",
+            "date": "2026-03-05T12:19:26Z"
+        },
+        {
+            "title": "LANTERNS Trailer: Grounded First Look Receives A Mixed Response - But Are Fans Overreacting?",
+            "summary": "DC Studios officially released the first teaser for its highly anticipated DCU series, 'Lanterns,' offering fans a glimpse into the new show. The footage, which had previously leaked online, provides an initial look at the long-awaited project. This digital content release marks a significant moment for the DC Universe franchise, generating considerable excitement among its global fanbase and leveraging modern distribution technology.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-trailer-grounded-first-look-receives-a-mixed-response---but-are-fans-overreacting-a226694",
+            "category": "Sci & Tech",
+            "date": "2026-03-05T12:15:00Z"
+        },
+        {
+            "title": "The Morning Report \u2014 3/5/26",
+            "summary": "An ongoing military campaign is active around Iran, marking a significant naval development. An enemy warship was successfully sunk by a torpedo launched from a submarine, a feat not achieved since a major historical conflict. This event underscores the evolving landscape of naval warfare, emphasizing the critical role of submarine capabilities and advanced weaponry in contemporary military operations, offering valuable insights for defence aspirants.",
+            "url": "https://acecomments.mu.nu/?post=418767",
+            "category": "Defence",
+            "date": "2026-03-05T12:10:00Z"
+        },
+        {
+            "title": "Rupee rebounds from lowest level to settle 45 paise higher at 91.60 per $",
+            "summary": "The Indian Rupee strengthened against the US dollar, gaining 45 paise to settle at 91.60 on Thursday. This rebound was primarily driven by a positive buying trend in domestic equity markets, reflecting improved investor confidence. For an SSB aspirant, understanding such currency movements is key as they indicate the nation's economic stability and financial health.",
+            "url": "https://www.thehindubusinessline.com/markets/forex/rupee-rebounds-from-lowest-level-to-settle-45-paise-higher-at-9160-per/article70707005.ece",
+            "category": "National",
+            "date": "2026-03-05T10:45:02Z"
         }
     ]
 }
