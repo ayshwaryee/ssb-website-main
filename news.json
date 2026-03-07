@@ -1,68 +1,40 @@
 {
-    "last_updated": "2026-03-06T18:37:35.410451+00:00",
+    "last_updated": "2026-03-07T01:28:38.943304+00:00",
     "articles": [
         {
-            "title": "The splurge-worthy biohacking tools Gary Brecka swears by \u2014 including what he spent $250K on",
-            "summary": "Wealthy individuals are increasingly investing heavily in biohacking, spending significant sums in their quest for extended longevity and youthful vitality. Despite many effective biohacks being free, these health-conscious 'high rollers' are exploring advanced, often expensive, methods to optimize their biological functions. This trend highlights a growing pursuit of personalized health optimization through cutting-edge scientific and technological interventions.",
-            "url": "https://nypost.com/2026/03/05/health/gary-breckas-top-five-luxury-biohacking-tools/",
-            "category": "Sci & Tech",
-            "date": "2026-03-05T18:24:16Z"
-        },
-        {
-            "title": "Will the Iran war go global?",
-            "summary": "This article, originally featured in The Conversation UK\u2019s World Affairs Briefing email, encourages subscriptions for weekly analysis on international relations. While the excerpt doesn't detail the full article's content, its origin signifies a focus on global developments crucial for SSB aspirants to understand current geopolitical dynamics.",
-            "url": "https://theconversation.com/will-the-iran-war-go-global-277680",
-            "category": "International",
-            "date": "2026-03-05T18:24:00Z"
-        },
-        {
-            "title": "Cloudflare rewrites Next.js as AI rewrites commercial open source",
-            "summary": "Gergely is offering a bonus, free issue of \"The Pragmatic Engineer's The Pulse\" newsletter. This edition, originally released to paying subscribers last week, now provides a wider audience access to its content. Aspirants can find this a good example of industry-specific updates, likely covering engineering insights and technological developments relevant to innovation.",
-            "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-cloudflare-rewrites-nextjs",
-            "category": "Sci & Tech",
-            "date": "2026-03-05T18:21:29Z"
-        },
-        {
-            "title": "Su-30MKI goes missing after takeoff from IAF\u2019s Jorhat base, search on",
-            "summary": "This provided text is website boilerplate, not news. It includes a call to follow on social media, copyright details for Bennett, Coleman & Co. Ltd. extending to 2026, and a reference to Times Syndication Service for reprint rights. Lacking any actual news content or current affairs, it offers no substantive information for an SSB aspirant's analysis.",
-            "url": "https://timesofindia.indiatimes.com/city/guwahati/su-30mki-goes-missing-after-takeoff-from-iafs-jorhat-base-search-on/articleshow/129107488.cms",
-            "category": "National",
-            "date": "2026-03-05T18:18:01Z"
-        },
-        {
-            "title": "Why did the U.S. sink the Iranian warship? #world",
-            "summary": "A U.S. attack submarine recently sank an Iranian frigate in the Indian Ocean following coordinated strikes by the United States and Israel inside Iran. This naval engagement marks a significant escalation amidst ongoing regional tensions. Aspirants should note the implications of such incidents for international relations and maritime security, especially concerning vital waterways and geopolitical stability.",
-            "url": "https://alltoc.com/world/why-did-the-u-s-sink-the-iranian-warship",
+            "title": "Su-30MKI fighter jet crashes in Assam; IAF search operations underway",
+            "summary": "An Indian Air Force Sukhoi Su-30MKI fighter jet crashed in Assam's Karbi Anglong district during a routine training mission. Search operations have been initiated in the area to locate the aircraft and crew. Such incidents are critical for the IAF, prompting thorough investigations into operational safety protocols to prevent future occurrences and ensure the well-being of its personnel.",
+            "url": "https://economictimes.indiatimes.com/news/defence/su-30mki-fighter-jet-crashes-during-training-mission-in-assams-karbi-anglong-iaf-says/articleshow/129124645.cms",
             "category": "Defence",
-            "date": "2026-03-05T18:15:17Z"
+            "date": "2026-03-06T01:12:02Z"
         },
         {
-            "title": "That sinking feeling about Trump regime",
-            "summary": "An Iranian navy frigate, IRIS Dena, recently sank in the Indian Ocean's littoral space. This significant incident is highlighted for challenging conventional strategic logic, including both US military doctrine and the fundamental principles of modern warfare. The event prompts a re-evaluation of naval strategy and operational realities in the region.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/that-sinking-feeling-about-trump-regime/articleshow/129107261.cms",
+            "title": "How US sinking of Iranian warship blew hole in Modi\u2019s \u2018guardian\u2019 claims",
+            "summary": "In late October, Prime Minister Narendra Modi, in Navy uniform, addressed India's 'sea warriors' in New Delhi. He outlined national maritime strategies, emphasizing the Indian Navy's crucial role in safeguarding national interests and ensuring regional stability. His address highlighted India's commitment to bolstering its naval power and preparedness, a key development for SSB aspirants.",
+            "url": "https://www.aljazeera.com/features/2026/3/6/how-us-sinking-of-iranian-warship-blew-hole-in-modis-guardian-claims",
             "category": "Defence",
-            "date": "2026-03-05T18:13:00Z"
+            "date": "2026-03-06T01:09:29Z"
         },
         {
-            "title": "New Star Wars figures by Hasbro based on the upcoming Darth Maul series up for preorder",
-            "summary": "This article outlines the operational strategy of a website named 'Super Punch', urging visitors to subscribe to its newsletter. It clarifies the site's revenue model, stating it earns as an Amazon Associate from qualifying purchases and encourages user support through purchases via Amazon and eBay affiliate links. This details the platform's method of generating income from its online presence.",
-            "url": "https://www.superpunch.net/2026/03/new-star-wars-figures-by-hasbro-based.html",
-            "category": "Sci & Tech",
-            "date": "2026-03-05T18:12:00Z"
+            "title": "Three Australians were aboard US submarine that sunk Iranian ship, PM Albanese says",
+            "summary": "Australian Prime Minister Anthony Albanese confirmed that three Australian defence personnel were present on a United States submarine. This US submarine was reported to have sunk an Iranian warship using a torpedo. The statement highlights the involvement of Australian forces in a major international naval incident, underscoring joint defence operations and potential geopolitical ramifications.",
+            "url": "https://www.thestar.com.my/news/world/2026/03/06/three-australians-were-aboard-us-submarine-that-sunk-iranian-ship-pm-albanese-says",
+            "category": "Defence",
+            "date": "2026-03-06T01:09:00Z"
         },
         {
-            "title": "Gold tumbles below $5,100 on strong US Dollar, Treasury yields",
-            "summary": "Gold prices fell to a two-day low, erasing previous gains, as precious metals were pressured by high US Treasury yields and a strong US Dollar. Robust US jobs data underpinned the dollar's strength, making non-yielding gold less attractive for investors globally. This reflects the interplay of international economic indicators influencing commodity markets.",
-            "url": "https://www.fxstreet.com/news/gold-tumbles-below-5-100-on-strong-us-dollar-treasury-yields-202603051809",
+            "title": "Iran launches heavy attacks on Qatar and continues airstrikes on Middle East neighbors",
+            "summary": "Iran reportedly launched extensive airstrikes across the Middle East, including its largest barrage targeting Qatar, alongside continued attacks on Tel Aviv and other Gulf states. This significant escalation underscores heightened regional instability and potential for broader conflict, crucial for SSB aspirants to understand regarding geopolitical dynamics and security implications.",
+            "url": "https://nypost.com/2026/03/05/world-news/iran-launches-heavy-attacks-on-qatar-and-continues-airstrikes-on-middle-east-neighbors/",
             "category": "International",
-            "date": "2026-03-05T18:09:49Z"
+            "date": "2026-03-06T01:06:41Z"
         },
         {
-            "title": "Lanterns Teaser Was Exactly What We Expected (That's a Good Thing)",
-            "summary": "HBO Max has unveiled the first teaser for its anticipated new series 'Lanterns,' starring Aaron Pierre and Kyle Chandler. Developed by acclaimed creators Chris Mundy, Damon Lindelof, and Tom King, the show is expected to be a significant comic-book adaptation, likely set within the popular Green Lantern universe, offering fans an initial glimpse into its storyline.",
-            "url": "https://bleedingcool.com/tv/lanterns-teaser-was-exactly-what-we-expected-thats-a-good-thing/",
+            "title": "Reports on US using Indian ports in Iran war fake: MEA",
+            "summary": "India firmly refuted \"baseless and fabricated\" claims that the United States was using Indian ports to launch strikes against Iran. The External Affairs Ministry's statement in New Delhi addresses allegations of India's potential involvement in military actions, underscoring its stance on regional conflicts. This diplomatic clarification aims to dispel misinformation and maintain India's international position.",
+            "url": "https://economictimes.indiatimes.com/news/defence/reports-on-us-using-indian-ports-in-iran-war-fake-mea/articleshow/129110521.cms",
             "category": "International",
-            "date": "2026-03-05T16:37:08Z"
+            "date": "2026-03-06T00:21:00Z"
         }
     ]
 }
