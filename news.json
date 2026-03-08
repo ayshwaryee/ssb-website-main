@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-03-08T01:46:14.631164+00:00",
+    "last_updated": "2026-03-08T06:36:55.870471+00:00",
     "articles": [
         {
-            "title": "Saudi Arabia says intercepted attacks at air base, oil field",
-            "summary": "Saudi Arabia reported intercepting a ballistic missile aimed at an air base hosting US military personnel, part of ongoing regional escalations. This comes as Iran intensifies its attacks across the Gulf, underscoring persistent geopolitical tensions and military confrontations in the Middle East. The incident highlights the complex security landscape and strategic importance of these military installations.",
-            "url": "https://www.thestar.com.my/news/world/2026/03/07/saudi-arabia-says-intercepted-attacks-at-air-base-oil-field",
-            "category": "International",
-            "date": "2026-03-07T01:45:00Z"
-        },
-        {
-            "title": "'Equal work, equal pay' applies only within same institution: Madras high court",
-            "summary": "Madras High Court ruled 'equal work, equal pay' applies only within the same institution. This clarifies that wage parity comparisons are restricted to roles and responsibilities within an identical organizational structure, not across different entities. This legal precedent is crucial for understanding employment law and rights in India.",
-            "url": "https://timesofindia.indiatimes.com/india/equal-work-equal-pay-applies-only-within-same-institution-madras-high-court/articleshow/129188281.cms",
-            "category": "National",
-            "date": "2026-03-07T01:21:35Z"
-        },
-        {
-            "title": "PM Modi: Make our agriculture export-oriented",
-            "summary": "Iran has reportedly launched massive strikes targeting US military bases across the Gulf region, specifically mentioning Qatar, UAE, and Kuwait. Viral footage suggests Iranian missiles impacting American installations in the Middle East, indicating significant escalating tensions and direct confrontation between Iran and the United States in the region.",
-            "url": "https://timesofindia.indiatimes.com/india/pm-modi-make-our-agriculture-export-oriented/articleshow/129187993.cms",
+            "title": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar",
+            "summary": "Saudi Arabia's Ministry of Defense successfully intercepted and destroyed two ballistic missiles targeting Prince Sultan Air Base in al-Kharj. This incident highlights persistent regional tensions, particularly amid broader geopolitical dynamics involving the United States, Israel, and Iran. Such events underscore the critical importance of robust air defense systems and geopolitical awareness for understanding West Asian security.",
+            "url": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar",
             "category": "Defence",
-            "date": "2026-03-07T01:12:11Z"
+            "date": "2026-03-07T06:07:22Z"
         },
         {
-            "title": "Middle East tensions: 13 flights bring stranded flyers from Gulf to Mumbai",
-            "summary": "Amid escalating tensions in the Middle East, marked by significant actions from Iran, India has launched an effort to repatriate its citizens. Thirteen flights have successfully brought stranded flyers from various Gulf nations to Mumbai. This demonstrates the profound impact of regional geopolitical instability on international travel and highlights India's proactive measures to ensure the safety and return of its diaspora during global crises.",
-            "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-13-flights-bring-stranded-flyers-from-gulf-to-mumbai/articleshow/129187829.cms",
-            "category": "International",
-            "date": "2026-03-07T01:06:59Z"
-        },
-        {
-            "title": "Statement by Russian Defence Ministry",
-            "summary": "A significant prisoner exchange occurred between Russia and Ukraine, facilitating the return of 300 Russian servicemen from Ukrainian-controlled territory. Concurrently, 300 Ukrainian Armed Forces (AFU) prisoners of war were returned by Russia. This reciprocal humanitarian gesture is a notable development amidst the ongoing conflict, providing relief for the involved personnel and their families.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/03/ukraine-260306-russia-mod01.htm",
+            "title": "Mortar shell defused along LoC in J-K's Poonch",
+            "summary": "Security forces successfully defused a live mortar shell discovered in a forward village near the Line of Control (LoC) in Poonch district, Jammu and Kashmir, on Saturday. This swift action prevented potential casualties and damage in the sensitive border area. Such discoveries underscore the constant vigilance required by personnel to ensure safety for residents living in villages along the highly militarized frontier.",
+            "url": "https://economictimes.indiatimes.com/news/defence/live-mortar-shell-defused-in-poonch-a-close-call-along-the-line-of-control/articleshow/129197916.cms",
             "category": "Defence",
-            "date": "2026-03-07T00:50:18Z"
+            "date": "2026-03-07T06:01:45Z"
+        },
+        {
+            "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
+            "summary": "A devastating war involving US-Israel attacks on Iran has led to over a thousand casualties, including Iran's Supreme Leader Ali Khamenei. Iranian missile responses signify a severe escalation of this international conflict. This major development indicates a critical shift in Middle Eastern geopolitics, carrying potentially wide-ranging global implications that warrant urgent diplomatic and strategic analysis.",
+            "url": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long",
+            "category": "International",
+            "date": "2026-03-07T05:06:44Z"
         }
     ]
 }
