@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-03-08T06:36:55.870471+00:00",
+    "last_updated": "2026-03-08T12:38:34.987434+00:00",
     "articles": [
         {
-            "title": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar",
-            "summary": "Saudi Arabia's Ministry of Defense successfully intercepted and destroyed two ballistic missiles targeting Prince Sultan Air Base in al-Kharj. This incident highlights persistent regional tensions, particularly amid broader geopolitical dynamics involving the United States, Israel, and Iran. Such events underscore the critical importance of robust air defense systems and geopolitical awareness for understanding West Asian security.",
-            "url": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar",
-            "category": "Defence",
-            "date": "2026-03-07T06:07:22Z"
-        },
-        {
-            "title": "Mortar shell defused along LoC in J-K's Poonch",
-            "summary": "Security forces successfully defused a live mortar shell discovered in a forward village near the Line of Control (LoC) in Poonch district, Jammu and Kashmir, on Saturday. This swift action prevented potential casualties and damage in the sensitive border area. Such discoveries underscore the constant vigilance required by personnel to ensure safety for residents living in villages along the highly militarized frontier.",
-            "url": "https://economictimes.indiatimes.com/news/defence/live-mortar-shell-defused-in-poonch-a-close-call-along-the-line-of-control/articleshow/129197916.cms",
-            "category": "Defence",
-            "date": "2026-03-07T06:01:45Z"
-        },
-        {
-            "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
-            "summary": "A devastating war involving US-Israel attacks on Iran has led to over a thousand casualties, including Iran's Supreme Leader Ali Khamenei. Iranian missile responses signify a severe escalation of this international conflict. This major development indicates a critical shift in Middle Eastern geopolitics, carrying potentially wide-ranging global implications that warrant urgent diplomatic and strategic analysis.",
-            "url": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long",
+            "title": "Shipping industry seeks security escort for vessels in Strait of Hormuz amid rising tensions",
+            "summary": "A major shipping industry body and a state-run oil company have urged security escorts for vessels transiting the Strait of Hormuz. This crucial maritime choke point, vital for global oil and gas shipments from West Asia, faces heightened security concerns. The call for escorts highlights the need to safeguard international trade routes and ensure the uninterrupted flow of essential energy resources, impacting global economic stability.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/shipping-industry-seeks-security-escort-for-vessels-in-strait-of-hormuz-amid-rising-tensions/articleshow/129213570.cms",
             "category": "International",
-            "date": "2026-03-07T05:06:44Z"
+            "date": "2026-03-07T12:13:46Z"
+        },
+        {
+            "title": "Indian Army organises industry-academia interaction on drone innovation, emerging defense tech",
+            "summary": "The Army's Battle Axe Division (Southern Command) recently hosted an academia-industry interaction in Jaisalmer, focusing on drone innovation. This initiative, part of the Military-Civil Fusion (MCF) program, aims to integrate civilian expertise and technological advancements with military requirements. It highlights the Indian Army's commitment to leveraging cutting-edge drone technology for enhanced defence capabilities and self-reliance.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-organises-industry-academia-interaction-on-drone-innovation-emerging-defense-tech/articleshow/129213235.cms",
+            "category": "Defence",
+            "date": "2026-03-07T12:05:22Z"
+        },
+        {
+            "title": "ISRO, ESA ink pact on earth observation missions",
+            "summary": "ISRO and the European Space Agency (ESA) have signed an agreement to collaborate on joint calibration, validation activities, and scientific studies. This partnership aims to enhance the use and accuracy of satellite data, likely for Earth observation. Such international cooperation strengthens India's space program, fosters scientific advancements, and improves capabilities for future missions and data analysis, benefiting both agencies.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-esa-ink-pact-on-earth-observation-missions/articleshow/129212258.cms",
+            "category": "Sci & Tech",
+            "date": "2026-03-07T11:42:01Z"
+        },
+        {
+            "title": "French nuclear umbrella gives cover amid global upheaval",
+            "summary": "France plans to expand its nuclear arsenal, aiming to extend its protective shield across much of the European continent. This announcement, though significant for European security architecture and France's strategic role, has received less attention amid current global events. For SSB aspirants, this highlights evolving defence strategies and the concept of extended nuclear deterrence in international relations.",
+            "url": "https://www.rte.ie/news/2026/0307/1562105-comment-analysis-france-nuclear/",
+            "category": "Defence",
+            "date": "2026-03-07T11:38:09Z"
+        },
+        {
+            "title": "\u2018It was the humane thing to do\u2019: S Jaishankar confirms India allowed Iranian ship to dock in Kochi",
+            "summary": "EAM S. Jaishankar confirmed India allowed an Iranian ship to dock, notably on the same day the IRIS Dena was reportedly torpedoed by a US submarine in the Indian Ocean. This incident highlights India's strategic balancing act amidst escalating US-Iran tensions in crucial maritime routes, reflecting India's independent foreign policy stance concerning regional geopolitics and maritime access.",
+            "url": "https://indianexpress.com/article/india/jaishankar-india-iranian-ship-kochi-10569843/",
+            "category": "International",
+            "date": "2026-03-07T11:01:31Z"
+        },
+        {
+            "title": "Fort McMurray leaders frustrated by CNRL mine expansion delay",
+            "summary": "Political and economic leaders in northern Alberta, Canada, are expressing frustration over Canadian Natural Resources Ltd.'s decision to delay a significant mine expansion project north of Fort McMurray. The Calgary-based company's deferral impacts the region's economic prospects and raises concerns among local communities and businesses. This development highlights ongoing challenges in Canada's resource sector.",
+            "url": "https://www.cbc.ca/news/canada/edmonton/jackpine-oilsands-mine-expansion-alberta-9.7118687",
+            "category": "International",
+            "date": "2026-03-07T11:00:00Z"
+        },
+        {
+            "title": "One week into the Iran war, the fallout is global",
+            "summary": "A coordinated military campaign by the U.S. and Israel against Iran, initiated last Saturday, has escalated into a wider conflict. This American-Israeli operation is now causing global repercussions, highlighting the volatile geopolitical situation in the Middle East and its potential for international instability. Aspirants should note such developments affecting international security.",
+            "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+            "category": "Defence",
+            "date": "2026-03-07T10:00:00Z"
+        },
+        {
+            "title": "Operation Epic Fury sparks a high-stakes balancing act in India",
+            "summary": "Operation Epic Fury, a joint military initiative by the US and Israel, is currently in its seventh day, having commenced on February 28th. This significant military action is described as a long-anticipated 'conflagration' in West Asia, highlighting the region's geopolitical complexities. For SSB aspirants, understanding such international joint operations and evolving regional conflicts is crucial for defence awareness.",
+            "url": "https://www.livemint.com/opinion/columns/us-iran-war-operation-epic-fury-11772865763222.html",
+            "category": "Defence",
+            "date": "2026-03-07T07:56:58Z"
         }
     ]
 }
