@@ -1,103 +1,19 @@
 {
-    "last_updated": "2026-03-10T18:40:50.639548+00:00",
+    "last_updated": "2026-03-11T01:29:26.774889+00:00",
     "articles": [
         {
-            "title": "Three Oshkosh, Fond du Lac boys basketball teams are 2 wins from state",
-            "summary": "The WIAA boys basketball tournament has completed its regional stage, with three teams from the Oshkosh and Fond du Lac areas successfully advancing. These teams are now just two victories shy of securing a coveted spot in the state tournament. This development underscores the competitive regional talent and ongoing athletic achievements within these communities as the tournament progresses.",
-            "url": "https://www.thenorthwestern.com/story/sports/high-school/basketball/2026/03/09/oshkosh-north-lomira-oakfield-boys-basketball-wiaa-sectional-state-tournament/88898480007/",
-            "category": "National",
-            "date": "2026-03-09T18:21:41Z"
-        },
-        {
-            "title": "Fantasy Basketball Week 21 Start/Sit: Quentin Grimes poised for bigger role with Maxey, Embiid out",
-            "summary": "The article focuses on the strategic challenges faced by players entering fantasy sports playoffs in head-to-head leagues. Participants, having navigated the regular season, must now make critical decisions regarding team management to secure victory. This highlights the analytical and planning skills essential for success in competitive virtual gaming environments.",
-            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-21-startsit-quentin-grimes-poised-for-bigger-role-with-maxey-embiid-out/",
-            "category": "National",
-            "date": "2026-03-09T18:20:57Z"
-        },
-        {
-            "title": "Yankees\u2019 Aaron Boone has awkward exchange about Juan Soto: \u2018I guess I did just say that\u2019",
-            "summary": "Yankees manager Aaron Boone made a remark during a spring training game in Port St. Lucie, where the Yankees played the Mets. WFAN host Evan Roberts reportedly caught the comment. Boone later stated he was \"just kidding,\" creating ambiguity around his true intentions. This event involves a prominent national sports figure.",
-            "url": "https://www.nj.com/yankees/2026/03/yankees-aaron-boone-jokes-about-juan-soto-in-awkward-exchange-i-guess-i-did-just-say-that.html",
-            "category": "National",
-            "date": "2026-03-09T18:05:40Z"
-        },
-        {
-            "title": "Fast changes in West Asia require India to perform high-wire diplo-dexterity",
-            "summary": "Amidst the unfolding US-Israel conflict against Iran, India faces a delicate diplomatic 'trapeze act' rather than a moral dilemma. This complex scenario requires balancing interests with four key power centers: the United States, Iran, Gulf countries, and Israel, underscoring India's intricate foreign policy in a volatile region.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/fast-changes-in-west-asia-require-india-to-perform-high-wire-diplo-dexterity/articleshow/129348371.cms",
-            "category": "International",
-            "date": "2026-03-09T17:58:22Z"
-        },
-        {
-            "title": "What Happens In The First 72 Minutes Of Nuclear War, According To Author Annie Jacobsen",
-            "summary": "Annie Jacobsen, author of the 2024 book \"Nuclear War: A Scenario,\" discussed her work on the Hasan Minhaj podcast. Her book meticulously reconstructs the potential sequence of catastrophic events following a single nuclear launch. This scenario-based analysis offers critical insights into the devastating global implications and escalations of nuclear conflict, crucial for aspirants to understand complex strategic defence and international security challenges.",
-            "url": "https://thoughtcatalog.com/january-nelson/2026/03/what-happens-in-the-first-72-minutes-of-nuclear-war-according-to-author-annie-jacobsen/",
-            "category": "Defence",
-            "date": "2026-03-09T17:46:00Z"
-        },
-        {
-            "title": "Alexander Ludwig Making Directorial Debut With Indie Drama \u2018Billings,\u2019 Stars Opposite Carla Gugino, Grace Beedie, Taylor Hickson & James Jordan",
-            "summary": "Actor Alexander Ludwig, renowned for his roles in 'Vikings' and 'The Hunger Games', is making his directorial debut with 'Billings'. This independent healthcare drama marks his first foray behind the camera. The project signifies a notable career shift for Ludwig, venturing into filmmaking within the indie circuit and exploring a socially relevant genre, potentially highlighting his evolving artistic interests.",
-            "url": "http://deadline.com/2026/03/alexander-ludwig-to-direct-star-billings-drama-1236747937/",
-            "category": "International",
-            "date": "2026-03-09T17:35:34Z"
-        },
-        {
-            "title": "Soldier goes missing during river crossing exercise in Rajouri; rescue operation on",
-            "summary": "An army soldier went missing on Monday during a river crossing exercise in Jammu and Kashmir's Sunderbani sector, Rajouri district. A joint rescue operation has been launched to locate him. This incident underscores the inherent risks involved in military training and the critical importance of swift, coordinated search and rescue efforts, demonstrating operational challenges even during routine exercises in demanding terrains like J&K.",
-            "url": "https://statetimes.in/soldier-goes-missing-during-river-crossing-exercise-in-rajouri-rescue-operation-on/",
-            "category": "Defence",
-            "date": "2026-03-09T17:13:25Z"
-        },
-        {
-            "title": "Tua Tagovailoa's 'dead cap money' provides a lesson for MLB's future",
-            "summary": "The Miami Dolphins NFL franchise is reportedly set to release quarterback Tua Tagovailoa, a decision seen as a \"calamity\" for the storied team. This move will incur a record \"dead-cap hit,\" signifying major financial implications and a significant restructuring challenge for the franchise. It highlights the volatile nature of professional sports team management.",
-            "url": "https://www.usatoday.com/story/sports/mlb/2026/03/09/tua-tagovailoa-nfl-dead-cap-money-lesson-for-mlb/89065934007/",
-            "category": "National",
-            "date": "2026-03-09T16:39:03Z"
-        },
-        {
-            "title": "6 mental health habits that help you stay calm during global uncertainty",
-            "summary": "This article outlines six crucial mental health habits designed to help individuals maintain calm and resilience amidst pervasive global uncertainties. These practical strategies are essential for effectively managing stress, fostering inner peace, and navigating challenging environments with a stable mindset. It offers valuable insights for anyone, including SSB aspirants, to cultivate mental well-being.",
-            "url": "https://timesofindia.indiatimes.com/health/6-mental-health-habits-that-help-you-stay-calm-during-global-uncertainty/articleshow/129343856.cms",
+            "title": "oat-ai added to PyPI",
+            "summary": "On-demand Agent Tooling (OAT) marks a key advancement for Large Language Models (LLMs), allowing them to dynamically synthesize and create necessary tools on-the-fly. This innovation moves beyond relying on pre-defined toolsets, empowering LLMs to 'cook what they need' rather than just 'pick from a menu'. Such adaptability significantly enhances their problem-solving capabilities for complex tasks and real-world applications.",
+            "url": "https://pypi.org/project/oat-ai/",
             "category": "Sci & Tech",
-            "date": "2026-03-09T16:35:20Z"
+            "date": "2026-03-10T01:03:01Z"
         },
         {
-            "title": "\u2018Flying Is A Very Large Part\u2019 of Final Fantasy VII Remake Part 3, But The Status of Chocobo Breeding And Underwater Exploration Is Unclear",
-            "summary": "Game director Naoki Hamaguchi revealed to Bloomberg that the iconic Highwind airship will play a significant role in Final Fantasy VII Remake Part 3. Expected to be a major highlight, its inclusion suggests enhanced exploration and gameplay dynamics for players. This development underscores ongoing advancements in the gaming industry, reflecting the continuous evolution of digital entertainment and interactive technology.",
-            "url": "https://wccftech.com/flying-large-part-of-final-fantasy-vii-remake-part-3-chocobo-breeding/",
-            "category": "Sci & Tech",
-            "date": "2026-03-09T12:29:48Z"
-        },
-        {
-            "title": "Turkey deploys six F-16 fighter jets, air defence systems to northern Cyprus",
-            "summary": "Turkey has deployed six F-16 fighter jets and air defence systems to northern Cyprus. This strategic move, announced by its defence ministry, aims to bolster the security of the Turkish community in the region. Turkey has also pledged to undertake further measures, signaling an increased military presence and commitment to its strategic interests and regional security in the Eastern Mediterranean.",
-            "url": "https://economictimes.indiatimes.com/news/defence/turkey-deploys-six-f-16-fighter-jets-air-defence-systems-to-northern-cyprus/articleshow/129333024.cms",
-            "category": "Defence",
-            "date": "2026-03-09T12:21:36Z"
-        },
-        {
-            "title": "Belagavi startup vs global AI giant: Karnataka court orders summons to Anthropic\u2019s US headquarters in Rs 1 crore trademark suit",
-            "summary": "Belagavi-based Anthropic Software Private Limited alleges a US company deliberately used a deceptively similar mark, causing confusion. The Indian firm claims this constitutes passing off and unfair competition, indicating a cross-border intellectual property dispute. This legal challenge highlights the complexities of brand protection and corporate ethics in the global market, with the Indian company pursuing action against the American entity.",
-            "url": "https://indianexpress.com/article/legal-news/anthropic-trademark-dispute-belagavi-court-us-office-10573107/",
-            "category": "International",
-            "date": "2026-03-09T12:08:47Z"
-        },
-        {
-            "title": "Iran sought permission for docking of 3 ships in Indian ports; approval granted: Jaishankar",
-            "summary": "External Affairs Minister S Jaishankar confirmed India swiftly granted Iran's request for three of its ships to dock at Indian ports. This diplomatic approval, given the day after the request, highlights India's proactive foreign policy and readiness to engage with international partners. Such timely decisions reflect India's strategic importance in regional maritime affairs and its commitment to fostering stable international relations, crucial aspects for an SSB aspirant's understanding of global dynamics.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/iran-sought-permission-for-docking-of-3-ships-in-indian-ports-approval-granted-jaishankar/articleshow/129331854.cms",
-            "category": "International",
-            "date": "2026-03-09T12:02:27Z"
-        },
-        {
-            "title": "Global Graphene meet opens with focus on next-gen materials",
-            "summary": "Nobel laureate Kostya Novoselov inaugurated GraphIN 2026, the International Conference and Expo on Graphene and 2D Materials, in Kochi. This significant event brings together experts to discuss cutting-edge advancements in materials science. Aspirants should note the importance of India hosting such international scientific forums, showcasing its role in global technological innovation and research.",
-            "url": "https://www.thehindubusinessline.com/news/global-graphene-meet-opens-with-focus-on-next-gen-materials/article70722137.ece",
-            "category": "Sci & Tech",
-            "date": "2026-03-09T10:49:00Z"
+            "title": "Motor Accident Claims Tribunal in Maharashtra\u2019s Thane district awards Rs 5 lakh compensation to family of tutor killed in motorcycle accident in 2003",
+            "summary": "The Motor Accident Claims Tribunal (MACT) in Thane district, Maharashtra, has awarded Rs 5 lakh compensation. This financial relief is directed to the family of a tutor who tragically died in a motorcycle accident. The tribunal's decision underscores the legal framework for supporting victims of motor vehicle accidents, providing some measure of justice to the bereaved family.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/motor-accident-claims-tribunal-in-maharashtras-thane-district-awards-rs-5-lakh-compensation-to-family-of-tutor-killed-in-motorcycle-accident-in-2003/articleshow/129351881.cms",
+            "category": "National",
+            "date": "2026-03-09T22:57:00Z"
         }
     ]
 }
