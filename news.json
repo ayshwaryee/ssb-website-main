@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-03-11T01:29:26.774889+00:00",
+    "last_updated": "2026-03-11T06:45:07.021197+00:00",
     "articles": [
         {
-            "title": "oat-ai added to PyPI",
-            "summary": "On-demand Agent Tooling (OAT) marks a key advancement for Large Language Models (LLMs), allowing them to dynamically synthesize and create necessary tools on-the-fly. This innovation moves beyond relying on pre-defined toolsets, empowering LLMs to 'cook what they need' rather than just 'pick from a menu'. Such adaptability significantly enhances their problem-solving capabilities for complex tasks and real-world applications.",
-            "url": "https://pypi.org/project/oat-ai/",
-            "category": "Sci & Tech",
-            "date": "2026-03-10T01:03:01Z"
+            "title": "Jerai Fitness Limited and Plus Fitness India to Expand 100 Gyms Across India | Loktej Business News",
+            "summary": "A new collaboration introduces a bundled franchise and equipment model, significantly simplifying gym setup. This initiative streamlines the process by integrating comprehensive franchise support with equipment procurement into a single offering. Aimed at making gym establishment easier and more efficient, this model could foster growth within the national fitness sector, benefiting entrepreneurs and promoting a standardized approach to fitness facility development.",
+            "url": "https://english.loktej.com/article/24729/jerai-fitness-limited-and-plus-fitness-india-to-expand-100-gyms-across-india",
+            "category": "National",
+            "date": "2026-03-10T06:40:10Z"
         },
         {
-            "title": "Motor Accident Claims Tribunal in Maharashtra\u2019s Thane district awards Rs 5 lakh compensation to family of tutor killed in motorcycle accident in 2003",
-            "summary": "The Motor Accident Claims Tribunal (MACT) in Thane district, Maharashtra, has awarded Rs 5 lakh compensation. This financial relief is directed to the family of a tutor who tragically died in a motorcycle accident. The tribunal's decision underscores the legal framework for supporting victims of motor vehicle accidents, providing some measure of justice to the bereaved family.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/motor-accident-claims-tribunal-in-maharashtras-thane-district-awards-rs-5-lakh-compensation-to-family-of-tutor-killed-in-motorcycle-accident-in-2003/articleshow/129351881.cms",
-            "category": "National",
-            "date": "2026-03-09T22:57:00Z"
+            "title": "Pentagon escalates to \u2018most intense\u2019 strikes as internal leaks and global tensions threaten to unravel official narrative on Iran",
+            "summary": "The Pentagon is navigating a complex \"dual war,\" engaging in precision operations abroad, potentially targeting Iranian nuclear facilities, while simultaneously contending with growing domestic skepticism. This situation underscores the intricate balance military leadership must maintain between executing external strategic objectives and ensuring internal confidence and public support for critical defence actions, a key aspect for any aspirant to understand.",
+            "url": "https://www.naturalnews.com/2026-03-10-pentagon-escalates-most-intense-airstrikes-as-administration-comes-under-fire.html",
+            "category": "Defence",
+            "date": "2026-03-10T06:00:00Z"
+        },
+        {
+            "title": "US War on Iran: Criminal and Cowardly",
+            "summary": "The article discusses a highly contentious incident where a US submarine reportedly torpedoed and sank an Iranian missile frigate. Crucially, the frigate is described as unarmed and not bound for Iran. This alleged military action signifies a major international incident, potentially escalating tensions between the US and Iran and raising serious questions about the nature of engagement in international waters.",
+            "url": "https://www.counterpunch.org/2026/03/10/us-war-on-iran-criminal-and-cowardly/",
+            "category": "Defence",
+            "date": "2026-03-10T05:51:59Z"
         }
     ]
 }
