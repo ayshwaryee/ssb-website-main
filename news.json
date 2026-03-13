@@ -1,61 +1,26 @@
 {
-    "last_updated": "2026-03-12T18:46:05.343125+00:00",
+    "last_updated": "2026-03-13T01:44:47.125545+00:00",
     "articles": [
         {
-            "title": "This DC TV Show Masterpiece Proves No One Should Be Worried About Lanterns, Despite the Divisive Trailer",
-            "summary": "The first trailer for 'Lanterns,' the DCU\u2019s third HBO series, has been released, sparking online debate among viewers. Despite the divisive initial reactions, industry experts suggest there is no cause for concern regarding the show's potential. 'Lanterns' is set to follow 'Creature Commandos' and 'Peacemaker season 2,' further expanding the DC Universe's presence on the HBO platform.",
-            "url": "http://comicbook.com/tv-shows/feature/this-dc-tv-show-masterpiece-proves-no-one-should-be-worried-about-lanterns-despite-the-divisive-trailer/",
-            "category": "International",
-            "date": "2026-03-11T18:30:00Z"
-        },
-        {
-            "title": "Betty Bryant \u2013 Nothin\u2019 Better to Do (2026)",
-            "summary": "Betty Bryant, a seasoned pianist, singer, and composer, showcases her natural confidence in her new work, 'nothin\u2019 better to do'. Her artistry, honed over decades, allows the music to speak for itself. This release reflects her deep musical experience and mastery, radiating the authenticity of a club performance, highlighting a musician whose skill transcends mere performance.",
-            "url": "https://exystence.net/blog/2026/03/11/betty-bryant-nothin-better-to-do-2026/",
-            "category": "National",
-            "date": "2026-03-11T17:00:34Z"
-        },
-        {
-            "title": "Gold Standard: Oscar-Winning Films at Disneyland and Disney World",
-            "summary": "The Oscars are scheduled to air live on Sunday, March 15, at 7e/4p, broadcast on ABC and Hulu. This major entertainment event will take place at the famed Dolby Theatre in Hollywood, California. Aspiring candidates should note its significance as a globally watched cultural event.",
-            "url": "https://disneyparksblog.com/disney-experiences/oscar-winning-films-at-disneyland-and-disney-world/",
-            "category": "International",
-            "date": "2026-03-11T17:00:03Z"
-        },
-        {
-            "title": "Defense Business Brief: 3D-printing on the battlefield; Reshoring drone dominance; AI on submarines",
-            "summary": "The Pentagon plans to acquire 30,000 one-way attack drones, underscoring their growing importance in modern conflicts. Crucially, the military's ability to repair or even build these drones directly on the battlefield is identified as a make-or-break factor for operational success. This highlights the strategic need for robust on-site technical and logistical capabilities to sustain advanced drone warfare.",
-            "url": "https://www.defenseone.com/business/2026/03/defense-business-brief-3d-printing-battlefield-reshoring-drone-dominance-ai-submarines/412048/",
-            "category": "Defence",
-            "date": "2026-03-11T17:00:00Z"
-        },
-        {
-            "title": "Terrorist killed along LoC in Rajouri identified as LeT launching operative",
-            "summary": "An identified Lashkar-e-Taiba (LeT) operative, facilitating infiltration, was neutralized along the Line of Control (LoC) in Rajouri during a foiled attempt by Pakistani terrorists to cross into India. This incident underscores the persistent threat of cross-border terrorism from Pakistan-based groups and the Indian Army's unwavering vigilance in thwarting such attempts, critical for maintaining national security.",
-            "url": "https://statetimes.in/terrorist-killed-along-loc-in-rajouri-identified-as-let-launching-operative/",
-            "category": "Defence",
-            "date": "2026-03-11T16:37:08Z"
-        },
-        {
-            "title": "Chandrayaan-5 to have heavier lander with longer mission life: ISRO Chief",
-            "summary": "ISRO is planning future lunar missions, Chandrayaan-4 and Chandrayaan-5. Chandrayaan-4 aims to collect Moon samples and return them to Earth, marking a significant technological leap for India. Chandrayaan-5 will feature a heavier lander for an extended mission life on the lunar surface. These ambitious missions highlight India's burgeoning capabilities in space exploration and its commitment to advancing scientific research.",
-            "url": "https://economictimes.indiatimes.com/news/science/chandrayaan-5-to-have-heavier-lander-with-longer-mission-life-isro-chief/articleshow/129471643.cms",
+            "title": "How much of HN is AI?",
+            "summary": "The author expresses a 'complicated relationship' with Hacker News, an important aggregator of 'geek news' and a significant traffic driver for their blog. While acknowledging its value, the author also notes the platform's 'toxic' elements. This nuanced perspective highlights the challenges and benefits of influential online communities, crucial for understanding digital information ecosystems.",
+            "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
             "category": "Sci & Tech",
-            "date": "2026-03-11T16:36:17Z"
+            "date": "2026-03-12T01:15:40Z"
         },
         {
-            "title": "Show HN: Kronos \u2013 A calendar-style scheduler for AI Agents agent runs",
-            "summary": "Kronos is described as a scheduler and orchestration dashboard primarily designed for efficiently running agent tasks. It operates through ACP (Agent Control Protocol) and utilizes a dedicated Kronos bridge command-line interface (CLI) for its functions. This system provides a centralized tool for managing and automating various operational processes, streamlining task execution and workflow coordination within complex computing environments, emphasizing controlled automation.",
-            "url": "https://github.com/Reqeique/Kronos",
-            "category": "Sci & Tech",
-            "date": "2026-03-11T16:33:54Z"
-        },
-        {
-            "title": "Could the US deploy troops to Iran, and how could that play out?",
-            "summary": "Mounting speculation in the United States concerns the potential deployment of American ground troops in Iran. This comes as the ongoing 'US-Israeli war' entered its twelfth day. For SSB aspirants, this highlights critical geopolitical tensions and the prospect of direct US military intervention in the Middle East, demanding a keen understanding of international relations and defence strategies.",
-            "url": "https://www.aljazeera.com/news/2026/3/11/could-the-us-deploy-troops-to-iran-and-how-could-that-play-out",
+            "title": "US Central Command Releases Epic Footage of US Military Blowing Up Iran\u2019s Air Force (VIDEO)",
+            "summary": "The US Central Command released footage showing the US Military destroying parts of Iran's Air Force, leading to a daily reduction in Iran's air capability. This action underscores ongoing tensions and military engagement in the region, highlighting strategic operations by US forces to curb the Iranian regime's aerial power.",
+            "url": "https://www.thegatewaypundit.com/2026/03/centcom-releases-epic-footage-us-military-blowing-up/",
             "category": "Defence",
-            "date": "2026-03-11T14:42:33Z"
+            "date": "2026-03-12T01:00:57Z"
+        },
+        {
+            "title": "\u2018The Masked Singer\u2019 Reveals the Identity of High Voltage: Here Is the Celebrity Under the Costume",
+            "summary": "This article provides a spoiler alert for 'The Masked Singer' Season 14, Episode 9, 'Care Bears Night,' which aired March 11 on Fox. It details the entertainment show and includes a brief, unrelated commentary about a crowd on a pitch, reminiscent of a sports event. The content is primarily entertainment-focused, not typical news for SSB aspirants.",
+            "url": "https://variety.com/2026/tv/news/the-masked-singer-season-14-episode-9-recap-high-voltage-1236685165/",
+            "category": "International",
+            "date": "2026-03-12T01:00:00Z"
         }
     ]
 }
