@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-03-16T18:55:43.597018+00:00",
+    "last_updated": "2026-03-17T01:47:00.246674+00:00",
     "articles": [
         {
-            "title": "Adequate fuel stock available in India amidst crisis: Athawale",
-            "summary": "Union Minister Ramdas Athawale, visiting Jammu, highlighted the Central government's wide-ranging developmental initiatives. He underscored progress in social justice, empowerment, and economic growth through various welfare schemes. The minister emphasized efforts to integrate Jammu with the national mainstream, ensuring equitable development and prosperity for all sections of society, reflecting the government's commitment to regional upliftment.",
-            "url": "https://statetimes.in/adequate-fuel-stock-available-in-india-amidst-crisis-athawale/",
-            "category": "National",
-            "date": "2026-03-15T18:26:57Z"
-        },
-        {
-            "title": "nomi-context added to PyPI",
-            "summary": "Nomi is a local context engine infrastructure that optimizes AI coding agents. It sits between developer codebases and these agents, significantly reducing token usage and latency. By preventing repeated full file loads, Nomi enhances efficiency, allowing AI coding tools to operate faster and more cost-effectively. This innovation streamlines development workflows, improving overall productivity for teams utilizing AI assistance.",
-            "url": "https://pypi.org/project/nomi-context/",
+            "title": "robotpy-hal 2027.0.0a4",
+            "summary": "The provided text indicates a website loading failure, potentially caused by browser extensions, network connectivity issues, or specific browser settings. Users are advised to troubleshoot by verifying their internet connection, disabling any active ad blockers, or trying a different browser to resolve the display error and successfully load the site's content.",
+            "url": "https://pypi.org/project/robotpy-hal/2027.0.0a4/",
             "category": "Sci & Tech",
-            "date": "2026-03-15T17:23:03Z"
+            "date": "2026-03-16T00:56:02Z"
         },
         {
-            "title": "Ikea\u2019s DIY plans for India",
-            "summary": "The article describes a serene afternoon at Chennai's venerable Madras Club, situated on the tranquil Adyar river banks. Its sprawling, leafy environs are portrayed as quiet and peaceful, with mild sunlight filtering through. This evocative opening sets a calm, balmy scene in a historic Indian location.",
-            "url": "https://www.thehindubusinessline.com/specials/corporate-file/ikeas-diy-plans-for-india/article70739196.ece",
-            "category": "National",
-            "date": "2026-03-15T16:27:17Z"
+            "title": "Air power deters, but enduring outcomes in conflict need more",
+            "summary": "The US-Israel air campaign against Iran demonstrates both the strategic power and inherent limits of air-delivered retribution. It highlights how air strikes can penetrate deep, precisely hit critical nodes, and signal strong resolve. For SSB aspirants, this case study offers insights into the strategic application and effectiveness of air power in international conflicts, emphasizing its dual nature.",
+            "url": "https://indianexpress.com/article/opinion/columns/air-power-deters-but-enduring-outcomes-in-conflict-need-more-10583808/",
+            "category": "Defence",
+            "date": "2026-03-16T00:43:29Z"
+        },
+        {
+            "title": "Modi Walks Fine Line Between Iran and US as War Hits Economy",
+            "summary": "Prime Minister Modi is enhancing India's engagement with Iran amidst escalating Middle East conflicts causing significant gas shortages and threatening national economic growth. This strategic move highlights India's focus on diversifying energy sources and securing critical imports, crucial for national development and maintaining geopolitical stability in the region. The approach demonstrates proactive foreign policy addressing energy security challenges.",
+            "url": "https://financialpost.com/pmn/business-pmn/modi-walks-fine-line-between-iran-and-us-as-war-hits-economy",
+            "category": "International",
+            "date": "2026-03-15T22:59:10Z"
         }
     ]
 }
