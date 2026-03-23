@@ -1,61 +1,68 @@
 {
-    "last_updated": "2026-03-23T01:52:52.837812+00:00",
+    "last_updated": "2026-03-23T07:04:09.557397+00:00",
     "articles": [
         {
+            "title": "War in the Middle East: latest developments",
+            "summary": "An Iranian missile strike on March 22 significantly damaged a kindergarten in Dimona, Israel, where a portrait of Prime Minister Benjamin Netanyahu was visible on a damaged wall. This incident clearly underscores the escalating military tensions and volatile geopolitical landscape between Iran and Israel, highlighting the direct impact of hostilities on civilian infrastructure and regional stability.",
+            "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-17/article",
+            "category": "Defence",
+            "date": "2026-03-22T06:57:20Z"
+        },
+        {
+            "title": "How did Iran detect an \u2018invisible\u2019 F-35? Viral video points to a passive tracking system",
+            "summary": "An animated clip potentially solves the mystery of how Iran detected the F-35 stealth fighter, widely considered 'invisible.' This revelation is significant for defence, challenging the effectiveness of advanced stealth technology against emerging detection methods. Such developments are critical, as they prompt a re-evaluation of air superiority doctrines and global strategic assets.",
+            "url": "https://economictimes.indiatimes.com/news/defence/how-did-iran-detect-an-invisible-f-35-viral-video-points-to-a-passive-tracking-system/articleshow/129729001.cms",
+            "category": "Defence",
+            "date": "2026-03-22T06:46:53Z"
+        },
+        {
+            "title": "Indian Naval Ship Trikand concludes port call at Port Victoria in Seychelles",
+            "summary": "Indian Naval Ship (INS) Trikand, a stealth frigate, departed Port Victoria, Seychelles, on March 20, concluding a four-day port call. This visit strengthened bilateral ties and maritime cooperation between India and Seychelles, demonstrating India's commitment to regional security and stability in the Indian Ocean. Such deployments are crucial for projecting naval power and fostering diplomatic relations.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-naval-ship-trikand-concludes-port-call-at-port-victoria-in-seychelles/articleshow/129729450.cms",
+            "category": "Defence",
+            "date": "2026-03-22T06:39:07Z"
+        },
+        {
+            "title": "Supply chains face 'hard lockdown' amid escalating West Asia conflict: Kotak Mahindra's Anindya Banerjee",
+            "summary": "India is currently prioritizing the management of its crude oil, CNG, and LPG supplies. This focus stems from significant global supply chain disruptions, intensified by escalating conflict in West Asia, which has imposed a \"hard lockdown\" on international energy flows. India is actively working to leverage its resources and strategies to mitigate these challenges and ensure domestic energy security amidst volatile international circumstances.",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/supply-chains-face-hard-lockdown-amid-escalating-west-asia-conflict-kotak-mahindras-anindya-banerjee/articleshow/129729437.cms",
+            "category": "National",
+            "date": "2026-03-22T06:38:09Z"
+        },
+        {
+            "title": "US Northern Command Commander Labels Russia Primary Adversary, Cites Capabilities",
+            "summary": "U.S. Northern Command (NORTHCOM) chief, Gen. Gregory Guillot, has identified Russia as the primary threat to North America among all U.S. adversaries. He highlighted Russia's \"greatest capability and capacity\" to threaten the continent. This assessment underscores ongoing geopolitical tensions and the strategic importance of continental defense, providing critical insight into global security dynamics for SSB aspirants studying international relations and military strategy.",
+            "url": "https://www.naturalnews.com/2026-03-22-us-northcom-commander-labels-russia-primary-adversary.html",
+            "category": "Defence",
+            "date": "2026-03-22T06:00:00Z"
+        },
+        {
+            "title": "Indian Navy warship Nilgiri joins Exercise KAKADU 2026 in Australia",
+            "summary": "Indian Navy frigate INS Nilgiri is participating in the sea phase of Exercise Kakadu 2026 in Australia, part of its Western Pacific deployment. This significant multinational exercise enhances interoperability and strengthens strategic ties between India and Australia. Such naval engagements demonstrate India's expanding maritime influence, commitment to regional security, and capability to operate effectively in diverse international waters.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-warship-nilgiri-joins-exercise-kakadu-2026-in-australia/articleshow/129728483.cms",
+            "category": "Defence",
+            "date": "2026-03-22T05:04:02Z"
+        },
+        {
+            "title": "Overconfidence is how Wars are Lost \u2013 Viet-Iran?",
+            "summary": "This analysis argues wars are often lost in leaders' minds, not primarily on the battlefield, due to misjudgments of capabilities. For SSB aspirants, this highlights the paramount importance of strategic thinking, accurate assessment, and psychological resilience in military leadership. It underscores how understanding the mental dimension of conflict, beyond mere tactics, is crucial for sound decision-making and ultimate success.",
+            "url": "https://www.juancole.com/2026/03/overconfidence-ignored-afghanistan.html",
+            "category": "Defence",
+            "date": "2026-03-22T04:04:35Z"
+        },
+        {
+            "title": "Ngwenya, Khoza appointed CEO and COO of World Cup 2027 Local Organising Committee",
+            "summary": "Qondisa Ngwenya has been appointed CEO and Edward Khoza COO for the Local Organising Committee (LOC) in Johannesburg. They will oversee the organisation of the upcoming ICC Men's cricket event. Their leadership is crucial for the successful execution of this major international tournament, managing all logistics and operations to ensure a world-class experience.",
+            "url": "https://english.khabarhub.com/2026/22/540357/",
+            "category": "International",
+            "date": "2026-03-22T03:15:36Z"
+        },
+        {
             "title": "Daily Mail: British nuclear-powered submarine with Tomahawk missiles in the Arabian Sea",
-            "summary": "A British nuclear-powered submarine, equipped with Tomahawk missiles, has been strategically deployed in the Arabian Sea. This deployment signals readiness for potential long-range strikes should regional tensions escalate further. For an SSB aspirant, this highlights the critical role of naval power projection, strategic deterrence, and international military posturing in global security dynamics.",
+            "summary": "A British nuclear-powered submarine, equipped with Tomahawk missiles, has been strategically deployed to the Arabian Sea. This positioning readies the vessel for potential long-range strikes, awaiting orders should international conflicts escalate further. The deployment underscores the UK's military presence and readiness to respond to global security challenges, emphasizing its role in maintaining stability in critical maritime regions.",
             "url": "https://en.protothema.gr/2026/03/22/daily-mail-british-nuclear-powered-submarine-with-tomahawk-missiles-in-the-arabian-sea/",
             "category": "Defence",
             "date": "2026-03-22T01:10:00Z"
-        },
-        {
-            "title": "UK Nuclear Powered\u00a0Submarine\u00a0Positioned In Arabian Sea Amid Regional Tensions",
-            "summary": "A British nuclear-powered submarine, armed with Tomahawk cruise missiles, has been strategically positioned in the Arabian Sea. This deployment significantly enhances Britain's capability for long-range precision strikes in the region. For SSB aspirants, this highlights the strategic projection of naval power, the importance of advanced submarine warfare capabilities, and the evolving geopolitical landscape affecting international security and defence postures.",
-            "url": "https://gcaptain.com/uk-nuclear-powered-submarine-positioned-in-arabian-sea-amid-regional-tensions/",
-            "category": "Defence",
-            "date": "2026-03-22T00:43:26Z"
-        },
-        {
-            "title": "From the Dux to the Strip: Inside Christchurch\u2019s iconic pubs now gone",
-            "summary": "An individual, having studied at a specific building from 1971-73, considered leasing it in 1978 with a partner. Their ambitious plan was to convert the premises into a vegetarian restaurant, indicating a local entrepreneurial initiative focused on property transformation and hospitality. This narrative highlights a personal connection leading to a business venture.",
-            "url": "https://www.nzherald.co.nz/nz/from-the-dux-to-the-strip-inside-christchurchs-iconic-pubs-now-gone/premium/IJYDLYEM5ZGJZBOG56PJMODRJE/",
-            "category": "National",
-            "date": "2026-03-21T23:00:00Z"
-        },
-        {
-            "title": "Trump says US considering 'winding down' Iran war as Tehran fires long-range missiles",
-            "summary": "Israel announced on March 21 that Iranian forces, for the first time, fired long-range missiles, escalating regional tensions. This unprecedented move significantly expands the potential reach of attacks beyond the Middle East, posing new security challenges internationally. The development underlines the volatile geopolitical landscape involving key players like the US.",
-            "url": "https://www.channelnewsasia.com/world/war-iran-trump-long-range-missiles-6009276",
-            "category": "International",
-            "date": "2026-03-21T22:57:49Z"
-        },
-        {
-            "title": "INS Taragiri, Navy\u2019s latest stealth frigate, to be commissioned on April 3",
-            "summary": "INS Taragiri, the Indian Navy's advanced stealth frigate, is scheduled for commissioning on April 3. This induction significantly bolsters the Navy's combat capabilities and maritime security. As a modern stealth frigate, Taragiri features reduced detectability, highlighting India's growing indigenous shipbuilding prowess and commitment to naval modernization, which is crucial for power projection and defending national interests.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/ins-taragiri-navys-latest-stealth-frigate-to-be-commissioned-on-april-3/articleshow/129726783.cms",
-            "category": "Defence",
-            "date": "2026-03-21T22:39:55Z"
-        },
-        {
-            "title": "The Dave Brubeck Quartet \u2013 At Carnegie Hall album art",
-            "summary": "\"At Carnegie Hall\" is a seminal jazz live album by the Dave Brubeck Quartet, recorded on February 22, 1963, at the iconic Carnegie Hall in New York City. This renowned recording captures the quartet's legendary performance, praised by critics like Thom Jurek, solidifying its historical significance in jazz music.",
-            "url": "https://fontsinuse.com/uses/76191/the-dave-brubeck-quartet-at-carnegie-hall-alb",
-            "category": "National",
-            "date": "2026-03-21T21:31:36Z"
-        },
-        {
-            "title": "Eid Mubarak: Salman Khan blows flying kisses; Salim Khan waves at fans as he makes first public appearance post-hospitalisation, Katrina Kaif likes Salman Khan's post",
-            "summary": "Bollywood superstar Salman Khan, joined by his father Salim Khan, celebrated Eid by making a special appearance on their Galaxy apartment balcony. This traditional gesture, considered an 'Eidi' (gift) to his admirers, added an extra layer of festivity to the occasion. Thousands of fans gathered to witness the interaction, making their Eid celebrations memorable with this annual celebrity greeting.",
-            "url": "https://www.ibtimes.co.in/eid-mubarak-salman-khan-blows-flying-kisses-salim-khan-waves-fans-he-makes-first-appearance-899724",
-            "category": "National",
-            "date": "2026-03-21T19:52:12Z"
-        },
-        {
-            "title": "Jaane Anjaane Hum Mile\u2019s Bharat Ahlawwat on filming jail sequence with real ice slab; says \u201cSkin turned red, mind went numb\u201d",
-            "summary": "Actor Bharat Ahlawwat, from 'Jaane Anjaane Hum Miles,' revealed his challenging experience filming a jail sequence. He used a real ice slab, detailing how his skin turned red and his mind went numb from the cold. This glimpse into the demands of acting for television offers insight into the rigorous process of creating realistic scenes.",
-            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/jaane-anjaane-hum-miles-bharat-ahlawwat-on-filming-jail-sequence-with-real-ice-slab-says-skin-turned-red-mind-went-numb/articleshow/129720735.cms",
-            "category": "National",
-            "date": "2026-03-21T14:34:01Z"
         }
     ]
 }
