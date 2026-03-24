@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-03-24T06:58:48.120920+00:00",
+    "last_updated": "2026-03-24T13:01:30.305115+00:00",
     "articles": [
         {
-            "title": "Israel attacks Tehran as Iran takes aim at Gulf sites",
-            "summary": "Israel has launched fresh attacks on Iran, escalating Middle East tensions. Iran threatens retaliation against vital regional infrastructure. This intensifying conflict is significantly worsening the global energy crisis, highlighting the severe geopolitical and economic ramifications for international stability, a critical issue for SSB aspirants.",
-            "url": "https://www.rte.ie/news/world/2026/0323/1564702-iran-war/",
+            "title": "Covered in Bone! A Behind-the-Scenes Look at the Digitization of Four Rare Batak Manuscripts",
+            "summary": "Authored by a Digital Imaging Specialist, a Preservation Specialist, and a Head from a related division, this post likely explores advanced techniques in collections digitization and conservation. Their expertise suggests a focus on employing scientific and technological solutions for archiving and managing valuable resources, addressing challenges in long-term data and artifact preservation.",
+            "url": "https://blogs.loc.gov/international-collections/2026/03/covered-in-bone-a-behind-the-scenes-look-at-the-digitization-of-four-rare-batak-manuscripts/",
+            "category": "Sci & Tech",
+            "date": "2026-03-23T13:00:42Z"
+        },
+        {
+            "title": "Making 'Bad' Animation Beautiful: An Interview with ChaO Director Yasuhiro Aoki",
+            "summary": "Studio 4\u00b0C's feature film \"ChaO,\" which premiered in Japan this August, is now set for a North American theatrical release. The film was acquired by GKIDS prior to its Japanese debut, indicating its international appeal. This expansion allows a wider audience to experience the acclaimed animation, showcasing Japanese artistic talent globally and strengthening cultural exchange through cinema.",
+            "url": "https://www.animenewsnetwork.com/interview/2026-03-23/making-bad-animation-beautiful-an-with-chao-director-yasuhiro-aoki/.231093",
             "category": "International",
-            "date": "2026-03-23T06:24:28Z"
+            "date": "2026-03-23T13:00:00Z"
         },
         {
-            "title": "Everything Nate Oats said after Alabama basketball\u2019s dominant Texas Tech win",
-            "summary": "Alabama basketball secured a dominant 90-65 victory over Texas Tech in the NCAA tournament's Round of 32. This win propels the Crimson Tide into the prestigious Sweet 16 stage of the competition, where they are slated to face Michigan. The team's strong performance marks a significant advancement in the national collegiate basketball championship.",
-            "url": "https://www.al.com/alabamabasketball/2026/03/everything-nate-oats-said-after-alabama-basketballs-dominant-texas-tech-win.html?outputType=amp",
+            "title": "Altos Computing unveils 'Make-in-India' AI servers",
+            "summary": "Altos Computing, an Acer group company and global AI infrastructure provider, has launched its Make-in-India AI server portfolio. This initiative aligns with national self-reliance, providing advanced domestic AI infrastructure. It aims to significantly boost India's high-performance computing and artificial intelligence capabilities, supporting various sectors and fostering technological independence within the nation.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/altos-computing-unveils-make-in-india-ai-servers/articleshow/129752995.cms",
+            "category": "Sci & Tech",
+            "date": "2026-03-23T12:42:18Z"
+        },
+        {
+            "title": "Trump puts off threat to bomb Iran power grid, Iranian agency denies report of talks to end war",
+            "summary": "U.S. President Donald Trump ordered the postponement of military strikes against Iranian power plants for five days, just hours before a looming deadline. This decision signals a potential de-escalation amidst heightened tensions between the nations, impacting regional stability and international relations. This strategic pause could indicate a re-evaluation of military options, a critical development for geopolitical observers and aspiring defence personnel.",
+            "url": "https://economictimes.indiatimes.com/news/defence/trump-puts-off-threat-to-bomb-iran-power-grid-iranian-agency-denies-report-of-talks-to-end-war/articleshow/129752652.cms",
+            "category": "Defence",
+            "date": "2026-03-23T12:31:27Z"
+        },
+        {
+            "title": "UK Air Chief Marshal Smyth hails move for IAF to train Royal Air Force pilots",
+            "summary": "Britain's Air Chief Marshal Sir Harv Smyth recently lauded a new initiative enabling the Indian Air Force to train pilots from the UK's Royal Air Force. This significant development, announced in New Delhi, aims to bolster bilateral defence cooperation and strategic ties between India and the UK. The move underscores increasing mutual trust and a shared commitment to enhancing aerial capabilities through joint training and expertise exchange.",
+            "url": "https://economictimes.indiatimes.com/news/defence/uk-air-chief-marshal-smyth-hails-move-for-iaf-to-train-royal-air-force-pilots/articleshow/129752415.cms",
+            "category": "Defence",
+            "date": "2026-03-23T12:21:47Z"
+        },
+        {
+            "title": "NavIC: India's \"jinxed\" navigational program, or a cornerstone of India's misplaced space priorities?",
+            "summary": "India's NavIC (Navigation with Indian Constellation) is an indigenous regional satellite navigation system providing accurate positioning, navigation, and timing (PNT) services across India and surrounding areas. It significantly enhances national strategic autonomy, reducing reliance on foreign systems like GPS. This capability is crucial for critical infrastructure, defence applications, and various economic sectors, bolstering India's self-reliance in vital navigation technology.",
+            "url": "https://www.thespacereview.com/article/5185/1",
+            "category": "Sci & Tech",
+            "date": "2026-03-23T11:59:00Z"
+        },
+        {
+            "title": "Trump instructs Department of War to postpone military strikes against energy infrastructure in Iran",
+            "summary": "Iran has warned it will target vital electrical and water infrastructure in Gulf Arab states if the US and Israel attack Iranian power facilities. This retaliatory threat, coming from Tehran's defence council, underscores heightened geopolitical tensions in the Middle East and the potential for broader regional conflict, which aspirants should closely monitor.",
+            "url": "https://www.independent.ie/world-news/trump-instructs-department-of-war-to-postpone-military-strikes-against-energy-infrastructure-in-iran/a2078318561.html",
+            "category": "Defence",
+            "date": "2026-03-23T11:05:00Z"
+        },
+        {
+            "title": "Trump postpones military strikes against Iran\u2019s energy infrastructure; EU\u2019s Kallas welcomes move",
+            "summary": "Iran's defence council has issued a stern warning, threatening to target electrical plants and water infrastructure in Gulf Arab states if the US and Israel attack Iranian power facilities. Tehran also indicated it would deploy its naval forces. This declaration underscores escalating tensions in the Middle East, highlighting potential for significant regional conflict and strategic challenges.",
+            "url": "https://www.independent.ie/world-news/trump-postpones-military-strikes-against-irans-energy-infrastructure-eus-kallas-welcomes-move/a2078318561.html",
+            "category": "Defence",
+            "date": "2026-03-23T11:05:00Z"
+        },
+        {
+            "title": "Gold prices crash today; check 22K, 24K gold rates on Tanishq, Malabar Gold & Diamonds, Joyalukkas and IBJA; Why are silver and gold rates falling?",
+            "summary": "Gold and silver prices have seen a significant drop, presenting a favourable opportunity for buyers, especially for jewellery purchases. Current rates are considerably lower than last week's, according to recent data. This market trend could influence consumer spending and the broader national economy, potentially impacting investment strategies for precious metals.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-prices-crash-today-check-22k-24k-gold-rates-on-tanishq-malabar-gold-diamonds-joyalukkas-and-ibja-why-are-silver-and-gold-rates-falling/articleshow/129746824.cms",
             "category": "National",
-            "date": "2026-03-23T05:32:40Z"
-        },
-        {
-            "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build",
-            "summary": "Amidst the fourth week of war in the Middle East, Iran escalated its threats by warning it would target buyers of U.S. Treasury bonds. This move represents the latest development in an intensifying exchange of threats, reflecting heightened geopolitical tensions during the Trump administration's tenure, impacting global economic stability and international relations.",
-            "url": "https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html",
-            "category": "International",
-            "date": "2026-03-23T04:28:54Z"
-        },
-        {
-            "title": "Indian Army swiftly neutralises UXOs following standoff attack in Assam",
-            "summary": "ULFA(I) militants launched a standoff attack near an Assam Police Commando camp in Jagun, Tinsukia district, Assam, in the early hours of Sunday. The incident, reported around 0200 hours, highlights persistent internal security challenges in the region. This underscores the importance of robust counter-insurgency operations and maintaining vigilance against such threats to national stability.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-swiftly-neutralises-uxos-following-standoff-attack-in-assam/articleshow/129742838.cms",
-            "category": "National",
-            "date": "2026-03-23T04:19:54Z"
+            "date": "2026-03-23T08:24:55Z"
         }
     ]
 }
