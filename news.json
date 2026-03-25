@@ -1,68 +1,61 @@
 {
-    "last_updated": "2026-03-25T12:58:53.223497+00:00",
+    "last_updated": "2026-03-25T18:50:55.072928+00:00",
     "articles": [
         {
-            "title": "Anger in Cyprus as Iran war spotlights 'colonial' UK bases",
-            "summary": "Cyprus, a Mediterranean island, still shows subtle signs of its British colonial past. Key influences include driving on the left-hand side of the road. These lasting cultural and infrastructural nuances offer insights into the island's historical ties with the United Kingdom, highlighting the enduring legacy of colonial rule on its daily life and landscape.",
-            "url": "https://www.dw.com/en/anger-in-cyprus-as-iran-war-spotlights-colonial-uk-bases/a-76502214",
+            "title": "US, India don't need to agree on everything for effective cooperation: War Under Secretary",
+            "summary": "The US and India emphasize effective cooperation despite differing views, aiming for a stable Indo-Pacific where no single power dominates. A US official in New Delhi highlighted this strategic alignment, underscoring mutual benefits for regional security and balancing power. This partnership is crucial for both nations' future prosperity and global influence, reinforcing their shared commitment to a free and open Indo-Pacific.",
+            "url": "https://economictimes.indiatimes.com/news/defence/us-india-dont-need-to-agree-on-everything-for-effective-cooperation-war-under-secretary/articleshow/129785182.cms",
+            "category": "Defence",
+            "date": "2026-03-24T18:46:35Z"
+        },
+        {
+            "title": "Rajnath Singh to top military brass: Study West Asia conflict to bolster India's preparedness",
+            "summary": "Defence Minister Rajnath Singh has directed India's military leadership to conduct a comprehensive study of the West Asia conflict. This directive aims to bolster India's military preparedness and strategic responses. The analysis will help Indian armed forces adapt to evolving geopolitical dynamics and modern warfare challenges, ensuring national security remains robust amidst regional instability and emerging threats to maintain a strong defence posture.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-to-top-military-brass-study-west-asia-conflict-to-bolster-indias-preparedness/articleshow/129783299.cms",
+            "category": "Defence",
+            "date": "2026-03-24T17:36:57Z"
+        },
+        {
+            "title": "Trump dials Modi to discuss West Asia conflict; focus on Strait of Hormuz",
+            "summary": "Prime Minister Modi affirmed India's commitment to swiftly restoring peace in West Asia and ensuring the Strait of Hormuz remains open for global shipping. This stance was articulated during a meeting with US President Donald Trump. India emphasizes regional stability and the unimpeded flow of international trade through crucial maritime routes, highlighting its foreign policy priorities concerning strategic geopolitical areas.",
+            "url": "https://statetimes.in/trump-dials-modi-to-discuss-west-asia-conflict-focus-on-strait-of-hormuz/",
             "category": "International",
-            "date": "2026-03-24T12:38:00Z"
+            "date": "2026-03-24T17:32:57Z"
         },
         {
-            "title": "Rajasthan government inaugurates semiconductor policy",
-            "summary": "The Rajasthan government has unveiled a new semiconductor policy, a strategic initiative designed to significantly boost investment, employment, and technological innovation within the state. This move aims to position Rajasthan as a key player in India's growing semiconductor ecosystem, contributing to national self-reliance in critical technology and fostering advanced manufacturing capabilities.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/rajasthan-government-inaugurates-semiconductor-policy/articleshow/129776685.cms",
-            "category": "Sci & Tech",
-            "date": "2026-03-24T12:30:56Z"
-        },
-        {
-            "title": "AWS Bahrain suffers major disruption due to the ongoing US-Iran conflict \u2014 drone activity blamed for service interruption",
-            "summary": "The AWS Health Dashboard reports that Amazon Web Services is experiencing significant operational issues and service disruptions in the Bahrain region. This outage affects multiple AWS sites across the wider Middle East, potentially impacting numerous digital services reliant on its cloud infrastructure in the area. Such disruptions highlight the critical nature of cloud reliability for modern operations.",
-            "url": "https://www.tomshardware.com/tech-industry/aws-bahrain-suffers-major-disruption-due-to-the-ongoing-us-iran-conflict-drone-activity-blamed-for-service-interruption",
-            "category": "Sci & Tech",
-            "date": "2026-03-24T12:04:12Z"
-        },
-        {
-            "title": "Russia fires nearly 400 drones at Ukraine",
-            "summary": "Russia conducted a major drone and missile attack on Ukrainian civilian areas, killing four people and injuring 27. This aggressive offensive underscores Moscow's escalating military efforts to break through Ukrainian defenses amidst the ongoing conflict. The strikes highlight persistent geopolitical tensions and the continued impact on civilian lives in Eastern Europe.",
-            "url": "https://economictimes.indiatimes.com/news/defence/russia-fires-nearly-400-drones-at-ukraine/articleshow/129775211.cms",
-            "category": "Defence",
-            "date": "2026-03-24T11:24:53Z"
-        },
-        {
-            "title": "Deadly strikes in Iraq blamed on US, Iran",
-            "summary": "An air strike in Iraq killed 15 members of a former paramilitary coalition, marking the deadliest attack on the group since the Iran war. Separately, missile fire elsewhere in Iraq killed six Kurdish security forces. This dual incident underscores the volatile security situation and ongoing regional conflicts in the Middle East, highlighting the complex security challenges faced by nations.",
-            "url": "https://punchng.com/deadly-strikes-in-iraq-blamed-on-us-iran/",
-            "category": "Defence",
-            "date": "2026-03-24T10:51:02Z"
-        },
-        {
-            "title": "RIR Power develops India\u2019s first 25 kV thyristor switch",
-            "summary": "Mumbai-based RIR Power Electronics Ltd has successfully developed India's first indigenously made 25 kilovolt, 120 kiloampere capacitor discharge high-voltage thyristor switch. This landmark achievement underscores India's growing self-reliance and technological prowess in critical power electronics components, potentially bolstering various strategic sectors and reducing reliance on foreign imports.",
-            "url": "https://www.thehindubusinessline.com/companies/rir-power-develops-indias-first-25-kv-thyristor-switch/article70779160.ece",
-            "category": "Sci & Tech",
-            "date": "2026-03-24T10:35:24Z"
-        },
-        {
-            "title": "USS Mustin returns to forward-deployed Naval forces in Yokosuka",
-            "summary": "The US Navy's Arleigh Burke-class guided-missile destroyer USS Mustin (DDG 89) has reportedly arrived, marking a significant naval movement. As a key strategic asset, such deployments reinforce US maritime presence and commitment to regional security operations. Understanding the operational movements of guided-missile destroyers like USS Mustin is crucial for SSB aspirants to grasp global naval power projection and strategic alliances.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260323-usn05.htm",
-            "category": "Defence",
-            "date": "2026-03-24T09:29:21Z"
-        },
-        {
-            "title": "Israel, Iran war: India sourcing oil, gas from all avenues; efforts to continue in coming days, says PM Modi",
-            "summary": "India is proactively securing its energy supplies to mitigate potential disruptions from the ongoing Israel-Iran conflict. Prime Minister Narendra Modi informed the Rajya Sabha that the government is strategically sourcing crude oil. This move underscores India's commitment to national energy security and stability, ensuring steady availability amidst global geopolitical tensions affecting critical resources.",
-            "url": "https://economictimes.indiatimes.com/news/india/israel-iran-war-pm-modi-pushes-de-escalation-hormuz-opening-in-rajya-sabha/articleshow/129771404.cms",
+            "title": "The 7 MLB Managers Responsible For The Fastest Firings After Opening Day",
+            "summary": "Most MLB teams typically replace managers during the offseason if team performance falls short of expectations. However, the decision to change leadership can involve complex factors beyond simple results, such as locker room dynamics or long-term strategy. These managerial shifts aim to re-energize teams and set a new direction for future success in competitive professional baseball.",
+            "url": "https://brobible.com/sports/article/earliest-mlb-manager-firings-after-opening-day/",
             "category": "National",
-            "date": "2026-03-24T08:40:16Z"
+            "date": "2026-03-24T17:18:27Z"
         },
         {
-            "title": "22k gold rate today: check 22K, 24K gold prices (March 24, 2026) on Tanishq, Malabar Gold & Diamonds, Joyalukkas and IBJA",
-            "summary": "Gold and silver prices are experiencing a downturn, partly attributed to US President Trump's announcement of a pause in strikes against Iran. This de-escalation has reduced immediate geopolitical tensions, affecting safe-haven assets. While this easing of international strains is a factor, market analysts suggest other underlying economic indicators are also at play, pointing to a dynamic global economic environment for SSB aspirants to monitor.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-22k-24k-gold-prices-march-24-2026-on-tanishq-malabar-gold-diamonds-joyalukkas-and-ibja/articleshow/129771146.cms",
+            "title": "Pesach Q&A",
+            "summary": "Rav Shmuel Eliyahu, Chief Rabbi of Tzfat, addressed a query on Jewish dietary law concerning Pesach. The question focused on koshering an oven rack previously used for chametz (leavened products forbidden on Passover). The Rabbi confirmed that wrapping such a rack in aluminum foil is permissible for use during Pesach, providing practical guidance for religious observance within the community.",
+            "url": "https://www.israelnationalnews.com/news/424500",
+            "category": "National",
+            "date": "2026-03-24T16:46:57Z"
+        },
+        {
+            "title": "Intense bombing continues and thousands more US troops head to Middle East despite Trump touting \u2018peace talks\u2019",
+            "summary": "Intense military escalation grips the Middle East as Iran's capital faces air strikes, while Iranian missiles and drones target Israel's Tel Aviv and other regional sites. The US, led by President Trump, is actively engaged in talks with Israel amid this widening conflict. This rapid exchange underscores significant geopolitical instability and crucial defence implications for regional security.",
+            "url": "https://www.independent.ie/world-news/intense-bombing-continues-and-thousands-more-us-troops-head-to-middle-east-despite-trump-touting-peace-talks/a979727951.html",
+            "category": "Defence",
+            "date": "2026-03-24T16:46:08Z"
+        },
+        {
+            "title": "Plano 3540 Waterproof Stowaway for $7 + free shipping w/ Prime",
+            "summary": "Sales are currently available on select atomic clocks and weather gadgets. Interested individuals can find these deals under the 'Weather' and 'Time' sections. An example item highlighted is the La Crosse Technology Equity 2\" Gradie, suggesting opportunities to purchase advanced timekeeping and meteorological devices at a discount.",
+            "url": "https://www.dealnews.com/products/Plano/Plano-3540-Waterproof-Stowaway/498048.html",
+            "category": "Sci & Tech",
+            "date": "2026-03-24T16:34:24Z"
+        },
+        {
+            "title": "Who profits from a world at war? Inside the global boom in arms transfers",
+            "summary": "As of March 2026, the world faces a highly volatile and interconnected security landscape marked by escalating conflicts across multiple regions. Major escalations, including the US and Israeli war, are contributing to a period of unprecedented global instability. This complex web of geopolitical tensions and heightened military engagements demands keen awareness from future defence personnel and global leaders alike.",
+            "url": "https://www.rt.com/india/636000-global-arms-transfer-us-russia-india/",
             "category": "International",
-            "date": "2026-03-24T08:25:02Z"
+            "date": "2026-03-24T15:57:15Z"
         }
     ]
 }
