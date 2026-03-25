@@ -1,26 +1,68 @@
 {
-    "last_updated": "2026-03-25T06:57:11.553423+00:00",
+    "last_updated": "2026-03-25T12:58:53.223497+00:00",
     "articles": [
         {
-            "title": "From Bush\u2019s Crusade to Trump\u2019s Epic Fury: The Geopolitics of Messianic Wars",
-            "summary": "The article raises a critical warning for SSB aspirants regarding the military-industrial complex's unwarranted influence. It highlights a dangerous shift from manufacturing weapons for defence to potentially fabricating conflicts driven by economic motives. Understanding this complex dynamic is vital for future officers to ensure national security decisions prioritize genuine defence needs over industrial profit, upholding integrity in leadership.",
-            "url": "https://www.globalresearch.ca/bush-crusade-trump-epic-fury-geopolitics-messianic-wars/5919829",
-            "category": "Defence",
-            "date": "2026-03-24T06:46:08Z"
-        },
-        {
-            "title": "China is mapping the ocean floor as it prepares for submarine warfare with the U.S.",
-            "summary": "China is conducting extensive undersea mapping and monitoring operations across the Pacific, Indian, and Arctic Oceans. This initiative collects detailed marine data, which naval experts indicate has significant strategic implications for future naval operations and submarine warfare. Such comprehensive knowledge of seabed conditions and oceanography could provide China a critical advantage in naval deployments and defence strategies globally.",
-            "url": "https://economictimes.indiatimes.com/news/defence/china-is-mapping-the-ocean-floor-as-it-prepares-for-submarine-warfare-with-the-u-s-/articleshow/129768193.cms",
-            "category": "Defence",
-            "date": "2026-03-24T06:46:03Z"
-        },
-        {
-            "title": "Rajnath Singh reviews defence preparedness in high-level meeting on West Asia conflict",
-            "summary": "Defence Minister Rajnath Singh chaired a meeting with top defence officials to discuss the escalating situation in West Asia. The ongoing US-Israeli conflict with Iran, now in its 25th day, was the focus. India is closely monitoring the evolving geopolitical landscape, underscoring its strategic interest in regional stability and security implications.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-defence-minister-rajnath-singh-chairs-high-level-meeting-on-evolving-situation-in-west-asia-iran-israel-war-united-states/articleshow/129768231.cms",
+            "title": "Anger in Cyprus as Iran war spotlights 'colonial' UK bases",
+            "summary": "Cyprus, a Mediterranean island, still shows subtle signs of its British colonial past. Key influences include driving on the left-hand side of the road. These lasting cultural and infrastructural nuances offer insights into the island's historical ties with the United Kingdom, highlighting the enduring legacy of colonial rule on its daily life and landscape.",
+            "url": "https://www.dw.com/en/anger-in-cyprus-as-iran-war-spotlights-colonial-uk-bases/a-76502214",
             "category": "International",
-            "date": "2026-03-24T05:59:39Z"
+            "date": "2026-03-24T12:38:00Z"
+        },
+        {
+            "title": "Rajasthan government inaugurates semiconductor policy",
+            "summary": "The Rajasthan government has unveiled a new semiconductor policy, a strategic initiative designed to significantly boost investment, employment, and technological innovation within the state. This move aims to position Rajasthan as a key player in India's growing semiconductor ecosystem, contributing to national self-reliance in critical technology and fostering advanced manufacturing capabilities.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/rajasthan-government-inaugurates-semiconductor-policy/articleshow/129776685.cms",
+            "category": "Sci & Tech",
+            "date": "2026-03-24T12:30:56Z"
+        },
+        {
+            "title": "AWS Bahrain suffers major disruption due to the ongoing US-Iran conflict \u2014 drone activity blamed for service interruption",
+            "summary": "The AWS Health Dashboard reports that Amazon Web Services is experiencing significant operational issues and service disruptions in the Bahrain region. This outage affects multiple AWS sites across the wider Middle East, potentially impacting numerous digital services reliant on its cloud infrastructure in the area. Such disruptions highlight the critical nature of cloud reliability for modern operations.",
+            "url": "https://www.tomshardware.com/tech-industry/aws-bahrain-suffers-major-disruption-due-to-the-ongoing-us-iran-conflict-drone-activity-blamed-for-service-interruption",
+            "category": "Sci & Tech",
+            "date": "2026-03-24T12:04:12Z"
+        },
+        {
+            "title": "Russia fires nearly 400 drones at Ukraine",
+            "summary": "Russia conducted a major drone and missile attack on Ukrainian civilian areas, killing four people and injuring 27. This aggressive offensive underscores Moscow's escalating military efforts to break through Ukrainian defenses amidst the ongoing conflict. The strikes highlight persistent geopolitical tensions and the continued impact on civilian lives in Eastern Europe.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-fires-nearly-400-drones-at-ukraine/articleshow/129775211.cms",
+            "category": "Defence",
+            "date": "2026-03-24T11:24:53Z"
+        },
+        {
+            "title": "Deadly strikes in Iraq blamed on US, Iran",
+            "summary": "An air strike in Iraq killed 15 members of a former paramilitary coalition, marking the deadliest attack on the group since the Iran war. Separately, missile fire elsewhere in Iraq killed six Kurdish security forces. This dual incident underscores the volatile security situation and ongoing regional conflicts in the Middle East, highlighting the complex security challenges faced by nations.",
+            "url": "https://punchng.com/deadly-strikes-in-iraq-blamed-on-us-iran/",
+            "category": "Defence",
+            "date": "2026-03-24T10:51:02Z"
+        },
+        {
+            "title": "RIR Power develops India\u2019s first 25 kV thyristor switch",
+            "summary": "Mumbai-based RIR Power Electronics Ltd has successfully developed India's first indigenously made 25 kilovolt, 120 kiloampere capacitor discharge high-voltage thyristor switch. This landmark achievement underscores India's growing self-reliance and technological prowess in critical power electronics components, potentially bolstering various strategic sectors and reducing reliance on foreign imports.",
+            "url": "https://www.thehindubusinessline.com/companies/rir-power-develops-indias-first-25-kv-thyristor-switch/article70779160.ece",
+            "category": "Sci & Tech",
+            "date": "2026-03-24T10:35:24Z"
+        },
+        {
+            "title": "USS Mustin returns to forward-deployed Naval forces in Yokosuka",
+            "summary": "The US Navy's Arleigh Burke-class guided-missile destroyer USS Mustin (DDG 89) has reportedly arrived, marking a significant naval movement. As a key strategic asset, such deployments reinforce US maritime presence and commitment to regional security operations. Understanding the operational movements of guided-missile destroyers like USS Mustin is crucial for SSB aspirants to grasp global naval power projection and strategic alliances.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260323-usn05.htm",
+            "category": "Defence",
+            "date": "2026-03-24T09:29:21Z"
+        },
+        {
+            "title": "Israel, Iran war: India sourcing oil, gas from all avenues; efforts to continue in coming days, says PM Modi",
+            "summary": "India is proactively securing its energy supplies to mitigate potential disruptions from the ongoing Israel-Iran conflict. Prime Minister Narendra Modi informed the Rajya Sabha that the government is strategically sourcing crude oil. This move underscores India's commitment to national energy security and stability, ensuring steady availability amidst global geopolitical tensions affecting critical resources.",
+            "url": "https://economictimes.indiatimes.com/news/india/israel-iran-war-pm-modi-pushes-de-escalation-hormuz-opening-in-rajya-sabha/articleshow/129771404.cms",
+            "category": "National",
+            "date": "2026-03-24T08:40:16Z"
+        },
+        {
+            "title": "22k gold rate today: check 22K, 24K gold prices (March 24, 2026) on Tanishq, Malabar Gold & Diamonds, Joyalukkas and IBJA",
+            "summary": "Gold and silver prices are experiencing a downturn, partly attributed to US President Trump's announcement of a pause in strikes against Iran. This de-escalation has reduced immediate geopolitical tensions, affecting safe-haven assets. While this easing of international strains is a factor, market analysts suggest other underlying economic indicators are also at play, pointing to a dynamic global economic environment for SSB aspirants to monitor.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-22k-24k-gold-prices-march-24-2026-on-tanishq-malabar-gold-diamonds-joyalukkas-and-ibja/articleshow/129771146.cms",
+            "category": "International",
+            "date": "2026-03-24T08:25:02Z"
         }
     ]
 }
