@@ -1,58 +1,37 @@
 {
-    "last_updated": "2026-03-25T18:50:55.072928+00:00",
+    "last_updated": "2026-03-26T01:56:52.323549+00:00",
     "articles": [
         {
-            "title": "US, India don't need to agree on everything for effective cooperation: War Under Secretary",
-            "summary": "The US and India emphasize effective cooperation despite differing views, aiming for a stable Indo-Pacific where no single power dominates. A US official in New Delhi highlighted this strategic alignment, underscoring mutual benefits for regional security and balancing power. This partnership is crucial for both nations' future prosperity and global influence, reinforcing their shared commitment to a free and open Indo-Pacific.",
-            "url": "https://economictimes.indiatimes.com/news/defence/us-india-dont-need-to-agree-on-everything-for-effective-cooperation-war-under-secretary/articleshow/129785182.cms",
-            "category": "Defence",
-            "date": "2026-03-24T18:46:35Z"
-        },
-        {
-            "title": "Rajnath Singh to top military brass: Study West Asia conflict to bolster India's preparedness",
-            "summary": "Defence Minister Rajnath Singh has directed India's military leadership to conduct a comprehensive study of the West Asia conflict. This directive aims to bolster India's military preparedness and strategic responses. The analysis will help Indian armed forces adapt to evolving geopolitical dynamics and modern warfare challenges, ensuring national security remains robust amidst regional instability and emerging threats to maintain a strong defence posture.",
-            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-to-top-military-brass-study-west-asia-conflict-to-bolster-indias-preparedness/articleshow/129783299.cms",
-            "category": "Defence",
-            "date": "2026-03-24T17:36:57Z"
-        },
-        {
-            "title": "Trump dials Modi to discuss West Asia conflict; focus on Strait of Hormuz",
-            "summary": "Prime Minister Modi affirmed India's commitment to swiftly restoring peace in West Asia and ensuring the Strait of Hormuz remains open for global shipping. This stance was articulated during a meeting with US President Donald Trump. India emphasizes regional stability and the unimpeded flow of international trade through crucial maritime routes, highlighting its foreign policy priorities concerning strategic geopolitical areas.",
-            "url": "https://statetimes.in/trump-dials-modi-to-discuss-west-asia-conflict-focus-on-strait-of-hormuz/",
+            "title": "2 pilots killed in LaGuardia Airport runway collision identified",
+            "summary": "Two young, ambitious Canadian pilots tragically died in a runway collision at New York's LaGuardia Airport on Sunday. Both individuals were at the very start of their careers, having dedicated years to pursuing their dream of flying. Their untimely deaths mark a poignant loss within the aviation community, underscoring the inherent dangers in this demanding profession.",
+            "url": "https://www.cbsnews.com/news/pilots-killed-laguardia-runway-collision-identified/",
             "category": "International",
-            "date": "2026-03-24T17:32:57Z"
+            "date": "2026-03-25T00:52:47Z"
         },
         {
-            "title": "The 7 MLB Managers Responsible For The Fastest Firings After Opening Day",
-            "summary": "Most MLB teams typically replace managers during the offseason if team performance falls short of expectations. However, the decision to change leadership can involve complex factors beyond simple results, such as locker room dynamics or long-term strategy. These managerial shifts aim to re-energize teams and set a new direction for future success in competitive professional baseball.",
-            "url": "https://brobible.com/sports/article/earliest-mlb-manager-firings-after-opening-day/",
-            "category": "National",
-            "date": "2026-03-24T17:18:27Z"
-        },
-        {
-            "title": "Pesach Q&A",
-            "summary": "Rav Shmuel Eliyahu, Chief Rabbi of Tzfat, addressed a query on Jewish dietary law concerning Pesach. The question focused on koshering an oven rack previously used for chametz (leavened products forbidden on Passover). The Rabbi confirmed that wrapping such a rack in aluminum foil is permissible for use during Pesach, providing practical guidance for religious observance within the community.",
-            "url": "https://www.israelnationalnews.com/news/424500",
-            "category": "National",
-            "date": "2026-03-24T16:46:57Z"
-        },
-        {
-            "title": "Intense bombing continues and thousands more US troops head to Middle East despite Trump touting \u2018peace talks\u2019",
-            "summary": "Intense military escalation grips the Middle East as Iran's capital faces air strikes, while Iranian missiles and drones target Israel's Tel Aviv and other regional sites. The US, led by President Trump, is actively engaged in talks with Israel amid this widening conflict. This rapid exchange underscores significant geopolitical instability and crucial defence implications for regional security.",
-            "url": "https://www.independent.ie/world-news/intense-bombing-continues-and-thousands-more-us-troops-head-to-middle-east-despite-trump-touting-peace-talks/a979727951.html",
-            "category": "Defence",
-            "date": "2026-03-24T16:46:08Z"
-        },
-        {
-            "title": "Plano 3540 Waterproof Stowaway for $7 + free shipping w/ Prime",
-            "summary": "Sales are currently available on select atomic clocks and weather gadgets. Interested individuals can find these deals under the 'Weather' and 'Time' sections. An example item highlighted is the La Crosse Technology Equity 2\" Gradie, suggesting opportunities to purchase advanced timekeeping and meteorological devices at a discount.",
-            "url": "https://www.dealnews.com/products/Plano/Plano-3540-Waterproof-Stowaway/498048.html",
+            "title": "US server maker Super Micro is eyeing India manufacturing unit",
+            "summary": "Super Micro Computer is actively exploring establishing a server manufacturing unit in India. This strategic move would significantly bolster India's electronics manufacturing capabilities and align with the 'Make in India' initiative. The company is currently engaged in discussions with various state governments, signaling a substantial investment that could create jobs and strengthen the nation's digital infrastructure and technological self-reliance.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/us-server-maker-super-micro-is-eyeing-india-manufacturing-unit/articleshow/129784166.cms",
             "category": "Sci & Tech",
-            "date": "2026-03-24T16:34:24Z"
+            "date": "2026-03-25T00:30:00Z"
+        },
+        {
+            "title": "Lagos sets up LOC for National Intermediate Games",
+            "summary": "Lagos State Governor Babajide Sanwo-Olu has approved the inauguration of the Local Organising Committee (LOC) for the National Intermediate Games. Lagos is set to host the maiden edition of this national sporting event. This crucial step underscores Nigeria's commitment to youth development and national sports excellence. The LOC will oversee all preparations, aiming to ensure seamless planning and execution, foster talent discovery, and promote healthy competition across the country, thereby strengthening national unity.",
+            "url": "https://punchng.com/lagos-sets-up-loc-for-national-intermediate-games/",
+            "category": "National",
+            "date": "2026-03-25T00:24:44Z"
+        },
+        {
+            "title": "edgefirst-hal 0.12.0",
+            "summary": "A required website component encountered loading issues, potentially due to browser extensions, network problems, or specific settings. Users are advised to troubleshoot by verifying connections, disabling ad blockers, or trying an alternative browser. This incident highlights the need for robust digital infrastructure and user proficiency in managing technical glitches, essential skills for future leaders.",
+            "url": "https://pypi.org/project/edgefirst-hal/0.12.0/",
+            "category": "Sci & Tech",
+            "date": "2026-03-24T22:46:42Z"
         },
         {
             "title": "Who profits from a world at war? Inside the global boom in arms transfers",
-            "summary": "As of March 2026, the world faces a highly volatile and interconnected security landscape marked by escalating conflicts across multiple regions. Major escalations, including the US and Israeli war, are contributing to a period of unprecedented global instability. This complex web of geopolitical tensions and heightened military engagements demands keen awareness from future defence personnel and global leaders alike.",
+            "summary": "As of March 2026, the global security landscape is increasingly volatile due to heightened, interconnected conflicts across multiple regions. Major escalations involve a war with the US and Israel, indicating widespread instability. This complex geopolitical environment demands strategic awareness from SSB aspirants to understand the evolving challenges facing international peace and security.",
             "url": "https://www.rt.com/india/636000-global-arms-transfer-us-russia-india/",
             "category": "International",
             "date": "2026-03-24T15:57:15Z"
