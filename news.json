@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-03-26T13:03:56.819026+00:00",
+    "last_updated": "2026-03-26T18:59:21.277130+00:00",
     "articles": [
         {
-            "title": "Answering America's Call, Britain to Lead Hormuz Coalition of Nations Sending Warships to Keep Strait Open",
-            "summary": "British military officers are integrating with CENTCOM to prepare for a long-term freedom-of-navigation mission in the strategic Strait of Hormuz. This initiative, involving meetings with allied nations, aims to ensure maritime security and unimpeded global shipping through this critical waterway. For SSB aspirants, this highlights international cooperation in safeguarding vital sea lanes against regional threats.",
-            "url": "https://www.breitbart.com/europe/2026/03/25/answering-americas-call-britain-to-lead-hormuz-coalition/",
-            "category": "Defence",
-            "date": "2026-03-25T12:29:57Z"
+            "title": "Call of Duty: Black Ops 7 brings back fan-favorite multiplayer maps and modes in Season 3",
+            "summary": "Call of Duty: Black Ops 7's Season 3 update goes live on April 2, bringing significant new content for multiplayer fans. The update introduces nine new and returning maps, alongside various other features like new weapons, operators, and gameplay modes. This aims to enhance the overall gaming experience across all platforms.",
+            "url": "https://www.windowscentral.com/gaming/call-of-duty/black-ops-7-multiplayer-season-3",
+            "category": "Sci & Tech",
+            "date": "2026-03-25T18:09:02Z"
         },
         {
-            "title": "Cockpit audio reveals final three minutes of tragic Air Canada flight crash",
-            "summary": "Investigators are utilizing cockpit audio recordings from a plane that crashed into a fire truck at LaGuardia Airport in New York on March 22nd. These crucial recordings are helping to reconstruct the final moments leading up to the incident. The investigation aims to accurately determine the cause, sequence of events, and inform future aviation safety measures, underscoring the importance of meticulous accident analysis for preventing recurrence.",
-            "url": "https://www.ladbible.com/news/us-news/air-canada-crash-cockpit-audio-486442-20260325",
+            "title": "LANTERNS: Grant Morrison Responds to Damon Lindelof\u2019s Green Lantern Controversy With His Own Apology",
+            "summary": "The upcoming HBO series 'Lanterns' has already sparked surprising drama between two major creative voices, even before its premiere. This conflict reportedly originated from an old comment made by Damon Lindelof. The early controversy highlights behind-the-scenes tensions and creative differences that can arise in high-profile entertainment productions, drawing attention to internal dynamics within the global media industry.",
+            "url": "https://geektyrant.com/news/lanterns-grant-morrison-responds-to-damon-lindelofs-green-lantern-controversy-with-his-own-apology",
             "category": "International",
-            "date": "2026-03-25T12:14:06Z"
+            "date": "2026-03-25T18:00:00Z"
         },
         {
-            "title": "Major Gift to Empire Club Foundation Launches Hal Jackman Future Nation Builder Awards to Support Canada\u2019s Emerging Student Leaders",
-            "summary": "Canada has launched a new national program designed to empower students across the country. This initiative will provide substantial scholarships to support academic achievements, coupled with essential mentorship opportunities for personal and professional growth. Furthermore, it aims to cultivate future leaders by offering diverse leadership development programs, ensuring comprehensive support and skill-building for participating students nationwide.",
-            "url": "https://financialpost.com/globe-newswire/major-gift-to-empire-club-foundation-launches-hal-jackman-future-nation-builder-awards-to-support-canadas-emerging-student-leaders",
-            "category": "National",
-            "date": "2026-03-25T12:03:31Z"
-        },
-        {
-            "title": "UFP Packaging introduces new nail-free crate systems",
-            "summary": "UFP Packaging has released the Slot-Lock and Clamp-Lock 100, innovative crate systems designed for assembly without nail or staple guns. This development streamlines packaging operations, offering a more efficient and user-friendly solution for industries. The new designs enhance safety and speed in logistics and supply chain processes by simplifying the traditional methods of crate construction, showcasing advancements in packaging technology.",
-            "url": "https://www.packaging-gateway.com/news/ufp-packaging-nail-free-crate-systems/",
+            "title": "Black Ops 7 and Call of Duty: Warzone Season 03 Content Drop: The Full Details",
+            "summary": "An upcoming 'Season 03' update will implement a significant change to 'Endgame Loadouts,' assigning them individually to each 'Operator.' This means every distinct character will possess their own unique set of weapons, field acquisitions, and equipment. The update aims to enhance strategic depth and personalization within the gaming experience, requiring players to adapt tactical approaches based on individual operator specializations.",
+            "url": "https://www.callofduty.com/blog/2026/03/call-of-duty-black-ops-7-warzone-season-03-announcement.html#new_tab",
             "category": "Sci & Tech",
-            "date": "2026-03-25T12:02:59Z"
+            "date": "2026-03-25T17:30:00Z"
         },
         {
-            "title": "Photos of A-10s Used to Strike Iranian Naval Vessels Show Video Game-Inspired Nicknames",
-            "summary": "U.S. Air Force A-10 Thunderbolt II jets, supporting Operation Epic Fury, have commenced targeting fast attack watercraft in the strategic Strait of Hormuz. This highlights the critical role of air power in maritime security and protecting vital international shipping lanes. Aspiring officers should understand such deployments in global defence and choke point control.",
-            "url": "https://theaviationist.com/2026/03/25/a-10s-nicknames-epic-fury/",
+            "title": "Iran reviews ceasefire plan as Gulf states say war poses \u2018existential threat\u2019",
+            "summary": "Iran is reportedly reviewing a US proposal aimed at ending a regional conflict. This development coincides with Gulf countries informing the United Nations that Iranian strikes pose an \"existential threat\" to their civilians and infrastructure. The situation underscores persistent tensions in the Middle East and highlights ongoing diplomatic efforts through international bodies to address regional security concerns.",
+            "url": "https://www.abc.net.au/news/2026-03-26/iran-rejects-ceasefire-plan-as-un-orders-a-stop-to-war-crimes-/106496228",
+            "category": "International",
+            "date": "2026-03-25T17:29:08Z"
+        },
+        {
+            "title": "Iran rejects American peace overture, puts five conditions to end war",
+            "summary": "Iran rejected a US plan for a Middle East war pause, escalating regional tensions by launching fresh attacks. These targeted Israel and Gulf Arab countries, including a significant assault that ignited a large fire in Kuwait. This demonstrates Iran's continued assertive stance and refusal to de-escalate, highlighting ongoing instability and complex geopolitical dynamics in the region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/iran-rejects-american-peace-overture-puts-five-conditions-to-end-war/articleshow/129807940.cms",
+            "category": "International",
+            "date": "2026-03-25T17:26:46Z"
+        },
+        {
+            "title": "\u2018Lack of compassion\u2019: Carney slams Air Canada CEO for English-only video following death of pilots",
+            "summary": "Canadian Prime Minister Mark Carney intervened in the debate surrounding Air Canada CEO Michael Rousseau's unilingual English video. Rousseau had offered condolences for two lost pilots in the video, sparking controversy over the use of official languages. The Prime Minister's comments highlight the significant linguistic sensitivities and the importance of bilingualism within Canada, especially concerning national institutions like Air Canada, prompting public discussion.",
+            "url": "https://nationalpost.com/news/lack-of-compassion-carney-slams-air-canada-ceo-for-english-only-video-following-death-of-pilots",
+            "category": "National",
+            "date": "2026-03-25T16:59:24Z"
+        },
+        {
+            "title": "Supercharged 2014 Lamborghini Gallardo LP550-2 Coupe",
+            "summary": "A 2014 Lamborghini Gallardo LP550-2 coupe, with 21k miles from US registration, has undergone significant modifications. Key enhancements include a VF Engineering supercharger, boosting performance, and a distinctive camouflage-style finish. This highlights specialized automotive engineering and design, showcasing technological upgrades in high-performance vehicles.",
+            "url": "https://bringatrailer.com/listing/2014-lamborghini-gallardo-lp550-2-coupe-2/",
+            "category": "Sci & Tech",
+            "date": "2026-03-25T16:15:06Z"
+        },
+        {
+            "title": "HFCL unifies defence biz under new entity, loaded with Rs 1,680 order book",
+            "summary": "Indian technology firm HFCL Limited has strategically consolidated its defence business into a new dedicated entity, HASPL. Commencing operations with a significant order book of Rs 1,680 crore, this move highlights HFCL's enhanced focus and commitment to India's defence sector. It strengthens domestic capabilities in defence manufacturing and technology, contributing to national self-reliance.",
+            "url": "https://economictimes.indiatimes.com/news/defence/hfcl-unifies-defence-biz-under-new-entity-loaded-with-rs-1680-order-book/articleshow/129806111.cms",
             "category": "Defence",
-            "date": "2026-03-25T11:58:04Z"
-        },
-        {
-            "title": "Review \u2013 Green Lantern #33: The Legacy Shines",
-            "summary": "The landmark 600th legacy issue of Green Lantern earns a stellar 9.5/10 rating. This pivotal DC Comics release significantly reshapes the series' narrative, introducing new roles for some Lanterns while others revert to familiar positions. It effectively resets the playing field for the iconic franchise, promising fresh developments and engaging storylines for readers.",
-            "url": "https://geekdad.com/2026/03/review-green-lantern-33-the-legacy-shines/",
-            "category": "Sci & Tech",
-            "date": "2026-03-25T11:50:07Z"
-        },
-        {
-            "title": "What these Yankees need to calm their restless fans and hold off a hard-charging AL East",
-            "summary": "The article introduces the concept of 'fan equity,' where individuals like general managers and teams within a franchise can build goodwill and patience with their fan base across years. This accumulated loyalty is crucial for maintaining stability and managing expectations within such organizations, underscoring the importance of sustained public trust and sentiment for operational continuity.",
-            "url": "https://nypost.com/2026/03/25/sports/what-yankees-need-to-calm-fans-and-hold-off-al-east-in-2026/",
-            "category": "National",
-            "date": "2026-03-25T11:40:00Z"
+            "date": "2026-03-25T16:02:00Z"
         }
     ]
 }
