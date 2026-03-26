@@ -1,40 +1,61 @@
 {
-    "last_updated": "2026-03-26T01:56:52.323549+00:00",
+    "last_updated": "2026-03-26T07:02:20.166636+00:00",
     "articles": [
         {
-            "title": "2 pilots killed in LaGuardia Airport runway collision identified",
-            "summary": "Two young, ambitious Canadian pilots tragically died in a runway collision at New York's LaGuardia Airport on Sunday. Both individuals were at the very start of their careers, having dedicated years to pursuing their dream of flying. Their untimely deaths mark a poignant loss within the aviation community, underscoring the inherent dangers in this demanding profession.",
-            "url": "https://www.cbsnews.com/news/pilots-killed-laguardia-runway-collision-identified/",
-            "category": "International",
-            "date": "2026-03-25T00:52:47Z"
-        },
-        {
-            "title": "US server maker Super Micro is eyeing India manufacturing unit",
-            "summary": "Super Micro Computer is actively exploring establishing a server manufacturing unit in India. This strategic move would significantly bolster India's electronics manufacturing capabilities and align with the 'Make in India' initiative. The company is currently engaged in discussions with various state governments, signaling a substantial investment that could create jobs and strengthen the nation's digital infrastructure and technological self-reliance.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/us-server-maker-super-micro-is-eyeing-india-manufacturing-unit/articleshow/129784166.cms",
+            "title": "contentgrid-assistant-api added to PyPI",
+            "summary": "This news details a new FastAPI framework for developing conversational AI assistants, integrating LangGraph technology. Designed for the ContentGrid ecosystem, it's named the ContentGrid Assistant API, offering a comprehensive framework. This innovation signifies ongoing advancements in AI tooling and application development, crucial for understanding modern technological landscapes and their broader implications.",
+            "url": "https://pypi.org/project/contentgrid-assistant-api/",
             "category": "Sci & Tech",
-            "date": "2026-03-25T00:30:00Z"
+            "date": "2026-03-25T07:00:41Z"
         },
         {
-            "title": "Lagos sets up LOC for National Intermediate Games",
-            "summary": "Lagos State Governor Babajide Sanwo-Olu has approved the inauguration of the Local Organising Committee (LOC) for the National Intermediate Games. Lagos is set to host the maiden edition of this national sporting event. This crucial step underscores Nigeria's commitment to youth development and national sports excellence. The LOC will oversee all preparations, aiming to ensure seamless planning and execution, foster talent discovery, and promote healthy competition across the country, thereby strengthening national unity.",
-            "url": "https://punchng.com/lagos-sets-up-loc-for-national-intermediate-games/",
+            "title": "Orange: Orange enters into exclusive negotiations with Verdoso with a view to a possible divestment of Globecast",
+            "summary": "Orange has entered exclusive negotiations with the investment fund Verdoso for a potential divestment of Globecast. Globecast, a subsidiary of Orange, specializes in content contribution, processing, and distribution services. This move, announced from Paris on March 25, 2026, represents a significant corporate restructuring for Orange within the telecommunications and media technology sector, potentially streamlining its operational focus.",
+            "url": "https://www.globenewswire.com/news-release/2026/03/25/3261939/0/en/Orange-Orange-enters-into-exclusive-negotiations-with-Verdoso-with-a-view-to-a-possible-divestment-of-Globecast.html",
+            "category": "Sci & Tech",
+            "date": "2026-03-25T07:00:00Z"
+        },
+        {
+            "title": "Some of Trump's Iran war objectives remain unfulfilled as he looks to wind down the conflict",
+            "summary": "US President Donald Trump has outlined five specific objectives the United States aims to achieve before concluding its conflict with Iran. This announcement follows suggestions that the US may soon be winding down its operations. This highlights crucial aspects of strategic foreign policy, international relations, and the diplomatic parameters set by major powers in resolving complex geopolitical tensions.",
+            "url": "https://abcnews.com/US/wireStory/trumps-iran-war-objectives-remain-unfulfilled-wind-conflict-131374194",
+            "category": "International",
+            "date": "2026-03-25T06:44:35Z"
+        },
+        {
+            "title": "'Best defeat' in Bosnia and the Wales hero you've never heard of",
+            "summary": "The article highlights a significant moment in Welsh football history, referencing a crucial goal scored by a London-born Cypriot in Israel. It prominently features Jess Fishlock, who holds the record for scoring the most goals for Wales. Her unparalleled contribution firmly establishes her as a pivotal figure in the national team's legacy and achievements, showcasing dedication and sporting excellence.",
+            "url": "https://www.bbc.com/sport/football/articles/cy814712ye7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
             "category": "National",
-            "date": "2026-03-25T00:24:44Z"
+            "date": "2026-03-25T06:31:33Z"
         },
         {
-            "title": "edgefirst-hal 0.12.0",
-            "summary": "A required website component encountered loading issues, potentially due to browser extensions, network problems, or specific settings. Users are advised to troubleshoot by verifying connections, disabling ad blockers, or trying an alternative browser. This incident highlights the need for robust digital infrastructure and user proficiency in managing technical glitches, essential skills for future leaders.",
-            "url": "https://pypi.org/project/edgefirst-hal/0.12.0/",
-            "category": "Sci & Tech",
-            "date": "2026-03-24T22:46:42Z"
-        },
-        {
-            "title": "Who profits from a world at war? Inside the global boom in arms transfers",
-            "summary": "As of March 2026, the global security landscape is increasingly volatile due to heightened, interconnected conflicts across multiple regions. Major escalations involve a war with the US and Israel, indicating widespread instability. This complex geopolitical environment demands strategic awareness from SSB aspirants to understand the evolving challenges facing international peace and security.",
-            "url": "https://www.rt.com/india/636000-global-arms-transfer-us-russia-india/",
+            "title": "'Best defeat' in Bosnia and the Wales hero you've never heard of",
+            "summary": "Wales endured over half a century in the international sporting wilderness, notably absent from major tournaments since the 1958 World Cup. This prolonged period was characterized by decades of false dawns and agonizing stumbles, illustrating a sustained struggle to regain prominence on the global stage despite numerous attempts and near-misses over the years.",
+            "url": "https://www.bbc.com/sport/football/articles/cy814712ye7o",
             "category": "International",
-            "date": "2026-03-24T15:57:15Z"
+            "date": "2026-03-25T06:31:28Z"
+        },
+        {
+            "title": "Cameras Compared: S26 Ultra vs. iPhone 17 Pro Max vs. Xiaomi 17 Ultra",
+            "summary": "The competition for the best camera phone of 2026 is fiercely contested by flagship models like the S26 Ultra, iPhone 17 Pro Max, and Xiaomi 17 Ultra. These devices are driving unprecedented innovation in mobile photography, integrating advanced features and technologies to set new benchmarks. This reflects a rapid evolution in smartphone imaging capabilities as manufacturers vie for market dominance and the ultimate user experience.",
+            "url": "https://www.geeky-gadgets.com/6-camera-phone-comparison/",
+            "category": "Sci & Tech",
+            "date": "2026-03-25T06:00:38Z"
+        },
+        {
+            "title": "Russia fires nearly 400 drones at Ukraine with signs its spring offensive has begun",
+            "summary": "A major Russian drone and missile attack has reportedly killed six people and injured at least 46 in Ukrainian civilian areas. This intensified assault reflects Moscow's efforts to breach Ukrainian frontlines, highlighting the escalating conflict. Such attacks on populated regions underscore the severe humanitarian impact and the strategic challenges of the ongoing war.",
+            "url": "https://www.abc.net.au/news/2026-03-25/russia-fires-nearly-400-drones-ukraine-spring-offensive/106495618",
+            "category": "Defence",
+            "date": "2026-03-25T05:23:28Z"
+        },
+        {
+            "title": "China mapping ocean floor; Preps for submarine warfare with USA...",
+            "summary": "China is conducting extensive undersea mapping and monitoring operations across the Pacific, Indian, and Arctic oceans. This ambitious initiative aims to build detailed knowledge of marine conditions. Naval experts suggest this strategic mapping provides China with significant advantages, potentially enhancing its submarine operations and overall maritime capabilities, impacting global naval balances and regional security concerns.",
+            "url": "https://www.airforcetimes.com/news/your-military/2026/03/24/china-maps-ocean-floor-as-it-prepares-for-submarine-warfare-with-us/",
+            "category": "Defence",
+            "date": "2026-03-24T22:04:36Z"
         }
     ]
 }
