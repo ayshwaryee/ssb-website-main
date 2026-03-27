@@ -1,75 +1,61 @@
 {
-    "last_updated": "2026-03-27T07:01:11.827602+00:00",
+    "last_updated": "2026-03-27T12:55:54.118541+00:00",
     "articles": [
         {
-            "title": "US-Israel war on Iran: What\u2019s happening on day 27 of attacks?",
-            "summary": "An Al Jazeera correspondent in Tehran reports increasing strikes against Iran, signaling a continued conflict involving the United States and Israel. The escalation in intensity comes amidst conflicting claims regarding ongoing negotiations. This situation highlights rising regional tensions and complex diplomatic challenges in the Middle East, requiring close monitoring for its geopolitical impact.",
-            "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks",
-            "category": "International",
-            "date": "2026-03-26T06:53:23Z"
-        },
-        {
-            "title": "Terror Premiere New Single & Lyric Video \"Destruction Of My Soul\" From Upcoming New Album \"Still Suffer\"",
-            "summary": "Hardcore band Terror is set to release their ninth studio album, \"Still Suffer,\" in less than a month. Fans can already preview new material as the band has unveiled a lyric video for their track, \"Destructio.\" This upcoming release marks another significant addition to Terror's extensive discography, promising new music for their global fanbase as the album's launch date approaches.",
-            "url": "http://www.metalunderground.com/news/details.cfm?newsid=161090",
-            "category": "International",
-            "date": "2026-03-26T06:06:06Z"
-        },
-        {
-            "title": "India's Compound Archery Team Dominates Asia Cup",
-            "summary": "India's compound archery team is excelling at the Asia Cup, demonstrating remarkable skill by securing numerous final berths and medals. In contrast, the recurve team is facing challenges and struggling to meet performance expectations at the same international competition. This showcases a mixed performance for India in a prominent Asian sporting event.",
-            "url": "https://www.rediff.com/sports/report/indias-compound-archers-shine-at-asia-cup/20260326.htm",
+            "title": "US Blocks Foreign-Made Routers on Security Grounds",
+            "summary": "The U.S. Federal Communications Commission (FCC) has placed foreign-made consumer-grade routers on its Covered List. This significant move aims to enhance national security by prohibiting new models of these routers from entering the U.S. market. It reflects growing concerns over supply chain integrity and potential cybersecurity vulnerabilities in critical consumer technology, safeguarding against foreign espionage.",
+            "url": "https://www.medianama.com/2026/03/223-us-restricts-foreign-made-routers-security-covered-list/",
             "category": "National",
-            "date": "2026-03-26T06:04:22Z"
+            "date": "2026-03-26T12:30:07Z"
         },
         {
-            "title": "'Business As Usual' As Attacks Go On Amid Uncertainty Over Iran Peace Plans",
-            "summary": "Escalating uncertainty surrounds indirect negotiations between Washington and Tehran amidst continued air strikes impacting Iran, Israel, and surrounding nations. This volatile situation underscores ongoing regional tensions and the complex geopolitical landscape in the Middle East, demanding attention from SSB aspirants for understanding international relations and potential security implications, as regional stability remains a critical concern.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-rferl01.htm",
-            "category": "International",
-            "date": "2026-03-26T06:02:20Z"
-        },
-        {
-            "title": "Manipur: Gunfight erupts between Army, militants",
-            "summary": "The Indian Army engaged in a 30-minute gunfight with insurgents in Manipur's Bishnupur district on Thursday, as confirmed by a police statement. This incident highlights the persistent internal security challenges in the region, where security forces actively combat insurgency. Such operations are crucial for maintaining peace and order, underscoring the Army's vital role in national security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/manipur-gunfight-erupts-between-army-militants/articleshow/129816791.cms",
+            "title": "Indonesian Navy weighs missile options for new warship",
+            "summary": "Indonesia's navy is evaluating missile systems from Italy, France, and Turkiye to equip its newly arrived warship, KRI Prabu Siliwangi-321. This strategic acquisition aims to enhance the vessel's combat capabilities and modernize Indonesia's naval fleet. The decision reflects Indonesia's commitment to strengthening its maritime defence, ensuring regional security and protecting its vast territorial waters through advanced weaponry.",
+            "url": "https://en.antaranews.com/news/409962/indonesian-navy-weighs-missile-options-for-new-warship",
             "category": "Defence",
-            "date": "2026-03-26T05:54:43Z"
+            "date": "2026-03-26T12:11:33Z"
         },
         {
-            "title": "edgefirst-hal 0.13.1",
-            "summary": "The provided text indicates a critical website loading error, potentially caused by browser extensions, underlying network issues, or incorrect browser settings. It advises users on immediate troubleshooting steps, recommending they check their internet connection, disable ad blockers, or try an alternative browser to resolve the problem and successfully load the required site component.",
-            "url": "https://pypi.org/project/edgefirst-hal/0.13.1/",
+            "title": "Iran and US harden positions as Tehran keeps its grip on Strait of Hormuz",
+            "summary": "Diplomacy aimed at achieving a Middle East ceasefire is faltering as Iran and the United States harden their respective positions. Tehran is reportedly moving to formalize its control, further complicating efforts to de-escalate regional tensions. This diplomatic deadlock highlights ongoing geopolitical friction, which SSB aspirants should note for its impact on international relations and stability.",
+            "url": "https://www.irishtimes.com/world/middle-east/2026/03/26/iran-and-us-harden-positions-as-tehran-keeps-its-grip-on-strait-of-hormuz/",
+            "category": "International",
+            "date": "2026-03-26T12:04:36Z"
+        },
+        {
+            "title": "Smashing Security podcast #460: Never knock on the door of a nuclear submarine base and ask for a selfie",
+            "summary": "The provided text signifies a standard robot verification process initiated by grahamcluley.com. Such cybersecurity measures, commonly employing CAPTCHA challenges, are crucial for distinguishing human users from automated bots. This mechanism helps secure websites against spam, data scraping, and other malicious online activities, ensuring the integrity and reliability of digital platforms. Understanding these security protocols is increasingly important for general awareness.",
+            "url": "https://grahamcluley.com/smashing-security-podcast-460/",
             "category": "Sci & Tech",
-            "date": "2026-03-26T04:38:35Z"
+            "date": "2026-03-26T11:27:56Z"
         },
         {
-            "title": "Kumar Mangalam Birla\u2019s Mumbai Home: Inside a \u20b9425 crore icon of luxury living",
-            "summary": "This segment describes the opulent interior of an ultra-luxury house, designed with extensive amenities for sophisticated living. Key features include multiple bedrooms, spacious living areas, a private dining room, and dedicated personal spaces like a home office and library. The property is equipped with everything expected in a high-end residence, catering to ultimate comfort and luxury.",
-            "url": "https://timesofindia.indiatimes.com/real-estate/news/kumar-mangalam-birlas-mumbai-home-inside-a-425-crore-icon-of-luxury-living/photostory/129811246.cms",
+            "title": "My Last Words to Whitney Houston",
+            "summary": "The article introduces a personal narrative from a woman recalling her childhood in Carson, California, where she harbored three profound dreams. A key aspiration was to become a \"star whose light reached the farthest corners,\" metaphorically suggesting a deep desire for significant impact and widespread recognition. This opening sets the stage for a story likely detailing her journey and achievements in fulfilling these ambitious childhood visions.",
+            "url": "http://www.thecut.com/article/brandy-memoir-phases-whitney-houston-excerpt.html",
             "category": "National",
-            "date": "2026-03-26T04:30:00Z"
+            "date": "2026-03-26T11:00:46Z"
         },
         {
-            "title": "After Galwan clashes, ITBP strengthens presence with 29 new outposts along China border",
-            "summary": "The Indo-Tibetan Border Police (ITBP) has established 29 new Border Outposts (BoPs) along the India-China frontier between 2022 and 2024, raising the total to 209. This strategic expansion significantly enhances surveillance, improves rapid-response capabilities, and strengthens security preparedness in the challenging high-altitude terrain, vital for national defence and maintaining vigilance along the Line of Actual Control.",
-            "url": "https://indianexpress.com/article/india/after-galwan-clashes-itbp-29-new-china-border-10601933/",
+            "title": "India, UK discuss enhancing defence cooperation and interoperability: Indian Navy",
+            "summary": "Admiral Dinesh K Tripathi, Chief of Naval Staff, engaged in discussions with Air Chief Marshal Sir Harv Smyth, Chief of the Air Staff of the Royal Air Force, on March 25/26. Their talks centered on strengthening India-UK defence cooperation, likely encompassing joint exercises, technology exchange, and strategic alignment. Such high-level interactions are crucial for enhancing bilateral military ties and regional security.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/india-uk-discuss-enhancing-defence-cooperation-and-interoperability-indian-navy/articleshow/129820110.cms",
             "category": "Defence",
-            "date": "2026-03-26T04:26:14Z"
+            "date": "2026-03-26T10:32:56Z"
         },
         {
-            "title": "West Bengal assembly elections: BJP releases 3rd list, fields RG Kar victim\u2019s mother",
-            "summary": "Filming for 'Red, White & Royal Wedding' has wrapped, celebrated by actors Taylor Zakhar Perez and Nicholas Galitzine on set. Concurrently, a March 25 update for the Indian TV series 'Kyunki Saas Bhi Kabhi Bahu Thi 2' provided details regarding its character Nakul. Both reports cover recent events within the entertainment industry.",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/west-bengal-assembly-elections-bjp-releases-3rd-list-fields-rg-kar-victims-mother/articleshow/129814381.cms",
-            "category": "International",
-            "date": "2026-03-26T01:55:29Z"
+            "title": "The US military is pushing up production for the weapons that could matter most in a major war",
+            "summary": "The US Department of Defense is signing new deals with defense companies to significantly boost the production of critical weapons, including key missiles and interceptors. This strategic initiative aims to strengthen military capabilities and ensure a robust supply chain, enhancing national security and defense readiness for the future.",
+            "url": "https://www.businessinsider.com/us-ramping-up-production-of-weapons-critical-for-major-war-2026-3",
+            "category": "Defence",
+            "date": "2026-03-26T09:07:01Z"
         },
         {
-            "title": "Space co Agnikul successfully tests 3D-printed \u2018Agnite\u2019 booster engine",
-            "summary": "Indian space startup Agnikul Cosmos successfully test-fired its 3D-printed 'Agnite' rocket booster engine. This marks a significant milestone in indigenous space technology, demonstrating advanced additive manufacturing for propulsion systems. This achievement enhances India's private space sector capabilities, potentially enabling more cost-effective and efficient rocket launches, boosting national self-reliance in space exploration and defence applications.",
-            "url": "https://timesofindia.indiatimes.com/india/space-co-agnikul-successfully-tests-3d-printed-agnite-booster-engine/articleshow/129813922.cms",
-            "category": "Sci & Tech",
-            "date": "2026-03-26T00:08:02Z"
+            "title": "A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific",
+            "summary": "A U.S. submarine recently sank an Iranian warship in one of the world's busiest maritime corridors. This significant incident, though potentially overlooked or misunderstood, carries substantial geopolitical implications for international security and naval strategy. SSB aspirants should note the strategic importance of such military encounters in critical waterways and their potential impact on regional stability and global power dynamics.",
+            "url": "https://warontherocks.com/2026/03/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/",
+            "category": "Defence",
+            "date": "2026-03-26T07:15:10Z"
         }
     ]
 }
