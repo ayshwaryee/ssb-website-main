@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-03-29T06:57:53.252417+00:00",
+    "last_updated": "2026-03-29T12:43:36.617817+00:00",
     "articles": [
         {
-            "title": "Mindef to focus on economic empowerment instead of welfare aid for military vets, says Khaled",
-            "summary": "Malaysia's Defence Ministry is reforming its veteran support strategy, moving beyond solely welfare assistance. The new focus is on long-term employment and economic empowerment for former service members. This aims to provide sustainable livelihoods and integrate veterans into the workforce, ensuring their continued well-being and contribution to society after their military careers, a vital aspect for any armed force.",
-            "url": "https://www.thestar.com.my/news/nation/2026/03/28/mindef-to-focus-on-economic-empowerment-instead-of-welfare-aid-for-military-vets-says-khaled",
+            "title": "First submarine named after Massachusetts joins the Navy fleet",
+            "summary": "The USS Massachusetts, a new Virginia-class fast attack submarine, was officially commissioned into the U.S. Navy fleet on Saturday. This significant event marks it as the first submarine ever named after the Bay State. Its entry strengthens naval capabilities, enhancing national defense with its advanced technology and strategic importance as a modern fast-attack vessel.",
+            "url": "https://abcnews.com/US/wireStory/submarine-named-after-massachusetts-joins-navy-fleet-131498274",
             "category": "Defence",
-            "date": "2026-03-28T06:16:00Z"
+            "date": "2026-03-28T12:17:51Z"
         },
         {
-            "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
-            "summary": "U.S. President Donald Trump has outlined five specific objectives the nation aims to achieve before ending its month-old conflict with Iran. This strategic declaration sets clear preconditions for resolving the ongoing 'war', indicating a defined roadmap for de-escalation. The announcement highlights a focused approach to conclude the month-long engagement.",
-            "url": "https://abcnews.com/US/wireStory/month-iran-war-trump-objectives-unfulfilled-wind-conflict-131495585",
+            "title": "The Science Behind How Submarines Stay Hidden",
+            "summary": "Sonar serves as the primary and indispensable tool for all naval forces globally, crucial for detecting targets and hostiles within the ocean. Unlike radar, which is designed for land and air targets, sonar utilizes sound waves for effective underwater detection. This technology is fundamental for maritime surveillance and plays a critical role in naval defence operations.",
+            "url": "https://www.bgr.com/2129885/how-submarines-stay-hidden-science-explained/",
             "category": "Defence",
-            "date": "2026-03-28T05:34:48Z"
+            "date": "2026-03-28T11:47:00Z"
         },
         {
-            "title": "DAC clears proposals worth Rs 2.38 lakh crore to augment defence capabilities",
-            "summary": "The Defence Acquisition Council (DAC), chaired by Raksha Mantri Shri Rajnath Singh, convened on March 27, 2026. This meeting, announced by the Ministry of Defence through PIB, underscores India's ongoing focus on bolstering its defence capabilities. The DAC is pivotal in approving new procurements and policies, crucial for modernizing the armed forces and ensuring national security through strategic defence acquisition decisions.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260327-india-pib01.htm",
+            "title": "Adani Defence delivers first batch of 2,000 'Prahar' light machine guns to Army",
+            "summary": "The Indian Army received the first batch of 2,000 'Prahar' light machine guns (LMGs) from a domestic defence major. Manufactured under the 'Make in India' initiative, this delivery significantly boosts the Army's firepower and self-reliance in defence equipment. This acquisition enhances the operational capabilities of Indian soldiers, reinforcing national security through indigenous production.",
+            "url": "https://www.thehindubusinessline.com/companies/adani-defence-delivers-first-batch-of-2000-prahar-light-machine-guns-to-army/article70796013.ece",
             "category": "Defence",
-            "date": "2026-03-28T05:28:38Z"
+            "date": "2026-03-28T11:24:40Z"
+        },
+        {
+            "title": "India's Bellatrix Aerospace nets $20 million in pre-Series B round",
+            "summary": "Indian aerospace manufacturer Bellatrix Aerospace secured $20 million in pre-Series B funding, led by Cactus Partners. This significant investment aims to scale up the company's manufacturing capabilities. For SSB aspirants, this highlights India's burgeoning private sector in advanced aerospace technology, reinforcing indigenous capabilities crucial for both space exploration and potential defence applications, contributing to national self-reliance in a strategic domain.",
+            "url": "https://www.channelnewsasia.com/business/indias-bellatrix-aerospace-nets-20-million-in-pre-series-b-round-6023121",
+            "category": "Sci & Tech",
+            "date": "2026-03-28T09:56:13Z"
+        },
+        {
+            "title": "Adani Defence delivers first batch of 2,000 'Prahar' light machine guns to Army",
+            "summary": "The Indian Army received the first batch of 2,000 'Prahar' Light Machine Guns (LMGs) in Gwalior, enhancing its firepower. Manufactured domestically by a defence major under the 'Make in India' initiative, this delivery signifies a crucial stride towards indigenous defence production and self-reliance. This development strengthens the Army's capabilities and underscores India's commitment to modernising its armed forces locally.",
+            "url": "https://economictimes.indiatimes.com/news/defence/adani-defence-delivers-first-batch-of-2000-prahar-light-machine-guns-to-army/articleshow/129862548.cms",
+            "category": "Defence",
+            "date": "2026-03-28T09:52:16Z"
+        },
+        {
+            "title": "Systems and the default to yes",
+            "summary": "Frustrated by the city council's inaction on a dangerous intersection near his home, Joseph Brandlin took matters into his own hands. After months of failed attempts to get a stop sign installed, he personally put one up, earning him the label of a 'scofflaw'. This incident highlights a citizen's proactive, albeit unsanctioned, approach to addressing local safety concerns when official channels are perceived to fail.",
+            "url": "https://seths.blog/2026/03/systems-and-the-default-to-yes/",
+            "category": "National",
+            "date": "2026-03-28T09:03:00Z"
+        },
+        {
+            "title": "Chance encounter delivered thanks to a hero of Three Mile Island accident [I Know a Story column]",
+            "summary": "The article begins by marking the anniversary of the Three Mile Island nuclear accident, a pivotal event in nuclear power history. The author uses this annual remembrance to recount a personal encounter from nearly 30 years ago while vacationing in Tennessee. This narrative likely delves into the broader implications of the accident, nuclear safety concerns, or personal reflections on its historical impact, offering valuable insights into technological incidents.",
+            "url": "https://lancasteronline.com/news/local/chance-encounter-delivered-thanks-to-a-hero-of-three-mile-island-accident-i-know-a/article_450ad446-4b96-4c58-a332-ac456ed694dc.html",
+            "category": "Sci & Tech",
+            "date": "2026-03-28T09:00:00Z"
+        },
+        {
+            "title": "MoD inks Rs 858 crore contracts for Tunguska Air Defence Missile System & Inspection (Depot Level) of P8I Aircraft",
+            "summary": "The Ministry of Defence has signed contracts worth Rs 858 crore for procurement, a significant move towards strengthening India's defence capabilities. This initiative aims to bolster the operational readiness and technological advantage of the Indian Armed Forces. Such strategic investments are crucial for national security and underscore the ongoing modernization efforts that future officers will be a part of.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260327-india-pib04.htm",
+            "category": "Defence",
+            "date": "2026-03-28T08:12:08Z"
         }
     ]
 }
