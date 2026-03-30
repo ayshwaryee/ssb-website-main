@@ -1,75 +1,47 @@
 {
-    "last_updated": "2026-03-30T13:08:22.935338+00:00",
+    "last_updated": "2026-03-30T18:54:11.677705+00:00",
     "articles": [
         {
-            "title": "A Popular Disney Ride Is CLOSING Tomorrow (With No Reopening Date in Sight)",
-            "summary": "Disneyland plans to close its 'Roger Rabbit\u2019s Car Toon Spin' ride, with fans largely uninformed about details. This impending closure occurs during the Disneyland Resort's 70th-anniversary celebrations, highlighting a reportedly great time to visit. The park has yet to disclose whether the ride's shutdown is temporary or permanent, sparking curiosity.",
-            "url": "https://www.disneyfoodblog.com/2026/03/29/a-popular-disney-ride-is-closing-tomorrow-with-no-reopening-date-in-sight/",
-            "category": "National",
-            "date": "2026-03-29T13:00:29Z"
-        },
-        {
-            "title": "Dredging Corporation can meet India\u2019s entire requirement by 2030: Angamuthu",
-            "summary": "The Dredging Corporation of India (DCIL) is committed to fulfilling the nation's entire dredging requirements by 2030, as stated by Chairman M Angamuthu. This ambitious goal aims for self-reliance in crucial maritime infrastructure, essential for maintaining waterways, developing ports, and facilitating trade. This initiative significantly bolsters India's economic growth and strategic maritime capabilities, aligning with the vision of 'Atmanirbhar Bharat'.",
-            "url": "https://www.thehindubusinessline.com/news/dredging-corporation-can-meet-indias-entire-requirement-by-2030-angamuthu/article70799466.ece",
-            "category": "National",
-            "date": "2026-03-29T12:46:24Z"
-        },
-        {
-            "title": "India-US ties: Ambassador Gor outlines 'win-win' economic growth, highlights security cooperation as core strategic pillar",
-            "summary": "India's burgeoning economy and significant infrastructure demands create fertile ground for collaboration with American expertise. Both nations are well-positioned to partner in critical sectors such as energy, advanced manufacturing, and digital infrastructure. This bilateral cooperation aims to leverage US technological strengths to support India's developmental goals, strengthening economic ties and advancing key national projects.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-us-ties-ambassador-gor-outlines-win-win-economic-growth-highlights-security-cooperation-as-core-strategic-pillar/articleshow/129880601.cms",
-            "category": "National",
-            "date": "2026-03-29T12:32:49Z"
-        },
-        {
-            "title": "Japanese firm develops optical fiber with 4x traffic capacity, could be used for undersea cables \u2014 MCF retains the same diameter and works with existing infrastructure",
-            "summary": "Japanese telecommunications giant NTT has announced the development of a four-core multicore optical fiber (MCF) that delivers quadruple the data transmission capacity of conventional fibers. This breakthrough is critical for addressing the surging global demand for high-speed data communication, promising a significant leap in network infrastructure and efficiency. It paves the way for advanced internet services and improved connectivity worldwide.",
-            "url": "https://www.tomshardware.com/peripherals/cables-connectors/japanese-firm-develops-optical-fiber-with-4x-traffic-capacity-could-be-used-for-undersea-cables-mcf-retains-the-same-diameter-and-works-with-existing-infrastructure",
+            "title": "Two unidentified drones crash in Finland, defence ministry says - euronews.com",
+            "summary": "This brief text functions as a standard online disclaimer, asserting that user-posted comments belong solely to their authors. The platform explicitly states it bears no responsibility for such content. For SSB aspirants, understanding these legal disclaimers highlights aspects of digital literacy and online content governance, relevant in an increasingly interconnected information environment.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181177382",
             "category": "Sci & Tech",
-            "date": "2026-03-29T12:28:20Z"
+            "date": "2026-03-29T16:32:29Z"
         },
         {
-            "title": "Finland reports suspected territorial violation by drones",
-            "summary": "Finland's defence ministry reported a suspected territorial violation by unmanned aerial vehicles (UAVs) in its southeast. This incident, following similar concerns in nearby Baltic states like Estonia, Latvia, and Lithuania, highlights increasing regional security challenges. Such violations by UAVs pose significant defence concerns, underscoring the need for robust air defence systems and diplomatic vigilance in the evolving geopolitical landscape.",
-            "url": "https://economictimes.indiatimes.com/news/defence/finland-reports-suspected-territorial-violation-by-drones/articleshow/129880100.cms",
+            "title": "Florida Woman Awarded $14 Million After Eating Ice Cream Contaminated with 'Metal Shards and Nails'",
+            "summary": "A Florida woman was awarded $14 million by a jury for severe injuries after unknowingly swallowing metal nails and shards concealed in an ice cream cone. The incident caused significant internal complications, tragically rendering her unable to have children. This substantial compensation highlights the severe consequences of product contamination and its devastating personal impact, drawing attention to consumer safety.",
+            "url": "https://www.breitbart.com/law-and-order/2026/03/29/florida-woman-awarded-14-million-after-eating-ice-cream-contaminated-with-metal-shards-and-nails/",
+            "category": "National",
+            "date": "2026-03-29T16:28:57Z"
+        },
+        {
+            "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+            "summary": "On April 12, 1981, 20 years after Yuri Gagarin, the Space Shuttle Columbia launched from Florida, marking its maiden voyage. Commander John Young and Pilot Robert Crippen piloted the revolutionary reusable spacecraft, ushering in a new era of space exploration and technology. This historic launch showcased America's advancements in space flight, paving the way for future missions and scientific endeavors.",
+            "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+            "category": "Sci & Tech",
+            "date": "2026-03-29T16:26:55Z"
+        },
+        {
+            "title": "Freed whale gets stranded again off German coast",
+            "summary": "A humpback whale off Germany's northern Baltic Sea coast has repeatedly become stranded, with experts noting it was the third time just hours after freeing itself. This recurring issue in shallow waters raises concerns about the whale's health and the ecological challenges faced by marine life in coastal regions. Environmental monitoring and potential intervention efforts are likely ongoing.",
+            "url": "https://www.thelocal.de/20260329/freed-whale-gets-stranded-again-off-german-coast",
+            "category": "Sci & Tech",
+            "date": "2026-03-29T16:22:19Z"
+        },
+        {
+            "title": "Finland reports suspected territorial violation by drones - Reuters",
+            "summary": "This 'fine print' notice clarifies a platform's stance on user-generated content, stating it bears no responsibility for comments posted by individuals. It assigns full ownership and liability for such content directly to the original posters, emphasizing a common legal disclaimer to limit platform accountability. This is standard practice for online services and their user policies.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181176544",
+            "category": "Sci & Tech",
+            "date": "2026-03-29T15:32:50Z"
+        },
+        {
+            "title": "Russian fleets arrive in Jakarta for joint drills with Indonesian Navy",
+            "summary": "A detachment of ships from the Russian Navy's Pacific Fleet arrived in Jakarta, Indonesia, for planned engagements with the Indonesian Navy (TNI-AL). This visit underscores ongoing naval cooperation and diplomacy between Russia and Indonesia, highlighting Russia's strategic presence in the Indo-Pacific region. Such joint activities are crucial for enhancing interoperability and fostering bilateral defence ties.",
+            "url": "https://en.antaranews.com/news/410302/russian-fleets-arrive-in-jakarta-for-joint-drills-with-indonesian-navy",
             "category": "Defence",
-            "date": "2026-03-29T11:52:57Z"
-        },
-        {
-            "title": "indic-faker added to PyPI",
-            "summary": "The 'indic-faker' tool generates realistic, synthetic Indian data for development and testing purposes. It creates fake names across 8 native scripts, valid Aadhaar numbers with checksums, state-specific addresses with real pincodes, UPI IDs, and salary data. This technological advancement allows developers to simulate complex data environments effectively without utilizing or compromising actual sensitive personal information, aiding in robust software development and privacy.",
-            "url": "https://pypi.org/project/indic-faker/",
-            "category": "Sci & Tech",
-            "date": "2026-03-29T11:48:02Z"
-        },
-        {
-            "title": "Sunday Notes: A Power Pitcher Always, Tarik Skubal Commands the Baseball",
-            "summary": "Detroit Tigers' pitcher Tarik Skubal delivered a dominant performance against the San Diego Padres, marking his third consecutive Opening Day start. As the reigning back-to-back Cy Young Award winner, Skubal commanded the zone effectively, showcasing his elite pitching prowess. This stellar display highlights his continued success in Major League Baseball, underpinning his status as a top-tier pitcher.",
-            "url": "https://blogs.fangraphs.com/sunday-notes-a-power-pitcher-always-tarik-skubal-commands-the-baseball/",
-            "category": "National",
-            "date": "2026-03-29T11:28:46Z"
-        },
-        {
-            "title": "Woman wins $14 million after eating ice cream left her unable to have children",
-            "summary": "Brandy Buckley was awarded $14 million after an ice cream incident cost her the ability to have more children. She claimed to have unknowingly swallowed a nail and metal shards from the dessert. This substantial compensation highlights the severe personal impact and liability involved when product defects lead to significant health and life-altering consequences for consumers.",
-            "url": "https://www.ladbible.com/news/us-news/florida-woman-wins-lawsuit-ice-cream-nail-metal-shards-infertile-403221-20260329",
-            "category": "National",
-            "date": "2026-03-29T10:48:54Z"
-        },
-        {
-            "title": "Working in close coordination with US to respond to missile attack from Yemen's Houthis: Israel military",
-            "summary": "Israel and the US are closely coordinating their response after Yemen's Houthi rebels launched missiles towards Israeli targets. An Israeli military spokesperson confirmed the Houthi claims, highlighting significant regional security challenges. This joint effort underscores the strategic alliance and international cooperation required to counter non-state actors, reflecting complex geopolitical dynamics crucial for understanding global security.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/working-in-close-coordination-with-us-to-respond-to-missile-attack-from-yemens-houthis-israel-military/articleshow/129878818.cms",
-            "category": "International",
-            "date": "2026-03-29T10:17:25Z"
-        },
-        {
-            "title": "The war with Iran may be ushering in a new nuclear age",
-            "summary": "Donald Trump's assertive foreign policy, both confronting adversaries and unsettling allies, is seen as risking a new nuclear era. Globally, governments from the North Atlantic to the West Pacific are debating extensive military modernization, specifically examining their nuclear capabilities. This highlights a critical period of geopolitical shift and heightened focus on international security and strategic arms.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/the-war-with-iran-may-be-ushering-in-a-new-nuclear-age/articleshow/129876930.cms",
-            "category": "International",
-            "date": "2026-03-29T07:04:54Z"
+            "date": "2026-03-29T15:19:54Z"
         }
     ]
 }
