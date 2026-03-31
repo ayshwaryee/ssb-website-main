@@ -1,47 +1,33 @@
 {
-    "last_updated": "2026-03-30T18:54:11.677705+00:00",
+    "last_updated": "2026-03-31T01:57:55.144313+00:00",
     "articles": [
         {
-            "title": "Two unidentified drones crash in Finland, defence ministry says - euronews.com",
-            "summary": "This brief text functions as a standard online disclaimer, asserting that user-posted comments belong solely to their authors. The platform explicitly states it bears no responsibility for such content. For SSB aspirants, understanding these legal disclaimers highlights aspects of digital literacy and online content governance, relevant in an increasingly interconnected information environment.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181177382",
-            "category": "Sci & Tech",
-            "date": "2026-03-29T16:32:29Z"
+            "title": "Iranian attack damages Kuwait power and desalination plant, kills worker",
+            "summary": "Kuwaiti authorities confirm an Iranian attack on a critical power and water desalination plant in Kuwait. The assault tragically killed an Indian worker and caused significant damage to a building on site. This incident underscores the dangerously escalating regional tensions and the vulnerability of crucial civilian infrastructure amidst the volatile security environment in the Gulf.",
+            "url": "https://www.aljazeera.com/news/2026/3/30/iranian-attack-damages-kuwait-power-and-desalination-plant-kills-worker",
+            "category": "International",
+            "date": "2026-03-30T00:52:55Z"
         },
         {
-            "title": "Florida Woman Awarded $14 Million After Eating Ice Cream Contaminated with 'Metal Shards and Nails'",
-            "summary": "A Florida woman was awarded $14 million by a jury for severe injuries after unknowingly swallowing metal nails and shards concealed in an ice cream cone. The incident caused significant internal complications, tragically rendering her unable to have children. This substantial compensation highlights the severe consequences of product contamination and its devastating personal impact, drawing attention to consumer safety.",
-            "url": "https://www.breitbart.com/law-and-order/2026/03/29/florida-woman-awarded-14-million-after-eating-ice-cream-contaminated-with-metal-shards-and-nails/",
+            "title": "PLI incentives drive incremental gains in India's electronics and automotive manufacturing",
+            "summary": "India is demonstrating steady progress in expanding its domestic manufacturing capabilities across critical sectors such as electronics and automotive, bolstered by the \"Make in India\" initiative and Production-Linked Incentive (PLI) schemes. This strategic focus enhances national self-reliance, creates employment, and strengthens the industrial base, contributing significantly to economic growth and resilience.",
+            "url": "https://www.digitimes.com/news/a20260330VL202/electronics-manufacturing-pli-automotive-2025.html",
             "category": "National",
-            "date": "2026-03-29T16:28:57Z"
+            "date": "2026-03-30T00:22:31Z"
         },
         {
-            "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-            "summary": "On April 12, 1981, 20 years after Yuri Gagarin, the Space Shuttle Columbia launched from Florida, marking its maiden voyage. Commander John Young and Pilot Robert Crippen piloted the revolutionary reusable spacecraft, ushering in a new era of space exploration and technology. This historic launch showcased America's advancements in space flight, paving the way for future missions and scientific endeavors.",
-            "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+            "title": "10 DC Superheroes That Were Given a Lantern Ring Ranked by How Powerful It Made Them",
+            "summary": "This article discusses the fictional DC Universe, focusing on heroes like the Green Lanterns and various corps who have wielded Power Rings. It explores the lore surrounding these powerful artifacts, including the introduction of the Emotional Spectrum, which expanded the power ring concept beyond traditional Green Lanterns. The text details their significance in the DC mythos.",
+            "url": "http://comicbook.com/comics/list/10-dc-superheroes-that-were-given-a-lantern-ring-ranked-by-how-powerful-it-made-them/",
             "category": "Sci & Tech",
-            "date": "2026-03-29T16:26:55Z"
+            "date": "2026-03-29T22:30:00Z"
         },
         {
-            "title": "Freed whale gets stranded again off German coast",
-            "summary": "A humpback whale off Germany's northern Baltic Sea coast has repeatedly become stranded, with experts noting it was the third time just hours after freeing itself. This recurring issue in shallow waters raises concerns about the whale's health and the ecological challenges faced by marine life in coastal regions. Environmental monitoring and potential intervention efforts are likely ongoing.",
-            "url": "https://www.thelocal.de/20260329/freed-whale-gets-stranded-again-off-german-coast",
-            "category": "Sci & Tech",
-            "date": "2026-03-29T16:22:19Z"
-        },
-        {
-            "title": "Finland reports suspected territorial violation by drones - Reuters",
-            "summary": "This 'fine print' notice clarifies a platform's stance on user-generated content, stating it bears no responsibility for comments posted by individuals. It assigns full ownership and liability for such content directly to the original posters, emphasizing a common legal disclaimer to limit platform accountability. This is standard practice for online services and their user policies.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181176544",
-            "category": "Sci & Tech",
-            "date": "2026-03-29T15:32:50Z"
-        },
-        {
-            "title": "Russian fleets arrive in Jakarta for joint drills with Indonesian Navy",
-            "summary": "A detachment of ships from the Russian Navy's Pacific Fleet arrived in Jakarta, Indonesia, for planned engagements with the Indonesian Navy (TNI-AL). This visit underscores ongoing naval cooperation and diplomacy between Russia and Indonesia, highlighting Russia's strategic presence in the Indo-Pacific region. Such joint activities are crucial for enhancing interoperability and fostering bilateral defence ties.",
-            "url": "https://en.antaranews.com/news/410302/russian-fleets-arrive-in-jakarta-for-joint-drills-with-indonesian-navy",
-            "category": "Defence",
-            "date": "2026-03-29T15:19:54Z"
+            "title": "Kerala elections: A battle to manoeuvre coalition chemistry, maths of changing milieu",
+            "summary": "The current Kerala assembly election is notably challenging traditional electoral math and political chemistry on the ground. Parties are actively seeking to alter established dynamics, indicating a pivotal shift in the state's political landscape. This election serves as a crucial test of evolving voter behaviour and strategic approaches, potentially reshaping Kerala's long-term political future.",
+            "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/kerala/kerala-elections-a-battle-to-manoeuvre-coalition-chemistry-maths-of-changing-milieu/articleshow/129886181.cms",
+            "category": "National",
+            "date": "2026-03-29T19:07:54Z"
         }
     ]
 }
