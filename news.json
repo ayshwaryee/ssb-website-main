@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-04-01T02:06:49.402317+00:00",
+    "last_updated": "2026-04-01T07:14:14.933031+00:00",
     "articles": [
         {
+            "title": "Trump says US is negotiating with Iran\u2019s parliamentary speaker, who denies talks; Simon Harris says energy damage will take a year to repair",
+            "summary": "US President Donald Trump warned Iran its energy plants and oil wells would be obliterated if it failed to open the Strait of Hormuz. This stern warning followed Tehran's dismissal of US peace proposals as \"unrealistic.\" The incident signifies escalating geopolitical tensions between the US and Iran, highlighting maritime security concerns in a critical global waterway.",
+            "url": "https://www.independent.ie/world-news/middle-east/trump-says-us-is-negotiating-with-irans-parliamentary-speaker-who-denies-talks-simon-harris-says-energy-damage-will-take-a-year-to-repair/a2120053173.html",
+            "category": "International",
+            "date": "2026-03-31T07:00:00Z"
+        },
+        {
+            "title": "KubeVirt v1.8 Brings Multi-Hypervisor Support and Confidential Computing to Kubernetes",
+            "summary": "KubeVirt version 1.8 was unveiled at KubeCon + CloudNativeCon Europe 2026, aligning with Kubernetes v1.35. This significant software update introduces a Hypervisor Abstraction Layer (HAL) as its main addition. This technical advancement enhances virtualization capabilities within Kubernetes environments, streamlining IT infrastructure management. It marks a notable step forward in cloud-native computing and efficient resource utilization.",
+            "url": "https://www.infoq.com/news/2026/03/kubevirt-18-announcement/",
+            "category": "Sci & Tech",
+            "date": "2026-03-31T07:00:00Z"
+        },
+        {
+            "title": "NASA\u2019s Artemis II Is a Propaganda Stunt for a Declining Empire",
+            "summary": "The article vehemently criticizes NASA's Artemis II mission, calling the 2026 space endeavor a 'pointless parade'. The author expresses profound disgust, arguing that national resources are misdirected towards extravagant human spaceflight while domestic challenges persist. This raises a debate on prioritizing costly space exploration versus addressing urgent societal needs effectively.",
+            "url": "https://www.naturalnews.com/2026-03-31-nasa-artemis-ii-propaganda-stunt-declining-empire.html",
+            "category": "Sci & Tech",
+            "date": "2026-03-31T06:00:00Z"
+        },
+        {
+            "title": "Trump threatens to destroy Iran's civilian infrastructure if deal is not reached 'shortly'",
+            "summary": "US President Donald Trump threatened widespread destruction of Iran's energy resources and vital infrastructure, including desalination plants supplying drinking water. This assertive stance, linked to a potential deal, signals significant escalation of US-Iran tensions. For an SSB aspirant, this highlights the volatile geopolitical landscape in the Middle East and the critical implications of such threats for international security and regional stability.",
+            "url": "https://www.thehindubusinessline.com/news/world/trump-threatens-to-destroy-irans-civilian-infrastructure-if-deal-is-not-reached-shortly/article70805733.ece",
+            "category": "International",
+            "date": "2026-03-31T05:54:29Z"
+        },
+        {
+            "title": "Iran recruits children as young as 12 to \u2018defend the homeland; and how Trump has broken the one rule of Special Forces fight club",
+            "summary": "US President Trump threatened Iran, warning to obliterate its energy infrastructure, including plants and oil wells, if it failed to open the Strait of Hormuz. This stern warning followed Iran's rejection of US peace proposals as 'unrealistic', highlighting escalating geopolitical tensions and the strategic importance of maritime routes in the Middle East.",
+            "url": "https://www.independent.ie/world-news/middle-east/iran-recruits-children-as-young-as-12-to-defend-the-homeland-and-how-trump-has-broken-the-one-rule-of-special-forces-fight-club/a2120053173.html",
+            "category": "International",
+            "date": "2026-03-31T05:30:00Z"
+        },
+        {
+            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Human Trials and God\u2019s Grace - Tuesday, March 31, 2026",
+            "summary": "This article announces a Catholic daily reflection, 'Human Trials and Gods Grace,' scheduled for March 31, 2026. Produced by 'My Catholic Life!' and available on YouTube, it offers spiritual insights. This devotional piece likely aims to guide individuals through life's challenges from a faith perspective, serving a broad, globally engaged audience seeking spiritual strength.",
+            "url": "https://freerepublic.com/focus/f-religion/4372976/posts",
+            "category": "International",
+            "date": "2026-03-31T04:58:09Z"
+        },
+        {
+            "title": "Yui Hara's \"Police Men\" Short Wins AnimeJapan's Emerging Creator Awards",
+            "summary": "The AnimeJapan 2026 convention recently announced the winners of its Emerging Creator Awards 2026. Among those recognized was Yui Hara from Kyoto Seika University for her work \"Police Men.\" The awards celebrate new talent in the anime and manga industry, showcasing future innovators. AnimeJapan is a significant international platform for promoting Japanese pop culture and creative arts.",
+            "url": "https://www.animenewsnetwork.com/interest/2026-03-30/yui-hara-police-men-short-wins-animejapan-emerging-creator-awards/.235924",
+            "category": "International",
+            "date": "2026-03-31T03:30:53Z"
+        },
+        {
             "title": "Qcomm tests new waters; Emergent\u2019s ARR explained",
-            "summary": "Today's dispatch highlights quick commerce expanding into food, beauty, and medicine, reflecting digital economy growth. Crucially for national security, it also reports a significant rise in cyber threats against India. SSB aspirants should note these dual trends: economic innovation alongside evolving digital security challenges, vital for strategic understanding and national preparedness.",
+            "summary": "The ETtech Morning Dispatch highlights quick commerce expansion into sectors like food, beauty, and medicine, indicating India's evolving digital economy. Crucially, it also reports a concerning rise in cyber threats against India. For SSB aspirants, this signifies both technological progress and pressing national security challenges in the digital realm, underscoring the need for robust defence.",
             "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomm-tests-new-waters-emergents-arr-explained/articleshow/129913982.cms",
             "category": "Defence",
             "date": "2026-03-31T01:35:29Z"
         },
         {
-            "title": "Trump says US negotiating with Iran's parliamentary speaker Mohammad Bagher Qaliba, who denies talks",
-            "summary": "US President Donald Trump threatened extensive destruction of Iran's energy resources and vital infrastructure, including desalination plants. This stern warning signals escalating tensions between the two nations, contingent on the outcome of a potential deal aimed at resolving their ongoing conflict. The declaration highlights the fragile state of diplomatic efforts amidst persistent geopolitical friction.",
-            "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-us-negotiating-with-irans-parliamentary-speaker-who-denies-talks/articleshow/129914178.cms",
-            "category": "International",
-            "date": "2026-03-31T01:31:48Z"
-        },
-        {
-            "title": "Could The Malcolm In The Middle Revival Launch A Full-On Spinoff Series? The Creator Has Thoughts",
-            "summary": "After a 20-year hiatus, the popular sitcom 'Malcolm In The Middle' is set to return in a limited revival next month. Hulu subscribers will gain access to the new content, titled 'Malcolm In The Middle: Life's Sti...', offering fans a chance to revisit the beloved series. This marks a significant comeback for the show on the streaming platform.",
-            "url": "https://www.cinemablend.com/television/could-malcolm-in-the-middle-revival-launch-full-on-spinoff-series-creator-thoughts",
-            "category": "National",
-            "date": "2026-03-31T00:13:10Z"
-        },
-        {
-            "title": "Los Angeles-class nuclear submarine USS Albany returns to fleet ahead of schedule",
-            "summary": "The provided text outlines a website's cookie consent mechanism. It explains that by clicking 'Accept all', users permit the website and its 251 partners, operating under the IAB Transparency & Consent Framework, to store or access information on their device. This highlights key aspects of digital privacy, data handling, and the importance of understanding consent in online interactions, which is crucial for modern internet usage.",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_676dd858-fd9f-4e3d-b223-c8766094f306",
-            "category": "Sci & Tech",
-            "date": "2026-03-30T20:04:52Z"
+            "title": "Cyber pirates at large, India readies moats",
+            "summary": "India faces escalating cybersecurity threats targeting its critical infrastructure from various global state actors, including Europe, Russia, Israel, Iran, and Southeast Asia. These entities are actively seeking to steal sensitive data, highlighting a significant national security challenge. This demands robust defence strategies and heightened digital vigilance to protect vital national assets against sophisticated state-sponsored cyber espionage and potential attacks.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cyber-pirates-at-large-india-readies-moats/articleshow/129910291.cms",
+            "category": "Defence",
+            "date": "2026-03-31T00:30:00Z"
         }
     ]
 }
