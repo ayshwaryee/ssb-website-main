@@ -1,19 +1,68 @@
 {
-    "last_updated": "2026-04-03T01:55:58.229953+00:00",
+    "last_updated": "2026-04-03T07:02:12.517383+00:00",
     "articles": [
         {
-            "title": "Deputy Russian Defence Minister Vasily Osmakov holds talks with ICRC's head of regional delegation Rania Machlab",
-            "summary": "On April 1, 2026, Deputy Russian Defence Minister Vasily Osmakov met with Rania Machlab, Head of the ICRC's regional delegation for Russia and Belarus. This significant interaction likely addressed humanitarian concerns, such as prisoner welfare, civilian protection, or access for aid, consistent with the ICRC's critical role in conflict zones. Such engagements are vital for upholding international humanitarian law.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260401-russia-mod01.htm",
+            "title": "Trump's 10 Key 2026 Comments on Australia: From Ally Praise to Iran War Criticism",
+            "summary": "President Donald Trump's hypothetical 2026 remarks concerning Australia highlighted complex US-Australia relations. He praised bilateral trade and defense agreements while also criticizing Canberra's support levels. This illustrates the evolving nature of strategic alliances and defence cooperation between key partners, a vital aspect for global security analysis and understanding geopolitical dynamics for SSB aspirants.",
+            "url": "https://www.ibtimes.com.au/trumps-10-key-2026-comments-australia-ally-praise-iran-war-criticism-1865201",
             "category": "Defence",
-            "date": "2026-04-02T00:58:51Z"
+            "date": "2026-04-02T06:19:38Z"
         },
         {
-            "title": "Defence budget under capital head fully utilised in FY2025-26",
-            "summary": "India has fully utilized its defence budget allocated under the capital head for the Fiscal Year 2025-26. This significant achievement indicates efficient expenditure on acquisitions and modernization programs crucial for strengthening the nation's military capabilities and ensuring preparedness for future challenges. Such complete utilization is vital for defense readiness, reflecting strategic financial management.",
-            "url": "https://timesofindia.indiatimes.com/india/defence-budget-under-capital-head-fully-utilised-in-fy2025-26/articleshow/129964033.cms",
+            "title": "\u2018Epstein would find unsupported children and tell them: I\u2019ll save you\u2019",
+            "summary": "Lucia Osborne-Crowley, a journalist, law reporter, and author, earned significant acclaim as her book, 'My Body Keeps Your Secrets,' was awarded the prestigious Somerset Maugham prize for literature in 2022. This recognition underscores her impactful contribution to contemporary writing, marking her as a notable figure in the global literary scene.",
+            "url": "https://www.thenerve.news/p/lucia-osborne-crowley-epstein-the-lasting-harm-survivors-ghislaine-maxwell-laugharne-festival-book-v",
+            "category": "International",
+            "date": "2026-04-02T05:47:01Z"
+        },
+        {
+            "title": "Geopolitical uncertainty clouds outlook, but defence story remains strong: Ashi Anand",
+            "summary": "Global markets are highly fluid, with daily shifts driven by news surrounding the US-Iran conflict. Ashi Anand, Founder & CEO of IME C..., highlights this volatility. Aspirants should note how such geopolitical tensions directly impact economic stability and market directions globally, underscoring the critical link between international relations and financial landscapes, relevant for understanding global affairs.",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/geopolitical-uncertainty-clouds-outlook-but-defence-story-remains-strong-ashi-anand/articleshow/129968631.cms",
+            "category": "International",
+            "date": "2026-04-02T05:44:12Z"
+        },
+        {
+            "title": "How Iran's Hormuz Blockade Chokes Global Trade Beyond Oil And Gas",
+            "summary": "An Indian LPG tanker's recent transit through the strategic Strait of Hormuz garnered significant live TV news coverage. This highlights the critical importance of secure maritime routes for India's energy security, given the Strait's geopolitical sensitivity as a vital chokepoint for global energy trade, particularly for crucial imports like LPG.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260401-rferl02.htm",
+            "category": "National",
+            "date": "2026-04-02T05:33:11Z"
+        },
+        {
+            "title": "Canada Plugs Nation as \u2018Reliable\u2019 Energy Partner as Oil Soars",
+            "summary": "Amid rising global oil prices and President Trump's contemplation of military action against Iran, Canada's top trade official advocated for his nation as a stable and reliable energy supplier. This move underscores the critical interplay between global energy security, geopolitical tensions in the Middle East, and international diplomacy, as nations seek dependable alternatives amidst instability.",
+            "url": "https://financialpost.com/pmn/business-pmn/canada-plugs-nation-as-reliable-energy-partner-as-oil-soars",
+            "category": "International",
+            "date": "2026-04-02T05:28:54Z"
+        },
+        {
+            "title": "Show HN: An SSR Java framework for real-time user interfaces and AI agents",
+            "summary": "This article describes a new Java framework for developing web user interfaces entirely on the server side. It boasts real-time browser synchronization and native AI agent support. Components operate within a Java process, efficiently responding to browser events via WebSockets. This framework streamlines web development by centralizing UI logic, offering an innovative approach to building dynamic web applications with integrated AI capabilities, potentially enhancing efficiency and responsiveness.",
+            "url": "https://github.com/vadimv/server-components",
+            "category": "Sci & Tech",
+            "date": "2026-04-02T05:18:29Z"
+        },
+        {
+            "title": "How to get to shopping heaven in Belfast: great shops you won\u2019t find down south",
+            "summary": "French cosmetics giant Sephora has launched a new 2,550-sq ft store at Belfast's Victoria Square shopping complex. The opening saw significant consumer interest, with orderly queues forming early on Monday. This expansion brings the popular international beauty retailer to Belfast, indicating robust market demand and the growing presence of global brands in the region.",
+            "url": "https://www.irishtimes.com/life-style/fashion/2026/04/02/how-to-get-to-shopping-heaven-in-belfast-great-shops-you-wont-find-down-south/",
+            "category": "International",
+            "date": "2026-04-02T05:00:00Z"
+        },
+        {
+            "title": "PARLIAMENT QUESTION: PSLV AND SSLV PROGRAMMES",
+            "summary": "The Press Information Bureau (PIB) and Department of Space have addressed the recent deferments in scheduled Indian Space Research Organization (ISRO) launches. The article delves into the specific factors contributing to these delays, providing crucial insights into the challenges faced by India's ambitious space program. This official update from PIB Delhi explains the reasons behind the postponed missions and what it means for future launches.",
+            "url": "https://www.globalsecurity.org/space/library/news/2026/space-260401-india-pib01.htm",
+            "category": "Sci & Tech",
+            "date": "2026-04-02T04:20:17Z"
+        },
+        {
+            "title": "Indian Navy was minutes away from striking Pakistan from sea during Op Sindoor, reveals Chief Admiral Tripathi",
+            "summary": "Admiral Dinesh K Tripathi, Chief of the Naval Staff, revealed the Indian Navy was minutes away from striking Pakistan from the sea during Operation Sindoor. He stated Pakistan requested a halt, averting the strike. This revelation underscores India's naval preparedness and strategic posture in past conflicts, offering insight into high-stakes decision-making and the nation's defence capabilities.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-was-minutes-away-from-striking-pakistan-from-sea-during-operation-sindoor/articleshow/129966387.cms",
             "category": "Defence",
-            "date": "2026-04-02T00:23:08Z"
+            "date": "2026-04-02T03:16:28Z"
         }
     ]
 }
