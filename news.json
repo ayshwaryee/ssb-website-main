@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-04-04T12:43:26.169295+00:00",
+    "last_updated": "2026-04-04T18:35:17.238846+00:00",
     "articles": [
         {
-            "title": "Web Review, Week 2026-14",
-            "summary": "This web review for week 2026-14 introduces \"The Last Quiet Thing,\" an article tagged under tech, UX, design, business, and the attention economy. Described as well-designed, it explores the demanding nature of current devices. The piece likely delves into technology's pervasive impact on user attention and overall experience, highlighting key challenges in our digitally saturated lives.",
-            "url": "https://ervin.ipsquad.net/blog/2026/04/03/web-review-week-2026-14/",
-            "category": "Sci & Tech",
-            "date": "2026-04-03T12:33:02Z"
-        },
-        {
-            "title": "\u2018It\u2019s a Long, Long Road, Brother\u2019: How Ringo Starr Found New Inspiration in Nashville",
-            "summary": "Ringo Starr, the legendary drummer of The Beatles, continues to be celebrated as an incredibly charming and universally beloved figure in the music world. His enduring global appeal underscores the lasting impact of cultural icons. For SSB aspirants, this highlights the importance of general awareness regarding significant international personalities who have shaped global culture and entertainment.",
-            "url": "http://www.rollingstone.com/music/music-features/ringo-starr-country-album-long-long-road-interview-1235540586/",
-            "category": "International",
-            "date": "2026-04-03T12:20:09Z"
-        },
-        {
-            "title": "Indian Navy inducts BrahMos-capable warship",
-            "summary": "India has commissioned INS Taragiri, an advanced stealth frigate, into its naval fleet at Visakhapatnam. This indigenously built warship is capable of carrying BrahMos supersonic missiles, significantly bolstering the Indian Navy's strike capabilities and maritime defence. Its induction marks a crucial step in modernizing the fleet and enhancing national security through advanced naval power.",
-            "url": "https://www.rt.com/india/637159-indian-navy-inducts-brahmos-capable/",
+            "title": "India commissions third nuclear-powered submarine INS Aridaman",
+            "summary": "India officially inducted INS Aridaman, its third nuclear-powered submarine, at a ceremony in Visakhapatnam presided over by Defence Minister Rajnath Singh. This indigenously designed and manufactured vessel significantly enhances India's strategic naval capabilities and deterrence, reinforcing the nation's self-reliance in advanced defence technology. The move marks a crucial advancement for India's maritime security and strategic autonomy, bolstering its position in the Indo-Pacific region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-commissions-third-nuclear-powered-submarine-ins-aridaman/articleshow/130007335.cms",
             "category": "Defence",
-            "date": "2026-04-03T11:53:21Z"
+            "date": "2026-04-03T18:09:21Z"
         },
         {
-            "title": "Inside Sminu Jindal\u2019s posh South Mumbai haven\u2014a masterclass in the psychology of minimalism: \u2018The rain specifically makes me want to be here\u2019",
-            "summary": "The Jindal house, a sea-facing bungalow at 32 Walkeshwar Road in South Mumbai's affluent Malabar Hill, exemplifies architectural design principles. It showcases how openness, light, and minimalism significantly influence living environments. This notable residence offers a unique perspective on contemporary home aesthetics and their impact, making it an interesting study in high-profile urban living within India.",
-            "url": "https://indianexpress.com/article/lifestyle/inside-sminu-jindal-malabar-hill-house-minimalism-light-design-10609288/",
-            "category": "National",
-            "date": "2026-04-03T11:24:11Z"
-        },
-        {
-            "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
-            "summary": "This article, a republished blog post, explores Eric S. Raymond's seminal 1998 publication, widely regarded as the foundational text for open source software. It likely details the movement's genesis, core philosophies, and the significant impact it has had on software development and collaboration worldwide, providing crucial historical context for aspirants.",
-            "url": "https://www.oreilly.com/radar/the-cathedral-the-bazaar-and-the-winchester-mystery-house/#BlogPosting",
-            "category": "Sci & Tech",
-            "date": "2026-04-03T11:14:53Z"
-        },
-        {
-            "title": "The ascendancy of the ship lasted a mere moment",
-            "summary": "The article highlights the historical trend of increasing weapon range in warfare, from fighting sail to modern artillery. For SSB aspirants, understanding this evolution is crucial for comprehending military strategy, technological progression, and its profound impact on contemporary defence planning. This continuous expansion of reach fundamentally redefines battlefield dynamics and force projection.",
-            "url": "https://www.isegoria.net/2026/04/the-ascendancy-of-the-ship-lasted-a-mere-moment/",
-            "category": "Defence",
-            "date": "2026-04-03T11:05:44Z"
-        },
-        {
-            "title": "U2 \u2013 Easter Lily EP (2026)",
-            "summary": "U2 has released their second surprise six-track EP of 2026, \"Easter Lily,\" arriving six weeks after \"Days of Ash,\" a period known as Lent. For U2 fans, this signifies a \"feast\" of new music rather than a fast, continuing their trend of unexpected releases. This offers their global fanbase more content and demonstrates the band's ongoing musical output.",
-            "url": "https://exystence.net/blog/2026/04/03/u2-easter-lily-ep-2026/",
+            "title": "Does \u2018The Super Mario Galaxy Movie\u2019 Set Up a Super Smash Bros. Movie Sequel?",
+            "summary": "The Super Mario Galaxy Movie is currently captivating audiences, fueling extensive fan speculation within the renowned Super Mario franchise. This latest animated film builds on the success of its 2023 predecessor and the popular video game series. Fans worldwide are keenly discussing the movie's details, making it a prominent topic in global entertainment news and a major release for the beloved Nintendo property.",
+            "url": "https://www.thewrap.com/creative-content/movies/super-mario-galaxy-movie-no-super-smash-bros/",
             "category": "International",
-            "date": "2026-04-03T10:15:54Z"
+            "date": "2026-04-03T17:48:39Z"
+        },
+        {
+            "title": "James Gadson, Drummer for Diana Ross and Bill Withers, Dead at 86",
+            "summary": "James Gadson, a legendary drummer, is highlighted for his extensive contributions to funk, soul, and disco music. Renowned for collaborations with iconic artists like Diana Ross, Bill Withers, and Marvin Gaye, his versatile discography also includes sessions with contemporary musicians such as Beck and Kelly Clarkson, showcasing his enduring impact across global music generations.",
+            "url": "http://www.rollingstone.com/music/music-news/james-gadson-drummer-obituary-1235541434/",
+            "category": "International",
+            "date": "2026-04-03T17:39:59Z"
+        },
+        {
+            "title": "NIT Semifinals: Tulsa advances, Illinois State and New Mexico\u2019s seasons end",
+            "summary": "The Tulsa Golden Hurricane emerged victorious, defeating New Mexico at Hinkle Fieldhouse in Indianapolis. This concluded a Division-I mid-major basketball tournament that began on November 3rd with 280 programs. After intense competition, Tulsa stood as the sole remaining champion on April 3rd.",
+            "url": "https://www.midmajormadness.com/nit-tournament-college-basketball-mid-major-bracket/35230/nit-semifinals-tulsa-advances-illinois-state-and-new-mexicos-seasons-end",
+            "category": "International",
+            "date": "2026-04-03T17:30:11Z"
+        },
+        {
+            "title": "ISRO launches Mission MITRA for safety of human spaceflight mission crew",
+            "summary": "ISRO conducted 'Mission MITRA' in Leh, Ladakh, from April 2-9. This unique initiative was a team behavioural study, crucial for understanding crew dynamics and psychological aspects vital for future human spaceflight missions. Simulating confined environments, it aims to enhance astronaut performance and teamwork in challenging conditions, directly benefiting India's ambitious Gaganyaan program.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-launches-mission-mitra-for-safety-of-human-spaceflight-mission-crew/articleshow/130006256.cms",
+            "category": "Sci & Tech",
+            "date": "2026-04-03T17:27:40Z"
+        },
+        {
+            "title": "The age of the aircraft carrier is over",
+            "summary": "This Spectator article, penned by Andrew Cockburn, controversially posits that the age of the aircraft carrier has concluded. It likely delves into the historical role and significance of American aircraft carriers since World War Two, while exploring strategic shifts and emerging technologies that challenge their continued relevance in contemporary naval warfare. The piece appears to argue for a fundamental reassessment of these traditional defence assets.",
+            "url": "https://freerepublic.com/focus/f-news/4373500/posts",
+            "category": "Defence",
+            "date": "2026-04-03T17:05:42Z"
+        },
+        {
+            "title": "Pete Hegseth Gonna FIRE FAT CHICKS To VICTORY!",
+            "summary": "An article presents strong accusations against 'Secretary of WAR Pete Hegseth,' alleging his involvement in 'Godless war crimes.' These purported actions are claimed to span significant global regions, including the Atlantic, Pacific, and the Middle East. The commentary employs highly critical and derogatory language while outlining the alleged extensive wrongdoings attributed to the Secretary.",
+            "url": "https://www.wonkette.com/p/pete-hegseth-gonna-fire-fat-chicks",
+            "category": "Defence",
+            "date": "2026-04-03T15:27:30Z"
+        },
+        {
+            "title": "Navy Researchers Scanned the Seafloor and Tracked a Ping. Then They Found a Staggering 500-Year-Old Shipwreck.",
+            "summary": "The French military made an accidental discovery, identifying what is now the deepest shipwreck ever found within French territorial waters. This significant find occurred during military operations, underscoring the unexpected contributions defence forces can make to maritime history and archaeology. The discovery potentially offers valuable insights into past naval activities or shipping within national maritime zones.",
+            "url": "https://www.popularmechanics.com/science/archaeology/a70927796/french-deepest-shipwreck-found/",
+            "category": "Defence",
+            "date": "2026-04-03T14:19:46Z"
         }
     ]
 }
