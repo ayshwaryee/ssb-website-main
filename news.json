@@ -1,40 +1,19 @@
 {
-    "last_updated": "2026-04-06T13:00:21.561578+00:00",
+    "last_updated": "2026-04-06T18:52:05.736748+00:00",
     "articles": [
         {
-            "title": "A brief history of the Israeli nuclear program, the open secret at the heart of the Iran war",
-            "summary": "A U.S.-Israeli declared war against Iran, purportedly to dismantle its nuclear capabilities, marks the second such conflict in under a year. This geopolitical development raises significant international concerns, particularly as the article notes a lack of documented evidence supporting the alleged threat from Iran's nuclear program. The situation highlights escalating tensions in the Middle East.",
-            "url": "https://mondoweiss.net/2026/04/a-brief-history-of-the-israeli-nuclear-program-the-open-secret-at-the-heart-of-the-iran-war/",
-            "category": "International",
-            "date": "2026-04-05T13:00:00Z"
-        },
-        {
-            "title": "Iran attacks energy infrastructure across Gulf states",
-            "summary": "Authorities in Abu Dhabi are tackling significant fires at a petrochemical plant in Ruwais Industrial City, UAE. This incident, on the nation's northwest coast, highlights crucial industrial safety challenges and the importance of effective emergency response. Aspiring officers should note the impact of such events on regional stability and resource management.",
-            "url": "https://www.channelnewsasia.com/world/iran-attack-energy-infrastructure-middle-east-6037606",
-            "category": "International",
-            "date": "2026-04-05T12:51:00Z"
-        },
-        {
-            "title": "INDIAN NAVAL SHIP TRIKAND CALLS AT DAR-ES-SALAAM, TANZANIA",
-            "summary": "The Indian Navy's frontline guided missile frigate, INS Trikand, arrived in Dar-es-Salaam, Tanzania, on April 5, 2026. This significant port call highlights India's expanding maritime diplomacy and naval projection in the Indian Ocean region. Such deployments are crucial for strengthening bilateral defence ties and ensuring regional security, vital for showcasing India's strategic reach.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260405-india-pib01.htm",
+            "title": "US intelligence says Chinese satellite imagery of bases is helping Iran",
+            "summary": "US intelligence believes a Chinese company's AI-enhanced satellite images of US bases in the Middle East are assisting Iranian forces in identifying targets. This development raises significant concerns about the strategic implications of commercially available advanced AI and satellite technology being leveraged by adversarial nations for military intelligence, impacting regional security dynamics.",
+            "url": "https://www.abc.net.au/news/2026-04-06/us-intelligence-chinese-satellite-imagery-middle-east/106508322",
             "category": "Defence",
-            "date": "2026-04-05T12:00:00Z"
+            "date": "2026-04-05T18:42:10Z"
         },
         {
-            "title": "Great constants in naval warfare",
-            "summary": "The text introduces \"Fleet Tactics and Naval Operations,\" a work exploring both evolving trends and enduring constants in naval warfare. It delves into critical aspects like maneuver and fundamental challenges within combat theory, such as defining the precise start and end of engagements. This indicates a comprehensive analysis crucial for understanding the strategic and tactical complexities of modern naval operations and their historical underpinnings.",
-            "url": "https://www.isegoria.net/2026/04/great-constants-in-naval-warfare/",
-            "category": "Defence",
-            "date": "2026-04-05T11:45:32Z"
-        },
-        {
-            "title": "Lithium Americas (LAC) Target Lowered to $5 as Dilution Weighs on Outlook",
-            "summary": "The provided text details a website's cookie consent mechanism, outlining how clicking 'Accept all' enables the site and its 251 partners, part of the IAB Transparency & Consent Framework, to store and access user device data. This illustrates critical aspects of online data privacy, user consent, and the digital frameworks governing personal information sharing, a relevant topic for general awareness.",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca1c907b-0fdc-431d-b8a8-8284c07b7f0d",
-            "category": "Sci & Tech",
-            "date": "2026-04-05T08:25:56Z"
+            "title": "Nitish to take oath as Rajya Sabha member on April 10: BJP",
+            "summary": "BJP announced that Nitish Kumar is slated to take oath as a Rajya Sabha member on April 10, marking a key political development in India's national landscape. Separately, Apple has released its iOS 26.5 public beta, introducing new features like 'Suggested Places' in Maps, signaling continued advancements in mobile technology for users.",
+            "url": "https://timesofindia.indiatimes.com/city/patna/nitish-to-take-oath-as-rajya-sabha-member-on-april-10-bjp/articleshow/130044620.cms",
+            "category": "National",
+            "date": "2026-04-05T18:01:09Z"
         }
     ]
 }
