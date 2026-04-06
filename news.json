@@ -1,54 +1,19 @@
 {
-    "last_updated": "2026-04-05T18:37:21.465259+00:00",
+    "last_updated": "2026-04-06T02:02:59.215363+00:00",
     "articles": [
         {
-            "title": "Retired U.S. Lieutenant General Says Hegseth's Iran War 'Rule' Puts Missing Pilot's Life At Risk",
-            "summary": "Retired U.S. Army Lt. Gen. Russel L. Honor\u00e9 warned that a U.S. Air Force pilot, shot down and missing in Iran, faces a significantly increased risk of torture or death. He attributed this heightened danger directly to U.S. defense policies. This incident underscores the severe challenges and risks military personnel encounter in hostile territories, impacting international relations and demanding careful strategic consideration.",
-            "url": "https://www.huffpost.com/entry/russel-l-honore-pete-hegseth-iran-war-rule-puts-missing-pilot-life-at-risk_n_69d1314be4b0d214cc719621",
-            "category": "Defence",
-            "date": "2026-04-04T18:16:21Z"
-        },
-        {
-            "title": "linuxcnc-grpc 1.0.0b1",
-            "summary": "A website encountered a loading error, preventing content display. Potential causes include browser extensions, network issues, or browser settings. Users are advised to check their connection, disable ad blockers, or try an alternative browser to resolve this technical malfunction, ensuring site functionality is restored.",
-            "url": "https://pypi.org/project/linuxcnc-grpc/1.0.0b1/",
+            "title": "Show HN: A LinuxCNC gRPC Server with Clients in Rust, Go, Python, Node",
+            "summary": "A new gRPC interface has been developed for LinuxCNC machine control and its Hardware Abstraction Layer (HAL). This project overcomes the limitation of LinuxCNC's native Python API, which traditionally operates only locally. By exposing the API via gRPC, it now enables remote monitoring and control of industrial machinery. This advancement significantly enhances operational flexibility and efficiency in automated manufacturing and robotics using modern network protocols.",
+            "url": "https://github.com/dougcalobrisi/linuxcnc-grpc",
             "category": "Sci & Tech",
-            "date": "2026-04-04T17:53:51Z"
+            "date": "2026-04-05T01:40:12Z"
         },
         {
-            "title": "Catholic Caucus: Daily Mass Readings 4-April-2026",
-            "summary": "Ancient accounts describe Mary Magdalene and another Mary visiting a sepulchre at dawn on the first day following the sabbath. This momentous event was accompanied by a significant earthquake. The narrative highlights these specific occurrences surrounding their journey to the burial site and the geological upheaval witnessed at that historically significant location.",
-            "url": "https://freerepublic.com/focus/f-religion/4373625/posts",
+            "title": "10 Greatest Justice League Heroes Who Joined Since 2000",
+            "summary": "The Justice League, DC Comics' premier superhero team, has been a constant presence in the DC Universe since the early 1960s. Composed of the publisher's best characters, the team has undergone numerous transformations and evolutions over decades. They adapt their roster and storylines to new eras, reflecting enduring cultural impact and a rich fictional history within the comic book industry.",
+            "url": "https://screenrant.com/best-justice-league-heroes-joined-since-2000/",
             "category": "National",
-            "date": "2026-04-04T17:10:32Z"
-        },
-        {
-            "title": "HBO's Upcoming Sci-Fi Thriller Series Rewrites The Rules Of Murder Mysteries",
-            "summary": "HBO Max is launching an upcoming science fiction thriller series, a new live-action show anticipated to revolutionize traditional murder mysteries and potentially redefine the superhero genre in television. This development marks a significant move in streaming content, aiming to challenge existing narrative conventions in popular categories through innovative storytelling within the sci-fi realm.",
-            "url": "https://screenrant.com/hbo-lanterns-sci-fi-thriller-series-rewrites-murder-mysteries/",
-            "category": "Sci & Tech",
-            "date": "2026-04-04T17:03:19Z"
-        },
-        {
-            "title": "ISRO eyes May launch; Artemis-II will be a success, says Chairman V Narayanan",
-            "summary": "ISRO Chairman V Narayanan announced the agency's next launch is scheduled for May, initiating several missions lined up for the new financial year. This highlights India's ambitious and continuous advancements in space technology. Such consistent progress in critical scientific fields underscores the nation's strategic capabilities and self-reliance, vital aspects for SSB aspirants to note.",
-            "url": "https://economictimes.indiatimes.com/news/science/isro-eyes-may-launch-artemis-ii-will-be-a-success-says-chairman-v-narayanan/articleshow/130023065.cms",
-            "category": "Sci & Tech",
-            "date": "2026-04-04T16:22:32Z"
-        },
-        {
-            "title": "Sreeshankar Wins Long Jump at Indian Athletics Series",
-            "summary": "Murali Sreeshankar triumphed in the long jump at the Indian Athletics Series, marking a significant comeback after his recent knee surgery. This victory signals his strong recovery and reignites hopes for his future performance in major athletic competitions. His successful return to form is a positive development for Indian athletics.",
-            "url": "https://www.rediff.com/sports/report/sreeshankar-wins-long-jump-at-india-athletics-series/20260404.htm",
-            "category": "National",
-            "date": "2026-04-04T15:31:20Z"
-        },
-        {
-            "title": "'It beggars belief': UK military reveal locations inside sensitive bases through exercise app",
-            "summary": "A Conservative MP, Ben Obese-Jecty, criticized UK military personnel for revealing locations inside sensitive bases via the Strava exercise app. This security lapse, involving active service members, raises serious concerns about operational security and potential intelligence compromise. It highlights the critical need for enhanced digital awareness and stricter protocols within the armed forces to prevent such sensitive data leaks.",
-            "url": "https://news.sky.com/story/it-beggars-belief-uk-military-reveal-locations-inside-sensitive-bases-through-exercise-app-13527801",
-            "category": "Defence",
-            "date": "2026-04-04T02:16:00Z"
+            "date": "2026-04-04T22:30:20Z"
         }
     ]
 }
