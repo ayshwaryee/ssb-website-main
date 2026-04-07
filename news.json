@@ -1,19 +1,33 @@
 {
-    "last_updated": "2026-04-06T18:52:05.736748+00:00",
+    "last_updated": "2026-04-07T01:58:58.121747+00:00",
     "articles": [
         {
-            "title": "US intelligence says Chinese satellite imagery of bases is helping Iran",
-            "summary": "US intelligence believes a Chinese company's AI-enhanced satellite images of US bases in the Middle East are assisting Iranian forces in identifying targets. This development raises significant concerns about the strategic implications of commercially available advanced AI and satellite technology being leveraged by adversarial nations for military intelligence, impacting regional security dynamics.",
-            "url": "https://www.abc.net.au/news/2026-04-06/us-intelligence-chinese-satellite-imagery-middle-east/106508322",
+            "title": "UAE says air defences 'actively engaging' with missiles; urges public to remain calm",
+            "summary": "The UAE Defence Ministry confirmed its air defence systems are actively engaging incoming missiles and Unmanned Aerial Vehicles (UAVs). This signals an ongoing aerial threat, highlighting regional security tensions. For SSB aspirants, this underscores the critical role of robust air defence in national security and the dynamic nature of modern warfare, particularly in volatile geopolitical landscapes.",
+            "url": "https://economictimes.indiatimes.com/news/defence/uae-says-air-defences-actively-engaging-with-missiles-urges-public-to-remain-calm/articleshow/130048845.cms",
             "category": "Defence",
-            "date": "2026-04-05T18:42:10Z"
+            "date": "2026-04-06T01:32:16Z"
         },
         {
-            "title": "Nitish to take oath as Rajya Sabha member on April 10: BJP",
-            "summary": "BJP announced that Nitish Kumar is slated to take oath as a Rajya Sabha member on April 10, marking a key political development in India's national landscape. Separately, Apple has released its iOS 26.5 public beta, introducing new features like 'Suggested Places' in Maps, signaling continued advancements in mobile technology for users.",
-            "url": "https://timesofindia.indiatimes.com/city/patna/nitish-to-take-oath-as-rajya-sabha-member-on-april-10-bjp/articleshow/130044620.cms",
+            "title": "US Air Force breaks ground on next-gen nuclear missile silo",
+            "summary": "Northrop Grumman is building a prototype silo for the US Air Force to house its next-generation LGM-35A Sentinel Intercontinental Ballistic Missile (ICBM). This development is critical for modernizing the US nuclear deterrent, ensuring secure storage and operational readiness for its advanced strategic missiles. It highlights ongoing investment in defence infrastructure and strategic capabilities.",
+            "url": "https://newatlas.com/military/us-air-force-breaks-ground-next-gen-nuclear-missile-silo/",
+            "category": "Defence",
+            "date": "2026-04-06T01:03:00Z"
+        },
+        {
+            "title": "IAF plans to deploy heavy-lift airship at 30,000 ft for border surveillance",
+            "summary": "The Indian Air Force (IAF) plans to deploy heavy-lift airships at 30,000 feet for advanced border surveillance. This strategic initiative will provide persistent, high-altitude monitoring of critical border areas. It aims to significantly bolster national security by improving real-time intelligence gathering and enhancing the IAF's reconnaissance capabilities, offering a modern and continuous oversight solution.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/iaf-plans-to-deploy-heavy-lift-airship-at-30000-ft-for-border-surveillance/articleshow/130048517.cms",
+            "category": "Defence",
+            "date": "2026-04-06T00:39:20Z"
+        },
+        {
+            "title": "Spirit score first win despite Rodman goal drought",
+            "summary": "In a recent National Women's Soccer League match in San Jose, California, the Washington Spirit secured a 2-0 victory over Bay FC on Sunday. Substitute Gift Monday significantly influenced the game, scoring a crucial goal just two minutes after entering as a late player. This win marks an important result for the Washington Spirit in their league campaign.",
+            "url": "https://www.espn.com/soccer/story/_/id/48407532/washington-spirit-score-first-win-rodman-goal-drought",
             "category": "National",
-            "date": "2026-04-05T18:01:09Z"
+            "date": "2026-04-06T00:20:14Z"
         }
     ]
 }
