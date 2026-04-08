@@ -1,54 +1,26 @@
 {
-    "last_updated": "2026-04-07T18:57:59.434525+00:00",
+    "last_updated": "2026-04-08T02:00:01.068498+00:00",
     "articles": [
         {
-            "title": "Must explore how AFMS can make meaningful contribution in domain of clinical trials: Rajnath Singh",
-            "summary": "Defence Minister Rajnath Singh called for urgent reforms within India's clinical trial framework. He emphasized exploring how the Armed Forces Medical Services can actively contribute to and benefit from these advancements. Singh highlighted the critical need for a robust, ethical, and efficient system for medical research, impacting national health security and the well-being of defence personnel.",
-            "url": "https://economictimes.indiatimes.com/news/defence/must-explore-how-afms-can-make-meaningful-contribution-in-domain-of-clinical-trials-rajnath-singh/articleshow/130069712.cms",
-            "category": "Defence",
-            "date": "2026-04-06T18:51:15Z"
-        },
-        {
-            "title": "Could NZ\u2019s next Christchurch Call be a push for fairer, safer AI?",
-            "summary": "Artificial intelligence (AI) is swiftly becoming an integral part of daily life for New Zealanders, paralleling the widespread adoption of smartphones and social media. Referencing findings from a 2026 report, the article underscores AI's growing ubiquity, indicating its transition from novel technology to a fundamental aspect of modern existence. This trend highlights AI's increasing influence on everyday routines.",
-            "url": "https://theconversation.com/could-nzs-next-christchurch-call-be-a-push-for-fairer-safer-ai-279085",
-            "category": "Sci & Tech",
-            "date": "2026-04-06T18:20:22Z"
-        },
-        {
-            "title": "All The President\u2019s Men at 50: one of the finest films about investigative journalism ever made",
-            "summary": "The article text is severely truncated, providing only an opening scene of two men meeting clandestinely in a shadowy, dim car park at night. Due to over 5000 missing characters, it's impossible to accurately summarize the actual news story, discern its main subject, or definitively assign it to any specific category (Defence, National, International, Sci & Tech). The full article is required for proper analysis.",
-            "url": "https://theconversation.com/all-the-presidents-men-at-50-one-of-the-finest-films-about-investigative-journalism-ever-made-279451",
-            "category": "Defence",
-            "date": "2026-04-06T18:19:59Z"
-        },
-        {
-            "title": "North Carolina To Hire Former NBA Championship Coach Michael Malone",
-            "summary": "North Carolina has reportedly hired former NBA championship coach Michael Malone to lead its team, replacing Hubert Davis, who was recently fired. This move signifies the university's ambition to secure a high-profile 'superstar' coach, bringing championship-level experience to collegiate basketball and aiming to elevate their program's national standing.",
-            "url": "https://www.forbes.com/sites/adamzagoria/2026/04/06/north-carolina-to-hire-former-nba-championship-coach-michael-malone/",
-            "category": "International",
-            "date": "2026-04-06T18:18:43Z"
-        },
-        {
-            "title": "gismap 0.5.2",
-            "summary": "The provided text is an error message indicating a website component failed to load, likely due to browser extensions, network issues, or settings. Users are advised to check their connection, disable ad blockers, or try an alternative browser to resolve this technical problem.",
-            "url": "https://pypi.org/project/gismap/0.5.2/",
-            "category": "Sci & Tech",
-            "date": "2026-04-06T17:28:54Z"
-        },
-        {
-            "title": "Fantasy Basketball Week 25 Start/Sit: Reliable options to trust in season's final stretch",
-            "summary": "With the regular season nearing its conclusion, significant uncertainty has emerged as teams, irrespective of their league standing, are strategically resting players. This widespread practice of giving athletes the night off creates considerable challenges, impacting competitive integrity and strategic planning during the crucial final week. This scenario highlights complex decision-making in high-stakes environments, a valuable study for aspirants.",
-            "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-25-startsit-reliable-options-to-trust-in-seasons-final-stretch/",
+            "title": "Air India, Tata Digital losses push Tata Sons\u2019 new ventures towards Rs 29,000 crore hit: Report",
+            "summary": "New businesses under Tata Sons are projected to face significant combined losses, reaching up to Rs 29,000 crore by FY26. This figure drastically exceeds the earlier estimate of Rs 5,700 crore. For SSB aspirants, this highlights the financial challenges faced by major Indian conglomerates, reflecting broader national economic trends and the complexities of large-scale business ventures.",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/air-india-tata-digital-losses-push-tata-sons-new-ventures-towards-rs-29000-crore-hit-report/articleshow/130073690.cms",
             "category": "National",
-            "date": "2026-04-06T17:04:39Z"
+            "date": "2026-04-07T01:37:40Z"
         },
         {
-            "title": "\u83f4\u51e6",
-            "summary": "This fragment appears to be an entry from a 'Security Watch' log or update portal, last modified on April 7, 2026. It indicates coverage for UNIX, Windows, and Mac OS systems, likely pertaining to security advisories or updates. The presence of yearly archives suggests an ongoing information resource for cybersecurity, with further details expected in the full content.",
-            "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/04.html#20260407_tuiki",
-            "category": "Sci & Tech",
-            "date": "2026-04-06T15:00:00Z"
+            "title": "Trump repeats threat to Iran\u2019s infrastructure, dismisses war crime concerns",
+            "summary": "US President Donald Trump stated he is unconcerned about committing potential war crimes, threatening to destroy Iranian bridges and power plants if Tehran fails to meet his Tuesday deadline. This escalates tensions between the nations, highlighting the potential for severe military action and international law violations amidst ongoing diplomatic friction.",
+            "url": "https://www.thehindubusinessline.com/news/world/trump-repeats-threat-to-irans-infrastructure-dismisses-war-crime-concerns/article70832726.ece",
+            "category": "International",
+            "date": "2026-04-07T01:35:17Z"
+        },
+        {
+            "title": "MSMEs seek force majeure relief amid Gulf war disruptions",
+            "summary": "Small companies with government and Public Sector Undertaking contracts have urged the Centre to invoke 'force majeure'. They cite significant disruptions in raw material supplies, impacting their ability to fulfill contractual obligations. This appeal seeks protection from penalties due to unforeseen circumstances, aiming to safeguard businesses and ensure the continuity of essential projects amidst prevailing supply chain challenges.",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/msmes-seek-force-majeure-relief-amid-gulf-war-disruptions/articleshow/130069794.cms",
+            "category": "National",
+            "date": "2026-04-06T18:58:56Z"
         }
     ]
 }
