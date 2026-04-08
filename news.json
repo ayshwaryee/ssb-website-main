@@ -1,40 +1,47 @@
 {
-    "last_updated": "2026-04-08T13:11:46.533299+00:00",
+    "last_updated": "2026-04-08T19:09:32.415931+00:00",
     "articles": [
         {
-            "title": "Game Pass adds Kiln, Hades II, Vampire Crawlers: The Turbo Wildcard from Vampire Survivors, and more in April",
-            "summary": "The classic role-playing game Final Fantasy IV is now available on Game Pass Ultimate, Game Pass Premium, and PC Game Pass. Gamers can dive into this iconic RPG experience across Cloud, Xbox Series X|S, and PC platforms. This release expands the gaming library accessible through Microsoft's subscription service, offering a popular title to a broader audience of players, highlighting developments in digital entertainment distribution.",
-            "url": "https://www.gematsu.com/2026/04/game-pass-adds-kiln-hades-ii-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors-and-more-in-april",
-            "category": "Sci & Tech",
-            "date": "2026-04-07T13:08:14Z"
-        },
-        {
-            "title": "10 Things Absolute DC Has Done Right",
-            "summary": "DC Comics is undergoing a significant resurgence, consistently topping sales charts globally since late 2025. This renaissance highlights the publisher's renewed market dominance, with its 'Absolute DC' series specifically cited as a flagship product driving this exceptional performance. This turnaround demonstrates effective strategy in the competitive entertainment publishing sector.",
-            "url": "http://comicbook.com/comics/list/10-things-absolute-dc-has-done-right/",
-            "category": "International",
-            "date": "2026-04-07T13:00:00Z"
-        },
-        {
-            "title": "ATN International, Inc. Appoints New Chief Executive Officer",
-            "summary": "This article announces an event from ATN International, Inc., a key provider of digital infrastructure and communications services. However, the provided text is severely truncated, lacking the specific details of their announcement. Therefore, a comprehensive summary detailing the news content is not possible. The company's focus suggests a development within the technology sector.",
-            "url": "https://www.globenewswire.com/news-release/2026/04/07/3269103/12418/en/ATN-International-Inc-Appoints-New-Chief-Executive-Officer.html",
-            "category": "Sci & Tech",
-            "date": "2026-04-07T12:10:00Z"
-        },
-        {
-            "title": "Deep Isolation Nuclear Selected for ARPA-E SCALEUP Award to Advance Universal Canister System and Deep Borehole Disposal",
-            "summary": "Deep Isolation Nuclear, Inc., a leading innovator in nuclear waste disposal technology, announced it was selected for a significant project or initiative. This Berkeley-based company focuses on safely managing nuclear waste, crucial for sustainable energy and environmental protection. Such advancements are vital for national infrastructure and long-term security, offering solutions for a critical global challenge.",
-            "url": "https://www.globenewswire.com/news-release/2026/04/07/3269100/0/en/Deep-Isolation-Nuclear-Selected-for-ARPA-E-SCALEUP-Award-to-Advance-Universal-Canister-System-and-Deep-Borehole-Disposal.html",
-            "category": "Sci & Tech",
-            "date": "2026-04-07T12:05:00Z"
-        },
-        {
-            "title": "Andrei Belousov and Sergei Sobyanin inspect military commissariat and Moscow Joint Conscription Centre",
-            "summary": "Since 2022, the Russian Ministry of Defence, in collaboration with the Moscow Government and President Vladimir Putin's support, has been conducting a significant experiment. This comprehensive program indicates ongoing efforts to integrate various initiatives within Russia's defence and national strategy. The project highlights Russia's proactive approach to national development and military policy, underscoring strategic governmental collaboration on critical projects.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260407-russia-mod01.htm",
+            "title": "29 years after his disappearance from Army's custody, J&K court declares Abdul Rashid Wani dead",
+            "summary": "A Srinagar court has declared Abdul Rashid Wani legally dead, nearly 29 years after his alleged disappearance from Indian Army custody. This significant verdict by a special mobile magistrate resolves a long-pending case, highlighting legal procedures for missing persons and the complexities of accountability involving security forces. Such cases underscore the challenges in addressing historical disappearances in regions like Kashmir.",
+            "url": "https://economictimes.indiatimes.com/news/india/29-years-after-his-disappearance-from-armys-custody-jk-court-declares-abdul-rashid-wani-dead/articleshow/130095792.cms",
             "category": "Defence",
-            "date": "2026-04-07T12:00:00Z"
+            "date": "2026-04-07T19:01:54Z"
+        },
+        {
+            "title": "Rajnath Singh to visit Germany, defence investor summit in focus",
+            "summary": "India's Defence Minister Rajnath Singh is set to visit Germany this month for high-level interactions. The visit aims to foster deeper defence industry collaboration, focusing on attracting German investment into India's defence sector. Discussions will likely include potential joint ventures, technology transfers, and strategic partnerships, bolstering India's 'Make in India' defence initiatives and strengthening bilateral ties in the security domain.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-to-visit-germany-defence-investor-summit-in-focus/articleshow/130095471.cms",
+            "category": "Defence",
+            "date": "2026-04-07T18:47:44Z"
+        },
+        {
+            "title": "A new (and same old) Patrick Reed is back at the Masters",
+            "summary": "Prominent golfer Pat Reed is making a comeback to the PGA Tour in late August, following a four-year stint with LIV Golf. This highly anticipated return marks a \"fresh start\" for Reed, exiting what's been termed Brian Rolapps' \"penalty box,\" and rejoins the established tour, signifying a significant shift in his professional career.",
+            "url": "https://golf.com/news/patrick-reed-masters-2026-back/",
+            "category": "National",
+            "date": "2026-04-07T18:35:33Z"
+        },
+        {
+            "title": "Why Cooper Raiff Is Mounting an Emmy Campaign for Lili Reinhart",
+            "summary": "During the recent awards season, actors Cooper Raiff and Lili Reinhart reportedly crashed a glitzy reception for \"Song Sung Blue,\" a biopic for which Kate Hudson later won an Oscar. This incident highlights the dynamic social scene within the international film industry's high-profile events, offering a glimpse into celebrity interactions during prestigious award ceremonies.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-features/cooper-raiff-lili-reinhart-hal-and-harper-indie-awards-1236557559/",
+            "category": "International",
+            "date": "2026-04-07T17:14:48Z"
+        },
+        {
+            "title": "Building a high-volume metrics pipeline with OpenTelemetry and vmagent",
+            "summary": "This article outlines a production-tested approach for migrating large-scale metrics pipelines, specifically detailing the transition from StatsD to modern monitoring systems like OpenTelemetry and Prometheus. Authored by Eugene Ma and Natasha Aleksandrova, it addresses key considerations and methods for updating core monitoring infrastructure. Such advancements are vital for maintaining robust system performance and efficient data analytics in various tech environments.",
+            "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+            "category": "Sci & Tech",
+            "date": "2026-04-07T17:01:01Z"
+        },
+        {
+            "title": "5 Most Underrated Game Boy Games Ever",
+            "summary": "The Nintendo Game Boy is celebrated as one of history's most successful handheld video game consoles, featuring an extensive game library across its original and Game Boy Color versions. Its profound impact on portable entertainment and the gaming industry is significant, influencing numerous players and subsequent device innovations. This iconic gadget solidified its legacy, offering a vast array of titles and becoming a cornerstone of technological and gaming culture.",
+            "url": "http://comicbook.com/gaming/list/5-most-underrated-game-boy-games-ever/",
+            "category": "Sci & Tech",
+            "date": "2026-04-07T16:00:00Z"
         }
     ]
 }
