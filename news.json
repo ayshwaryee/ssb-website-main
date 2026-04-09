@@ -1,47 +1,26 @@
 {
-    "last_updated": "2026-04-08T19:09:32.415931+00:00",
+    "last_updated": "2026-04-09T01:51:40.923274+00:00",
     "articles": [
         {
-            "title": "29 years after his disappearance from Army's custody, J&K court declares Abdul Rashid Wani dead",
-            "summary": "A Srinagar court has declared Abdul Rashid Wani legally dead, nearly 29 years after his alleged disappearance from Indian Army custody. This significant verdict by a special mobile magistrate resolves a long-pending case, highlighting legal procedures for missing persons and the complexities of accountability involving security forces. Such cases underscore the challenges in addressing historical disappearances in regions like Kashmir.",
-            "url": "https://economictimes.indiatimes.com/news/india/29-years-after-his-disappearance-from-armys-custody-jk-court-declares-abdul-rashid-wani-dead/articleshow/130095792.cms",
+            "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
+            "summary": "Reports suggest Russian satellites extensively surveyed military facilities and critical sites across the Middle East. This intelligence is reportedly assisting Iran in targeting U.S. forces and other strategic locations. This collaboration underscores evolving geopolitical dynamics and potential regional instability, crucial for understanding international defence scenarios.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/articleshow/130099585.cms",
             "category": "Defence",
-            "date": "2026-04-07T19:01:54Z"
+            "date": "2026-04-08T01:25:49Z"
         },
         {
-            "title": "Rajnath Singh to visit Germany, defence investor summit in focus",
-            "summary": "India's Defence Minister Rajnath Singh is set to visit Germany this month for high-level interactions. The visit aims to foster deeper defence industry collaboration, focusing on attracting German investment into India's defence sector. Discussions will likely include potential joint ventures, technology transfers, and strategic partnerships, bolstering India's 'Make in India' defence initiatives and strengthening bilateral ties in the security domain.",
-            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-to-visit-germany-defence-investor-summit-in-focus/articleshow/130095471.cms",
-            "category": "Defence",
-            "date": "2026-04-07T18:47:44Z"
-        },
-        {
-            "title": "A new (and same old) Patrick Reed is back at the Masters",
-            "summary": "Prominent golfer Pat Reed is making a comeback to the PGA Tour in late August, following a four-year stint with LIV Golf. This highly anticipated return marks a \"fresh start\" for Reed, exiting what's been termed Brian Rolapps' \"penalty box,\" and rejoins the established tour, signifying a significant shift in his professional career.",
-            "url": "https://golf.com/news/patrick-reed-masters-2026-back/",
-            "category": "National",
-            "date": "2026-04-07T18:35:33Z"
+            "title": "Why Do Grocery Store Apples Look So Shiny? (And Wait, Are They Safe to Eat?)",
+            "summary": "This article critically examines the popular saying, 'an apple a day keeps the doctor away,' prompting readers to question its factual basis. It begins by observing the apparent freshness of grocery store apples, likely setting the stage to explore their actual nutritional value and efficacy in promoting health, challenging conventional wisdom. This analysis encourages aspirants to maintain a discerning approach to common beliefs.",
+            "url": "https://www.mentalfloss.com/food/grocery-stores/why-grocery-store-apples-look-shiny-safe-eat",
+            "category": "Sci & Tech",
+            "date": "2026-04-07T20:00:00Z"
         },
         {
             "title": "Why Cooper Raiff Is Mounting an Emmy Campaign for Lili Reinhart",
-            "summary": "During the recent awards season, actors Cooper Raiff and Lili Reinhart reportedly crashed a glitzy reception for \"Song Sung Blue,\" a biopic for which Kate Hudson later won an Oscar. This incident highlights the dynamic social scene within the international film industry's high-profile events, offering a glimpse into celebrity interactions during prestigious award ceremonies.",
+            "summary": "During a recent awards season, 'Hal & Harper' creator Cooper Raiff and co-star Lili Reinhart attended a high-profile reception for the biopic 'Song Sung Blue'. Kate Hudson, a prominent figure in the film, subsequently received an Oscar for her role. The event highlighted a significant moment in the entertainment industry's annual celebration of cinematic achievements.",
             "url": "http://www.hollywoodreporter.com/tv/tv-features/cooper-raiff-lili-reinhart-hal-and-harper-indie-awards-1236557559/",
             "category": "International",
             "date": "2026-04-07T17:14:48Z"
-        },
-        {
-            "title": "Building a high-volume metrics pipeline with OpenTelemetry and vmagent",
-            "summary": "This article outlines a production-tested approach for migrating large-scale metrics pipelines, specifically detailing the transition from StatsD to modern monitoring systems like OpenTelemetry and Prometheus. Authored by Eugene Ma and Natasha Aleksandrova, it addresses key considerations and methods for updating core monitoring infrastructure. Such advancements are vital for maintaining robust system performance and efficient data analytics in various tech environments.",
-            "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-            "category": "Sci & Tech",
-            "date": "2026-04-07T17:01:01Z"
-        },
-        {
-            "title": "5 Most Underrated Game Boy Games Ever",
-            "summary": "The Nintendo Game Boy is celebrated as one of history's most successful handheld video game consoles, featuring an extensive game library across its original and Game Boy Color versions. Its profound impact on portable entertainment and the gaming industry is significant, influencing numerous players and subsequent device innovations. This iconic gadget solidified its legacy, offering a vast array of titles and becoming a cornerstone of technological and gaming culture.",
-            "url": "http://comicbook.com/gaming/list/5-most-underrated-game-boy-games-ever/",
-            "category": "Sci & Tech",
-            "date": "2026-04-07T16:00:00Z"
         }
     ]
 }
