@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-04-10T02:04:58.947151+00:00",
+    "last_updated": "2026-04-10T07:20:44.909778+00:00",
     "articles": [
         {
-            "title": "\u2018Served nation for 21 yrs, now my nationality is being doubted\u2019: Kargil war veteran out of Bengal voter roll",
-            "summary": "Retired Indian Army Havildar Md Daud Ali, a Kargil War veteran from Murshidabad who served over two decades, is now fighting to prove his identity. Despite his dedicated service, including the 1999 conflict, he faces challenges affirming his citizenship. This situation highlights issues faced by some veterans regarding documentation and identity verification, demanding urgent attention.",
-            "url": "https://indianexpress.com/article/cities/kolkata/served-nation-for-21-yrs-now-my-nationality-is-being-doubted-kargil-war-veteran-out-of-bengal-voter-roll-10626665/",
-            "category": "Defence",
-            "date": "2026-04-09T00:32:49Z"
+            "title": "Delhi HC directs X and Delhi police to act against Rana Ayyub over decade-old tweets",
+            "summary": "The Delhi High Court strongly criticized journalist Rana Ayyub's tweets from 2013-2017, deeming them 'highly derogatory' and 'inflammatory.' The court's objection centered on her remarks concerning Hindu deities and Vinayak Damodar Savarkar. This highlights the judiciary's increasing scrutiny of social media content and the importance of responsible public discourse, particularly concerning religious and historical figures, for all citizens.",
+            "url": "https://www.medianama.com/2026/04/223-delhi-hc-rana-ayyub-tweets-x-police/",
+            "category": "National",
+            "date": "2026-04-09T05:24:10Z"
         },
         {
-            "title": "Sulfated Niobia and Zirconia Catalysts for the Synthesis of Ethyl Levulinate",
-            "summary": "This scientific work details a strategy for converting levulinic acid (LAc) into ethyl levulinate. This process is crucial for enhancing the value of compounds derived from lignocellulosic biomass-based biorefineries. The research contributes to optimizing sustainable resource utilization, transforming plant-based materials into more valuable products, and advancing green chemistry solutions for potential applications in renewable energy and materials.",
-            "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cy/d5cy01343g",
+            "title": "Saudi Arabia, UAE, Kuwait, Bahrain report attacks after Iran-US ceasefire",
+            "summary": "Several Gulf nations, including the UAE, reported missile and drone attacks on their territories, just hours after Iran and the United States announced a two-week ceasefire. This incident underscores persistent regional instability despite diplomatic efforts between major powers, highlighting the complex security challenges and potential actions by various state or non-state actors in the Middle East.",
+            "url": "https://thechronicle.com.gh/saudi-arabia-uae-kuwait-bahrain-report-attacks-after-iran-us-ceasefire/",
+            "category": "International",
+            "date": "2026-04-09T05:19:34Z"
+        },
+        {
+            "title": "edgefirst-hal 0.16.1",
+            "summary": "A crucial website component encountered a loading error, potentially due to issues like browser extension interference, underlying network problems, or specific browser settings. Aspirants encountering this should troubleshoot by carefully checking their internet connection, disabling any active ad blockers, or trying an alternative web browser for resolution.",
+            "url": "https://pypi.org/project/edgefirst-hal/0.16.1/",
             "category": "Sci & Tech",
-            "date": "2026-04-08T23:00:00Z"
+            "date": "2026-04-09T04:52:10Z"
         }
     ]
 }
