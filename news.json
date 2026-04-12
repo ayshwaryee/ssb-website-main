@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-04-12T07:08:08.408672+00:00",
+    "last_updated": "2026-04-12T12:52:45.488761+00:00",
     "articles": [
         {
-            "title": "Defence stocks set for mixed Q4; Nuvama bets on BEL, Solar Industries, and a smallcap pick",
-            "summary": "Listed defence companies anticipate mixed financial results in Q4FY26. This is despite robust order visibility, sustained inflows, and a healthy project pipeline, indicating complex market dynamics. For SSB aspirants, understanding these trends in India's defence industry is crucial, underscoring its strategic importance for national security and indigenous development.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-set-for-mixed-q4-nuvama-bets-on-bel-solar-industries-and-a-smallcap-pick/articleshow/130186050.cms",
-            "category": "Defence",
-            "date": "2026-04-11T06:53:56Z"
+            "title": "Charlie Sheen\u2019s 1998 Prevost Tour Bus Is For Sale",
+            "summary": "This 1998 Prevost Marathon XL Bus, famously used by actor Charlie Sheen for many years, including while filming the hit TV show 'Two and a Half Men', has a notable ownership history. Sheen later sold the luxurious coach to musician Tim Montana. This vehicle represents a slice of celebrity memorabilia, transitioning from a well-known actor to a prominent musician, highlighting its unique journey and previous high-profile use.",
+            "url": "https://silodrome.com/charlie-sheen-prevost-bus/",
+            "category": "Sci & Tech",
+            "date": "2026-04-11T12:30:31Z"
         },
         {
-            "title": "'Sabka Malik Ek': Watch Army Chief Gen Upendra Dwivedi reveal reason why India didn't strike Pakistan during Namaz in Op Sindoor",
-            "summary": "Army Chief General Upendra Dwivedi revealed Indian forces deliberately paused strikes during Operation Sindoor. This strategic decision was made to avoid targeting terror camps during prayer hours, showcasing the Indian Army's calibrated approach. It emphasizes ethical considerations and precision, even against adversaries, reflecting a commitment to minimizing collateral damage and respecting religious sentiments.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/sabka-malik-ek-watch-army-chief-gen-upendra-dwivedi-reveal-reason-why-india-didnt-strike-pakistan-during-namaz-in-op-sindoor/articleshow/130184495.cms",
+            "title": "Saudi Arabia says Pakistan sends fighter jets to kingdom under defence pact",
+            "summary": "Pakistan has deployed fighter jets and military forces to Saudi Arabia to enhance security, fulfilling obligations under an existing defence pact. The Saudi defence ministry confirmed this move, highlighting the deepening military cooperation between Islamabad and Riyadh. This strategic partnership aims to bolster regional stability and collective defence capabilities in the face of ongoing geopolitical developments.",
+            "url": "https://economictimes.indiatimes.com/news/defence/saudi-arabia-says-pakistan-sends-fighter-jets-to-kingdom-under-defence-pact/articleshow/130191615.cms",
             "category": "Defence",
-            "date": "2026-04-11T04:59:42Z"
+            "date": "2026-04-11T12:25:16Z"
         },
         {
-            "title": "Taiwan spotted Chinese warplanes as Xi met opposition leader in Beijing",
-            "summary": "Taiwan's defence ministry reported spotting 16 Chinese warplanes near the island on Friday. This military activity, coinciding with high-level meetings involving China's president, signals Beijing's ongoing assertive posture and pressure on Taiwan. The incident underscores persistent cross-strait tensions, a key aspect of Indo-Pacific security dynamics for aspiring defence personnel to monitor.",
-            "url": "https://www.channelnewsasia.com/east-asia/taiwan-chinese-warplanes-xi-jinping-kuomintang-6050446",
-            "category": "Defence",
-            "date": "2026-04-11T04:57:42Z"
+            "title": "One hundred seventy five Russian servicemen are returned from territory controlled by Kiev regime",
+            "summary": "On April 11, 2026, Russia and Ukraine conducted a significant prisoner of war exchange. A total of 175 Russian servicemen held by Ukraine were returned, while an equal number of 175 Ukrainian Armed Forces (AFU) POWs were repatriated. This mutual exchange highlights ongoing efforts amidst the conflict to return captured personnel to their respective nations, demonstrating a rare instance of cooperation.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260411-russia-mod01.htm",
+            "category": "International",
+            "date": "2026-04-11T12:00:00Z"
         },
         {
-            "title": "What to watch on TV and streaming today: The Young Offenders, Thrash and McCartney: The Hunt for the Lost Bass",
-            "summary": "BBC Two's 'McCartney: The Hunt for the Lost Bass' explores the search for Paul McCartney's original bass guitar, a legendary instrument critical to The Beatles' early sound. The documentary navigates the challenge of producing new Beatles content, offering an in-depth look at this significant piece of musical history and its cultural impact, aired for a national audience.",
-            "url": "https://www.independent.ie/entertainment/television/what-to-watch-on-tv-and-streaming-today-the-young-offenders-thrash-and-mccartney-the-hunt-for-the-lost-bass/a2053834775.html",
+            "title": "codepuppy-rs-turbo-parse added to PyPI",
+            "summary": "This update details Phase 2 enhancements for 'Code Puppy' and 'turbo_parse', emphasizing high-performance parsing and advanced editor-grade features. Leveraging technologies like tree-sitter and PyO3 bindings, the advancements aim to provide powerful capabilities, including improved syntax highlighting. These developments are crucial for robust software development tools, enhancing efficiency in code analysis and interaction for developers working on complex projects. The focus is on boosting software performance.",
+            "url": "https://pypi.org/project/codepuppy-rs-turbo-parse/",
+            "category": "Sci & Tech",
+            "date": "2026-04-11T11:51:29Z"
+        },
+        {
+            "title": "$15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers",
+            "summary": "The article focuses on the WeAct Studio STM32U585CIU6 development board, featuring an ultra-low-power STM32U5 Cortex-M33 MCU. This board, integrated into MicroPython v1.28, is ideal for energy-efficient embedded projects. The text explores its capabilities and potentially compares it with other compact microcontroller solutions, providing valuable insights for tech enthusiasts and developers interested in advanced, low-power hardware and programming.",
+            "url": "https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/",
+            "category": "Sci & Tech",
+            "date": "2026-04-11T10:00:33Z"
+        },
+        {
+            "title": "Astronaut Shubhanshu Shukla\u2019s mission patch to be issued as commemorative postal stamp",
+            "summary": "A public notice has been issued, encouraging individuals to engage with the originating entity through various social media platforms. This strategic move aims to enhance public connectivity, facilitate the rapid dissemination of important updates, and foster a community for interaction. The specific organization behind this call and the nature of shared content were not detailed.",
+            "url": "https://timesofindia.indiatimes.com/life-style/spotlight/mission-patch-worn-by-astronaut-shubhanshu-shukla-to-be-honoured-on-postal-stamp/articleshow/130188038.cms",
             "category": "National",
-            "date": "2026-04-11T04:30:00Z"
+            "date": "2026-04-11T09:47:45Z"
         },
         {
             "title": "News Summary-Intelligence Report 4/10/2026*Newsdump Friday*Russia Protects Merchant Ships*Swalwell Sex Assault Claim*Deadly Israeli Attacks Gaza, Lebanon*Irish Fuel Blockades*Iran Speaker Negotiation Conditions*Tawian Opposition Leader Meets Xi*Orban...*",
-            "summary": "An intelligence report details current global flashpoints. It highlights Russia's efforts to protect merchant ships and deadly Israeli attacks in Gaza and Lebanon, underscoring ongoing international conflicts. The report also briefly notes a Swalwell sex assault claim and Irish fuel blockades, presenting a concise overview of diverse geopolitical and national challenges for an aspirant's awareness.",
+            "summary": "An intelligence report highlights global security concerns, including Russia's actions protecting merchant ships and deadly Israeli attacks in Gaza and Lebanon. Domestically, Ireland faces fuel blockades, while a sex assault claim against Swalwell is noted. The report also briefly touches on ongoing developments concerning Iran, painting a picture of diverse international and national challenges.",
             "url": "https://freerepublic.com/focus/f-bloggers/4374454/posts",
-            "category": "Defence",
+            "category": "International",
             "date": "2026-04-11T03:52:19Z"
         },
         {
-            "title": "Ethanol in diesel generators: India\u2019s next practical step towards energy security",
-            "summary": "India's ethanol blending programme showcases the government's strategic vision for Atmanirbhar Bharat, significantly reducing dependence on imported crude oil. This initiative bolsters energy security, promotes self-reliance, and offers substantial economic and environmental benefits. It reflects a long-term policy commitment towards sustainable growth and national independence, crucial for India's strategic autonomy.",
-            "url": "https://www.thehindubusinessline.com/economy/agri-business/ethanol-in-diesel-generators-indias-next-practical-step-towards-energy-security/article70848734.ece",
-            "category": "National",
-            "date": "2026-04-11T03:40:40Z"
-        },
-        {
-            "title": "Foreign Secretary Misri wraps up US visit with talks on nuclear cooperation and LPG exports",
-            "summary": "India's Foreign Secretary Vikram Misri met with the US Energy Secretary to deepen energy cooperation. Discussions focused on expanding nuclear power initiatives, exploring new avenues like coal gasification, and enhancing LPG exports. This strategic dialogue underscores India's commitment to energy security and diversification, strengthening vital bilateral ties with the US across crucial energy sectors, reflecting a forward-looking foreign policy.",
-            "url": "https://www.thehindubusinessline.com/news/foreign-secretary-misri-wraps-up-us-visit-with-talks-on-nuclear-cooperation-and-lpg-exports/article70850026.ece",
+            "title": "Residents meet BMC amid protests over Malabar Hill water tank",
+            "summary": "The article highlights Donald Trump's \"wild Iran rant,\" where he criticised media personalities. Concurrently, a major crisis is reported in the Strait of Hormuz, with 3,200 ships and 2,000 seafarers stranded. This critical situation in a vital international chokepoint underscores ongoing geopolitical tensions involving Iran, impacting global maritime security and trade.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/residents-meet-bmc-amid-protests-over-malabar-hill-water-tank/articleshow/130177161.cms",
             "category": "International",
-            "date": "2026-04-11T01:21:28Z"
+            "date": "2026-04-10T18:42:00Z"
         }
     ]
 }
