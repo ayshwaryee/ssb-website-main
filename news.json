@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-04-12T12:52:45.488761+00:00",
+    "last_updated": "2026-04-12T18:40:04.693216+00:00",
     "articles": [
         {
-            "title": "Charlie Sheen\u2019s 1998 Prevost Tour Bus Is For Sale",
-            "summary": "This 1998 Prevost Marathon XL Bus, famously used by actor Charlie Sheen for many years, including while filming the hit TV show 'Two and a Half Men', has a notable ownership history. Sheen later sold the luxurious coach to musician Tim Montana. This vehicle represents a slice of celebrity memorabilia, transitioning from a well-known actor to a prominent musician, highlighting its unique journey and previous high-profile use.",
-            "url": "https://silodrome.com/charlie-sheen-prevost-bus/",
+            "title": "Man Creates Tiny Submarine for His Parakeet to Experience Life Underwater",
+            "summary": "This article highlights significant innovations from the bleeding edge of science and technology. It introduces parakeets, 115 species of seed-eating parrots often commercially bred as pets, implying a discussion on advancements in animal science, genetics, or even artificial intelligence in understanding their intellect. This provides key insights into diverse scientific progress relevant for aspiring officers.",
+            "url": "http://futurism.com/future-society/tiny-submarine-parakeet",
             "category": "Sci & Tech",
+            "date": "2026-04-11T17:30:00Z"
+        },
+        {
+            "title": "Giga-yachts, golden visas and the Gilded Age: The startling escalation of Kiwi wealth",
+            "summary": "New Zealand's ultra-wealth sector is expanding, with the number of billionaires increasing significantly from three over the past decade. While still a small fraction compared to US private wealth, this growth signifies an evolving economic landscape within the 'Kiwi' nation, highlighting increasing wealth concentration despite its modest global size.",
+            "url": "https://www.nzherald.co.nz/business/personal-finance/investment/giga-yachts-golden-visas-and-the-gilded-age-the-startling-escalation-of-kiwi-wealth/premium/E4LNCUWS4JEGHLAUANQKLM4QUQ/",
+            "category": "International",
+            "date": "2026-04-11T17:00:00Z"
+        },
+        {
+            "title": "China's Newest Nuclear Submarine Is More Than Just Bigger",
+            "summary": "Experts predict the new '095' submarine will primarily conduct underwater warfare against nuclear submarines, mirroring the US Seawolf class. While its core function is anti-submarine warfare, the potential integration of a Vertical Launch System (VLS) suggests capabilities for anti-ship and land-attack operations, indicating a versatile and potent naval asset for future strategic deployments.",
+            "url": "https://www.bgr.com/2141083/china-new-nuclear-sub-type-09v-tech-advancements/",
+            "category": "Defence",
+            "date": "2026-04-11T16:47:00Z"
+        },
+        {
+            "title": "China's Newest Nuclear Submarine Is More Than Just Bigger",
+            "summary": "Clicking 'Accept all' grants partners, like those in the IAB Transparency & Consent Framework, permission to store and access device information. This action signifies user consent for data sharing, raising digital privacy concerns. SSB aspirants should understand such mechanisms, recognizing their impact on personal data security and the importance of cyber awareness in the interconnected world.",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c00576ac-278c-4e52-b9b6-5fd735bc6971",
+            "category": "Sci & Tech",
+            "date": "2026-04-11T16:47:00Z"
+        },
+        {
+            "title": "Fire at Goa\u2019s Dabolim Airport quickly contained; flights unaffected",
+            "summary": "A minor fire erupted in an electrical switch room at Goa International Airport, Dabolim, on Saturday. Officials confirmed the blaze was quickly brought under control, preventing any casualties. This incident highlights the importance of robust safety protocols and rapid response mechanisms in critical infrastructure like airports, crucial for national security and public safety.",
+            "url": "https://indianexpress.com/article/india/fire-at-goas-dabolim-airport-quickly-contained-flights-unaffected-10631594/",
+            "category": "National",
+            "date": "2026-04-11T15:57:31Z"
+        },
+        {
+            "title": "Charlie Sheen\u2019s 1998 Prevost Tour Bus Is For Sale",
+            "summary": "The article describes a 1998 Prevost Marathon XL Bus, famously owned by actor Charlie Sheen. He utilized it for many years, including during the filming of \"Two and a Half Men.\" Sheen later sold the luxury vehicle to musician Tim Montana. The bus, with its unique celebrity provenance, has a notable history, suggesting a story about its subsequent ownership or modifications.",
+            "url": "https://silodrome.com/charlie-sheen-prevost-bus/",
+            "category": "National",
             "date": "2026-04-11T12:30:31Z"
         },
         {
-            "title": "Saudi Arabia says Pakistan sends fighter jets to kingdom under defence pact",
-            "summary": "Pakistan has deployed fighter jets and military forces to Saudi Arabia to enhance security, fulfilling obligations under an existing defence pact. The Saudi defence ministry confirmed this move, highlighting the deepening military cooperation between Islamabad and Riyadh. This strategic partnership aims to bolster regional stability and collective defence capabilities in the face of ongoing geopolitical developments.",
-            "url": "https://economictimes.indiatimes.com/news/defence/saudi-arabia-says-pakistan-sends-fighter-jets-to-kingdom-under-defence-pact/articleshow/130191615.cms",
-            "category": "Defence",
-            "date": "2026-04-11T12:25:16Z"
-        },
-        {
             "title": "One hundred seventy five Russian servicemen are returned from territory controlled by Kiev regime",
-            "summary": "On April 11, 2026, Russia and Ukraine conducted a significant prisoner of war exchange. A total of 175 Russian servicemen held by Ukraine were returned, while an equal number of 175 Ukrainian Armed Forces (AFU) POWs were repatriated. This mutual exchange highlights ongoing efforts amidst the conflict to return captured personnel to their respective nations, demonstrating a rare instance of cooperation.",
+            "summary": "Russia and Ukraine conducted a significant prisoner exchange, returning 175 servicemen each. 175 Russian personnel were released from Ukrainian-controlled territory, while Ukraine received 175 of its Armed Forces (AFU) Prisoners of War. This reciprocal exchange underscores ongoing humanitarian efforts despite the persistent conflict between the two nations.",
             "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260411-russia-mod01.htm",
             "category": "International",
             "date": "2026-04-11T12:00:00Z"
-        },
-        {
-            "title": "codepuppy-rs-turbo-parse added to PyPI",
-            "summary": "This update details Phase 2 enhancements for 'Code Puppy' and 'turbo_parse', emphasizing high-performance parsing and advanced editor-grade features. Leveraging technologies like tree-sitter and PyO3 bindings, the advancements aim to provide powerful capabilities, including improved syntax highlighting. These developments are crucial for robust software development tools, enhancing efficiency in code analysis and interaction for developers working on complex projects. The focus is on boosting software performance.",
-            "url": "https://pypi.org/project/codepuppy-rs-turbo-parse/",
-            "category": "Sci & Tech",
-            "date": "2026-04-11T11:51:29Z"
-        },
-        {
-            "title": "$15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers",
-            "summary": "The article focuses on the WeAct Studio STM32U585CIU6 development board, featuring an ultra-low-power STM32U5 Cortex-M33 MCU. This board, integrated into MicroPython v1.28, is ideal for energy-efficient embedded projects. The text explores its capabilities and potentially compares it with other compact microcontroller solutions, providing valuable insights for tech enthusiasts and developers interested in advanced, low-power hardware and programming.",
-            "url": "https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/",
-            "category": "Sci & Tech",
-            "date": "2026-04-11T10:00:33Z"
-        },
-        {
-            "title": "Astronaut Shubhanshu Shukla\u2019s mission patch to be issued as commemorative postal stamp",
-            "summary": "A public notice has been issued, encouraging individuals to engage with the originating entity through various social media platforms. This strategic move aims to enhance public connectivity, facilitate the rapid dissemination of important updates, and foster a community for interaction. The specific organization behind this call and the nature of shared content were not detailed.",
-            "url": "https://timesofindia.indiatimes.com/life-style/spotlight/mission-patch-worn-by-astronaut-shubhanshu-shukla-to-be-honoured-on-postal-stamp/articleshow/130188038.cms",
-            "category": "National",
-            "date": "2026-04-11T09:47:45Z"
-        },
-        {
-            "title": "News Summary-Intelligence Report 4/10/2026*Newsdump Friday*Russia Protects Merchant Ships*Swalwell Sex Assault Claim*Deadly Israeli Attacks Gaza, Lebanon*Irish Fuel Blockades*Iran Speaker Negotiation Conditions*Tawian Opposition Leader Meets Xi*Orban...*",
-            "summary": "An intelligence report highlights global security concerns, including Russia's actions protecting merchant ships and deadly Israeli attacks in Gaza and Lebanon. Domestically, Ireland faces fuel blockades, while a sex assault claim against Swalwell is noted. The report also briefly touches on ongoing developments concerning Iran, painting a picture of diverse international and national challenges.",
-            "url": "https://freerepublic.com/focus/f-bloggers/4374454/posts",
-            "category": "International",
-            "date": "2026-04-11T03:52:19Z"
-        },
-        {
-            "title": "Residents meet BMC amid protests over Malabar Hill water tank",
-            "summary": "The article highlights Donald Trump's \"wild Iran rant,\" where he criticised media personalities. Concurrently, a major crisis is reported in the Strait of Hormuz, with 3,200 ships and 2,000 seafarers stranded. This critical situation in a vital international chokepoint underscores ongoing geopolitical tensions involving Iran, impacting global maritime security and trade.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/residents-meet-bmc-amid-protests-over-malabar-hill-water-tank/articleshow/130177161.cms",
-            "category": "International",
-            "date": "2026-04-10T18:42:00Z"
         }
     ]
 }
