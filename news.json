@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-04-14T13:16:36.995444+00:00",
+    "last_updated": "2026-04-14T19:06:31.705840+00:00",
     "articles": [
         {
-            "title": "Australia appoints first female army chief",
-            "summary": "Australia's government has announced a significant reshuffle in its military leadership, making history by appointing the first woman to the Chief of Army position. This landmark decision marks a pivotal moment for the Australian Defence Force, signalling progressive changes and breaking traditional barriers within its ranks. The move reflects evolving inclusion and diversity in national defence.",
-            "url": "https://www.dw.com/en/australia-appoints-first-female-army-chief/a-76763950",
-            "category": "Defence",
-            "date": "2026-04-13T12:53:00Z"
+            "title": "Malcolm in the Middle Revival: All 4 Episodes of Life\u2019s Still Unfair, Ranked",
+            "summary": "The popular sitcom 'Malcolm in the Middle' has made a comeback with a new revival miniseries titled 'Life\u2019s Still Unfair' on Hulu. This new outing features four episodes, bringing back the beloved family for fresh stories. The revival provides fans an opportunity to reconnect with the show's distinctive humor and characters on the streaming platform, reigniting interest in the classic series.",
+            "url": "http://comicbook.com/tv-shows/list/malcolm-in-the-middle-revival-all-4-episodes-of-lifes-still-unfair-ranked/",
+            "category": "International",
+            "date": "2026-04-13T19:00:00Z"
         },
         {
-            "title": "ZUPPA Geo Navigation Technologies delivers 500 Ajeet drones to the Indian Army",
-            "summary": "Chennai-based ZUPPA Geo Navigation Technologies has supplied over 500 Ajeet series drones to the Indian Army in the last three months. This significant delivery by an indigenous manufacturer enhances the Army's operational capabilities, especially in reconnaissance and surveillance, marking a boost for 'Make in India' defence initiatives and strengthening our forces' technological edge.",
-            "url": "https://www.thehindubusinessline.com/news/zuppa-geo-navigation-technologies-delivers-500-ajeet-drones-to-the-indian-army/article70857186.ece",
+            "title": "Kitty Flanagan and Anne Edmonds create comedy chaos in new show",
+            "summary": "This article serves as an April TV guide, previewing new season premieres for the month. It highlights various entertainment offerings, specifically mentioning a two-handed comedy featuring Anne Edmonds and Kitty Flanagan. Aspirants can note how media keeps citizens informed about cultural trends and leisure activities, demonstrating the diversity of national interests.",
+            "url": "https://www.abc.net.au/news/2026-04-14/what-to-watch-on-tv-april-malcolm-in-the-middle-half-man/106557912",
+            "category": "National",
+            "date": "2026-04-13T18:52:29Z"
+        },
+        {
+            "title": "Kiekhaefer Mercury Hurricane Super 10 at No Reserve",
+            "summary": "This article details the Mercury KG-7Q Super 10 Hurricane, a classic two-stroke parallel-twin outboard motor. Built in 1951 by Kiekhaefer Mercury, this 10-horsepower engine is described as being part of a seller's collection. It highlights the design and specifications of a vintage piece of marine engineering, showcasing historical advancements in motor technology from the mid-20th century.",
+            "url": "https://bringatrailer.com/listing/kiekhaefer-mercury-hurricane-super-10/",
+            "category": "Sci & Tech",
+            "date": "2026-04-13T18:51:15Z"
+        },
+        {
+            "title": "A New Study Narrows the Search for Water on the Moon",
+            "summary": "India's Chandrayaan-1 mission, through its Moon Impact Probe (MIP), confirmed a long-held scientific speculation upon impacting the Shackleton crater. This landmark achievement solidified India's role in space exploration, providing crucial insights into the lunar environment. The mission's findings, likely related to the presence of water ice, are vital for future lunar resource utilization and establishing human presence on the Moon.",
+            "url": "https://www.universetoday.com/articles/a-new-study-narrows-the-search-for-water-on-the-moon",
+            "category": "Sci & Tech",
+            "date": "2026-04-13T18:22:29Z"
+        },
+        {
+            "title": "Show HN: Farchive \u2013 SQLite-backed history-preserving compressed archive",
+            "summary": "Farchive is a local, history-preserving digital archive designed for managing opaque bytes at specified locators. It efficiently stores raw data once, uniquely identified by its SHA-256 digest, while maintaining a complete observation history for each locator. This system ensures robust data integrity and traceability, crucial for managing and retrieving complex digital information in various technical applications.",
+            "url": "https://github.com/eliask/farchive",
+            "category": "Sci & Tech",
+            "date": "2026-04-13T16:19:38Z"
+        },
+        {
+            "title": "DRDO to showcase Pralay, BrahMos missiles, other advance defence systems at Bihar exhibition",
+            "summary": "India is showcasing its advanced indigenous defence technologies at a mega event. Key systems like the formidable BrahMos and Akash missile systems, the Main Battle Tank Arjun, and the powerful Pinaka Multiple Launch Rocket System will be featured. This highlights India's growing self-reliance and technological prowess in defence manufacturing, vital for national security and strategic autonomy.",
+            "url": "https://economictimes.indiatimes.com/news/defence/drdo-to-showcase-pralay-brahmos-missiles-other-advance-defence-systems-at-bihar-exhibition/articleshow/130241023.cms",
             "category": "Defence",
-            "date": "2026-04-13T11:27:32Z"
+            "date": "2026-04-13T15:43:38Z"
+        },
+        {
+            "title": "GE Aerospace-IAF tie up for depo-level maintenance iof F404 -IN20 engines",
+            "summary": "GE Aerospace has contracted with the Indian Air Force to establish an in-country depot facility for the maintenance of F404-IN20 engines. These engines power the IAF's Light Combat Aircraft (LCA) Tejas. This move enhances India's indigenous maintenance capabilities, reduces foreign dependence for critical aircraft components, and significantly boosts the operational readiness and self-reliance of the Indian Air Force.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/ge-aerospace-iaf-tie-up-for-depo-level-maintenance-iof-f404-in20-engines/article70857481.ece",
+            "category": "Defence",
+            "date": "2026-04-13T12:59:31Z"
         }
     ]
 }
