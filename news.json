@@ -1,12 +1,47 @@
 {
-    "last_updated": "2026-04-15T02:02:34.211832+00:00",
+    "last_updated": "2026-04-15T07:24:27.490035+00:00",
     "articles": [
         {
-            "title": "Rock & Roll Hall of Fame's class of 2026 includes Phil Collins, Oasis and Sade",
-            "summary": "The Rock & Roll Hall of Fame announced its 2026 class of eight inductees, highlighting diverse musical talent. The list includes an R&B legend, a prominent heavy metal band, and a successful drummer-turned-frontman. This annual selection celebrates artists whose significant contributions have profoundly shaped rock and roll music and its cultural landscape.",
-            "url": "https://www.npr.org/2026/04/13/nx-s1-5783924/2026-rock-roll-hall-of-fame-inductees",
+            "title": "Introducing: Audemars Piguet's New Atelier Des \u00c9tablisseurs",
+            "summary": "The article details the \u00c9tablisseurs Galets, the first of three new watch creations announced at Watches and Wonders. Conceptualized by independent designer Xavier J. Perrenoud, this unique timepiece pays homage to the pebbles of Lac. It represents a fusion of artistic design and precision craftsmanship, showcasing innovation within the luxury watch industry.",
+            "url": "https://www.hodinkee.com/articles/audemars-piguets-new-atelier-des-etablisseurs",
+            "category": "Sci & Tech",
+            "date": "2026-04-14T07:00:19Z"
+        },
+        {
+            "title": "NFL Draft order by round 2026: Complete list of all 257 picks for Rounds 1-7",
+            "summary": "This article details the complete order of all 257 picks across seven rounds for the 2026 National Football League (NFL) Draft. Published by The Sporting News, it provides an exhaustive list for teams planning their future player selections. This comprehensive guide helps predict team compositions and emerging talent in American professional football.",
+            "url": "https://www.sportingnews.com/us/nfl/news/nfl-draft-order-round-2026-complete-list-257-picks-rounds-1-7/9cf0510e85dbc914a4ce4f35",
             "category": "National",
-            "date": "2026-04-14T01:36:10Z"
+            "date": "2026-04-14T07:00:02Z"
+        },
+        {
+            "title": "jieba-py added to PyPI",
+            "summary": "Jieba is a highly regarded Python module specifically developed for Chinese text segmentation, a fundamental process in natural language processing. Named from the Chinese word for 'to stutter,' it is designed to be the premier tool for accurately dividing Chinese text into individual words. This module is essential for developers and researchers engaged in processing or analyzing Chinese language data, offering comprehensive English documentation.",
+            "url": "https://pypi.org/project/jieba-py/",
+            "category": "Sci & Tech",
+            "date": "2026-04-14T06:53:43Z"
+        },
+        {
+            "title": "HDFC Defence Fund increase stake in HAL, Eicher Motors and 4 other stocks in March",
+            "summary": "HDFC Defence Fund, India's only actively managed mutual fund focused on the defence sector, significantly increased its stake in Hindustan Aeronautics (HAL), Eicher Motors, and four other companies in March. This move reflects growing investor confidence and interest in India's defence manufacturing capabilities and associated industries, signaling potential for sector expansion and national economic growth.",
+            "url": "https://m.economictimes.com/mf/analysis/hdfc-defence-fund-increase-stake-in-hal-eicher-motors-and-4-other-stocks-in-march/articleshow/130252670.cms",
+            "category": "Defence",
+            "date": "2026-04-14T06:35:34Z"
+        },
+        {
+            "title": "Inside the investment strategy of the government\u2019s new Fund of Funds",
+            "summary": "The government has launched a Rs 10,000 crore Fund of Funds (FoF) 2.0, designed to significantly boost investments in Indian startups. This initiative aims to sustain growth momentum within the startup ecosystem by providing capital to various alternative investment funds. FoF 2.0 reflects the government's commitment to fostering innovation, entrepreneurship, and job creation for national development.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/inside-the-investment-strategy-of-the-governments-new-fund-of-funds/articleshow/130252662.cms",
+            "category": "National",
+            "date": "2026-04-14T06:27:01Z"
+        },
+        {
+            "title": "Indonesia, US sign \u2018major\u2019 defence cooperation agreement",
+            "summary": "US Secretary of Defense Pete Hegseth lauded a new, significant defence cooperation partnership with Indonesia, underscoring the strength of ties with Jakarta. This collaboration highlights the growing strategic importance of Indo-Pacific security for both nations. For SSB aspirants, this signifies evolving regional alliances and collaborative efforts to maintain stability and counter emerging challenges in a crucial geopolitical theatre.",
+            "url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement",
+            "category": "Defence",
+            "date": "2026-04-14T05:10:24Z"
         }
     ]
 }
