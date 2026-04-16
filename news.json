@@ -1,33 +1,54 @@
 {
-    "last_updated": "2026-04-16T02:10:13.149748+00:00",
+    "last_updated": "2026-04-16T07:24:43.240356+00:00",
     "articles": [
         {
-            "title": "\u4eba\u6c17\u30b2\u30fc\u30e0\u30b7\u30ea\u30fc\u30ba\u300c\u661f\u306e\u30ab\u30fc\u30d3\u30a3\u300d\u00d7Speedo\u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u7b2c\u4e8c\u5f3e\u306e\u30a2\u30a4\u30c6\u30e0\u304c\u767b\u5834\u3002",
-            "summary": "The provided article text is largely unreadable, appearing as a jumble of brand names like 'Speedo' and 'Goldwin', numbers, and garbled characters, including a link to 'kirby.jp'. It lacks coherent sentences or discernible news content, making it impossible to extract any meaningful information or provide a relevant summary for an SSB aspirant on current affairs or specific topics.",
-            "url": "https://prtimes.jp/main/html/rd/p/000000014.000081981.html",
-            "category": "National",
-            "date": "2026-04-15T02:10:00Z"
-        },
-        {
-            "title": "Guess which ASX stock is flying after a huge defence contract win",
-            "summary": "Duratec Ltd (ASX: DUR), a contractor, is experiencing significant market activity, with its share price nearing a record high. Strong buying interest reflects considerable investor confidence in the company's financial health and future prospects. This highlights ongoing economic movements within the national market, showcasing positive sentiment in the financial sector.",
-            "url": "https://www.fool.com.au/2026/04/15/guess-which-asx-stock-is-flying-after-a-huge-defence-contract-win/",
-            "category": "National",
-            "date": "2026-04-15T02:00:20Z"
-        },
-        {
-            "title": "Supergirl Fights Off Alien Raiders & Protects Young Girl In New Footage For James Gunn's Next DC Movie",
-            "summary": "Warner Bros. Discovery provided a major update on the Supergirl solo film (featuring Kara Zor-El) at CinemaCon 2026. This announcement, part of ongoing DC Universe developments, generates anticipation for the film's release. It reflects significant movements within the global entertainment industry, demonstrating the international scope of media franchises.",
-            "url": "https://screenrant.com/supergirl-cinemacon-2026-trailer-footage/",
+            "title": "North Korea is boosting nuclear weapons capacity: IAEA",
+            "summary": "North Korea has reportedly made serious advancements in its nuclear weapons capabilities, with intelligence suggesting the probable addition of a new uranium enrichment facility. Activity at a key complex has also intensified, indicating a significant acceleration in its nuclear program. This development raises serious international security concerns and implications for global stability.",
+            "url": "https://www.thehindubusinessline.com/news/world/north-korea-is-boosting-nuclear-weapons-capacity-iaea/article70864036.ece",
             "category": "International",
-            "date": "2026-04-15T01:26:14Z"
+            "date": "2026-04-15T06:06:23Z"
         },
         {
-            "title": "Stocks in news: ICICI Pru Life, Anand Rathi Share, LIC, Vedanta, HAL",
-            "summary": "Markets experienced a volatile session on Monday, declining nearly 1%, primarily pressured by weak global cues. Analysts suggest that sustaining above the 23,500 level is critical for any further rebound. This highlights the sensitivity of national economic indicators to international factors, urging aspirants to track global developments impacting domestic market stability.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-icici-pru-life-anand-rathi-share-lic-vedanta-hal/articleshow/130270698.cms",
+            "title": "Iran used Chinese spy satellite to target US bases",
+            "summary": "Iran secretly acquired a Chinese spy satellite, significantly enhancing its capability to target U.S. military bases across the Middle East. This acquisition boosts Iran's intelligence and reconnaissance assets, posing a new strategic challenge in the region. The Financial Times reported this, highlighting evolving geopolitical dynamics and potential security implications crucial for an SSB aspirant's understanding of regional threats.",
+            "url": "https://economictimes.indiatimes.com/news/defence/iran-used-chinese-spy-satellite-to-target-us-bases/articleshow/130273600.cms",
+            "category": "Defence",
+            "date": "2026-04-15T05:14:09Z"
+        },
+        {
+            "title": "Don't Get Distracted from what is Real",
+            "summary": "This piece explores internal psychological challenges, referencing Paula Cole's \"monsters in your own head\" and Jonathan Lockwood Huie's \"Rattlesnake of the Mind.\" It highlights how perception can be deceiving, urging individuals to confront inner fears and mental obstacles. This metaphor encourages critical self-awareness, a crucial attribute for SSB aspirants navigating personal resilience and decision-making.",
+            "url": "https://blog.jlhuie.com/2026/04/dont-get-distracted-from-what-is-real.html",
             "category": "National",
-            "date": "2026-04-15T00:50:28Z"
+            "date": "2026-04-15T04:30:00Z"
+        },
+        {
+            "title": "Today\u2019s top TV and streaming picks: Margo\u2019s Got Money Trouble, Grayson Perry Has Seen The Future and Million Dollar Secret",
+            "summary": "The article provides television listings, primarily highlighting two programs. It features \"GAA Beo\" on TG4 at 7:25 PM, covering the U20 Munster Hurling Championship game between Waterford and Cork. Additionally, \"Michael Jackson: An American Tragedy\" is listed on BBC Two at 9 PM. This content functions as a broadcast schedule rather than a traditional news report.",
+            "url": "https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-picks-margos-got-money-trouble-grayson-perry-has-seen-the-future-and-million-dollar-secret/a64882470.html",
+            "category": "National",
+            "date": "2026-04-15T04:30:00Z"
+        },
+        {
+            "title": "Europe must be part of any peace deal to end Ukraine war, Friedrich Merz says",
+            "summary": "German Chancellor Friedrich Merz stated that Europe's involvement is indispensable for any internationally supported agreement to end the war in Ukraine. He highlighted that the U.S. government acknowledges Europe's pivotal role in such peace efforts. This underscores Europe's assertion of its strategic importance and desire for a central position in determining the future security landscape and ensuring a lasting resolution to the conflict.",
+            "url": "https://www.independent.ie/world-news/europe/europe-must-be-part-of-any-peace-deal-to-end-ukraine-war-friedrich-merz-says/a250060713.html",
+            "category": "International",
+            "date": "2026-04-15T04:30:00Z"
+        },
+        {
+            "title": "Donald Trump jitters push US allies toward Japan\u2019s most significant military shift since World War II",
+            "summary": "Japan is set to ease its arms export rules, sparking strong interest from allies like Poland and the Philippines. This move stems from concerns over the United States' wavering security commitments, prompting nations to seek alternative defense partners. Japan's strategic shift could reshape global security dynamics and foster new military cooperation.",
+            "url": "https://economictimes.indiatimes.com/news/defence/donald-trump-jitters-push-us-allies-toward-japans-most-significant-military-shift-since-world-war-ii/articleshow/130272633.cms",
+            "category": "Defence",
+            "date": "2026-04-15T04:12:53Z"
+        },
+        {
+            "title": "How the Warriors can upset the Clippers",
+            "summary": "The Golden State Warriors are set to face the LA Clippers in a crucial play-in tournament game on Wednesday night. This first-round match is a do-or-die situation for the Warriors, meaning a win advances them, while a loss eliminates them from further contention. Aspirants should note this as an example of high-stakes competitive sports.",
+            "url": "https://www.goldenstateofmind.com/warriors-analysis/110105/warriors-clippers-play-in-tournament-keys-to-victory",
+            "category": "International",
+            "date": "2026-04-15T02:45:41Z"
         }
     ]
 }
