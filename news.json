@@ -1,4 +1,33 @@
 {
-    "last_updated": "2026-04-15T19:09:10.786310+00:00",
-    "articles": []
+    "last_updated": "2026-04-16T02:10:13.149748+00:00",
+    "articles": [
+        {
+            "title": "\u4eba\u6c17\u30b2\u30fc\u30e0\u30b7\u30ea\u30fc\u30ba\u300c\u661f\u306e\u30ab\u30fc\u30d3\u30a3\u300d\u00d7Speedo\u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u7b2c\u4e8c\u5f3e\u306e\u30a2\u30a4\u30c6\u30e0\u304c\u767b\u5834\u3002",
+            "summary": "The provided article text is largely unreadable, appearing as a jumble of brand names like 'Speedo' and 'Goldwin', numbers, and garbled characters, including a link to 'kirby.jp'. It lacks coherent sentences or discernible news content, making it impossible to extract any meaningful information or provide a relevant summary for an SSB aspirant on current affairs or specific topics.",
+            "url": "https://prtimes.jp/main/html/rd/p/000000014.000081981.html",
+            "category": "National",
+            "date": "2026-04-15T02:10:00Z"
+        },
+        {
+            "title": "Guess which ASX stock is flying after a huge defence contract win",
+            "summary": "Duratec Ltd (ASX: DUR), a contractor, is experiencing significant market activity, with its share price nearing a record high. Strong buying interest reflects considerable investor confidence in the company's financial health and future prospects. This highlights ongoing economic movements within the national market, showcasing positive sentiment in the financial sector.",
+            "url": "https://www.fool.com.au/2026/04/15/guess-which-asx-stock-is-flying-after-a-huge-defence-contract-win/",
+            "category": "National",
+            "date": "2026-04-15T02:00:20Z"
+        },
+        {
+            "title": "Supergirl Fights Off Alien Raiders & Protects Young Girl In New Footage For James Gunn's Next DC Movie",
+            "summary": "Warner Bros. Discovery provided a major update on the Supergirl solo film (featuring Kara Zor-El) at CinemaCon 2026. This announcement, part of ongoing DC Universe developments, generates anticipation for the film's release. It reflects significant movements within the global entertainment industry, demonstrating the international scope of media franchises.",
+            "url": "https://screenrant.com/supergirl-cinemacon-2026-trailer-footage/",
+            "category": "International",
+            "date": "2026-04-15T01:26:14Z"
+        },
+        {
+            "title": "Stocks in news: ICICI Pru Life, Anand Rathi Share, LIC, Vedanta, HAL",
+            "summary": "Markets experienced a volatile session on Monday, declining nearly 1%, primarily pressured by weak global cues. Analysts suggest that sustaining above the 23,500 level is critical for any further rebound. This highlights the sensitivity of national economic indicators to international factors, urging aspirants to track global developments impacting domestic market stability.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-icici-pru-life-anand-rathi-share-lic-vedanta-hal/articleshow/130270698.cms",
+            "category": "National",
+            "date": "2026-04-15T00:50:28Z"
+        }
+    ]
 }
