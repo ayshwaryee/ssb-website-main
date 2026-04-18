@@ -1,33 +1,54 @@
 {
-    "last_updated": "2026-04-18T01:57:18.641795+00:00",
+    "last_updated": "2026-04-18T07:01:14.272506+00:00",
     "articles": [
         {
-            "title": "hal-spatial-harness 0.1.482",
-            "summary": "Website users are encountering difficulties loading site content, which may stem from browser extensions, network connectivity issues, or specific browser settings. To resolve these problems, users are advised to check their internet connection, disable any ad blockers, or try accessing the site using an alternative browser. This guidance aims to troubleshoot common technical barriers for a smooth online experience.",
-            "url": "https://pypi.org/project/hal-spatial-harness/0.1.482/",
-            "category": "Sci & Tech",
-            "date": "2026-04-17T00:08:43Z"
+            "title": "FIG.5, Festival for Illustration and Graphics",
+            "summary": "The fifth edition of FIG., the Festival for Illustration and Graphics, was recently held in Sofia, Bulgaria. This significant cultural event featured a comprehensive program including numerous exhibitions and group shows for visual arts. Attendees also benefited from engaging talks, hands-on workshops, enjoyable concerts, and diverse screenings, celebrating the vibrant world of graphic arts and illustration in the Bulgarian capital.",
+            "url": "https://fontsinuse.com/uses/76496/fig-5-festival-for-illustration-and-graphics",
+            "category": "International",
+            "date": "2026-04-17T06:49:23Z"
         },
         {
-            "title": "hal-spatial-harness 0.1.481",
-            "summary": "A critical part of a website failed to load, likely due to browser extensions, network issues, or settings. Users are advised to check their internet, disable ad blockers, or try another browser to resolve this technical display problem. This highlights common digital challenges in accessing information efficiently.",
-            "url": "https://pypi.org/project/hal-spatial-harness/0.1.481/",
-            "category": "Sci & Tech",
-            "date": "2026-04-16T23:14:50Z"
+            "title": "Akshaya Tritiya 2026 date and time: Check city-wise muhurat timings for gold buying",
+            "summary": "Akshaya Tritiya typically sees a significant surge in gold purchases across Indian households. Driven by the auspicious belief that buying gold on this day brings wealth and prosperity, the festival consistently boosts consumer spending on precious metals. This annual tradition highlights the interplay between cultural faith, consumer behaviour, and the national economic landscape, making it a key event for India's gold market.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/akshaya-tritiya-2026-date-and-time-check-city-wise-muhurat-timings-for-gold-buying/articleshow/130325126.cms",
+            "category": "National",
+            "date": "2026-04-17T06:40:45Z"
         },
         {
-            "title": "hal-spatial-harness 0.1.47992",
-            "summary": "Website users may experience a loading error, preventing crucial site components from displaying. This technical issue often stems from browser extensions, network connectivity problems, or specific browser settings. Users encountering this are advised to troubleshoot by verifying their internet connection, disabling ad blockers, or attempting to access the site using a different browser to resolve the problem and ensure full functionality.",
-            "url": "https://pypi.org/project/hal-spatial-harness/0.1.47992/",
-            "category": "Sci & Tech",
-            "date": "2026-04-16T21:51:04Z"
+            "title": "High-ranking Pak terrorist shot once again: Here's a list of India's 'most-wanted' targets hit by 'unkown gunmen'",
+            "summary": "In recent years, a noticeable pattern has emerged in Pakistan and Pakistan-occupied Kashmir: several high-profile terrorists, designated as most-wanted by India, have been eliminated. These often mysterious attacks against key figures involved in various terror acts against India suggest a significant shift in regional dynamics and pose questions about the perpetrators and the implications for India's national security interests.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/another-high-ranking-pakistan-terrorist-shot-again-heres-a-list-of-indias-most-wanted-targets-hit-by-by-unkown-gunmen/articleshow/130324312.cms",
+            "category": "Defence",
+            "date": "2026-04-17T06:40:24Z"
         },
         {
-            "title": "hal-spatial-harness 0.1.4799",
-            "summary": "A website component failed to load, potentially due to browser extensions, network disruptions, or specific browser configurations. Users experiencing this are advised to check their internet connection, disable any active ad blockers, or try accessing the site using a different web browser. This technical issue aims to guide users through common troubleshooting steps for web content display problems.",
-            "url": "https://pypi.org/project/hal-spatial-harness/0.1.4799/",
+            "title": "Race to the Moon: Power, politics and the new space order",
+            "summary": "An intensifying space rivalry is unfolding between the United States and China, separate from traditional economic conflicts. While NASA's Artemis program progresses towards lunar exploration and beyond, China is rapidly advancing its own ambitious space capabilities. This competition highlights the strategic importance of technological leadership and geopolitical influence in the new space race for future dominance.",
+            "url": "https://economictimes.indiatimes.com/news/science/race-to-the-moon-us-vs-china-space-race-2026-nasa-artemis-china-moon-mission-geopolitics-lunar-exploration-helium-3-space-rivalry-explained/articleshow/130323951.cms",
             "category": "Sci & Tech",
-            "date": "2026-04-16T21:26:33Z"
+            "date": "2026-04-17T06:39:01Z"
+        },
+        {
+            "title": "Army steps up patrols in Manipur hills to block hostile infrastructure",
+            "summary": "Indian Army-led Security Forces conducted coordinated Joint Area Domination Patrols in Jalenbung, astride NH-202. These patrols are a continuation of ongoing operations, reinforcing the military's commitment to maintaining security and stability in the region. Such actions are crucial for ensuring national security and demonstrate proactive ground control by the forces.",
+            "url": "https://economictimes.indiatimes.com/news/india/army-steps-up-patrols-in-manipur-hills-to-block-hostile-infrastructure/articleshow/130324757.cms",
+            "category": "Defence",
+            "date": "2026-04-17T06:20:10Z"
+        },
+        {
+            "title": "iil-dvelop-client 0.1.0",
+            "summary": "The article reports a technical error preventing a website component from loading, attributing it to potential browser extensions, network issues, or browser settings. It advises users to troubleshoot by verifying their internet connection, disabling any ad blockers, or attempting a different browser to restore functionality. This emphasizes basic digital troubleshooting skills for aspirants.",
+            "url": "https://pypi.org/project/iil-dvelop-client/0.1.0/",
+            "category": "Sci & Tech",
+            "date": "2026-04-17T06:11:24Z"
+        },
+        {
+            "title": "iil-dvelop-client added to PyPI",
+            "summary": "The provided text is an error message, not a news article. It indicates a website loading failure, possibly due to browser extensions, network issues, or browser settings. Users are advised to check their internet connection, disable any ad blockers, or try using a different browser to resolve the issue and successfully load the required site part.",
+            "url": "https://pypi.org/project/iil-dvelop-client/",
+            "category": "Sci & Tech",
+            "date": "2026-04-17T06:11:24Z"
         }
     ]
 }
