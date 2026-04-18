@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-04-18T07:01:14.272506+00:00",
+    "last_updated": "2026-04-18T12:53:02.391958+00:00",
     "articles": [
         {
-            "title": "FIG.5, Festival for Illustration and Graphics",
-            "summary": "The fifth edition of FIG., the Festival for Illustration and Graphics, was recently held in Sofia, Bulgaria. This significant cultural event featured a comprehensive program including numerous exhibitions and group shows for visual arts. Attendees also benefited from engaging talks, hands-on workshops, enjoyable concerts, and diverse screenings, celebrating the vibrant world of graphic arts and illustration in the Bulgarian capital.",
-            "url": "https://fontsinuse.com/uses/76496/fig-5-festival-for-illustration-and-graphics",
+            "title": "UAE envoy to India flags 2,890 strikes on civilian infra since Feb 28, says 4 million Indian expats integral to nation",
+            "summary": "The Middle East has faced 49 days of conflict, stemming from US and Israeli strikes on thousands of Iranian sites, killing high-ranking officials. This intense regional escalation impacts global security and requires SSB aspirants to understand complex international relations, geopolitical shifts, and their implications for defence preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/uae-envoy-to-india-flags-2890-strikes-on-civilian-infra-since-feb-28-says-4-million-indian-expats-integral-to-nation/articleshow/130331367.cms",
             "category": "International",
-            "date": "2026-04-17T06:49:23Z"
+            "date": "2026-04-17T12:07:05Z"
         },
         {
-            "title": "Akshaya Tritiya 2026 date and time: Check city-wise muhurat timings for gold buying",
-            "summary": "Akshaya Tritiya typically sees a significant surge in gold purchases across Indian households. Driven by the auspicious belief that buying gold on this day brings wealth and prosperity, the festival consistently boosts consumer spending on precious metals. This annual tradition highlights the interplay between cultural faith, consumer behaviour, and the national economic landscape, making it a key event for India's gold market.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/akshaya-tritiya-2026-date-and-time-check-city-wise-muhurat-timings-for-gold-buying/articleshow/130325126.cms",
+            "title": "OSS Plans to Showcase Specialized High-Performance AI Computing Solutions at The Navy League\u2019s Sea-Air-Space Exposition on April 19-22",
+            "summary": "One Stop Systems (OSS), a Nasdaq-listed company based in Escondido, California, is a prominent leader in providing rugged high-performance computing (HPC) solutions specifically tailored for artificial intelligence (AI) applications. This press release, dated April 17, 2026, highlights their expertise in developing advanced computational technology crucial for demanding AI environments.",
+            "url": "https://www.globenewswire.com/news-release/2026/04/17/3276101/0/en/OSS-Plans-to-Showcase-Specialized-High-Performance-AI-Computing-Solutions-at-The-Navy-League-s-Sea-Air-Space-Exposition-on-April-19-22.html",
+            "category": "Sci & Tech",
+            "date": "2026-04-17T12:00:00Z"
+        },
+        {
+            "title": "Bryan Cranston\u2019s Brutal And Direct Remarks On Shia LaBeouf Leave Fans In Disbelief",
+            "summary": "Veteran actor Bryan Cranston's candid remarks about Shia LaBeouf have become a viral sensation. Fans are actively discussing Cranston's brutally direct comments made during a recent conversation. The unexpected dialogue between the two prominent actors has garnered significant public attention, creating widespread buzz across social media platforms and entertainment news outlets, fascinating many.",
+            "url": "https://www.boredpanda.com/bryan-cranston-interview-direct-remarks-on-shia-labeouf/",
             "category": "National",
-            "date": "2026-04-17T06:40:45Z"
+            "date": "2026-04-17T11:47:16Z"
+        },
+        {
+            "title": "Army leadership pushes indigenous production amid supply chain disruptions",
+            "summary": "The Indian Army leadership has emphasized accelerating indigenous defence production capabilities, responding to global conflicts and trade blockades. This critical move aims to bolster India's self-reliance (Aatmanirbharta) in military equipment. It is vital for enhancing national security and strategic autonomy, ensuring our armed forces are robustly equipped to meet future challenges while significantly reducing external dependencies.",
+            "url": "https://www.thehindubusinessline.com/news/national/army-leadership-pushes-indigenous-production-amid-supply-chain-disruptions/article70873132.ece",
+            "category": "Defence",
+            "date": "2026-04-17T11:38:56Z"
+        },
+        {
+            "title": "The evolution of firepower warrants deep reflection",
+            "summary": "The early 20th-century development of the torpedo revolutionized naval warfare, providing an asymmetric advantage. This innovation empowered numerically or technologically inferior forces to effectively challenge and defeat superior adversaries. Torpedoes delivered a potent pulse of destructive power, fundamentally altering naval tactics and strategy by emphasizing stealth and precision. This technological leap profoundly reshaped military doctrines, highlighting the strategic impact of new weapon systems.",
+            "url": "https://www.isegoria.net/2026/04/the-evolution-of-firepower-warrants-deep-reflection/",
+            "category": "Defence",
+            "date": "2026-04-17T11:20:14Z"
+        },
+        {
+            "title": "self-improving-loop added to PyPI",
+            "summary": "This article discusses a novel \"safety-first self-improvement loop\" for AI agents, a significant advancement over current methods that merely log failures. The proposed system involves executing tasks, tracking performance, analyzing data, auto-applying improvements, and crucially, auto-rolling back upon regression. This robust approach ensures AI systems evolve reliably and securely, enhancing performance and mitigating risks through controlled, continuous learning cycles.",
+            "url": "https://pypi.org/project/self-improving-loop/",
+            "category": "Sci & Tech",
+            "date": "2026-04-17T10:53:33Z"
+        },
+        {
+            "title": "fastapi-error-handler added to PyPI",
+            "summary": "This article emphasizes the crucial need for consistent, elegant error handling in FastAPI applications. It explains how default API responses, often 'ugly' or inconsistent (e.g., 'Not Found'), negatively affect user experience. The text proposes a streamlined, one-line setup solution to ensure uniform and user-friendly error messages, significantly enhancing web API robustness and professionalism.",
+            "url": "https://pypi.org/project/fastapi-error-handler/",
+            "category": "Sci & Tech",
+            "date": "2026-04-17T10:32:12Z"
         },
         {
             "title": "High-ranking Pak terrorist shot once again: Here's a list of India's 'most-wanted' targets hit by 'unkown gunmen'",
-            "summary": "In recent years, a noticeable pattern has emerged in Pakistan and Pakistan-occupied Kashmir: several high-profile terrorists, designated as most-wanted by India, have been eliminated. These often mysterious attacks against key figures involved in various terror acts against India suggest a significant shift in regional dynamics and pose questions about the perpetrators and the implications for India's national security interests.",
+            "summary": "A noticeable pattern has emerged in Pakistan and PoK where several high-profile terrorists, designated most-wanted by India, are being eliminated. These incidents, often mysterious, signify a crucial shift in regional security dynamics. This development directly impacts India's counter-terrorism strategy, highlighting ongoing efforts and potential changes in the operational landscape against groups hostile to Indian interests.",
             "url": "https://economictimes.indiatimes.com/news/new-updates/another-high-ranking-pakistan-terrorist-shot-again-heres-a-list-of-indias-most-wanted-targets-hit-by-by-unkown-gunmen/articleshow/130324312.cms",
             "category": "Defence",
             "date": "2026-04-17T06:40:24Z"
-        },
-        {
-            "title": "Race to the Moon: Power, politics and the new space order",
-            "summary": "An intensifying space rivalry is unfolding between the United States and China, separate from traditional economic conflicts. While NASA's Artemis program progresses towards lunar exploration and beyond, China is rapidly advancing its own ambitious space capabilities. This competition highlights the strategic importance of technological leadership and geopolitical influence in the new space race for future dominance.",
-            "url": "https://economictimes.indiatimes.com/news/science/race-to-the-moon-us-vs-china-space-race-2026-nasa-artemis-china-moon-mission-geopolitics-lunar-exploration-helium-3-space-rivalry-explained/articleshow/130323951.cms",
-            "category": "Sci & Tech",
-            "date": "2026-04-17T06:39:01Z"
-        },
-        {
-            "title": "Army steps up patrols in Manipur hills to block hostile infrastructure",
-            "summary": "Indian Army-led Security Forces conducted coordinated Joint Area Domination Patrols in Jalenbung, astride NH-202. These patrols are a continuation of ongoing operations, reinforcing the military's commitment to maintaining security and stability in the region. Such actions are crucial for ensuring national security and demonstrate proactive ground control by the forces.",
-            "url": "https://economictimes.indiatimes.com/news/india/army-steps-up-patrols-in-manipur-hills-to-block-hostile-infrastructure/articleshow/130324757.cms",
-            "category": "Defence",
-            "date": "2026-04-17T06:20:10Z"
-        },
-        {
-            "title": "iil-dvelop-client 0.1.0",
-            "summary": "The article reports a technical error preventing a website component from loading, attributing it to potential browser extensions, network issues, or browser settings. It advises users to troubleshoot by verifying their internet connection, disabling any ad blockers, or attempting a different browser to restore functionality. This emphasizes basic digital troubleshooting skills for aspirants.",
-            "url": "https://pypi.org/project/iil-dvelop-client/0.1.0/",
-            "category": "Sci & Tech",
-            "date": "2026-04-17T06:11:24Z"
-        },
-        {
-            "title": "iil-dvelop-client added to PyPI",
-            "summary": "The provided text is an error message, not a news article. It indicates a website loading failure, possibly due to browser extensions, network issues, or browser settings. Users are advised to check their internet connection, disable any ad blockers, or try using a different browser to resolve the issue and successfully load the required site part.",
-            "url": "https://pypi.org/project/iil-dvelop-client/",
-            "category": "Sci & Tech",
-            "date": "2026-04-17T06:11:24Z"
         }
     ]
 }
