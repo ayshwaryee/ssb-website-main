@@ -1,12 +1,54 @@
 {
-    "last_updated": "2026-04-21T02:07:08.191706+00:00",
+    "last_updated": "2026-04-21T07:28:09.979296+00:00",
     "articles": [
         {
-            "title": "Military Digest | A look at Indian Army\u2019s role in Persia in the 2 World Wars",
-            "summary": "The article discusses the extensive history of Persian invasions of India, spanning from Darius's 6th-century BCE forays to Nader Shah's 18th-century battles. Despite detailed coverage in school curricula, it highlights a perceived lack of deeper public knowledge or understanding of these profound historical interactions, which significantly shaped the Indian subcontinent.",
-            "url": "https://indianexpress.com/article/cities/chandigarh/military-digest-a-look-at-indian-armys-role-in-persia-in-the-2-world-wars-10644867/",
+            "title": "Ukrainian drone attack on Russia's Tuapse port kills one",
+            "summary": "Russian officials reported a Ukrainian drone attack on the Black Sea port of Tuapse, resulting in a fire and at least one fatality. The Monday incident followed another blaze being extinguished earlier, underscoring the ongoing drone warfare between Ukraine and Russia. Such attacks highlight the persistent targeting of critical infrastructure and the evolving nature of modern conflict.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/ukrainian-drone-attack-on-russias-tuapse-port-kills-one/articleshow/130385631.cms",
+            "category": "Defence",
+            "date": "2026-04-20T07:26:04Z"
+        },
+        {
+            "title": "Why the Same Surgery, Same Doctor, Same Insurance Can Costs 3x More \u2013 Dr. Allison (Alli) Oakes, Trilliant Health",
+            "summary": "The article begins by emphasizing the fundamental 'garbage in, garbage out' principle, underscoring the critical importance of data quality for effective models. It introduces Alli Oakes, VP and Chief Research Officer at Trilliant Health, suggesting a focus on advanced data analytics and research, likely within a technological or healthcare-related context. The discussion presumably explores insights into data management and its impact.",
+            "url": "https://likeagirlmedia.com/podcast/the-glow-up-fabulous-conversations-with-innovative-minds/episode/why-the-same-surgery-same-doctor-same-insurance-can-costs-3x-more-dr-allison-alli-oakes-trilliant-health",
+            "category": "Sci & Tech",
+            "date": "2026-04-20T07:21:14Z"
+        },
+        {
+            "title": "Rs 1.6 crore for 1BHK! Viral property video tour shows Mumbai\u2019s harsh housing reality",
+            "summary": "A video showcasing a 1BHK apartment in Mumbai priced at \u20b91.6 crore has gone viral, sparking widespread online reactions. The clip highlights the exorbitant property costs in the city, prompting discussions on urban affordability and living standards. This incident reflects broader national socio-economic challenges concerning housing and property markets in major Indian metros.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/rs-1-6-crore-for-1bhk-viral-property-video-tour-shows-mumbais-harsh-housing-reality/articleshow/130385176.cms",
+            "category": "National",
+            "date": "2026-04-20T07:19:09Z"
+        },
+        {
+            "title": "South Korea's Lee in India for talks on shipping, AI",
+            "summary": "Prime Minister Narendra Modi hosted South Korean President Lee Jae Myung for a ceremonial reception at Rashtrapati Bhavan in New Delhi. This high-level meeting underscores ongoing diplomatic engagement between India and South Korea. Such exchanges are crucial for strengthening bilateral ties, discussing regional cooperation, and fostering economic partnerships, reflecting India's active role in international relations.",
+            "url": "https://www.hurriyetdailynews.com/south-koreas-lee-in-india-for-talks-on-shipping-ai-221239",
             "category": "International",
-            "date": "2026-04-19T09:37:51Z"
+            "date": "2026-04-20T06:31:37Z"
+        },
+        {
+            "title": "10 Best Ultralight Backpacking Tents under $300 (2026) | Reviewed and Rated",
+            "summary": "The article highlights the availability of budget-friendly ultralight backpacking tents under $300. These accessible options utilize conventional yet durable fabrics like siliconized polyester, siliconized nylon, or ripstop nylon. This ensures outdoor enthusiasts can acquire lightweight camping solutions without a premium price tag, providing essential gear for efficient and affordable expeditions.",
+            "url": "https://sectionhiker.com/26-best-ultralight-tents-under-300/",
+            "category": "Sci & Tech",
+            "date": "2026-04-20T06:30:25Z"
+        },
+        {
+            "title": "The Hoddle of Coffee: Tottenham Hotspur News and Links for Monday, April 20",
+            "summary": "The article highlights the significance of the day as the Boston Marathon, dubbed 'the greatest of all road races,' is set to occur. It also includes a personal announcement about 'Fitzie' returning for 'hoddling duties.' For an SSB aspirant, this underscores awareness of major global sporting events and their international prominence.",
+            "url": "https://cartilagefreecaptain.sbnation.com/hoddle-of-coffee/70055/the-hoddle-of-coffee-tottenham-hotspur-news-and-links-for-monday-april-20",
+            "category": "International",
+            "date": "2026-04-20T06:30:00Z"
+        },
+        {
+            "title": "India, Korea can give new direction to multilateralism amid mounting challenges: South Korean Prez Lee",
+            "summary": "South Korean President Lee Jae Myung outlined his vision for a 'special strategic partnership' with India, emphasizing enhanced cooperation in trade and technology. In an exclusive interview, he highlighted the importance of strengthening bilateral ties. This initiative aims for closer collaboration on economic and technological fronts, benefiting both nations' strategic interests and development, crucial for an SSB aspirant to understand India's evolving international relations.",
+            "url": "https://economictimes.indiatimes.com/news/india/india-korea-can-give-new-direction-to-multilateralism-amid-mounting-challenges-south-korean-prez-lee/articleshow/130383999.cms",
+            "category": "International",
+            "date": "2026-04-20T06:13:18Z"
         }
     ]
 }
