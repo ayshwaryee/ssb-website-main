@@ -1,61 +1,12 @@
 {
-    "last_updated": "2026-04-20T18:58:15.304550+00:00",
+    "last_updated": "2026-04-21T02:07:08.191706+00:00",
     "articles": [
         {
-            "title": "scietex.hal.adc 0.0.1",
-            "summary": "The provided text indicates a website loading error where a required site component failed to load. Possible causes include browser extensions, network issues, or incorrect browser settings. Users are advised to check their internet connection, disable any ad blockers, or try a different browser to resolve the technical problem and access the site successfully.",
-            "url": "https://pypi.org/project/scietex-hal-adc/0.0.1/",
-            "category": "Sci & Tech",
-            "date": "2026-04-19T18:50:36Z"
-        },
-        {
-            "title": "scietex.hal.adc added to PyPI",
-            "summary": "A critical website component failed to load, potentially due to browser extensions, network issues, or specific browser settings. Users are advised to check their internet connection, disable any ad blockers, or attempt accessing the site using a different browser. This technical issue prevents full functionality and highlights common troubleshooting steps for web-related problems.",
-            "url": "https://pypi.org/project/scietex.hal.adc/",
-            "category": "Sci & Tech",
-            "date": "2026-04-19T18:50:31Z"
-        },
-        {
-            "title": "RGU & Navy sign MoU, launches scholarships for defence families",
-            "summary": "Rajeev Gandhi University (RGU) and the Indian Navy have signed a Memorandum of Understanding (MoU) to enhance cooperation and support. A key outcome is the launch of scholarships specifically for defence families, providing vital educational and financial assistance. This initiative underscores the commitment to the welfare of military personnel and their dependents, reinforcing the importance of community support for those dedicated to national service.",
-            "url": "https://timesofindia.indiatimes.com/city/guwahati/rgu-navy-sign-mou-launches-scholarships-for-defence-families/articleshow/130376814.cms",
-            "category": "Defence",
-            "date": "2026-04-19T18:30:31Z"
-        },
-        {
-            "title": "Keir Starmer warns UK must not take eyes off Putin from top-secret Vanguard sub visit",
-            "summary": "UK Labour leader Keir Starmer, during a visit to a top-secret Vanguard submarine, cautioned the UK against diverting attention from the persistent threat posed by Russian President Vladimir Putin. He stressed the critical importance of maintaining vigilance and a robust national defence posture, even amidst evolving global challenges. Starmer's warning underscores the ongoing geopolitical tensions and the UK's commitment to strategic security.",
-            "url": "https://freerepublic.com/focus/f-news/4375598/posts",
-            "category": "Defence",
-            "date": "2026-04-19T17:38:48Z"
-        },
-        {
-            "title": "Quebec municipalities deal with flooding, some residents evacuated from homes",
-            "summary": "Quebec municipalities are grappling with extensive floods, forcing many residents from their homes. Regions like the Laurentians and Lanaudi\u00e8re reported over 60 homes flooded by Sunday morning, with the situation expected to worsen. This natural disaster underscores the critical importance of effective disaster preparedness and response mechanisms, impacting local communities and infrastructure significantly.",
-            "url": "https://www.cbc.ca/news/canada/montreal/municipalities-quebec-floods-9.7169653",
+            "title": "Military Digest | A look at Indian Army\u2019s role in Persia in the 2 World Wars",
+            "summary": "The article discusses the extensive history of Persian invasions of India, spanning from Darius's 6th-century BCE forays to Nader Shah's 18th-century battles. Despite detailed coverage in school curricula, it highlights a perceived lack of deeper public knowledge or understanding of these profound historical interactions, which significantly shaped the Indian subcontinent.",
+            "url": "https://indianexpress.com/article/cities/chandigarh/military-digest-a-look-at-indian-armys-role-in-persia-in-the-2-world-wars-10644867/",
             "category": "International",
-            "date": "2026-04-19T17:02:40Z"
-        },
-        {
-            "title": "CII calls for comprehensive reform of industrial land management",
-            "summary": "The Confederation of Indian Industry (CII) has presented a comprehensive roadmap to resolve structural and procedural bottlenecks within India's industrial land ecosystem. This initiative aims to ensure efficient and transparent access to industrial land, which is deemed crucial for fostering industrial growth, attracting investments, and significantly improving the overall ease of doing business across the nation, benefiting industries nationwide.",
-            "url": "https://www.thehindubusinessline.com/economy/policy/cii-calls-for-comprehensive-reform-of-industrial-land-management/article70881147.ece",
-            "category": "National",
-            "date": "2026-04-19T15:29:23Z"
-        },
-        {
-            "title": "This Date in Washington Senators History",
-            "summary": "On April 19th, historical baseball events include Al Schacht, the 'Clown Prince of Baseball,' pitching the Senators to a decisive 7-0 victory over the Philadelphia Athletics in 1920. Decades later, on the same date in 1961, the expansion Senators are mentioned, indicating another significant moment in the sport's history. This snippet captures specific past milestones in American baseball.",
-            "url": "https://dcbaseballhistory.com/2026/04/this-date-in-washington-senators-history-105/",
-            "category": "National",
-            "date": "2026-04-19T12:36:00Z"
-        },
-        {
-            "title": "G20 satellite expected to be launched in 2027: ISRO chief Narayanan",
-            "summary": "ISRO Chairman V Narayanan announced the G20 satellite, slated for a 2027 launch. This collaborative initiative, focused on climate, air pollution, and weather monitoring, highlights India's scientific leadership. The satellite will provide crucial data, aiding global environmental understanding and disaster preparedness, showcasing India's commitment to international scientific cooperation and addressing critical environmental challenges through space technology.",
-            "url": "https://economictimes.indiatimes.com/news/science/g20-satellite-expected-to-be-launched-in-2027-isro-chief-narayanan/articleshow/130350344.cms",
-            "category": "Sci & Tech",
-            "date": "2026-04-18T09:08:15Z"
+            "date": "2026-04-19T09:37:51Z"
         }
     ]
 }
