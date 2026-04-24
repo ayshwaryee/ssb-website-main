@@ -1,33 +1,40 @@
 {
-    "last_updated": "2026-04-24T13:13:17.282103+00:00",
+    "last_updated": "2026-04-24T18:42:16.490330+00:00",
     "articles": [
         {
-            "title": "3 Professional AI Filmmaking Workflows to Fix Multi-View Consistency in Filmmaking",
-            "summary": "AI-driven filmmaking is revolutionizing visual storytelling, offering creators significantly streamlined workflows and expanding creative possibilities. Experts are analyzing these advancements, emphasizing how artificial intelligence is reshaping the entire production process. This technological integration makes sophisticated cinematic techniques more accessible, fosters innovation in the industry, and allows for more efficient content creation, prompting a paradigm shift in how films and visual media are conceived and produced.",
-            "url": "https://www.geeky-gadgets.com/seedance-2-workflows-ai-filmmaking/",
+            "title": "pythinker-ai added to PyPI",
+            "summary": "Pythinker is an open-source, ultra-lightweight framework for personal AI agents, prioritizing a small, readable core. Despite its minimal design, it supports essential features like chat channels, long-term memory, and practical applications. This framework enables developers to create efficient, customizable AI assistants with reduced overhead, suitable for various intelligent automation and personal computing tasks, leveraging its compact and flexible architecture.",
+            "url": "https://pypi.org/project/pythinker-ai/",
             "category": "Sci & Tech",
-            "date": "2026-04-23T12:11:00Z"
+            "date": "2026-04-23T18:41:23Z"
         },
         {
-            "title": "Space will decide future wars, India needs whole-of-nation push to catch up: DRDO Chief Samir Kamat",
-            "summary": "DRDO emphasizes space's transformation into a dominant domain for national security, determining future conflict outcomes. For SSB aspirants, this highlights the evolving nature of warfare where strategic advantage hinges on space assets for surveillance, communication, and navigation. India's defence preparedness must prioritize developing robust space capabilities to secure national interests and ensure military superiority.",
-            "url": "https://economictimes.indiatimes.com/news/defence/space-will-decide-future-wars-india-needs-whole-of-nation-push-to-catch-up-drdo-chief-samir-kamat/articleshow/130466400.cms",
-            "category": "Defence",
-            "date": "2026-04-23T11:26:21Z"
-        },
-        {
-            "title": "\u201cFinding Satoshi\u201d Names Bitcoin\u2019s Creators: Hal Finney and Len Sassaman",
-            "summary": "A new documentary, \u201cFinding Satoshi,\u201d released on April 22, 2026, claims Satoshi Nakamoto was a pseudonym for two now-deceased cryptographers. Filmmakers present a fresh perspective on the enigmatic identity behind the first cr..., offering details about the real individuals potentially behind the digital innovation's origins.",
-            "url": "https://bitcoinfoundation.org/news/bitcoin/finney-sassaman-satoshi/",
-            "category": "Sci & Tech",
-            "date": "2026-04-23T10:33:44Z"
-        },
-        {
-            "title": "What channel is the NFL Draft on tonight? TV, streaming, time",
-            "summary": "The 2026 NFL Draft is rapidly approaching, with its crucial first round scheduled for Thursday, April 23, in Pittsburgh. This annual event is vital for professional American football teams to select new talent. While the Green Bay Packers will not have a first-round pick, organizers anticipate considerable excitement and drama. The Draft serves as a significant platform for young athletes transitioning into professional sports careers.",
-            "url": "https://www.jsonline.com/story/sports/nfl/packers/2026/04/23/where-to-watch-nfl-draft-tonight-tv-schedule-channel-stream-time/89739583007/",
+            "title": "Yankees consider first alternate uniform in over a century",
+            "summary": "The New York Yankees, known for their deep tradition, are reportedly considering a historic uniform change. For the first time in over a century, the iconic baseball team may introduce an alternate uniform. This potential modern twist signifies a readiness to adapt contemporary trends while striving to preserve its storied identity, marking a notable evolution for the esteemed American sports institution.",
+            "url": "https://www.marca.com/en/mlb/new-york-yankees/2026/04/23/69ea678046163f56288b4598.html",
             "category": "National",
-            "date": "2026-04-23T10:07:31Z"
+            "date": "2026-04-23T18:40:17Z"
+        },
+        {
+            "title": "Britain\u2019s Nuclear Subservience",
+            "summary": "During Prime Minister\u2019s Questions, Liberal Democrat leader Ed Davey questioned Keir Starmer about the critical Trident nuclear deterrent replacement. Davey stressed the urgent need for a decision on this significant defence expenditure and strategic asset. The discussion highlights the ongoing UK political debate concerning its future nuclear capabilities and long-term defence policy commitments.",
+            "url": "https://www.lrb.co.uk/blog/2026/april/britain-s-nuclear-subservience",
+            "category": "Defence",
+            "date": "2026-04-23T17:24:12Z"
+        },
+        {
+            "title": "The ultimate list of Canadian video game events",
+            "summary": "American dominance in major video game industry events, such as the Game Developers Conference (GDC), Summer Game Fest, and The Game Awards, was considered unshakable just a few years ago. This signifies a period where US-based events played a pivotal role in shaping the global narrative and direction of the gaming sector.",
+            "url": "https://mobilesyrup.com/2026/04/23/the-ultimate-list-of-canadian-video-game-events/",
+            "category": "Sci & Tech",
+            "date": "2026-04-23T16:51:55Z"
+        },
+        {
+            "title": "DC Fans Get Mad at 2026 Green Lantern Show Again as New Teaser Supports a Divisive Theory",
+            "summary": "DC has officially revealed the release date for its upcoming 'Lanterns' TV series, starring Kyle Chandler as Hal Jordan and Aaron Pierre as John Stewart. This highly anticipated show, created by Damon Lindelof as part of the new DCU, is already generating significant excitement. The announcement confirms key casting and marks a major step in expanding the DC cinematic universe with these iconic superhero characters.",
+            "url": "http://comicbook.com/tv-shows/news/dc-fans-get-mad-at-2026-green-lantern-show-again-as-new-teaser-supports-a-divisive-theory/",
+            "category": "Sci & Tech",
+            "date": "2026-04-23T15:48:18Z"
         }
     ]
 }
