@@ -1,68 +1,61 @@
 {
-    "last_updated": "2026-04-25T12:54:41.697565+00:00",
+    "last_updated": "2026-04-25T18:42:48.722050+00:00",
     "articles": [
         {
-            "title": "Height curbs locking up space in core Bengaluru, Shivakumar tells Rajnath Singh",
-            "summary": "Karnataka Deputy CM DK Shivakumar met Defence Minister Rajnath Singh, urging a review of height restrictions imposed by Bengaluru's defence airports. These limitations significantly impact urban construction and development in the city. The interaction sought a balanced solution, enabling essential city growth while ensuring defence operational security, highlighting the need for inter-ministerial coordination on critical infrastructure policies.",
-            "url": "https://economictimes.indiatimes.com/news/india/height-curbs-locking-up-space-in-core-bengaluru-shivakumar-tells-rajnath-singh/articleshow/130494698.cms",
-            "category": "Defence",
-            "date": "2026-04-24T12:49:53Z"
-        },
-        {
-            "title": "Global Additive Manufacturing in Defense Market Projected to Hit USD 24.81 Billion by 2035 \u2013 SNS Insider",
-            "summary": "A recent report by SNS Insider highlights the significant growth of Additive Manufacturing (3D printing) in the global defense market. Valued at USD 5.01 Billion in 2025, this sector is projected for substantial expansion. The technology offers defense industries innovative solutions for rapid prototyping, specialized part production, and supply chain resilience, indicating its increasing strategic importance for military applications worldwide.",
-            "url": "https://www.globenewswire.com/news-release/2026/04/24/3280758/0/en/Global-Additive-Manufacturing-in-Defense-Market-Projected-to-Hit-USD-24-81-Billion-by-2035-SNS-Insider.html",
-            "category": "Defence",
-            "date": "2026-04-24T12:11:00Z"
-        },
-        {
-            "title": "Scientists Say They\u2019ve Figured Out What That Golden Orb Found at the Bottom of the Pacific Ocean Actually Was",
-            "summary": "Scientists have finally identified a mysterious \"golden orb\" discovered at the bottom of the ocean, after two and a half years of intensive study. This groundbreaking identification marks a significant innovation from the bleeding edge of science and technology. The discovery underscores the ongoing efforts in deep-sea exploration and the complex biological mysteries still awaiting solutions in marine environments, showcasing the perseverance of scientific inquiry.",
-            "url": "http://futurism.com/science-energy/scientists-solve-golden-orb",
-            "category": "Sci & Tech",
-            "date": "2026-04-24T12:01:00Z"
-        },
-        {
-            "title": "CBSE Class 10th 2026 2nd Board Exams: Over 6.68 lakh register; science tops choices",
-            "summary": "CBSE has recorded 6,68,854 regular candidate registrations for the Class 10 second board examinations. This initiative provides students with another opportunity to improve scores or appear for subjects, reflecting the board's commitment to flexible academic pathways. Announced via an April 24 press release, it highlights ongoing reforms in the national education system, crucial for understanding societal development.",
-            "url": "https://indianexpress.com/article/education/cbse-class-10th-2026-2nd-board-exams-over-6-68-lakh-register-tops-choices-compartment-improvement-10654031/",
+            "title": "ISRO images, drone captures expose 1 lakh trees felled in Chhattisgarh tiger reserve's core area",
+            "summary": "ISRO satellite imagery combined with drone surveillance has exposed the illegal felling of approximately 1 lakh trees within the core area of a tiger reserve in Chhattisgarh. This significant environmental damage, impacting a critical wildlife habitat, was brought to light through advanced monitoring technologies, raising serious concerns about deforestation and wildlife conservation efforts within the state.",
+            "url": "https://timesofindia.indiatimes.com/city/raipur/isro-images-drone-captures-expose-1-lakh-trees-felled-in-chhattisgarh-tiger-reserves-core-area/articleshow/130501690.cms",
             "category": "National",
-            "date": "2026-04-24T11:47:14Z"
+            "date": "2026-04-24T18:14:09Z"
         },
         {
-            "title": "The Vampire Lestat, Spider-Noir, SNL UK & More: BCTV Daily Dispatch",
-            "summary": "The BCTV Daily Dispatch provides updates on current and upcoming television and streaming content. This edition highlights popular series such as 'SNL UK', 'The Vampire Lestat', 'It: Welcome to Derry', 'Spider-Noir', 'Matlock', 'Doctor Who', and 'The Boys'. It covers developments in the entertainment sector, showcasing various shows available across modern streaming and broadcast platforms, demonstrating the evolving landscape of digital media consumption.",
-            "url": "https://bleedingcool.com/tv/the-vampire-lestat-spider-noir-snl-uk-more-bctv-daily-dispatch/",
+            "title": "Wisconsin names to know for the rest of the 2026 NFL Draft",
+            "summary": "The 2026 NFL Draft's first round concluded, notably without any Wisconsin natives or University of Wisconsin players selected. However, anticipation remains high for several familiar names from Wisconsin to be drafted in the upcoming six rounds. This significant national event annually recruits top collegiate talent into professional American football, shaping future league rosters.",
+            "url": "https://www.jsonline.com/story/sports/nfl/draft/2026/04/24/nfl-draft-badgers-wisconsin-players/89774830007/",
+            "category": "National",
+            "date": "2026-04-24T17:55:28Z"
+        },
+        {
+            "title": "DRDO school in Doon handed over to pvt trust; teachers face salary cuts, parents write to PM in protest",
+            "summary": "This text is not a news article. It provides boilerplate information regarding social media presence, copyright held by Bennett, Coleman & Co. Ltd. until 2026, and mentions Times Syndication Service for reprint rights. It offers no specific current affairs content or events for an SSB aspirant to summarize concerning national, international, defence, or science and technology.",
+            "url": "https://timesofindia.indiatimes.com/city/dehradun/drdo-school-in-doon-handed-over-to-pvt-trust-teachers-face-salary-cuts-parents-write-to-pm-in-protest/articleshow/130501226.cms",
+            "category": "National",
+            "date": "2026-04-24T17:48:39Z"
+        },
+        {
+            "title": "State wants height restrictions around HAL, Yelahanka airports relaxed",
+            "summary": "The provided text outlines standard website information, including a call to follow on social media, copyright details for Bennett, Coleman & Co. Ltd. dated 2026, and a mention of Times Syndication Service for reprint rights. This content represents typical legal and operational disclaimers found on news media platforms, indicating ownership and content usage policies rather than current news.",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/state-wants-height-restrictions-around-hal-yelahanka-airports-relaxed/articleshow/130500535.cms",
+            "category": "National",
+            "date": "2026-04-24T17:31:00Z"
+        },
+        {
+            "title": "neurochimera added to PyPI",
+            "summary": "Veselov and Angulo de Lafuente propose a novel framework for investigating artificial consciousness. Utilizing GPU-native neuromorphic computing, this cutting-edge method mimics brain functions on graphics processors to advance our understanding and potential development of conscious AI. Originating from institutions like the Moscow Institute of Electronic Technology, this research holds significant implications for future technological capabilities and AI progress.",
+            "url": "https://pypi.org/project/neurochimera/",
             "category": "Sci & Tech",
-            "date": "2026-04-24T11:37:09Z"
+            "date": "2026-04-24T17:06:33Z"
         },
         {
-            "title": "Dubai vs Doha vs Riyadh vs Kuwait City gold rates today (April 24, 2026): Check latest 18k, 22k and 24k gold prices",
-            "summary": "Gold prices in Gulf cities like Dubai and Riyadh are soaring, primarily due to escalating US-Iran tensions and potential disruptions in the critical Strait of Hormuz. These geopolitical factors enhance gold's appeal as a safe-haven asset, impacting regional economies and global financial stability. Aspirants should understand how international relations influence commodity markets and economic trends.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/dubai-vs-doha-vs-riyadh-vs-kuwait-city-gold-rates-today-april-24-2026-check-latest-18k-22k-and-24k-gold-prices/articleshow/130491781.cms",
+            "title": "Exclusive - Udne Ki Aasha's Puru Chhiber on navigating drama and emotion: says 'Tejas is fun, flawed and real'",
+            "summary": "Actor Puru Chhiber, known for his role in the Hindi TV show 'Udne Ki Aasha,' shared his insights on managing the emotional and dramatic aspects of his character. In an exclusive interview, Chhiber described his character, Tejas, as being 'fun, flawed, and real.' This piece offers a glimpse into the intricacies of character development and performance in national television productions.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-udne-ki-aashas-puru-chhiber-on-navigating-drama-and-emotion-says-tejas-is-fun-flawed-and-real/articleshow/130500021.cms",
+            "category": "National",
+            "date": "2026-04-24T16:53:59Z"
+        },
+        {
+            "title": "Show HN: Porting Open3D to Python without writing a LoC",
+            "summary": "This article explores an efficient method for integrating C++ computed point clouds directly into Python applications. It details a simplified binding approach, exemplified by `bind_class<PointCloud>`, which eliminates the need for typical boilerplate like `.def()` functions or trampoline classes. This streamlined process enables seamless leverage of C++'s computational power within Python's versatile environment for complex data processing and visualization tasks.",
+            "url": "https://chico.dev/Mirror-Bridge-Open3D-71-Lines/",
+            "category": "Sci & Tech",
+            "date": "2026-04-24T16:51:51Z"
+        },
+        {
+            "title": "How will Atl\u00e9tico Madrid line up against Athletic Bilbao in LaLiga?",
+            "summary": "Atl\u00e9tico Madrid is set to face longtime rivals Athletic Club at home in the Metropolitano on Saturday night in LaLiga. Atl\u00e9tico, currently with 57 points, seeks to bounce back after a midweek loss to Elche. This key league fixture will test their resolve and position in the highly competitive Spanish football league, crucial for their domestic campaign.",
+            "url": "https://www.intothecalderon.com/previews/23731/atletico-madrid-athletic-club-bilbao-la-liga-match-preview-predicted-linuep",
             "category": "International",
-            "date": "2026-04-24T11:07:45Z"
-        },
-        {
-            "title": "The legacy of 'Eagle Claw': How failure helped build America's elite special forces",
-            "summary": "Forty-six years ago, in April 1980, the U.S. military faced a significant setback during Operation Eagle Claw. This Delta Force mission was a complex attempt to rescue American hostages held in Tehran, Iran. Conducted in the challenging Iranian desert, the multi-asset operation tragically ended in disaster, offering profound lessons for future special operations planning.",
-            "url": "https://www.foxnews.com/opinion/legacy-eagle-claw-failure-helped-build-americas-elite-special-forces",
-            "category": "Defence",
-            "date": "2026-04-24T11:00:42Z"
-        },
-        {
-            "title": "Voltaire, International Newsletter N\u00b0173",
-            "summary": "The director of publication and editor-in-chief possesses extensive journalistic experience, having led French magazines and received international journalism awards. His career includes regular contributions to approximately fifteen major dailies and magazines. This highlights a distinguished background in media, indicating significant expertise and reach within the publishing industry, both nationally and internationally.",
-            "url": "https://www.voltairenet.org/article224320.html",
-            "category": "International",
-            "date": "2026-04-24T10:14:09Z"
-        },
-        {
-            "title": "Manitoba municipalities call for RCMP contract changes as policing costs grow",
-            "summary": "Manitoba municipalities and the Royal Canadian Mounted Police (RCMP) are preparing for critical contract negotiations. Community leaders are pressing for solutions to address escalating policing costs while ensuring public safety standards are not compromised. The talks will also involve federal cost-sharing, highlighting the financial strain on smaller communities to maintain essential police services across Manitoba.",
-            "url": "https://www.cbc.ca/news/canada/manitoba/municipal-policing-cost-change-needed-9.7174976",
-            "category": "International",
-            "date": "2026-04-24T10:00:00Z"
+            "date": "2026-04-24T15:19:11Z"
         }
     ]
 }
