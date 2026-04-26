@@ -1,61 +1,26 @@
 {
-    "last_updated": "2026-04-25T18:42:48.722050+00:00",
+    "last_updated": "2026-04-26T02:13:28.034611+00:00",
     "articles": [
         {
-            "title": "ISRO images, drone captures expose 1 lakh trees felled in Chhattisgarh tiger reserve's core area",
-            "summary": "ISRO satellite imagery combined with drone surveillance has exposed the illegal felling of approximately 1 lakh trees within the core area of a tiger reserve in Chhattisgarh. This significant environmental damage, impacting a critical wildlife habitat, was brought to light through advanced monitoring technologies, raising serious concerns about deforestation and wildlife conservation efforts within the state.",
-            "url": "https://timesofindia.indiatimes.com/city/raipur/isro-images-drone-captures-expose-1-lakh-trees-felled-in-chhattisgarh-tiger-reserves-core-area/articleshow/130501690.cms",
-            "category": "National",
-            "date": "2026-04-24T18:14:09Z"
+            "title": "Thousands more US troops arrive in Middle East on third aircraft carrier",
+            "summary": "The USS George HW Bush, a third US aircraft carrier, has arrived in the Middle East, specifically near Iran. This deployment significantly enhances American military presence, bringing thousands more troops and advanced fighter jets to the region. This move indicates heightened US strategic engagement and potential geopolitical signaling in a critical area, relevant for understanding international security dynamics and force projection.",
+            "url": "https://www.abc.net.au/news/2026-04-25/uss-george-hw-bush-arrives-middle-east-military-assets-boost/106601060",
+            "category": "Defence",
+            "date": "2026-04-25T02:00:49Z"
         },
         {
-            "title": "Wisconsin names to know for the rest of the 2026 NFL Draft",
-            "summary": "The 2026 NFL Draft's first round concluded, notably without any Wisconsin natives or University of Wisconsin players selected. However, anticipation remains high for several familiar names from Wisconsin to be drafted in the upcoming six rounds. This significant national event annually recruits top collegiate talent into professional American football, shaping future league rosters.",
-            "url": "https://www.jsonline.com/story/sports/nfl/draft/2026/04/24/nfl-draft-badgers-wisconsin-players/89774830007/",
-            "category": "National",
-            "date": "2026-04-24T17:55:28Z"
-        },
-        {
-            "title": "DRDO school in Doon handed over to pvt trust; teachers face salary cuts, parents write to PM in protest",
-            "summary": "This text is not a news article. It provides boilerplate information regarding social media presence, copyright held by Bennett, Coleman & Co. Ltd. until 2026, and mentions Times Syndication Service for reprint rights. It offers no specific current affairs content or events for an SSB aspirant to summarize concerning national, international, defence, or science and technology.",
-            "url": "https://timesofindia.indiatimes.com/city/dehradun/drdo-school-in-doon-handed-over-to-pvt-trust-teachers-face-salary-cuts-parents-write-to-pm-in-protest/articleshow/130501226.cms",
-            "category": "National",
-            "date": "2026-04-24T17:48:39Z"
-        },
-        {
-            "title": "State wants height restrictions around HAL, Yelahanka airports relaxed",
-            "summary": "The provided text outlines standard website information, including a call to follow on social media, copyright details for Bennett, Coleman & Co. Ltd. dated 2026, and a mention of Times Syndication Service for reprint rights. This content represents typical legal and operational disclaimers found on news media platforms, indicating ownership and content usage policies rather than current news.",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/state-wants-height-restrictions-around-hal-yelahanka-airports-relaxed/articleshow/130500535.cms",
-            "category": "National",
-            "date": "2026-04-24T17:31:00Z"
-        },
-        {
-            "title": "neurochimera added to PyPI",
-            "summary": "Veselov and Angulo de Lafuente propose a novel framework for investigating artificial consciousness. Utilizing GPU-native neuromorphic computing, this cutting-edge method mimics brain functions on graphics processors to advance our understanding and potential development of conscious AI. Originating from institutions like the Moscow Institute of Electronic Technology, this research holds significant implications for future technological capabilities and AI progress.",
-            "url": "https://pypi.org/project/neurochimera/",
-            "category": "Sci & Tech",
-            "date": "2026-04-24T17:06:33Z"
-        },
-        {
-            "title": "Exclusive - Udne Ki Aasha's Puru Chhiber on navigating drama and emotion: says 'Tejas is fun, flawed and real'",
-            "summary": "Actor Puru Chhiber, known for his role in the Hindi TV show 'Udne Ki Aasha,' shared his insights on managing the emotional and dramatic aspects of his character. In an exclusive interview, Chhiber described his character, Tejas, as being 'fun, flawed, and real.' This piece offers a glimpse into the intricacies of character development and performance in national television productions.",
-            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-udne-ki-aashas-puru-chhiber-on-navigating-drama-and-emotion-says-tejas-is-fun-flawed-and-real/articleshow/130500021.cms",
-            "category": "National",
-            "date": "2026-04-24T16:53:59Z"
-        },
-        {
-            "title": "Show HN: Porting Open3D to Python without writing a LoC",
-            "summary": "This article explores an efficient method for integrating C++ computed point clouds directly into Python applications. It details a simplified binding approach, exemplified by `bind_class<PointCloud>`, which eliminates the need for typical boilerplate like `.def()` functions or trampoline classes. This streamlined process enables seamless leverage of C++'s computational power within Python's versatile environment for complex data processing and visualization tasks.",
-            "url": "https://chico.dev/Mirror-Bridge-Open3D-71-Lines/",
-            "category": "Sci & Tech",
-            "date": "2026-04-24T16:51:51Z"
-        },
-        {
-            "title": "How will Atl\u00e9tico Madrid line up against Athletic Bilbao in LaLiga?",
-            "summary": "Atl\u00e9tico Madrid is set to face longtime rivals Athletic Club at home in the Metropolitano on Saturday night in LaLiga. Atl\u00e9tico, currently with 57 points, seeks to bounce back after a midweek loss to Elche. This key league fixture will test their resolve and position in the highly competitive Spanish football league, crucial for their domestic campaign.",
-            "url": "https://www.intothecalderon.com/previews/23731/atletico-madrid-athletic-club-bilbao-la-liga-match-preview-predicted-linuep",
+            "title": "DC Studios Has Suddenly Pulled Lanterns Trailer From Almost Everywhere",
+            "summary": "DC Studios has numerous highly anticipated projects underway, including the recently revealed Clayface character and the Green Lantern-inspired series, Lanterns. These upcoming releases signal continued expansion within the DC cinematic universe, promising new content for its global fanbase and reinforcing the studio's ambitious entertainment pipeline for future years.",
+            "url": "http://comicbook.com/tv-shows/news/dc-studios-has-suddenly-pulled-lanterns-trailer-from-almost-everywhere/",
             "category": "International",
-            "date": "2026-04-24T15:19:11Z"
+            "date": "2026-04-25T00:31:19Z"
+        },
+        {
+            "title": "Ukraine, Russia swap 193 prisoners of war",
+            "summary": "Ukraine and Russia recently conducted a significant prisoner of war exchange, with each nation returning 193 captured personnel. This mutual agreement, a rare instance of cooperation amidst ongoing conflict, was successfully facilitated through the mediation efforts of the United States and the United Arab Emirates. Such swaps offer brief humanitarian relief and highlight international diplomatic engagement in conflict resolution.",
+            "url": "https://japantoday.com/category/world/ukraine-russia-swap-193-prisoners-of-war-each-in-us-uae-facilitated-exchange",
+            "category": "International",
+            "date": "2026-04-24T20:57:51Z"
         }
     ]
 }
