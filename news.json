@@ -1,68 +1,40 @@
 {
-    "last_updated": "2026-04-26T12:56:48.186950+00:00",
+    "last_updated": "2026-04-26T18:44:23.390427+00:00",
     "articles": [
         {
+            "title": "air-rs added to PyPI",
+            "summary": "S.L.I.P. (Slipstream Layer Inference Protocol) addresses the challenge of running large language models that exceed VRAM capacity. This protocol streams model weights directly from NVMe storage using memory-mapping (mmap), enabling execution of massive models like 70B-parameter ones on systems with less VRAM. This innovation enhances accessibility and efficiency for advanced AI development and deployment.",
+            "url": "https://pypi.org/project/air-rs/",
+            "category": "Sci & Tech",
+            "date": "2026-04-25T18:13:19Z"
+        },
+        {
+            "title": "mnemo-claude added to PyPI",
+            "summary": "Mnemo is a new Claude Code plugin that uses Obsidian to create a self-organizing knowledge base from coding sessions. It ensures Claude effectively 'never forgets' learned information, continuously enhancing its memory and efficiency. This innovation highlights AI's growing role in streamlining knowledge retention, a vital skill for effective decision-making in any complex field.",
+            "url": "https://pypi.org/project/mnemo-claude/",
+            "category": "Sci & Tech",
+            "date": "2026-04-25T18:12:08Z"
+        },
+        {
             "title": "Russian attacks kill 5 and wound more than 30 in Ukraine's Dnipro",
-            "summary": "Russian drone and missile strikes recently targeted the Ukrainian city of Dnipro, causing at least five fatalities and injuring 34, according to local authorities. These assaults highlight the severe human cost and persistent threat civilians face amidst the ongoing conflict. Such events are crucial for understanding the complex international security environment.",
+            "summary": "Russian drone and missile strikes targeted the Ukrainian city of Dnipro, killing at least five people and wounding 34, according to local authorities. This incident highlights the continuous civilian casualties and humanitarian impact of the ongoing conflict. For SSB aspirants, this underscores the volatile geopolitical situation and the importance of understanding international conflicts and their human costs.",
             "url": "https://www.cbc.ca/news/world/russia-attack-ukraine-dnipro-9.7177273",
             "category": "International",
             "date": "2026-04-25T12:43:31Z"
         },
         {
-            "title": "Germany to despatch minesweeper for possible Hormuz mission",
-            "summary": "Germany intends to deploy a minesweeper to the Mediterranean, potentially for a mission in the strategically vital Strait of Hormuz. This action, discussed in the context of a potential US-Iran conflict, underscores international efforts to maintain maritime security and freedom of navigation. For SSB aspirants, it highlights global readiness to project force and secure critical choke points.",
-            "url": "https://www.thelocal.de/20260425/germany-to-despatch-minesweeper-for-possible-hormuz-mission",
+            "title": "Flying Gloves worn by Andrew Mountbatten-Windsor during Falklands War go on sale for \u00a32,000",
+            "summary": "Flying gloves worn by Andrew Mountbatten-Windsor (Prince Andrew) during the 1982 Falklands War are now on sale for \u00a32,000. He gained significant popularity for piloting a helicopter during the conflict, demonstrating royal family involvement in military operations. This historical item connects to a pivotal modern naval-air engagement, offering insight for aspirants into defence history and contributions.",
+            "url": "https://www.dailymail.com/news/article-15763907/Flying-Gloves-worn-Andrew-Mountbatten-Windsor-Falklands-War-sale-2-000.html",
             "category": "Defence",
-            "date": "2026-04-25T12:42:03Z"
+            "date": "2026-04-24T23:24:44Z"
         },
         {
-            "title": "Russian attack on Ukrainian apartment block kills seven, injures dozens",
-            "summary": "Russia launched a major overnight attack on Dnipro, Ukraine, using 619 drones and 47 missiles. The assault tragically killed seven people and injured dozens, highlighting the ongoing conflict's devastating human cost and intense aerial warfare. Ukraine's air force reported the extensive use of these aerial weapons in the coordinated attack.",
-            "url": "https://www.abc.net.au/news/2026-04-25/russian-attack-ukrain-dnipro-apartment-block/106606822",
+            "title": "NFL Mock Draft: Day 2 picks",
+            "summary": "The Philadelphia Eagles are projected to make three selections in Friday night's draft. Key prospects mentioned include Denzel Boston (WR, Washington), Emmanuel McNeil Warren (S, Toledo), and Zion Youn (Buffalo). This update concerns American professional sports, specifically the National Football League (NFL) player draft. It details team strategies for acquiring new talent in their roster build-up.",
+            "url": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/174378/nfl-mock-draft-day-2-picks",
             "category": "International",
-            "date": "2026-04-25T12:17:08Z"
-        },
-        {
-            "title": "Germany to dispatch minesweeper for possible Hormuz mission",
-            "summary": "Germany plans to deploy a minesweeper to the Mediterranean, earmarking it for a potential mission in the critical Strait of Hormuz. This initiative, announced amid lingering US-Iran tensions, underscores Germany's commitment to maritime security and maintaining free navigation in strategically vital international waters. The deployment highlights the global efforts required to ensure stability and secure trade routes in contested regions.",
-            "url": "https://www.channelnewsasia.com/world/germany-hormuz-strait-minesweeper-mission-iran-us-war-6080766",
-            "category": "Defence",
-            "date": "2026-04-25T12:05:07Z"
-        },
-        {
-            "title": "Gunfire in Mali as army battles 'terrorist groups'",
-            "summary": "Mali's junta-led army is battling \"terrorist groups\" after widespread attacks were launched across the West African nation. Witnesses reported intense fighting, escalating the more than decade-long jihadist conflict plaguing the country. This highlights the persistent security challenges and regional instability driven by extremist groups, a critical international affairs issue.",
-            "url": "https://www.rte.ie/news/2026/0425/1570173-mali/",
-            "category": "International",
-            "date": "2026-04-25T11:49:12Z"
-        },
-        {
-            "title": "Russian strikes kill six across Ukraine",
-            "summary": "Russian forces launched widespread overnight strikes across Ukraine, including a particularly deadly attack on a building in Dnipro. These latest assaults resulted in at least six fatalities. The continuous targeting of Ukrainian cities highlights the ongoing escalation and humanitarian impact of the conflict, demanding international attention and strategic analysis for its regional implications.",
-            "url": "https://www.digitaljournal.com/world/russian-strikes-kill-six-across-ukraine/article",
-            "category": "International",
-            "date": "2026-04-25T11:47:20Z"
-        },
-        {
-            "title": "locloc 0.1.2",
-            "summary": "The provided text indicates a website component failed to load, potentially due to browser extensions, network issues, or browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or trying a different browser to resolve the technical problem effectively.",
-            "url": "https://pypi.org/project/locloc/0.1.2/",
-            "category": "Sci & Tech",
-            "date": "2026-04-25T11:32:06Z"
-        },
-        {
-            "title": "Kerala elections 2026: Who after Pinarayi Vijayan? All eyes will be on these five if the Left gets it right",
-            "summary": "Pinarayi Vijayan, Kerala's Chief Minister since May 2016, has achieved a unique milestone in the state's political history. The 80-year-old leader is the only Chief Minister in Kerala to successfully win re-election after completing a full five-year term. This unprecedented electoral success highlights his strong political influence and the mandate received from the electorate for continued governance.",
-            "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/kerala/kerala-elections-2026-who-after-pinarayi-vijayan-all-eyes-will-be-on-these-five-if-the-left-gets-it-right/articleshow/130513032.cms",
-            "category": "National",
-            "date": "2026-04-25T11:01:04Z"
-        },
-        {
-            "title": "US envoys head to Pakistan for Iran war talks",
-            "summary": "The EU stresses the vital importance of opening the Strait of Hormuz. Talks are stalled as Iran refuses participation due to a perceived US naval blockade. This situation underscores significant international tensions and strategic challenges surrounding a crucial global oil shipping lane, impacting maritime security and regional stability.",
-            "url": "https://www.channelnewsasia.com/world/us-pakistan-iran-envoys-war-talks-steve-witkoff-jared-kushner-6080716",
-            "category": "Defence",
-            "date": "2026-04-25T10:17:00Z"
+            "date": "2026-04-24T21:09:07Z"
         }
     ]
 }
