@@ -1,33 +1,61 @@
 {
-    "last_updated": "2026-04-27T13:28:58.417928+00:00",
+    "last_updated": "2026-04-27T19:11:40.147372+00:00",
     "articles": [
         {
-            "title": "Mali's defence minister dead as fighting continues",
-            "summary": "Mali's Defence Minister reportedly died following an attack on his home, amidst a second day of intense battles near the capital. The Malian army is actively engaged against jihadist fighters and separatist rebels, underscoring the severe internal security challenges. This incident highlights Mali's volatile situation and the critical need for governmental stability and effective counter-insurgency operations in the region.",
-            "url": "https://www.rte.ie/news/world/2026/0426/1570288-mali-attacks/",
+            "title": "The World\u2019s Data Lifelines Are Increasingly Exposed to Sabotage",
+            "summary": "Major financial institutions like Mercuria, Goldman, and JPMorgan are reportedly warning of the damaging impacts from a U.S. blockade. The article further addresses challenges concerning peak demand in the electric sector. This highlights significant global economic and energy market concerns, critical for understanding international geopolitical stability and resource management.",
+            "url": "https://oilprice.com/Energy/Energy-General/The-Worlds-Data-Lifelines-Are-Increasingly-Exposed-to-Sabotage.html",
             "category": "International",
-            "date": "2026-04-26T13:24:18Z"
+            "date": "2026-04-26T19:00:00Z"
         },
         {
-            "title": "News24 | Mali defence minister killed, fresh fighting between army and rebels",
-            "summary": "Mali's Defence Minister Sadio Camara reportedly died in a car bomb attack on his home, along with family members. This tragic incident occurred amidst escalating conflicts between the Malian army and jihadist fighters, as well as separatist groups. The attack highlights the severe security challenges and instability within the West African nation, a critical concern for regional and international stability.",
-            "url": "https://www.news24.com/world/africa/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels-20260426-0800",
+            "title": "10 Near-Perfect DC Shows No One Ever Talks About",
+            "summary": "DC Comics, celebrating over 90 years, has profoundly redefined heroism through its iconic characters like Superman and Wonder Woman. Their enduring stories have significantly shaped popular culture's understanding of what a hero embodies, impacting generations globally. This long-standing brand continues to influence narratives of courage, justice, and responsibility worldwide, reflecting its international cultural significance.",
+            "url": "https://screenrant.com/near-perfect-dc-tv-shows-not-talked-about/",
             "category": "International",
-            "date": "2026-04-26T13:20:59Z"
+            "date": "2026-04-26T18:30:18Z"
         },
         {
-            "title": "Russian Defence Minister Andrei Belousov arrives in Democratic People's Republic of Korea on a working visit",
-            "summary": "The head of the Russian military department visited Pyongyang, holding meetings with North Korea's top leadership and the command of the Korean People's Army. This significant visit suggests strengthening military ties and potential cooperation between Russia and the DPRK. For SSB aspirants, understanding such alliances is crucial for assessing global defence dynamics and their impact on international security.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260426-russia-mod01.htm",
+            "title": "Keir Starmer and Donald Trump remain miles apart over Iran after their first telephone call for a fortnight",
+            "summary": "Sir Keir Starmer and Donald Trump are reportedly at odds over Iran policy following their recent phone call. Despite talks, they remain \"miles apart,\" with the Prime Minister warning the US President about \"severe consequences\" regarding the issue. This divergence between key leaders highlights significant challenges in international relations and differing approaches to a critical geopolitical flashpoint.",
+            "url": "https://www.dailymail.com/news/article-15766989/Keir-Starmer-Donald-Trump-remain-miles-apart-Iran-telephone-call-fortnight.html",
+            "category": "International",
+            "date": "2026-04-26T17:13:29Z"
+        },
+        {
+            "title": "Sunday Rubber Match Game Thread vs. The Tejas Long Fedoras",
+            "summary": "A baseball team's pitching staff, led by a promising freshman pitcher and effective bullpen support, achieved a notable shutout victory against the formidable 'Tejas Long Fed-offense'. This impressive defensive performance occurred just one day after the team had experienced a significant 'run-rule' loss, marking a strong comeback.",
+            "url": "https://www.anchorofgold.com/baseball/31478/sunday-rubber-match-game-thread-vs-the-tejas-long-fedoras",
+            "category": "National",
+            "date": "2026-04-26T16:30:19Z"
+        },
+        {
+            "title": "Mali defence minister Sadio Camara killed, fresh fighting between army and rebels",
+            "summary": "Mali's defence minister has reportedly died following an attack on his residence in Bamako, amid intense two-day clashes near the capital. The Malian army is actively engaged in battles against both jihadist fighters and separatist rebels. This incident highlights the severe security challenges and persistent instability facing the West African nation, with significant implications for its internal defence and regional security dynamics.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/mali-defence-minister-sadio-camara-killed-fresh-fighting-between-army-and-rebels/articleshow/130534262.cms",
             "category": "Defence",
-            "date": "2026-04-26T12:00:00Z"
+            "date": "2026-04-26T15:01:17Z"
         },
         {
-            "title": "New fighting in Mali\u2019s Kidal between army and rebels",
-            "summary": "Fresh fighting has erupted in Kidal, Mali, between the Malian army and Tuareg rebels. This strategic Tuareg stronghold was previously retaken by Malian forces in November 2023. The renewed clashes underscore the persistent instability and complex security challenges facing Mali, involving the government battling non-state armed groups in a critical region, impacting regional peace.",
-            "url": "https://www.digitaljournal.com/world/new-fighting-in-malis-kidal-between-army-and-rebels/article",
-            "category": "International",
-            "date": "2026-04-26T09:33:22Z"
+            "title": "10 War Movies That Show A Different Perspective",
+            "summary": "War films predominantly depict conflicts from the winning side's perspective, often highlighting American or British efforts in major World Wars. This cinematic trend shapes public perception of historical events, frequently overlooking diverse viewpoints and experiences. An SSB aspirant should note how media influences historical understanding, urging critical analysis beyond dominant narratives for a comprehensive grasp of global conflicts.",
+            "url": "https://screenrant.com/war-movies-showing-different-perspective/",
+            "category": "Defence",
+            "date": "2026-04-26T14:40:19Z"
+        },
+        {
+            "title": "rootseed added to PyPI",
+            "summary": "This article discusses the inherent \"abstraction penalties\" in contemporary deep learning frameworks like PyTorch. These penalties represent performance drawbacks and operational overheads that impact the efficiency of AI development. Understanding these technical limitations is crucial for optimizing machine learning applications and addressing challenges in advanced computing systems.",
+            "url": "https://pypi.org/project/rootseed/",
+            "category": "Sci & Tech",
+            "date": "2026-04-26T14:38:41Z"
+        },
+        {
+            "title": "FM signals Covid-style relief, asks industries to make in India",
+            "summary": "This EMI Calculator provides a crucial function for SSB aspirants and all users: accurately determining monthly loan installment amounts. Effective financial planning, including managing loans, is a vital life skill. Utilizing such digital tools promotes financial literacy and discipline, essential qualities for a stable future and a successful career in the services.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/fm-signals-covid-style-relief-asks-industries-to-make-in-india/articleshow/130524841.cms",
+            "category": "Sci & Tech",
+            "date": "2026-04-25T23:08:56Z"
         }
     ]
 }
