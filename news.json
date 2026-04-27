@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-04-26T18:44:23.390427+00:00",
+    "last_updated": "2026-04-27T02:24:20.933648+00:00",
     "articles": [
         {
-            "title": "air-rs added to PyPI",
-            "summary": "S.L.I.P. (Slipstream Layer Inference Protocol) addresses the challenge of running large language models that exceed VRAM capacity. This protocol streams model weights directly from NVMe storage using memory-mapping (mmap), enabling execution of massive models like 70B-parameter ones on systems with less VRAM. This innovation enhances accessibility and efficiency for advanced AI development and deployment.",
-            "url": "https://pypi.org/project/air-rs/",
-            "category": "Sci & Tech",
-            "date": "2026-04-25T18:13:19Z"
-        },
-        {
-            "title": "mnemo-claude added to PyPI",
-            "summary": "Mnemo is a new Claude Code plugin that uses Obsidian to create a self-organizing knowledge base from coding sessions. It ensures Claude effectively 'never forgets' learned information, continuously enhancing its memory and efficiency. This innovation highlights AI's growing role in streamlining knowledge retention, a vital skill for effective decision-making in any complex field.",
-            "url": "https://pypi.org/project/mnemo-claude/",
-            "category": "Sci & Tech",
-            "date": "2026-04-25T18:12:08Z"
-        },
-        {
-            "title": "Russian attacks kill 5 and wound more than 30 in Ukraine's Dnipro",
-            "summary": "Russian drone and missile strikes targeted the Ukrainian city of Dnipro, killing at least five people and wounding 34, according to local authorities. This incident highlights the continuous civilian casualties and humanitarian impact of the ongoing conflict. For SSB aspirants, this underscores the volatile geopolitical situation and the importance of understanding international conflicts and their human costs.",
-            "url": "https://www.cbc.ca/news/world/russia-attack-ukraine-dnipro-9.7177273",
+            "title": "'Knowing they didn't suffer has been so important': Widow whose husband and 19-year-old son died in Titan submarine disaster tells of her relief at learning they went instantly",
+            "summary": "Christine Dawood, widow of Shahzada Dawood and mother of Suleman, both victims of the Titan submarine implosion, expressed relief upon learning their deaths were instantaneous. Her husband and 19-year-old son were among five who perished aboard the submersible exploring the Titanic wreck. This revelation provided comfort amidst the profound grief of losing her family in the international deep-sea tragedy.",
+            "url": "https://www.dailymail.com/news/article-15765759/Widow-husband-son-died-Titan-submarine-disaster-tells-relief.html",
             "category": "International",
-            "date": "2026-04-25T12:43:31Z"
+            "date": "2026-04-26T01:21:14Z"
         },
         {
-            "title": "Flying Gloves worn by Andrew Mountbatten-Windsor during Falklands War go on sale for \u00a32,000",
-            "summary": "Flying gloves worn by Andrew Mountbatten-Windsor (Prince Andrew) during the 1982 Falklands War are now on sale for \u00a32,000. He gained significant popularity for piloting a helicopter during the conflict, demonstrating royal family involvement in military operations. This historical item connects to a pivotal modern naval-air engagement, offering insight for aspirants into defence history and contributions.",
-            "url": "https://www.dailymail.com/news/article-15763907/Flying-Gloves-worn-Andrew-Mountbatten-Windsor-Falklands-War-sale-2-000.html",
+            "title": "HNLC questions civilian safety amid military installations in Shillong",
+            "summary": "The proscribed Hynniewtrep National Liberation Council (HNLC) has expressed concerns regarding the siting of major military installations within civilian zones. This issue, involving a banned group and military presence, highlights ongoing internal security challenges and potential civil-military friction in certain regions. It's crucial for SSB aspirants to understand such dynamics concerning national security and the operational environment for armed forces.",
+            "url": "https://www.syllad.com/hnlc-questions-civilian-safety-amid-military-installations-in-shillong/",
             "category": "Defence",
-            "date": "2026-04-24T23:24:44Z"
+            "date": "2026-04-26T01:15:00Z"
         },
         {
-            "title": "NFL Mock Draft: Day 2 picks",
-            "summary": "The Philadelphia Eagles are projected to make three selections in Friday night's draft. Key prospects mentioned include Denzel Boston (WR, Washington), Emmanuel McNeil Warren (S, Toledo), and Zion Youn (Buffalo). This update concerns American professional sports, specifically the National Football League (NFL) player draft. It details team strategies for acquiring new talent in their roster build-up.",
-            "url": "https://www.bleedinggreennation.com/philadelphia-eagles-draft/174378/nfl-mock-draft-day-2-picks",
-            "category": "International",
-            "date": "2026-04-24T21:09:07Z"
+            "title": "Saturday Game Thread vs. The Tejas Long Fedoras",
+            "summary": "This text outlines website consent procedures: clicking 'Accept all' allows partners, including 250 in the IAB Transparency & Consent Framework, to store and access device information. It details standard digital privacy practices and user data handling protocols, emphasizing the user's agreement to data collection for various purposes online.",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6f49363-67ff-433e-883f-9d39ecf0b8a8",
+            "category": "Sci & Tech",
+            "date": "2026-04-25T23:00:00Z"
         }
     ]
 }
