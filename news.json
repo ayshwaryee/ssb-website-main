@@ -1,26 +1,33 @@
 {
-    "last_updated": "2026-04-27T08:13:51.147646+00:00",
+    "last_updated": "2026-04-27T13:28:58.417928+00:00",
     "articles": [
         {
-            "title": "Indian Navy MR 2026 application window closes today: Direct link to apply here",
-            "summary": "The application window for the Indian Navy MR 2026 recruitment is closing today. Aspirants seeking a career in the Indian Navy as Matric Recruits (MR) must submit their applications promptly. This is a critical deadline for defence job hopefuls, urging immediate action to complete their submissions through the designated online portal before the closing time.",
-            "url": "https://timesofindia.indiatimes.com/education/news/indian-navy-mr-2026-application-window-closes-today-direct-link-to-apply-here/articleshow/130528299.cms",
+            "title": "Mali's defence minister dead as fighting continues",
+            "summary": "Mali's Defence Minister reportedly died following an attack on his home, amidst a second day of intense battles near the capital. The Malian army is actively engaged against jihadist fighters and separatist rebels, underscoring the severe internal security challenges. This incident highlights Mali's volatile situation and the critical need for governmental stability and effective counter-insurgency operations in the region.",
+            "url": "https://www.rte.ie/news/world/2026/0426/1570288-mali-attacks/",
+            "category": "International",
+            "date": "2026-04-26T13:24:18Z"
+        },
+        {
+            "title": "News24 | Mali defence minister killed, fresh fighting between army and rebels",
+            "summary": "Mali's Defence Minister Sadio Camara reportedly died in a car bomb attack on his home, along with family members. This tragic incident occurred amidst escalating conflicts between the Malian army and jihadist fighters, as well as separatist groups. The attack highlights the severe security challenges and instability within the West African nation, a critical concern for regional and international stability.",
+            "url": "https://www.news24.com/world/africa/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels-20260426-0800",
+            "category": "International",
+            "date": "2026-04-26T13:20:59Z"
+        },
+        {
+            "title": "Russian Defence Minister Andrei Belousov arrives in Democratic People's Republic of Korea on a working visit",
+            "summary": "The head of the Russian military department visited Pyongyang, holding meetings with North Korea's top leadership and the command of the Korean People's Army. This significant visit suggests strengthening military ties and potential cooperation between Russia and the DPRK. For SSB aspirants, understanding such alliances is crucial for assessing global defence dynamics and their impact on international security.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260426-russia-mod01.htm",
             "category": "Defence",
-            "date": "2026-04-26T07:48:32Z"
+            "date": "2026-04-26T12:00:00Z"
         },
         {
-            "title": "Gold rate today: Check 22k, 24k gold prices on April 26, 2026, at IBJA, Malabar Gold & Diamonds, Tanishq and Joyalukkas; have gold and silver prices dropped?",
-            "summary": "Gold prices in India remained unchanged on April 25-26, 2026, across leading jewellery brands like Kalyan Jewellers, Joyalukkas, and Malabar Gold. This stability indicates a consistent market trend for the precious metal over the weekend, offering a snapshot of current domestic economic conditions. Aspirants should note such market trends for general awareness.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-22k-24k-gold-prices-on-april-26-2026-at-ibja-malabar-gold-diamonds-tanishq-and-joyalukkas-have-gold-and-silver-prices-dropped/articleshow/130527898.cms",
-            "category": "National",
-            "date": "2026-04-26T07:04:26Z"
-        },
-        {
-            "title": "HNLC questions civilian safety amid military installations in Shillong",
-            "summary": "The proscribed Hynniewtrep National Liberation Council (HNLC) has raised significant concerns regarding the strategic placement of major military installations within civilian areas. This issue highlights ongoing internal security challenges and the delicate balance between defence infrastructure and local community welfare in conflict-affected regions within the nation, a critical topic for SSB aspirants.",
-            "url": "https://www.syllad.com/hnlc-questions-civilian-safety-amid-military-installations-in-shillong/",
-            "category": "National",
-            "date": "2026-04-26T01:15:00Z"
+            "title": "New fighting in Mali\u2019s Kidal between army and rebels",
+            "summary": "Fresh fighting has erupted in Kidal, Mali, between the Malian army and Tuareg rebels. This strategic Tuareg stronghold was previously retaken by Malian forces in November 2023. The renewed clashes underscore the persistent instability and complex security challenges facing Mali, involving the government battling non-state armed groups in a critical region, impacting regional peace.",
+            "url": "https://www.digitaljournal.com/world/new-fighting-in-malis-kidal-between-army-and-rebels/article",
+            "category": "International",
+            "date": "2026-04-26T09:33:22Z"
         }
     ]
 }
