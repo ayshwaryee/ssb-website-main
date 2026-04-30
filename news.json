@@ -1,47 +1,19 @@
 {
-    "last_updated": "2026-04-29T19:17:42.219380+00:00",
+    "last_updated": "2026-04-30T02:32:18.610179+00:00",
     "articles": [
         {
-            "title": "Mali military leader Goita emerges as Russia declares it halted coup",
-            "summary": "Mali's military leader, Assimi Goita, met with the Russian ambassador, with his office releasing photos. This significant meeting signals deepening diplomatic and potential strategic ties between Mali and Russia. Such engagements are crucial for SSB aspirants to understand, as they reflect evolving global alliances, geopolitical shifts, and Mali's reorientation from traditional Western partners.",
-            "url": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup",
+            "title": "How the King and Queen spent their second day in the US",
+            "summary": "King Charles III and Queen Camilla continued their state visit in Washington D.C., engaging with President Trump's cabinet members. The King delivered a notable speech to both houses of the US Congress, underscoring the enduring historical ties and strengthening diplomatic relations between the United States and the United Kingdom, crucial for global stability.",
+            "url": "https://www.bbc.com/news/videos/cz92w28k0jpo",
             "category": "International",
-            "date": "2026-04-28T18:48:24Z"
+            "date": "2026-04-29T02:12:49Z"
         },
         {
-            "title": "Fantasy football rankings 2026: A first look at the top 150 overall",
-            "summary": "The 2026 NFL Draft has concluded, marking a period of downtime before official Offseason Training Activities (OTAs) and minicamps commence. This lull presents an ideal opportunity for an early comprehensive overview of the upcoming fantasy football season's landscape, allowing enthusiasts to begin strategizing for their teams and understanding player dynamics before the competitive season kicks off.",
-            "url": "https://www.usatoday.com/story/sports/fantasy/football/2026/04/28/top-150-fantasy-football-players-2026-rookies-analysis/89837782007/",
-            "category": "National",
-            "date": "2026-04-28T18:37:05Z"
-        },
-        {
-            "title": "Cincinnati Reds: Nathaniel Lowe stepping up with power surge in place of Eugenio Su\u00e1rez",
-            "summary": "Cincinnati Reds designated hitter Eugenio Su\u00e1rez recently landed on the injured list. The team has identified an experienced veteran slugger to step in and fill his crucial role for the short term. This personnel change highlights the dynamic nature of professional sports, requiring teams to adapt swiftly to maintain performance amidst player unavailability. Such strategic adjustments are vital for competitive success.",
-            "url": "https://www.journal-news.com/sports/cincinnati-reds-nathaniel-lowe-stepping-up-with-power-surge-in-place-of-eugenio-su-rez/article_91c86c74-4e3d-570a-b7ca-e5280805d3fd.html",
-            "category": "National",
-            "date": "2026-04-28T18:32:00Z"
-        },
-        {
-            "title": "Coffee Break: Armed Madhouse \u2013 The U.S. Navy Adrift",
-            "summary": "The U.S. Navy is grappling with multiple, interconnected challenges critical for its readiness. Key issues include persistent shipbuilding delays, extensive maintenance backlogs impacting operational capacity, severe strain on existing forces, and the need to adapt to rapid technological disruption. Recognizing these as linked rather than discrete problems is vital for future naval effectiveness.",
-            "url": "https://www.nakedcapitalism.com/?p=309471",
-            "category": "Defence",
-            "date": "2026-04-28T18:00:06Z"
-        },
-        {
-            "title": "Australia-Japan Ties Are Critical To Indo-Pacific Security",
-            "summary": "Australia finalized a significant $10 billion acquisition of 11 Mogami-class frigates from Japan on April 18. This strategic defence deal bolsters Australia's naval capabilities and strengthens security cooperation in the Indo-Pacific. The high-value procurement of these advanced warships underscores a growing alignment between the two nations on regional defence and maritime security.",
-            "url": "https://www.ibtimes.com.au/australia-japan-ties-are-critical-indo-pacific-security-1867717",
-            "category": "Defence",
-            "date": "2026-04-28T16:47:01Z"
-        },
-        {
-            "title": "College basketball coaching carousel grades, four years later: The best and worst from the 2022 hiring cycle",
-            "summary": "In 2017, a journalist proposed to their editors resisting clickbait journalism, specifically advising against premature 'grading' of new sports coach hirings. The pitch aimed to encourage more substantive reporting by waiting until coaches had actually begun work, moving away from superficial analysis common in sports media, promoting journalistic integrity.",
-            "url": "https://www.cbssports.com/college-basketball/news/coaching-carousel-grades-2022-hiring-cycle/",
-            "category": "National",
-            "date": "2026-04-28T14:28:15Z"
+            "title": "tiny-metal-nn added to PyPI",
+            "summary": "tiny-metal-nn (tmnn) is a new C++ library enabling efficient neural-field training and inference on Apple GPUs. Inspired by the CUDA-based tiny-cuda-nn, tmnn is Metal-native, optimizing AI computations for Apple hardware. This innovation enhances machine learning model deployment and efficiency, critical for advanced data processing and simulations, signifying progress in specialized computing for AI applications.",
+            "url": "https://pypi.org/project/tiny-metal-nn/",
+            "category": "Sci & Tech",
+            "date": "2026-04-29T02:09:13Z"
         }
     ]
 }
