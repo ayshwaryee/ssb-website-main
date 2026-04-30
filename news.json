@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-04-30T02:32:18.610179+00:00",
+    "last_updated": "2026-04-30T08:12:16.610883+00:00",
     "articles": [
         {
-            "title": "How the King and Queen spent their second day in the US",
-            "summary": "King Charles III and Queen Camilla continued their state visit in Washington D.C., engaging with President Trump's cabinet members. The King delivered a notable speech to both houses of the US Congress, underscoring the enduring historical ties and strengthening diplomatic relations between the United States and the United Kingdom, crucial for global stability.",
-            "url": "https://www.bbc.com/news/videos/cz92w28k0jpo",
-            "category": "International",
-            "date": "2026-04-29T02:12:49Z"
-        },
-        {
-            "title": "tiny-metal-nn added to PyPI",
-            "summary": "tiny-metal-nn (tmnn) is a new C++ library enabling efficient neural-field training and inference on Apple GPUs. Inspired by the CUDA-based tiny-cuda-nn, tmnn is Metal-native, optimizing AI computations for Apple hardware. This innovation enhances machine learning model deployment and efficiency, critical for advanced data processing and simulations, signifying progress in specialized computing for AI applications.",
-            "url": "https://pypi.org/project/tiny-metal-nn/",
-            "category": "Sci & Tech",
-            "date": "2026-04-29T02:09:13Z"
+            "title": "AUKUS is falling apart before our eyes. The government and alliance shills are silent",
+            "summary": "The AUKUS defence pact, Australia's largest-ever defence program under the Albanese government, is notably shrouded in secrecy. Despite its scale, detailed information is reportedly not being released by Australian agencies, raising transparency concerns. This lack of official communication about the multi-billion dollar initiative poses challenges for public understanding and oversight.",
+            "url": "http://www.crikey.com.au/2026/04/29/aukus-falling-apart-government-alliance-shills-silent/",
+            "category": "Defence",
+            "date": "2026-04-29T01:38:51Z"
         }
     ]
 }
