@@ -1,12 +1,47 @@
 {
-    "last_updated": "2026-04-30T08:12:16.610883+00:00",
+    "last_updated": "2026-04-30T13:44:26.487818+00:00",
     "articles": [
         {
-            "title": "AUKUS is falling apart before our eyes. The government and alliance shills are silent",
-            "summary": "The AUKUS defence pact, Australia's largest-ever defence program under the Albanese government, is notably shrouded in secrecy. Despite its scale, detailed information is reportedly not being released by Australian agencies, raising transparency concerns. This lack of official communication about the multi-billion dollar initiative poses challenges for public understanding and oversight.",
-            "url": "http://www.crikey.com.au/2026/04/29/aukus-falling-apart-government-alliance-shills-silent/",
+            "title": "Zelenskyy says Ukraine will continue extending range of strikes on Russia",
+            "summary": "Ukrainian President Volodymyr Zelenskyy announced that Ukraine will continue to increase the range of its strikes within Russia. Zelenskyy underscored this strategy by sharing footage of a long-range attack. This declaration signals Ukraine's resolve to escalate its offensive capabilities and pressure Russian targets, marking a critical development in the ongoing international conflict between the two nations.",
+            "url": "https://economictimes.indiatimes.com/news/defence/zelenskyy-says-ukraine-will-continue-extending-range-of-strikes-on-russia/articleshow/130608805.cms",
+            "category": "International",
+            "date": "2026-04-29T13:23:33Z"
+        },
+        {
+            "title": "Russia says it's scaling down WW2 victory parade due to Ukrainian threat",
+            "summary": "Russia's Kremlin announced a significantly scaled-back Victory Day parade for World War Two celebrations. This year, the traditional display of military weaponry will be omitted, a departure attributed to increased security threats. While major cities like Moscow will proceed, regions bordering Ukraine have cancelled their events, highlighting ongoing geopolitical tensions and the conflict's impact.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-says-its-scaling-down-ww2-victory-parade-due-to-ukrainian-threat/articleshow/130608742.cms",
             "category": "Defence",
-            "date": "2026-04-29T01:38:51Z"
+            "date": "2026-04-29T13:21:08Z"
+        },
+        {
+            "title": "Ukraine says it hits Russian oil pumping station 1,500 km away",
+            "summary": "Ukraine conducted a drone strike 1,500 km deep into Russia, hitting an oil pumping station near the Ural Mountains. President Zelenskiy affirmed Kyiv's plan to escalate such strikes, signaling a significant escalation of the conflict. This strategy aims to disrupt Russian infrastructure far from the frontlines, impacting its war efforts and increasing regional tensions.",
+            "url": "https://economictimes.indiatimes.com/news/defence/ukraine-says-it-hits-russian-oil-pumping-station-1500-km-away/articleshow/130608654.cms",
+            "category": "Defence",
+            "date": "2026-04-29T13:18:56Z"
+        },
+        {
+            "title": "Scared Putin axes tanks and military hardware from annual WW2 parade over fears Ukraine could attack",
+            "summary": "President Putin has decided to exclude tanks and heavy military hardware from Russia's upcoming May 9 Victory Day parade in Red Square. This move, reportedly due to concerns over potential Ukrainian attacks, highlights the ongoing strain on Russian military resources amid the conflict. The decision reflects a prioritization of operational forces over traditional ceremonial displays, signaling the current state of Russia's military focus.",
+            "url": "https://www.dailymail.com/news/article-15775509/Scared-Putin-axes-tanks-military-hardware-annual-WW2-parade-fears-Ukraine-attack.html",
+            "category": "Defence",
+            "date": "2026-04-29T13:18:18Z"
+        },
+        {
+            "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+            "summary": "The Russian Defence Ministry announced its annual military parade, stating it will feature representatives from all branches of Russia's armed forces. The parade is also set to include a colourful fly-past, showcasing its air power. This event underscores Russia's military readiness and tradition, often serving as a display of national strength and technological prowess.",
+            "url": "https://www.bbc.com/news/articles/c794wp4yy93o",
+            "category": "Defence",
+            "date": "2026-04-29T13:01:57Z"
+        },
+        {
+            "title": "Rosatom enters Indian market of additive manufacturing",
+            "summary": "Russia's Rosatom has supplied its RusBeam 2800 industrial 3D printer to India, significantly enhancing the nation's additive manufacturing capabilities. This delivery strengthens technological collaboration between Russia and India. Rosatom, primarily a nuclear major, is actively expanding its advanced manufacturing business, providing India access to cutting-edge industrial technology crucial for various strategic sectors.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rosatom-enters-indian-market-of-additive-manufacturing/articleshow/130607999.cms",
+            "category": "Sci & Tech",
+            "date": "2026-04-29T12:53:24Z"
         }
     ]
 }
