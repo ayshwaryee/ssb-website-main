@@ -1,61 +1,68 @@
 {
-    "last_updated": "2026-05-02T07:25:50.957910+00:00",
+    "last_updated": "2026-05-02T12:59:35.564486+00:00",
     "articles": [
         {
-            "title": "Pakistan rolls out first Chinese Hangor submarine (VIDEO)",
-            "summary": "Pakistan has launched the first of eight Chinese-built Hangor-class submarines, significantly expanding its undersea fleet. This move deepens defence cooperation between Islamabad and Beijing, underscoring their strategic partnership. For SSB aspirants, this highlights Pakistan's ongoing military modernization efforts and the evolving geopolitical dynamics in the region, particularly concerning naval power and international defence alliances.",
-            "url": "https://www.rt.com/india/639330-pakistan-rolls-out-first-chinese-hangor-submarine/",
+            "title": "BoxBoy + BoxGirl rated in Taiwan for Nintendo Switch 2",
+            "summary": "A new game, 'BoxBoy + BoxGirl' from Hal Labs, has been rated by the Taiwan Rating Board for the unannounced Nintendo Switch 2 console. This rating surfaced prior to any official announcement, adding to a series of leaks concerning the next-generation Nintendo hardware. It provides unofficial confirmation of an upcoming title for the highly anticipated, yet unrevealed, console.",
+            "url": "https://mynintendonews.com/2026/05/01/boxboy-boxgirl-rated-in-taiwan-for-nintendo-switch-2/",
+            "category": "Sci & Tech",
+            "date": "2026-05-01T12:45:56Z"
+        },
+        {
+            "title": "AI Conversation With R2-D2, Skynet, HAL 9000, 'M3gan,' Samantha of 'Her'",
+            "summary": "The Hollywood Reporter recently orchestrated a unique discussion involving five iconic fictional AI systems from popular films. These simulated intelligences engaged in a fascinating debate about the current state and future trajectory of artificial intelligence, their profound impact on humanity, and even their own potential aspirations. This thought experiment offers valuable insights into the complex ethical and societal implications surrounding advanced AI.",
+            "url": "http://www.hollywoodreporter.com/business/digital/the-ai-roundtable-r2-d2-skynet-hal-9000-m3gan-1236572418/",
+            "category": "Sci & Tech",
+            "date": "2026-05-01T12:30:32Z"
+        },
+        {
+            "title": "India-Russia BrahMos venture posts record revenue",
+            "summary": "Indo-Russian BrahMos Aerospace achieved record 2025-26 revenue with 48.6% growth, showcasing India's burgeoning defence manufacturing capabilities. Vietnam is considering a significant $611.5 million deal for BrahMos supersonic missiles, marking India's successful expansion into global defense exports. This strengthens India's strategic position and economic influence in the international arms market, vital for national security.",
+            "url": "https://www.rt.com/india/639337-india-russia-brahmos-venture-posts/",
             "category": "Defence",
-            "date": "2026-05-01T07:11:02Z"
+            "date": "2026-05-01T12:19:18Z"
         },
         {
-            "title": "Russia hammers targets across Ukraine overnight",
-            "summary": "Russia has continued heavy attacks on Ukraine for the past 24 hours, with strikes occurring overnight on Thursday and into early Friday morning. These sustained assaults have resulted in at least one fatality and several injuries. The ongoing aggression underscores the persistent nature of the conflict and the immediate humanitarian impact of the hostilities in Eastern Europe, a key point for global security analysis.",
-            "url": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight",
-            "category": "International",
-            "date": "2026-05-01T06:42:10Z"
-        },
-        {
-            "title": "If I Could Make My Own GitHub",
-            "summary": "Two friends engage in a game contemplating extreme wealth, differentiating it from conventional financial security. They illustrate immense riches with the imaginative example of owning a personal submarine that its proprietor has never entered. This thought experiment explores the hypothetical dimensions of extraordinary fortune and the unconventional possessions or experiences associated with such a lifestyle.",
-            "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+            "title": "Eyes on the next global flashpoint: Why India is pouring billions into a remote island",
+            "summary": "Greater Nicobar, India's southernmost and largest island, possesses immense strategic importance due to its dominance over the Malacca Strait, a critical maritime chokepoint handling 60% of global trade. Developing its infrastructure and military presence here would significantly enhance India's maritime security, surveillance capabilities over vital shipping lanes, and regional influence, crucial for national defence and economic interests.",
+            "url": "https://www.rt.com/india/639335-india-nicobar-island-development-plan/",
             "category": "Defence",
-            "date": "2026-05-01T06:21:01Z"
+            "date": "2026-05-01T12:13:36Z"
         },
         {
-            "title": "Fertiliser output steady despite West Asia crisis; govt secures 37 lac ton urea imports for kharif",
-            "summary": "The government reported robust domestic urea production of 37.49 lakh tonnes in March-April, almost matching last year's levels despite the West Asia crisis. Concurrently, 37 lakh tonnes of urea were secured through imports. This ensures sufficient availability for the upcoming Kharif season, stabilizing agricultural output, and supporting farmers nationwide amidst global uncertainties.",
-            "url": "https://economictimes.indiatimes.com/news/economy/agriculture/fertiliser-output-steady-despite-west-asia-crisis-govt-secures-37-lac-ton-urea-imports-for-kharif/articleshow/130670841.cms",
-            "category": "National",
-            "date": "2026-05-01T05:24:58Z"
-        },
-        {
-            "title": "Skoda Volkswagen Group builds global car and software hub in India with Pune R&D expansion",
-            "summary": "Skoda Volkswagen Group is significantly expanding its R&D facility in Pune, India, by 33,000 sq ft. This move aims to establish India as a global engineering hub, aligning with the \"Make in India, for India and the world\" strategy. It marks a major step towards bolstering domestic manufacturing and design capabilities, leveraging India's talent for global automotive markets.",
-            "url": "https://www.thehindubusinessline.com/companies/skoda-volkswagen-group-builds-global-car-and-software-hub-in-india-with-pune-rd-expansion/article70925785.ece",
-            "category": "National",
-            "date": "2026-05-01T04:48:16Z"
-        },
-        {
-            "title": "HAL Chairman & Managing Director D K Sunil steps down",
-            "summary": "Hindustan Aeronautics Ltd. (HAL) announced that its Chairman and Managing Director, Dr. D K Sunil, has stepped down from his position. This significant leadership change at India's state-owned aerospace and defence company is crucial. HAL plays a pivotal role in manufacturing critical aircraft and equipment for the Indian armed forces, making this development noteworthy for the national defence sector and its future trajectory.",
-            "url": "https://economictimes.indiatimes.com/news/defence/hal-chairman-managing-director-d-k-sunil-steps-down-hindustan-aeronautics-ltd/articleshow/130669779.cms",
+            "title": "President Murmu exhorts Army Training Command to enhance Army's operational preparedness",
+            "summary": "President Droupadi Murmu exhorted the Army Training Command (ARTRAC) in Shimla to relentlessly enhance the Indian Army's operational preparedness. She underscored ARTRAC's pivotal role in shaping future military leaders and ensuring forces remain agile and capable of meeting evolving security challenges. This directive emphasizes the continuous need for robust training and strategic readiness, crucial for national defence.",
+            "url": "https://economictimes.indiatimes.com/news/defence/president-murmu-exhorts-army-training-command-to-enhance-armys-operational-preparedness/articleshow/130677630.cms",
             "category": "Defence",
-            "date": "2026-05-01T03:55:58Z"
+            "date": "2026-05-01T12:02:08Z"
         },
         {
-            "title": "Wreckage of Coast Guard ship lost during WWI found off coast of England",
-            "summary": "The wreckage of a U.S. Coast Guard ship, lost over a century ago during a deadly World War I attack, has been discovered off the coast of England. The discovery, announced by the Coast Guard, sheds light on historical maritime losses and naval operations during the Great War, offering valuable insights into past defence challenges and recoveries of significant military assets.",
-            "url": "https://abcnews.com/Technology/wireStory/wreckage-us-coast-guard-ship-lost-wwi-found-132554388",
+            "title": "Australia, Malaysia reinforce regional security",
+            "summary": "HMAS Warramunga of Australia and KD Lekir from Malaysia have successfully concluded the Malaysia-Australia Training Exercise (MASTEX) off Australia's west coast. This iteration underscores the continuous defence cooperation and interoperability between their navies. Such joint exercises are vital for enhancing strategic partnerships, strengthening regional security, and improving naval capabilities within the Indo-Pacific.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260501-audod01.htm",
             "category": "Defence",
-            "date": "2026-04-30T22:48:41Z"
+            "date": "2026-05-01T12:00:00Z"
         },
         {
-            "title": "The Super Mario Galaxy Movie Opens at #1 in Japan, Sound! Euphonium, The Final Movie Part 1 Anime Opens at #4",
-            "summary": "Nintendo, Illumination, and Universal Pictures are reportedly developing \"The Super Mario Galaxy Movie,\" a highly anticipated sequel to \"The Super Mario Bros. Movie.\" This major international collaboration aims to further expand the beloved gaming franchise into the cinematic universe, promising new adventures and characters to captivate global audiences. The project highlights significant developments in worldwide entertainment media.",
-            "url": "https://www.animenewsnetwork.com/news/2026-04-30/the-super-mario-galaxy-movie-opens-at-no.1-in-japan-sound-euphonium-the-final-movie-part-1-anime-/.236885",
-            "category": "International",
-            "date": "2026-04-30T21:00:00Z"
+            "title": "15 Movies That Captured the Cold War Paranoia of the \u201970s and \u201980s",
+            "summary": "This film, released post-1980s, effectively embodies Cold War tensions, focusing on crucial themes like submarine warfare and pervasive political uncertainty. It delves into the era's deep mistrust and instances of defection. For SSB aspirants, it offers insights into the strategic military and geopolitical challenges that defined superpower rivalry during this critical historical period.",
+            "url": "http://www.denofgeek.com/tv/15-movies-that-captured-the-cold-war-paranoia-of-the-70s-and-80s/",
+            "category": "Defence",
+            "date": "2026-05-01T11:45:00Z"
+        },
+        {
+            "title": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
+            "summary": "Ukraine has significantly escalated its strikes on Russian territory, deploying advanced technology to hit oil storage, ports, and refineries up to 1,600 km deep into the Urals. This demonstrates Ukraine's expanding long-range strike capabilities and strategic intent to disrupt Russia's war economy. Such precision targeting of critical infrastructure impacts the ongoing conflict.",
+            "url": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia",
+            "category": "Defence",
+            "date": "2026-05-01T08:02:57Z"
+        },
+        {
+            "title": "India eyeing partnership for 6th-gen fighter aircraft, to issue AMCA RFP soon: Defence secy; We\u2019re ready for Agni 6, awaits Centre's nod: DRDO Chief",
+            "summary": "India's Defence Secretary announced the imminent issuance of an AMCA RFP, seeking partnerships for a 6th-generation fighter, underscoring indigenous airpower goals. Concurrently, the DRDO Chief confirmed readiness for the strategic Agni-6 missile, awaiting government approval. These developments highlight India's commitment to modernizing its military, enhancing advanced defence capabilities, and strengthening strategic deterrence for national security.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/india-eyeing-partnership-for-6th-gen-fighter-aircraft-to-issue-amca-rfp-soon-defence-secy-were-ready-for-agni-6-awaits-centres-nod-drdo-chief/articleshow/130664477.cms",
+            "category": "Defence",
+            "date": "2026-05-01T02:14:48Z"
         }
     ]
 }
