@@ -1,26 +1,68 @@
 {
-    "last_updated": "2026-05-03T02:29:56.346672+00:00",
+    "last_updated": "2026-05-03T07:55:20.423145+00:00",
     "articles": [
         {
-            "title": "Mysterious ocean phenomena that will shock you",
-            "summary": "The provided text, 'Follow Us On Social Media', is a generic prompt rather than specific news content. It encourages readers to connect with the source via social media platforms for updates or interaction. For an SSB aspirant, this text provides no actionable information on defence, national, international, or scientific developments relevant to current affairs knowledge or strategic analysis.",
-            "url": "https://timesofindia.indiatimes.com/life-style/spotlight/mysterious-ocean-phenomena-that-will-shock-you/articleshow/130708214.cms",
-            "category": "National",
-            "date": "2026-05-02T00:52:42Z"
+            "title": "ISRO, Roscosmos discuss delivery of semi-cryogenic engines in Moscow; draft contract under approval",
+            "summary": "The Indian Space Research Organisation (ISRO) recently held technical discussions with Russia's Roscosmos in Moscow concerning the delivery of semi-cryogenic engines. These engines are crucial for enhancing India's future space launch vehicles, particularly for more powerful missions. This collaboration highlights international partnerships in critical space technology acquisition and development, bolstering ISRO's indigenous rocket program and future exploration endeavors.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-roscosmos-discuss-delivery-of-semi-cryogenic-engines-in-moscow-draft-contract-under-approval/articleshow/130712541.cms",
+            "category": "Sci & Tech",
+            "date": "2026-05-02T07:48:28Z"
         },
         {
-            "title": "EXCLUSIVE: King Charles Stabs Donald Trump in the Back \u2014\u00a0Radar Reveals 'Secret Codes' Monarch Used to Show His 'Utter Disdain' for Prez During 2,624-Word Congress Speech",
-            "summary": "King Charles delivered a well-received address to the US Congress. Reports indicate his speech subtly embedded criticisms of former President Donald Trump, despite its overall diplomatic tone. This event underscores the delicate balance of international relations and the nuanced communication often employed by heads of state when addressing legislative bodies of allied nations, highlighting geopolitical dynamics.",
-            "url": "https://radaronline.com/p/king-charles-donald-trump-congress-speech-secret-codes/",
+            "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+            "summary": "A sophisticated ballistic fire control simulator has been developed, integrating NASA SRTM terrain data and advanced horizon scan algorithms for highly realistic simulations. It accurately models asymmetric blast zones, considering real mountain obstructions, and incorporates nuclear blast effects and radioactivity. This system is vital for military training, strategic planning, and understanding weapon impacts in varied environments, significantly enhancing defence preparedness.",
+            "url": "https://github.com/InsaneInfinity/Balistic",
+            "category": "Defence",
+            "date": "2026-05-02T07:42:29Z"
+        },
+        {
+            "title": "Hezbollah\u2019s fibre-optic drones pose new challenge for Israel",
+            "summary": "Hezbollah's deployment of cheap fibre-optic drones is significantly challenging Israeli troops in southern Lebanon. These increasingly lethal drones are compelling the Israeli military to rapidly adapt its combat tactics and develop new counter-measures. This situation underscores an evolving asymmetrical warfare landscape, where accessible drone technology presents a persistent and demanding threat, forcing innovation in military strategy and defence against such adaptable challenges.",
+            "url": "https://www.vanguardngr.com/2026/05/hezbollahs-fibre-optic-drones-pose-new-challenge-for-israel/",
+            "category": "Defence",
+            "date": "2026-05-02T07:41:59Z"
+        },
+        {
+            "title": "Exit looms for Villarreal manager Marcelino despite successful season",
+            "summary": "Villarreal, a Spanish football club, is experiencing one of its most successful seasons, currently third in LaLiga. However, the club faces significant internal disagreement with their coach Marcelino. This conflict poses a challenge to their strong performance despite achieving historical success, underscoring potential management issues amidst sporting triumphs.",
+            "url": "https://getfootballnewsspain.com/exit-looms-for-villarreal-manager-marcelino-despite-successful-season/",
             "category": "International",
-            "date": "2026-05-01T21:45:00Z"
+            "date": "2026-05-02T05:15:00Z"
         },
         {
-            "title": "GST collections surge to record high of Rs 2.43 lakh cr in April",
-            "summary": "India's Gross GST collection hit a record Rs 2.43 lakh crore in April, marking an 8.7% increase compared to the previous year. This substantial growth was primarily fuelled by a significant rise in import-led revenues, which outpaced domestic transactions. This robust collection reflects healthy economic activity and strengthens the government's financial resources, crucial for national development.",
-            "url": "https://thehillstimes.in/business/gst-collections-surge-to-record-high-of-rs-2-43-lakh-cr-in-april",
+            "title": "Rust Helps Make A $1 Handheld Console",
+            "summary": "While classic Game Boys and new handheld consoles are increasingly expensive, this article offers a practical alternative for enthusiasts. It details how to construct a significantly cheaper handheld gaming device through a DIY approach. This project provides a cost-effective way to enjoy portable gaming, bypassing high market prices by following specific build instructions, making retro gaming accessible.",
+            "url": "https://hackaday.com/2026/05/01/rust-helps-make-a-1-handheld-console/",
+            "category": "Sci & Tech",
+            "date": "2026-05-02T05:00:07Z"
+        },
+        {
+            "title": "Israel Lebanon war: How Hezbollah\u2019s $4,000 fibre-optic drones are challenging the superior Israeli military",
+            "summary": "Hezbollah's deployment of low-cost fibre-optic drones in southern Lebanon poses significant operational challenges for Israeli forces. These difficult-to-counter drones are compelling the Israeli military to urgently adjust tactics and develop new countermeasures. This evolving technological threat highlights the need for innovative defensive strategies, transforming the conflict landscape and demanding adaptability from Israeli forces.",
+            "url": "https://economictimes.indiatimes.com/news/defence/israel-lebanon-war-how-hezbollahs-4000-fibre-optic-drones-are-challenging-the-superior-israeli-military/articleshow/130710126.cms",
+            "category": "Defence",
+            "date": "2026-05-02T04:53:17Z"
+        },
+        {
+            "title": "NASA Radar Just Captured Mexico City Sinking Into the Ground After a Century of Unstoppable Collapse",
+            "summary": "Mexico City's ongoing decline, previously considered a historical or technical archive issue, is now under precise, real-time observation from space. A new dataset is providing unprecedented clarity, enabling experts to meticulously monitor the city's complex changes. This highlights the critical role of advanced scientific and technological applications, particularly satellite monitoring and data analysis, in understanding and addressing global urban environmental challenges and infrastructural shifts.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/nasa-radar-just-captured-mexico-city-sinking-into-the-ground-after-a-century-of-unstoppable-collapse/articleshow/130710286.cms",
+            "category": "Sci & Tech",
+            "date": "2026-05-02T04:51:52Z"
+        },
+        {
+            "title": "Governor inaugurates Sarat Mahanta Memorial Lecture",
+            "summary": "Lakshman Prasad Acharya inaugurated the Sarat Mahanta Memorial Lecture at Royal Global University, Guwahati. Organised by the Sarat Mahanta Foundation, this event honored Sarat Mahanta. For SSB aspirants, understanding such national memorial lectures is vital. They often delve into significant personalities' contributions or historical events, fostering awareness of India's intellectual and cultural heritage, crucial for General Knowledge and perspective building.",
+            "url": "https://thehillstimes.in/assam/governor-inaugurates-sarat-mahanta-memorial-lecture",
             "category": "National",
-            "date": "2026-05-01T18:35:00Z"
+            "date": "2026-05-01T23:20:00Z"
+        },
+        {
+            "title": "Octogenarian scuba diver not ready to hang up fins yet",
+            "summary": "Jenny Dachroeden, who had always dreamt of scuba diving, finally pursued her passion at age 47. Previously busy raising three children and managing a business, she embarked on this long-held aspiration once her children were grown. This personal journey exemplifies achieving ambitions later in life, overcoming past commitments to fulfill a dream.",
+            "url": "https://www.abc.net.au/news/2026-05-02/queensland-octogenarian-still-hooked-on-scuba-diving/106368302",
+            "category": "National",
+            "date": "2026-05-01T23:04:35Z"
         }
     ]
 }
