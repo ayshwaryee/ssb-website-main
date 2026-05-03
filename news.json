@@ -1,68 +1,40 @@
 {
-    "last_updated": "2026-05-03T12:59:19.679194+00:00",
+    "last_updated": "2026-05-03T18:53:07.998573+00:00",
     "articles": [
         {
+            "title": "New propulsion system to boost submarines\u2019 staying power under water almost ready: DRDO chief",
+            "summary": "DRDO Chief Dr. Samir V. Kamat announced that a new indigenous propulsion system for submarines is nearing completion. This advanced technology aims to significantly enhance the underwater endurance and stealth capabilities of Indian submarines, reducing their reliance on frequent surface charging. Such advancements are crucial for bolstering India's naval power and strategic defence readiness, marking a significant step towards self-reliance in critical defence technologies.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/new-propulsion-system-to-boost-submarines-staying-power-under-water-almost-ready-drdo-chief/articleshow/130722391.cms",
+            "category": "Defence",
+            "date": "2026-05-02T18:17:35Z"
+        },
+        {
+            "title": "pg-raggraph added to PyPI",
+            "summary": "pg-raggraph introduces a PostgreSQL-native solution for advanced data management, integrating vector search, full-text search, and knowledge-graph traversal within a single SQL query. This innovation enables complex data operations using existing PostgreSQL infrastructure, eliminating the need for separate specialized databases. It streamlines database management and enhances analytical capabilities, promoting efficiency with familiar tools.",
+            "url": "https://pypi.org/project/pg-raggraph/",
+            "category": "Sci & Tech",
+            "date": "2026-05-02T18:12:04Z"
+        },
+        {
+            "title": "Jenna Bush Hager Cries On-Air During Relatable Motherhood Admission",
+            "summary": "Jenna Bush Hager, the Today anchor and mother of three, openly discussed the emotional challenges of balancing her career as a working mom in New York City. She candidly shared her experiences managing family life with husband Henry Hager and their children Mila, Poppy, and Hal, highlighting the universal struggles faced by many working parents.",
+            "url": "https://www.eonline.com/news/1431594/jenna-bush-hager-cries-during-on-air-motherhood-admission",
+            "category": "National",
+            "date": "2026-05-02T16:49:13Z"
+        },
+        {
+            "title": "From sea control to seabed control",
+            "summary": "Undersea cables in a contested region went dark, severely disrupting financial transactions, communications, and military coordination. Occurring without declared hostilities, this incident highlights critical vulnerabilities in global infrastructure and potential hybrid warfare tactics. It underscores the strategic importance of protecting vital underwater networks for national security and economic stability.",
+            "url": "https://www.wnd.com/2026/05/sea-control-seabed-control/",
+            "category": "Defence",
+            "date": "2026-05-02T16:11:01Z"
+        },
+        {
             "title": "mcp-omniplan-jtr added to PyPI",
-            "summary": "Users can now leverage LLM agents like Claude to control OmniPlan 4, a project management software on macOS, using natural language commands. This innovative integration allows for intuitive task management, such as creating milestones and linking activities, directly through conversational AI. This enhances productivity by simplifying complex project planning processes for users.",
+            "summary": "This article outlines controlling OmniPlan 4 project management software on macOS using natural language commands via LLM agents like Claude. Users can instruct the agent to create milestones or link tasks effortlessly. This integration streamlines complex project planning, enhancing productivity and intuitiveness through AI-driven software control, marking an advancement in intelligent tech solutions.",
             "url": "https://pypi.org/project/mcp-omniplan-jtr/",
             "category": "Sci & Tech",
             "date": "2026-05-02T12:43:53Z"
-        },
-        {
-            "title": "Boost for Navy's defence: India successfully tests long-range hypersonic anti-ship missile off Odisha",
-            "summary": "India successfully tested a long-range hypersonic anti-ship missile off the Odisha coast, marking a significant boost for the Indian Navy's defence capabilities. This achievement enhances the Navy's ability to counter maritime threats and demonstrates India's advanced indigenous missile technology. The successful trial strengthens India's naval prowess, crucial for maintaining security and strategic balance in the region.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/boost-for-navys-defence-india-successfully-tests-long-range-hypersonic-anti-ship-missile-off-odisha/articleshow/130715921.cms",
-            "category": "Defence",
-            "date": "2026-05-02T12:22:23Z"
-        },
-        {
-            "title": "Miami Grand Prix attracts celebrities and racing stars",
-            "summary": "The Formula 1 Crypto.com Miami Grand Prix occurred on Sunday, May 2, at Hard Rock Stadium in Miami Gardens. The event attracted a significant gathering of celebrities, top Formula 1 racing stars, and enthusiastic fans to the venue, highlighting its widespread appeal as a premier international sporting fixture.",
-            "url": "https://www.palmbeachpost.com/story/sports/motorsports/2026/05/02/celebrities-racing-stars-miami-grand-prix/89906923007/",
-            "category": "International",
-            "date": "2026-05-02T12:22:16Z"
-        },
-        {
-            "title": "hal-spatial-harness 0.1.48726",
-            "summary": "Reports indicate a critical website component failed to load, potentially due to browser extensions, network disruptions, or specific browser settings. Users experiencing this technical difficulty are advised to verify their internet connection, deactivate ad blockers, or attempt accessing the site via a different browser to rectify the issue and ensure full functionality.",
-            "url": "https://pypi.org/project/hal-spatial-harness/0.1.48726/",
-            "category": "Sci & Tech",
-            "date": "2026-05-02T12:19:09Z"
-        },
-        {
-            "title": "Appleton area high school sports results for Friday, May 1",
-            "summary": "The article details the results of a boys' competition, with Winneconne securing first place by scoring 122 points. They outranked competitors such as Green Bay Preble (112) and West De Pere (102). Other participating teams included Kimberly, Little Chute, and Fond Du Lac. Winneconne's performance led them to victory in this athletic event.",
-            "url": "https://www.postcrescent.com/story/sports/high-school/2026/05/02/appleton-area-high-school-sports-results-for-friday-may-1/89899353007/",
-            "category": "National",
-            "date": "2026-05-02T11:02:32Z"
-        },
-        {
-            "title": "India eases HVDC localisation rules, sets timeline to reach 60% local content by 2035",
-            "summary": "The Ministry of Power has updated \"Make in India\" procurement norms, establishing a phased roadmap to achieve 60% minimum local content in HVDC substations. This move aims to significantly boost domestic manufacturing capabilities within the power sector, reduce reliance on imports, and enhance national self-reliance for critical infrastructure projects, fostering economic growth and job creation.",
-            "url": "https://economictimes.indiatimes.com/industry/energy/power/india-eases-hvdc-localisation-rules-sets-timeline-to-reach-60-local-content-by-2035/articleshow/130714551.cms",
-            "category": "National",
-            "date": "2026-05-02T10:46:04Z"
-        },
-        {
-            "title": "Free Comic Book Day In The Daily LITG, 2nd of May 2026",
-            "summary": "Today marks Free Comic Book Day, focusing on celebrating comic books. Readers can explore 48 diverse titles being offered for free. Additionally, 73 comic shops are participating with special events and activities, engaging fans and introducing new readers to the world of comics and promoting the art form.",
-            "url": "https://bleedingcool.com/comics/free-comic-book-day-in-the-daily-litg-2nd-of-may-2026/",
-            "category": "National",
-            "date": "2026-05-02T09:59:09Z"
-        },
-        {
-            "title": "An Interpreter for Swift",
-            "summary": "The article introduces SwiftBash, a sandboxed Bash interpreter developed entirely in pure Swift. The author references a previous post detailing its introduction and promises a subsequent discussion on a new, related topic, hinted to start with 'Sw...'. This project highlights innovation in secure scripting environments using modern programming languages like Swift, a key area in cybersecurity and software development.",
-            "url": "https://www.cocoanetics.com/2026/05/an-interpreter-for-swift/",
-            "category": "Sci & Tech",
-            "date": "2026-05-02T09:01:18Z"
-        },
-        {
-            "title": "The week Charles pulled off a diplomatic triumph - and stepped out of the late Queen's shadow",
-            "summary": "The article suggests King Charles has convincingly demonstrated his capability for his demanding Royal role. Highlighting his recent display of confidence and charisma, it implies he has reassured skeptics regarding his suitability. This analysis underscores his effective leadership and the positive global perception of his initial performance as monarch, setting a strong tone for his reign.",
-            "url": "https://www.dailymail.com/debate/article-15783127/The-week-Charles-pulled-diplomatic-triumph-stepped-late-Queens-shadow.html",
-            "category": "International",
-            "date": "2026-05-01T16:33:05Z"
         }
     ]
 }
