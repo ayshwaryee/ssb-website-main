@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-05-04T02:28:34.460268+00:00",
+    "last_updated": "2026-05-04T08:23:59.009308+00:00",
     "articles": [
         {
-            "title": "rakka added to PyPI",
-            "summary": "This project unveils an idiomatic Rust port of Akka.NET, a framework for distributed applications, enhanced with first-class Python bindings. The Rust version mimics Akka.NET\u2019s module structure, facilitating upstream change tracking. Leveraging native Rust solutions, it offers a high-performance, resilient platform for developing scalable software. This advancement combines Rust's efficiency with Python's versatility, crucial for modern complex system development.",
-            "url": "https://pypi.org/project/rakka/",
-            "category": "Sci & Tech",
-            "date": "2026-05-03T02:18:34Z"
-        },
-        {
-            "title": "Can the \u2018blue economy\u2019 deliver on its promise? Investors are starting see the ocean as an asset worth protecting",
-            "summary": "The 'blue economy' is a widely discussed concept with a fluid definition, often interpreted differently by commentators. Fundamentally, it emphasizes the sustainable use of ocean resources for economic growth, improved livelihoods, and ocean ecosystem health. Key aspects include sustainable fisheries and marine protection, highlighting the balance between economic development and environmental stewardship crucial for coastal nations.",
-            "url": "https://fortune.com/2026/05/02/can-blue-economy-deliver-promise/",
+            "title": "Military Digest | 40 years of Operation Black Thunder I in Golden Temple",
+            "summary": "On April 29, 1986, a five-member Panthic Committee convened in Amritsar's Golden Temple and controversially declared the independence of 'Khalistan,' a Sikh breakaway state, from India. This significant historical event underscored a severe challenge to India's national integrity and internal security, highlighting the complexities of separatist movements. For an SSB aspirant, understanding such episodes is crucial for comprehending India's national security landscape.",
+            "url": "https://indianexpress.com/article/cities/chandigarh/military-digest-40-years-of-operation-black-thunder-i-in-golden-temple-10668642/",
             "category": "National",
-            "date": "2026-05-03T00:00:00Z"
+            "date": "2026-05-03T07:16:18Z"
         },
         {
-            "title": "Navy Chief Admiral Tripathi begins 4-day visit to Myanmar",
-            "summary": "Indian Navy Chief Admiral Dinesh K Tripathi embarked on a four-day visit to Myanmar, commencing Saturday. The primary objective is to significantly enhance operational-level cooperation between the Indian and Myanmar navies. Admiral Tripathi will also explore new avenues for collaboration, strengthening maritime security and bilateral ties in the region. This engagement highlights India's commitment to regional naval partnerships.",
-            "url": "https://thehillstimes.in/national/navy-chief-admiral-tripathi-begins-4-day-visit-to-myanmar",
+            "title": "Marine General Says China Is a Military Peer, Not Near-Peer",
+            "summary": "A senior U.S. Marine Corps general, Lt. Gen. Stephen Sklenka, has asserted that China already matches the United States as a military peer, rejecting the common description of Beijing as merely a \"near-peer threat.\" This significant declaration reflects a heightened U.S. assessment of China's rapidly advancing military capabilities and its profound implications for global power dynamics and strategic defense planning.",
+            "url": "https://www.naturalnews.com/2026-05-03-marine-general-says-china-is-military-peer.html",
             "category": "Defence",
-            "date": "2026-05-02T23:15:00Z"
+            "date": "2026-05-03T06:00:00Z"
         },
         {
-            "title": "Fighting reaches outskirts of Kostiantynivka, a Ukrainian stronghold",
-            "summary": "Russian forces are reportedly advancing on Kostiantynivka in Ukraine's eastern Donetsk region, seeking to establish a strategic foothold near a heavily defended area. This move is part of Russia's ongoing offensive efforts, intensifying pressure on Ukrainian defenses. The push highlights persistent territorial struggles in the conflict-ridden eastern front, posing new challenges for Kyiv.",
-            "url": "https://www.yahoo.com/news/articles/fighting-reaches-outskirts-ukraines-stronghold-102939828.html",
+            "title": "SNL brands Meghan an 'American terrorist' in brutal gag about King Charles' visit",
+            "summary": "Saturday Night Live parodied King Charles III's historic visit to America, controversially portraying Meghan Markle as a 'terrorist' within a sketch. The satirical comedy show also targeted former President Trump's association with the disgraced Prince Andrew. This segment reflects ongoing media commentary and public perception surrounding the British Royal Family and their interactions with prominent American figures, sparking discussions on royal-media dynamics.",
+            "url": "https://www.dailymail.com/news/article-15786143/SNL-King-Charles-Trump-jokes-Megan-Markle-terrorist.html",
+            "category": "International",
+            "date": "2026-05-03T05:43:49Z"
+        },
+        {
+            "title": "\u2018SNL\u2019 Weekend Update Mocks Trump\u2019s Vain Passport Move, King Charles\u2019 Visit",
+            "summary": "Saturday Night Live\u2019s Weekend Update satirized significant political events, including the Trump administration's actions, such as a humorous take on presidential images in passports. The segment also covered King Charles III and Queen Camilla\u2019s state visit. This comedic commentary on both domestic US politics and international royal affairs highlights media's role in public discourse and satire.",
+            "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-mocks-trumps-passport-move-king-charles-visit-1235556903/",
+            "category": "International",
+            "date": "2026-05-03T05:21:00Z"
+        },
+        {
+            "title": "Indian Army initiates process to procure 159 bullet-proof troop carriers for Rashtriya Rifles",
+            "summary": "This text promotes financial services such as \"Alpha Trade,\" offering daily trade ideas from SEBI-registered research analysts. It highlights \"Investment Ideas\" to grow wealth through stock insights and sectoral trends, alongside \"Stock Reports Plus\" for comprehensive stock research. The services are geared towards individuals aiming to manage and expand their investments within the national financial market, leveraging expert analysis for informed decision-making.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-initiates-process-to-procure-159-bullet-proof-troop-carriers-for-rashtriya-rifles/articleshow/130727636.cms",
+            "category": "National",
+            "date": "2026-05-03T05:10:46Z"
+        },
+        {
+            "title": "My least favorite Dyson innovation has snuck its way into its new cordless vacuum \u2014 but this bit of small print might just have restored my enthusiasm",
+            "summary": "An experienced TechRadar Homes Editor details their extensive background in testing vacuum cleaners, specifically Dyson models. Having evaluated almost every product in the brand's current lineup over many hours, the article likely offers in-depth reviews and comparisons of these domestic appliances. This provides valuable consumer insights into performance, features, and overall usability within the home technology sector.",
+            "url": "https://www.techradar.com/home/vacuums/my-least-favorite-dyson-innovation-has-snuck-its-way-into-its-new-cordless-vacuum-but-this-bit-of-small-print-might-just-have-restored-my-enthusiasm",
+            "category": "Sci & Tech",
+            "date": "2026-05-03T05:00:00Z"
+        },
+        {
+            "title": "Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka",
+            "summary": "Russian forces are advancing on Kostiantynivka in Ukraine's eastern Donetsk region, seeking to establish a strategic foothold near a heavily defended area. This move signals Russia's continued offensive operations, intensifying the conflict. Ukraine's top military official confirmed these developments, highlighting ongoing challenges as Russian troops attempt to gain ground in key eastern territories amidst the protracted war.",
+            "url": "https://japantoday.com/category/world/fighting-reaches-outskirts-of-ukraine%27s-stronghold-kostiantynivka",
+            "category": "International",
+            "date": "2026-05-02T20:57:37Z"
+        },
+        {
+            "title": "mcp-omniplan-jtr added to PyPI",
+            "summary": "This article describes using advanced AI agents like Claude to control project management software such as OmniPlan 4 on macOS through natural language commands. Aspirants should note how LLMs enable users to manage complex projects by simply instructing the AI to create milestones, link tasks, and organize project elements, demonstrating a significant leap in human-computer interaction and productivity.",
+            "url": "https://pypi.org/project/mcp-omniplan-jtr/",
+            "category": "Sci & Tech",
+            "date": "2026-05-02T12:43:53Z"
+        },
+        {
+            "title": "Boost for Navy's defence: India successfully tests long-range hypersonic anti-ship missile off Odisha",
+            "summary": "India successfully tested a long-range hypersonic anti-ship missile off the Odisha coast, marking a significant boost for the Indian Navy's defence. This crucial development enhances maritime strike capabilities and deterrence, showcasing India's advancement in indigenous defence technology. It strengthens national security and strategic presence in the Indo-Pacific region.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/boost-for-navys-defence-india-successfully-tests-long-range-hypersonic-anti-ship-missile-off-odisha/articleshow/130715921.cms",
             "category": "Defence",
-            "date": "2026-05-02T21:09:58Z"
+            "date": "2026-05-02T12:22:23Z"
         }
     ]
 }
