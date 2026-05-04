@@ -1,75 +1,12 @@
 {
-    "last_updated": "2026-05-04T13:47:57.652641+00:00",
+    "last_updated": "2026-05-04T19:22:29.075301+00:00",
     "articles": [
         {
-            "title": "Admiral Dinesh K Tripathi embarks Myanmar Navy vessel; discusses maritime security ties with senior military leaders",
-            "summary": "Navy Chief Admiral Dinesh K Tripathi is on an official visit to Myanmar, where he embarked on a Myanmar Navy warship and held discussions with senior military leadership. The primary objective is to significantly bolster bilateral maritime cooperation between India and Myanmar. This engagement is crucial for enhancing regional security and fostering stronger naval ties in the Indo-Pacific.",
-            "url": "https://economictimes.indiatimes.com/news/defence/admiral-dinesh-k-tripathi-embarks-myanmar-navy-vessel-discusses-maritime-security-ties-with-senior-military-leaders/articleshow/130733794.cms",
+            "title": "Kyiv hits Russian oil sites as eight killed in both countries",
+            "summary": "Ukraine claimed hitting a Russian cruise missile carrier and three shadow fleet tankers. This occurred amidst a massive drone exchange by both nations, resulting in at least eight deaths. The event highlights the ongoing intensity of the conflict, demonstrating sophisticated naval and drone warfare tactics and the significant human cost.",
+            "url": "https://timesofmalta.com/article/kyiv-hits-russian-oil-sites-eight-killed-countries.1127891",
             "category": "Defence",
-            "date": "2026-05-03T13:46:33Z"
-        },
-        {
-            "title": "India carries out 2nd test of long-range hypersonic anti-ship missile off Odisha coast",
-            "summary": "India successfully conducted the second flight test of a long-range missile developed by the DRDO, significantly enhancing its maritime defence capabilities. This achievement marks a crucial step in strengthening the nation's naval power and strategic deterrence in the Indian Ocean region. The indigenous development underscores India's commitment to self-reliance in advanced defence technologies, bolstering national security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-successfully-tests-advanced-long-range-hypersonic-anti-ship-missile-off-odisha-coast/articleshow/130733635.cms",
-            "category": "Defence",
-            "date": "2026-05-03T13:41:59Z"
-        },
-        {
-            "title": "kuronuri added to PyPI",
-            "summary": "Kuronuri is a Python library designed to mask Personal Identifiable Information (PII) in text using Named Entity Recognition (NER) models. Named 'redaction' in Japanese, it efficiently blacks out sensitive data. This technology is vital for modern data privacy and security, offering automated PII removal for various applications, crucial for maintaining confidentiality in documentation and communications, enhancing secure information handling.",
-            "url": "https://pypi.org/project/kuronuri/",
-            "category": "Sci & Tech",
-            "date": "2026-05-03T13:21:54Z"
-        },
-        {
-            "title": "Armies of India, Cambodia to conduct 2-week military exercise",
-            "summary": "India and Cambodia are commencing a two-week bilateral military exercise starting Monday, reflecting deepening defence ties. This second edition aims to enhance interoperability and strengthen cooperation between their armies. Such joint drills are vital for regional security and strategic partnerships, offering valuable insights for SSB aspirants into India's foreign policy and defence engagements.",
-            "url": "https://economictimes.indiatimes.com/news/defence/armies-of-india-cambodia-to-conduct-2-week-military-exercise/articleshow/130733052.cms",
-            "category": "Defence",
-            "date": "2026-05-03T13:04:51Z"
-        },
-        {
-            "title": "China This Week | Why a tiny African nation matters to China on Taiwan, Meta-Manus deal and Pakistan\u2019s submarine",
-            "summary": "A small African nation, home to 1.3 million people, recently encountered significant friction with the Chinese government. The situation escalated as China initiated punitive measures, placing the nation \"on the wrong side\" of Beijing. This incident highlights the complex power dynamics and potential diplomatic and economic pressures China can exert on smaller states in the international arena.",
-            "url": "https://indianexpress.com/article/explained/explained-global/china-this-week-eswatini-taiwan-meta-manus-hangor-pakistan-10670890/",
-            "category": "International",
-            "date": "2026-05-03T13:03:10Z"
-        },
-        {
-            "title": "Ukraine hits Russian oil-loading port, 'shadow fleet' tankers",
-            "summary": "Ukraine launched drone strikes against Russian oil infrastructure, hitting a key loading port on the Baltic Sea and two tankers. These actions aim to disrupt Russia's vital oil exports, crucial for funding its war efforts. Ukraine accused the tankers of illegal crude transport, significantly escalating the economic warfare aspect of the ongoing international conflict and highlighting vulnerabilities in strategic energy supply chains.",
-            "url": "https://www.cbc.ca/news/world/ukraine-hits-russian-port-3-tankers-9.7185903",
-            "category": "International",
-            "date": "2026-05-03T12:59:14Z"
-        },
-        {
-            "title": "Israel approves purchase of fighter jets from the US",
-            "summary": "Israel has approved a multi-billion dollar deal to purchase two squadrons of advanced F-35 and F-15IA fighter jets from US manufacturers Lockheed Martin and Boeing. This acquisition significantly bolsters Israel's air combat capabilities, enhancing its regional military strength and reaffirming its strategic defence partnership with the United States.",
-            "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us",
-            "category": "Defence",
-            "date": "2026-05-03T12:36:48Z"
-        },
-        {
-            "title": "\u2018Israel is stronger than ever, our pilots can reach any point in Iranian skies,\u2019 says Prime Minister Netanyahu",
-            "summary": "Israeli Prime Minister Benjamin Netanyahu recently declared Israel \"stronger than ever,\" unveiling a new two-pillar defence doctrine. This doctrine emphasizes \"strengthening\" its military capabilities and ensuring \"independence\" in its strategic decisions. This move signals Israel's resolve to maintain a robust security posture amidst regional challenges, offering insights into contemporary international defence strategies for aspirants.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-is-stronger-than-ever-our-pilots-can-reach-any-point-in-iranian-skies-says-prime-minister-netanyahu/articleshow/130732301.cms",
-            "category": "Defence",
-            "date": "2026-05-03T12:14:54Z"
-        },
-        {
-            "title": "Raksha Mantri to inaugurate 3-day North Tech Symposium, jointly organised by Indian Army & SIDM, in Prayagraj",
-            "summary": "Raksha Mantri Shri Rajnath Singh will inaugurate the North Tech Symposium, a key event organised by the Ministry of Defence. Scheduled for May 3, 2026, the symposium's theme is 'Raksha Triven\u2026', likely focusing on India's defence capabilities and technological advancements. This initiative underscores ongoing efforts to strengthen national security, providing vital insights for future defence leaders.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260503-india-pib01.htm",
-            "category": "Defence",
-            "date": "2026-05-03T12:00:00Z"
-        },
-        {
-            "title": "Last time 76ers beat Celtics in playoffs: Revisiting 1982 Eastern Conference Finals team led by Dr. J",
-            "summary": "This article revisits the last instance the Philadelphia 76ers triumphed over the Boston Celtics in the NBA playoffs, focusing on the historic 1982 Eastern Conference Finals. It details the formidable team, notably led by legendary player Julius \"Dr. J\" Erving, exploring the strategic prowess and teamwork required for such a significant victory. This historical sports analysis offers insights into past athletic excellence.",
-            "url": "https://www.sportingnews.com/us/nba/news/last-time-76ers-beat-celtics-playoffs-1982-dr-j/8da8a2cb37c77f16a88850fd",
-            "category": "National",
-            "date": "2026-05-03T02:14:00Z"
+            "date": "2026-05-03T19:10:01Z"
         }
     ]
 }
