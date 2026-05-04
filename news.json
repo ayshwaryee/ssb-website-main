@@ -1,40 +1,33 @@
 {
-    "last_updated": "2026-05-03T18:53:07.998573+00:00",
+    "last_updated": "2026-05-04T02:28:34.460268+00:00",
     "articles": [
         {
-            "title": "New propulsion system to boost submarines\u2019 staying power under water almost ready: DRDO chief",
-            "summary": "DRDO Chief Dr. Samir V. Kamat announced that a new indigenous propulsion system for submarines is nearing completion. This advanced technology aims to significantly enhance the underwater endurance and stealth capabilities of Indian submarines, reducing their reliance on frequent surface charging. Such advancements are crucial for bolstering India's naval power and strategic defence readiness, marking a significant step towards self-reliance in critical defence technologies.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/new-propulsion-system-to-boost-submarines-staying-power-under-water-almost-ready-drdo-chief/articleshow/130722391.cms",
-            "category": "Defence",
-            "date": "2026-05-02T18:17:35Z"
-        },
-        {
-            "title": "pg-raggraph added to PyPI",
-            "summary": "pg-raggraph introduces a PostgreSQL-native solution for advanced data management, integrating vector search, full-text search, and knowledge-graph traversal within a single SQL query. This innovation enables complex data operations using existing PostgreSQL infrastructure, eliminating the need for separate specialized databases. It streamlines database management and enhances analytical capabilities, promoting efficiency with familiar tools.",
-            "url": "https://pypi.org/project/pg-raggraph/",
+            "title": "rakka added to PyPI",
+            "summary": "This project unveils an idiomatic Rust port of Akka.NET, a framework for distributed applications, enhanced with first-class Python bindings. The Rust version mimics Akka.NET\u2019s module structure, facilitating upstream change tracking. Leveraging native Rust solutions, it offers a high-performance, resilient platform for developing scalable software. This advancement combines Rust's efficiency with Python's versatility, crucial for modern complex system development.",
+            "url": "https://pypi.org/project/rakka/",
             "category": "Sci & Tech",
-            "date": "2026-05-02T18:12:04Z"
+            "date": "2026-05-03T02:18:34Z"
         },
         {
-            "title": "Jenna Bush Hager Cries On-Air During Relatable Motherhood Admission",
-            "summary": "Jenna Bush Hager, the Today anchor and mother of three, openly discussed the emotional challenges of balancing her career as a working mom in New York City. She candidly shared her experiences managing family life with husband Henry Hager and their children Mila, Poppy, and Hal, highlighting the universal struggles faced by many working parents.",
-            "url": "https://www.eonline.com/news/1431594/jenna-bush-hager-cries-during-on-air-motherhood-admission",
+            "title": "Can the \u2018blue economy\u2019 deliver on its promise? Investors are starting see the ocean as an asset worth protecting",
+            "summary": "The 'blue economy' is a widely discussed concept with a fluid definition, often interpreted differently by commentators. Fundamentally, it emphasizes the sustainable use of ocean resources for economic growth, improved livelihoods, and ocean ecosystem health. Key aspects include sustainable fisheries and marine protection, highlighting the balance between economic development and environmental stewardship crucial for coastal nations.",
+            "url": "https://fortune.com/2026/05/02/can-blue-economy-deliver-promise/",
             "category": "National",
-            "date": "2026-05-02T16:49:13Z"
+            "date": "2026-05-03T00:00:00Z"
         },
         {
-            "title": "From sea control to seabed control",
-            "summary": "Undersea cables in a contested region went dark, severely disrupting financial transactions, communications, and military coordination. Occurring without declared hostilities, this incident highlights critical vulnerabilities in global infrastructure and potential hybrid warfare tactics. It underscores the strategic importance of protecting vital underwater networks for national security and economic stability.",
-            "url": "https://www.wnd.com/2026/05/sea-control-seabed-control/",
+            "title": "Navy Chief Admiral Tripathi begins 4-day visit to Myanmar",
+            "summary": "Indian Navy Chief Admiral Dinesh K Tripathi embarked on a four-day visit to Myanmar, commencing Saturday. The primary objective is to significantly enhance operational-level cooperation between the Indian and Myanmar navies. Admiral Tripathi will also explore new avenues for collaboration, strengthening maritime security and bilateral ties in the region. This engagement highlights India's commitment to regional naval partnerships.",
+            "url": "https://thehillstimes.in/national/navy-chief-admiral-tripathi-begins-4-day-visit-to-myanmar",
             "category": "Defence",
-            "date": "2026-05-02T16:11:01Z"
+            "date": "2026-05-02T23:15:00Z"
         },
         {
-            "title": "mcp-omniplan-jtr added to PyPI",
-            "summary": "This article outlines controlling OmniPlan 4 project management software on macOS using natural language commands via LLM agents like Claude. Users can instruct the agent to create milestones or link tasks effortlessly. This integration streamlines complex project planning, enhancing productivity and intuitiveness through AI-driven software control, marking an advancement in intelligent tech solutions.",
-            "url": "https://pypi.org/project/mcp-omniplan-jtr/",
-            "category": "Sci & Tech",
-            "date": "2026-05-02T12:43:53Z"
+            "title": "Fighting reaches outskirts of Kostiantynivka, a Ukrainian stronghold",
+            "summary": "Russian forces are reportedly advancing on Kostiantynivka in Ukraine's eastern Donetsk region, seeking to establish a strategic foothold near a heavily defended area. This move is part of Russia's ongoing offensive efforts, intensifying pressure on Ukrainian defenses. The push highlights persistent territorial struggles in the conflict-ridden eastern front, posing new challenges for Kyiv.",
+            "url": "https://www.yahoo.com/news/articles/fighting-reaches-outskirts-ukraines-stronghold-102939828.html",
+            "category": "Defence",
+            "date": "2026-05-02T21:09:58Z"
         }
     ]
 }
