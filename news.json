@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-05-05T19:12:12.551314+00:00",
+    "last_updated": "2026-05-06T02:26:48.284436+00:00",
     "articles": [
         {
-            "title": "UAE accuses Iran of renewed drone and missile attacks",
-            "summary": "The UAE defence ministry intercepted three missiles launched from Iran, with a fourth falling into the sea. This event occurred after the UAE foreign ministry reported an incident involving a tanker affiliated with 'Ad...' This sequence highlights escalating tensions and security concerns in the region, underscoring the importance of regional stability for an SSB aspirant.",
-            "url": "https://www.bbc.com/news/articles/cjwp432d0v5o",
-            "category": "Defence",
-            "date": "2026-05-04T18:12:04Z"
-        },
-        {
-            "title": "lac-cli 0.2.2",
-            "summary": "A website encountered a loading error, preventing a required part from displaying. This issue could stem from browser extensions, network problems, or specific browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or trying an alternative browser to resolve the display malfunction.",
-            "url": "https://pypi.org/project/lac-cli/0.2.2/",
-            "category": "Sci & Tech",
-            "date": "2026-05-04T18:04:47Z"
-        },
-        {
-            "title": "UAE says it\u2019s under attack from Iranian missiles and drones despite ceasefire",
-            "summary": "The UAE has reported being attacked by Iranian missiles and drones, despite an active ceasefire. This incident signifies a significant breach of international agreements and raises serious concerns about escalating tensions and regional stability in the Middle East. Such developments are crucial for SSB aspirants to understand, as they highlight complex geopolitical dynamics and their impact on international security.",
-            "url": "https://freerepublic.com/focus/f-chat/4377611/posts",
+            "title": "US-Iran ceasefire on brink as UAE reports attacks",
+            "summary": "Tensions escalated between Iran and the United States as their ceasefire faltered, with both nations trading fire over the strategic Strait of Hormuz. The United Arab Emirates also reported experiencing attacks for the first time, indicating a broader regional destabilization. This renewed military engagement underscores the volatility in a critical global shipping lane.",
+            "url": "https://www.rte.ie/news/world/2026/0504/1571716-middle-east-iran/",
             "category": "International",
-            "date": "2026-05-04T16:54:33Z"
+            "date": "2026-05-04T22:53:08Z"
+        },
+        {
+            "title": "\u2018Going Dutch\u2019 Canceled After Two Seasons at Fox",
+            "summary": "Fox has officially canceled its comedy series \"Going Dutch,\" Variety has reported. The show concluded its run after airing two seasons on the broadcaster. Its most recent season began in January 2026, culminating in what is now its series finale. This decision marks the end of the comedy series' tenure on the network.",
+            "url": "https://variety.com/2026/tv/news/going-dutch-canceled-fox-1236735756/",
+            "category": "International",
+            "date": "2026-05-04T20:30:00Z"
         },
         {
             "title": "Live: UAE intercepts Iranian missiles for first time since ceasefire",
-            "summary": "The UAE Defence Ministry successfully intercepted three missiles launched from Iran, with a fourth impacting the sea. This incident triggered overnight phone alerts for residents, highlighting a direct security threat to the nation. The swift defensive action showcases the UAE's robust air defence capabilities and underscores ongoing regional tensions, an important aspect for understanding international defence dynamics.",
+            "summary": "The UAE Defence Ministry successfully intercepted three missiles launched from Iran, with a fourth missile crashing into the sea. Authorities issued an overnight phone alert to residents. This incident underscores ongoing regional security tensions and demonstrates the UAE's robust air defence capabilities, a crucial aspect for maintaining stability in the Middle East.",
             "url": "https://www.abc.net.au/news/2026-05-05/iran-war-live-updates-may-5/106639086",
             "category": "Defence",
             "date": "2026-05-04T16:35:00Z"
-        },
-        {
-            "title": "UAE says fire in petroleum industrial site following Iran drone attack - Live updates",
-            "summary": "A significant fire broke out at a petroleum industrial site in Fujairah, reportedly caused by an Iranian drone attack. Authorities confirmed the incident, and Fujairah Civil Defence teams swiftly responded to control the blaze. This development underscores the volatile geopolitical situation in the Middle East, a crucial area of awareness for SSB aspirants to understand regional security dynamics.",
-            "url": "https://www.dailymail.com/news/article-15789061/UAE-says-fire-petroleum-industrial-site-following-Iran-drone-attack-Live-updates.html",
-            "category": "International",
-            "date": "2026-05-04T15:52:28Z"
         }
     ]
 }
