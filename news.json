@@ -1,4 +1,54 @@
 {
-    "last_updated": "2026-05-07T08:27:10.460187+00:00",
-    "articles": []
+    "last_updated": "2026-05-07T13:54:45.003580+00:00",
+    "articles": [
+        {
+            "title": "Two board members resign after Jewish doctor says he was singled out in Ontario Medical Association election",
+            "summary": "An individual named Hacker announced their resignation, clarifying that the decision is not about endorsing or opposing specific candidates in the current election. In a Facebook group, Hacker stated the resignation primarily concerns the electoral \"process itself,\" rather than the contenders. This implies a critique directed at the underlying mechanisms and procedures of the election.",
+            "url": "https://nationalpost.com/news/canada/ontario-medical-association-election",
+            "category": "National",
+            "date": "2026-05-06T13:40:23Z"
+        },
+        {
+            "title": "DRDO chief inaugurates CBRN training lab in Delhi to tackle threats know what they are",
+            "summary": "The Defence Research and Development Organisation (DRDO) inaugurated a Chemical, Biological, Radiological, and Nuclear (CBRN) field training and demonstration centre at the Burari plains in Delhi on May 6, 2026. This facility will significantly enhance India's preparedness and response capabilities against CBRN threats, providing crucial training for defence personnel and emergency responders to manage and mitigate such complex incidents effectively.",
+            "url": "https://economictimes.indiatimes.com/news/defence/drdo-chief-inaugurates-cbrn-training-lab-in-delhi-to-tackle-threats-know-what-they-are/articleshow/130858409.cms",
+            "category": "Defence",
+            "date": "2026-05-06T13:38:17Z"
+        },
+        {
+            "title": "\u2018They came out of nowhere,\u2019 Irish Gulf residents on living through missile attacks in the UAE",
+            "summary": "An alert was issued in Abu Dhabi on Monday evening, indicating that projectiles had been launched from Iran. Residents, like Amy Condon during a golf lesson, received loud phone alerts about the incident. This event highlights escalating regional tensions and the ongoing security concerns in the Middle East, affecting civilian life and international stability.",
+            "url": "https://www.irishtimes.com/world/middle-east/2026/05/06/youre-always-a-bit-unnerved-irish-in-uae-on-latest-missile-attacks-on-gulf-state/",
+            "category": "International",
+            "date": "2026-05-06T13:37:16Z"
+        },
+        {
+            "title": "The Only Metal-Skinned Blimp Ever Operated",
+            "summary": "Before World War II, dirigibles were viewed as a promising technology, attracting considerable investment and development efforts. A 1995 article in the US Naval Institute's Proceedings indicates military interest, likely detailing early applications and the extensive resources dedicated to their advancement in defence, despite their eventual limited operational impact.",
+            "url": "https://www.neatorama.com/2026/05/06/The-Only-Metal-Skinned-Blimp-Ever-Operated/",
+            "category": "Defence",
+            "date": "2026-05-06T13:11:39Z"
+        },
+        {
+            "title": "Zelenskyy says Russia choosing war as dual ceasefires falter",
+            "summary": "President Zelenskyy announced that Russia rejected efforts to halt fighting in Ukraine, choosing instead to launch fresh attacks. This decision came despite Ukraine's unilateral call for a ceasefire aimed at saving lives. Zelenskyy's statement underscores Russia's continued aggression and the ongoing failure of diplomatic initiatives to de-escalate the protracted conflict, highlighting sustained international tensions and humanitarian concerns.",
+            "url": "https://www.channelnewsasia.com/world/zelenskyy-says-russia-choosing-war-dual-ceasefires-falter-6103556",
+            "category": "International",
+            "date": "2026-05-06T13:04:00Z"
+        },
+        {
+            "title": "India and Vietnam ramp up bilateral trade target",
+            "summary": "India and Vietnam have committed to significantly boosting their bilateral trade, aiming to increase it from the current $16 billion to $25 billion by 2030. This decision, involving Prime Minister Narendra Modi, underscores a strengthening economic partnership and strategic cooperation between the two nations. The initiative highlights India's ongoing engagement to foster deeper economic ties in Southeast Asia and enhance mutual growth.",
+            "url": "https://www.rt.com/india/639515-india-and-vietnam-ramp-up/",
+            "category": "International",
+            "date": "2026-05-06T12:19:33Z"
+        },
+        {
+            "title": "Rs 35,000 crore investment taking shape in UP defence corridors: Yogi Adityanath",
+            "summary": "Uttar Pradesh Chief Minister Yogi Adityanath announced that investment proposals worth over Rs 35,000 crore are now materializing across the state's six defence industrial corridors. This significant development boosts India's indigenous defence manufacturing capabilities and supports the 'Make in India' initiative. It underscores the nation's commitment to self-reliance in defence production, creating jobs and strengthening national security infrastructure.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rs-35000-crore-investment-taking-shape-in-up-defence-corridors-yogi-adityanath/articleshow/130848664.cms",
+            "category": "Defence",
+            "date": "2026-05-06T08:23:28Z"
+        }
+    ]
 }
