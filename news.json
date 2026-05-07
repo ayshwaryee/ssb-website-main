@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-05-06T19:40:30.702811+00:00",
+    "last_updated": "2026-05-07T02:29:04.807436+00:00",
     "articles": [
         {
-            "title": "Power bank catches fire inside IndiGo plane, five injured",
-            "summary": "An IndiGo flight (6E-108) from Ahmedabad to Chandigarh underwent an emergency evacuation on Tuesday afternoon after a passenger's power bank caught fire onboard. Although the aircraft had landed safely, the incident necessitated an immediate evacuation to ensure all passengers' safety. This highlights crucial aviation safety protocols regarding electronic devices and emergency procedures.",
-            "url": "https://indianexpress.com/article/cities/chandigarh/power-bank-catches-fire-inside-indigo-plane-five-injured-10674784/",
+            "title": "Show HN: Docx-CLI \u2013 let agents edit your Word files safely",
+            "summary": "A new Command Line Interface (CLI) tool empowers AI agents like Claude and Codex to safely interact with .docx files. It enables them to read, edit, and comment on documents while maintaining full format fidelity. By outputting JSON-AST, the tool allows for precise, locator-based editing. This advancement significantly enhances AI's capabilities in sophisticated document processing and management.",
+            "url": "https://github.com/kklimuk/docx-cli",
+            "category": "Sci & Tech",
+            "date": "2026-05-06T01:26:21Z"
+        },
+        {
+            "title": "Russian attacks kill 27 before Ukraine ceasefire deadline",
+            "summary": "Russian forces launched deadly attacks in eastern Ukraine, killing at least 27 people, including 12 in a single strike. These intensified assaults occurred just hours before an open-ended midnight ceasefire was set to begin. This pre-ceasefire violence underscores the volatile nature of the conflict and the continued human cost despite attempts at de-escalation.",
+            "url": "https://www.rte.ie/news/world/2026/0506/1571895-ukraine-russia/",
+            "category": "International",
+            "date": "2026-05-06T00:33:49Z"
+        },
+        {
+            "title": "Quantitative predictions of alpha-charmonium correlation functions in high-energy collisions",
+            "summary": "This research builds theoretical models to understand the interaction between helium nuclei (alpha particles) and charmonium particles. Using advanced quantum chromodynamics (QCD) and single-folding potential (SFP) approaches, scientists are calculating the forces involved. This fundamental work enhances our knowledge of subatomic particle behavior and the strong nuclear force, crucial for advancing theoretical physics.",
+            "url": "https://www.nature.com/articles/s41598-026-51720-7",
+            "category": "Sci & Tech",
+            "date": "2026-05-06T00:00:00Z"
+        },
+        {
+            "title": "The output must be cleaned (with skill)",
+            "summary": "A new Claude skill, \"clean-rspec-output,\" has been developed to streamline testing processes in Ruby on Rails development. This tool systematically removes unexpected or verbose output from RSpec test suites, allowing developers to focus solely on critical test results. This innovation aims to enhance efficiency and clarity in software quality assurance, benefiting those involved in technology and programming.",
+            "url": "https://thoughtbot.com/blog/the-output-must-be-cleaned-with-skill",
+            "category": "Sci & Tech",
+            "date": "2026-05-06T00:00:00Z"
+        },
+        {
+            "title": "Are microbes the future of pollution clean-up?",
+            "summary": "Environmental engineer Ludmilla Aristilde and her colleagues are developing innovative biotechnology-led solutions to combat pollution. Their research focuses on leveraging biological processes and tools to effectively mitigate environmental contaminants. This work aims to create sustainable methods for combating various forms of pollution, offering promising advancements in environmental remediation and sustainable resource management.",
+            "url": "https://www.nature.com/articles/d41586-026-01420-z",
+            "category": "Sci & Tech",
+            "date": "2026-05-06T00:00:00Z"
+        },
+        {
+            "title": "\u2018The Diplomat\u2019 Team On Managing U.S./UK Relations, A Season Of Splits & That \u2018West Wing\u2019 Reunion \u2013 On The Go With Deadline",
+            "summary": "Netflix's series 'The Diplomat' hosted a star-studded gala and special screening in Los Angeles. This high-profile event at the Wallis Annenberg Center brought together the show's cast, promoting a series likely centered on international relations and diplomatic roles. For SSB aspirants, such portrayals offer a cultural perspective on global affairs.",
+            "url": "https://deadline.com/video/the-diplomat-netflix-fysee-allison-janney-keri-russell-video/",
+            "category": "International",
+            "date": "2026-05-05T23:14:59Z"
+        },
+        {
+            "title": "Pastors Claim Government Asked Them to Prepare for Fallen Angel UFO Revelation",
+            "summary": "The article discusses the discovery of unconventional crafts and materials allegedly not originating from Earth. These objects are described as \"very strange,\" hinting at non-terrestrial technology or entities. The core focus appears to be on examining these anomalous phenomena, given their reported composition and nature are not consistent with our planet. This topic typically prompts significant scientific scrutiny and defence implications.",
+            "url": "https://www.jasoncolavito.com/blog/pastors-claim-government-asked-them-to-prepare-for-fallen-angel-ufo-revelation",
+            "category": "Sci & Tech",
+            "date": "2026-05-05T22:48:15Z"
+        },
+        {
+            "title": "Tribune Notebook: Willmar athletes earn Central Lakes honors",
+            "summary": "Carter Newberg has been elevated to the No. 1 singles position for the Willmar boys tennis team. This challenging role means he will consistently compete against the top players in the Central Lakes Conference. The move provides a significant opportunity for Newberg to develop his skills and leadership against strong regional competition, honing his performance under pressure.",
+            "url": "https://www.wctrib.com/sports/prep/tribune-notebook-willmar-athletes-earn-central-lakes-honors",
             "category": "National",
-            "date": "2026-05-05T19:34:31Z"
-        },
-        {
-            "title": "Live: Rubio says US will continue to target drones and boats that pose a risk",
-            "summary": "The United Arab Emirates (UAE) reports its air defence systems are actively engaging incoming missiles and drones from Iran for the second consecutive day. This ongoing situation underscores heightened regional tensions and the constant need for robust air defence capabilities to counter aerial threats. Such incidents are critical for understanding global security dynamics and the operational deployment of defence technologies.",
-            "url": "https://www.abc.net.au/news/2026-05-06/live-iran-war-updates-wednesday-may-6/106645960",
-            "category": "International",
-            "date": "2026-05-05T19:32:22Z"
-        },
-        {
-            "title": "US attempt to open the Strait of Hormuz tests Iran war\u2019s fragile ceasefire",
-            "summary": "Tensions in the Gulf escalated after the US attempted to force open the strategically vital Strait of Hormuz for commercial shipping, risking a reignition of the Iran conflict. Despite fears, a fragile ceasefire appeared to hold, preventing immediate military escalation. This highlights ongoing geopolitical complexities and the critical role of maritime security in the region, involving key players like Iran and the UAE.",
-            "url": "https://thehillstimes.in/international/us-attempt-to-open-the-strait-of-hormuz-tests-iran-wars-fragile-ceasefire",
-            "category": "International",
-            "date": "2026-05-05T19:30:00Z"
-        },
-        {
-            "title": "Zelenskyy slams Russia's 'utter cynicism' as strikes kill 22 before ceasefire",
-            "summary": "Russian drone and missile strikes have tragically killed at least 22 people and wounded over 80 in Ukraine, according to Ukrainian authorities. These devastating attacks occurred just hours before Kyiv was scheduled to enact a ceasefire. The incident highlights the continued intensity of the conflict and its severe humanitarian cost, impacting civilians amidst ongoing international tensions.",
-            "url": "https://www.abc.net.au/news/2026-05-06/deadly-russian-strikes-in-ukraine-ahead-of-planned-ceasefires/106646050",
-            "category": "International",
-            "date": "2026-05-05T19:24:28Z"
-        },
-        {
-            "title": "US-Iran ceasefire: Uneasy calm after West Asia truce breach",
-            "summary": "A fragile US-Iran ceasefire held after a day of significant clashes, including shipping incidents in the vital Strait of Hormuz and missile attacks targeting the United Arab Emirates. This highlights persistent regional tensions and the volatile security environment in the Middle East, impacting international maritime routes and underscoring the ongoing need for diplomatic efforts to maintain stability.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-ceasefire-uneasy-calm-after-west-asia-truce-breach/articleshow/130837713.cms",
-            "category": "International",
-            "date": "2026-05-05T18:48:30Z"
-        },
-        {
-            "title": "WWE Raw Review: Backlash Go-Home Show Ends With Roman Crushed",
-            "summary": "El Presidente, reviewing from his luxury submarine, provides a recap of WWE Raw. Significant moments highlighted Jacob Fatu once again laying out Roman Reigns. Additionally, Bron Breakker delivered a powerful spear to Seth Rollins. This review covers the latest major wrestling action and storyline developments from the popular entertainment program.",
-            "url": "https://bleedingcool.com/tv/wwe-raw-review-backlash-go-home-show-ends-with-roman-crushed/",
-            "category": "International",
-            "date": "2026-05-05T18:37:09Z"
-        },
-        {
-            "title": "Iran renews attack on UAE as Middle East braces for resumption of war",
-            "summary": "Iran launched missiles and drones at the UAE for the second consecutive day, significantly escalating Middle East tensions. This aggressive action raises serious concerns about regional stability and the potential for a full-scale conflict. The international community is closely monitoring the situation as these developments have profound geopolitical implications, impacting global security.",
-            "url": "https://www.irishtimes.com/world/middle-east/2026/05/05/iran-renews-attack-on-uae-as-middle-east-braces-for-resumption-of-war/",
-            "category": "International",
-            "date": "2026-05-05T18:36:49Z"
+            "date": "2026-05-05T22:41:00Z"
         }
     ]
 }
