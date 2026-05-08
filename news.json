@@ -1,61 +1,33 @@
 {
-    "last_updated": "2026-05-07T19:38:26.365754+00:00",
+    "last_updated": "2026-05-08T02:36:28.025108+00:00",
     "articles": [
         {
-            "title": "New Defence Rules: 5-year ban for poor supplies, 10 years for misconduct",
-            "summary": "New Delhi has mandated a 5-year debarment from all government contracts for defence suppliers failing to meet obligations or providing underperforming equipment. This stringent measure aims to ensure high standards and accountability in defence procurement. Stricter actions are implied for unethical conduct, emphasizing the critical importance of integrity and performance within India's defence supply chain.",
-            "url": "https://economictimes.indiatimes.com/news/defence/new-defence-rules-5-year-ban-for-poor-supplies-10-years-for-misconduct/articleshow/130867702.cms",
+            "title": "European defence major MBDA signs pact with IAF to implement MRO capabilities for MICA missiles",
+            "summary": "The Indian Air Force (IAF) has partnered with European defence major MBDA to establish Maintenance, Repair, and Overhaul (MRO) capabilities for its MICA missiles in India. This pact significantly boosts indigenous defence maintenance, reducing reliance on foreign vendors and enhancing the operational readiness of a vital air-to-air missile system. This aligns with India's 'Atmanirbhar Bharat' and 'Make in India' defence initiatives.",
+            "url": "https://timesofindia.indiatimes.com/defence/european-defence-major-mbda-signs-pact-with-iaf-to-implement-mro-capabilities-for-mica-missiles/articleshow/130876429.cms",
             "category": "Defence",
-            "date": "2026-05-06T18:51:03Z"
+            "date": "2026-05-07T02:28:34Z"
         },
         {
-            "title": "One year after Operation Sindoor: How India\u2019s armed forces are transforming",
-            "summary": "The article discusses a 22-minute Indian strike that destroyed terrorist headquarters and hideouts in Pakistan, which subsequently triggered an 88-hour exchange of fire. This operation, likely referring to a major counter-terrorism effort, is highlighted for its lasting impact. It underscores India's decisive action against cross-border terrorism, showcasing a critical moment in bilateral defence strategy.",
-            "url": "https://economictimes.indiatimes.com/news/india/one-year-after-operation-sindoor-how-indias-armed-forces-are-transforming/articleshow/130867041.cms",
+            "title": "To prepare for nuclear exigencies, DRDO opens CBRN centre in Delhi",
+            "summary": "The Defence Research and Development Organisation (DRDO) has opened a Chemical, Biological, Radiological, and Nuclear (CBRN) centre in Delhi. This strategic move is aimed at bolstering India's preparedness and response capabilities for potential nuclear exigencies and other non-conventional threats. The facility will enhance national security infrastructure, ensuring a robust framework to handle unforeseen CBRN challenges effectively.",
+            "url": "https://timesofindia.indiatimes.com/india/to-prepare-for-nuclear-exigencies-drdo-opens-cbrn-centre-in-delhi/articleshow/130876400.cms",
             "category": "Defence",
-            "date": "2026-05-06T18:43:45Z"
+            "date": "2026-05-07T02:26:59Z"
         },
         {
-            "title": "India, Vietnam elevate ties to 'Enhanced Comprehensive Strategic Partnership'",
-            "summary": "India and Vietnam have elevated their relationship to an 'Enhanced Comprehensive Strategic Partnership,' celebrating a decade of their Comprehensive Strategic Partnership. This significant upgrade aims to deepen cooperation across various sectors, reflecting growing strategic alignment and mutual interests. The strengthened ties are crucial for regional stability and underscore India's expanding diplomatic outreach in Southeast Asia, benefiting both nations' security and economic development.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership/articleshow/130867377.cms",
-            "category": "International",
-            "date": "2026-05-06T18:29:42Z"
-        },
-        {
-            "title": "Russia fires dozens of drones at Ukraine in 'obvious spurning' of ceasefire, says Zelenskyy",
-            "summary": "Ukrainian officials reported Russia launched extensive nighttime drone attacks, disregarding a unilateral ceasefire announced by Kyiv that began at midnight. This latest barrage underscores Moscow's persistent military aggression and refusal to de-escalate, further escalating tensions in the ongoing conflict despite efforts for a temporary humanitarian pause.",
-            "url": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-9.7189856",
-            "category": "International",
-            "date": "2026-05-06T18:13:32Z"
-        },
-        {
-            "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Exposed How Fast",
-            "summary": "NASA's advanced satellite technology has confirmed that Mexico City is experiencing accelerated subsidence, making it one of the fastest sinking cities worldwide. This scientific observation highlights the crucial role of space technology in monitoring significant global environmental challenges and urban vulnerabilities, providing vital data for understanding and potentially mitigating such phenomena.",
-            "url": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
+            "title": "Early-stage tech draws VC interest across aviation, biotech, precision manufacturing",
+            "summary": "Investors are strategically prioritizing early-stage deeptech startups, opting for smaller commitments in innovative sectors like AI and healthcare. This trend signifies a shift towards promising technological frontiers. For SSB aspirants, understanding these investment patterns is vital, as they indicate emerging technologies and economic growth drivers that will shape national development and future capabilities.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/early-stage-tech-draws-vc-interest-across-aviation-biotech-precision-manufacturing/articleshow/130868567.cms",
             "category": "Sci & Tech",
-            "date": "2026-05-06T17:35:06Z"
+            "date": "2026-05-07T00:30:00Z"
         },
         {
-            "title": "To prepare for N-exigencies, DRDO opens chem,bio, radiological, nuclear centre at Burari plains",
-            "summary": "The Defence Research and Development Organisation (DRDO) has established a new Chemical, Biological, Radiological, and Nuclear (CBRN) centre at Burari plains, Delhi. This strategic facility is designed to enhance India's preparedness and response capabilities against potential CBRN threats and nuclear exigencies. The initiative underscores DRDO's commitment to bolstering national security and protecting citizens from critical emergencies, strengthening India's resilience.",
-            "url": "https://timesofindia.indiatimes.com/city/delhi/to-prepare-for-n-exigencies-drdo-opens-chembio-radiological-nuclear-centre-at-burari-plains/articleshow/130865283.cms",
+            "title": "French aircraft carrier pre-positions for possible Hormuz mission",
+            "summary": "France's aircraft carrier, the Charles de Gaulle, accompanied by its escort vessels, recently transited the strategic Suez Canal. This movement highlights the importance of naval power projection and freedom of navigation through critical global maritime choke points. Such deployments by major powers are significant for international security and demonstrate naval capabilities, relevant for understanding geopolitical dynamics.",
+            "url": "https://www.digitaljournal.com/world/french-aircraft-carrier-pre-positions-for-possible-hormuz-mission/article",
             "category": "Defence",
-            "date": "2026-05-06T17:33:22Z"
-        },
-        {
-            "title": "Maritime India Foundation formalises agreements with IITs and IMU",
-            "summary": "The Maritime India Foundation, under the Ministry of Ports, Shipping and Waterways (MoPSW), has formalized Memoranda of Understanding for the Sagarmala Startup Innovation Initiative. This national program aims to foster entrepreneurship and innovation within India's maritime sector. It seeks to support promising startups, driving technological advancement and economic growth critical for the development of ports and shipping infrastructure nationwide.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/maritime-india-foundation-formalises-agreements-with-iits-and-imu/article70947461.ece",
-            "category": "National",
-            "date": "2026-05-06T14:54:40Z"
-        },
-        {
-            "title": "May 2025 Air War: From Assumed Superiority to Operational Shock",
-            "summary": "On May 6-7, 2025, the Indian Air Force (IAF) reportedly faced an unprecedented setback during a high-intensity aerial engagement with the Pakistan Air Force (PAF). In this simulated or hypothetical scenario, the PAF successfully downed seven Indian aircraft, highlighting potential vulnerabilities or challenges for future strategic planning and preparedness within the Indian defence sector.",
-            "url": "https://www.fairobserver.com/region/central_south_asia/may-2025-air-war-from-assumed-superiority-to-operational-shock/",
-            "category": "Defence",
-            "date": "2026-05-06T14:09:52Z"
+            "date": "2026-05-06T17:57:20Z"
         }
     ]
 }
