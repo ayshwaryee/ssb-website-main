@@ -1,68 +1,33 @@
 {
-    "last_updated": "2026-05-09T13:05:49.704701+00:00",
+    "last_updated": "2026-05-09T18:53:49.800107+00:00",
     "articles": [
         {
-            "title": "\u2018Outlander\u2019 Star David Berry Looked To This Iconic James Bond Performance to Help Him Find Lord John\u2019s Rage in \u201cPharos\u201d: \u201cHe Has That Quiet Rage Bubbling in Him\u201d",
-            "summary": "The article describes 'Outlander' Season 8, Episode 9 'Pharos,' where characters Jamie, Claire, and William embark on a daring mission. As the penultimate episode, it builds tension and advances the fictional narrative of this historical drama television series. The episode focuses on character development and adventurous plot points in its final season storyline.",
-            "url": "https://decider.com/2026/05/08/outlander-david-berry-season-8-episode-9-pharos-lord-john-grey-interview/",
-            "category": "International",
-            "date": "2026-05-08T13:00:00Z"
-        },
-        {
-            "title": "India needs to ramps up drone production amid evolving multi-front threats",
-            "summary": "India is actively working to significantly increase its production of diverse unmanned aerial systems (drones) to align with global military trends. Recognizing drones' crucial role in modern layered combat operations, this initiative aims to enhance India's defence capabilities, reduce reliance on imports, and ensure technological parity with advanced nations, bolstering national security.",
-            "url": "https://www.thehindubusinessline.com/news/india-needs-to-ramps-up-drone-production-amid-evolving-multi-front-threats/article70955484.ece",
-            "category": "Defence",
-            "date": "2026-05-08T12:57:51Z"
-        },
-        {
-            "title": "India confirms delivery of S-400 missiles from Russia",
-            "summary": "India confirmed the dispatch of the fourth S-400 missile set from Russia, part of a crucial $5.43 billion deal. Air Marshal Awadhesh Kumar Bharti, Deputy Chief of Air Staff, confirmed this development. This acquisition significantly boosts India's air defence capabilities, enhancing national security and strategic deterrence against aerial threats, demonstrating India's commitment to modernizing its armed forces.",
-            "url": "https://www.rt.com/india/639638-india-confirms-delivery-of-s/",
-            "category": "Defence",
-            "date": "2026-05-08T12:55:45Z"
-        },
-        {
-            "title": "More on the dinner shooting",
-            "summary": "This article from American Thinker, dated May 8, 2026, briefly mentions an attempted assassination connected to a 'dinner shooting.' It highlights the existence of enhanced video footage related to the incident. However, the provided text offers no specific details regarding the individuals involved, the location of the event, or the underlying motives, leaving the broader context unknown.",
-            "url": "https://freerepublic.com/focus/f-chat/4378288/posts",
-            "category": "National",
-            "date": "2026-05-08T12:32:48Z"
-        },
-        {
-            "title": "Iran missile, drone strike leaves three injured, says UAE",
-            "summary": "The UAE confirmed an Iranian missile and drone attack resulted in three moderate injuries. Its air defence systems effectively intercepted two ballistic missiles and three Unmanned Aerial Vehicles (UAVs). This incident underscores escalating regional conflicts and the critical role of advanced air defence in protecting national interests, crucial for understanding geopolitical stability and defence preparedness.",
-            "url": "https://punchng.com/iran-missile-drone-strike-leaves-three-injured-says-uae/",
-            "category": "International",
-            "date": "2026-05-08T12:07:52Z"
-        },
-        {
-            "title": "How to Build Vector Search From Scratch in Python",
-            "summary": "Many users experience frustration when search engines return results matching keywords but missing intent, or when recommendation engines provide irrelevant suggestions. This highlights a common challenge in current technological systems regarding semantic understanding. The article likely delves into the need for more intelligent search and recommendation solutions to deliver truly meaningful information, addressing these user experience gaps.",
-            "url": "https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python",
+            "title": "edgefirst-hal 0.21.0",
+            "summary": "A website component failed to load, potentially caused by browser extensions, network issues, or specific browser settings. Users encountering this technical problem are advised to verify their internet connection, disable any ad blockers, or try using an alternative web browser to resolve the access difficulties and ensure full site functionality.",
+            "url": "https://pypi.org/project/edgefirst-hal/0.21.0/",
             "category": "Sci & Tech",
-            "date": "2026-05-08T12:00:32Z"
+            "date": "2026-05-08T18:44:06Z"
         },
         {
-            "title": "Statement by Russian Defence Ministry",
-            "summary": "The Russian Supreme Commander-in-Chief of the Armed Forces has issued a directive, effective May 8, 2026, based on humanitarian considerations. This decision, for implementation during upcoming celebratory days, likely entails a temporary measure such as a humanitarian corridor, ceasefire, or prisoner exchange. It highlights a focus on humanitarian principles affecting military actions or relief efforts during this period.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260508-russia-mod01.htm",
+            "title": "Chief of Defence Staff launches book on soldier\u2019s personal account, says \u2018book will strengthen the roots of Indian Army\u2019",
+            "summary": "The Chief of Defence Staff (CDS) recently launched a significant book compiling soldiers' personal accounts. The CDS highlighted that such narratives are vital for reinforcing the foundational roots of the Indian Army. This initiative underscores the importance of sharing service experiences, fostering deeper understanding and strengthening the bond within the armed forces, which is crucial for SSB aspirants to appreciate.",
+            "url": "https://timesofindia.indiatimes.com/city/jaipur/chief-of-defence-staff-launches-book-on-soldiers-personal-account-says-book-will-strengthen-the-roots-of-indian-army/articleshow/130965876.cms",
             "category": "Defence",
-            "date": "2026-05-08T12:00:00Z"
+            "date": "2026-05-08T18:26:08Z"
         },
         {
-            "title": "Short-duration, deep-penetration, high-intensity & high-impact, Op Sindoor showcased India's collective resolve & new military ethos: Raksha Mantri at Joint Commanders' Conference",
-            "summary": "The Ministry of Defence has urged commanders to enhance capabilities, focusing on emerging technologies like AI, autonomous systems, and data analytics. This proactive approach aims to ensure India's defence forces remain future-ready and resilient amidst ongoing geopolitical uncertainties. The emphasis is on strengthening national security and operational preparedness to effectively tackle contemporary and future challenges.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260508-india-pib03.htm",
+            "title": "India, Netherlands navies strengthen maritime cooperation with PASSEX off Kochi",
+            "summary": "The Indian Navy's INS Sharda conducted a Passage Exercise (PASSEX) with the Royal Netherlands Navy frigate HNLMS De Ruyter off Kochi on May 7. This bilateral naval drill enhances interoperability and maritime cooperation between the two navies. Such exercises are vital for strengthening international defence partnerships and ensuring maritime security, reflecting India's proactive engagement in the Indo-Pacific region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-netherlands-navies-strengthen-maritime-cooperation-with-passex-off-kochi/articleshow/130965366.cms",
             "category": "Defence",
-            "date": "2026-05-08T12:00:00Z"
+            "date": "2026-05-08T17:38:24Z"
         },
         {
-            "title": "Taiwan's parliament approves $25 bn defence spending bill",
-            "summary": "Taiwan's parliament approved a significant $25 billion defence spending bill, aimed at bolstering its military capabilities. Opposition lawmakers suggest a substantial portion will fund US weapons, reflecting ongoing efforts to strengthen Taiwan's security posture. This move follows political debate and underscores Taiwan's commitment to enhancing its defence amidst regional complexities and potential threats.",
-            "url": "https://economictimes.indiatimes.com/news/defence/taiwans-parliament-approves-25-bn-defence-spending-bill/articleshow/130959068.cms",
-            "category": "Defence",
-            "date": "2026-05-08T11:44:41Z"
+            "title": "Sarah Ferguson's secret 'friends with benefits' relationship with P. Diddy: It lasted for years, now ANDREW LOWNIE reveals illicit trysts with 'bad boy' rapper that'll have world agog",
+            "summary": "A significant development unfolded for Andrew and Sarah, involving the Royal Family. In August 2025, emails surfaced, revealing that Andrew had not severed certain contacts as previously stated. This unexpected 'reckoning' indicates a brewing scandal, potentially impacting the monarchy's image and transparency, drawing attention to royal conduct and accountability.",
+            "url": "https://www.dailymail.com/news/royals/article-15801997/sarah-ferguson-secret-friends-benefits-p-diddy.html",
+            "category": "National",
+            "date": "2026-05-08T16:19:19Z"
         }
     ]
 }
