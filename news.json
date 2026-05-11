@@ -1,40 +1,33 @@
 {
-    "last_updated": "2026-05-11T02:41:51.759263+00:00",
+    "last_updated": "2026-05-11T09:31:27.260997+00:00",
     "articles": [
         {
+            "title": "Tanya lecture/video: The Holy Epistle",
+            "summary": "This article, a class on 'Tanya/Iggeres HaKodesh - The Holy Epistle, Epistle 21', analyzes the rationale for managing annual financial pledges. It explains the reasons for dividing yearly commitments into smaller, consistent weekly or monthly payments. This guidance likely aims to facilitate regular charitable giving and adherence to religious obligations, providing practical insights into spiritual financial discipline for aspirants.",
+            "url": "https://www.israelnationalnews.com/news/426818",
+            "category": "National",
+            "date": "2026-05-10T05:02:57Z"
+        },
+        {
             "title": "Gurugram sessions court grants a 7-day remand to Punjab Minister Sanjeev Arora",
-            "summary": "Punjab Minister Sanjeev Arora has been granted a seven-day remand to the Enforcement Directorate (ED) by the Gurugram sessions court. The ED presented Arora before the court, initially seeking a 10-day remand for ongoing investigations. This development involves a state minister and a central investigative agency, highlighting legal proceedings at the national level.",
+            "summary": "Punjab Minister Sanjeev Arora has been granted a seven-day remand to the Enforcement Directorate (ED) by the Gurugram sessions court. The ED, after presenting Arora, had sought a 10-day remand for further investigation. This development involves a prominent political figure and signifies ongoing legal proceedings within the country concerning accountability.",
             "url": "https://economictimes.indiatimes.com/news/india/gurugram-sessions-court-grants-a-7-day-remand-to-punjab-minister-sanjeev-arora/articleshow/130985295.cms",
             "category": "National",
             "date": "2026-05-10T01:52:53Z"
         },
         {
-            "title": "Technology collaboration at the heart of PM Modi's Europe outreach next week",
-            "summary": "Prime Minister Modi's visit to the Netherlands aims to expand India's semiconductor partnership, focusing on collaboration with ASML, a global leader in chipmaking equipment. This initiative highlights India's strategic push for self-reliance in critical technologies. For SSB aspirants, this signifies India's commitment to strengthening its technological base and economic growth through international cooperation, crucial for national development and strategic capabilities across various sectors.",
-            "url": "https://economictimes.indiatimes.com/news/india/technology-collaboration-at-the-heart-of-pm-modis-europe-outreach-next-week/articleshow/130985286.cms",
-            "category": "International",
-            "date": "2026-05-10T01:51:09Z"
-        },
-        {
-            "title": "Putin says presented war update to India, China, US, paving way for three-day Ukraine ceasefire",
-            "summary": "Russian President Vladimir Putin has provided a situational update on the ongoing Ukraine conflict to key global powers: India, China, and the United States. This engagement signals Russia's intent to communicate directly with major nations regarding the conflict's status and future implications. For an SSB aspirant, this highlights the complex nature of international diplomacy and the strategic importance of inter-state communication amidst significant geopolitical events.",
-            "url": "https://economictimes.indiatimes.com/news/india/putin-says-presented-war-update-to-india-china-us-paving-way-for-three-day-ukraine-ceasefire/articleshow/130985146.cms",
-            "category": "International",
-            "date": "2026-05-10T01:16:52Z"
-        },
-        {
-            "title": "At Least 15 Injured in \u2018Potential Vessel Explosion\u2019 in Florida, Officials Say - The New York Times",
-            "summary": "Hal Abelson's witty quote playfully inverts Newton's famous saying, suggesting that instead of seeing further, one might feel overwhelmed or even hindered by the immense body of existing knowledge and the legacy of 'giants'. For SSB aspirants, this emphasizes critical thinking and the appreciation of intellectual context, highlighting how past achievements can both build foundations and metaphorically 'obscure' new perspectives.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183170142",
-            "category": "Sci & Tech",
-            "date": "2026-05-09T22:12:28Z"
-        },
-        {
-            "title": "The submariner-turned-top Army tech boss said the hardest thing about modernizing isn't the new tools \u2014 it's the people",
-            "summary": "The Army's former Chief Information Officer, Leonel Garciga, highlighted the significant challenges in getting military personnel to adapt to new technologies. He discussed strategies for successfully integrating advanced systems, underscoring the critical need to overcome resistance for modernizing defence capabilities. This insight is vital for ensuring effective technological leverage in military operations and enhancing national security.",
-            "url": "https://www.businessinsider.com/army-pushes-ai-but-getting-troops-to-adapt-is-harder-2026-5",
+            "title": "Fast Patrol Vessel \u2018Achal\u2019 commissioned into Coast Guard",
+            "summary": "The Fast Patrol Vessel (FPV) Achal was commissioned into the Indian Coast Guard on May 9, significantly enhancing its operational capabilities. This addition strengthens India's maritime security, crucial for coastal surveillance and protection. As the fifth vessel of its class, Achal bolsters the Coast Guard's fleet, improving its responsiveness in patrolling and search and rescue operations, vital for an SSB aspirant to understand India's defence preparedness.",
+            "url": "https://thehillstimes.in/national/fast-patrol-vessel-achal-commissioned-into-coast-guard",
             "category": "Defence",
-            "date": "2026-05-09T11:27:01Z"
+            "date": "2026-05-09T23:00:00Z"
+        },
+        {
+            "title": "Putin chides NATO in speech at scaled-back Victory Day parade",
+            "summary": "Russian President Vladimir Putin recently declared that his soldiers in Ukraine are fighting an \"aggressive force\" backed by NATO, while simultaneously asserting the \"justice\" of Russia's war goals. This statement frames the ongoing conflict as a defensive struggle against Western influence, reiterating Russia's strategic justifications amidst international pressure.",
+            "url": "https://economictimes.indiatimes.com/news/defence/putin-targets-nato-in-reduced-victory-day-parade-amid-ukraine-conflict/articleshow/130977021.cms",
+            "category": "International",
+            "date": "2026-05-09T12:14:46Z"
         }
     ]
 }
