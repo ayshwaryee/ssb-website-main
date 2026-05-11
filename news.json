@@ -1,47 +1,40 @@
 {
-    "last_updated": "2026-05-10T18:55:04.944539+00:00",
+    "last_updated": "2026-05-11T02:41:51.759263+00:00",
     "articles": [
         {
-            "title": "Defence ministry official flags maritime risks amid West Asia crisis",
-            "summary": "The provided article text solely encourages readers to engage with the platform via social media. It serves as a directive for digital interaction, rather than conveying specific news about defence, national events, international relations, or scientific advancements. Aspirants seeking current affairs should look for substantive articles, as this text offers no informational content for analysis.",
-            "url": "https://timesofindia.indiatimes.com/city/goa/defence-ministry-official-flags-maritime-risks-amid-west-asia-crisis/articleshow/130982397.cms",
-            "category": "Sci & Tech",
-            "date": "2026-05-09T18:53:21Z"
-        },
-        {
-            "title": "Bun ported to Rust in 6 days",
-            "summary": "A major software project, likely 'bun', has successfully transitioned to a Rust rewrite, with 99.8% of its existing test suite passing on Linux x64 systems. This rewrite maintains the original codebase's functionality while leveraging Rust's compiler to enforce type lifetimes, significantly enhancing memory safety and overall system reliability. It marks a successful technological migration for improved software development practices.",
-            "url": "https://xunroll.com",
-            "category": "Sci & Tech",
-            "date": "2026-05-09T18:47:58Z"
-        },
-        {
-            "title": "Dreamy Borja Iglesias finish slides Celta Vigo past Atletico Madrid and closer to European football",
-            "summary": "Celta Vigo achieved a crucial win against Atletico Madrid at the Metropolitano, significantly advancing their prospects for European football qualification next season. This result inflicted only the third home defeat on Atletico Madrid in La Liga, underscoring Celta Vigo's impactful performance and their strategic push for a spot in continental club competitions.",
-            "url": "https://www.football-espana.net/2026/05/09/dreamy-borja-iglesias-finish-slides-celta-vigo-past-atletico-madrid-and-closer-to-european-football",
-            "category": "International",
-            "date": "2026-05-09T18:35:00Z"
-        },
-        {
-            "title": "Bandu\u2019s Blockbusters for May 10, 2026",
-            "summary": "On April 1, four years ago, Bandu Barve, tired of incessant village jokes, resolved to 'turn smart.' Inspired by his deceased grandmother's voice, Barve decided to overcome personal ridicule and embark on a path of self-improvement. This pivotal decision highlights an individual's drive for change against social pressures, marking a significant personal transformation detailed further in the complete article.",
-            "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/bandus-blockbusters-for-may-10-2026/article70960276.ece",
+            "title": "Gurugram sessions court grants a 7-day remand to Punjab Minister Sanjeev Arora",
+            "summary": "Punjab Minister Sanjeev Arora has been granted a seven-day remand to the Enforcement Directorate (ED) by the Gurugram sessions court. The ED presented Arora before the court, initially seeking a 10-day remand for ongoing investigations. This development involves a state minister and a central investigative agency, highlighting legal proceedings at the national level.",
+            "url": "https://economictimes.indiatimes.com/news/india/gurugram-sessions-court-grants-a-7-day-remand-to-punjab-minister-sanjeev-arora/articleshow/130985295.cms",
             "category": "National",
-            "date": "2026-05-09T18:06:31Z"
+            "date": "2026-05-10T01:52:53Z"
         },
         {
-            "title": "Gen Raja Subramani appointed next Chief of Defence Staff",
-            "summary": "General NS Raja Subramani has been appointed as India's next Chief of Defence Staff (CDS). Known for his significant contributions to streamlining capital procurements and championing the 'Make in India' initiative within the defence sector, he will assume the crucial role of the nation's top military officer. This appointment signifies a continued focus on indigenous defence capabilities and strategic leadership.",
-            "url": "https://economictimes.indiatimes.com/news/defence/gen-raja-subramani-appointed-next-chief-of-defence-staff/articleshow/130981631.cms",
-            "category": "Defence",
-            "date": "2026-05-09T17:36:58Z"
-        },
-        {
-            "title": "PETER HITCHENS: Hurrah! The corpse parties are finished - but they have been replaced by bad jokes",
-            "summary": "This article critically views the UK's Labour and Conservative parties, suggesting they've been politically stagnant for nearly two decades. Described as \"corpses stiff with rigor mortis,\" they are depicted as failing to genuinely represent the populace's diverse interests. The commentary expresses deep dissatisfaction with the traditional two-party system's efficacy and responsiveness to public needs.",
-            "url": "https://www.dailymail.com/columnists/article-15804123/PETER-HITCHENS-hurrah-corpse-parties-bad-jokes.html",
+            "title": "Technology collaboration at the heart of PM Modi's Europe outreach next week",
+            "summary": "Prime Minister Modi's visit to the Netherlands aims to expand India's semiconductor partnership, focusing on collaboration with ASML, a global leader in chipmaking equipment. This initiative highlights India's strategic push for self-reliance in critical technologies. For SSB aspirants, this signifies India's commitment to strengthening its technological base and economic growth through international cooperation, crucial for national development and strategic capabilities across various sectors.",
+            "url": "https://economictimes.indiatimes.com/news/india/technology-collaboration-at-the-heart-of-pm-modis-europe-outreach-next-week/articleshow/130985286.cms",
             "category": "International",
-            "date": "2026-05-09T15:41:01Z"
+            "date": "2026-05-10T01:51:09Z"
+        },
+        {
+            "title": "Putin says presented war update to India, China, US, paving way for three-day Ukraine ceasefire",
+            "summary": "Russian President Vladimir Putin has provided a situational update on the ongoing Ukraine conflict to key global powers: India, China, and the United States. This engagement signals Russia's intent to communicate directly with major nations regarding the conflict's status and future implications. For an SSB aspirant, this highlights the complex nature of international diplomacy and the strategic importance of inter-state communication amidst significant geopolitical events.",
+            "url": "https://economictimes.indiatimes.com/news/india/putin-says-presented-war-update-to-india-china-us-paving-way-for-three-day-ukraine-ceasefire/articleshow/130985146.cms",
+            "category": "International",
+            "date": "2026-05-10T01:16:52Z"
+        },
+        {
+            "title": "At Least 15 Injured in \u2018Potential Vessel Explosion\u2019 in Florida, Officials Say - The New York Times",
+            "summary": "Hal Abelson's witty quote playfully inverts Newton's famous saying, suggesting that instead of seeing further, one might feel overwhelmed or even hindered by the immense body of existing knowledge and the legacy of 'giants'. For SSB aspirants, this emphasizes critical thinking and the appreciation of intellectual context, highlighting how past achievements can both build foundations and metaphorically 'obscure' new perspectives.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183170142",
+            "category": "Sci & Tech",
+            "date": "2026-05-09T22:12:28Z"
+        },
+        {
+            "title": "The submariner-turned-top Army tech boss said the hardest thing about modernizing isn't the new tools \u2014 it's the people",
+            "summary": "The Army's former Chief Information Officer, Leonel Garciga, highlighted the significant challenges in getting military personnel to adapt to new technologies. He discussed strategies for successfully integrating advanced systems, underscoring the critical need to overcome resistance for modernizing defence capabilities. This insight is vital for ensuring effective technological leverage in military operations and enhancing national security.",
+            "url": "https://www.businessinsider.com/army-pushes-ai-but-getting-troops-to-adapt-is-harder-2026-5",
+            "category": "Defence",
+            "date": "2026-05-09T11:27:01Z"
         }
     ]
 }
