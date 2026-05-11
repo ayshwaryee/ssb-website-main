@@ -1,33 +1,61 @@
 {
-    "last_updated": "2026-05-11T09:31:27.260997+00:00",
+    "last_updated": "2026-05-11T14:38:20.508890+00:00",
     "articles": [
         {
-            "title": "Tanya lecture/video: The Holy Epistle",
-            "summary": "This article, a class on 'Tanya/Iggeres HaKodesh - The Holy Epistle, Epistle 21', analyzes the rationale for managing annual financial pledges. It explains the reasons for dividing yearly commitments into smaller, consistent weekly or monthly payments. This guidance likely aims to facilitate regular charitable giving and adherence to religious obligations, providing practical insights into spiritual financial discipline for aspirants.",
-            "url": "https://www.israelnationalnews.com/news/426818",
-            "category": "National",
-            "date": "2026-05-10T05:02:57Z"
-        },
-        {
-            "title": "Gurugram sessions court grants a 7-day remand to Punjab Minister Sanjeev Arora",
-            "summary": "Punjab Minister Sanjeev Arora has been granted a seven-day remand to the Enforcement Directorate (ED) by the Gurugram sessions court. The ED, after presenting Arora, had sought a 10-day remand for further investigation. This development involves a prominent political figure and signifies ongoing legal proceedings within the country concerning accountability.",
-            "url": "https://economictimes.indiatimes.com/news/india/gurugram-sessions-court-grants-a-7-day-remand-to-punjab-minister-sanjeev-arora/articleshow/130985295.cms",
-            "category": "National",
-            "date": "2026-05-10T01:52:53Z"
-        },
-        {
-            "title": "Fast Patrol Vessel \u2018Achal\u2019 commissioned into Coast Guard",
-            "summary": "The Fast Patrol Vessel (FPV) Achal was commissioned into the Indian Coast Guard on May 9, significantly enhancing its operational capabilities. This addition strengthens India's maritime security, crucial for coastal surveillance and protection. As the fifth vessel of its class, Achal bolsters the Coast Guard's fleet, improving its responsiveness in patrolling and search and rescue operations, vital for an SSB aspirant to understand India's defence preparedness.",
-            "url": "https://thehillstimes.in/national/fast-patrol-vessel-achal-commissioned-into-coast-guard",
+            "title": "Drones target Gulf vessels as Iran warns US",
+            "summary": "Drones launched in the Gulf on Sunday struck multiple targets, including a freighter en route to Qatar. This incident follows Tehran's warning to the United States, signaling a potential escalation of tensions and a shift from restraint in retaliatory actions. SSB aspirants should note the implications for maritime security, international shipping lanes, and regional stability in this critical waterway.",
+            "url": "https://punchng.com/drones-target-gulf-vessels-as-iran-warns-us/",
             "category": "Defence",
-            "date": "2026-05-09T23:00:00Z"
+            "date": "2026-05-10T14:36:50Z"
         },
         {
-            "title": "Putin chides NATO in speech at scaled-back Victory Day parade",
-            "summary": "Russian President Vladimir Putin recently declared that his soldiers in Ukraine are fighting an \"aggressive force\" backed by NATO, while simultaneously asserting the \"justice\" of Russia's war goals. This statement frames the ongoing conflict as a defensive struggle against Western influence, reiterating Russia's strategic justifications amidst international pressure.",
-            "url": "https://economictimes.indiatimes.com/news/defence/putin-targets-nato-in-reduced-victory-day-parade-amid-ukraine-conflict/articleshow/130977021.cms",
+            "title": "Rolls Royce expands sourcing, eyes make in India opportunities",
+            "summary": "Rolls-Royce has inaugurated its third co-owned manufacturing unit in Hosur, India, to significantly increase its sourcing of high-precision aero-engine components. This expansion strengthens India's indigenous manufacturing capabilities in critical aerospace parts, enhancing its role in the global supply chain. The move supports both commercial and potentially military aviation sectors, fostering advanced engineering and skill development within the nation's industrial base.",
+            "url": "https://www.thehindubusinessline.com/companies/rolls-royce-expands-sourcing-eyes-make-in-india-opportunities/article70962702.ece",
+            "category": "Defence",
+            "date": "2026-05-10T14:28:19Z"
+        },
+        {
+            "title": "MALCOLM IN THE MIDDLE Revival Star Caleb Ellsworth-Clark Talks About the Pressure of Replacing Original Dewey Actor",
+            "summary": "The popular TV series 'Malcolm in the Middle' has received a reboot, 'Life's Still Unfair,' now on screens. Fans are reportedly excited to see the wacky family reunite after many years. However, reports indicate that at least one original cast member is not participating in this long-awaited reunion.",
+            "url": "https://geektyrant.com/news/malcolm-in-the-middle-revival-star-caleb-ellsworth-clark-talks-about-the-pressure-of-replacing-original-dewey-actor",
+            "category": "National",
+            "date": "2026-05-10T14:04:00Z"
+        },
+        {
+            "title": "Wreck of deadliest US naval loss of World War I found after more than a century: 'Lost with all hands'",
+            "summary": "American officials have announced the discovery of the wreck of the Coast Guard cutter Tampa. Its sinking during World War I marked the deadliest U.S. naval combat loss of the war. This significant finding sheds light on a historical maritime tragedy, offering closure and a deeper understanding of the sacrifices made by the US military, particularly the Coast Guard's role in the Great War.",
+            "url": "https://www.foxnews.com/travel/wreck-deadliest-us-naval-loss-world-war-found-century-lost-hands",
+            "category": "Defence",
+            "date": "2026-05-10T14:00:05Z"
+        },
+        {
+            "title": "Recipe: Lemon\u00a0Marinated Pork",
+            "summary": "Mrs. Alaska from SurvivalBlog shared a Lemon Marinated Pork recipe, detailing its preparation by combining lemon zest, juice, and other ingredients in a zip-loc bag. This practical method for flavoring and potentially preserving meat can be beneficial for self-sufficiency and field cooking scenarios, aligning with principles often discussed in survivalist contexts.",
+            "url": "https://survivalblog.com/2026/05/11/recipe-lemon-marinated-pork/",
+            "category": "Defence",
+            "date": "2026-05-10T13:56:18Z"
+        },
+        {
+            "title": "India\u2019s policy push to boost aerospace manufacturing: Thales",
+            "summary": "Global aerospace and defence major Thales anticipates significant growth in India, driven by proposed policy support for aero component manufacturing, increased national defence expenditure, and expanding aviation infrastructure. These factors are expected to strengthen Thales' footprint, highlighting India's evolving defence market and push towards self-reliance in aerospace, presenting opportunities for aspirants in related fields.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/indias-policy-push-to-boost-aerospace-manufacturing-thales/article70962409.ece",
+            "category": "Defence",
+            "date": "2026-05-10T13:22:25Z"
+        },
+        {
+            "title": "Green Bay area high school sports results for Saturday, May 9",
+            "summary": "The Pirates secured a dominant sweep in the Fox River Classic Conference doubleheader. They won the opening game 3-1 in eight innings, followed by an 11-8 victory in the second match. Parker Lawson delivered a complete game in the opener, contributing significantly to the team's successful performance in Manitowoc.",
+            "url": "https://www.greenbaypressgazette.com/story/sports/high-school/2026/05/10/green-bay-area-high-school-sports-results-for-saturday-may-9/90017712007/",
+            "category": "National",
+            "date": "2026-05-10T12:36:03Z"
+        },
+        {
+            "title": "Iran ceasefire under threat after cargo ship set on fire while 'hostile drones' enter Kuwait",
+            "summary": "A cargo ship caught fire off Qatar's coast after being hit by an unknown projectile, severely threatening a fragile regional ceasefire. This escalation, also noted by Kuwait's military detecting activity, underscores the volatile security landscape in the Gulf. For SSB aspirants, this highlights the critical importance of maritime security and the complexities of international geopolitics in maintaining global stability.",
+            "url": "https://www.dailymail.com/news/article-15805437/Iran-ceasefire-threat-cargo-ship-set-fire-hostile-drones-enter-Kuwait.html",
             "category": "International",
-            "date": "2026-05-09T12:14:46Z"
+            "date": "2026-05-10T12:33:21Z"
         }
     ]
 }
