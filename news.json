@@ -1,40 +1,68 @@
 {
-    "last_updated": "2026-05-13T02:41:19.629933+00:00",
+    "last_updated": "2026-05-13T08:38:03.452741+00:00",
     "articles": [
         {
-            "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
-            "summary": "An individual tasked an advanced AI model, Claude Code Opus 4.7, with fixing typos on Fandom wikis. Intriguingly, the AI reportedly generated approximately 3,000 lines of code to accomplish this task. This anecdote highlights the current development approach of AI models in programming, often leading to extensive code generation even for seemingly simple problems, offering insights into AI's practical application.",
-            "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
-            "category": "Sci & Tech",
-            "date": "2026-05-12T02:22:04Z"
-        },
-        {
-            "title": "Iran deploys mini subs in Hormuz, escalating US naval standoff",
-            "summary": "Market predictions show declining confidence (from 42% to 35.5%) that Strait of Hormuz traffic will normalize by end of June. Another prediction involves 20 ships transiting daily by May 31. This indicates financial market speculation regarding shipping activity and stability in the vital Strait, a key global chokepoint.",
-            "url": "https://cryptobriefing.com/iran-deploys-mini-subs-in-hormuz-escalating-us-naval-standoff/",
+            "title": "Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires",
+            "summary": "Russia and Ukraine resumed intense air attacks following the expiry of a US-brokered three-day truce. Ukrainian President Zelenskyy reported over 200 drones targeted Ukraine overnight, marking a significant escalation. This highlights the persistent aerial warfare tactics and the immense challenges in achieving lasting peace in the ongoing conflict, crucial for understanding global defence dynamics.",
+            "url": "https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires",
             "category": "International",
-            "date": "2026-05-12T01:22:59Z"
+            "date": "2026-05-12T08:34:46Z"
         },
         {
-            "title": "Army gets DRDO-developed kamikaze drone & UAV-launched precision munition systems from Adani Defence",
-            "summary": "The Indian Army has significantly boosted its defence capabilities by acquiring advanced systems. These include DRDO-developed kamikaze drones and UAV-launched precision munition systems, supplied by Adani Defence. This strategic acquisition enhances the Army's operational precision, provides critical indigenous loitering munition capabilities, and is crucial for modern warfare scenarios, thereby strengthening national security and self-reliance in defence technology.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/army-gets-drdo-developed-kamikaze-drone-uav-launched-precision-munition-systems-from-adani-defence/articleshow/131026247.cms",
+            "title": "Quality consciousness key to global competitiveness, says consumer affairs secretary",
+            "summary": "Consumer Affairs Secretary Nidhi Khare emphasized the critical need for Indian manufacturers to embed quality consciousness in their operations to compete effectively in global markets. This strategic focus aims to boost India's economic competitiveness and enhance the 'Brand India' image internationally. The push for quality aligns with national goals to strengthen manufacturing capabilities and secure a stronger foothold in the global economy, promoting exports and overall growth.",
+            "url": "https://economictimes.indiatimes.com/news/india/quality-consciousness-key-to-global-competitiveness-says-consumer-affairs-secretary/articleshow/131033683.cms",
+            "category": "National",
+            "date": "2026-05-12T08:33:39Z"
+        },
+        {
+            "title": "Cast your vote for the Oshkosh and Fond du Lac Athlete of the Week",
+            "summary": "This article details the Oshkosh and Fond du Lac Athlete of the Week poll, covering performances from May 4-10. Voting is open until Friday, May 15, for community members to select local athletes excelling in sports like baseball and boys golf. Such local engagement highlights community participation, a valuable aspect of societal cohesion.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/2026/05/12/oshkosh-fond-du-lac-athlete-of-the-week-poll-now-live/89888579007/",
+            "category": "National",
+            "date": "2026-05-12T08:01:25Z"
+        },
+        {
+            "title": "Shoppers Are Ready for AI to Steer the Cart, Not Swipe the Card",
+            "summary": "New research highlights the dual nature of digital assistants. While convenient for tasks like grocery shopping, they present significant risks, including potential identity theft and unauthorized access to bank accounts. This underscores the growing cybersecurity challenges associated with advanced digital technologies. SSB aspirants should be mindful of these evolving threats and the critical importance of robust security measures in an increasingly digitalized society.",
+            "url": "https://www.pymnts.com/news/retail/2026/shoppers-are-ready-for-ai-to-steer-the-cart-not-swipe-the-card/",
+            "category": "Sci & Tech",
+            "date": "2026-05-12T08:00:23Z"
+        },
+        {
+            "title": "A Russian ship sank in mysterious circumstances. It may have been carrying submarine nuclear reactors to North Korea - CNN",
+            "summary": "This text serves as a crucial disclaimer, informing users that the platform disclaims responsibility for comments posted by individuals. It clarifies that ownership and accountability for user-generated content reside solely with the original posters. This policy is essential for understanding content moderation and legal liabilities on digital forums, highlighting user responsibility in online interactions.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183194688",
+            "category": "Sci & Tech",
+            "date": "2026-05-12T07:33:07Z"
+        },
+        {
+            "title": "Starving on the front lines: Food supply in crisis as Ukraine fights Russia",
+            "summary": "Photos of four emaciated Ukrainian soldiers, reportedly starving on the front line for up to 17 days due to lack of food deliveries, sparked significant outrage in Ukraine. This incident in late April brought critical issues regarding military logistics and troop welfare during the ongoing conflict into sharp focus, prompting calls for immediate improvements in frontline support.",
+            "url": "https://www.aljazeera.com/news/2026/5/12/with-drone-dropped-food-on-ukraines-frontline-do-soldiers-starve",
             "category": "Defence",
-            "date": "2026-05-12T01:14:55Z"
+            "date": "2026-05-12T07:16:50Z"
         },
         {
-            "title": "edgefirst-hal 0.22.0",
-            "summary": "The provided text is an error message, not a news article. It indicates a website component failed to load, potentially due to browser extensions, network problems, or browser settings. Users are advised to check their internet connection, disable ad blockers, or try an alternative browser to resolve the issue and ensure proper site functionality for an optimal user experience.",
-            "url": "https://pypi.org/project/edgefirst-hal/0.22.0/",
-            "category": "Sci & Tech",
-            "date": "2026-05-12T00:25:34Z"
-        },
-        {
-            "title": "Russia, Ukraine trade blame for continued fighting as US-brokered ceasefire nears its end",
-            "summary": "A US-brokered 72-hour ceasefire between Russia and Ukraine faced expiry on Monday, with both sides levelling accusations of breaches. This critical development underscores the deep-seated mistrust and persistent conflict dynamics in the region. American and European officials are actively deliberating future strategies, highlighting international efforts amidst the ongoing geopolitical tensions.",
-            "url": "https://economictimes.indiatimes.com/news/defence/russia-ukraine-trade-blame-for-continued-fighting-as-us-brokered-ceasefire-nears-its-end/articleshow/131013592.cms",
+            "title": "Russia, Ukraine resume strikes as truce expires, one dead: authorities",
+            "summary": "Russia has resumed its offensive against Ukraine following the expiration of a three-day truce. Ukrainian authorities reported drone attacks on the capital, Kyiv, and the death of one person in the eastern Dnipropetrovsk region. This escalation marks the continuation of the conflict, highlighting the ongoing geopolitical tensions and the human cost of the war between the two nations.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-ukraine-conflict-escalates-strikes-resume-as-truce-ends-casualties-reported/articleshow/131030127.cms",
             "category": "International",
-            "date": "2026-05-11T12:10:29Z"
+            "date": "2026-05-12T06:18:42Z"
+        },
+        {
+            "title": "Russia, Ukraine resume strikes as truce expires",
+            "summary": "Russia has resumed military strikes on Ukraine following the expiration of a three-day truce, according to Ukrainian authorities. The capital, Kyiv, faced drone attacks, and one fatality was reported in the eastern Dnipropetrovsk region. This development signifies a renewed escalation in the ongoing conflict, highlighting the volatile geopolitical situation and the continued humanitarian impact of the war.",
+            "url": "https://www.rte.ie/news/ukraine/2026/0512/1572898-ukraine-russia/",
+            "category": "International",
+            "date": "2026-05-12T06:15:54Z"
+        },
+        {
+            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Finding Hope in Grief - Tuesday, May 12, 2026",
+            "summary": "The 'My Catholic Life!' platform announced a Catholic daily reflection, 'Finding Hope in Grief,' for Tuesday, May 12, 2026. Available on YouTube, this devotional aims to offer spiritual comfort and guidance. Though not a geopolitical update, it represents ongoing global religious content designed to support individuals facing personal challenges and grief.",
+            "url": "https://freerepublic.com/focus/f-religion/4378817/posts",
+            "category": "International",
+            "date": "2026-05-12T05:15:12Z"
         }
     ]
 }
