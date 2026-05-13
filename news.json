@@ -1,54 +1,40 @@
 {
-    "last_updated": "2026-05-12T19:43:33.622248+00:00",
+    "last_updated": "2026-05-13T02:41:19.629933+00:00",
     "articles": [
         {
-            "title": "176-Mile 1991 Chevrolet Camaro Z28 1LE Coupe",
-            "summary": "A 1991 Chevrolet Camaro Z28 coupe, showing just 176 miles, has been remarkably preserved by its original owner in a barn since new. Significant maintenance, costing over $10,000, was reportedly carried out in February 2026. This exceptionally low-mileage classic American muscle car highlights automotive preservation and collector value for vintage vehicles.",
-            "url": "https://bringatrailer.com/listing/1991-chevrolet-camaro-z28-coupe-15/",
+            "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+            "summary": "An individual tasked an advanced AI model, Claude Code Opus 4.7, with fixing typos on Fandom wikis. Intriguingly, the AI reportedly generated approximately 3,000 lines of code to accomplish this task. This anecdote highlights the current development approach of AI models in programming, often leading to extensive code generation even for seemingly simple problems, offering insights into AI's practical application.",
+            "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
             "category": "Sci & Tech",
-            "date": "2026-05-11T19:40:16Z"
+            "date": "2026-05-12T02:22:04Z"
         },
         {
-            "title": "No plan to hike gold import duty despite Modi's appeal to skip buying, says government official",
-            "summary": "India's government confirmed on Monday it has no plans to increase import duties on gold and silver. This statement, from a government official, follows Prime Minister Narendra Modi's recent appeal to citizens. The decision maintains current import policies, impacting domestic gold demand and economic stability, reflecting a strategic approach to managing imports and national resources.",
-            "url": "https://economictimes.indiatimes.com/news/india/no-plan-to-hike-gold-import-duty-despite-modis-appeal-to-skip-buying/articleshow/131026016.cms",
-            "category": "National",
-            "date": "2026-05-11T19:23:01Z"
+            "title": "Iran deploys mini subs in Hormuz, escalating US naval standoff",
+            "summary": "Market predictions show declining confidence (from 42% to 35.5%) that Strait of Hormuz traffic will normalize by end of June. Another prediction involves 20 ships transiting daily by May 31. This indicates financial market speculation regarding shipping activity and stability in the vital Strait, a key global chokepoint.",
+            "url": "https://cryptobriefing.com/iran-deploys-mini-subs-in-hormuz-escalating-us-naval-standoff/",
+            "category": "International",
+            "date": "2026-05-12T01:22:59Z"
         },
         {
-            "title": "No plan to hike gold import duty despite Modi's appeal to skip buying, says government official",
-            "summary": "India's government has confirmed there are no immediate plans to increase import duties on gold and silver, according to a government official. This statement clarifies the nation's stance on precious metal imports and comes shortly after Prime Minister Narendra Modi's appeal to citizens regarding economic considerations. This policy decision holds significance for India's trade balance and domestic precious metals market.",
-            "url": "https://economictimes.indiatimes.com/news/india/no-plan-to-hike-gold-import-duty-despite-modis-appeal-to-skip-buying/articleshow/131022999.cms",
-            "category": "National",
-            "date": "2026-05-11T19:23:01Z"
-        },
-        {
-            "title": "Tri-service women crew nears historic global sail homecoming",
-            "summary": "An IDF convoy was reportedly struck by a Hezbollah drone amidst ongoing fighting in Lebanon. A subsequent rescue attempt faced complications as a helicopter malfunctioned. This incident underscores the escalating tensions and operational challenges in the region, providing crucial insights into modern military engagements for SSB aspirants.",
-            "url": "https://timesofindia.indiatimes.com/city/goa/tri-service-women-crew-nears-historic-global-sail-homecoming/articleshow/131022623.cms",
+            "title": "Army gets DRDO-developed kamikaze drone & UAV-launched precision munition systems from Adani Defence",
+            "summary": "The Indian Army has significantly boosted its defence capabilities by acquiring advanced systems. These include DRDO-developed kamikaze drones and UAV-launched precision munition systems, supplied by Adani Defence. This strategic acquisition enhances the Army's operational precision, provides critical indigenous loitering munition capabilities, and is crucial for modern warfare scenarios, thereby strengthening national security and self-reliance in defence technology.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/army-gets-drdo-developed-kamikaze-drone-uav-launched-precision-munition-systems-from-adani-defence/articleshow/131026247.cms",
             "category": "Defence",
-            "date": "2026-05-11T18:54:46Z"
+            "date": "2026-05-12T01:14:55Z"
         },
         {
-            "title": "At least 352,000 Russian soldiers have died fighting Ukraine: report",
-            "summary": "A recent investigation estimates that by the end of 2025, the ongoing conflict between Russia and Ukraine will have resulted in at least 352,000 Russian soldier fatalities. This significant casualty figure highlights the immense human cost and scale of the war, underscoring the severe implications of prolonged international conflicts for defence forces and geopolitical stability.",
-            "url": "https://nationalpost.com/news/world/at-least-352000-russian-soldiers-have-died-fighting-ukraine-report",
+            "title": "edgefirst-hal 0.22.0",
+            "summary": "The provided text is an error message, not a news article. It indicates a website component failed to load, potentially due to browser extensions, network problems, or browser settings. Users are advised to check their internet connection, disable ad blockers, or try an alternative browser to resolve the issue and ensure proper site functionality for an optimal user experience.",
+            "url": "https://pypi.org/project/edgefirst-hal/0.22.0/",
+            "category": "Sci & Tech",
+            "date": "2026-05-12T00:25:34Z"
+        },
+        {
+            "title": "Russia, Ukraine trade blame for continued fighting as US-brokered ceasefire nears its end",
+            "summary": "A US-brokered 72-hour ceasefire between Russia and Ukraine faced expiry on Monday, with both sides levelling accusations of breaches. This critical development underscores the deep-seated mistrust and persistent conflict dynamics in the region. American and European officials are actively deliberating future strategies, highlighting international efforts amidst the ongoing geopolitical tensions.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-ukraine-trade-blame-for-continued-fighting-as-us-brokered-ceasefire-nears-its-end/articleshow/131013592.cms",
             "category": "International",
-            "date": "2026-05-11T18:44:10Z"
-        },
-        {
-            "title": "Ukraine's Zelenskiy: Russia has no intention of ending this war",
-            "summary": "Ukrainian President Volodymyr Zelenskiy stated Russia shows no intention of ending the over four-year-old conflict with Ukraine. Zelenskiy emphasized Kyiv is actively preparing for further escalation, highlighting the ongoing geopolitical tensions. This indicates a prolonged struggle, requiring Ukraine to maintain readiness amidst sustained Russian aggression and international uncertainty regarding a resolution.",
-            "url": "https://www.yahoo.com/news/articles/ukraine-reports-russian-attacks-battlefield-073958754.html",
-            "category": "International",
-            "date": "2026-05-11T18:42:02Z"
-        },
-        {
-            "title": "Ranking The 18 Best And Worst Golf Clubs To Host Multiple PGA Championships",
-            "summary": "The Aronimink Golf Club in Newtown, Pennsylvania, is currently hosting its second PGA Championship. This article will delve into an analysis of the best and worst golf moments associated with this significant tournament. Aspiring towards excellence, participants will compete fiercely, reflecting the high standards expected in professional golf championships. Further specific details on these moments or performances are not elaborated in this initial excerpt.",
-            "url": "https://brobible.com/sports/article/ranking-18-best-courses-host-multiple-pga-championships/",
-            "category": "National",
-            "date": "2026-05-11T16:04:08Z"
+            "date": "2026-05-11T12:10:29Z"
         }
     ]
 }
