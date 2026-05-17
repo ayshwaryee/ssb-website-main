@@ -1,68 +1,54 @@
 {
-    "last_updated": "2026-05-17T13:08:50.562898+00:00",
+    "last_updated": "2026-05-17T19:02:23.049090+00:00",
     "articles": [
         {
-            "title": "Four species of aliens have been pulled from crashed UFOs: ex-government researcher",
-            "summary": "A former CIA-funded government researcher, Dr. Hal Puthoff, sensationally claimed this week that the US has recovered four distinct species of extraterrestrial life from crashed UFOs. This assertion from a figure involved in advanced aerospace research sparks significant debate regarding potential contact and the existence of alien life, with profound implications if substantiated.",
-            "url": "https://nypost.com/2026/05/16/us-news/four-species-of-aliens-have-been-pulled-from-crashed-ufos-ex-government-researcher-claims/",
+            "title": "Moving away from Tailwind, and learning to structure my CSS | Hacker News",
+            "summary": "Many websites are needlessly developed as complex applications, often as Single Page Applications (SPAs), when their core purpose is simply to provide information. This trend leads to unnecessary requirements and increased complexity, suggesting a need for more practical and efficient web design that aligns with the actual function of a site, rather than over-engineering.",
+            "url": "https://news.ycombinator.com/item?id=48158400",
             "category": "Sci & Tech",
-            "date": "2026-05-16T12:50:55Z"
+            "date": "2026-05-16T18:24:23Z"
         },
         {
-            "title": "6 Movies That Warned Us About AI",
-            "summary": "This Blaze Media article examines six movies that have depicted warnings and potential dangers related to Artificial Intelligence. For SSB aspirants, understanding how popular culture interprets emerging technologies like AI, including its ethical and societal challenges, is crucial. This insight aids current affairs discussions and general awareness of technology's broader impact.",
-            "url": "https://freerepublic.com/focus/f-chat/4379534/posts",
+            "title": "Re: Recent Kernel exploits, attack surface reduction, example IPSEC",
+            "summary": "An oss-sec mailing list discussion reveals multiple recent kernel exploits affecting the \"esp\" component. This highlights ongoing vulnerabilities in operating system kernels, underscoring the critical need for continuous vigilance and robust cybersecurity measures. For SSB aspirants, this emphasizes the importance of understanding tech security challenges that can impact national digital infrastructure and data integrity.",
+            "url": "https://seclists.org/oss-sec/2026/q2/561",
             "category": "Sci & Tech",
-            "date": "2026-05-16T12:37:49Z"
+            "date": "2026-05-16T18:20:59Z"
         },
         {
-            "title": "India's aspirations 'no longer limited to its borders': PM Narendra Modi to diaspora in Netherlands",
-            "summary": "Prime Minister Narendra Modi, during his visit to The Hague, characterized India as a \"land of opportunities\" experiencing an \"unprecedented transformation.\" He emphasized the nation's rising aspirations, indicating a dynamic period of growth and development. This statement highlights India's evolving global stature and domestic potential, crucial for SSB aspirants to understand the national narrative and economic landscape.",
-            "url": "https://economictimes.indiatimes.com/news/india/indias-aspirations-no-longer-limited-to-its-borders-pm-narendra-modi-to-diaspora-in-netherlands/articleshow/131137332.cms",
+            "title": "How China's Sub-Sea Mega-Cable is Reshaping Asia's Digital Map",
+            "summary": "A new project, likely referring to the ALC, is poised to significantly enhance cloud computing, AI data flows, and cross-border digital trade across Southeast Asia. This initiative, coupled with other new routes, aims to strengthen Asia's independent digital backbone, fostering improved regional connectivity and digital economic growth.",
+            "url": "https://sputnikglobe.com/20260516/how-chinas-sub-sea-mega-cable-is-reshaping-asias-digital-map-1124135757.html",
+            "category": "Sci & Tech",
+            "date": "2026-05-16T18:09:01Z"
+        },
+        {
+            "title": "EE In-Stock Alert: Beast Kingdom DC Comics 90th Anniversary Justice League DAH Figures",
+            "summary": "The provided text expresses a personal preference for Wally West as 'Flash' over Barry Allen, specifically referencing the 'Justice League' and 'Justice League Unlimited' animated shows as a key influence. The author appreciates the character's metallic finish and acknowledges Barry Allen's popularity, but identifies strongly with the Wally West portrayal from their upbringing in animated series.",
+            "url": "https://toynewsi.com/462-63643",
+            "category": "Sci & Tech",
+            "date": "2026-05-16T17:05:31Z"
+        },
+        {
+            "title": "Karnataka high court sets aside lookout circular against driver working in Saudi Arabia",
+            "summary": "The Karnataka High Court recently made a significant ruling, setting aside a lookout circular (LOC) that had been issued against an Indian driver. This individual is currently employed and residing in Saudi Arabia. The court's decision provides relief, allowing the driver freedom from the restrictions imposed by the LOC, highlighting judicial intervention in cases affecting citizens working abroad.",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-high-court-sets-aside-lookout-circular-against-driver-working-in-saudi-arabia/articleshow/131141432.cms",
             "category": "National",
-            "date": "2026-05-16T12:24:00Z"
+            "date": "2026-05-16T16:28:04Z"
         },
         {
-            "title": "Russian Defence Minister congratulates servicemen of 121st Motorised Rifle Regiment on liberation of Kutkovka (Kharkov region)",
-            "summary": "Russian Defence Minister Andrei Belousov congratulated the 121st Motorised Rifle Regiment for liberating Kutkovka in Ukraine's Kharkov region. This military action signifies ongoing developments in the conflict zone, where Russian forces claim operational successes. For SSB aspirants, understanding such international defence developments is vital for grasping geopolitical strategies and current affairs related to global security.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260516-russia-mod01.htm",
+            "title": "Indian Army internships see 1 lakh applicants for 100 positions, says Army Chief",
+            "summary": "The Indian Army has received over one lakh applications for just 100 internship positions for children, offered at its headquarters and various workshops. This overwhelming response highlights immense public interest and the Army's successful outreach efforts to engage youth. The highly competitive initiative underscores the strong bond between the armed forces and society, fostering future generations' understanding and connection with the military.",
+            "url": "https://www.thehindubusinessline.com/news/indian-army-internships-see-1-lakh-applicants-for-100-positions-says-army-chief/article70987625.ece",
             "category": "Defence",
-            "date": "2026-05-16T12:00:00Z"
+            "date": "2026-05-16T15:06:21Z"
         },
         {
-            "title": "Chief of the General Staff of the Russian Armed Forces inspects Zapad Group of Forces",
-            "summary": "On May 16, 2026, General Valery Gerasimov, Chief of the General Staff and First Deputy Minister of Defence of the Russian Federation, reportedly conducted an inspection. This senior Russian military official's activities often involve assessing troop readiness, operational effectiveness, or strategic deployments, crucial for maintaining the nation's defence capabilities and command structure.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260516-russia-mod02.htm",
+            "title": "10 Most Powerful Green Lantern Villains, Ranked",
+            "summary": "The Green Lantern Corps, an iconic DC Comics entity, functions as an intergalactic defence and policing force. Comprising thousands of members, including Earth's heroes, they wield advanced power rings harnessing willpower to enforce justice and protect the universe. This formidable collective represents a structured organization tasked with maintaining peace and order against cosmic threats.",
+            "url": "http://comicbook.com/comics/list/10-most-powerful-green-lantern-villains-ranked/",
             "category": "Defence",
-            "date": "2026-05-16T12:00:00Z"
-        },
-        {
-            "title": "Putin's four horsemen of the apocalypse: A nuke that orbits earth before striking anywhere, a torpedo that sparks radioactive tsunamis, a 14-storey high mega missile and Star Wars space weapon",
-            "summary": "Reports indicate Russian President Vladimir Putin is quietly developing a terrifying arsenal of 'superweapons.' These advanced military capabilities, being assembled deep within Russia's defense apparatus, are speculated to possess immense destructive power, potentially capable of coercing or overpowering nations. This development highlights ongoing global strategic shifts and the continuous pursuit of advanced military deterrence capabilities by major powers.",
-            "url": "https://www.dailymail.com/news/article-15811579/Putins-four-horsemen-apocalypse-nuke-orbits-earth-striking-torpedo-sparks-radioactive-tsunamis-14-storey-high-mega-missile-Star-Wars-space-weapon.html",
-            "category": "Defence",
-            "date": "2026-05-16T11:53:09Z"
-        },
-        {
-            "title": "Telangana cops issue Look Out Circular against Union Minister Bandi Sanjay\u2019s son in POCSO case",
-            "summary": "Telangana Police have issued a Look Out Circular (LoC) against Bandi Sai Bhageerath, son of Union Minister of State for Home Bandi Sanjay Kumar. The LoC is in connection with a POCSO case registered against him. This development signals a significant legal action involving a high-profile political family member, underscoring ongoing efforts in law enforcement.",
-            "url": "https://indianexpress.com/article/cities/hyderabad/telangana-police-loc-union-minister-bandi-sanjay-son-sai-bhageerath-pocso-10692730/",
-            "category": "National",
-            "date": "2026-05-16T09:52:01Z"
-        },
-        {
-            "title": "Delhi High Court asks CCI not to pass final orders in Apple investigation",
-            "summary": "The Delhi High Court has instructed the Competition Commission of India (CCI) to halt final orders in its ongoing probe against Apple. The investigation centers on Apple's alleged anti-competitive conduct concerning its App Store. This directive temporarily pauses the CCI's proceedings, underscoring significant national regulatory scrutiny into a major global tech company's market practices within India, impacting digital market competition.",
-            "url": "https://www.medianama.com/2026/05/223-delhi-hc-stops-final-cci-order-against-apple/",
-            "category": "National",
-            "date": "2026-05-16T07:41:45Z"
-        },
-        {
-            "title": "'If Pakistan harbours terrorists, operates against India...': Army chief's stern message",
-            "summary": "Army Chief Gen Upendra Dwivedi issued a stern warning to Islamabad, stating that if Pakistan persists in harbouring terrorists and acting against India, they would face decisive action. This strong military message underscores India's zero-tolerance policy on terrorism and commitment to national security, signaling a firm stance against cross-border threats from Pakistan-backed elements.",
-            "url": "https://economictimes.indiatimes.com/news/defence/if-pakistan-harbours-terrorists-operates-against-india-army-chiefs-stern-message/articleshow/131133134.cms",
-            "category": "Defence",
-            "date": "2026-05-16T06:56:45Z"
+            "date": "2026-05-16T14:00:00Z"
         }
     ]
 }
