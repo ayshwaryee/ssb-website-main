@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-05-18T02:50:15.043273+00:00",
+    "last_updated": "2026-05-18T09:52:16.760679+00:00",
     "articles": [
         {
-            "title": "Why Lanterns Made Hal Jordan Older Officially Revealed By Showrunner",
-            "summary": "HBO's upcoming series \"Lanterns\" is bringing an older Green Lantern Hal Jordan back to live action. The showrunner explained this deliberate choice, aiming for a fresh take distinct from previous portrayals, like Ryan Reynolds'. This strategic decision offers a more mature narrative for the iconic DC Comics hero, marking a significant return to the screen.",
-            "url": "https://screenrant.com/lanterns-dcu-hal-jordan-older-chris-mundy-explained/",
-            "category": "Sci & Tech",
-            "date": "2026-05-17T02:07:37Z"
-        },
-        {
-            "title": "Worlds Most Secret Hotels S02E05 1080p ALL4 WEB-DL H264-RAWR",
-            "summary": "This episode showcases unique tourism experiences, highlighting a South African nature reserve famed for its vibrant flowers. It also features classic railway carriages repurposed as a luxury hotel in Kent, UK. Additionally, a freight crane is imaginatively reborn as a new attraction, illustrating global trends in innovative accommodation and creative travel destinations.",
-            "url": "https://post.rlsbb.to/worlds-most-secret-hotels-s02e05-1080p-all4-web-dl-h264-rawr/",
+            "title": "Ukraine launches more than 500 drones at Russia, killing 3: Moscow",
+            "summary": "Ukraine executed an unprecedented overnight drone attack, deploying over 500 drones against Russia. Russian authorities confirmed three fatalities in the Moscow region, stating air defences intercepted 556 drones across numerous regions. This massive assault marks a significant escalation in the ongoing conflict, showcasing Ukraine's evolving long-range strike capabilities and the widespread nature of drone warfare.",
+            "url": "https://economictimes.indiatimes.com/news/defence/ukraine-launches-more-than-500-drones-at-russia-killing-3-moscow/articleshow/131151194.cms",
             "category": "International",
-            "date": "2026-05-16T23:23:37Z"
+            "date": "2026-05-17T08:50:08Z"
         },
         {
-            "title": "Moving away from Tailwind, and learning to structure my CSS | Hacker News",
-            "summary": "Many websites are unnecessarily designed as complex applications, often Single-Page Applications (SPAs), rather than simpler informational pages. This over-engineering imposes different, often greater, requirements on development and resources. Understanding this distinction is crucial for appreciating efficiency and appropriate technology choices in modern web design.",
-            "url": "https://news.ycombinator.com/item?id=48158400",
+            "title": "IAF begins process to replace VIP transport fleet, issues RFI for new long-range business jets",
+            "summary": "The Indian Air Force (IAF) has formally begun the process to replace its ageing VIP transport fleet. An RFI (Request for Information) has been issued for the procurement of four to six Long Range Business Jets. This initiative aims to modernize the fleet, ensuring secure and efficient transportation for VVIPs, reflecting the IAF's commitment to continuous operational upgrades and maintaining high standards for critical national duties.",
+            "url": "https://economictimes.indiatimes.com/news/defence/iaf-begins-process-to-replace-vip-transport-fleet-issues-rfi-for-new-long-range-business-jets/articleshow/131151061.cms",
+            "category": "Defence",
+            "date": "2026-05-17T08:43:29Z"
+        },
+        {
+            "title": "Four killed in Ukrainian drone attack on Russia",
+            "summary": "Almost 600 Ukrainian drones launched a massive overnight attack on Russia, targeting Moscow and Belgorod regions. Authorities reported four fatalities \u2013 three in Moscow and one in Belgorod. Russian air defences successfully intercepted 556 drones, highlighting the intensity of ongoing cross-border drone warfare. This significant assault underscores the persistent escalation in the Ukraine-Russia conflict, critical for understanding current global security dynamics.",
+            "url": "https://www.rte.ie/news/ukraine/2026/0517/1573755-ukraine-russia/",
+            "category": "International",
+            "date": "2026-05-17T08:16:14Z"
+        },
+        {
+            "title": "US Aims to Double Nuclear Submarine Production - Document",
+            "summary": "The article snippet highlights a significant US initiative to double its nuclear submarine production. This move signals a substantial expansion of American naval power and strategic deterrence capabilities. For SSB aspirants, this development is crucial for understanding evolving global defence landscapes, great power competition, and the strategic importance of underwater assets in modern warfare scenarios.",
+            "url": "https://sputnikglobe.com/20260517/us-aims-to-double-nuclear-submarine-production---document-1124137234.html",
+            "category": "Defence",
+            "date": "2026-05-17T08:07:55Z"
+        },
+        {
+            "title": "[New] Task Manager closes immediately (Win10)",
+            "summary": "A recurring technical issue affects Windows 10 users, causing Task Manager to crash instantly when accessing the Performance tab. This software malfunction, previously discussed in support forums, impedes users' ability to effectively monitor system resources. Such operational glitches highlight common operating system challenges and the ongoing need for robust troubleshooting and potential software updates for stability.",
+            "url": "https://www.bleepingcomputer.com/forums/t/816177/new-task-manager-closes-immediately-win10/",
             "category": "Sci & Tech",
-            "date": "2026-05-16T18:24:23Z"
+            "date": "2026-05-17T07:53:50Z"
+        },
+        {
+            "title": "segnomms added to PyPI",
+            "summary": "This notice announces SegnoMMS software is in beta, meaning core functionality is stable and tested. However, APIs may change in minor versions, so users are advised to pin to specific versions for consistency. This development phase ensures thorough testing and refinement before a full public launch, signifying a robust product still undergoing minor technical adjustments.",
+            "url": "https://pypi.org/project/segnomms/",
+            "category": "Sci & Tech",
+            "date": "2026-05-17T07:26:01Z"
+        },
+        {
+            "title": "Ringo Starr Launches 2026 All Starr Band Tour May 28 in Temecula with Star Lineup",
+            "summary": "Legendary Beatles drummer Ringo Starr has announced his 2026 All Starr Band tour, marking his return to the road. The tour is scheduled to commence on May 28, 2026, at the Pechanga Resort Casino in Temecula, California. This announcement provides fans with details of the initial leg of his upcoming concert series.",
+            "url": "https://www.ibtimes.com.au/ringo-starr-2026-all-starr-band-tour-1868983",
+            "category": "International",
+            "date": "2026-05-17T07:23:04Z"
+        },
+        {
+            "title": "Conformalized TabPFN: Prediction Intervals for a Pretrained Transformer for Tabular Data in Python and R",
+            "summary": "Conformal prediction is a crucial technique in data science, addressing the need to understand model prediction confidence. It provides statistically valid prediction intervals, which quantify the reliability of a model's forecast. This method offers guaranteed coverage, ensuring that predictions come with a defined level of certainty. It's vital for informed decision-making where understanding prediction accuracy and confidence is paramount.",
+            "url": "https://www.r-bloggers.com/2026/05/conformalized-tabpfn-prediction-intervals-for-a-pretrained-transformer-for-tabular-data-in-python-and-r/",
+            "category": "Sci & Tech",
+            "date": "2026-05-17T00:00:00Z"
         }
     ]
 }
