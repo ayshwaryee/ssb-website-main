@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-05-18T09:52:16.760679+00:00",
+    "last_updated": "2026-05-18T15:18:49.690038+00:00",
     "articles": [
         {
-            "title": "Ukraine launches more than 500 drones at Russia, killing 3: Moscow",
-            "summary": "Ukraine executed an unprecedented overnight drone attack, deploying over 500 drones against Russia. Russian authorities confirmed three fatalities in the Moscow region, stating air defences intercepted 556 drones across numerous regions. This massive assault marks a significant escalation in the ongoing conflict, showcasing Ukraine's evolving long-range strike capabilities and the widespread nature of drone warfare.",
-            "url": "https://economictimes.indiatimes.com/news/defence/ukraine-launches-more-than-500-drones-at-russia-killing-3-moscow/articleshow/131151194.cms",
-            "category": "International",
-            "date": "2026-05-17T08:50:08Z"
+            "title": "rugguard-pydantic-ai-agent added to PyPI",
+            "summary": "A new Pydantic AI integration kit for RugGuard is available, designed to enhance AI trading agents. It allows for quick addition of a 'pretrade_check' tool using minimal code. This tool delivers Pydantic models containing prescriptive policy recommendations on every call, aiming to streamline and improve decision-making in automated trading systems. This development could boost efficiency in financial technology.",
+            "url": "https://pypi.org/project/rugguard-pydantic-ai-agent/",
+            "category": "Sci & Tech",
+            "date": "2026-05-17T15:17:04Z"
         },
         {
-            "title": "IAF begins process to replace VIP transport fleet, issues RFI for new long-range business jets",
-            "summary": "The Indian Air Force (IAF) has formally begun the process to replace its ageing VIP transport fleet. An RFI (Request for Information) has been issued for the procurement of four to six Long Range Business Jets. This initiative aims to modernize the fleet, ensuring secure and efficient transportation for VVIPs, reflecting the IAF's commitment to continuous operational upgrades and maintaining high standards for critical national duties.",
-            "url": "https://economictimes.indiatimes.com/news/defence/iaf-begins-process-to-replace-vip-transport-fleet-issues-rfi-for-new-long-range-business-jets/articleshow/131151061.cms",
+            "title": "New Lanterns Footage Reveals Best Look at Hal Jordan\u2019s Green Lantern Powers",
+            "summary": "DC fans received the first teaser for the upcoming HBO Max series \"Lanterns\" in March. Despite long-standing comparisons to \"True Detective,\" the trailer reportedly surprised some viewers with its tone or specific direction. This highly anticipated show delves into the iconic Green Lantern universe, potentially offering a unique or unexpected narrative approach, leaving audiences eager for more details about its mature take.",
+            "url": "http://comicbook.com/tv-shows/news/new-lanterns-footage-reveals-best-look-at-hal-jordans-green-lantern-powers/",
+            "category": "Sci & Tech",
+            "date": "2026-05-17T15:16:25Z"
+        },
+        {
+            "title": "Wolves starlet bags unfortunate double-whammy against Fulham ",
+            "summary": "Championship-bound Wolves, currently at the bottom of the 2025-26 Premier League season, have little left to play for beyond pride in their final games. Despite facing imminent relegation, the article hints at a potentially brighter future ahead for the Molineux club, offering a glimpse of hope for fans beyond their immediate disappointment.",
+            "url": "https://onefootball.com/en/news/wolves-starlet-bags-unfortunate-double-whammy-against-fulham-42881466",
+            "category": "National",
+            "date": "2026-05-17T15:05:00Z"
+        },
+        {
+            "title": "4 alien species pulled from crashed UFOs, ex-government researcher claims",
+            "summary": "A former CIA-funded government researcher, Dr. Hal Puthoff, sensationally claimed that the US has recovered four distinct species of extraterrestrial life from crashed UFOs. This unverified assertion, reportedly from an individual associated with a former Pentagon program, reignites public debate on UFO phenomena and potential government involvement in retrieving advanced non-human technology, though official confirmation is absent.",
+            "url": "https://slashdot.org/submission/17347343/4-alien-species-pulled-from-crashed-ufos-ex-government-researcher-claims",
+            "category": "Sci & Tech",
+            "date": "2026-05-17T14:27:48Z"
+        },
+        {
+            "title": "How To Watch Markiplier's Iron Lung At Home",
+            "summary": "YouTuber Markiplier (Mark Fischbach) announced at the Cannes Film Festival details for his feature-length directorial debut, \"Iron Lung.\" The horror film, based on his popular video game adaptation, is anticipated by fans and marks a significant transition for the online content creator into mainstream filmmaking. This news highlights the evolving landscape of entertainment and content creation.",
+            "url": "https://www.slashfilm.com/2174838/how-watch-iron-lung-markiplier-at-home/",
+            "category": "International",
+            "date": "2026-05-17T14:22:35Z"
+        },
+        {
+            "title": "Ukraine drones kill four in Russia, Moscow faces biggest attack in over a year",
+            "summary": "Ukraine launched its largest drone attack on Moscow in over a year, causing at least four fatalities, including three in the the Moscow region. This significant overnight operation underscores the escalating nature of the ongoing conflict, bringing direct consequences to the Russian capital. For SSB aspirants, this highlights the complexities and reach of modern warfare tactics.",
+            "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
             "category": "Defence",
-            "date": "2026-05-17T08:43:29Z"
+            "date": "2026-05-17T13:27:51Z"
         },
         {
-            "title": "Four killed in Ukrainian drone attack on Russia",
-            "summary": "Almost 600 Ukrainian drones launched a massive overnight attack on Russia, targeting Moscow and Belgorod regions. Authorities reported four fatalities \u2013 three in Moscow and one in Belgorod. Russian air defences successfully intercepted 556 drones, highlighting the intensity of ongoing cross-border drone warfare. This significant assault underscores the persistent escalation in the Ukraine-Russia conflict, critical for understanding current global security dynamics.",
-            "url": "https://www.rte.ie/news/ukraine/2026/0517/1573755-ukraine-russia/",
+            "title": "Ukrainian drone strikes on Russia kill 4, wound 12 others, while debris lands on Moscow airport",
+            "summary": "Ukraine launched one of its most extensive drone strikes on Russia, resulting in at least four deaths, including three near Moscow, and a dozen injuries. Local authorities reported widespread debris impacts. This significant escalation underscores the evolving nature of the conflict, the increasing impact of drone warfare, and critical international security challenges for the region.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/ukrainian-drone-strikes-on-russia-result-in-casualties-and-retaliation-amidst-ongoing-conflict/articleshow/131154666.cms",
             "category": "International",
-            "date": "2026-05-17T08:16:14Z"
-        },
-        {
-            "title": "US Aims to Double Nuclear Submarine Production - Document",
-            "summary": "The article snippet highlights a significant US initiative to double its nuclear submarine production. This move signals a substantial expansion of American naval power and strategic deterrence capabilities. For SSB aspirants, this development is crucial for understanding evolving global defence landscapes, great power competition, and the strategic importance of underwater assets in modern warfare scenarios.",
-            "url": "https://sputnikglobe.com/20260517/us-aims-to-double-nuclear-submarine-production---document-1124137234.html",
-            "category": "Defence",
-            "date": "2026-05-17T08:07:55Z"
-        },
-        {
-            "title": "[New] Task Manager closes immediately (Win10)",
-            "summary": "A recurring technical issue affects Windows 10 users, causing Task Manager to crash instantly when accessing the Performance tab. This software malfunction, previously discussed in support forums, impedes users' ability to effectively monitor system resources. Such operational glitches highlight common operating system challenges and the ongoing need for robust troubleshooting and potential software updates for stability.",
-            "url": "https://www.bleepingcomputer.com/forums/t/816177/new-task-manager-closes-immediately-win10/",
-            "category": "Sci & Tech",
-            "date": "2026-05-17T07:53:50Z"
-        },
-        {
-            "title": "segnomms added to PyPI",
-            "summary": "This notice announces SegnoMMS software is in beta, meaning core functionality is stable and tested. However, APIs may change in minor versions, so users are advised to pin to specific versions for consistency. This development phase ensures thorough testing and refinement before a full public launch, signifying a robust product still undergoing minor technical adjustments.",
-            "url": "https://pypi.org/project/segnomms/",
-            "category": "Sci & Tech",
-            "date": "2026-05-17T07:26:01Z"
-        },
-        {
-            "title": "Ringo Starr Launches 2026 All Starr Band Tour May 28 in Temecula with Star Lineup",
-            "summary": "Legendary Beatles drummer Ringo Starr has announced his 2026 All Starr Band tour, marking his return to the road. The tour is scheduled to commence on May 28, 2026, at the Pechanga Resort Casino in Temecula, California. This announcement provides fans with details of the initial leg of his upcoming concert series.",
-            "url": "https://www.ibtimes.com.au/ringo-starr-2026-all-starr-band-tour-1868983",
-            "category": "International",
-            "date": "2026-05-17T07:23:04Z"
-        },
-        {
-            "title": "Conformalized TabPFN: Prediction Intervals for a Pretrained Transformer for Tabular Data in Python and R",
-            "summary": "Conformal prediction is a crucial technique in data science, addressing the need to understand model prediction confidence. It provides statistically valid prediction intervals, which quantify the reliability of a model's forecast. This method offers guaranteed coverage, ensuring that predictions come with a defined level of certainty. It's vital for informed decision-making where understanding prediction accuracy and confidence is paramount.",
-            "url": "https://www.r-bloggers.com/2026/05/conformalized-tabpfn-prediction-intervals-for-a-pretrained-transformer-for-tabular-data-in-python-and-r/",
-            "category": "Sci & Tech",
-            "date": "2026-05-17T00:00:00Z"
+            "date": "2026-05-17T13:04:05Z"
         }
     ]
 }
