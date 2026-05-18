@@ -1,54 +1,26 @@
 {
-    "last_updated": "2026-05-17T19:02:23.049090+00:00",
+    "last_updated": "2026-05-18T02:50:15.043273+00:00",
     "articles": [
         {
+            "title": "Why Lanterns Made Hal Jordan Older Officially Revealed By Showrunner",
+            "summary": "HBO's upcoming series \"Lanterns\" is bringing an older Green Lantern Hal Jordan back to live action. The showrunner explained this deliberate choice, aiming for a fresh take distinct from previous portrayals, like Ryan Reynolds'. This strategic decision offers a more mature narrative for the iconic DC Comics hero, marking a significant return to the screen.",
+            "url": "https://screenrant.com/lanterns-dcu-hal-jordan-older-chris-mundy-explained/",
+            "category": "Sci & Tech",
+            "date": "2026-05-17T02:07:37Z"
+        },
+        {
+            "title": "Worlds Most Secret Hotels S02E05 1080p ALL4 WEB-DL H264-RAWR",
+            "summary": "This episode showcases unique tourism experiences, highlighting a South African nature reserve famed for its vibrant flowers. It also features classic railway carriages repurposed as a luxury hotel in Kent, UK. Additionally, a freight crane is imaginatively reborn as a new attraction, illustrating global trends in innovative accommodation and creative travel destinations.",
+            "url": "https://post.rlsbb.to/worlds-most-secret-hotels-s02e05-1080p-all4-web-dl-h264-rawr/",
+            "category": "International",
+            "date": "2026-05-16T23:23:37Z"
+        },
+        {
             "title": "Moving away from Tailwind, and learning to structure my CSS | Hacker News",
-            "summary": "Many websites are needlessly developed as complex applications, often as Single Page Applications (SPAs), when their core purpose is simply to provide information. This trend leads to unnecessary requirements and increased complexity, suggesting a need for more practical and efficient web design that aligns with the actual function of a site, rather than over-engineering.",
+            "summary": "Many websites are unnecessarily designed as complex applications, often Single-Page Applications (SPAs), rather than simpler informational pages. This over-engineering imposes different, often greater, requirements on development and resources. Understanding this distinction is crucial for appreciating efficiency and appropriate technology choices in modern web design.",
             "url": "https://news.ycombinator.com/item?id=48158400",
             "category": "Sci & Tech",
             "date": "2026-05-16T18:24:23Z"
-        },
-        {
-            "title": "Re: Recent Kernel exploits, attack surface reduction, example IPSEC",
-            "summary": "An oss-sec mailing list discussion reveals multiple recent kernel exploits affecting the \"esp\" component. This highlights ongoing vulnerabilities in operating system kernels, underscoring the critical need for continuous vigilance and robust cybersecurity measures. For SSB aspirants, this emphasizes the importance of understanding tech security challenges that can impact national digital infrastructure and data integrity.",
-            "url": "https://seclists.org/oss-sec/2026/q2/561",
-            "category": "Sci & Tech",
-            "date": "2026-05-16T18:20:59Z"
-        },
-        {
-            "title": "How China's Sub-Sea Mega-Cable is Reshaping Asia's Digital Map",
-            "summary": "A new project, likely referring to the ALC, is poised to significantly enhance cloud computing, AI data flows, and cross-border digital trade across Southeast Asia. This initiative, coupled with other new routes, aims to strengthen Asia's independent digital backbone, fostering improved regional connectivity and digital economic growth.",
-            "url": "https://sputnikglobe.com/20260516/how-chinas-sub-sea-mega-cable-is-reshaping-asias-digital-map-1124135757.html",
-            "category": "Sci & Tech",
-            "date": "2026-05-16T18:09:01Z"
-        },
-        {
-            "title": "EE In-Stock Alert: Beast Kingdom DC Comics 90th Anniversary Justice League DAH Figures",
-            "summary": "The provided text expresses a personal preference for Wally West as 'Flash' over Barry Allen, specifically referencing the 'Justice League' and 'Justice League Unlimited' animated shows as a key influence. The author appreciates the character's metallic finish and acknowledges Barry Allen's popularity, but identifies strongly with the Wally West portrayal from their upbringing in animated series.",
-            "url": "https://toynewsi.com/462-63643",
-            "category": "Sci & Tech",
-            "date": "2026-05-16T17:05:31Z"
-        },
-        {
-            "title": "Karnataka high court sets aside lookout circular against driver working in Saudi Arabia",
-            "summary": "The Karnataka High Court recently made a significant ruling, setting aside a lookout circular (LOC) that had been issued against an Indian driver. This individual is currently employed and residing in Saudi Arabia. The court's decision provides relief, allowing the driver freedom from the restrictions imposed by the LOC, highlighting judicial intervention in cases affecting citizens working abroad.",
-            "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-high-court-sets-aside-lookout-circular-against-driver-working-in-saudi-arabia/articleshow/131141432.cms",
-            "category": "National",
-            "date": "2026-05-16T16:28:04Z"
-        },
-        {
-            "title": "Indian Army internships see 1 lakh applicants for 100 positions, says Army Chief",
-            "summary": "The Indian Army has received over one lakh applications for just 100 internship positions for children, offered at its headquarters and various workshops. This overwhelming response highlights immense public interest and the Army's successful outreach efforts to engage youth. The highly competitive initiative underscores the strong bond between the armed forces and society, fostering future generations' understanding and connection with the military.",
-            "url": "https://www.thehindubusinessline.com/news/indian-army-internships-see-1-lakh-applicants-for-100-positions-says-army-chief/article70987625.ece",
-            "category": "Defence",
-            "date": "2026-05-16T15:06:21Z"
-        },
-        {
-            "title": "10 Most Powerful Green Lantern Villains, Ranked",
-            "summary": "The Green Lantern Corps, an iconic DC Comics entity, functions as an intergalactic defence and policing force. Comprising thousands of members, including Earth's heroes, they wield advanced power rings harnessing willpower to enforce justice and protect the universe. This formidable collective represents a structured organization tasked with maintaining peace and order against cosmic threats.",
-            "url": "http://comicbook.com/comics/list/10-most-powerful-green-lantern-villains-ranked/",
-            "category": "Defence",
-            "date": "2026-05-16T14:00:00Z"
         }
     ]
 }
