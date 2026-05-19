@@ -1,26 +1,33 @@
 {
-    "last_updated": "2026-05-19T02:47:03.963654+00:00",
+    "last_updated": "2026-05-19T09:34:07.150256+00:00",
     "articles": [
         {
-            "title": "Infected with TDSS and Google Keeps redirecting",
-            "summary": "A user is struggling with persistent trojan infections detected by Malwarebytes, identifying three problematic registry keys in HKLM. Despite removing temporary and cache files associated with `python.exe`, the user remains unable to resolve the malware issue. This highlights a common challenge in personal cybersecurity and system hygiene, suggesting a need for more advanced technical troubleshooting to eradicate the persistent threat.",
-            "url": "https://www.bleepingcomputer.com/forums/t/816189/infected-with-tdss-and-google-keeps-redirecting/",
+            "title": "Who's South Jersey's all-time best women's soccer player? VOTE now",
+            "summary": "USA TODAY Sports is launching a nationwide initiative to celebrate the 250 greatest American sports figures. This extensive project coincides with the United States' upcoming 250th anniversary, aiming to highlight significant achievements and inspire debate across various sports disciplines, starting with local discussions before broader national recognition. This initiative will feature a wide range of athletic legends.",
+            "url": "https://www.courierpostonline.com/story/sports/high-school/2026/05/18/whos-south-jerseys-all-time-best-womens-soccer-player-vote-now/90042114007/",
+            "category": "National",
+            "date": "2026-05-18T09:04:19Z"
+        },
+        {
+            "title": "Banks and FinTechs Watch as Regulators Redraw Data Rules",
+            "summary": "The traditional debate on data and market power, previously limited to antitrust courts and academia, is undergoing a major shift due to Artificial Intelligence (AI). A new European Commission analysis highlights how AI's advent is profoundly reshaping discussions on market dominance. This signals an intensifying global focus on regulatory frameworks to address AI's impact on competition and economic power.",
+            "url": "https://www.pymnts.com/data/2026/banks-and-fintechs-watch-as-regulators-redraw-data-rules/",
             "category": "Sci & Tech",
-            "date": "2026-05-18T02:37:43Z"
+            "date": "2026-05-18T08:00:02Z"
         },
         {
-            "title": "Fayetteville, NC: Man Arrested for Spray-Painting Swastikas Across Multiple Properties \u2014 But He Doesn\u2019t Match the Media\u2019s Favorite Storyline",
-            "summary": "A man was arrested in Fayetteville, North Carolina, USA, for spray-painting swastikas across multiple properties. The incident, dated May 17, 2026, involves the defacement of private property. This event highlights issues of hate speech and vandalism within communities, prompting reflection on societal values and the rule of law.",
-            "url": "https://freerepublic.com/focus/f-bloggers/4379751/posts",
+            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 18, 2026) on Malabar Gold & Diamonds, Joyalukkas, Tanishq, Kalyan Jewellers and IBJA",
+            "summary": "On May 18, 2026, gold prices faced pressure due to weakness in global bullion markets, reflecting changing investor sentiment. This downtrend was influenced by significant economic and geopolitical developments worldwide. For SSB aspirants, understanding how global factors impact commodities like gold is crucial, demonstrating awareness of international economic dynamics.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-18-2026-on-malabar-gold-diamonds-joyalukkas-tanishq-kalyan-jewellers-and-ibja/articleshow/131170301.cms",
             "category": "International",
-            "date": "2026-05-18T01:38:06Z"
+            "date": "2026-05-18T07:54:29Z"
         },
         {
-            "title": "4 alien species pulled from crashed UFOs, ex-government researcher claims",
-            "summary": "Former CIA-funded government researcher, Dr. Hal Puthoff, sensationally claimed this week that the US has recovered four distinct species of extraterrestrial life from crashed UFOs. This controversial assertion, though lacking further immediate details, underscores persistent public speculation regarding governmental involvement with unidentified aerial phenomena and potential non-human intelligence.",
-            "url": "https://slashdot.org/submission/17347343/4-alien-species-pulled-from-crashed-ufos-ex-government-researcher-claims",
+            "title": "GE Aerospace to invest \u20b9100 crore in Pune manufacturing facility",
+            "summary": "GE Aerospace will invest \u20b9100 crore in its Pune manufacturing facility to enhance infrastructure, reinforcing its presence in India. This significant investment boosts India's aerospace manufacturing capabilities and aligns with the 'Make in India' initiative, potentially strengthening defence industrial partnerships and fostering greater self-reliance in crucial aerospace components, a vital step for national security.",
+            "url": "https://www.thehindubusinessline.com/companies/ge-aerospace-to-invest-100-crore-in-pune-manufacturing-facility/article70992778.ece",
             "category": "Defence",
-            "date": "2026-05-17T14:27:48Z"
+            "date": "2026-05-18T07:01:51Z"
         }
     ]
 }
