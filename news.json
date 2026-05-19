@@ -1,33 +1,47 @@
 {
-    "last_updated": "2026-05-19T14:50:07.451277+00:00",
+    "last_updated": "2026-05-19T19:46:55.390269+00:00",
     "articles": [
         {
-            "title": "Lebanon\u2019s death toll nears 3,000 since March",
-            "summary": "Israel executed air strikes in southern Lebanon, confirmed by Lebanese security sources. Concurrently, Hizbullah declared new attacks on Israeli forces, indicating an escalation of ongoing hostilities. This renewed cross-border military engagement underscores the volatile security situation between the two entities, demanding close attention for geopolitical understanding and potential regional implications.",
-            "url": "https://www.irishtimes.com/world/middle-east/2026/05/18/lebanons-death-toll-nears-3000-since-march/",
-            "category": "Defence",
-            "date": "2026-05-18T14:20:58Z"
+            "title": "Flashback:911 operator hung up on a mother who called three times because her child wasn\u2019t breathing.",
+            "summary": "A concerning flashback details a 911 operator repeatedly hanging up on a distressed mother whose child was experiencing a critical breathing emergency. This severe failure in emergency response, highlighted as a past incident, raises serious questions about dispatcher protocol, training adequacy, and accountability within vital public safety services. The incident underscores the dire consequences when emergency systems fail to perform their life-saving duties effectively.",
+            "url": "https://freerepublic.com/focus/f-chat/4379866/posts",
+            "category": "National",
+            "date": "2026-05-18T19:44:29Z"
         },
         {
-            "title": "Show HN: Uber burned its 2026 AI budget by April. Why? 73% redundant reads",
-            "summary": "This article details a field study on AI coding agents, analyzing the computational 'tokens' they expend during operation. It introduces a practical framework aimed at optimizing and significantly reducing this token usage. This research is vital for enhancing the efficiency and cost-effectiveness of AI development, crucial for future technological advancements and resource management in various sectors.",
-            "url": "https://argosbrain.com/blog/re-read-tax",
+            "title": "Flashback:\n911 operator hung up on a mother who called three times because her child wasn\u2019t breathing.",
+            "summary": "A concerning flashback recounted an incident where a 911 emergency operator reportedly hung up on a mother. The distressed mother had called three times, desperately seeking help because her child was not breathing. This event highlights critical failures in emergency service protocols and operator conduct, emphasizing the profound impact on citizens needing urgent assistance.",
+            "url": "https://freerepublic.com/focus/f-news/4379866/posts",
+            "category": "National",
+            "date": "2026-05-18T19:44:29Z"
+        },
+        {
+            "title": "Sqn Ldr Saanya becomes first woman officer to earn Cat-A QFI qualification: IAF",
+            "summary": "Sqn Ldr Saanya has achieved a historic milestone, becoming the Indian Air Force's first woman officer to earn the prestigious Cat-A Qualified Flying Instructor (QFI) qualification. This significant accomplishment highlights the increasing role and capabilities of women in the armed forces, setting a new benchmark and inspiring future aspirants to pursue excellence in military aviation. It signifies a major step towards gender equality within the defence sector.",
+            "url": "https://economictimes.indiatimes.com/news/defence/sqn-ldr-saanya-makes-history-as-first-woman-officer-to-earn-cat-a-qfi-qualification-in-indian-air-force/articleshow/131183653.cms",
+            "category": "Defence",
+            "date": "2026-05-18T18:16:23Z"
+        },
+        {
+            "title": "How does Lanterns compare Hal Jordan suit, powers? #entertainment",
+            "summary": "The upcoming DC Comics series 'Lanterns' promises an in-depth look at the iconic hero Hal Jordan, portrayed by Kyle Chandler. Viewers will gain clearer insight into this Green Lantern through detailed character styling and, crucially, how his signature powers are depicted on-screen. This approach aims to offer a fresh perspective on the character's abilities within the DC universe.",
+            "url": "https://alltoc.com/entertainment/how-does-lanterns-compare-hal-jordan-suit-powers",
             "category": "Sci & Tech",
-            "date": "2026-05-18T14:19:35Z"
+            "date": "2026-05-18T18:03:17Z"
         },
         {
-            "title": "Markiplier\u2019s \u2018Iron Lung\u2019 To Debut On YouTube After $50M Theatrical Run",
-            "summary": "Filmmaker and content creator Markiplier's horror feature film, 'Iron Lung', is scheduled to debut on YouTube on May 31st. This release follows a successful initial phase, highlighting Markiplier's venture into feature filmmaking. The premiere on a global video platform showcases evolving content distribution by prominent digital creators to a worldwide audience.",
-            "url": "https://www.forbes.com/sites/rickellis/2026/05/18/markipliers-iron-lung-to-debut-on-youtube-after-50m-theatrical-run/",
+            "title": "Iran will impose fees on subsea internet cables in Strait of Hormuz",
+            "summary": "Emboldened by its Strait of Hormuz blockade, Iran is now focusing on vital subsea internet cables beneath the waterway. This strategic shift aims to control critical digital infrastructure, impacting global communication and the economy. For SSB aspirants, this highlights the evolving nature of hybrid warfare and the increasing importance of securing crucial digital arteries in international security.",
+            "url": "https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl",
             "category": "International",
-            "date": "2026-05-18T13:17:31Z"
+            "date": "2026-05-18T17:55:55Z"
         },
         {
-            "title": "Zelensky's long-range strikes on Russia are 'swinging the advantage back Ukraine's way' and momentum shift in war is 'finally filtering through' to Putin, expert reveals",
-            "summary": "Ukraine's recent extensive long-range drone strikes against Russia, involving almost 600 drones, are interpreted by an expert as a sign that the war is increasingly shifting in Kyiv's favour. These strategic attacks highlight Ukraine's evolving offensive capabilities and their impact on the ongoing conflict, marking a significant development in the military landscape and geopolitical struggle.",
-            "url": "https://www.dailymail.com/news/article-15826865/Zelenskys-long-range-strikes-Russia-swinging-advantage-Ukraines-way-momentum-shift-war-finally-filtering-Putin-expert-reveals.html",
-            "category": "Defence",
-            "date": "2026-05-18T13:14:08Z"
+            "title": "How Kyle Chandler's Hal Jordan Costume Compares To Ryan Reynolds' Green Lantern & The Comics",
+            "summary": "A new trailer for the DCU's upcoming \"Lanterns\" series has offered fans their first detailed look at Hal Jordan's Green Lantern suit, worn by Kyle Chandler. The reveal prompts comparisons to previous cinematic versions, including Ryan Reynolds' portrayal, focusing on the suit's design and its implications for the series' visual style and character interpretation within the broader DC Universe.",
+            "url": "https://screenrant.com/lanterns-kyle-chandler-hal-jordan-costume-explained/",
+            "category": "Sci & Tech",
+            "date": "2026-05-18T17:33:43Z"
         }
     ]
 }
