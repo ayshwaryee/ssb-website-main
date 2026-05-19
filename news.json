@@ -1,54 +1,26 @@
 {
-    "last_updated": "2026-05-18T19:40:09.908429+00:00",
+    "last_updated": "2026-05-19T02:47:03.963654+00:00",
     "articles": [
         {
-            "title": "VIDEO: Massachusetts Governor Asks U.S. Navy for Help Recovering Bodies, Recorder from Sunken Lily Jean",
-            "summary": "Massachusetts officials have requested the United States Navy's assistance in retrieving equipment from the site where a fishing vessel sank in January. The tragic incident resulted in the loss of all seven crew members. The appeal highlights the Navy's specialized capabilities being sought for complex recovery operations following maritime disasters within national waters.",
-            "url": "https://www.breitbart.com/politics/2026/05/17/video-massachusetts-governor-asks-u-s-navy-for-help-recovering-bodies-recorder-from-sunken-lily-jean/",
-            "category": "National",
-            "date": "2026-05-17T19:25:02Z"
-        },
-        {
-            "title": "Trump warns Iran \u2018clock is ticking\u2019; UAE reports drone strike at nuclear power plant",
-            "summary": "Officials in Abu Dhabi reported a drone strike caused a fire at a nuclear power plant in the United Arab Emirates on Sunday. This incident occurred amidst broader regional tensions, including stalled U.S.-Israel peace efforts, raising concerns about stability. The strike underscores the growing threat to critical infrastructure in volatile regions.",
-            "url": "https://www.independent.ie/world-news/middle-east/trump-warns-iran-clock-is-ticking-uae-reports-drone-strike-at-nuclear-power-plant/a1326853175.html",
-            "category": "Defence",
-            "date": "2026-05-17T19:20:00Z"
-        },
-        {
-            "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
-            "summary": "The UAE's defence ministry is investigating a drone attack targeting a generator outside the Barakah nuclear power plant in Abu Dhabi. This incident highlights the growing threat of drone warfare and the vulnerability of critical national infrastructure. While the ministry confirmed it successfully managed the situation, identifying the attack's source is crucial for bolstering regional security and preventing future incidents.",
-            "url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388",
-            "category": "Defence",
-            "date": "2026-05-17T18:51:31Z"
-        },
-        {
-            "title": "The Vampire Lestat Spotlights Anderson's Louis in New Key Art Poster",
-            "summary": "AMC's \"Anne Rice's The Vampire Lestat\" has unveiled a new character profile poster, placing Jacob Anderson's Louis de Pointe du Lac at the forefront. This promotional material highlights Louis's significance in the upcoming series, based on Anne Rice's acclaimed novels. The focus on Anderson's portrayal aims to build anticipation for the gothic drama, promising a detailed exploration of the beloved character on television.",
-            "url": "https://bleedingcool.com/tv/the-vampire-lestat-spotlights-andersons-louis-in-new-key-art-poster/",
-            "category": "National",
-            "date": "2026-05-17T18:29:10Z"
-        },
-        {
-            "title": "hipengine 0.1.0",
-            "summary": "hipEngine is an ROCm-native local LLM inference engine purpose-built for AMD RDNA GPUs, specifically gfx1100 and gfx1151 series. It utilizes a compact Python host alongside a complete suite of tools to enable efficient, on-device processing of large language models. This development signifies advancements in leveraging AMD hardware for AI computations, facilitating local AI capabilities without relying on cloud infrastructure.",
-            "url": "https://pypi.org/project/hipengine/",
+            "title": "Infected with TDSS and Google Keeps redirecting",
+            "summary": "A user is struggling with persistent trojan infections detected by Malwarebytes, identifying three problematic registry keys in HKLM. Despite removing temporary and cache files associated with `python.exe`, the user remains unable to resolve the malware issue. This highlights a common challenge in personal cybersecurity and system hygiene, suggesting a need for more advanced technical troubleshooting to eradicate the persistent threat.",
+            "url": "https://www.bleepingcomputer.com/forums/t/816189/infected-with-tdss-and-google-keeps-redirecting/",
             "category": "Sci & Tech",
-            "date": "2026-05-17T18:16:50Z"
+            "date": "2026-05-18T02:37:43Z"
         },
         {
-            "title": "Youth must adapt to technology: Ex Isro chief",
-            "summary": "The provided text serves as a direct call to action, urging readers to connect with the platform via social media. For SSB aspirants, engaging with official social media channels is increasingly vital for timely updates, announcements, and relevant information concerning defence sector developments, selection processes, and career guidance, ensuring they remain well-informed.",
-            "url": "https://timesofindia.indiatimes.com/city/hubballi/youth-must-adapt-to-technology-ex-isro-chief/articleshow/131159346.cms",
-            "category": "Defence",
-            "date": "2026-05-17T17:22:09Z"
+            "title": "Fayetteville, NC: Man Arrested for Spray-Painting Swastikas Across Multiple Properties \u2014 But He Doesn\u2019t Match the Media\u2019s Favorite Storyline",
+            "summary": "A man was arrested in Fayetteville, North Carolina, USA, for spray-painting swastikas across multiple properties. The incident, dated May 17, 2026, involves the defacement of private property. This event highlights issues of hate speech and vandalism within communities, prompting reflection on societal values and the rule of law.",
+            "url": "https://freerepublic.com/focus/f-bloggers/4379751/posts",
+            "category": "International",
+            "date": "2026-05-18T01:38:06Z"
         },
         {
-            "title": "Four killed in Ukrainian drone attack on Russia",
-            "summary": "Ukraine launched a massive drone attack involving nearly 600 UAVs across Russian regions, including Moscow and Belgorod. This large-scale assault resulted in four civilian deaths, with Russian air defences reportedly intercepting 556 drones. The incident underscores the escalating intensity of drone warfare and its significant impact on civilian areas in the ongoing conflict.",
-            "url": "https://www.rte.ie/news/ukraine/2026/0517/1573755-ukraine-russia/",
+            "title": "4 alien species pulled from crashed UFOs, ex-government researcher claims",
+            "summary": "Former CIA-funded government researcher, Dr. Hal Puthoff, sensationally claimed this week that the US has recovered four distinct species of extraterrestrial life from crashed UFOs. This controversial assertion, though lacking further immediate details, underscores persistent public speculation regarding governmental involvement with unidentified aerial phenomena and potential non-human intelligence.",
+            "url": "https://slashdot.org/submission/17347343/4-alien-species-pulled-from-crashed-ufos-ex-government-researcher-claims",
             "category": "Defence",
-            "date": "2026-05-17T08:16:14Z"
+            "date": "2026-05-17T14:27:48Z"
         }
     ]
 }
