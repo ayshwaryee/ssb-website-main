@@ -1,54 +1,19 @@
 {
-    "last_updated": "2026-05-20T14:51:00.777346+00:00",
+    "last_updated": "2026-05-20T20:07:24.986201+00:00",
     "articles": [
         {
-            "title": "wyolet-symbol 0.1.2",
-            "summary": "A critical website component experienced a loading failure, potentially due to browser extensions, network connectivity problems, or incorrect browser settings. Users are advised to troubleshoot by verifying their internet connection, deactivating any active ad blockers, or attempting to access the site using an alternative web browser to resolve the technical issue.",
-            "url": "https://pypi.org/project/wyolet-symbol/0.1.2/",
-            "category": "Sci & Tech",
-            "date": "2026-05-19T14:49:52Z"
-        },
-        {
-            "title": "Italy and India: A strategic partnership for the Indo-Mediterranean",
-            "summary": "India-Italy relations have reached a decisive stage, experiencing unprecedented momentum in recent years. Their ties are evolving from a cordial friendship into a special strategic partnership. This enhanced engagement signifies a significant strengthening of bilateral cooperation across various sectors, promising deeper collaboration on global and regional issues, indicating a mature and strategic alignment.",
-            "url": "https://www.thehindubusinessline.com/economy/italy-and-india-a-strategic-partnership-for-the-indo-mediterranean/article70998889.ece",
-            "category": "International",
-            "date": "2026-05-19T14:46:31Z"
-        },
-        {
-            "title": "Lili Reinhart Joins Melissa Leo In Sean Byrne & Studiocanal Thriller \u2018The Mannequin\u2019 \u2014 Cannes Market",
-            "summary": "Lili Reinhart, star of 'Riverdale', is set to join Oscar winner Melissa Leo in the upcoming thriller film 'The Mannequin'. Directed by Sean Byrne, known for 'Dangerous Animals', this exclusive casting announcement signals a new high-profile project for both actresses, promising a compelling addition to their filmographies.",
-            "url": "http://deadline.com/2026/05/lili-reinhart-joins-melissa-leo-sean-byrne-film-mannequin-1236915591/",
-            "category": "International",
-            "date": "2026-05-19T14:42:17Z"
-        },
-        {
-            "title": "Show HN: CLI Security for Agentic Development",
-            "summary": "The article describes 'badvibes', a new command-line tool for auditing software repositories. It specifically scans AI-assisted codebases for common issues, like missing essential configuration files. This tool then generates a 'Vibe Score' (0-100), helping developers identify and rectify potential 'AI slop'. Its aim is to enhance the quality and integrity of projects developed using AI assistance.",
-            "url": "https://github.com/marco-trotta1/badvibes",
-            "category": "Sci & Tech",
-            "date": "2026-05-19T14:38:51Z"
-        },
-        {
-            "title": "wyolet-symbol 0.1.1",
-            "summary": "The provided text is an error message, not a news article. It indicates a website component failed to load, possibly due to browser extensions, network issues, or settings. Users are advised to troubleshoot by checking their connection, disabling ad blockers, or attempting a different browser to access the intended site content. This text cannot be summarized as news.",
-            "url": "https://pypi.org/project/wyolet-symbol/0.1.1/",
-            "category": "Sci & Tech",
-            "date": "2026-05-19T14:33:51Z"
-        },
-        {
-            "title": "Jewellers latch on to PM\u2019s call for recycling, curb imports of gold",
-            "summary": "Leading Indian jewellers are aligning with Prime Minister Modi's push to curb gold imports. They plan to encourage customers to exchange old jewellery for new designs, rather than making fresh purchases. This strategy aims to reduce India's import bill for the precious metal, thereby strengthening the rupee and contributing to national economic stability by managing demand effectively.",
-            "url": "https://www.thehindubusinessline.com/markets/gold/jewellers-latch-on-to-pms-call-for-recycling-curb-imports-of-gold/article70998048.ece",
-            "category": "National",
-            "date": "2026-05-19T14:30:00Z"
-        },
-        {
-            "title": "Long before Tejas, how India\u2019s indigenous fighter jet Marut met a painful death that still haunts India today",
-            "summary": "India's HF-24 Marut, its first domestically designed and produced jet fighter, was a monumental achievement. Its induction made India the first Asian nation outside Russia to operationally field an indigenous combat jet. This highlighted India's early aerospace engineering prowess and commitment to defence self-reliance, paving the way for future domestic projects.",
-            "url": "https://economictimes.indiatimes.com/news/defence/long-before-tejas-how-indias-indigenous-fighter-jet-marut-met-a-painful-death-that-still-haunts-india-today/articleshow/131198087.cms",
+            "title": "Healey vows to 'Back British' in future defence spending as allies question UK's commitment to stealth fighter and submarine projects",
+            "summary": "The UK Defence Secretary has committed to prioritizing British manufacturers for military equipment procurement. This pledge is a crucial part of Britain's urgent effort to regenerate its defence capabilities. The strategy aims to bolster the domestic industrial base while simultaneously enhancing the Armed Forces' readiness and national security, ensuring a self-reliant defence supply chain.",
+            "url": "https://www.dailymail.com/news/article-15831567/Healey-vows-British-future-defence-spending-allies-question-UKs-commitment-stealth-fighter-submarine-projects.html",
             "category": "Defence",
-            "date": "2026-05-19T11:16:24Z"
+            "date": "2026-05-19T17:32:29Z"
+        },
+        {
+            "title": "India, Vietnam looking at joint production of military hardware",
+            "summary": "India and Vietnam stressed the importance of peace and freedom of navigation in the Indo-Pacific. They resolved to deepen defence cooperation, including the joint production of military hardware. This strategic partnership enhances regional stability and signifies India's growing engagement with key Southeast Asian nations, crucial for India's maritime security interests and geopolitical influence in the region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-vietnam-looking-at-joint-production-of-military-hardware/articleshow/131206866.cms",
+            "category": "Defence",
+            "date": "2026-05-19T17:24:58Z"
         }
     ]
 }
