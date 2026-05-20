@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-05-20T08:59:08.502036+00:00",
+    "last_updated": "2026-05-20T14:51:00.777346+00:00",
     "articles": [
         {
-            "title": "Russia begins three days of nuclear drills",
-            "summary": "On October 26, 2022, Russia test-fired a Yars intercontinental ballistic missile (ICBM) as part of extensive nuclear drills. Originating from Moscow, this exercise showcased Russia's strategic deterrence capabilities and readiness of its advanced weapon systems. Such missile tests are critical for maintaining operational effectiveness and validate military prowess, significantly influencing global defence dynamics and strategic stability considerations.",
-            "url": "https://www.hurriyetdailynews.com/russia-begins-three-days-of-nuclear-drills-222314",
-            "category": "Defence",
-            "date": "2026-05-19T08:44:37Z"
+            "title": "wyolet-symbol 0.1.2",
+            "summary": "A critical website component experienced a loading failure, potentially due to browser extensions, network connectivity problems, or incorrect browser settings. Users are advised to troubleshoot by verifying their internet connection, deactivating any active ad blockers, or attempting to access the site using an alternative web browser to resolve the technical issue.",
+            "url": "https://pypi.org/project/wyolet-symbol/0.1.2/",
+            "category": "Sci & Tech",
+            "date": "2026-05-19T14:49:52Z"
         },
         {
-            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 19, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
-            "summary": "Gold and silver prices rose across India today, including major jewellery brands and IBJA, driven by mixed global economic signals. This highlights how international economic indicators directly impact domestic commodity markets. For SSB aspirants, understanding these linkages between global events and national economic trends is crucial for current affairs knowledge and for developing a comprehensive perspective on economic dynamics.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-19-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131195210.cms",
+            "title": "Italy and India: A strategic partnership for the Indo-Mediterranean",
+            "summary": "India-Italy relations have reached a decisive stage, experiencing unprecedented momentum in recent years. Their ties are evolving from a cordial friendship into a special strategic partnership. This enhanced engagement signifies a significant strengthening of bilateral cooperation across various sectors, promising deeper collaboration on global and regional issues, indicating a mature and strategic alignment.",
+            "url": "https://www.thehindubusinessline.com/economy/italy-and-india-a-strategic-partnership-for-the-indo-mediterranean/article70998889.ece",
+            "category": "International",
+            "date": "2026-05-19T14:46:31Z"
+        },
+        {
+            "title": "Lili Reinhart Joins Melissa Leo In Sean Byrne & Studiocanal Thriller \u2018The Mannequin\u2019 \u2014 Cannes Market",
+            "summary": "Lili Reinhart, star of 'Riverdale', is set to join Oscar winner Melissa Leo in the upcoming thriller film 'The Mannequin'. Directed by Sean Byrne, known for 'Dangerous Animals', this exclusive casting announcement signals a new high-profile project for both actresses, promising a compelling addition to their filmographies.",
+            "url": "http://deadline.com/2026/05/lili-reinhart-joins-melissa-leo-sean-byrne-film-mannequin-1236915591/",
+            "category": "International",
+            "date": "2026-05-19T14:42:17Z"
+        },
+        {
+            "title": "Show HN: CLI Security for Agentic Development",
+            "summary": "The article describes 'badvibes', a new command-line tool for auditing software repositories. It specifically scans AI-assisted codebases for common issues, like missing essential configuration files. This tool then generates a 'Vibe Score' (0-100), helping developers identify and rectify potential 'AI slop'. Its aim is to enhance the quality and integrity of projects developed using AI assistance.",
+            "url": "https://github.com/marco-trotta1/badvibes",
+            "category": "Sci & Tech",
+            "date": "2026-05-19T14:38:51Z"
+        },
+        {
+            "title": "wyolet-symbol 0.1.1",
+            "summary": "The provided text is an error message, not a news article. It indicates a website component failed to load, possibly due to browser extensions, network issues, or settings. Users are advised to troubleshoot by checking their connection, disabling ad blockers, or attempting a different browser to access the intended site content. This text cannot be summarized as news.",
+            "url": "https://pypi.org/project/wyolet-symbol/0.1.1/",
+            "category": "Sci & Tech",
+            "date": "2026-05-19T14:33:51Z"
+        },
+        {
+            "title": "Jewellers latch on to PM\u2019s call for recycling, curb imports of gold",
+            "summary": "Leading Indian jewellers are aligning with Prime Minister Modi's push to curb gold imports. They plan to encourage customers to exchange old jewellery for new designs, rather than making fresh purchases. This strategy aims to reduce India's import bill for the precious metal, thereby strengthening the rupee and contributing to national economic stability by managing demand effectively.",
+            "url": "https://www.thehindubusinessline.com/markets/gold/jewellers-latch-on-to-pms-call-for-recycling-curb-imports-of-gold/article70998048.ece",
             "category": "National",
-            "date": "2026-05-19T08:35:28Z"
+            "date": "2026-05-19T14:30:00Z"
         },
         {
-            "title": "Green hydrogen to cut LPG dependence for cooking: PSA Ajay Sood",
-            "summary": "Prime Minister Narendra Modi's government is exploring green hydrogen as a household cooking fuel to significantly reduce India's dependence on imported LPG. This strategic move aims to enhance national energy security, promote cleaner alternatives, and cut import bills. The initiative underscores a commitment to sustainable energy solutions and self-reliance, potentially transforming domestic energy consumption.",
-            "url": "https://economictimes.indiatimes.com/industry/renewables/green-hydrogen-to-cut-lpg-dependence-for-cooking-psa-ajay-sood/articleshow/131194846.cms",
-            "category": "National",
-            "date": "2026-05-19T08:26:20Z"
-        },
-        {
-            "title": "Operation Sindoor reflected 'smart power' in its most complete expression, says Indian Army chief",
-            "summary": "Under Operation Sindoor, Indian forces successfully dismantled significant terror infrastructure, strategically challenging a long-standing assumption about India's response capabilities. The operation was executed deliberately and purposefully, stopping upon achieving its objectives. This precise action showcases India's resolve to conduct targeted operations, demonstrating strategic thinking and tactical control crucial for national security.",
-            "url": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-reflected-smart-power-in-its-most-complete-expression-says-indian-army-chief/articleshow/131195056.cms",
+            "title": "Long before Tejas, how India\u2019s indigenous fighter jet Marut met a painful death that still haunts India today",
+            "summary": "India's HF-24 Marut, its first domestically designed and produced jet fighter, was a monumental achievement. Its induction made India the first Asian nation outside Russia to operationally field an indigenous combat jet. This highlighted India's early aerospace engineering prowess and commitment to defence self-reliance, paving the way for future domestic projects.",
+            "url": "https://economictimes.indiatimes.com/news/defence/long-before-tejas-how-indias-indigenous-fighter-jet-marut-met-a-painful-death-that-still-haunts-india-today/articleshow/131198087.cms",
             "category": "Defence",
-            "date": "2026-05-19T08:21:47Z"
-        },
-        {
-            "title": "Ro Fund Management launches \u2018Ro Stars of India Fund\u2019 under Category III AIF platform",
-            "summary": "Mumbai-based Ro Fund Management has launched the 'Ro Stars of India Fund,' a SEBI-registered Category III Alternative Investment Fund (AIF). This new fund aims to generate high-alpha returns for investors by employing a strategy focused on identifying promising Indian businesses. It represents a notable development in the domestic investment landscape, providing new avenues for wealth creation within the national economy.",
-            "url": "https://economictimes.indiatimes.com/markets/aif-pms/ro-fund-management-launches-ro-stars-of-india-fund-under-category-iii-aif-platform/articleshow/131194941.cms",
-            "category": "National",
-            "date": "2026-05-19T08:20:16Z"
-        },
-        {
-            "title": "Malaysia seeks over US$251 million in compensation from Norwegian firm over scrapped missile deal: Minister",
-            "summary": "A minister announced that 30% of combat ship project components are currently locally sourced, expressing hope to increase this figure in future naval projects. This underscores India's strong push towards enhancing indigenous manufacturing and achieving greater self-reliance in the defence sector. Such initiatives are vital for strengthening national security, reducing foreign dependency, and boosting the domestic defence industry, aligning with the 'Make in India' vision.",
-            "url": "https://www.channelnewsasia.com/asia/malaysia-norway-scrapped-defence-deal-naval-missile-strike-system-6129831",
-            "category": "Defence",
-            "date": "2026-05-19T08:16:01Z"
-        },
-        {
-            "title": "Cast your vote for the Oshkosh and Fond du Lac Athlete of the Week",
-            "summary": "This article announces the 'Athlete of the Week' poll for the Oshkosh and Fond du Lac areas, covering athletic achievements from May 11-17. Readers are encouraged to vote for local high school athletes who excelled in sports like baseball and girls' soccer. The poll closes on May 22, aiming to recognize and celebrate community sports talent within these specific regions. While relevant locally, aspiring candidates should prioritize news of national and international strategic significance.",
-            "url": "https://www.thenorthwestern.com/story/sports/high-school/2026/05/19/oshkosh-fond-du-lac-athlete-of-the-week-poll-vote/89992326007/",
-            "category": "National",
-            "date": "2026-05-19T08:01:47Z"
-        },
-        {
-            "title": "Russia begins three days of nuclear drills",
-            "summary": "Russia initiated three-day nuclear weapons drills involving thousands of troops nationwide, amid escalating drone attacks from Kyiv. This exercise highlights Russia's nuclear readiness and strategic messaging, particularly given the ongoing conflict. It serves as a significant display of military might and a powerful strategic deterrence signal to international observers and adversaries.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-begins-three-days-of-nuclear-drills/articleshow/131194519.cms",
-            "category": "Defence",
-            "date": "2026-05-19T07:53:15Z"
+            "date": "2026-05-19T11:16:24Z"
         }
     ]
 }
