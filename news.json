@@ -1,26 +1,54 @@
 {
-    "last_updated": "2026-05-22T02:51:05.479055+00:00",
+    "last_updated": "2026-05-22T08:54:31.745481+00:00",
     "articles": [
         {
-            "title": "Germany Becomes A Ukraine War Lab, and a Staging Ground For a Forever War On Russia",
-            "summary": "In February, Ukrainian President Volodymyr Zelensky and German Defense Minister Boris Pistorius were present together in a Bavarian assembly hall. Their joint appearance likely signified ongoing high-level discussions regarding bilateral defence cooperation and support for Ukraine. The meeting underscores the continued strategic partnership between Germany and Ukraine amidst regional security challenges.",
-            "url": "https://www.activistpost.com/germany-becomes-a-ukraine-war-lab-and-a-staging-ground-for-a-forever-war-on-russia/",
+            "title": "Putin's nuclear build-up on NATO's doorstep: Russia transports nukes to Belarus as allies rehearse strikes on the West",
+            "summary": "Russia has delivered tactical nuclear munitions to storage facilities in Belarus, coinciding with major military exercises. This action significantly escalates tensions with Western nations amidst the ongoing conflict in Ukraine. The move underscores Russia's assertive military posture and its willingness to deploy strategic assets in the region, drawing strong international concern regarding regional stability and nuclear proliferation.",
+            "url": "https://www.dailymail.com/news/article-15836661/Putins-nuclear-build-NATOs-doorstep-Russia-transports-nukes-Belarus-allies-rehearse-strikes-West.html",
             "category": "Defence",
-            "date": "2026-05-21T02:47:00Z"
+            "date": "2026-05-21T08:50:25Z"
         },
         {
-            "title": "wyolet-symbol 0.2.0",
-            "summary": "A website is facing technical issues, with a critical section failing to load due to potential browser extensions, network problems, or user settings. Users experiencing this are advised to verify their internet connection, disable ad blockers, or attempt accessing the site via an alternative browser to resolve the display error and restore full functionality.",
-            "url": "https://pypi.org/project/wyolet-symbol/0.2.0/",
+            "title": "Patlabor EZY 'File 1' Film Opens at #8, Live-Action Sh\u014djiki Fud\u014dsan Opens at #4",
+            "summary": "Nintendo, Illumination, and Universal Pictures have announced 'The Super Mario Galaxy Movie,' a sequel building upon the success of 'The Super Mario Bros. Movie.' This collaboration aims to further expand the cinematic universe of Nintendo's iconic Super Mario video game franchise, continuing their partnership in animated entertainment.",
+            "url": "https://www.animenewsnetwork.com/news/2026-05-21/patlabor-ezy-file-1-film-opens-at-no.8-live-action-shojiki-fudosan-opens-at-no.4/.237484",
             "category": "Sci & Tech",
-            "date": "2026-05-21T01:57:55Z"
+            "date": "2026-05-21T08:15:00Z"
         },
         {
-            "title": "WCT Sports Show: Sorting out section softball",
-            "summary": "The softball postseason officially began on Tuesday, May 20th, with initial games now complete. West Central Tribune analysts Tom Elliott and Joe Brown are currently reviewing the outcomes and identifying the top area contenders who have emerged as strong candidates for advancement in the ongoing tournament. Their analysis focuses on local teams' performance and potential.",
-            "url": "https://www.wctrib.com/sports/prep/wct-sports-show-sorting-out-section-softball",
+            "title": "Headline: HVR Solar to commission 1.2 GW module manufacturing plant in Sonipat this June 2026",
+            "summary": "HVR Solar begins commercial operations at its new 1.2 GW solar module manufacturing plant, a strategic step to boost India's renewable energy transition. This significantly enhances domestic production capabilities, fostering energy independence and contributing to the nation's green economy goals. Such initiatives are vital for sustainable national development.",
+            "url": "https://economictimes.indiatimes.com/industry/renewables/headline-hvr-solar-to-commission-1-2-gw-module-manufacturing-plant-in-sonipat-this-june-2026/articleshow/131242914.cms",
             "category": "National",
-            "date": "2026-05-20T22:31:00Z"
+            "date": "2026-05-21T08:14:41Z"
+        },
+        {
+            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 21, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
+            "summary": "Gold prices are currently in focus due to economic and geopolitical factors. Escalating US-Iran tensions, persistent inflation fears, and anticipated interest rate hikes are collectively driving market uncertainty. For SSB aspirants, understanding this interplay between global events and commodity markets is crucial for assessing international relations and economic stability.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-21-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131242758.cms",
+            "category": "International",
+            "date": "2026-05-21T08:06:00Z"
+        },
+        {
+            "title": "Police killed or injured their loved ones. Grief turned these 3 strangers into allies",
+            "summary": "The provided text highlights the profound trauma experienced by families whose loved ones die during police interventions, whether through beatings or shootings. It emphasizes the lack of clear guidance or support for parents after witnessing such fatal encounters with law enforcement, underscoring a systemic issue regarding accountability and victim support within the country's justice system.",
+            "url": "https://www.cbc.ca/news/canada/montreal/quebec-families-quebec-bei-police-9.7205979",
+            "category": "National",
+            "date": "2026-05-21T08:00:00Z"
+        },
+        {
+            "title": "Tribunal into missing Indigenous children and unmarked graves to hold sessions in Montreal",
+            "summary": "An international tribunal is scheduled to convene in Montreal next week, investigating missing children and unmarked graves associated with Canada's residential school system. This session aims to address historical injustices and alleged atrocities within these institutions. The ongoing probe underscores global efforts towards uncovering truth and promoting accountability for past human rights abuses, marking a significant international development.",
+            "url": "https://www.cbc.ca/news/indigenous/tribunal-missing-indigenous-children-unmarked-graves-9.7201317",
+            "category": "International",
+            "date": "2026-05-21T08:00:00Z"
+        },
+        {
+            "title": "survrm2py added to PyPI",
+            "summary": "survRM2py is a new Python software library, a re-implementation of the existing R package `survRM2` for Restricted Mean Survival Time (RMST) analysis. This tool aims for exact mathematical accuracy with its R counterpart. Such statistical tools are crucial in fields like medical research for analyzing survival data, potentially aiding advancements in healthcare and scientific understanding.",
+            "url": "https://pypi.org/project/survrm2py/",
+            "category": "Sci & Tech",
+            "date": "2026-05-21T07:54:07Z"
         }
     ]
 }
