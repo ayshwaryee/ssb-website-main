@@ -1,61 +1,40 @@
 {
-    "last_updated": "2026-05-22T14:28:56.323158+00:00",
+    "last_updated": "2026-05-22T19:28:07.290281+00:00",
     "articles": [
         {
-            "title": "LG Electronics Q4 Results: PAT falls 8% YoY to Rs 693 crore despite 8% revenue growth",
-            "summary": "LG Electronics India reported a net profit of Rs 693 crore for the March quarter. This figure is compared to Rs 755 crore in the year-ago period, which the company's report implies as an 8% year-on-year jump. This financial update provides insight into the performance of a major player in India's electronic home appliances market, reflecting broader consumer spending and economic trends.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lg-electronics-q4-results-pat-falls-8-yoy-to-rs-693-crore-despite-8-revenue-growth/articleshow/131248241.cms",
-            "category": "National",
-            "date": "2026-05-21T14:27:26Z"
+            "title": "Show HN: AI readiness toolkit: AI two-minute CODE maturity check",
+            "summary": "A new Claude Code plugin enhances AI-native development by offering skills, agents, and commands for advanced application building. This tool operates locally within your Claude Code session, integrating with your existing codebase and utilizing AI models you already pay for. It provides a seamless and efficient solution for developers to build AI-powered applications directly within their current development environment, streamlining AI integration.",
+            "url": "https://github.com/bjcoombs/ai-native-toolkit",
+            "category": "Sci & Tech",
+            "date": "2026-05-21T18:48:44Z"
         },
         {
-            "title": "WATCH Russian nuclear warhead fitted to missile in Belarus (VIDEO)",
-            "summary": "Russia's Defense Ministry released footage of joint nuclear exercises with Belarus, showing troops training to equip an Iskander ballistic missile with a nuclear warhead. This bilateral drill emphasizes their strategic cooperation and readiness, signifying ongoing efforts to enhance nuclear capabilities and deterrence. Such exercises are crucial for understanding evolving geopolitical dynamics and military preparedness.",
-            "url": "https://www.rt.com/russia/640337-nuclear-warheads-transfer-video/",
-            "category": "Defence",
-            "date": "2026-05-21T13:56:02Z"
-        },
-        {
-            "title": "Van found in Bhakra canal after 25 years brings closure to families of three men missing since 2000",
-            "summary": "The provided article text is severely truncated, preventing a comprehensive summary of its content. It begins with Teja Ram taking his friend Surjit Singh to a wedding in Rupnagar district. However, the core narrative, key details, and ultimate significance of the story are entirely missing, making a detailed analysis impossible.",
-            "url": "https://indianexpress.com/article/cities/chandigarh/punjab-bhakra-canal-missing-maruti-omni-van-recovered-after-25-years-10701676/",
-            "category": "National",
-            "date": "2026-05-21T13:47:26Z"
-        },
-        {
-            "title": "Donroe Doctrine Makes Guyana Key for US Latin America Policy",
-            "summary": "Guyana is experiencing a significant economic surge, with weekly oil revenues nearly doubling from $370 million to $623 million. This substantial increase is primarily due to escalating global oil prices, which are a direct consequence of the ongoing \"US/Israel-Iran War.\" The conflict's impact on international crude markets is greatly benefiting the small South American nation, underscoring how geopolitical tensions can dramatically influence global economies.",
-            "url": "https://www.fairobserver.com/world-news/us-news/donroe-doctrine-makes-guyana-key-for-us-latin-america-policy/",
+            "title": "Pilot project offering localized RCMP safety alerts launches in handful of Manitoba communities",
+            "summary": "Manitobans in Canada will soon receive public safety messages directly from their local RCMP detachments through a new pilot project. This community notification system, launched Thursday, aims to enhance communication between law enforcement and citizens. The initiative seeks to improve rapid dissemination of critical safety information, marking a step towards more direct and efficient public alerts within specific communities.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/rcmp-community-notification-system-9.7207209",
             "category": "International",
-            "date": "2026-05-21T13:47:12Z"
+            "date": "2026-05-21T18:22:23Z"
         },
         {
-            "title": "Ukraine 'wipes out 100 Russian soldiers in single strike on air defence system'",
-            "summary": "Ukraine successfully conducted a strike in occupied Kherson, eliminating approximately 100 Russian soldiers and destroying a significant air defence system. This operation highlights Ukraine's tactical capabilities against Russian military infrastructure. The incident, reportedly captured on footage, represents a considerable setback for Russian forces in the region and demonstrates the ongoing intensity of the conflict.",
-            "url": "https://www.dailymail.com/news/article-15837635/Ukraine-wipes-100-Russian-soldiers-single-strike-air-defence-system.html",
+            "title": "India's Chandrayaan-3 mission gets Goddard Astronautics Award from AIAA",
+            "summary": "India's ISRO received the prestigious Goddard Astronautics Award for 2026 from the American Institute of Aeronautics and Astronautics (AIAA). This significant international honour acknowledges India's remarkable achievements and global leadership in space exploration and technology. It underscores ISRO's pioneering contributions to astronautics, solidifying India's scientific prowess and inspiring further advancements, a moment of national pride.",
+            "url": "https://economictimes.indiatimes.com/news/science/chandrayaan-3-shines-isro-receives-prestigious-goddard-astronautics-award-for-lunar-mission/articleshow/131250004.cms",
+            "category": "Sci & Tech",
+            "date": "2026-05-21T17:44:36Z"
+        },
+        {
+            "title": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
+            "summary": "Russian and Belarusian Presidents, Putin and Lukashenko, recently oversaw a joint nuclear forces exercise via video conference. This significant military drill underscores their deepening strategic alliance and enhanced defence readiness. For SSB aspirants, this highlights evolving geopolitical power dynamics, the importance of deterrence, and understanding how joint exercises shape international security landscapes.",
+            "url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises",
             "category": "Defence",
-            "date": "2026-05-21T13:38:23Z"
+            "date": "2026-05-21T16:07:02Z"
         },
         {
-            "title": "Vladimir Putin sends nuclear warning. Here is the message for Donald Trump, other world leaders",
-            "summary": "Russian President Vladimir Putin, while observing joint nuclear drills with Belarus, reiterated that nuclear weapons are a 'last resort' measure. He emphasized their role as a 'guarantee' of national security. These drills and Putin's statements underscore Russia's nuclear deterrence posture amid geopolitical tensions, highlighting the strategic importance of such capabilities in international relations.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/vladimir-putin-sends-nuclear-warning-here-is-the-message-for-donald-trump-other-world-leaders/articleshow/131247560.cms",
-            "category": "Defence",
-            "date": "2026-05-21T13:21:43Z"
-        },
-        {
-            "title": "This Date in Washington Senators History \u2013 McDermott and Jensen exchange blows",
-            "summary": "This historical news snippet from May 21, 1913, reports on a baseball game where Washington's Alva 'Rip' Williams hit a crucial 2-run pinch-hit home run in the 9th inning, tying the contest against Cleveland. The Washington Senators subsequently scored two more runs in the 10th inning. While not current affairs, it illustrates past sporting events.",
-            "url": "https://dcbaseballhistory.com/2026/05/this-date-in-washington-senators-history-mcdermott-and-jenson-exchange-blows/",
+            "title": "LG Electronics India net profit dips 8.1%, registers highest quarterly revenue",
+            "summary": "LG Electronics India reported an 8.19% decline in net profit to \u20b9692.7 crore for the March quarter. This downturn was primarily attributed to escalating commodity costs and the depreciating Indian rupee. This situation reflects broader economic pressures on businesses operating within the Indian market, highlighting the impact of macroeconomic factors on corporate profitability, relevant for general economic awareness.",
+            "url": "https://www.thehindubusinessline.com/companies/lg-electronics-india-net-profit-dips-81-registers-highest-quarterly-revenue/article71007380.ece",
             "category": "National",
-            "date": "2026-05-21T12:05:00Z"
-        },
-        {
-            "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 15th May 2026",
-            "summary": "India and the UAE are significantly strengthening their strategic partnership across multiple sectors. Key areas of collaboration include bolstering energy security, enhancing defence cooperation, and developing maritime infrastructure. Additionally, both nations are venturing into advanced technology domains like AI and supercomputing. This multifaceted bilateral engagement underscores a deepening relationship vital for regional stability and mutual strategic interests, crucial for an SSB aspirant to understand global alliances.",
-            "url": "https://iasbaba.com/2026/05/daily-current-affairs-ias-upsc-prelims-and-mains-exam-15th-may-2026/",
-            "category": "International",
-            "date": "2026-05-21T10:44:33Z"
+            "date": "2026-05-21T15:44:19Z"
         }
     ]
 }
