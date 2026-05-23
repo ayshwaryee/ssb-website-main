@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-05-22T19:28:07.290281+00:00",
+    "last_updated": "2026-05-23T02:36:02.807963+00:00",
     "articles": [
         {
-            "title": "Show HN: AI readiness toolkit: AI two-minute CODE maturity check",
-            "summary": "A new Claude Code plugin enhances AI-native development by offering skills, agents, and commands for advanced application building. This tool operates locally within your Claude Code session, integrating with your existing codebase and utilizing AI models you already pay for. It provides a seamless and efficient solution for developers to build AI-powered applications directly within their current development environment, streamlining AI integration.",
-            "url": "https://github.com/bjcoombs/ai-native-toolkit",
-            "category": "Sci & Tech",
-            "date": "2026-05-21T18:48:44Z"
-        },
-        {
-            "title": "Pilot project offering localized RCMP safety alerts launches in handful of Manitoba communities",
-            "summary": "Manitobans in Canada will soon receive public safety messages directly from their local RCMP detachments through a new pilot project. This community notification system, launched Thursday, aims to enhance communication between law enforcement and citizens. The initiative seeks to improve rapid dissemination of critical safety information, marking a step towards more direct and efficient public alerts within specific communities.",
-            "url": "https://www.cbc.ca/news/canada/manitoba/rcmp-community-notification-system-9.7207209",
-            "category": "International",
-            "date": "2026-05-21T18:22:23Z"
-        },
-        {
-            "title": "India's Chandrayaan-3 mission gets Goddard Astronautics Award from AIAA",
-            "summary": "India's ISRO received the prestigious Goddard Astronautics Award for 2026 from the American Institute of Aeronautics and Astronautics (AIAA). This significant international honour acknowledges India's remarkable achievements and global leadership in space exploration and technology. It underscores ISRO's pioneering contributions to astronautics, solidifying India's scientific prowess and inspiring further advancements, a moment of national pride.",
-            "url": "https://economictimes.indiatimes.com/news/science/chandrayaan-3-shines-isro-receives-prestigious-goddard-astronautics-award-for-lunar-mission/articleshow/131250004.cms",
-            "category": "Sci & Tech",
-            "date": "2026-05-21T17:44:36Z"
-        },
-        {
-            "title": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
-            "summary": "Russian and Belarusian Presidents, Putin and Lukashenko, recently oversaw a joint nuclear forces exercise via video conference. This significant military drill underscores their deepening strategic alliance and enhanced defence readiness. For SSB aspirants, this highlights evolving geopolitical power dynamics, the importance of deterrence, and understanding how joint exercises shape international security landscapes.",
-            "url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises",
+            "title": "French football's pioneering British champions",
+            "summary": "Beyond Paris Saint-Germain's 14th league title celebration, a key strategic development is highlighted near the French capital. Tucked away in the Meudon forest, a significant, discreet facility operates, likely pertaining to national defence or advanced technological research crucial for France's security interests. This underscores important national priorities for SSB aspirants.",
+            "url": "https://sports.yahoo.com/articles/french-footballs-pioneering-british-champions-022628034.html",
             "category": "Defence",
-            "date": "2026-05-21T16:07:02Z"
+            "date": "2026-05-22T02:26:28Z"
         },
         {
-            "title": "LG Electronics India net profit dips 8.1%, registers highest quarterly revenue",
-            "summary": "LG Electronics India reported an 8.19% decline in net profit to \u20b9692.7 crore for the March quarter. This downturn was primarily attributed to escalating commodity costs and the depreciating Indian rupee. This situation reflects broader economic pressures on businesses operating within the Indian market, highlighting the impact of macroeconomic factors on corporate profitability, relevant for general economic awareness.",
-            "url": "https://www.thehindubusinessline.com/companies/lg-electronics-india-net-profit-dips-81-registers-highest-quarterly-revenue/article71007380.ece",
+            "title": "Buzzing stocks: Central Bank, DalmiaCement, Eicher Motors, Tejas Networks, Cryogenic OGS, others",
+            "summary": "The Government of India, via the Ministry of Finance, has commenced divesting its stake in Central Bank of India through an Offer for Sale (OFS). This strategic move aims to reduce government ownership in the public sector bank, aligning with broader economic reforms to potentially enhance efficiency and encourage private sector participation in the Indian banking system. It reflects a significant national financial policy decision.",
+            "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-central-bank-dalmiacement-eicher-motors-tejas-networks-cryogenic-ogs-others/article71008975.ece",
             "category": "National",
-            "date": "2026-05-21T15:44:19Z"
+            "date": "2026-05-22T02:11:03Z"
+        },
+        {
+            "title": "Bengaluru rain update: Bangalore braces for intense showers, thunderstorms and strong winds as IMD issues yellow alert till May 24",
+            "summary": "Bengaluru is under a yellow alert from the India Meteorological Department (IMD), anticipating intense rainfall, thunderstorms, and lightning today. This follows disruptions experienced on Thursday, indicating potential widespread impact on daily life in the city due to the severe weather conditions. Residents are advised to take necessary precautions as the weather department forecasts continued challenging conditions.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-rain-update-bangalore-braces-for-intense-showers-thunderstorms-and-strong-winds-as-imd-issues-yellow-alert-till-may-24/articleshow/131254755.cms",
+            "category": "National",
+            "date": "2026-05-22T02:05:52Z"
         }
     ]
 }
