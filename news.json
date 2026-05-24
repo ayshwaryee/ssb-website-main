@@ -1,61 +1,47 @@
 {
-    "last_updated": "2026-05-24T13:15:06.823015+00:00",
+    "last_updated": "2026-05-24T19:10:32.868204+00:00",
     "articles": [
         {
-            "title": "Nations that build their own weapons write their Destiny, says Rajnath Singh",
-            "summary": "Defence Minister Rajnath Singh flagged off the first batch of Suryastra Universal Rocket Launchers from Nibe Ltd's new Shirdi facility, inducting them into the Indian Army. This significant development boosts indigenous defence production and modernizes the Army's capabilities. The Suryastra launchers enhance India's self-reliance in advanced rocket technology, strengthening national security and operational readiness.",
-            "url": "https://www.thehindubusinessline.com/news/nations-that-build-their-own-weapons-write-their-destiny-says-rajnath-singh/article71014645.ece",
+            "title": "Suspected terrorists trapped as encounter breaks out in Rajouri",
+            "summary": "Armed forces launched a major cordon-and-search operation in Rajouri district, Jammu & Kashmir, following intelligence on suspected infiltrators. An encounter subsequently broke out, underscoring the continuous vigilance and proactive operations by security forces to counter infiltration bids. This incident highlights ongoing counter-insurgency efforts and the dedication of our armed forces to maintaining national security in the region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/suspected-terrorists-trapped-as-encounter-breaks-out-in-rajouri/articleshow/131285026.cms",
             "category": "Defence",
-            "date": "2026-05-23T13:12:00Z"
+            "date": "2026-05-23T19:03:04Z"
         },
         {
-            "title": "Minda Corp Q4 profit surges 138% to \u20b9124 crore on strong demand",
-            "summary": "Minda Corporation reported its strongest-ever quarterly and annual financial performance in FY26. This significant achievement was driven by increasing electronics content in vehicles, growing premiumisation trends, and robust demand across the two-wheeler segment. The results reflect India's dynamic automotive manufacturing sector and evolving consumer preferences, showcasing industrial growth.",
-            "url": "https://www.thehindubusinessline.com/companies/minda-corp-q4-profit-surges-138-to-124-crore-on-strong-demand/article71011743.ece",
-            "category": "National",
-            "date": "2026-05-23T12:38:06Z"
+            "title": "Govt wants private sector share in defence production to rise to 50%: Rajnath Singh",
+            "summary": "Defence Minister Rajnath Singh stated that India aims for its private sector to contribute at least 50% of the nation's defence manufacturing capacity, a significant increase from the current 30%. This strategic push aligns with the 'Make in India' initiative, fostering self-reliance and boosting indigenous production capabilities, thereby strengthening national defence infrastructure and economic growth.",
+            "url": "https://economictimes.indiatimes.com/news/defence/govt-wants-private-sector-share-in-defence-production-to-rise-to-50-rajnath-singh/articleshow/131284936.cms",
+            "category": "Defence",
+            "date": "2026-05-23T18:55:12Z"
+        },
+        {
+            "title": "Army orders probe into helicopter crash close to LAC",
+            "summary": "The Indian Army has initiated a probe into a helicopter crash in Ladakh on May 20. Senior commander Major General Sachin Mehta and two pilots were injured in the incident but fortunately survived. This investigation underscores the continuous focus on operational safety within the armed forces and the challenges faced by military personnel during their service.",
+            "url": "https://economictimes.indiatimes.com/news/defence/army-orders-probe-into-helicopter-crash-close-to-lac/articleshow/131284638.cms",
+            "category": "Defence",
+            "date": "2026-05-23T18:41:58Z"
+        },
+        {
+            "title": "rustima added to PyPI",
+            "summary": "This article introduces a high-performance SARIMAX (Seasonal ARIMA with eXogenous regressors) engine, developed in Rust with Python bindings via PyO3. It offers a statsmodels-compatible high-level API, facilitating advanced time-series analysis and forecasting. Its native compilation enhances efficiency, providing data scientists and developers a powerful, fast, and easy-to-integrate tool for predictive modeling and data interpretation in various technical applications.",
+            "url": "https://pypi.org/project/rustima/",
+            "category": "Sci & Tech",
+            "date": "2026-05-23T17:11:13Z"
         },
         {
             "title": "SPIC Q4 profit up on better cost control",
-            "summary": "Southern Petrochemical Industries Corporation Ltd (SPIC) reported a consolidated net profit of \u20b929.5 crore for the quarter ended March 2026 (Q4FY26). This represents a notable increase compared to the \u20b919.5 crore profit recorded in the same quarter of the previous fiscal year. This financial performance indicates positive growth for the petrochemical company during the period.",
+            "summary": "Southern Petrochemical Industries Corporation Ltd (SPIC) reported a substantial increase in consolidated net profit, reaching 29.5 crore for Q4FY26, up from 19.5 crore last year. This strong financial performance indicates robust growth within the petrochemical sector. Such industrial strength is crucial for India's economic development, contributing significantly to national infrastructure and employment generation, which are vital for overall national progress.",
             "url": "https://www.thehindubusinessline.com/companies/spic-q4-profit-up-on-better-cost-control/article71014515.ece",
             "category": "National",
             "date": "2026-05-23T12:28:41Z"
         },
         {
-            "title": "Future wars will be multi-domain with cyber and cognitive aspects, says CDS Gen Anil Chauhan",
-            "summary": "Chief of Defence Staff General Anil Chauhan highlighted that future wars will be multi-domain, encompassing land, sea, air, cyberspace, and cognitive warfare operating synergistically. He stressed the pivotal role of technology and speed in these evolving conflicts. SSB aspirants should grasp this shift towards integrated, complex battlefields, emphasizing the need for comprehensive understanding of modern warfare strategies and technological advancements for effective defence preparedness.",
-            "url": "https://economictimes.indiatimes.com/news/defence/future-wars-will-be-multi-domain-with-cyber-and-cognitive-aspects-says-cds-gen-anil-chauhan/articleshow/131279207.cms",
-            "category": "Defence",
-            "date": "2026-05-23T12:06:03Z"
-        },
-        {
-            "title": "A nation that manufactures its own weaponry writes its own destiny: Raksha Mantri",
-            "summary": "The Defence Minister and Maharashtra CM inaugurated India's first private sector Defence Manufacturing Complex in Shirdi. This landmark facility is set to produce advanced systems, notably India's first 300 KM Universal Rocket Launching System. This initiative significantly bolsters indigenous defence production capabilities, enhances self-reliance (Aatmanirbharta) in defence, and contributes to national security and job creation.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260523-india-pib01.htm",
-            "category": "Defence",
-            "date": "2026-05-23T12:00:00Z"
-        },
-        {
-            "title": "Vinesh Phogat to participate in Asian Games selection trials: Delhi High Court",
-            "summary": "The Delhi High Court has permitted celebrated grappler Vinesh Phogat to participate in the upcoming Asian Games trials, overriding the Wrestling Federation of India's (WFI) decision. This crucial ruling ensures a fair opportunity for a top athlete to contend for a spot, emphasizing judicial oversight in sports administration for upholding athlete rights and ensuring due process.",
-            "url": "https://economictimes.indiatimes.com/news/sports/vinesh-phogat-to-participate-in-asian-games-selection-trials-delhi-high-court/articleshow/131279026.cms",
+            "title": "Pre-monsoon showers cool Delhi, southwest monsoon advances in Kerala",
+            "summary": "Delhi-NCR residents received welcome relief from the intense heatwave on Saturday as pre-monsoon showers, cloudy skies, and cool breezes provided temporary respite. This much-needed weather change significantly lowered temperatures across the region, offering immediate comfort. The unexpected downpour made mornings pleasant, mitigating the extreme heat conditions and providing a brief reprieve before the full monsoon arrival.",
+            "url": "https://indianexpress.com/article/india/monsoon-in-india-delhi-rain-temperature-dips-southwest-monsoon-kerala-10703852/",
             "category": "National",
-            "date": "2026-05-23T11:58:01Z"
-        },
-        {
-            "title": "Indian stock market under FPI selling pressure: What should domestic retail investors do now? Experts weigh in",
-            "summary": "Foreign investors are continuously pulling funds from Indian equities due to multiple economic headwinds. Key factors include elevated global crude oil prices, persistent domestic inflationary pressures, weak earnings prospects for Indian companies, and the depreciating rupee. This trend reflects growing concerns over India's economic stability and financial market performance, impacting overall investor confidence.",
-            "url": "https://www.livemint.com/money/personal-finance/indian-stock-market-under-fpi-selling-pressure-what-should-domestic-retail-investors-do-now-experts-weigh-in-11779437248251.html",
-            "category": "National",
-            "date": "2026-05-23T11:52:18Z"
-        },
-        {
-            "title": "High Court Clears Vinesh Phogat For Asian Games Trials",
-            "summary": "The Delhi High Court has allowed wrestler Vinesh Phogat to compete in the Asian Games trials, challenging the Wrestling Federation of India\u2019s exclusionary selection policy. This decision ensures fairness in athlete selection, overruling previous restrictions. It highlights the judiciary's role in upholding sports integrity and providing equal opportunities for national representation at major international events.",
-            "url": "https://www.rediff.com/sports/report/vinesh-phogat-to-participate-in-asian-games-trials/20260523.htm",
-            "category": "National",
-            "date": "2026-05-23T11:47:18Z"
+            "date": "2026-05-23T04:56:35Z"
         }
     ]
 }
