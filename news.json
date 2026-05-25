@@ -1,47 +1,33 @@
 {
-    "last_updated": "2026-05-24T19:10:32.868204+00:00",
+    "last_updated": "2026-05-25T02:56:05.206894+00:00",
     "articles": [
         {
-            "title": "Suspected terrorists trapped as encounter breaks out in Rajouri",
-            "summary": "Armed forces launched a major cordon-and-search operation in Rajouri district, Jammu & Kashmir, following intelligence on suspected infiltrators. An encounter subsequently broke out, underscoring the continuous vigilance and proactive operations by security forces to counter infiltration bids. This incident highlights ongoing counter-insurgency efforts and the dedication of our armed forces to maintaining national security in the region.",
-            "url": "https://economictimes.indiatimes.com/news/defence/suspected-terrorists-trapped-as-encounter-breaks-out-in-rajouri/articleshow/131285026.cms",
+            "title": "India, Oman strengthen defence cooperation through joint military training",
+            "summary": "India and Oman significantly strengthened their strategic defence partnership through a specialised military training initiative. Two Indian Mobile Training Teams (IMTT) conducted the program in Muscat, enhancing Omani personnel's capabilities. This collaboration deepens defence ties and mutual commitment to regional security, fostering greater interoperability between their armed forces.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-oman-strengthen-defence-cooperation-through-joint-military-training/articleshow/131288122.cms",
             "category": "Defence",
-            "date": "2026-05-23T19:03:04Z"
+            "date": "2026-05-24T02:54:58Z"
         },
         {
-            "title": "Govt wants private sector share in defence production to rise to 50%: Rajnath Singh",
-            "summary": "Defence Minister Rajnath Singh stated that India aims for its private sector to contribute at least 50% of the nation's defence manufacturing capacity, a significant increase from the current 30%. This strategic push aligns with the 'Make in India' initiative, fostering self-reliance and boosting indigenous production capabilities, thereby strengthening national defence infrastructure and economic growth.",
-            "url": "https://economictimes.indiatimes.com/news/defence/govt-wants-private-sector-share-in-defence-production-to-rise-to-50-rajnath-singh/articleshow/131284936.cms",
-            "category": "Defence",
-            "date": "2026-05-23T18:55:12Z"
+            "title": "Tom Cruise's Days of Thunder co-star reveals his surprising last words before shocking crash\u00a0on set",
+            "summary": "Cary Elwes, Tom Cruise's co-star from the 1990 action film 'Days of Thunder', recently lauded Cruise's profound dedication during its production. The film set was also where Cruise first met his future ex-wife, Nicole Kidman. Both actors, Cruise and Elwes, are currently 63 years old. This Hollywood anecdote highlights enduring professional relationships and behind-the-scenes insights from a classic film.",
+            "url": "https://www.dailymail.com/tvshowbiz/article-15844033/Tom-Cruise-Days-Thunder-words-crash.html",
+            "category": "International",
+            "date": "2026-05-24T02:51:12Z"
         },
         {
-            "title": "Army orders probe into helicopter crash close to LAC",
-            "summary": "The Indian Army has initiated a probe into a helicopter crash in Ladakh on May 20. Senior commander Major General Sachin Mehta and two pilots were injured in the incident but fortunately survived. This investigation underscores the continuous focus on operational safety within the armed forces and the challenges faced by military personnel during their service.",
-            "url": "https://economictimes.indiatimes.com/news/defence/army-orders-probe-into-helicopter-crash-close-to-lac/articleshow/131284638.cms",
+            "title": "Japan\u2019s Task: Safeguarding Maritime Security in the Indo-Pacific",
+            "summary": "Japan is actively focused on safeguarding maritime security in the Indo-Pacific region. This critical task highlights its strategic role in maintaining a free and open international order. The nation's commitment is crucial for regional stability and economic prosperity, addressing evolving geopolitical challenges through naval presence and collaborative security efforts to ensure stability and economic prosperity in the vital maritime domain.",
+            "url": "https://freerepublic.com/focus/f-chat/4380677/posts",
             "category": "Defence",
-            "date": "2026-05-23T18:41:58Z"
+            "date": "2026-05-23T23:35:51Z"
         },
         {
-            "title": "rustima added to PyPI",
-            "summary": "This article introduces a high-performance SARIMAX (Seasonal ARIMA with eXogenous regressors) engine, developed in Rust with Python bindings via PyO3. It offers a statsmodels-compatible high-level API, facilitating advanced time-series analysis and forecasting. Its native compilation enhances efficiency, providing data scientists and developers a powerful, fast, and easy-to-integrate tool for predictive modeling and data interpretation in various technical applications.",
-            "url": "https://pypi.org/project/rustima/",
+            "title": "Green Lantern: Every Human Who\u2019s Had a Power Ring, Ranked By Power",
+            "summary": "Green Lantern stands as the premier sci-fi hero within the DC Multiverse. The Green Lantern Corps, a vast intergalactic police force, comprises thousands of diverse beings from across the universe. Their collective strength and adventures are fueled by immense willpower, uniting them in their mission across myriad worlds and dimensions, showcasing a rich tapestry of heroic narratives for readers.",
+            "url": "http://comicbook.com/comics/list/green-lantern-every-human-whos-had-a-power-ring-ranked-by-power/",
             "category": "Sci & Tech",
-            "date": "2026-05-23T17:11:13Z"
-        },
-        {
-            "title": "SPIC Q4 profit up on better cost control",
-            "summary": "Southern Petrochemical Industries Corporation Ltd (SPIC) reported a substantial increase in consolidated net profit, reaching 29.5 crore for Q4FY26, up from 19.5 crore last year. This strong financial performance indicates robust growth within the petrochemical sector. Such industrial strength is crucial for India's economic development, contributing significantly to national infrastructure and employment generation, which are vital for overall national progress.",
-            "url": "https://www.thehindubusinessline.com/companies/spic-q4-profit-up-on-better-cost-control/article71014515.ece",
-            "category": "National",
-            "date": "2026-05-23T12:28:41Z"
-        },
-        {
-            "title": "Pre-monsoon showers cool Delhi, southwest monsoon advances in Kerala",
-            "summary": "Delhi-NCR residents received welcome relief from the intense heatwave on Saturday as pre-monsoon showers, cloudy skies, and cool breezes provided temporary respite. This much-needed weather change significantly lowered temperatures across the region, offering immediate comfort. The unexpected downpour made mornings pleasant, mitigating the extreme heat conditions and providing a brief reprieve before the full monsoon arrival.",
-            "url": "https://indianexpress.com/article/india/monsoon-in-india-delhi-rain-temperature-dips-southwest-monsoon-kerala-10703852/",
-            "category": "National",
-            "date": "2026-05-23T04:56:35Z"
+            "date": "2026-05-23T23:00:00Z"
         }
     ]
 }
