@@ -1,47 +1,26 @@
 {
-    "last_updated": "2026-05-25T19:22:26.079140+00:00",
+    "last_updated": "2026-05-26T02:43:50.428926+00:00",
     "articles": [
         {
-            "title": "India shortlists three private firms to build next-gen stealth fighter jets",
-            "summary": "India's government is preparing to issue tenders to three private companies shortlisted for developing and manufacturing next-generation fighter jets under the Advanced Multirole Combat Aircraft (AMCA) program. This strategic initiative aims to significantly bolster indigenous defence production capabilities and enhance the Indian Air Force's operational strength, marking a crucial step towards self-reliance in advanced military aviation technology.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-shortlists-three-private-firms-to-build-next-gen-stealth-fighter-jets/articleshow/131295767.cms",
-            "category": "Defence",
-            "date": "2026-05-24T18:22:45Z"
-        },
-        {
-            "title": "Confirmed XIs: Battle for the top three at La Cer\u00e1mica",
-            "summary": "The Spanish LaLiga season concludes today with an emotional final match at Estadio de la Cer\u00e1mica. Villarreal faces Atl\u00e9tico de Madrid in a high-stakes clash. Both teams arrive level, ensuring a competitive end to the league campaign. This highly anticipated fixture marks the curtain call for Spain's top football division, a globally followed sporting event.",
-            "url": "https://onefootball.com/en/news/confirmed-xis-battle-for-the-top-three-at-la-ceramica-42917253",
-            "category": "International",
-            "date": "2026-05-24T18:13:00Z"
-        },
-        {
-            "title": "instrumation 0.3.2",
-            "summary": "The provided text is a technical error message, not a news article suitable for an SSB aspirant's current affairs update. It indicates a website component failed to load, possibly due to browser extensions, network issues, or settings. The message advises checking the internet connection, disabling ad blockers, or trying an alternative browser to resolve the problem.",
-            "url": "https://pypi.org/project/instrumation/0.3.2/",
+            "title": "thurstone added to PyPI",
+            "summary": "A new object-oriented toolkit has been developed, addressing the 'horserace inverse problem.' This involves inferring relative ability from market prices, also known as the 'ability transform,' utilizing lattice-based performance models. This package aims to streamline complex data analysis, providing a structured approach to derive insights from market dynamics and performance predictions for various applications.",
+            "url": "https://pypi.org/project/thurstone/",
             "category": "Sci & Tech",
-            "date": "2026-05-24T17:11:45Z"
+            "date": "2026-05-25T02:31:01Z"
         },
         {
-            "title": "Dev Kumar Meena Secures Gold, Pole Vaulters Set New Record",
-            "summary": "At the National Senior Athletics Federation Competition, Dev Kumar Meena clinched a gold medal in the pole vault. Notably, he and Kuldeep Kumar jointly set an impressive new national record in the event, highlighting outstanding performances. The competition, which also saw other athletes achieve common qualifying standards, underscores significant advancements in national athletics.",
-            "url": "https://www.rediff.com/sports/report/meena-kumar-share-pole-vault-national-record/20260524.htm",
+            "title": "Russia hits Ukraine with Oreshnik missile in one of war's biggest attacks on Kyiv",
+            "summary": "Russia conducted one of its heaviest bombardments on Kyiv, Ukraine, deploying hundreds of drones and missiles, including the advanced hypersonic Oreshnik. This significant four-year war escalation highlights persistent aggression and evolving modern warfare tactics, which are crucial for SSB aspirants to understand global defence dynamics and international relations.",
+            "url": "https://japantoday.com/category/world/russia-hits-ukraine-with-oreshnik-missile-in-one-of-war%27s-biggest-attacks-on-kyiv2",
+            "category": "International",
+            "date": "2026-05-24T21:13:23Z"
+        },
+        {
+            "title": "Pole vault national record bettered twice as Dev, Kuldeep try to outdo each other",
+            "summary": "On Day Three of the Federation Cup, pole vaulters Dev Meena and Kuldeep Yadav took centrestage with their impressive performances. Their efforts invigorated a day that had started slowly compared to the record-breaking Saturday. This national sporting event showcased their athletic prowess, highlighting the competitive spirit and skill within Indian sports.",
+            "url": "https://indianexpress.com/article/sports/dev-meena-kuldeep-yadav-pole-vault-national-record-federation-cup-10706028/",
             "category": "National",
-            "date": "2026-05-24T16:45:21Z"
-        },
-        {
-            "title": "Can an Indian run 100m in less than 10 seconds in near future?",
-            "summary": "Indian athletics eyes a breakthrough in the elusive sub-10-second 100m dash, a national ambition for decades. Recent resurgence, led by sprinter Gurindervir Singh, offers strong hope that India could finally achieve this coveted milestone. This marks a significant potential leap for national sports, promising to boost morale and inspire future track and field aspirants.",
-            "url": "https://economictimes.indiatimes.com/news/sports/can-an-indian-run-100m-in-less-than-10-seconds-in-near-future/articleshow/131294271.cms",
-            "category": "National",
-            "date": "2026-05-24T15:43:39Z"
-        },
-        {
-            "title": "Police busts terrorists' hideout in Jammu and Kashmir's Chandoosa; huge cache of explosives recovered",
-            "summary": "Baramulla Police, in a joint counter-terror operation, successfully busted a terrorist hideout in the Nilsar Kandi area. The operation led to the recovery of a significant cache of explosives, marking a crucial success against terrorism. This coordinated effort highlights ongoing vigilance and effectiveness in maintaining national security in Jammu and Kashmir.",
-            "url": "https://economictimes.indiatimes.com/news/india/police-busts-terrorists-hideout-in-jammu-and-kashmirs-chandoosa-huge-cache-of-explosives-recovered/articleshow/131293681.cms",
-            "category": "Defence",
-            "date": "2026-05-24T14:33:14Z"
+            "date": "2026-05-24T18:38:58Z"
         }
     ]
 }
