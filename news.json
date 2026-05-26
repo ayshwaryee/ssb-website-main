@@ -1,26 +1,68 @@
 {
-    "last_updated": "2026-05-26T02:43:50.428926+00:00",
+    "last_updated": "2026-05-26T09:43:05.123619+00:00",
     "articles": [
         {
-            "title": "thurstone added to PyPI",
-            "summary": "A new object-oriented toolkit has been developed, addressing the 'horserace inverse problem.' This involves inferring relative ability from market prices, also known as the 'ability transform,' utilizing lattice-based performance models. This package aims to streamline complex data analysis, providing a structured approach to derive insights from market dynamics and performance predictions for various applications.",
-            "url": "https://pypi.org/project/thurstone/",
-            "category": "Sci & Tech",
-            "date": "2026-05-25T02:31:01Z"
-        },
-        {
-            "title": "Russia hits Ukraine with Oreshnik missile in one of war's biggest attacks on Kyiv",
-            "summary": "Russia conducted one of its heaviest bombardments on Kyiv, Ukraine, deploying hundreds of drones and missiles, including the advanced hypersonic Oreshnik. This significant four-year war escalation highlights persistent aggression and evolving modern warfare tactics, which are crucial for SSB aspirants to understand global defence dynamics and international relations.",
-            "url": "https://japantoday.com/category/world/russia-hits-ukraine-with-oreshnik-missile-in-one-of-war%27s-biggest-attacks-on-kyiv2",
-            "category": "International",
-            "date": "2026-05-24T21:13:23Z"
-        },
-        {
-            "title": "Pole vault national record bettered twice as Dev, Kuldeep try to outdo each other",
-            "summary": "On Day Three of the Federation Cup, pole vaulters Dev Meena and Kuldeep Yadav took centrestage with their impressive performances. Their efforts invigorated a day that had started slowly compared to the record-breaking Saturday. This national sporting event showcased their athletic prowess, highlighting the competitive spirit and skill within Indian sports.",
-            "url": "https://indianexpress.com/article/sports/dev-meena-kuldeep-yadav-pole-vault-national-record-federation-cup-10706028/",
+            "title": "Seng Choon egg farm to move after land-use changes announced for Lim Chu Kang; four other farms affected",
+            "summary": "Bollywood Farms' 20-year land lease, obtained through public tender, expired in 2021. The farm subsequently submitted a request to authorities regarding its operational future. This scenario touches upon land administration, government tenders, and business continuity, key aspects for SSB aspirants to understand regarding national governance and economic policy challenges.",
+            "url": "https://www.channelnewsasia.com/singapore/seng-choon-egg-farm-move-lease-expire-lim-chu-kang-land-use-6140066",
             "category": "National",
-            "date": "2026-05-24T18:38:58Z"
+            "date": "2026-05-25T09:00:00Z"
+        },
+        {
+            "title": "Astrel Madesly by variatype",
+            "summary": "The provided text is an excerpt from a font license agreement, not a news article. It outlines terms and conditions users must read before installing the font on their device. Since this content is not news, it cannot be accurately summarized for an SSB aspirant or assigned a relevant news category like Defence, National, International, or Sci & Tech.",
+            "url": "https://www.fontspace.com/astrel-madesly-font-f163393",
+            "category": "Sci & Tech",
+            "date": "2026-05-25T08:44:29Z"
+        },
+        {
+            "title": "Corporate India gets a call of duty and it's raring to go",
+            "summary": "India Inc is poised to expand into a crucial sector traditionally dominated by Public Sector Undertakings (PSUs). Government plans to issue tenders to three private companies signal a significant shift, encouraging private sector participation. This move aims to enhance competition and efficiency in areas previously state-controlled, potentially fostering economic growth and innovation across the nation's industrial landscape.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-fighter-jet-larsen-turbo-bharat-forge-hal-defence-private-sector-stealth-fighter-air-force-prototype-advanced-multirole-combat-aircraft-amca-programme-ada-drdo-defence-shift/articleshow/131304853.cms",
+            "category": "National",
+            "date": "2026-05-25T08:29:01Z"
+        },
+        {
+            "title": "Indian Army makes its artillery arm more lethal by giving its guns automatic aiming capability",
+            "summary": "The Indian Army is modernizing its 105mm field guns with advanced automatic aiming technology. This computer-driven system significantly enhances accuracy, reduces manual effort, and improves response times for artillery crews. Such upgrades are crucial for boosting operational efficiency and survivability on the battlefield, reflecting the Army's commitment to technological advancement in defence capabilities.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/indian-army-makes-its-artillery-arm-more-lethal-by-giving-its-guns-automatic-aiming-capability/articleshow/131304886.cms",
+            "category": "Defence",
+            "date": "2026-05-25T08:21:33Z"
+        },
+        {
+            "title": "Gold fever in India: How higher import duty sparked a buying rush across jewellery, ETFs and digital gold",
+            "summary": "Indians demonstrated strong interest in gold, acquiring it through traditional jewellery shops, exchange-traded funds (ETFs), and unregulated digital gold units via e-commerce platforms. This widespread embrace of diverse gold purchasing methods, facilitated by jewellers and refiners, highlights evolving investment trends and consumer behavior within the nation, showcasing a persistent demand for the precious metal across various channels.",
+            "url": "https://www.livemint.com/money/personal-finance/gold-fever-in-india-how-higher-import-duty-sparked-a-buying-rush-across-jewellery-etfs-and-digital-gold-11778838784246.html",
+            "category": "National",
+            "date": "2026-05-25T07:31:04Z"
+        },
+        {
+            "title": "\u2018De Gaulle: R\u00e9sistance\u2019 Review: Antonin Baudry\u2019s Large-Scale Epic is a Conventional yet Consistently Engaging Wartime Biopic",
+            "summary": "The Cannes Film Festival premiered \u201cDe Gaulle: R\u00e9sistance,\u201d a proud French film highlighting Charles de Gaulle's crucial leadership during World War II. This massive, blockbuster-style production portrays historical resistance and strategic defiance. For SSB aspirants, it offers insights into wartime leadership, national resolve, and military history, making it a compelling watch.",
+            "url": "https://variety.com/2026/film/reviews/de-gaulle-resistance-review-1236757549/",
+            "category": "Defence",
+            "date": "2026-05-25T07:25:41Z"
+        },
+        {
+            "title": "News24 | 4 dead, 100 injured as Russia hits Ukraine with hundreds of drones and hypersonic missile",
+            "summary": "Russia launched strikes on Kyiv and surrounding areas, resulting in four deaths and significant damage to residential buildings and several schools, according to Ukrainian authorities. This latest attack underscores the ongoing conflict's devastating impact on civilian infrastructure and lives. European leaders have widely condemned these actions, reflecting international concerns over the continued hostilities in the region.",
+            "url": "https://www.news24.com/world/4-dead-100-injured-as-russia-hits-ukraine-with-hundreds-of-drones-and-hypersonic-missile-20260525-0293",
+            "category": "International",
+            "date": "2026-05-25T07:12:22Z"
+        },
+        {
+            "title": "Literal Interpretations Of 18 Lyrics Illustrated \u2013 Try Guessing The Song Behind Each Image",
+            "summary": "This article snippet explores music's profound impact, highlighting how global hit songs create vivid mental imagery for true fans. It emphasizes that lyrics paint memorable pictures in our minds, with examples like a 'yellow submarine' instantly evoking strong visual associations. The piece suggests music's significant role in shaping perception and imagination across cultures.",
+            "url": "https://www.boredpanda.com/abstract-illustration-song-trivia-quiz/",
+            "category": "International",
+            "date": "2026-05-25T06:27:54Z"
+        },
+        {
+            "title": "Arkansas Teen Sailor Killed At Pearl Harbor Will Finally Be Laid To Rest After Nearly 85 Years",
+            "summary": "The remains of an Arkansas teenager, Fireman 3rd Class, who perished aboard a battleship during the Pearl Harbor attack in 1941, are finally returning home for burial after nearly 85 years. The U.S. Navy is facilitating the interment, providing long-awaited closure and honoring a serviceman lost in one of America's defining historical military engagements. This highlights the nation's enduring commitment to its fallen heroes.",
+            "url": "https://dailycaller.com/2026/05/24/pearl-harbor-teen-sailor-remains-buried-85-years/",
+            "category": "Defence",
+            "date": "2026-05-25T00:33:11Z"
         }
     ]
 }
