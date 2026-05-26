@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-05-26T14:56:48.561312+00:00",
+    "last_updated": "2026-05-26T20:02:33.460341+00:00",
     "articles": [
         {
-            "title": "Indonesia enters pre-production stage for Scorpene Evolved submarine",
-            "summary": "Indonesian state-owned shipbuilder PT PAL Indonesia confirmed its Scorpene Evolved-class submarine development for the Indonesian Navy has entered the pre-production phase. This project underscores Indonesia's commitment to bolstering naval capabilities and domestic defence production, likely through technology transfer. Such strategic initiatives are crucial for enhancing national self-reliance and maritime security in the Indo-Pacific.",
-            "url": "https://en.antaranews.com/news/416929/indonesia-enters-pre-production-stage-for-scorpene-evolved-submarine",
-            "category": "Defence",
-            "date": "2026-05-25T14:50:04Z"
+            "title": "kstmostofa/laravel-whatsapp",
+            "summary": "The article describes a technical software development project focused on integrating WhatsApp functionalities into web applications built with Laravel. It details a dual-backend approach using Meta Cloud API and `whatsapp-web.js` for comprehensive personal account access, managed via a Livewire admin interface. This system aims to provide developers with a robust and user-friendly solution for seamless WhatsApp communication within their platforms.",
+            "url": "https://packagist.org/packages/kstmostofa/laravel-whatsapp",
+            "category": "Sci & Tech",
+            "date": "2026-05-25T20:00:00Z"
         },
         {
-            "title": "NASA dodged Trump's worst cuts. Scientists say what's left is still devastating.",
-            "summary": "A US congressional panel advanced a spending bill for NASA, rejecting the White House's proposal for a drastic near 50% cut. While averting the larger reduction, the bill still imposes a significant funding cut on the space agency's programs. This development impacts future US space exploration and scientific research initiatives, highlighting budgetary pressures on key scientific institutions.",
-            "url": "https://www.rawstory.com/nasa-science-cut-would-hit-colorado-universities-and-aerospace-sector/",
+            "title": "krabby-hal-server 0.1.2",
+            "summary": "The provided text is a technical error message, not a news report. It indicates a website component failed to load, suggesting causes like browser extensions, network issues, or settings. It advises troubleshooting by checking internet connection, disabling ad blockers, or trying a different browser. This content offers no news information relevant to SSB aspirants.",
+            "url": "https://pypi.org/project/krabby-hal-server/0.1.2/",
             "category": "Sci & Tech",
-            "date": "2026-05-25T14:41:48Z"
+            "date": "2026-05-25T19:21:44Z"
         },
         {
             "title": "Experts warn Africa risks becoming mere raw data supplier",
-            "summary": "African stakeholders warn the continent risks becoming merely a raw input supplier in the global Artificial Intelligence economy. Experts from technology, finance, and infrastructure sectors stress the urgent need for strategic investment and policy development. Without proactive measures, Africa may miss capitalizing on AI's transformative potential, hindering its technological self-reliance and global competitiveness.",
+            "summary": "African technology, finance, and infrastructure leaders warn the continent risks being a mere raw input supplier in the global AI economy. They emphasize Africa must urgently develop indigenous AI capabilities and intellectual property. This strategic shift is crucial to avoid dependency, secure a competitive, value-added role, and foster economic growth and technological sovereignty.",
             "url": "https://punchng.com/experts-warn-africa-risks-becoming-mere-raw-data-supplier/",
-            "category": "Sci & Tech",
+            "category": "International",
             "date": "2026-05-25T14:37:15Z"
         },
         {
-            "title": "Choose from six nominees for Cellcom Post-Crescent athlete of the week",
-            "summary": "This article outlines a community poll inviting readers to vote for the 'Cellcom Post-Crescent high school athlete of the week'. Voting is open to all, irrespective of subscription status, until May 30. It focuses on local engagement and recognition of athletic talent within a specific area, highlighting participation in local sports achievements.",
-            "url": "https://www.postcrescent.com/story/sports/high-school/athlete-of-the-week/2026/05/25/vote-for-cellcom-post-crescent-high-school-athlete-of-the-week/90247609007/",
-            "category": "National",
-            "date": "2026-05-25T13:56:41Z"
-        },
-        {
-            "title": "UPSC Key: Rupee depreciation, Available realised equity and Road dust",
-            "summary": "This text outlines crucial examination topics, vital for an SSB aspirant's preparation. It emphasizes current events of both national and international importance for preliminary stages. Additionally, for the mains (General Studies II), focus is placed on India's bilateral, regional, and global groupings and agreements. Mastering these areas is key for comprehensive success.",
-            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-rupee-depreciation-available-realised-equity-and-road-dust-10707372/",
-            "category": "National",
-            "date": "2026-05-25T13:51:43Z"
-        },
-        {
             "title": "Philippine President Marcos to Visit Japan as State Guest",
-            "summary": "Philippine President Ferdinand Marcos Jr. is undertaking a state visit to Japan, commencing May 26th. This high-level engagement underscores the deep bilateral ties between the two nations, which are crucial for regional stability and economic cooperation. For an SSB aspirant, this highlights the importance of strategic partnerships and diplomatic initiatives in strengthening international relations, especially concerning shared interests like energy security and regional influence.",
+            "summary": "Philippine President Ferdinand Marcos Jr. will undertake a state visit to Japan starting May 26th. This visit aims to strengthen the close bilateral ties between the two nations, especially given their significant relationship concerning crude oil supply. For SSB aspirants, this engagement highlights crucial aspects of regional diplomacy and economic interdependence, essential for global strategic awareness.",
             "url": "https://newsonjapan.com/article/149366.php",
             "category": "International",
             "date": "2026-05-25T13:45:43Z"
         },
         {
-            "title": "Israeli State Policy, the Infrastructure of Impunity. Criminality and the West\u2019s Complicity",
-            "summary": "UN Emergency Relief Coordinator Tom Fletcher, on August 22, 2025, asserted that an ongoing famine was preventable had intervention been permitted. This statement underscores the critical challenges in international humanitarian aid delivery and the complexities of global cooperation in averting such crises. Aspirants should recognize the importance of effective multilateral mechanisms and global political will in addressing food security issues worldwide.",
-            "url": "https://www.globalresearch.ca/israeli-state-policy-impunity-west-complicity/5927325",
-            "category": "International",
-            "date": "2026-05-25T11:47:14Z"
+            "title": "News24 | 4 dead, 100 injured as Russia hits Ukraine with hundreds of drones and hypersonic missile",
+            "summary": "Russia launched fresh attacks on Kyiv and surrounding areas, resulting in four fatalities and extensive damage to residential buildings and several schools, as confirmed by Ukrainian authorities. European leaders have strongly condemned these strikes, underscoring the severe humanitarian impact and international diplomatic fallout of the ongoing conflict.",
+            "url": "https://www.news24.com/world/4-dead-100-injured-as-russia-hits-ukraine-with-hundreds-of-drones-and-hypersonic-missile-20260525-0293",
+            "category": "Defence",
+            "date": "2026-05-25T07:12:22Z"
         },
         {
-            "title": "Arkansas Teen Sailor Killed At Pearl Harbor Will Finally Be Laid To Rest After Nearly 85 Years",
-            "summary": "Fireman 3rd Class Ro, an Arkansas teenager killed on a battleship during the 1941 Pearl Harbor attack, is finally returning home for burial after nearly 85 years. The U.S. Navy is facilitating the return of his identified remains, offering closure to his family and community. This event underscores the enduring impact of historical conflicts and the military's commitment to honoring its fallen personnel, even decades later.",
-            "url": "https://dailycaller.com/2026/05/24/pearl-harbor-teen-sailor-remains-buried-85-years/",
-            "category": "Defence",
-            "date": "2026-05-25T00:33:11Z"
+            "title": "Pilgrims kick off hajj as war's trajectory hangs in the balance",
+            "summary": "Muslim pilgrims engaged in evening prayers around the Kaaba, Islam's holiest site in Mecca, Saudi Arabia, on May 24, 2026. This pivotal ritual occurred during the annual Hajj pilgrimage, a significant global religious event attracting millions of devotees worldwide. The gathering highlights a major international spiritual observance and Saudi Arabia's role as host.",
+            "url": "https://www.hurriyetdailynews.com/pilgrims-kick-off-hajj-as-wars-trajectory-hangs-in-the-balance-222511",
+            "category": "International",
+            "date": "2026-05-25T06:50:38Z"
+        },
+        {
+            "title": "Pilgrims kick off hajj as war's trajectory hangs in the balance",
+            "summary": "Over 1.5 million Muslims have commenced the annual Hajj pilgrimage in Mecca, Saudi Arabia, filling a vast tent city. This spiritual journey for millions unfolds against a global backdrop of hopes for an end to ongoing international conflicts, lending a poignant dimension to the sacred rituals. Pilgrims engage in prayers and rites, embodying unity and devotion.",
+            "url": "https://economictimes.indiatimes.com/news/international/saudi-arabia/pilgrims-kick-off-hajj-as-wars-trajectory-hangs-in-the-balance/articleshow/131303470.cms",
+            "category": "International",
+            "date": "2026-05-25T06:43:31Z"
         }
     ]
 }
