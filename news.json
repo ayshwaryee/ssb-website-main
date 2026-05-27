@@ -1,54 +1,19 @@
 {
-    "last_updated": "2026-05-26T20:02:33.460341+00:00",
+    "last_updated": "2026-05-27T02:54:54.848173+00:00",
     "articles": [
         {
-            "title": "kstmostofa/laravel-whatsapp",
-            "summary": "The article describes a technical software development project focused on integrating WhatsApp functionalities into web applications built with Laravel. It details a dual-backend approach using Meta Cloud API and `whatsapp-web.js` for comprehensive personal account access, managed via a Livewire admin interface. This system aims to provide developers with a robust and user-friendly solution for seamless WhatsApp communication within their platforms.",
-            "url": "https://packagist.org/packages/kstmostofa/laravel-whatsapp",
-            "category": "Sci & Tech",
-            "date": "2026-05-25T20:00:00Z"
-        },
-        {
-            "title": "krabby-hal-server 0.1.2",
-            "summary": "The provided text is a technical error message, not a news report. It indicates a website component failed to load, suggesting causes like browser extensions, network issues, or settings. It advises troubleshooting by checking internet connection, disabling ad blockers, or trying a different browser. This content offers no news information relevant to SSB aspirants.",
-            "url": "https://pypi.org/project/krabby-hal-server/0.1.2/",
-            "category": "Sci & Tech",
-            "date": "2026-05-25T19:21:44Z"
-        },
-        {
-            "title": "Experts warn Africa risks becoming mere raw data supplier",
-            "summary": "African technology, finance, and infrastructure leaders warn the continent risks being a mere raw input supplier in the global AI economy. They emphasize Africa must urgently develop indigenous AI capabilities and intellectual property. This strategic shift is crucial to avoid dependency, secure a competitive, value-added role, and foster economic growth and technological sovereignty.",
-            "url": "https://punchng.com/experts-warn-africa-risks-becoming-mere-raw-data-supplier/",
+            "title": "AMAs 2026 Winners List: See Which Celebrity Artists Won Awards (Updating Live)",
+            "summary": "The 2026 American Music Awards are scheduled to be hosted at the iconic MGM Grand Garden Arena in Las Vegas. This prestigious event is set to attract a diverse lineup of celebrity music artists, including both acclaimed veteran performers and promising rising stars within the industry. The ceremony traditionally celebrates significant achievements and contributions to the world of music, making it a key international cultural event.",
+            "url": "https://hollywoodlife.com/feature/amas-2026-winners-5541612/",
             "category": "International",
-            "date": "2026-05-25T14:37:15Z"
+            "date": "2026-05-26T02:29:25Z"
         },
         {
-            "title": "Philippine President Marcos to Visit Japan as State Guest",
-            "summary": "Philippine President Ferdinand Marcos Jr. will undertake a state visit to Japan starting May 26th. This visit aims to strengthen the close bilateral ties between the two nations, especially given their significant relationship concerning crude oil supply. For SSB aspirants, this engagement highlights crucial aspects of regional diplomacy and economic interdependence, essential for global strategic awareness.",
-            "url": "https://newsonjapan.com/article/149366.php",
-            "category": "International",
-            "date": "2026-05-25T13:45:43Z"
-        },
-        {
-            "title": "News24 | 4 dead, 100 injured as Russia hits Ukraine with hundreds of drones and hypersonic missile",
-            "summary": "Russia launched fresh attacks on Kyiv and surrounding areas, resulting in four fatalities and extensive damage to residential buildings and several schools, as confirmed by Ukrainian authorities. European leaders have strongly condemned these strikes, underscoring the severe humanitarian impact and international diplomatic fallout of the ongoing conflict.",
-            "url": "https://www.news24.com/world/4-dead-100-injured-as-russia-hits-ukraine-with-hundreds-of-drones-and-hypersonic-missile-20260525-0293",
+            "title": "South Korea showcases flagship submarine in British Columbia for Canadian navy",
+            "summary": "South Korea's submarine fleet flagship is currently docked in British Columbia, Canada, serving as a 'floating floor model.' This engagement likely involves a naval exhibition or defence industry demonstration, showcasing South Korea's advanced maritime capabilities. For SSB aspirants, it highlights international defence diplomacy and the importance of naval power projection in fostering global security partnerships.",
+            "url": "https://apnews.com/article/canada-south-korea-submarine-bid-77395ee0340731f4f58609f47a93c4c8",
             "category": "Defence",
-            "date": "2026-05-25T07:12:22Z"
-        },
-        {
-            "title": "Pilgrims kick off hajj as war's trajectory hangs in the balance",
-            "summary": "Muslim pilgrims engaged in evening prayers around the Kaaba, Islam's holiest site in Mecca, Saudi Arabia, on May 24, 2026. This pivotal ritual occurred during the annual Hajj pilgrimage, a significant global religious event attracting millions of devotees worldwide. The gathering highlights a major international spiritual observance and Saudi Arabia's role as host.",
-            "url": "https://www.hurriyetdailynews.com/pilgrims-kick-off-hajj-as-wars-trajectory-hangs-in-the-balance-222511",
-            "category": "International",
-            "date": "2026-05-25T06:50:38Z"
-        },
-        {
-            "title": "Pilgrims kick off hajj as war's trajectory hangs in the balance",
-            "summary": "Over 1.5 million Muslims have commenced the annual Hajj pilgrimage in Mecca, Saudi Arabia, filling a vast tent city. This spiritual journey for millions unfolds against a global backdrop of hopes for an end to ongoing international conflicts, lending a poignant dimension to the sacred rituals. Pilgrims engage in prayers and rites, embodying unity and devotion.",
-            "url": "https://economictimes.indiatimes.com/news/international/saudi-arabia/pilgrims-kick-off-hajj-as-wars-trajectory-hangs-in-the-balance/articleshow/131303470.cms",
-            "category": "International",
-            "date": "2026-05-25T06:43:31Z"
+            "date": "2026-05-26T02:27:22Z"
         }
     ]
 }
