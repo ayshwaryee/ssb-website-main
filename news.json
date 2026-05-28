@@ -1,47 +1,61 @@
 {
-    "last_updated": "2026-05-28T02:42:26.865639+00:00",
+    "last_updated": "2026-05-28T09:53:42.532693+00:00",
     "articles": [
         {
-            "title": "BOB SEELY: The terrifying truth about Britain's reliance on China - and how it is silently harvesting YOUR data - that means we are sleepwalking into a 21st century catastrophe",
-            "summary": "In October last year, Ken McCallum, head of the UK's domestic intelligence agency MI5, unequivocally warned about significant dangers posed by Beijing. He highlighted how Chinese state actors present a threat to UK national interests, suggesting concerns over espionage, cyber attacks, and influence operations. This underscores ongoing global tensions regarding state-sponsored security challenges.",
-            "url": "https://www.dailymail.com/news/article-15850201/BOB-SEELY-terrifying-truth-Britains-reliance-China-silently-harvesting-data-means-sleepwalking-21st-century-catastrophe.html",
+            "title": "India in talks to buy Operation Sindoor hero 'S-400' from Russia",
+            "summary": "India is currently in talks with Russia to acquire additional batches of the advanced S-400 long-range air defence systems. This move, confirmed by Russia's Federal Service for Military-Technical Cooperation (FSVTS), aims to further bolster India's strategic air defence capabilities. The ongoing negotiations highlight the continued robust defence partnership between New Delhi and Moscow, crucial for India's national security posture.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-in-talks-to-buy-operation-sindoor-hero-s-400-from-russia/articleshow/131345837.cms",
             "category": "Defence",
-            "date": "2026-05-27T00:12:42Z"
+            "date": "2026-05-27T09:28:59Z"
         },
         {
-            "title": "Tata board talks: Chairman Chandra gives the floor to Tata chiefs; calm prevails",
-            "summary": "A recent Tata Sons board meeting in Mumbai, closely watched for signs of discord after public disagreements, concluded with largely constructive and amiable discussions. Despite previous concerns, the meeting indicated a positive shift, fostering a collaborative environment. This development is significant for understanding corporate governance and stability within a key Indian conglomerate.",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-board-talks-chairman-chandra-gives-the-floor-to-tata-chiefs-calm-prevails/articleshow/131337120.cms",
-            "category": "National",
-            "date": "2026-05-27T00:00:00Z"
-        },
-        {
-            "title": "P.E.I. subsidizing ride-hailing to create rural late-night service",
-            "summary": "Rural Prince Edward Island residents currently face significant challenges with limited late-night transportation, often leaving them stranded. This issue, a concern for Islanders needing to return home, is scheduled for a positive change starting in June. New initiatives aim to expand available options, enhancing connectivity and convenience across P.E.I.",
-            "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-rideshare-late-night-pilot-project-9.7212834",
+            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
+            "summary": "Gold prices declined today, driven by investors closely monitoring ongoing US-Iran peace negotiations and the broader inflation outlook. This movement highlights how significant geopolitical developments and global economic indicators directly impact market stability and commodity values. For SSB aspirants, this underscores the importance of understanding international relations and economic trends, as they are often interconnected and can influence global financial landscapes.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-27-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131345448.cms",
             "category": "International",
-            "date": "2026-05-26T23:43:34Z"
+            "date": "2026-05-27T08:59:01Z"
         },
         {
-            "title": "US plans to slash military support for NATO as Europe scrambles to fill the gap",
-            "summary": "The US is undertaking a major transatlantic defence restructuring, halving its strategic bomber fleet, withdrawing all submarines from NATO commitments, and pulling troops from Europe. This significant move reshapes US military posture and commitments, potentially impacting NATO's collective security framework and European defence capabilities, signalling a notable shift in global strategy.",
-            "url": "https://cryptobriefing.com/us-reduces-nato-military-support/",
+            "title": "tsugi added to PyPI",
+            "summary": "TsugiCinema provides open-source Software Development Kits (SDKs) for distributed training, accessible via a unified developer interface. The 'tsugi' package acts as a thin packaging wrapper, simplifying installation and use by re-exporting underlying components, likely from Apache projects. This aims to streamline development for professionals engaged in building and deploying advanced distributed computing solutions, enhancing efficiency in complex system training.",
+            "url": "https://pypi.org/project/tsugi/",
+            "category": "Sci & Tech",
+            "date": "2026-05-27T08:55:29Z"
+        },
+        {
+            "title": "tsugi-mend added to PyPI",
+            "summary": "A new software component for PyTorch, a popular AI framework, optimizes cross-rack distributed training. This 'maximum-uplift' reducer acts as a drop-in replacement, significantly enhancing the efficiency and speed of AI model development across multiple computing units. By streamlining data-parallel processes with innovative techniques, this advancement enables faster and more scalable AI projects, vital for technological progress.",
+            "url": "https://pypi.org/project/tsugi-mend/",
+            "category": "Sci & Tech",
+            "date": "2026-05-27T08:55:13Z"
+        },
+        {
+            "title": "tsugi-mend 0.1.0",
+            "summary": "A crucial website component failed to load, possibly due to browser extensions, network problems, or incorrect settings. The alert suggests users check their internet connection, disable ad blockers, or try an alternative browser to resolve the issue. For SSB aspirants, understanding such technical troubleshooting highlights practical problem-solving skills essential in digital environments.",
+            "url": "https://pypi.org/project/tsugi-mend/0.1.0/",
+            "category": "Sci & Tech",
+            "date": "2026-05-27T08:55:13Z"
+        },
+        {
+            "title": "Indian Air Force opens Technical Branch entries through GATE, exempts candidates from AFCAT written exam",
+            "summary": "The Indian Air Force has opened a new entry pathway for its Technical Branch, allowing candidates with valid GATE scores to apply directly. This significant change exempts eligible engineering graduates from the mandatory AFCAT written examination, streamlining the selection process. This initiative provides a more direct and potentially faster recruitment route for technical aspirants looking to join the IAF, leveraging their engineering aptitude and scores.",
+            "url": "https://timesofindia.indiatimes.com/education/news/indian-air-force-opens-technical-branch-entries-through-gate-exempts-candidates-from-afcat-written-exam/articleshow/131344340.cms",
             "category": "Defence",
-            "date": "2026-05-26T23:34:26Z"
+            "date": "2026-05-27T08:52:00Z"
         },
         {
-            "title": "Hundreds of thousands of millions of dollars: Tallying Defence\u2019s toxic submarine waste",
-            "summary": "The text discusses severe investor incompetence leading to substantial financial losses, hypothetically a million dollars. It emphasizes the role of regulators like ASIC in cases where mismanagement occurs, suggesting calls for accountability and potential disqualification of such investors. This scenario highlights critical issues of investor protection and the need for robust financial oversight.",
-            "url": "http://www.crikey.com.au/2026/05/27/defence-department-australia-submarine-deal-rex-patrick/",
-            "category": "National",
-            "date": "2026-05-26T23:25:48Z"
-        },
-        {
-            "title": "CANSEC 2026: Rheinmetall to Showcase Its Innovative Solutions Supporting Canadian and Arctic Sovereignty",
-            "summary": "Rheinmetall is exhibiting at CANSEC, reaffirming its 40-year partnership with the Canadian Armed Forces. The company delivers 'Canadian grown' defence solutions, emphasizing local manufacturing and commitment to national security. This showcases the importance of long-term international collaborations and indigenous production capabilities in strengthening a nation's defence industrial base and operational readiness, a key lesson for aspirants.",
-            "url": "https://soldiersystems.net/2026/05/26/cansec-2026-rheinmetall-to-showcase-its-innovative-solutions-supporting-canadian-and-arctic-sovereignty/",
+            "title": "Senior Ukrainian commander sees imminent 'turning point' in war",
+            "summary": "A senior Ukrainian commander indicates Ukraine has a critical six-month window to seize battlefield initiative from Russia. This strategic push, particularly in the Kharkiv region, is deemed essential to strengthen Ukraine's position and leverage for any future peace talks. The assessment underscores the urgency of military gains to influence diplomatic outcomes in the ongoing conflict.",
+            "url": "https://economictimes.indiatimes.com/news/defence/senior-ukrainian-commander-sees-imminent-turning-point-in-war/articleshow/131344708.cms",
             "category": "Defence",
-            "date": "2026-05-26T21:10:27Z"
+            "date": "2026-05-27T08:05:27Z"
+        },
+        {
+            "title": "Leading in the Dark: How Submarine Commanders Think Under Uncertainty",
+            "summary": "A military unit tracked an ambiguous contact for six hours, facing challenges from an unclear acoustic signature and incomplete tactical data. The rapidly shifting tactical picture, which changed twice in an hour, prompted an order for battle stations. This scenario underscores the critical importance of situational awareness, decisive leadership, and adaptability for SSB aspirants in high-stakes operational environments.",
+            "url": "https://warontherocks.com/leading-in-the-dark-how-submarine-commanders-think-under-uncertainty/",
+            "category": "Defence",
+            "date": "2026-05-27T07:15:57Z"
         }
     ]
 }
