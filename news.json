@@ -1,61 +1,61 @@
 {
-    "last_updated": "2026-05-28T09:53:42.532693+00:00",
+    "last_updated": "2026-05-28T15:39:09.312999+00:00",
     "articles": [
         {
-            "title": "India in talks to buy Operation Sindoor hero 'S-400' from Russia",
-            "summary": "India is currently in talks with Russia to acquire additional batches of the advanced S-400 long-range air defence systems. This move, confirmed by Russia's Federal Service for Military-Technical Cooperation (FSVTS), aims to further bolster India's strategic air defence capabilities. The ongoing negotiations highlight the continued robust defence partnership between New Delhi and Moscow, crucial for India's national security posture.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-in-talks-to-buy-operation-sindoor-hero-s-400-from-russia/articleshow/131345837.cms",
-            "category": "Defence",
-            "date": "2026-05-27T09:28:59Z"
+            "title": "ISRO detects possible subsurface ice on moon using Chandrayaan-2 data",
+            "summary": "Indian scientists from Ahmedabad's Physical Research Laboratory, using data from Chandrayaan-2, have identified strong evidence of subsurface ice in extremely cold craters near the Moon's south pole. This significant discovery deepens our understanding of lunar water resources, which are vital for future space missions and potential human habitation on the Moon, underscoring India's advancements in space exploration.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-detects-possible-subsurface-ice-on-moon-using-chandrayaan-2-data/articleshow/131354245.cms",
+            "category": "Sci & Tech",
+            "date": "2026-05-27T15:39:01Z"
         },
         {
-            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
-            "summary": "Gold prices declined today, driven by investors closely monitoring ongoing US-Iran peace negotiations and the broader inflation outlook. This movement highlights how significant geopolitical developments and global economic indicators directly impact market stability and commodity values. For SSB aspirants, this underscores the importance of understanding international relations and economic trends, as they are often interconnected and can influence global financial landscapes.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-27-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131345448.cms",
+            "title": "India invites bids from 3 private players for advanced stealth fighter project",
+            "summary": "The Defence Ministry has issued the Request for Proposal (RFP) for India's indigenous fifth-generation Advanced Medium Combat Aircraft (AMCA) project to three private bidders. This crucial move significantly advances India's self-reliance in defence manufacturing, aiming to develop a cutting-edge fighter jet. It strengthens the 'Make in India' initiative, enhancing the Indian Air Force's future combat capabilities and strategic readiness.",
+            "url": "https://indianexpress.com/article/india/defence-ministry-amca-rfp-private-bidders-tata-lt-bharat-forge-stealth-fighter-10711183/",
+            "category": "Defence",
+            "date": "2026-05-27T15:37:42Z"
+        },
+        {
+            "title": "German submarine bid promises Canada $86B economic boost and tens of thousands of jobs",
+            "summary": "Canada is reportedly considering purchasing German-made Type 212CD submarines. This significant defence acquisition could generate up to 50,000 jobs domestically over the next five years. The potential deal underscores how strategic military procurements can offer substantial national economic benefits and industrial growth, alongside modernizing naval capabilities, providing a dual advantage for national security and prosperity.",
+            "url": "https://www.cbc.ca/news/politics/subs-germany-canada-economy-jobs-9.7213216",
+            "category": "Defence",
+            "date": "2026-05-27T15:10:27Z"
+        },
+        {
+            "title": "Corporations can vote in some Delaware elections, judge says",
+            "summary": "A Delaware judge issued a novel ruling granting artificial entities, such as corporations, partnerships, and LLCs, the right to vote in state elections under specific circumstances. This unprecedented decision expands voting rights beyond individuals, potentially allowing business interests to directly influence local governance. The ruling sparks debate on corporate personhood and its implications for democratic processes within Delaware's legal framework.",
+            "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+            "category": "National",
+            "date": "2026-05-27T15:05:16Z"
+        },
+        {
+            "title": "China issues new rules to keep senior military officials in check",
+            "summary": "China has implemented new discipline measures for its top military officials, according to state media reports. This move is part of President Xi Jinping's prolonged campaign to purge corruption within the People's Liberation Army. The initiative underscores Beijing's commitment to strengthening party control and ensuring accountability among high-ranking military personnel, aiming to enhance the overall discipline and effectiveness of its armed forces.",
+            "url": "https://economictimes.indiatimes.com/news/defence/china-issues-new-rules-to-keep-senior-military-officials-in-check/articleshow/131353886.cms",
+            "category": "Defence",
+            "date": "2026-05-27T15:04:47Z"
+        },
+        {
+            "title": "Northisle Announces Board Slate for 2026 AGM",
+            "summary": "Northisle Copper and Gold Inc., a Vancouver-based firm, has announced its proposed slate of directors for the 2026 Annual General Meeting (AGM). This corporate governance development is crucial for the company's future strategic direction and operational oversight within the mining sector. Such board compositions are vital for investor confidence and effective resource management, reflecting key aspects of business leadership.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/northisle-announces-board-slate-for-2026-agm",
             "category": "International",
-            "date": "2026-05-27T08:59:01Z"
+            "date": "2026-05-27T14:36:13Z"
         },
         {
-            "title": "tsugi added to PyPI",
-            "summary": "TsugiCinema provides open-source Software Development Kits (SDKs) for distributed training, accessible via a unified developer interface. The 'tsugi' package acts as a thin packaging wrapper, simplifying installation and use by re-exporting underlying components, likely from Apache projects. This aims to streamline development for professionals engaged in building and deploying advanced distributed computing solutions, enhancing efficiency in complex system training.",
-            "url": "https://pypi.org/project/tsugi/",
-            "category": "Sci & Tech",
-            "date": "2026-05-27T08:55:29Z"
+            "title": "NEET leak: Delhi court remands kingpin Prahlad Vithalrao Kulkarni to 14 days' judicial custody",
+            "summary": "A Delhi court sent alleged kingpin Prahlad Vithalrao Kulkarni and Shivraj Raghunath to 14-day judicial custody in the NEET paper leak case. This development underscores serious concerns about examination integrity, impacting lakhs of aspirants nationwide. Such incidents highlight the need for robust mechanisms to safeguard the fairness and credibility of competitive examinations, crucial for national talent selection.",
+            "url": "https://economictimes.indiatimes.com/news/india/neet-leak-delhi-court-remands-kingpin-prahlad-vithalrao-kulkarni-to-14-days-judicial-custody/articleshow/131353310.cms",
+            "category": "National",
+            "date": "2026-05-27T14:31:53Z"
         },
         {
-            "title": "tsugi-mend added to PyPI",
-            "summary": "A new software component for PyTorch, a popular AI framework, optimizes cross-rack distributed training. This 'maximum-uplift' reducer acts as a drop-in replacement, significantly enhancing the efficiency and speed of AI model development across multiple computing units. By streamlining data-parallel processes with innovative techniques, this advancement enables faster and more scalable AI projects, vital for technological progress.",
-            "url": "https://pypi.org/project/tsugi-mend/",
-            "category": "Sci & Tech",
-            "date": "2026-05-27T08:55:13Z"
-        },
-        {
-            "title": "tsugi-mend 0.1.0",
-            "summary": "A crucial website component failed to load, possibly due to browser extensions, network problems, or incorrect settings. The alert suggests users check their internet connection, disable ad blockers, or try an alternative browser to resolve the issue. For SSB aspirants, understanding such technical troubleshooting highlights practical problem-solving skills essential in digital environments.",
-            "url": "https://pypi.org/project/tsugi-mend/0.1.0/",
-            "category": "Sci & Tech",
-            "date": "2026-05-27T08:55:13Z"
-        },
-        {
-            "title": "Indian Air Force opens Technical Branch entries through GATE, exempts candidates from AFCAT written exam",
-            "summary": "The Indian Air Force has opened a new entry pathway for its Technical Branch, allowing candidates with valid GATE scores to apply directly. This significant change exempts eligible engineering graduates from the mandatory AFCAT written examination, streamlining the selection process. This initiative provides a more direct and potentially faster recruitment route for technical aspirants looking to join the IAF, leveraging their engineering aptitude and scores.",
-            "url": "https://timesofindia.indiatimes.com/education/news/indian-air-force-opens-technical-branch-entries-through-gate-exempts-candidates-from-afcat-written-exam/articleshow/131344340.cms",
-            "category": "Defence",
-            "date": "2026-05-27T08:52:00Z"
-        },
-        {
-            "title": "Senior Ukrainian commander sees imminent 'turning point' in war",
-            "summary": "A senior Ukrainian commander indicates Ukraine has a critical six-month window to seize battlefield initiative from Russia. This strategic push, particularly in the Kharkiv region, is deemed essential to strengthen Ukraine's position and leverage for any future peace talks. The assessment underscores the urgency of military gains to influence diplomatic outcomes in the ongoing conflict.",
-            "url": "https://economictimes.indiatimes.com/news/defence/senior-ukrainian-commander-sees-imminent-turning-point-in-war/articleshow/131344708.cms",
-            "category": "Defence",
-            "date": "2026-05-27T08:05:27Z"
-        },
-        {
-            "title": "Leading in the Dark: How Submarine Commanders Think Under Uncertainty",
-            "summary": "A military unit tracked an ambiguous contact for six hours, facing challenges from an unclear acoustic signature and incomplete tactical data. The rapidly shifting tactical picture, which changed twice in an hour, prompted an order for battle stations. This scenario underscores the critical importance of situational awareness, decisive leadership, and adaptability for SSB aspirants in high-stakes operational environments.",
-            "url": "https://warontherocks.com/leading-in-the-dark-how-submarine-commanders-think-under-uncertainty/",
-            "category": "Defence",
-            "date": "2026-05-27T07:15:57Z"
+            "title": "Tacconelli\u2019s Just Built the Ultimate Cocktail Oasis",
+            "summary": "A renowned 'pizza legend' has expanded into the hospitality sector, inaugurating 'Bar Tacconelli', a sophisticated new cocktail bar. Located in a New Jersey strip mall, the establishment focuses on a sleek, martini-centric experience. This venture marks a significant diversification for the popular food brand, bringing its established reputation for excellence into the burgeoning world of craft beverages and upscale bar offerings, aiming to attract a broader clientele.",
+            "url": "https://www.phillymag.com/restaurants/2026/05/27/bar-tacconelli/",
+            "category": "National",
+            "date": "2026-05-27T14:05:55Z"
         }
     ]
 }
