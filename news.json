@@ -1,68 +1,26 @@
 {
-    "last_updated": "2026-05-28T20:12:33.467394+00:00",
+    "last_updated": "2026-05-29T02:45:42.815537+00:00",
     "articles": [
         {
-            "title": "Green Lantern #35 Spoilers: The Truth About Character Find, Tobi Y2K",
-            "summary": "The article introduces Tobi Y2K, a significant new DC Comics character making their debut in the Green Lantern series, specifically issue #35. Created by Jeremy Adams, Ig Guara, and Montos, this new character's emergence is explored in detail, revealing crucial insights into their identity and role within the DC universe, likely impacting future storylines and lore.",
-            "url": "https://bleedingcool.com/comics/green-lantern-35-spoilers-the-truth-about-character-find-tobi-y2k/",
+            "title": "Show HN: What 1k Harness Experiments Taught Me About Self-Improving Agents",
+            "summary": "This project investigates whether an AI agent can independently enhance a 'harness' designed to efficiently solve terminal-based computing tasks. The initiative explores the AI's capability for self-improvement and autonomous optimization of its tools and methodologies. This research highlights advancements in AI's ability to evolve and perform complex technical problem-solving, a significant area in modern technology development.",
+            "url": "https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/",
             "category": "Sci & Tech",
-            "date": "2026-05-27T19:46:11Z"
+            "date": "2026-05-28T01:47:27Z"
+        },
+        {
+            "title": "Defence ministry issues RFP for 5th-generation stealth jet project AMCA; 3 private players in race, HAL out",
+            "summary": "The Defence Ministry has initiated a crucial step towards developing India's indigenous 5th-generation stealth fighter jet. In New Delhi, a 'request for' (likely RFI/RFP) document was issued, signalling a significant move towards bolstering the nation's aerospace defence capabilities and achieving self-reliance in advanced military technology. This project is vital for modernizing the Indian Air Force.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/defence-ministry-issues-rfp-for-5th-generation-stealth-jet-project-amca-3-private-players-in-race-hal-out/articleshow/131360976.cms",
+            "category": "Defence",
+            "date": "2026-05-27T23:09:40Z"
         },
         {
             "title": "Navy thwarts suspected piracy attack on merchant vessel in western Indian Ocean",
-            "summary": "The Indian Navy successfully thwarted a suspected piracy attack on a merchant vessel operating in the western Indian Ocean. This crucial intervention underscores the Navy's commitment to ensuring maritime security and safeguarding vital international trade routes in the region. Such actions demonstrate India's capabilities and resolve in combating maritime threats, protecting economic interests, and maintaining stability in a critical global waterway.",
+            "summary": "The Indian Navy successfully thwarted a suspected piracy attack on a merchant vessel operating in the western Indian Ocean. This decisive action underscores the Navy's commitment to ensuring maritime security and freedom of navigation in critical international waters, protecting commercial shipping lanes from illicit activities and reaffirming India's role as a net security provider.",
             "url": "https://timesofindia.indiatimes.com/india/navy-thwarts-suspected-piracy-attack-on-merchant-vessel-in-western-indian-ocean/articleshow/131358661.cms",
             "category": "Defence",
             "date": "2026-05-27T19:30:59Z"
-        },
-        {
-            "title": "CBI arrests Latur paediatrician, Pune physics teacher in NEET-UG paper leak case",
-            "summary": "The provided text consists of website boilerplate, not a news article. It includes calls to action for social media engagement, outlines copyright ownership by Bennett, Coleman & Co. Ltd. dating to 2026, and mentions the Times Syndication Service for reprint permissions. This content offers no specific current events or substantive information relevant for an SSB aspirant's news analysis.",
-            "url": "https://timesofindia.indiatimes.com/city/aurangabad/cbi-arrests-latur-paediatrician-pune-physics-teacher-in-neet-ug-paper-leak-case/articleshow/131358581.cms",
-            "category": "National",
-            "date": "2026-05-27T19:30:18Z"
-        },
-        {
-            "title": "1961 Volkswagen Type 2 Westfalia SO-23 Camper",
-            "summary": "This 1961 Volkswagen Type 2, built in 1960, features a factory-ordered Westfalia SO-23 camper conversion. Finished in distinctive Sealing Wax Red and Beige Grey, this iconic vintage bus represents classic automotive design and engineering. Its popularity as a recreational vehicle highlights innovative solutions for travel and leisure from its era, showcasing timeless utility and adventurous spirit.",
-            "url": "https://bringatrailer.com/listing/1961-volkswagen-westfalia-bus/",
-            "category": "Sci & Tech",
-            "date": "2026-05-27T19:25:41Z"
-        },
-        {
-            "title": "EU states summon Russian envoys over Kyiv threat",
-            "summary": "Belgium and France summoned Russia's ambassadors, expressing strong anger over Moscow's warning for foreigners to evacuate Kyiv due to anticipated \"systematic strikes.\" This diplomatic action underscores rising international tensions and condemnation of Russia's planned military escalation in Ukraine, highlighting concerns for civilian safety and regional stability amidst the ongoing conflict.",
-            "url": "https://www.aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats",
-            "category": "International",
-            "date": "2026-05-27T19:23:17Z"
-        },
-        {
-            "title": "CBI arrests two more in NEET-UG paper leak case",
-            "summary": "The CBI has arrested two more individuals concerning the alleged NEET-UG 2026 examination paper leak, further intensifying the ongoing investigation into these irregularities. This development highlights the authorities' commitment to safeguarding the integrity and fairness of crucial national entrance examinations. Such actions are vital for ensuring transparency, upholding meritocracy, and maintaining public trust in the education system for aspiring students.",
-            "url": "https://economictimes.indiatimes.com/news/india/cbi-arrests-two-more-in-neet-ug-paper-leak-case/articleshow/131357518.cms",
-            "category": "National",
-            "date": "2026-05-27T18:18:49Z"
-        },
-        {
-            "title": "NATO Gets Another Wake-Up Call From Trump Admin",
-            "summary": "Politico reported potential significant cuts in US military contributions to NATO, including aircraft, submarines, drones, and ships. Pentagon adviser Alexander Velez-Green announced this possible change. This development could reshape NATO's collective defence capabilities and burden-sharing dynamics among member nations, impacting global security arrangements and alliance strength.",
-            "url": "https://dailycaller.com/2026/05/27/us-reportedly-cut-back-on-jets-submarines-and-destroyers-europe/",
-            "category": "Defence",
-            "date": "2026-05-27T17:38:31Z"
-        },
-        {
-            "title": "The South Korea-US Alliance: What Comes After OPCON?",
-            "summary": "This four-part series examines the critical debate surrounding wartime operational control (OPCON) transfer. It delves into the structural challenges behind the impasse and presents the military arguments for such a transfer. For an SSB aspirant, understanding OPCON is crucial as it illuminates command structures, inter-service coordination, and strategic decision-making in conflict scenarios, impacting overall defence effectiveness and operational readiness.",
-            "url": "https://thediplomat.com/2026/05/the-south-korea-us-alliance-what-comes-after-opcon/",
-            "category": "Defence",
-            "date": "2026-05-27T13:40:00Z"
-        },
-        {
-            "title": "Southern California Reproductive Center Joins Nucleus IVF+ Network as Patient Demand Accelerates",
-            "summary": "Nucleus Genomics has partnered with the Southern California Reproductive Center (SCRC) to introduce \"Genetic Optimization.\" This collaboration aims to integrate advanced genetic technologies into reproductive healthcare, offering prospective parents innovative options for personalized health and wellness planning for their future children. This initiative leverages cutting-edge science to enhance reproductive outcomes and provide tailored genetic insights.",
-            "url": "https://www.globenewswire.com/news-release/2026/05/27/3301996/0/en/Southern-California-Reproductive-Center-Joins-Nucleus-IVF-Network-as-Patient-Demand-Accelerates.html",
-            "category": "Sci & Tech",
-            "date": "2026-05-27T13:00:00Z"
         }
     ]
 }
