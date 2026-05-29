@@ -1,26 +1,47 @@
 {
-    "last_updated": "2026-05-29T02:45:42.815537+00:00",
+    "last_updated": "2026-05-29T09:43:47.810843+00:00",
     "articles": [
         {
-            "title": "Show HN: What 1k Harness Experiments Taught Me About Self-Improving Agents",
-            "summary": "This project investigates whether an AI agent can independently enhance a 'harness' designed to efficiently solve terminal-based computing tasks. The initiative explores the AI's capability for self-improvement and autonomous optimization of its tools and methodologies. This research highlights advancements in AI's ability to evolve and perform complex technical problem-solving, a significant area in modern technology development.",
-            "url": "https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/",
+            "title": "China sends defence university delegation to Shangri-La Dialogue for second straight year",
+            "summary": "China's People's Liberation Army (PLA) National Defence University will send a delegation to Singapore's Shangri-La Dialogue, Asia's key defence summit, for the second consecutive year. This participation signals China's continued engagement in regional security discussions despite ongoing geopolitical tensions, highlighting the importance of military diplomacy and understanding regional security dynamics for SSB aspirants.",
+            "url": "https://www.channelnewsasia.com/east-asia/china-delegation-no-dong-jun-shangri-la-dialogue-6146716",
+            "category": "Defence",
+            "date": "2026-05-28T09:38:00Z"
+        },
+        {
+            "title": "Scientists Reveal Ancient Coral Habitats and Deep-Sea Canyons off Newfoundland and Labrador Coast",
+            "summary": "A joint scientific mission, involving DFO and Oceana Canada scientists, completed two research trips totaling 21 days at sea. The team employed advanced methodologies, including drop-camera systems and environmental DNA sampling techniques. This collaborative effort was focused on marine research objectives, gathering data through innovative observational and genetic sampling methods.",
+            "url": "https://financialpost.com/globe-newswire/scientists-reveal-ancient-coral-habitats-and-deep-sea-canyons-off-newfoundland-and-labrador-coast",
             "category": "Sci & Tech",
-            "date": "2026-05-28T01:47:27Z"
+            "date": "2026-05-28T09:03:37Z"
         },
         {
-            "title": "Defence ministry issues RFP for 5th-generation stealth jet project AMCA; 3 private players in race, HAL out",
-            "summary": "The Defence Ministry has initiated a crucial step towards developing India's indigenous 5th-generation stealth fighter jet. In New Delhi, a 'request for' (likely RFI/RFP) document was issued, signalling a significant move towards bolstering the nation's aerospace defence capabilities and achieving self-reliance in advanced military technology. This project is vital for modernizing the Indian Air Force.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/defence-ministry-issues-rfp-for-5th-generation-stealth-jet-project-amca-3-private-players-in-race-hal-out/articleshow/131360976.cms",
-            "category": "Defence",
-            "date": "2026-05-27T23:09:40Z"
+            "title": "'Directed beam teleportation': Ashton Forbes claims US intelligence is hiding INSANE truth about missing plane",
+            "summary": "Over a decade since Malaysia Airlines Flight MH370 vanished, Ashton Forbes claims the public still lacks the full truth. He argues the United States government possesses knowledge regarding its disappearance. This highlights ongoing speculation and calls for transparency surrounding the international aviation mystery, suggesting a deeper, undisclosed narrative beyond official reports. The incident remains a significant unresolved case.",
+            "url": "https://www.theblaze.com/shows/pat-gray-unleashed/forbes-claims-us-is-hiding-insane-truth-about-missing-plane",
+            "category": "International",
+            "date": "2026-05-28T09:00:00Z"
         },
         {
-            "title": "Navy thwarts suspected piracy attack on merchant vessel in western Indian Ocean",
-            "summary": "The Indian Navy successfully thwarted a suspected piracy attack on a merchant vessel operating in the western Indian Ocean. This decisive action underscores the Navy's commitment to ensuring maritime security and freedom of navigation in critical international waters, protecting commercial shipping lanes from illicit activities and reaffirming India's role as a net security provider.",
-            "url": "https://timesofindia.indiatimes.com/india/navy-thwarts-suspected-piracy-attack-on-merchant-vessel-in-western-indian-ocean/articleshow/131358661.cms",
+            "title": "Scientists Reveal Ancient Coral Habitats and Deep-Sea Canyons off Newfoundland and Labrador Coast",
+            "summary": "An expedition near Ottawa, on the traditional territory of the Algonquin Anishinaabeg People, has uncovered extensive submarine canyons stretching over 150 kilometres and ancient coral forests. This significant marine discovery provides new insights into Canada's deep-sea ecosystems and geological formations, highlighting the vast unexplored ocean regions and their ecological importance for scientific research and conservation.",
+            "url": "https://www.globenewswire.com/news-release/2026/05/28/3302583/0/en/Scientists-Reveal-Ancient-Coral-Habitats-and-Deep-Sea-Canyons-off-Newfoundland-and-Labrador-Coast.html",
+            "category": "Sci & Tech",
+            "date": "2026-05-28T09:00:00Z"
+        },
+        {
+            "title": "Holland America Expands to Year-Round Europe Cruising",
+            "summary": "Holland America Line has announced new winter voyages for the upcoming season, featuring diverse destinations from festive Scandinavian cities and European Christmas markets to Lapland and the Mediterranean. These expanded itineraries offer travelers unique opportunities to experience the magic of winter across various international locales, combining cultural exploration with scenic beauty, ensuring a memorable holiday season at sea.",
+            "url": "https://www.prnewswire.com/news-releases/holland-america-expands-to-year-round-europe-cruising-302784173.html",
+            "category": "International",
+            "date": "2026-05-28T08:03:00Z"
+        },
+        {
+            "title": "Germany pledges four submarines by 2036 in high-stakes pitch to Canada",
+            "summary": "Germany's ThyssenKrupp Marine Systems (TKMS) has pledged to deliver four Type 212-CD submarines to the Canadian Navy by 2036, contingent on the Liberal government selecting their bid. This potential procurement underscores Canada's strategic focus on modernizing its naval fleet and enhancing maritime defence capabilities through international partnerships, a key aspect for any aspirant analyzing global defence postures and procurement strategies.",
+            "url": "https://www.cbc.ca/news/politics/subs-germany-norway-canada-nato-9.7214590",
             "category": "Defence",
-            "date": "2026-05-27T19:30:59Z"
+            "date": "2026-05-28T08:00:00Z"
         }
     ]
 }
