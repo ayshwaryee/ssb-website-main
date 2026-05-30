@@ -1,19 +1,61 @@
 {
-    "last_updated": "2026-05-30T02:39:41.058341+00:00",
+    "last_updated": "2026-05-30T08:22:34.971790+00:00",
     "articles": [
         {
-            "title": "Romania says Russian drone hit building in its territory",
-            "summary": "A Russian drone struck an apartment building in NATO-member Romania on the night of May 28-29, near the Ukrainian border, wounding two people. Romania's defence ministry confirmed the incident, which represents a direct violation of NATO airspace. This highlights the ongoing risks of regional spillover from the Ukraine conflict and raises concerns about security.",
-            "url": "https://www.rte.ie/news/ukraine/2026/0529/1575828-ukraine-russia/",
-            "category": "Defence",
-            "date": "2026-05-29T02:24:11Z"
+            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 29, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
+            "summary": "Gold prices saw a slight uptick today as global uncertainty intensified concerning the potential extension of the US-Iran truce. Investors are closely monitoring geopolitical developments, driving demand for safe-haven assets. This trend underscores how Middle East tensions and diplomatic resolutions significantly impact global economic stability and market sentiment, reflecting broader international security concerns.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-29-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131385060.cms",
+            "category": "International",
+            "date": "2026-05-29T08:03:50Z"
         },
         {
-            "title": "The best lakes in the U.S. for a scenic summer getaway",
-            "summary": "Lake getaways create lasting memories through activities like wilderness canoe camping, learning to fish, or mastering wakeboarding and water skiing. These experiences offer a nostalgic connection to nature, promoting outdoor recreation and skill development in serene environments. Such pursuits contribute to personal well-being and provide memorable leisure opportunities, highlighting the importance of engaging with natural surroundings.",
-            "url": "https://www.nationalgeographic.com/travel/article/best-lakes-vacations-usa",
-            "category": "National",
-            "date": "2026-05-29T00:00:00Z"
+            "title": "How America Lost Its Most Important Defense Tech Habit",
+            "summary": "Technology podcaster Dwarkesh Patel recently conducted a two-hour interview with Nvidia CEO Jensen Huang. Notably, forty minutes were dedicated to Patel exploring a single, crucial question, approaching it from six different perspectives. This in-depth discussion with a prominent tech leader offers significant insights into key industry challenges or future directions, valuable for understanding global technological advancements and their implications.",
+            "url": "https://warontherocks.com/cogs-of-war/how-america-lost-its-most-important-defense-tech-habit/",
+            "category": "Sci & Tech",
+            "date": "2026-05-29T08:00:59Z"
+        },
+        {
+            "title": "How Indian PM Modi\u2019s efforts to isolate Pakistan \u2018backfired\u2019",
+            "summary": "During his visit to Doha, Qatar, Prime Minister Narendra Modi directly challenged Pakistan's leadership, stating India has successfully isolated them globally and will intensify these efforts. This assertive declaration highlights India's resolute foreign policy aimed at diplomatic pressure against Pakistan. For SSB aspirants, it signifies India's firm stance on regional security and countering cross-border issues, emphasizing strategic communication on the international stage.",
+            "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired",
+            "category": "International",
+            "date": "2026-05-29T07:22:06Z"
+        },
+        {
+            "title": "Navy personnel dies after 400-foot fall during video call to relative in Lonavala",
+            "summary": "An Indian Navy personnel tragically died in Maharashtra's Lonavala, falling 400 feet into a valley. The incident occurred while he was on a video call, reportedly showing a clifftop viewpoint to a relative. This unfortunate off-duty accident underscores the inherent dangers of natural landscapes and the importance of situational awareness, even during leisure activities, for all individuals, including service personnel.",
+            "url": "https://indianexpress.com/article/cities/pune/indian-navy-personnel-dies-lonavala-tiger-point-fall-10713625/",
+            "category": "Defence",
+            "date": "2026-05-29T06:57:04Z"
+        },
+        {
+            "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+            "summary": "The Israel-Gaza conflict has persisted for over two years, intensifying after the October 2023 Hamas assault on southern Israeli villages. This led to Israel's extensive military response in Gaza, characterized by continuous bombardment and war. The conflict remains a major international flashpoint, causing widespread humanitarian concerns and regional instability, impacting global geopolitics.",
+            "url": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war",
+            "category": "International",
+            "date": "2026-05-29T06:39:24Z"
+        },
+        {
+            "title": "Today in Germany: A roundup of the latest news on Friday",
+            "summary": "Germany and the Netherlands will establish a NATO command centre in the Baltics, a strategic move to reinforce the alliance's eastern flank. This initiative aims to bolster collective defence capabilities and readiness against potential threats in the region. It highlights enhanced military cooperation among NATO members for regional security and stability, crucial for aspiring defence personnel to understand.",
+            "url": "https://www.thelocal.de/20260529/today-in-germany-a-roundup-of-the-latest-news-on-friday-124",
+            "category": "Defence",
+            "date": "2026-05-29T06:30:05Z"
+        },
+        {
+            "title": "Show HN:Gliding Horse \u2013 a Rust Agent OS with CPU-Like Memory Architecture",
+            "summary": "An advanced AI agent operating system orchestrates multiple AI agents using the PDCA (Plan-Do-Check-Act) cycle. This new infrastructure layer provides a coordinated and auditable framework for AI operations. Such a system is vital for managing complex AI deployments, ensuring reliability, and will significantly influence future technological advancements and applications across diverse sectors.",
+            "url": "https://github.com/doiito/gliding_horse",
+            "category": "Sci & Tech",
+            "date": "2026-05-29T06:20:47Z"
+        },
+        {
+            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Barren Spirituality or Fruitfulness - Friday, May 29, 2026",
+            "summary": "The provided text introduces 'My Catholic Life! Catholic Daily Reflections,' detailing a devotional piece titled 'Barren Spirituality or Fruitfulness,' scheduled for Friday, May 29, 2026. This spiritual content, likely distributed via platforms like YouTube, appears to focus on personal introspection and faith, rather than geopolitical events or scientific advancements, targeting a religious audience.",
+            "url": "https://freerepublic.com/focus/f-religion/4381402/posts",
+            "category": "International",
+            "date": "2026-05-29T05:50:38Z"
         }
     ]
 }
