@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-06-01T03:33:06.810376+00:00",
+    "last_updated": "2026-06-01T11:22:18.810519+00:00",
     "articles": [
         {
-            "title": "India seals BrahMos missile deal with Vietnam, eyes Indonesia next",
-            "summary": "India has finalized a deal to supply BrahMos missiles, jointly developed with Russia, to Vietnam, marking a significant milestone in its defence exports. This move strengthens India's role as a defence partner in Southeast Asia. Additionally, India is in the final stages of negotiating a similar agreement to provide the supersonic cruise missiles to Indonesia, further expanding its strategic defence outreach.",
-            "url": "https://www.scmp.com/news/asia/south-asia/article/3355438/india-seals-brahmos-missile-deal-vietnam-eyes-indonesia-next",
+            "title": "No Dong Jun, but plenty of China at Shangri-La Dialogue",
+            "summary": "Japanese official Koizumi recalled frank discussions with Chinese counterpart Dong Jun at last year's ASEAN Defence Ministers Meeting Plus (ADMM-Plus) in Kuala Lumpur. Japan reiterated its stance, highlighting ongoing defence diplomacy within a key regional security forum. Such high-level dialogues are crucial for managing bilateral relations between major Asian powers and maintaining regional stability.",
+            "url": "https://www.channelnewsasia.com/east-asia/china-shangri-la-dialogue-japan-militarism-south-china-sea-netherlands-philippines-6149596",
             "category": "Defence",
-            "date": "2026-05-31T02:51:47Z"
+            "date": "2026-05-31T11:22:00Z"
         },
         {
-            "title": "Psychic Soldiers, Mind Readers, and Dolphin Drones: The Cold War's Weird Paranormal History",
-            "summary": "The Russian Ministry of Defense's official magazine, Armeiiskii Sbornik, featured an article in its February 2019 issue titled 'Supersoldiers for the Wars of the Future.' The article reportedly discusses claims related to developing advanced soldiers, suggesting future military capabilities. While specific details are truncated, the focus appears to be on enhancing human performance for combat, a topic of ongoing interest in defence strategy and modernization.",
-            "url": "https://reason.com/2026/05/31/psychic-soldiers-mind-readers-and-dolphin-drones-the-cold-wars-weird-paranormal-history/",
+            "title": "J&K: Army foils exfiltration bid in Uri, apprehends three persons during operation near LoC",
+            "summary": "The Indian Army successfully foiled an exfiltration attempt in Jammu and Kashmir's Uri sector, apprehending three individuals. In a separate incident, troops detained a man from Pakistan-occupied Kashmir (PoK) who illegally crossed the Line of Control. These actions underscore the Army's continuous vigilance and effectiveness in maintaining border security and countering illicit cross-border movements, crucial for national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/jk-army-foils-exfiltration-bid-in-uri-apprehends-three-persons-during-operation-near-loc/articleshow/131421931.cms",
             "category": "Defence",
-            "date": "2026-05-31T00:59:05Z"
+            "date": "2026-05-31T11:08:25Z"
         },
         {
-            "title": "Zelensky cheers Ukraine drone strikes on Putin's planes, missiles and oil industry deep into Russian territory",
-            "summary": "Ukrainian President Zelensky celebrated successful overnight drone strikes deep inside Russian territory. These attacks targeted aircraft, missile depots, and critical oil facilities, reportedly causing fires at Putin's energy infrastructure. The strikes underscore Ukraine's evolving long-range capabilities and sustained efforts to disrupt Russia's war machine and logistics amidst the ongoing international conflict.",
-            "url": "https://www.dailymail.com/news/article-15860759/Zelensky-Ukraine-drone-strikes-Putins-planes-missiles-oil.html",
-            "category": "International",
-            "date": "2026-05-30T15:56:43Z"
+            "title": "AUKUS undersea drones development boosts regional security: Australia deputy PM",
+            "summary": "The AUKUS security pact (Australia, UK, US) has announced a new project to develop advanced unmanned undersea vehicles (AUVs). Australia's Deputy PM highlighted this as a significant step forward, enhancing the trilateral alliance's maritime capabilities and intelligence sharing. This initiative underscores the deepening defence cooperation among the partners, crucial for regional security and technological advancement in naval operations.",
+            "url": "https://www.channelnewsasia.com/asia/australia-richard-marles-dpm-defence-minister-interview-aukus-undersea-unmanned-vehicle-shangri-la-dialogue-6152321",
+            "category": "Defence",
+            "date": "2026-05-31T10:40:00Z"
+        },
+        {
+            "title": "Jay-Z Stuns Fans With Unexpected New Look At Roots Picnic",
+            "summary": "The article details the immense internet frenzy caused by Jay-Z's surprising new look. His unexpected style reveal captivated audiences both live and online, sparking widespread discussion and excitement among fans. This moment created a significant trending event across social media platforms, highlighting the powerful influence of celebrity appearances on public reaction.",
+            "url": "https://www.theroot.com/jay-z-stuns-fans-with-unexpected-new-look-at-roots-picn-2000108400",
+            "category": "National",
+            "date": "2026-05-31T10:23:59Z"
+        },
+        {
+            "title": "Pak beaming rogue telecom signals to aid terror networks, penetrate jails in J-K: Officials",
+            "summary": "Pakistan is deliberately violating international telecommunication norms by beaming superfluous cellular signals across the border into Jammu and Kashmir. This act is likely intended to provide communication support within Indian territory, posing a significant national security challenge. For SSB aspirants, this highlights persistent border security issues and Pakistan's attempts to destabilize the region, underscoring the need for robust defence and intelligence strategies to counter such cross-border threats effectively.",
+            "url": "https://economictimes.indiatimes.com/news/defence/pakistans-telecom-warfare-rogue-signals-aid-terrorists-in-jammu-and-kashmir/articleshow/131421562.cms",
+            "category": "Defence",
+            "date": "2026-05-31T10:19:03Z"
+        },
+        {
+            "title": "24 retail CEOs made as much in a day as their typical employee earned in a year \u2014 and a big one didn't",
+            "summary": "Leading a major retail company demands significant strategic acumen from CEOs, who must adeptly balance the complex needs of thousands of workers, customers, and suppliers. This high-stakes role, while immensely challenging due to its vast responsibilities and dynamic market environment, is consistently met with substantial rewards, reflecting the critical leadership and management required to ensure business success and navigate competitive pressures.",
+            "url": "https://www.businessinsider.com/retail-ceos-make-more-in-day-than-annual-worker-pay-2026-5",
+            "category": "National",
+            "date": "2026-05-31T09:30:01Z"
+        },
+        {
+            "title": "Almost all of the world's internet traffic does not travel by satellite but through fibre-optic cables lying on the ocean floor, a hidden web of wires crossing the deepest parts of the sea to connect the continents.",
+            "summary": "The majority of intercontinental data, an estimated 95-99%, travels through extensive undersea fibre-optic cables, not satellites. These critical networks form the primary backbone of global communication, facilitating international connectivity and underpinning various sectors worldwide. This fundamental infrastructure is vital for modern digital interactions and economic activity.",
+            "url": "https://maketecheasier.com/almost-all-of-the-worlds-internet-traffic-does-not-travel-by-satellite-but-through-fibre-optic-cables-lying-on-the-ocean-floor-a-hidden-web-of-wires-crossing-the-deepest-parts-of-the-sea-to-connect/",
+            "category": "Sci & Tech",
+            "date": "2026-05-31T08:20:05Z"
+        },
+        {
+            "title": "Ukraine\u2019s ramped-up drone power is transforming its fortunes against Russia",
+            "summary": "Near Kyiv, Denys Shtilierman's firm spearheads drone production, transforming Ukraine's fight against Russia. These domestically manufactured systems highlight the critical role of indigenous military technology in modern warfare. This exemplifies how advanced drone capabilities provide a significant combat advantage, underscoring the importance of technological self-reliance for national defence and security strategies.",
+            "url": "https://www.irishtimes.com/world/europe/2026/05/31/ukraines-ramped-up-drone-power-is-transforming-its-fortunes-against-russia/",
+            "category": "Defence",
+            "date": "2026-05-31T08:00:00Z"
         }
     ]
 }
