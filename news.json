@@ -1,65 +1,44 @@
 {
-    "last_updated": "2026-06-03T16:28:52.968376+00:00",
+    "last_updated": "2026-06-03T20:50:54.591853+00:00",
     "articles": [
         {
-            "title": "Here is India\u2019s answer to a broken world order",
-            "summary": "Authored by an Indian MP, this article highlights India's position within a highly demanding geopolitical environment. It likely explores the multifaceted challenges and opportunities India navigates on the global stage, encompassing strategic partnerships, regional security dynamics, and foreign policy imperatives. For SSB aspirants, understanding these complex international relations is crucial for comprehending India's national security landscape.",
-            "url": "https://www.rt.com/india/640853-indias-answer-world-order-us-china/",
+            "title": "Major Shonen Jump Creator to Return With New 2026 Series After 6 Years",
+            "summary": "Weekly Shonen Jump is launching new series this month, notably marking the return of a major manga creator after six years. This development promises fresh content and renewed excitement for fans. It signifies a significant event in the global entertainment industry, showcasing new artistic contributions to the popular magazine's lineup.",
+            "url": "http://comicbook.com/anime/news/major-shonen-jump-creator-to-return-with-new-2026-series-after-6-years/",
             "category": "International",
-            "date": "2026-06-02T16:13:44Z"
+            "date": "2026-06-02T20:00:00Z"
         },
         {
-            "title": "Could Russia hit northern Europe if it gained control of Arctic\u2019s Bear Gap?",
-            "summary": "Concerns are escalating over Russia's growing military ambitions in the Arctic, with the strategically vital 'Bear Gap' in the Arctic Ocean now a major focus. This area is critical for potential Russian submarine operations into the Atlantic, posing a significant challenge to NATO's northern flank. This development underscores the Arctic's increasing importance in global defence strategies and geopolitical stability.",
-            "url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap",
-            "category": "Defence",
-            "date": "2026-06-02T16:13:22Z"
-        },
-        {
-            "title": "\u2018Sara Bareilles: Good Grief\u2019 Documentary Gains Trio Of High-Powered E.P.s: P!NK, Glennon Doyle, Abby Wambach \u2013 Tribeca Festival",
-            "summary": "Pop icon P!NK, acclaimed author Glennon Doyle, and Olympic soccer star Abby Wambach are joining singer Sara Bareilles' new production, 'Good Grief,' as executive producers. This notable collaboration unites influential figures from music, literature, and sports. Their combined star power and creative expertise are set to shape this high-profile entertainment venture, potentially bringing diverse perspectives to the project.",
-            "url": "http://deadline.com/2026/06/sara-bareilles-good-grief-pink-glennon-doyle-abby-wambach-exec-producers-1236938442/",
-            "category": "National",
-            "date": "2026-06-02T16:00:00Z"
-        },
-        {
-            "title": "Dairy body, Assam Rifles sign supply pact to support farmers in north-east",
-            "summary": "The National Cooperative Dairy Federation (NCDFI) and Assam Rifles have signed an agreement to significantly expand the supply of milk and dairy products to military units across the north-east region. This strategic partnership aims to enhance troop welfare by ensuring improved quality provisions and robust logistics, vital for personnel operating in challenging terrains. It also strengthens civil-military cooperation and supports the cooperative sector.",
-            "url": "https://www.thehindubusinessline.com/economy/agri-business/dairy-body-assam-rifles-sign-supply-pact-to-support-farmers-in-north-east/article71053651.ece",
-            "category": "Defence",
-            "date": "2026-06-02T15:58:37Z"
-        },
-        {
-            "title": "Show HN: Claude Code plugin for deep multi-agent code reviews",
-            "summary": "A sophisticated Claude Code plugin has been developed to perform senior-engineer-grade code reviews for software repositories. Employing a rigorous five-phase process, it utilizes parallel sub-agents and adversarial validation to thoroughly scrutinize code. The plugin generates detailed findings in a 'findings.md' file, highlighting a significant advancement in AI-driven automation for quality assurance in software development.",
-            "url": "https://github.com/Farfield-Dev/deep-review",
-            "category": "Sci & Tech",
-            "date": "2026-06-02T15:42:31Z"
-        },
-        {
-            "title": "Show HN: Stop Babysitting Your Agents",
-            "summary": "The provided text is an incomplete HTML table fragment listing 'Agent' and 'Status' for items like Claude Code, Cursor, and Codex. It lacks the narrative content of a news article, making it unsuitable for a typical news summary for an SSB aspirant. No specific event or topic can be meaningfully detailed from this fragment.",
-            "url": "https://github.com/StackOneHQ/stack-nudge",
-            "category": "Sci & Tech",
-            "date": "2026-06-02T15:35:48Z"
-        },
-        {
-            "title": "TWO Red Hot Sectors \u2014 PLUS, \u201cTICKERS!\u201d",
-            "summary": "This article introduces a discussion on two significant sectors: gold and military technology. It aims to provide concise insights into these complex subjects, typically explored in extensive literature. For SSB aspirants, understanding advancements in military technology is particularly crucial for current affairs and strategic awareness, while economic factors like gold's market performance also hold national importance.",
-            "url": "https://dailyreckoning.com/two-red-hot-sectors-plus-tickers/",
-            "category": "Defence",
-            "date": "2026-06-02T15:08:00Z"
-        },
-        {
-            "title": "UPSC Key: Right to be forgotten, Codeine and Operation Hot Pursuit",
-            "summary": "Myanmar has formally assured India that it will not permit its territory to be used by any elements operating against India's interests. This crucial diplomatic statement reinforces bilateral security cooperation and addresses long-standing concerns regarding potential cross-border activities. It underscores a commitment to maintaining regional stability and strengthening mutual trust, vital for the strategic relationship between the two neighbouring nations, especially for SSB aspirants tracking geopolitical developments.",
-            "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-right-to-be-forgotten-codeine-and-operation-hot-pursuit-10720838/",
+            "title": "Russia's massive hypersonic missile attack on Ukraine leaves at least 22 dead and dozens injured",
+            "summary": "Russia launched its largest hypersonic missile attack against Ukraine, resulting in at least 22 deaths, including children, and over 100 injuries. This relentless bombardment signifies a major escalation in the ongoing conflict, employing advanced weaponry. SSB aspirants should note the geopolitical implications and the impact of sophisticated defence technologies in modern warfare, highlighting the volatile international security landscape.",
+            "url": "https://www.dailymail.com/news/article-15867061/Russias-massive-hypersonic-missile-attack-Ukraine-leaves-16-dead-dozens-injured.html",
             "category": "International",
-            "date": "2026-06-02T15:02:44Z"
+            "date": "2026-06-02T18:35:50Z"
+        },
+        {
+            "title": "Plans for \u2018floating city\u2019 that would carry 80,000 people dwarfing the finest cruise ships in the world",
+            "summary": "Plans are reportedly emerging for a massive floating city designed to accommodate 80,000 people, dwarfing current cruise ships. This ambitious concept highlights future urbanisation solutions, potentially addressing challenges like land scarcity and rising sea levels through innovative engineering. Such a project would necessitate significant technological advancements and sustainable design, marking a new frontier for human habitation in marine environments.",
+            "url": "https://freerepublic.com/focus/f-chat/4382067/posts",
+            "category": "Sci & Tech",
+            "date": "2026-06-02T18:14:57Z"
+        },
+        {
+            "title": "Pyro Caml Continuous Profiler for OCaml",
+            "summary": "The core engine of Semgrep, a Static Application Security Testing (SAST) tool, is developed using the OCaml programming language. This architectural decision is backed by substantial technical and historical reasons, which also lead to important implications regarding the language's utility and impact within the engine. Further elaboration on these specific reasons and their resulting consequences will be provided separately.",
+            "url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml",
+            "category": "Sci & Tech",
+            "date": "2026-06-02T17:55:41Z"
+        },
+        {
+            "title": "WWE Raw Review: Acknowledgment Day After the Clash in Italy",
+            "summary": "An 'El Presidente' persona reviewed the latest WWE Raw, featuring a recap of key wrestling events. The report highlighted Jacob Fatu's acknowledgment of Roman Reigns and Oba Femi's conquest. This entertainment summary details significant match outcomes and character developments from the professional wrestling show, offering insight into its ongoing storylines for fans.",
+            "url": "https://bleedingcool.com/tv/wwe-raw-review-acknowledgment-day-after-the-clash-in-italy/",
+            "category": "International",
+            "date": "2026-06-02T17:37:10Z"
         },
         {
             "title": "Trump Administration Accelerates US-China Critical Minerals Decoupling as Pentagon\u2019s 2027 Defense Deadline Reshapes a $30 Billion Magnet Market",
-            "summary": "China's forthcoming April 2025 export licensing on seven medium and heavy rare earth elements and high-performance magnets is poised to significantly disrupt Western defense, automotive, and electronics supply chains. Beijing's control over these vital materials will compel nations to reassess global sourcing strategies, posing challenges for industries heavily reliant on these critical components.",
+            "summary": "China's upcoming April 2025 export licensing for seven critical rare earth elements and high-performance magnets will significantly impact Western defense, automotive, and electronics supply chains. This strategic move highlights global dependence on China for these essential materials, compelling nations to explore diversification and strengthen their domestic production capabilities to ensure supply security and strategic autonomy in key industries.",
             "url": "https://www.globenewswire.com/news-release/2026/06/02/3305392/0/en/Trump-Administration-Accelerates-US-China-Critical-Minerals-Decoupling-as-Pentagon-s-2027-Defense-Deadline-Reshapes-a-30-Billion-Magnet-Market.html",
             "category": "Defence",
             "date": "2026-06-02T14:28:00Z"
