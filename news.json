@@ -1,47 +1,26 @@
 {
-    "last_updated": "2026-06-03T20:50:54.591853+00:00",
+    "last_updated": "2026-06-04T03:32:52.789759+00:00",
     "articles": [
         {
-            "title": "Major Shonen Jump Creator to Return With New 2026 Series After 6 Years",
-            "summary": "Weekly Shonen Jump is launching new series this month, notably marking the return of a major manga creator after six years. This development promises fresh content and renewed excitement for fans. It signifies a significant event in the global entertainment industry, showcasing new artistic contributions to the popular magazine's lineup.",
-            "url": "http://comicbook.com/anime/news/major-shonen-jump-creator-to-return-with-new-2026-series-after-6-years/",
-            "category": "International",
-            "date": "2026-06-02T20:00:00Z"
-        },
-        {
-            "title": "Russia's massive hypersonic missile attack on Ukraine leaves at least 22 dead and dozens injured",
-            "summary": "Russia launched its largest hypersonic missile attack against Ukraine, resulting in at least 22 deaths, including children, and over 100 injuries. This relentless bombardment signifies a major escalation in the ongoing conflict, employing advanced weaponry. SSB aspirants should note the geopolitical implications and the impact of sophisticated defence technologies in modern warfare, highlighting the volatile international security landscape.",
-            "url": "https://www.dailymail.com/news/article-15867061/Russias-massive-hypersonic-missile-attack-Ukraine-leaves-16-dead-dozens-injured.html",
-            "category": "International",
-            "date": "2026-06-02T18:35:50Z"
-        },
-        {
-            "title": "Plans for \u2018floating city\u2019 that would carry 80,000 people dwarfing the finest cruise ships in the world",
-            "summary": "Plans are reportedly emerging for a massive floating city designed to accommodate 80,000 people, dwarfing current cruise ships. This ambitious concept highlights future urbanisation solutions, potentially addressing challenges like land scarcity and rising sea levels through innovative engineering. Such a project would necessitate significant technological advancements and sustainable design, marking a new frontier for human habitation in marine environments.",
-            "url": "https://freerepublic.com/focus/f-chat/4382067/posts",
-            "category": "Sci & Tech",
-            "date": "2026-06-02T18:14:57Z"
-        },
-        {
-            "title": "Pyro Caml Continuous Profiler for OCaml",
-            "summary": "The core engine of Semgrep, a Static Application Security Testing (SAST) tool, is developed using the OCaml programming language. This architectural decision is backed by substantial technical and historical reasons, which also lead to important implications regarding the language's utility and impact within the engine. Further elaboration on these specific reasons and their resulting consequences will be provided separately.",
-            "url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml",
-            "category": "Sci & Tech",
-            "date": "2026-06-02T17:55:41Z"
-        },
-        {
-            "title": "WWE Raw Review: Acknowledgment Day After the Clash in Italy",
-            "summary": "An 'El Presidente' persona reviewed the latest WWE Raw, featuring a recap of key wrestling events. The report highlighted Jacob Fatu's acknowledgment of Roman Reigns and Oba Femi's conquest. This entertainment summary details significant match outcomes and character developments from the professional wrestling show, offering insight into its ongoing storylines for fans.",
-            "url": "https://bleedingcool.com/tv/wwe-raw-review-acknowledgment-day-after-the-clash-in-italy/",
-            "category": "International",
-            "date": "2026-06-02T17:37:10Z"
-        },
-        {
-            "title": "Trump Administration Accelerates US-China Critical Minerals Decoupling as Pentagon\u2019s 2027 Defense Deadline Reshapes a $30 Billion Magnet Market",
-            "summary": "China's upcoming April 2025 export licensing for seven critical rare earth elements and high-performance magnets will significantly impact Western defense, automotive, and electronics supply chains. This strategic move highlights global dependence on China for these essential materials, compelling nations to explore diversification and strengthen their domestic production capabilities to ensure supply security and strategic autonomy in key industries.",
-            "url": "https://www.globenewswire.com/news-release/2026/06/02/3305392/0/en/Trump-Administration-Accelerates-US-China-Critical-Minerals-Decoupling-as-Pentagon-s-2027-Defense-Deadline-Reshapes-a-30-Billion-Magnet-Market.html",
+            "title": "The American Missile Crisis",
+            "summary": "Recent global conflicts, including Russia-Ukraine and Iran-Israel, have revealed the fragility of US munitions stockpiles. Extensive direct and indirect involvement in these conflicts has significantly drawn down these reserves. This depletion raises critical concerns about US defense readiness and its long-term capacity to support allies, impacting global strategic stability and military supply chain resilience.",
+            "url": "https://research.contrary.com/deep-dive/the-american-missile-crisis",
             "category": "Defence",
-            "date": "2026-06-02T14:28:00Z"
+            "date": "2026-06-03T03:30:50Z"
+        },
+        {
+            "title": "The Amazon\u2019s ancient drainage system once ran the other way, carrying water and sediment westward across South America before the rise of the Andes, shifting land levels, and massive sediment buildup helped turn it into the east-flowing river we know today.",
+            "summary": "The Amazon, Earth's largest river by volume, originates in the Andes mountains and flows eastward across the vast South American continent. It ultimately discharges into the Atlantic Ocean. This immense hydrological system, spanning multiple nations, represents a critical international geographical feature and a powerful force of nature.",
+            "url": "https://spacedaily.com/t-the-amazons-ancient-drainage-system-once-ran-the-other-way-carrying-water-and-sediment-westward-across-south-america-before-the-rise-of-the-andes-shifting-land-levels-and-massive-sediment/",
+            "category": "International",
+            "date": "2026-06-03T02:05:10Z"
+        },
+        {
+            "title": "At least 22 killed in Russian attack; Ukrainian president says new assault possible",
+            "summary": "Russia launched a massive aerial assault on Ukraine early Tuesday, employing hundreds of drones and dozens of missiles. The attacks tragically killed 22 and wounded 130 people nationwide. Ukrainian President Zelenskyy warned of a possible new Russian ground offensive, highlighting the escalating conflict and significant humanitarian cost.",
+            "url": "https://japantoday.com/category/world/at-least-22-killed-in-russian-attack-ukrainian-president-says-new-assault-possible",
+            "category": "International",
+            "date": "2026-06-02T21:41:21Z"
         }
     ]
 }
