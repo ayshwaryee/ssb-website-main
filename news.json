@@ -1,19 +1,68 @@
 {
-    "last_updated": "2026-06-07T03:24:19.487757+00:00",
+    "last_updated": "2026-06-07T08:49:16.228934+00:00",
     "articles": [
         {
-            "title": "Andhra Pradesh eyes key role in Arctic shipping and global trade corridors, says Lokesh",
-            "summary": "Andhra Pradesh Minister Nara Lokesh pitched the state's 1,000-km coastline and numerous ports as India's gateway to the Arctic logistics network. This initiative aims to leverage AP's robust maritime infrastructure for national strategic interests, enhancing India's global connectivity and trade routes. It signifies a potential boost for maritime commerce and India's geopolitical standing in emerging Arctic trade.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/andhra-pradesh-eyes-key-role-in-arctic-shipping-and-global-trade-corridors-says-lokesh/article71068315.ece",
-            "category": "National",
-            "date": "2026-06-06T02:48:52Z"
+            "title": "Ukraine launches drone blitz on St Petersburg after Putin snubs Zelensky's call for face-to-face talks to end war",
+            "summary": "Ukraine launched a large-scale drone attack on St. Petersburg, Russia's second-largest city, demonstrating Kyiv's continuously growing capability to strike deep inside Russian territory. This significant incident highlights an escalation in the ongoing conflict, extending its reach beyond conventional front lines. The city's governor issued advisories following the assault, underscoring the broader impact of the war.",
+            "url": "https://www.dailymail.com/news/article-15879035/Ukraine-drone-blitz-St-Petersburg-Putin-snubs-Zelenskys-talks-end-war.html",
+            "category": "Defence",
+            "date": "2026-06-06T08:32:32Z"
         },
         {
-            "title": "'Trust-based, brotherly relations': Vladimir Putin on India-Russia ties",
-            "summary": "Russian President Vladimir Putin lauded the strong India-Russia relationship, describing it as \"brotherly\" and \"trust-based\" across all domains. He highlighted the comprehensive nature of these ties, emphasizing mutual respect and cooperation. This statement underscores the enduring strategic partnership between the two nations, which is vital for global stability and their shared interests. Such robust diplomatic relations are significant for future collaborations and regional dynamics.",
-            "url": "https://economictimes.indiatimes.com/news/india/trust-based-brotherly-relations-vladimir-putin-on-india-russia-ties/articleshow/131543133.cms",
+            "title": "Who is Dharmendra Pradhan? All about Education minister facing heat in CJP protest amid NEET, CBSE controversy",
+            "summary": "The Cockroach Janta Party (CJP) held a protest at Delhi's Jantar Mantar, raising concerns over alleged irregularities in India's education system. The demonstration targeted a reported NEET 2026 paper leak and issues with CBSE's On-Screen Marking system. This highlights significant public demand for transparency and fairness in national examinations, crucial for aspiring students and future public servants.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/who-is-dharmendra-pradhan-all-about-education-minister-facing-heat-in-cjp-protest-amid-neet-cbse-controversy/articleshow/131546027.cms",
+            "category": "National",
+            "date": "2026-06-06T06:48:01Z"
+        },
+        {
+            "title": "Russia intercepts hundreds of Ukrainian drones near St. Petersburg International Economic Forum",
+            "summary": "Russia recently intercepted hundreds of Ukrainian drones, including near Saint Petersburg where a major economic forum was underway. This large-scale drone attack highlights the escalating nature of the Russia-Ukraine conflict, with Ukraine also reporting casualties from Russian strikes. Such incidents emphasize the persistent security challenges and evolving warfare tactics, crucial for SSB aspirants to comprehend current global defence scenarios.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-intercepts-hundreds-of-ukrainian-drones-near-st-petersburg-international-economic-forum/articleshow/131545487.cms",
+            "category": "Defence",
+            "date": "2026-06-06T06:02:53Z"
+        },
+        {
+            "title": "Full-service flights from Vienna to Vietnam for \u20ac551",
+            "summary": "Air India is launching full-service flights to Ho Chi Minh City, Vietnam, with round trips from 551. This initiative aims to boost tourism, showcasing Vietnam's attractions like breathtaking beaches from Da Nang to Phu Quoc and its delicious street food. The new service promotes international travel and cultural exploration, making Vietnam more accessible for adventurers.",
+            "url": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-ho-chi-minh-e551/",
             "category": "International",
-            "date": "2026-06-06T01:54:02Z"
+            "date": "2026-06-06T06:00:35Z"
+        },
+        {
+            "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 6, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan Jewellers and Malabar Gold & Diamonds",
+            "summary": "This article details the latest gold prices for Tuesday, June 6, 2026, across major Indian jewellery brands. It provides current rates from top retailers like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas, offering a daily market snapshot of the yellow metal for prospective buyers and investors.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-6-2026-at-ibja-tanishq-joyalukkas-kalyan-jewellers-and-malabar-gold-diamonds/articleshow/131543645.cms",
+            "category": "National",
+            "date": "2026-06-06T05:44:51Z"
+        },
+        {
+            "title": "Putin lauds India\u2019s coding talent, reaffirms Russia\u2019s commitment to bilateral ties",
+            "summary": "Russian President Vladimir Putin lauded India and Russia's \"brotherly and trust-based\" relationship, emphasizing its strength across all sectors. He praised the enduring strategic partnership and deep historical cooperation between the nations. This robust bilateral bond is crucial for regional stability and India's foreign policy, showcasing the importance of strong international alliances.",
+            "url": "https://www.thehindubusinessline.com/news/putin-lauds-indias-coding-talent-reaffirms-russias-commitment-to-bilateral-ties/article71068642.ece",
+            "category": "International",
+            "date": "2026-06-06T05:20:10Z"
+        },
+        {
+            "title": "Cockroach Janta Party begins protest at Jantar Mantar, demands Dharmendra Pradhan's resignation",
+            "summary": "The Cockroach Janta Party (CJP) launched a protest at Jantar Mantar against the recent NEET 2026 paper leak and alleged irregularities within CBSE's On-Screen Marking (OSM) system. This demonstration underscores increasing national concern over examination integrity and transparency, impacting millions of aspiring students. Such issues highlight the need for robust oversight in the national education system.",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cockroach-janta-party-begins-protest-at-jantar-mantar-demands-dharmendra-pradhans-resignation/articleshow/131544889.cms",
+            "category": "National",
+            "date": "2026-06-06T04:55:25Z"
+        },
+        {
+            "title": "Brush fire scorches 1,600 acres across LA and Kern counties, triggering evacuation warnings",
+            "summary": "A fast-moving brush fire in Antelope Acres, Los Angeles County, California, prompted evacuation warnings on Friday afternoon. The blaze rapidly consumed approximately 1,600 acres, pushing flames across the region. Authorities are managing the situation and ensuring public safety amidst the destructive natural disaster.",
+            "url": "https://nypost.com/2026/06/06/us-news/macy-fire-erupts-in-antelope-acres-scorches-1600-acres-across-la-and-kern-counties/",
+            "category": "International",
+            "date": "2026-06-06T04:01:13Z"
+        },
+        {
+            "title": "PM Modi inspects indigenous defence systems at Surat facility, briefed about desi light tank Zorawar",
+            "summary": "Prime Minister Modi recently visited a defence facility in Surat to inspect indigenous defence systems, underscoring India's commitment to self-reliance. He received a detailed briefing on the 'Zorawar' light tank, a crucial project aimed at boosting domestic military capabilities. This inspection highlights the nation's ongoing efforts to enhance its defence manufacturing sector and reduce dependency on foreign imports, strengthening national security for future challenges.",
+            "url": "https://timesofindia.indiatimes.com/india/pm-modi-inspects-indigenous-defence-systems-at-surat-facility-briefed-about-desi-light-tank-zorawar/articleshow/131540266.cms",
+            "category": "Defence",
+            "date": "2026-06-05T19:33:21Z"
         }
     ]
 }
