@@ -1,19 +1,47 @@
 {
-    "last_updated": "2026-06-07T13:42:04.146244+00:00",
+    "last_updated": "2026-06-07T19:14:45.610855+00:00",
     "articles": [
         {
-            "title": "What You Need To Know About \u2018Interview with the Vampire\u2019 To Prepare for \u2018The Vampire Lestat\u2019",
-            "summary": "This article discusses Seasons 1 and 2 of 'Interview with the Vampire,' issuing a spoiler warning. It appears to delve into an analysis or critical take on the popular series, possibly incorporating a 'renowned journalist's' perspective or exploring specific plot points and character developments. The piece offers detailed insights for viewers following the vampire drama.",
-            "url": "https://www.indiewire.com/features/commentary/interview-with-a-vampire-season-3-guide-for-vampire-lestat-1235198504/",
-            "category": "National",
-            "date": "2026-06-06T13:30:00Z"
+            "title": "China steps up patrols near Taiwan",
+            "summary": "China launched a special maritime operation east of Taiwan, in direct response to a recent agreement between Japan and the Philippines. This pact involves negotiating maritime borders, an act Beijing views as challenging its regional claims. The operation underscores escalating tensions and China's assertive posture regarding its territorial waters amidst strengthening regional alliances.",
+            "url": "https://economictimes.indiatimes.com/news/defence/china-intensifies-naval-patrols-near-taiwan-following-japan-philippines-defense-agreement/articleshow/131558029.cms",
+            "category": "International",
+            "date": "2026-06-06T18:48:38Z"
         },
         {
-            "title": "Magnetoelectric antennas could transform how underwater robots talk",
-            "summary": "A groundbreaking new antenna technology, inspired by the physics of medical implants, aims to revolutionize communication for underwater robots and submarine machines. Currently, these devices often lose contact upon descent. This innovation promises to enable reliable surface communication, enhancing operational capabilities for various sub-surface applications, potentially impacting defence, research, and exploration significantly. It tackles a major hurdle in underwater autonomy.",
-            "url": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
+            "title": "IAF being engaged to transport NEET question papers: NTA DG",
+            "summary": "The NTA Director General, Abhishek Singh, announced the Indian Air Force will transport NEET question papers for the national examination on June 21. This crucial inter-agency collaboration underscores the IAF's vital logistical support beyond combat roles, ensuring secure and efficient delivery of sensitive materials for a major national event. This highlights the diverse responsibilities of India's defence forces.",
+            "url": "https://economictimes.indiatimes.com/news/india/iaf-to-transport-neet-question-papers-enhanced-security-measures-announced-for-june-21-exam/articleshow/131557535.cms",
+            "category": "National",
+            "date": "2026-06-06T18:20:44Z"
+        },
+        {
+            "title": "Moment Kyiv launches devastating drone attack on St Petersburg as Zelensky warns Putin he will punish 'injustice against Ukraine'",
+            "summary": "Ukraine launched a significant long-range drone attack on Russia's St. Petersburg region, reportedly one of its boldest of the war. Dramatic footage showed thick smoke, indicating the strike's impact. This incident highlights Ukraine's expanding drone capabilities and strategic intent to target key Russian territories, underscoring the conflict's evolving geographical scope and modern warfare dynamics.",
+            "url": "https://www.dailymail.com/news/article-15879609/Moment-Kyiv-launches-devastating-drone-attack-St-Petersburg-Zelensky-warns-Putin-punish-injustice-against-Ukraine.html",
+            "category": "Defence",
+            "date": "2026-06-06T18:01:58Z"
+        },
+        {
+            "title": "Snipperclips Dev Is Bringing Its Murder Mystery Sequel To Switch 1 & 2 Next Month",
+            "summary": "SFB Games, known for titles like Snipperclips and Crow Country, recently unveiled 'The Mermaid's Mask' at the SGF Story Rich Showcase. This new murder mystery game is slated for release on both Nintendo Switch 1 and 2. The announcement highlights the studio's continued focus on narrative-driven experiences, expanding the popular console's diverse gaming library and demonstrating ongoing trends in digital entertainment technology.",
+            "url": "https://www.nintendolife.com/news/2026/06/snipperclips-dev-is-bringing-its-murder-mystery-sequel-to-switch-1-and-2-next-month",
             "category": "Sci & Tech",
-            "date": "2026-06-06T13:03:00Z"
+            "date": "2026-06-06T18:00:00Z"
+        },
+        {
+            "title": "Former Padres Pitcher Dies at 75",
+            "summary": "Professional baseball pitcher Mike Johnson, known for his six-year career including a notable period with the San Diego Padres in 1974, has died at 75. While his big league career was brief, it left a lasting mark. Johnson's passing signifies the loss of a memorable figure from the sport's history, reminding us of athletes who shaped their eras.",
+            "url": "https://www.newsweek.com/sports/mlb/former-padres-pitcher-dies-at-75-12039885",
+            "category": "International",
+            "date": "2026-06-06T17:10:06Z"
+        },
+        {
+            "title": "The Mermaid Mask launches July 16 for PS5, Switch 2, Switch, and PC",
+            "summary": "The provided article introduces Captain Magnus Mortuga, an enigmatic figure operating near Silkwirm-on-Sea, rumored to be an immortal time-traveler or cursed vampire. This fantastical premise sets a mysterious tone; however, the text is an incomplete snippet, precluding a comprehensive news summary or relevant details for SSB aspirants.",
+            "url": "https://www.gematsu.com/2026/06/the-mermaid-mask-launches-july-16-for-ps5-switch-2-switch-and-pc",
+            "category": "Sci & Tech",
+            "date": "2026-06-06T17:10:01Z"
         }
     ]
 }
