@@ -1,12 +1,33 @@
 {
-    "last_updated": "2026-06-09T09:33:08.937562+00:00",
+    "last_updated": "2026-06-09T14:38:52.754117+00:00",
     "articles": [
         {
-            "title": "How have countries around the world responded to the US-Israel war on Iran?",
-            "summary": "100 days have passed since the United States and Israel launched war on Iran, a conflict that has significantly impacted global stability. This prolonged geopolitical struggle has triggered a severe global energy crisis and darkened the overall economic outlook worldwide. The ongoing conflict poses considerable challenges to international relations and resource markets, demanding continued diplomatic attention.",
-            "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran",
-            "category": "International",
-            "date": "2026-06-07T09:35:31Z"
+            "title": "Runway closure plan at Srinagar Airport raises concerns among Kashmir businesses",
+            "summary": "Srinagar Airport faces a proposed three-month partial shutdown, including a complete runway closure for over two weeks in October. This plan has significantly alarmed Kashmir's business and tourism industries, fearing severe disruptions to connectivity and economic activity in the region. Such closures raise concerns about logistical challenges and their impact on local livelihoods and essential services.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/runway-closure-plan-at-srinagar-airport-raises-concerns-among-kashmir-businesses/article71077290.ece",
+            "category": "National",
+            "date": "2026-06-08T14:37:21Z"
+        },
+        {
+            "title": "Ashwini Vaishnaw rejects \u2018screwdriver technology\u2019 tag for Indian manufacturing",
+            "summary": "Union Minister Ashwini Vaishnaw dismissed criticism labeling Indian manufacturing as merely \"screwdriver technology.\" He asserted that the sector's achieved precision demonstrates the country's advanced capabilities and significant progress. This statement counters negative perceptions, highlighting India's growing self-reliance and potential as a global manufacturing hub. It underscores the nation's industrial prowess and technological maturity.",
+            "url": "https://www.thehindubusinessline.com/economy/ashwini-vaishnaw-rejects-screwdriver-technology-tag-for-indian-manufacturing/article71077403.ece",
+            "category": "National",
+            "date": "2026-06-08T14:32:36Z"
+        },
+        {
+            "title": "World's most advanced chips, including Nvidia chips, being designed in India: Union minister Ashwini Vaishnaw",
+            "summary": "Union Minister Ashwini Vaishnaw announced India is now designing some of the world's most advanced chips, including those for industry leader Nvidia. This significant development highlights India's growing prowess in high-tech manufacturing and design, moving towards innovation. It positions the nation as a crucial player in the global semiconductor ecosystem, enhancing technological self-reliance and boosting national capabilities in critical electronics development.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/worlds-most-advanced-chips-including-nvidia-chips-being-designed-in-india-union-minister-ashwini-vaishnaw/articleshow/131590067.cms",
+            "category": "Sci & Tech",
+            "date": "2026-06-08T14:02:27Z"
+        },
+        {
+            "title": "\u201cWhat is a paper leak?\u201d: Question for testing agency from MPs\u2019 panel",
+            "summary": "A Parliamentary panel has asked the National Testing Agency (NTA) to clearly define \u201cpaper leak\u201d and confirm if any occurred in their recent examinations. This directive addresses national concerns regarding competitive test integrity, which is crucial for aspirants, including those aiming for defence services. The panel seeks greater transparency and accountability to ensure fairness and public trust in the examination system.",
+            "url": "https://indianexpress.com/article/education/nta-denies-neet-paper-leaks-parliamentary-panel-digvijaya-singh-10729182/",
+            "category": "National",
+            "date": "2026-06-08T06:55:12Z"
         }
     ]
 }
