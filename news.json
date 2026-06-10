@@ -1,40 +1,47 @@
 {
-    "last_updated": "2026-06-10T15:22:02.605211+00:00",
+    "last_updated": "2026-06-10T20:23:15.886301+00:00",
     "articles": [
         {
-            "title": "lac-cli 0.4.0",
-            "summary": "The provided text is an error message indicating a website component failed to load, possibly due to browser extensions, network issues, or settings. Users are advised to check their internet connection, disable ad blockers, or try a different browser to troubleshoot and resolve the loading problem.",
-            "url": "https://pypi.org/project/lac-cli/0.4.0/",
-            "category": "Sci & Tech",
-            "date": "2026-06-09T14:39:49Z"
+            "title": "Drainage works to be expedited at Lucknow node of def corridor",
+            "summary": "The provided text contains only boilerplate copyright information from Bennett, Coleman & Co. Ltd., dated 2026, along with prompts for social media and reprint rights. It offers no actual news content, current events, or substantive details relevant to defence, national, international, or scientific developments for an SSB aspirant's awareness.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/drainage-works-to-be-expedited-at-lucknow-node-of-def-corridor/articleshow/131619992.cms",
+            "category": "National",
+            "date": "2026-06-09T20:20:57Z"
         },
         {
-            "title": "IN-SPACe invites private sector interest for transfer of ISRO\u2019s LVM3 rocket technology",
-            "summary": "In a significant move, Indian private players are now permitted to undertake the production of India's largest rocket. This initiative aims to bolster the domestic industry's capabilities in heavy-lift launch vehicle manufacturing. It is expected to encourage greater private sector involvement in advanced space technology, fostering indigenous development and enhancing India's self-reliance in critical aerospace production, potentially expanding commercial space opportunities.",
-            "url": "https://www.thehindubusinessline.com/news/in-space-invites-private-sector-interest-for-transfer-of-isros-lvm3-rocket-technology/article71081335.ece",
+            "title": "Grit: Rewriting Git in Rust with Agents",
+            "summary": "The article describes Anthropic's experiment where a 'swarm of agents' (AI) successfully collaborated to write a C compiler. The author explores extending this multi-agent AI strategy to tackle other complex problems. This demonstrates the immense potential of distributed AI systems in intricate software development and technological challenges, marking a significant advancement in automated problem-solving capabilities.",
+            "url": "https://blog.gitbutler.com/true-grit",
             "category": "Sci & Tech",
-            "date": "2026-06-09T14:13:12Z"
+            "date": "2026-06-09T19:58:21Z"
         },
         {
-            "title": "The importance of nonsense errors: Estimating the rates and implications of ribosome drop-off during protein synthesis",
-            "summary": "This scientific abstract introduces the cellular process of translation, noting it's energetically demanding and prone to errors compared to transcription and replication. It specifically details \"nonsense errors\" that occur during translation when a ribosome prematurely detaches. The article likely delves into the mechanisms and biological implications of these molecular errors, an important area in genetics and cellular biology.",
-            "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012162",
-            "category": "Sci & Tech",
-            "date": "2026-06-09T14:00:00Z"
-        },
-        {
-            "title": "Deadly protests in Pakistan-administered Kashmir: What\u2019s going on?",
-            "summary": "Violent clashes erupted in Rawalakot, Pakistan-administered Kashmir, on Sunday, resulting in at least 11 deaths after police confronted protesters. The confrontation occurred ahead of a major planned demonstration. This incident highlights ongoing unrest and the volatile situation in the region, which is of significant geopolitical interest.",
-            "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on",
+            "title": "Global Jewelry Market Size to Reach USD 659 Billion by 2035, Growing at 5.6% CAGR | Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "summary": "Custom Market Insights released a new report on June 10, 2026, titled 'Jewelry Market Size, Trends and Insights'. This comprehensive study analyzes the global jewelry market, detailing its current dimensions, evolving trends, and key insights. The report segments its analysis by product categories, including necklaces, rings, and earrings, offering crucial data for understanding economic dynamics within the luxury goods sector globally.",
+            "url": "https://www.globenewswire.com/news-release/2026/06/09/3309294/0/en/Global-Jewelry-Market-Size-to-Reach-USD-659-Billion-by-2035-Growing-at-5-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth-Rate-Valu.html",
             "category": "International",
-            "date": "2026-06-09T13:58:09Z"
+            "date": "2026-06-09T19:30:00Z"
         },
         {
-            "title": "Robotaxis almost happened in 1964\u2014with the help of the U.S. government",
-            "summary": "This article promotes the Popular Science daily newsletter, offering subscribers daily updates on scientific breakthroughs, new discoveries, and practical DIY tips six days a week. Prospective subscribers must confirm they are at least 16 years old and consent to receiving newsletters and promotional material upon signing up. It's a direct invitation to engage with scientific content.",
-            "url": "http://www.popsci.com/technology/robotaxis-personal-rapid-transit-history/",
-            "category": "Sci & Tech",
-            "date": "2026-06-09T13:01:00Z"
+            "title": "The Muppets Take Over Aerosmith\u2019s Roller Coaster At Disney World, And It\u2019s A Major Improvement",
+            "summary": "Disney's Hollywood Studios' Rock 'n' Roller Coaster has undergone a significant thematic change. The Muppets have officially replaced the band Aerosmith, addressing a long-standing critique since the ride's 1999 opening. This update introduces a fresh experience for visitors, marking a notable evolution for a popular attraction at a major American theme park.",
+            "url": "https://kotaku.com/the-muppets-take-over-aerosmiths-roller-coaster-at-disney-world-and-its-a-major-improvement-2000704063",
+            "category": "National",
+            "date": "2026-06-09T19:15:28Z"
+        },
+        {
+            "title": "Ex-CIA officer with gold bars stashed in his home reportedly siphoned it through fake spy program",
+            "summary": "A former CIA officer faces allegations of orchestrating a sophisticated fraud. He purportedly concocted a fake spy program to illicitly funnel tens of millions in gold bars, disguised as legitimate work-related expenses. This alleged scheme underscores the critical importance of stringent financial oversight and ethical conduct within intelligence agencies, raising questions about accountability for high-ranking personnel involved in sensitive operations.",
+            "url": "https://nationalpost.com/news/world/ex-cia-officer-with-gold-bars-stashed-in-his-home-reportedly-siphoned-it-through-fake-spy-program",
+            "category": "National",
+            "date": "2026-06-09T19:02:12Z"
+        },
+        {
+            "title": "\u30106\u670810\u65e5\u3011\u770b\u8ecd\u805e\u5b78\u82f1\u8a9e",
+            "summary": "Taiwan's Premier Cho Jung-tai stated China is the primary source of regional instability due to its ongoing military activities. This aligns with a defence ministry report of new Chinese movements. The statement highlights escalating tensions in the Indo-Pacific, underscoring concerns over Beijing's aggressive posture and its impact on regional peace and security.",
+            "url": "https://tw.news.yahoo.com/6%E6%9C%8810%E6%97%A5-%E7%9C%8B%E8%BB%8D%E8%81%9E%E5%AD%B8%E8%8B%B1%E8%AA%9E-163000859.html",
+            "category": "Defence",
+            "date": "2026-06-09T16:30:00Z"
         }
     ]
 }
