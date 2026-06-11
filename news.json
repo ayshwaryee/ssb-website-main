@@ -1,47 +1,26 @@
 {
-    "last_updated": "2026-06-11T15:48:54.065060+00:00",
+    "last_updated": "2026-06-11T20:14:04.568877+00:00",
     "articles": [
         {
-            "title": "Sanctions on settlers not enough: Target Israeli gov\u2019t, say campaigners",
-            "summary": "Western nations have imposed new sanctions on Israeli settlers and far-right ministers due to their actions. Human rights groups and Palestinian campaigners, however, criticize these measures as insufficient. They argue the sanctions fail to address systemic state complicity in actions against Palestinians, highlighting a call for more comprehensive international intervention to tackle the root causes of the conflict.",
-            "url": "https://www.aljazeera.com/news/2026/6/10/sanctions-on-settlers-not-enough-target-israeli-govt-say-campaigners",
-            "category": "International",
-            "date": "2026-06-10T15:30:42Z"
+            "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
+            "summary": "On 10 June 2026, the UK's Secretary of State for Foreign, Commonwealth and Development Affairs, Yvette Cooper MP, and Secretary of State for Defence, John Healey MP, jointly hosted a significant event. This gathering, which began with 'D', likely involved high-level discussions focusing on international defence strategy, security cooperation, and foreign policy, emphasizing the UK's role in global security matters.",
+            "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026",
+            "category": "Defence",
+            "date": "2026-06-10T19:25:38Z"
         },
         {
-            "title": "DIY CO2 Scrubber in DIY Sub by a Hacker Braver Than Most",
-            "summary": "The article begins by inviting readers to observe the man-made objects within their immediate environment, prompting reflection on human creation and its impact. It subtly suggests a broader discussion about our tangible influence on the world around us, potentially contrasting it with natural states and encouraging deeper thought on our role in shaping our surroundings through innovation and design.",
-            "url": "https://hackaday.com/2026/06/10/diy-co2-scrubber-in-diy-sub-by-a-hacker-braver-than-most/",
+            "title": "node804-mcp-toolkit added to PyPI",
+            "summary": "This article discusses shared utilities crucial for building highly secure and token-efficient MCP servers for IT operations. These utilities provide essential functionalities like robust permission gating and comprehensive audit logging. Such advancements are vital for enhancing data security, operational transparency, and overall efficiency within critical digital infrastructure, impacting various sectors including potential defence applications by strengthening cyber frameworks.",
+            "url": "https://pypi.org/project/node804-mcp-toolkit/",
             "category": "Sci & Tech",
-            "date": "2026-06-10T15:30:23Z"
+            "date": "2026-06-10T18:52:22Z"
         },
         {
-            "title": "Sam Reid Knows Rock-Star Lestat Needs Louis\u2019s Validation",
-            "summary": "The article previews the season premiere of 'The Vampire Lestat' (formerly 'Interview With the Vampire'), which aired on June 7 on AMC. It focuses on spoilers, particularly concerning Sam Reid's portrayal of Lestat de Lioncourt and potential plot developments related to 'Detroit'. This piece delves into the ongoing narrative and character arcs of the popular vampire series for fans.",
-            "url": "http://www.vulture.com/article/sam-reid-lestat-interview-with-the-vampire-season-3-rock-star-louis.html",
-            "category": "National",
-            "date": "2026-06-10T15:15:02Z"
-        },
-        {
-            "title": "\u2018These injection injuries are real\u2019: U.S. senator demands COVID-shot injuries be given disease classification",
-            "summary": "Hospital Corpsman 3rd Class Kyle Massey on the USS Emory S. Land administered the first Moderna COVID-19 vaccine dose to Machinist Mate 3rd Class Brandy Mingus. This action underscores the military's ongoing commitment to vaccinating its personnel. Such proactive health measures are vital for maintaining troop readiness, ensuring force protection, and supporting sustained operational capabilities in a challenging global environment.",
-            "url": "https://www.wnd.com/2026/06/these-injection-injuries-are-real-u-s-senator/",
+            "title": "India's light tank Zorawar may face delays of up to 2 years as Army demands enhanced protection",
+            "summary": "India's indigenously developed light battle tank, 'Zorawar,' faces an estimated two-year delay in induction. The postponement stems from a critical requirement to enhance its protection levels against enemy fire. This strategic decision prioritizes crew safety and survivability, ensuring the tank meets robust operational standards before deployment. The delay underscores a commitment to equipping armed forces with highly protected and effective military assets for future challenges.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indias-light-tank-zorawar-may-face-delays-of-up-to-2-years-as-army-demands-enhanced-protection/articleshow/131642804.cms",
             "category": "Defence",
-            "date": "2026-06-10T15:07:03Z"
-        },
-        {
-            "title": "MoD inks contract with Bengaluru-based firm for satellite jammers",
-            "summary": "The Ministry of Defence signed a \u20b9200 crore contract with Bengaluru's Accord Software and Systems for 20 Enhanced Capability GNSS Receivers for the Indian Air Force. These indigenously designed systems will boost IAF's navigation capabilities and precise positioning, aligning with the 'Aatmanirbhar Bharat' initiative. Delivery is expected within 24 months, strengthening India's defence self-reliance.",
-            "url": "https://www.thehindubusinessline.com/news/mod-inks-contract-with-bengaluru-based-firm-for-satellite-jammers/article71085495.ece",
-            "category": "Defence",
-            "date": "2026-06-10T14:27:19Z"
-        },
-        {
-            "title": "PH, SG, Italy navies hold Pacific drills en route to Hawaii",
-            "summary": "The Philippine Navy (PN) announced developments regarding its guided missile frigate, BRP Miguel Malvar (FFG-6). The frigate is reported to be carrying a Naval Task, though specific details about its mission or activities are not provided in this snippet. This news highlights ongoing operations and the deployment of key naval assets by the Philippine armed forces, indicating their active presence and strategic engagements.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260610-pna03.htm",
-            "category": "Defence",
-            "date": "2026-06-10T12:00:00Z"
+            "date": "2026-06-10T18:35:07Z"
         }
     ]
 }
