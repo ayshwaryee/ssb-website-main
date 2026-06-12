@@ -1,40 +1,68 @@
 {
-    "last_updated": "2026-06-12T10:03:00.215745+00:00",
+    "last_updated": "2026-06-12T14:47:29.360214+00:00",
     "articles": [
         {
-            "title": "Indonesia seeks to diversify network routes, reduce 90 per cent internet connectivity dependence on Singapore",
-            "summary": "Indonesia is diversifying its international connectivity, prompted by concerns over dependence on Singapore. Observers warn of risks from natural disasters and accidents potentially disrupting crucial links. This strategic move aims to enhance Indonesia's resilience and secure its global connections, minimizing vulnerabilities posed by over-reliance on a single hub, thereby ensuring more robust and stable international engagement.",
-            "url": "https://www.channelnewsasia.com/asia/indonesia-seeks-reduce-90-cent-internet-connectivity-dependence-singapore-diversifying-network-routes-6176281",
+            "title": "Peaky Blinders Series Welcomes New & Returning Faces to The Cast",
+            "summary": "Netflix's globally popular series, Peaky Blinders, starring Jamie Bell and Charlie Heaton, is welcoming new and returning cast members. This news highlights ongoing developments within the international entertainment industry. Aspirants can note the broad cultural impact and global reach of such productions as part of general awareness and understanding of worldwide media trends.",
+            "url": "https://bleedingcool.com/tv/peaky-blinders-series-welcomes-new-returning-faces-to-the-cast/",
             "category": "International",
-            "date": "2026-06-11T09:04:00Z"
+            "date": "2026-06-11T14:37:09Z"
         },
         {
-            "title": "Today's gold, silver prices (June 11, 2026): Check 24k, 22k and 18k gold jewellery rates from IBJA, Malabar Gold and Diamonds, Joyalukkas & Tanishq in Delhi, Mumbai and other cities",
-            "summary": "Gold prices continued their downward trend on Thursday, June 11, 2026, with major jewellery retailers reducing per-gram rates across Indian cities. This decline follows earlier sharp corrections, making gold potentially more accessible for consumers and impacting investment strategies. Aspirants should note economic indicators like this for comprehensive national awareness and current affairs knowledge.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-11-2026-24k-22k-18k-gold-silver-jewellery-price-from-ibja-malabar-joyalukkas-tanishq-in-delhi-mumbai-hyderabad-kolkata/articleshow/131654099.cms",
-            "category": "National",
-            "date": "2026-06-11T08:51:35Z"
-        },
-        {
-            "title": "Centre likely to extend \u20b9500-crore loan support to Pawan Hans",
-            "summary": "State-owned helicopter operator Pawan Hans Ltd (PHL) is anticipated to secure an approximately 500-crore Centre-backed loan with a 10-year tenure. This significant financial support, currently under government examination, is crucial for bolstering the operational capabilities and financial stability of the national helicopter service provider, ensuring its continued role in India's aviation sector.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/centre-likely-to-extend-500-crore-loan-support-to-pawan-hans/article71085526.ece",
-            "category": "National",
-            "date": "2026-06-11T07:44:11Z"
-        },
-        {
-            "title": "The Battle For Birmingham Continues - New \"Peaky Blinders\" Cast Revealed",
-            "summary": "Netflix and BBC have announced new cast members for the popular British drama \"Peaky Blinders,\" signaling the show's continued production. Notable additions include Conleth Hill and Daniel Monks. This development is significant news within the entertainment sector, indicating ongoing work on the series which holds considerable national and international appeal.",
-            "url": "http://www.thefutoncritic.com/news/2026/06/11/the-battle-for-birmingham-continues-new-peaky-blinders-cast-revealed-316515/20260611netflix03/",
-            "category": "National",
-            "date": "2026-06-11T07:01:00Z"
-        },
-        {
-            "title": "opbdh added to PyPI",
-            "summary": "A required section of a website failed to load, indicating potential issues with browser extensions like ad blockers, underlying network connectivity problems, or specific browser settings. Users encountering this technical error are advised to check their internet connection, disable active ad blockers, or try accessing the site using an alternative browser to resolve the display issue and ensure full functionality.",
-            "url": "https://pypi.org/project/opbdh/",
+            "title": "BBC announces more cast members for long-awaited Peaky Blinders spin-off",
+            "summary": "The Independent appeals for reader support to fund its crucial journalism, emphasizing their 'on-the-ground' coverage as stories develop. They highlight reporting on diverse topics, including reproductive rights, climate change, and Big Tech, alongside financial investigations. This support enables their commitment to telling important stories comprehensively and investigating complex issues.",
+            "url": "https://www.the-independent.com/arts-entertainment/tv/news/peaky-blinders-spin-off-cast-b2994052.html",
             "category": "Sci & Tech",
-            "date": "2026-06-11T05:05:13Z"
+            "date": "2026-06-11T14:29:16Z"
+        },
+        {
+            "title": "India needs 200-plus satellites in three years, says ISRO chairman V Narayanan",
+            "summary": "ISRO plans to launch over 200 satellites in the next three years to meet India's growing national and commercial requirements. This ambitious space agenda underscores India's commitment to leveraging space technology for diverse applications, including defence, communication, and earth observation. It highlights increasing self-reliance and strategic importance in the global space sector, fostering technological advancement crucial for national security and economic growth.",
+            "url": "https://www.thehindubusinessline.com/news/science/require-200-plus-satellites-in-3-years-for-india-isro-chairman-v-narayanan/article71089276.ece",
+            "category": "Sci & Tech",
+            "date": "2026-06-11T14:11:26Z"
+        },
+        {
+            "title": "Irish stars join Peaky Blinders spin-off series",
+            "summary": "The BBC has announced that Irish actors Conleth Hill (Game of Thrones) and Cal O'Driscoll will join the cast of the upcoming Peaky Blinders spin-off series. Set in Birmingham in the 1950s, this new show promises to extend the popular franchise's narrative. This casting news generates significant buzz within the entertainment industry, highlighting the continued global appeal of the 'Peaky Blinders' universe.",
+            "url": "https://www.rte.ie/entertainment/2026/0611/1577934-irish-stars-join-peaky-blinders-spin-off-series/",
+            "category": "International",
+            "date": "2026-06-11T14:06:51Z"
+        },
+        {
+            "title": "Endurance Energy raises $54M to harness a massive untapped energy source | TechCrunch",
+            "summary": "Former SpaceX engineer Andrew Redd, known for his work on space rockets, has embarked on a new venture, shifting his focus to deep ocean exploration. This significant career change, termed his 'second act,' demonstrates a unique transition from aerospace innovation to contributing to marine technology and understanding Earth's depths.",
+            "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+            "category": "Sci & Tech",
+            "date": "2026-06-11T14:03:47Z"
+        },
+        {
+            "title": "Experimental investigation and reliability-based optimization of the nut factor in bolted joints considering friction coefficient, surface roughness and material hardness",
+            "summary": "The nut factor is a critical engineering parameter defining the relationship between tightening torque and axial preload in bolted joints. Accurate estimation of this coefficient is essential for ensuring structural integrity and reliability across various applications. For SSB aspirants, understanding such fundamental mechanical principles is vital, as they are crucial in defence equipment, aerospace, and other demanding technical fields requiring secure fastenings.",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351082",
+            "category": "Sci & Tech",
+            "date": "2026-06-11T14:00:00Z"
+        },
+        {
+            "title": "Structured knowledge representation of the South China Sea: An LLM-based knowledge graph approach",
+            "summary": "This document outlines the compilation of a textual data corpus for an experiment setup. Researchers sourced raw data from 20 published Chinese books and 63 selected research articles via the China National Knowledge Infrastructure (CNKI). This extensive dataset serves as the foundational basis for their scientific or technological research experiments, crucial for accurate analysis.",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351132",
+            "category": "Sci & Tech",
+            "date": "2026-06-11T14:00:00Z"
+        },
+        {
+            "title": "Over 11,000 people evacuated ahead of missile test in Odisha's Candipur",
+            "summary": "Ahead of a scheduled DRDO missile test in Balasore, Odisha, the district administration temporarily evacuated 11,442 residents from 11 hamlets. These villages were located within a 3.5-km radius of the test site, a standard precautionary measure to ensure public safety during such defence trials. This operation highlights the meticulous planning and coordination involved in India's ongoing indigenous missile development programs.",
+            "url": "https://economictimes.indiatimes.com/news/defence/over-11000-people-evacuated-ahead-of-missile-test-in-odishas-candipur/articleshow/131660849.cms",
+            "category": "Defence",
+            "date": "2026-06-11T13:20:08Z"
+        },
+        {
+            "title": "India's SatSure bags $2.6 million grant to build AI-powered Earth observation models",
+            "summary": "Indian space startup SatSure Analytics recently secured a \u20b9246 million ($2.57 million) grant from the nation's space regulator. This significant funding is dedicated to developing advanced Artificial Intelligence models for Earth observation. The initiative underscores India's burgeoning private sector role in space technology and its commitment to leveraging AI for crucial geospatial data analysis, promising enhanced capabilities across various sectors.",
+            "url": "https://www.channelnewsasia.com/business/indias-satsure-bags-26-million-grant-build-ai-powered-earth-observation-models-6176696",
+            "category": "Sci & Tech",
+            "date": "2026-06-11T10:50:56Z"
         }
     ]
 }
