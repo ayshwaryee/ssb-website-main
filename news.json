@@ -1,47 +1,40 @@
 {
-    "last_updated": "2026-06-15T03:40:53.226098+00:00",
+    "last_updated": "2026-06-15T11:54:14.264814+00:00",
     "articles": [
         {
-            "title": "wyolet-symbol 0.2.5",
-            "summary": "A website encountered a critical loading error, preventing a required component from displaying. This technical issue is commonly attributed to browser extensions, underlying network problems, or specific browser settings. Users are advised to resolve this by checking their internet connection, disabling any active ad blockers, or attempting to access the website using an alternative web browser for troubleshooting.",
-            "url": "https://pypi.org/project/wyolet-symbol/0.2.5/",
-            "category": "Sci & Tech",
-            "date": "2026-06-14T03:04:06Z"
-        },
-        {
-            "title": "Star Wars: How India\u2019s spacetech-defence ties are shaping the future",
-            "summary": "Elon Musk's Space Exploration Technologies (SpaceX) has filed its initial public offering (IPO) prospectus. This critical document goes beyond mere financials, presenting a visionary blueprint for space technology's future, encompassing both scientific advancements and potential geopolitical ramifications. For SSB aspirants, it underscores the increasing strategic importance and commercialization of space exploration.",
-            "url": "https://economictimes.indiatimes.com/news/defence/star-wars-how-indias-spacetech-defence-ties-are-shaping-the-future/articleshow/131714656.cms",
-            "category": "Sci & Tech",
-            "date": "2026-06-14T02:22:37Z"
-        },
-        {
-            "title": "CM congratulates DRDO on maiden flight-test of ballistic missiles",
-            "summary": "Assam Chief Minister Himanta Biswa Sarma congratulated the Defence Research and Development Organisation (DRDO) for the successful maiden flight-test of the Naval Anti-Ship Missile. This significant indigenous development highlights India's progress in advanced defence technology. For SSB aspirants, this underscores the nation's commitment to bolstering naval capabilities and achieving self-reliance in critical military hardware, essential for national security.",
-            "url": "https://thehillstimes.in/assam/cm-congratulates-drdo-on-maiden-flight-test-of-ballistic-missiles",
+            "title": "Indian Army drops colonial-era dress customs; brings in Bandis, battlejackets under new uniform code",
+            "summary": "The Indian Army has undertaken significant reforms, removing several colonial-era vestiges from its dress regulations. This includes ending the mandatory carriage of swords by Reviewing Officers and the use of pouch belts with specific mess dresses. This move aligns with a broader national effort to shed colonial symbols, reflecting a commitment to national identity and modernizing military traditions.",
+            "url": "https://www.thehindubusinessline.com/news/indian-army-drops-colonial-era-dress-customs-brings-in-bandis-battlejackets-under-new-uniform-code/article71100705.ece",
             "category": "Defence",
-            "date": "2026-06-13T23:15:00Z"
+            "date": "2026-06-14T09:14:04Z"
         },
         {
-            "title": "Artists light up musical evening at Lucknow Bioscope",
-            "summary": "Panchkula Municipal Corporation will discuss a property tax waiver in its first General House meeting. Concurrently, three more individuals have been arrested and a juvenile detained in the Chandresal Math priest murder case, deepening the investigation. The article also hints at political developments, mentioning 'rebellion buzz' within an unspecified context, suggesting ongoing internal political activity.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/artists-light-up-musical-evening-at-lucknow-bioscope/articleshow/131712213.cms",
+            "title": "Southern Railway highlights 2025-26 achievements; rollout includes Amrit Bharat and MEMU services",
+            "summary": "Southern Railway announced significant achievements from the last financial year, including a major expansion of services across Tamil Nadu, Kerala, and Karnataka. This highlights crucial infrastructure development and enhanced connectivity in the southern region. Such railway expansion is vital for economic growth, passenger mobility, and efficient freight transport, directly contributing to national progress and regional integration.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/railways/southern-railway-highlights-2025-26-achievements-rollout-includes-amrit-bharat-and-memu-services/articleshow/131718001.cms",
             "category": "National",
-            "date": "2026-06-13T19:54:05Z"
+            "date": "2026-06-14T08:57:10Z"
         },
         {
-            "title": "Sarojini Nagar emerging as key growth hub: MLA",
-            "summary": "An MLA noted Sarojini Nagar's rise as a key growth hub. Concurrently, the Panchkula Municipal Corporation plans to discuss a property tax waiver in its first General House meeting. Additionally, reports indicate three more arrests. These updates cover urban development, local governance, and law enforcement, providing a snapshot of current national affairs.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/sarojini-nagar-emerging-as-key-growth-hub-mla/articleshow/131712210.cms",
+            "title": "UK forces intercept Russian vessel in English Channel",
+            "summary": "British forces, including Royal Marine commandos, intercepted a sanctioned Russian oil tanker in the English Channel. This action targeted a vessel from Russia's \"shadow fleet,\" operating despite international sanctions. The interception by the UK Ministry of Defence highlights ongoing efforts to enforce international law and economic restrictions against Russia, impacting its maritime operations and strategic interests in European waters.",
+            "url": "https://www.rte.ie/news/world/2026/0614/1578328-uk-russia/",
+            "category": "Defence",
+            "date": "2026-06-14T07:34:41Z"
+        },
+        {
+            "title": "Pakistan-occupied Kashmir resident apprehended near LoC",
+            "summary": "The provided content presents standard website boilerplate information. It includes a copyright notice for Bennett, Coleman & Co. Ltd., valid until 2026, and specifies Times Syndication Service for reprint rights. Additionally, it contains a general prompt to engage with the entity on social media. The text consists of administrative and legal disclaimers rather than a substantive news report suitable for an SSB aspirant's briefing.",
+            "url": "https://timesofindia.indiatimes.com/city/srinagar/pakistan-occupied-kashmir-resident-apprehended-near-loc/articleshow/131710755.cms",
             "category": "National",
-            "date": "2026-06-13T19:52:33Z"
+            "date": "2026-06-13T18:14:01Z"
         },
         {
-            "title": "Show HN: A local-first job-search command center (no cloud, no telemetry)",
-            "summary": "A new, docs-style web interface streamlines the career-ops AI job-search pipeline. It allows users to search, evaluate, apply, and track all job offers efficiently from a single browser tab. This innovation simplifies the entire application process, eliminating the need to juggle multiple platforms and significantly boosting job seeker productivity.",
-            "url": "https://github.com/Fighter90/career-ops-ui",
-            "category": "Sci & Tech",
-            "date": "2026-06-13T14:59:48Z"
+            "title": "Ageing An-32 crashes, takes lives of 5 onboard IAF personnel",
+            "summary": "An Indian Air Force (IAF) An-32 transport aircraft tragically crashed while landing at Jorhat, Assam, on Saturday morning. The incident resulted in the loss of five onboard personnel, including two officers. This accident underscores the operational risks faced by defence personnel and highlights the ongoing need for maintenance, modernization, and stringent safety protocols for ageing military fleets to ensure optimal operational readiness.",
+            "url": "https://www.thehindubusinessline.com/news/ageing-an-32-crashes-takes-lives-of-5-onboard-iaf-personnel/article71097652.ece",
+            "category": "Defence",
+            "date": "2026-06-13T12:43:24Z"
         }
     ]
 }
