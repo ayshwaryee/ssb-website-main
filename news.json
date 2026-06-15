@@ -1,47 +1,33 @@
 {
-    "last_updated": "2026-06-15T17:07:45.716536+00:00",
+    "last_updated": "2026-06-15T20:50:34.806118+00:00",
     "articles": [
         {
-            "title": "India aims to co-develop, co-design, co-produce, co-manufacture: MEA on Rafale deal with France",
-            "summary": "India is significantly boosting its 'Make in India' initiative within the defence sector, emphasizing a comprehensive approach that includes co-development, co-design, co-production, and co-manufacturing. This strategy aims to enhance indigenous capabilities and reduce reliance on imports, fostering self-reliance and technological advancement in critical defence technologies, aligning with national security objectives and economic growth.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-aims-to-co-develop-co-design-co-produce-co-manufacture-mea-on-rafale-deal-with-france/articleshow/131724992.cms",
-            "category": "Defence",
-            "date": "2026-06-14T16:51:37Z"
-        },
-        {
-            "title": "It\u2019s a Most Confusing Time To Be in the US Military",
-            "summary": "The article highlights a period of significant confusion within the U.S. military, questioning the fundamental purpose of its engagements. It points to a perceived lack of clear principles and strategic clarity among top leadership, suggesting a challenging environment for service members grappling with their mission and the reasons behind their operations. This introspective piece touches upon critical issues of morale and direction.",
-            "url": "https://www.antiwar.com/blog/2026/06/14/its-a-most-confusing-time-to-be-in-the-us-military/",
-            "category": "Defence",
-            "date": "2026-06-14T15:02:02Z"
-        },
-        {
-            "title": "French President Macron hails 'Chandrayaan-3' lunar landing as proof of India's innovation prowess",
-            "summary": "French President Emmanuel Macron praised India's Chandrayaan-3 mission, highlighting its successful lunar south pole landing as a definitive example of the nation's growing technological capabilities. He lauded India's unique achievement in space exploration, showcasing its significant scientific advancements and global influence in high-tech domains. This international recognition underscores India's prowess in cutting-edge research and development.",
-            "url": "https://economictimes.indiatimes.com/news/india/french-president-macron-hails-chandrayaan-3-lunar-landing-as-proof-of-indias-innovation-prowess/articleshow/131721126.cms",
+            "title": "AI company set to become Tasmania's biggest power user",
+            "summary": "Singapore-based AI company Firmus plans to establish three \"AI factories\" in Tasmania, potentially making it the state's largest power user. This highlights the escalating energy demands of advanced AI infrastructure. Such large-scale tech investments underscore the critical need for robust energy solutions to support global technological advancement, posing significant challenges and opportunities for regional power grids and resource management.",
+            "url": "https://www.abc.net.au/news/2026-06-15/firmus-ai-company-tasmania-biggest-power-user-three-sites/106783142",
             "category": "Sci & Tech",
-            "date": "2026-06-14T12:18:48Z"
+            "date": "2026-06-14T19:09:45Z"
         },
         {
-            "title": "Neeraj Chopra, Animesh Kujur headline India's athletics squad for 2026 Commonwealth Games",
-            "summary": "The Athletics Federation of India (AFI) has announced a 32-member Indian athletics team, including 10 women, for the upcoming 2026 Commonwealth Games. This squad is set to compete in Glasgow, with the games scheduled to commence from July 22. The selection highlights India's preparations for major international sporting events.",
-            "url": "https://economictimes.indiatimes.com/news/sports/neeraj-chopra-animesh-kujur-headline-indias-athletics-squad-for-2026-commonwealth-games/articleshow/131720513.cms",
-            "category": "National",
-            "date": "2026-06-14T11:53:44Z"
-        },
-        {
-            "title": "wyolet-symbol 0.2.5",
-            "summary": "The provided text describes a technical issue where a website component failed to load. Potential causes include browser extensions, network problems, or specific browser settings. Users are advised to troubleshoot by verifying their internet connection, deactivating ad blockers, or attempting to access the site with a different browser to resolve the loading error.",
-            "url": "https://pypi.org/project/wyolet-symbol/0.2.5/",
-            "category": "Sci & Tech",
-            "date": "2026-06-14T03:04:06Z"
-        },
-        {
-            "title": "India joins elite group of nations with BMD capability as DRDO conducts 3 missile tests",
-            "summary": "India successfully conducted the maiden flight-test of the Naval Anti-Ship Missile-Medium Range (NASM-MR). This significant achievement for national defence demonstrated the missile's advanced capabilities, including pinpoint navigation, effective low-level sea-skimming flight, and high terminal accuracy against maritime targets. This marks a crucial step in enhancing the Navy's indigenous strike capabilities and maritime security.",
-            "url": "https://timesofindia.indiatimes.com/defence/india-joins-elite-group-of-nations-with-bmd-capability-as-drdo-conducts-3-missile-tests/articleshow/131711987.cms",
+            "title": "Embraer to set up India military aircraft unit if it wins order",
+            "summary": "Brazilian aerospace giant Embraer plans to establish its sole military transport aircraft production facility outside Sao Paulo, Brazil, in India. This move signals a significant boost for India's 'Make in India' defence manufacturing initiatives, enhancing indigenous capabilities. For SSB aspirants, this highlights strategic collaboration and advancements in national defence self-reliance and potential force multipliers.",
+            "url": "https://economictimes.indiatimes.com/news/defence/embraer-to-set-up-india-military-aircraft-unit-if-it-wins-order/articleshow/131728232.cms",
             "category": "Defence",
-            "date": "2026-06-13T19:32:44Z"
+            "date": "2026-06-14T19:02:08Z"
+        },
+        {
+            "title": "apiquart added to PyPI",
+            "summary": "Apriquart is a minimalistic API framework for Quart, an asynchronous Python web framework. It streamlines API development through declarative request/response validation and automatic OpenAPI 3.1 documentation generation. Built on Pydantic v2, it offers an ergonomic experience similar to APIFlask, enhancing developer efficiency in building robust web services. This tool represents advancements in modern software development practices.",
+            "url": "https://pypi.org/project/apiquart/",
+            "category": "Sci & Tech",
+            "date": "2026-06-14T17:18:21Z"
+        },
+        {
+            "title": "A final video call, a last photo: Bihar families mourn IAF personnel killed in Assam crash",
+            "summary": "Mothers in Patna are preserving their sons' last memories through mobile phone interactions. One mother recalls a smiling video call; another treasures a photo sent from inside an aircraft before an Indian Air Force (IAF) operation. These poignant recollections suggest a recent significant event involving IAF personnel, underscoring the profound personal sacrifices associated with military service.",
+            "url": "https://economictimes.indiatimes.com/news/india/a-final-video-call-a-last-photo-bihar-families-mourn-iaf-personnel-killed-in-assam-crash/articleshow/131719952.cms",
+            "category": "Defence",
+            "date": "2026-06-14T11:18:33Z"
         }
     ]
 }
