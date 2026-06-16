@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-06-16T03:36:16.121282+00:00",
+    "last_updated": "2026-06-16T11:02:17.654328+00:00",
     "articles": [
         {
-            "title": "India-France adopt Innovation Roadmap 2030, unveil 13 outcomes during PM Modi\u2019s visit",
-            "summary": "India and France unveiled 13 significant outcomes during Prime Minister Modi's visit, strengthening bilateral ties across crucial sectors. These agreements span innovation, Artificial Intelligence, trade, education, space, and strategic cooperation. This deepening partnership is vital for India's technological advancement, economic growth, and global standing, reinforcing strategic autonomy and national interests.",
-            "url": "https://www.thehindubusinessline.com/news/india-france-adopt-innovation-roadmap-2030-unveil-13-outcomes-during-pm-modis-visit/article71103298.ece",
+            "title": "Romania and Bulgaria Have Completed the Black Sea Maritime Security Hub",
+            "summary": "Romania and Bulgaria have finalized a joint project to establish a Black Sea Maritime Security Hub. This initiative, to be located in Constanta (Romania) and Varna (Bulgaria), aims to enhance collaborative efforts and strengthen security in the critical Black Sea region. The hub will serve as a vital platform for addressing shared maritime challenges and coordinating defence objectives between the two nations.",
+            "url": "https://www.mediafax.ro/english/romania-and-bulgaria-have-completed-the-black-sea-maritime-security-hub-23755638",
+            "category": "Defence",
+            "date": "2026-06-15T10:58:16Z"
+        },
+        {
+            "title": "New Report Cites Surge In Global Nuclear Weapons Spending",
+            "summary": "The US military successfully test-fired an unarmed intercontinental ballistic missile (ICBM), the Minuteman III, from Vandenberg Air Force Base. This routine launch, marked by a light streak across the night sky, demonstrates the readiness, effectiveness, and accuracy of the nation's nuclear deterrent. Such tests are vital for maintaining strategic stability and ensuring the reliability of the US defence arsenal, serving as a key component of national security.",
+            "url": "https://www.forbes.com/sites/williamhartung/2026/06/15/new-report-cites-surge-in-global-nuclear-weapons-spending/",
+            "category": "Defence",
+            "date": "2026-06-15T10:14:53Z"
+        },
+        {
+            "title": "Russian attack sets fire to centuries-old religious site in Kyiv, kills rescuers in Kharkiv",
+            "summary": "Russia launched a large-scale attack on Ukraine, causing fatalities in Kharkiv, including rescue personnel, and killing four in Kyiv. The strikes set apartment buildings ablaze and started a fire at a historic site. This ongoing aggression highlights the severe human cost and widespread destruction in the conflict, underscoring the volatile international security landscape.",
+            "url": "https://www.cbc.ca/news/world/kyiv-cathedral-russian-missile-kharkiv-9.7235337",
             "category": "International",
-            "date": "2026-06-15T02:34:53Z"
+            "date": "2026-06-15T09:52:21Z"
         },
         {
-            "title": "The Vampire Lestat Episode 2 recap and review: 'Toledo'",
-            "summary": "The article reviews \"The Vampire Lestat Episode 2, 'Toledo',\" noting the high bar set by its premiere. It likely offers critical analysis of the episode's narrative, character development, and overall quality, providing insights for viewers. The review contains spoilers, guiding an audience interested in the ongoing series' artistic direction and content.",
-            "url": "https://winteriscoming.net/the-vampire-lestat-episode-2-recap-review-toledo",
-            "category": "National",
-            "date": "2026-06-15T02:02:45Z"
+            "title": "Israel expects new air defence orders from Europe due to Russia concerns",
+            "summary": "Israel anticipates increased European demand for its advanced air and missile defence systems, with new contracts expected soon, potentially within weeks. This surge reflects European nations' growing emphasis on bolstering their aerial protection capabilities amidst evolving security landscapes, highlighting the strategic importance of robust defence infrastructure.",
+            "url": "https://www.yahoo.com/news/articles/israel-expects-air-defence-orders-094025545.html",
+            "category": "Defence",
+            "date": "2026-06-15T09:40:25Z"
         },
         {
-            "title": "How one Australian woman survived the sinking of the Titanic and why no one knows about her",
-            "summary": "The RMS Titanic, celebrated as the largest, most magnificent, and expensive ship ever built, was famously considered unsinkable. Tragically, on its maiden transatlantic voyage across the Atlantic, it struck an iceberg. This well-known disaster highlighted the limitations of engineering despite its grandeur and initial claims of invincibility.",
-            "url": "https://www.abc.net.au/listen/programs/conversations/lisa-wilkinson-titanic-unknown-story-evelyn-marsden/106785122",
+            "title": "US Military Pay Calculator",
+            "summary": "A US Military Pay Calculator has been updated with official 2026 pay tables and Basic Allowance for Housing (BAH) rates. This resource now includes comprehensive details on base pay, BAH housing rates, and special duty pay rates, all categorized by rank. For SSB aspirants, understanding military compensation structures is crucial for career planning and appreciating the financial aspects of defence services.",
+            "url": "https://iphone.giveawayoftheday.com/us-military-pay-calculator/",
+            "category": "Defence",
+            "date": "2026-06-15T09:20:48Z"
+        },
+        {
+            "title": "Laravel API: versioned routing with OpenAPI 3.0 docs generated from PHPDoc",
+            "summary": "This article details a Laravel package designed to streamline API development. It offers features for building versioned APIs, automatically generating comprehensive OpenAPI 3.0 documentation directly from PHP code. Additionally, it provides CRUD (Create, Read, Update, Delete) scaffolding capabilities. This tool significantly enhances efficiency for developers by automating routine tasks involved in creating robust, well-documented web services.",
+            "url": "https://github.com/dskripchenko/laravel-api?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
             "category": "Sci & Tech",
-            "date": "2026-06-15T01:00:00Z"
+            "date": "2026-06-15T09:00:00Z"
         },
         {
-            "title": "It\u2019s a Most Confusing Time To Be in the US Military",
-            "summary": "This excerpt describes a period of significant confusion within the U.S. military, where personnel reportedly question the reasons for their engagements. The author points to a perceived absence of clear principles and strategic clarity from the leadership. This assessment highlights a potential disconnect and uncertainty at the top levels, creating a challenging environment for service members regarding their purpose and direction.",
-            "url": "https://www.antiwar.com/blog/2026/06/14/its-a-most-confusing-time-to-be-in-the-us-military/",
+            "title": "Army, Airtel join hands for mobile connectivity in Arunachal Pradesh district",
+            "summary": "The Indian Army and Bharti Airtel have partnered to strengthen mobile network infrastructure in remote areas of West Kameng district, Arunachal Pradesh. This crucial collaboration aims to enhance connectivity in strategic border regions, benefiting both military personnel and local communities. Such initiatives are vital for bolstering national security, improving operational effectiveness, and contributing to socio-economic development in challenging terrains.",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/army-airtel-join-hands-for-mobile-connectivity-in-arunachal-pradesh-district/articleshow/131738799.cms",
             "category": "Defence",
-            "date": "2026-06-14T15:02:02Z"
+            "date": "2026-06-15T08:40:24Z"
         },
         {
-            "title": "Dhiraj Bommadevara completes golden double with maiden individual World Cup gold",
-            "summary": "Archer Dhiraj Bommadevara secured a memorable golden double in Antalya, clinching his maiden individual title. He achieved this by stunning Paris Olympics bronze medallist Lee Woo Seok of South Korea 7-3 in a gripping final. This impressive victory showcases India's growing strength in archery and reflects a high level of skill and composure under pressure, bringing national pride on the international stage.",
-            "url": "https://economictimes.indiatimes.com/news/sports/dhiraj-bommadevara-completes-golden-double-with-maiden-individual-world-cup-gold/articleshow/131722219.cms",
-            "category": "National",
-            "date": "2026-06-14T13:34:55Z"
-        },
-        {
-            "title": "UK forces intercept Russian 'shadow fleet' tanker in the English Channel",
-            "summary": "British armed forces have intercepted a sanctioned Russian oil tanker in the English Channel. This operation marks the first direct action to disrupt Russia's oil revenue, a critical source for funding its ongoing war in Ukraine. The move underscores international efforts to enforce sanctions and pressure Moscow economically, highlighting the maritime dimension of the conflict and the role of naval power in enforcing global policies.",
-            "url": "https://www.abc.net.au/news/2026-06-14/uk-intercepts-russian-shadow-fleet-tanker/106796774",
+            "title": "Mihir Ahuja Calls Playing An IAF Pilot In Netflix\u2019s Operation Safed Sagar A \u201cDream Come True\u201d",
+            "summary": "Actor Mihir Ahuja will star in Netflix's upcoming series \"Operation Safed Sagar.\" The series aims to bring one of the most significant and emotionally charged stories from Indian military history to screen, likely focusing on the air operations during the Kargil War. This production will offer SSB aspirants a valuable perspective on a pivotal defence event and the bravery of the Indian Armed Forces.",
+            "url": "https://www.filmibeat.com/ott/mihir-ahuja-calls-playing-an-iaf-pilot-in-netflix-s-operation-safed-sagar-a-dream-come-true-520999.html",
             "category": "Defence",
-            "date": "2026-06-14T12:00:57Z"
-        },
-        {
-            "title": "A final video call, a last photo: Bihar families mourn IAF personnel killed in Assam crash",
-            "summary": "Families in Patna are preserving the last digital memories of their Indian Air Force sons. A mother recalls a video call, another treasures a photo sent from an aircraft, underscoring the poignant sacrifices made by defence personnel and their loved ones. This highlights the enduring emotional impact on families of those serving in the IAF.",
-            "url": "https://economictimes.indiatimes.com/news/india/a-final-video-call-a-last-photo-bihar-families-mourn-iaf-personnel-killed-in-assam-crash/articleshow/131719952.cms",
-            "category": "Defence",
-            "date": "2026-06-14T11:18:33Z"
+            "date": "2026-06-15T08:32:52Z"
         }
     ]
 }
