@@ -1,30 +1,51 @@
 {
-    "last_updated": "2026-06-15T20:50:34.806118+00:00",
+    "last_updated": "2026-06-16T03:36:16.121282+00:00",
     "articles": [
         {
-            "title": "AI company set to become Tasmania's biggest power user",
-            "summary": "Singapore-based AI company Firmus plans to establish three \"AI factories\" in Tasmania, potentially making it the state's largest power user. This highlights the escalating energy demands of advanced AI infrastructure. Such large-scale tech investments underscore the critical need for robust energy solutions to support global technological advancement, posing significant challenges and opportunities for regional power grids and resource management.",
-            "url": "https://www.abc.net.au/news/2026-06-15/firmus-ai-company-tasmania-biggest-power-user-three-sites/106783142",
-            "category": "Sci & Tech",
-            "date": "2026-06-14T19:09:45Z"
+            "title": "India-France adopt Innovation Roadmap 2030, unveil 13 outcomes during PM Modi\u2019s visit",
+            "summary": "India and France unveiled 13 significant outcomes during Prime Minister Modi's visit, strengthening bilateral ties across crucial sectors. These agreements span innovation, Artificial Intelligence, trade, education, space, and strategic cooperation. This deepening partnership is vital for India's technological advancement, economic growth, and global standing, reinforcing strategic autonomy and national interests.",
+            "url": "https://www.thehindubusinessline.com/news/india-france-adopt-innovation-roadmap-2030-unveil-13-outcomes-during-pm-modis-visit/article71103298.ece",
+            "category": "International",
+            "date": "2026-06-15T02:34:53Z"
         },
         {
-            "title": "Embraer to set up India military aircraft unit if it wins order",
-            "summary": "Brazilian aerospace giant Embraer plans to establish its sole military transport aircraft production facility outside Sao Paulo, Brazil, in India. This move signals a significant boost for India's 'Make in India' defence manufacturing initiatives, enhancing indigenous capabilities. For SSB aspirants, this highlights strategic collaboration and advancements in national defence self-reliance and potential force multipliers.",
-            "url": "https://economictimes.indiatimes.com/news/defence/embraer-to-set-up-india-military-aircraft-unit-if-it-wins-order/articleshow/131728232.cms",
+            "title": "The Vampire Lestat Episode 2 recap and review: 'Toledo'",
+            "summary": "The article reviews \"The Vampire Lestat Episode 2, 'Toledo',\" noting the high bar set by its premiere. It likely offers critical analysis of the episode's narrative, character development, and overall quality, providing insights for viewers. The review contains spoilers, guiding an audience interested in the ongoing series' artistic direction and content.",
+            "url": "https://winteriscoming.net/the-vampire-lestat-episode-2-recap-review-toledo",
+            "category": "National",
+            "date": "2026-06-15T02:02:45Z"
+        },
+        {
+            "title": "How one Australian woman survived the sinking of the Titanic and why no one knows about her",
+            "summary": "The RMS Titanic, celebrated as the largest, most magnificent, and expensive ship ever built, was famously considered unsinkable. Tragically, on its maiden transatlantic voyage across the Atlantic, it struck an iceberg. This well-known disaster highlighted the limitations of engineering despite its grandeur and initial claims of invincibility.",
+            "url": "https://www.abc.net.au/listen/programs/conversations/lisa-wilkinson-titanic-unknown-story-evelyn-marsden/106785122",
+            "category": "Sci & Tech",
+            "date": "2026-06-15T01:00:00Z"
+        },
+        {
+            "title": "It\u2019s a Most Confusing Time To Be in the US Military",
+            "summary": "This excerpt describes a period of significant confusion within the U.S. military, where personnel reportedly question the reasons for their engagements. The author points to a perceived absence of clear principles and strategic clarity from the leadership. This assessment highlights a potential disconnect and uncertainty at the top levels, creating a challenging environment for service members regarding their purpose and direction.",
+            "url": "https://www.antiwar.com/blog/2026/06/14/its-a-most-confusing-time-to-be-in-the-us-military/",
             "category": "Defence",
-            "date": "2026-06-14T19:02:08Z"
+            "date": "2026-06-14T15:02:02Z"
         },
         {
-            "title": "apiquart added to PyPI",
-            "summary": "Apriquart is a minimalistic API framework for Quart, an asynchronous Python web framework. It streamlines API development through declarative request/response validation and automatic OpenAPI 3.1 documentation generation. Built on Pydantic v2, it offers an ergonomic experience similar to APIFlask, enhancing developer efficiency in building robust web services. This tool represents advancements in modern software development practices.",
-            "url": "https://pypi.org/project/apiquart/",
-            "category": "Sci & Tech",
-            "date": "2026-06-14T17:18:21Z"
+            "title": "Dhiraj Bommadevara completes golden double with maiden individual World Cup gold",
+            "summary": "Archer Dhiraj Bommadevara secured a memorable golden double in Antalya, clinching his maiden individual title. He achieved this by stunning Paris Olympics bronze medallist Lee Woo Seok of South Korea 7-3 in a gripping final. This impressive victory showcases India's growing strength in archery and reflects a high level of skill and composure under pressure, bringing national pride on the international stage.",
+            "url": "https://economictimes.indiatimes.com/news/sports/dhiraj-bommadevara-completes-golden-double-with-maiden-individual-world-cup-gold/articleshow/131722219.cms",
+            "category": "National",
+            "date": "2026-06-14T13:34:55Z"
+        },
+        {
+            "title": "UK forces intercept Russian 'shadow fleet' tanker in the English Channel",
+            "summary": "British armed forces have intercepted a sanctioned Russian oil tanker in the English Channel. This operation marks the first direct action to disrupt Russia's oil revenue, a critical source for funding its ongoing war in Ukraine. The move underscores international efforts to enforce sanctions and pressure Moscow economically, highlighting the maritime dimension of the conflict and the role of naval power in enforcing global policies.",
+            "url": "https://www.abc.net.au/news/2026-06-14/uk-intercepts-russian-shadow-fleet-tanker/106796774",
+            "category": "Defence",
+            "date": "2026-06-14T12:00:57Z"
         },
         {
             "title": "A final video call, a last photo: Bihar families mourn IAF personnel killed in Assam crash",
-            "summary": "Mothers in Patna are preserving their sons' last memories through mobile phone interactions. One mother recalls a smiling video call; another treasures a photo sent from inside an aircraft before an Indian Air Force (IAF) operation. These poignant recollections suggest a recent significant event involving IAF personnel, underscoring the profound personal sacrifices associated with military service.",
+            "summary": "Families in Patna are preserving the last digital memories of their Indian Air Force sons. A mother recalls a video call, another treasures a photo sent from an aircraft, underscoring the poignant sacrifices made by defence personnel and their loved ones. This highlights the enduring emotional impact on families of those serving in the IAF.",
             "url": "https://economictimes.indiatimes.com/news/india/a-final-video-call-a-last-photo-bihar-families-mourn-iaf-personnel-killed-in-assam-crash/articleshow/131719952.cms",
             "category": "Defence",
             "date": "2026-06-14T11:18:33Z"
