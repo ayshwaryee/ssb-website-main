@@ -1,61 +1,124 @@
 {
-    "last_updated": "2026-06-16T11:02:17.654328+00:00",
+    "last_updated": "2026-06-16T16:45:09.213525+00:00",
     "articles": [
         {
-            "title": "Romania and Bulgaria Have Completed the Black Sea Maritime Security Hub",
-            "summary": "Romania and Bulgaria have finalized a joint project to establish a Black Sea Maritime Security Hub. This initiative, to be located in Constanta (Romania) and Varna (Bulgaria), aims to enhance collaborative efforts and strengthen security in the critical Black Sea region. The hub will serve as a vital platform for addressing shared maritime challenges and coordinating defence objectives between the two nations.",
-            "url": "https://www.mediafax.ro/english/romania-and-bulgaria-have-completed-the-black-sea-maritime-security-hub-23755638",
-            "category": "Defence",
-            "date": "2026-06-15T10:58:16Z"
-        },
-        {
-            "title": "New Report Cites Surge In Global Nuclear Weapons Spending",
-            "summary": "The US military successfully test-fired an unarmed intercontinental ballistic missile (ICBM), the Minuteman III, from Vandenberg Air Force Base. This routine launch, marked by a light streak across the night sky, demonstrates the readiness, effectiveness, and accuracy of the nation's nuclear deterrent. Such tests are vital for maintaining strategic stability and ensuring the reliability of the US defence arsenal, serving as a key component of national security.",
-            "url": "https://www.forbes.com/sites/williamhartung/2026/06/15/new-report-cites-surge-in-global-nuclear-weapons-spending/",
-            "category": "Defence",
-            "date": "2026-06-15T10:14:53Z"
-        },
-        {
-            "title": "Russian attack sets fire to centuries-old religious site in Kyiv, kills rescuers in Kharkiv",
-            "summary": "Russia launched a large-scale attack on Ukraine, causing fatalities in Kharkiv, including rescue personnel, and killing four in Kyiv. The strikes set apartment buildings ablaze and started a fire at a historic site. This ongoing aggression highlights the severe human cost and widespread destruction in the conflict, underscoring the volatile international security landscape.",
-            "url": "https://www.cbc.ca/news/world/kyiv-cathedral-russian-missile-kharkiv-9.7235337",
-            "category": "International",
-            "date": "2026-06-15T09:52:21Z"
-        },
-        {
-            "title": "Israel expects new air defence orders from Europe due to Russia concerns",
-            "summary": "Israel anticipates increased European demand for its advanced air and missile defence systems, with new contracts expected soon, potentially within weeks. This surge reflects European nations' growing emphasis on bolstering their aerial protection capabilities amidst evolving security landscapes, highlighting the strategic importance of robust defence infrastructure.",
-            "url": "https://www.yahoo.com/news/articles/israel-expects-air-defence-orders-094025545.html",
-            "category": "Defence",
-            "date": "2026-06-15T09:40:25Z"
-        },
-        {
-            "title": "US Military Pay Calculator",
-            "summary": "A US Military Pay Calculator has been updated with official 2026 pay tables and Basic Allowance for Housing (BAH) rates. This resource now includes comprehensive details on base pay, BAH housing rates, and special duty pay rates, all categorized by rank. For SSB aspirants, understanding military compensation structures is crucial for career planning and appreciating the financial aspects of defence services.",
-            "url": "https://iphone.giveawayoftheday.com/us-military-pay-calculator/",
-            "category": "Defence",
-            "date": "2026-06-15T09:20:48Z"
-        },
-        {
-            "title": "Laravel API: versioned routing with OpenAPI 3.0 docs generated from PHPDoc",
-            "summary": "This article details a Laravel package designed to streamline API development. It offers features for building versioned APIs, automatically generating comprehensive OpenAPI 3.0 documentation directly from PHP code. Additionally, it provides CRUD (Create, Read, Update, Delete) scaffolding capabilities. This tool significantly enhances efficiency for developers by automating routine tasks involved in creating robust, well-documented web services.",
-            "url": "https://github.com/dskripchenko/laravel-api?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
+            "title": "Press release: Orange issues 850 million euros of hybrid notes",
+            "summary": "Orange S.A., a major telecommunications company, successfully issued 850 million euros in hybrid notes. This significant corporate financial move, announced from Paris, reflects the company's strategic funding efforts. Aspirants should note such large-scale capital market activities by international corporations as part of general economic awareness.",
+            "url": "https://www.globenewswire.com/news-release/2026/06/15/3312022/0/en/Press-release-Orange-issues-850-million-euros-of-hybrid-notes.html",
             "category": "Sci & Tech",
-            "date": "2026-06-15T09:00:00Z"
+            "date": "2026-06-15T16:37:00Z"
         },
         {
-            "title": "Army, Airtel join hands for mobile connectivity in Arunachal Pradesh district",
-            "summary": "The Indian Army and Bharti Airtel have partnered to strengthen mobile network infrastructure in remote areas of West Kameng district, Arunachal Pradesh. This crucial collaboration aims to enhance connectivity in strategic border regions, benefiting both military personnel and local communities. Such initiatives are vital for bolstering national security, improving operational effectiveness, and contributing to socio-economic development in challenging terrains.",
-            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/army-airtel-join-hands-for-mobile-connectivity-in-arunachal-pradesh-district/articleshow/131738799.cms",
-            "category": "Defence",
-            "date": "2026-06-15T08:40:24Z"
+            "title": "Today\u2019s News in a Nutshell",
+            "summary": "Khabarhub reports on key daily developments in Nepal, encompassing politics, economy, sports, and entertainment. A significant political issue involves Nepalese lawmakers seeking clarification from their government regarding matters concerning India. This highlights parliamentary scrutiny within Nepal and the ongoing dynamics of bilateral relations between Nepal and India, which are crucial for regional stability and foreign policy understanding for SSB aspirants.",
+            "url": "https://english.khabarhub.com/2026/15/554030/",
+            "category": "International",
+            "date": "2026-06-15T16:15:15Z"
         },
         {
-            "title": "Mihir Ahuja Calls Playing An IAF Pilot In Netflix\u2019s Operation Safed Sagar A \u201cDream Come True\u201d",
-            "summary": "Actor Mihir Ahuja will star in Netflix's upcoming series \"Operation Safed Sagar.\" The series aims to bring one of the most significant and emotionally charged stories from Indian military history to screen, likely focusing on the air operations during the Kargil War. This production will offer SSB aspirants a valuable perspective on a pivotal defence event and the bravery of the Indian Armed Forces.",
-            "url": "https://www.filmibeat.com/ott/mihir-ahuja-calls-playing-an-iaf-pilot-in-netflix-s-operation-safed-sagar-a-dream-come-true-520999.html",
+            "title": "behaviz added to PyPI",
+            "summary": "Behaviz is a new, modular, multi-backend plotting library designed to rapidly transform raw data into clear, reproducible figures. It addresses the common issue of verbosity in existing scientific plotting tools, offering a more streamlined approach for researchers and data analysts to visualize their findings efficiently. This innovation aims to enhance data representation across various scientific disciplines.",
+            "url": "https://pypi.org/project/behaviz/",
+            "category": "Sci & Tech",
+            "date": "2026-06-15T16:12:39Z"
+        },
+        {
+            "title": "Fresh humiliation for Putin as nuke-capable supersonic bomber crashes down in fireball",
+            "summary": "A Russian Tu-22M3 strategic bomber crashed during a training flight in Siberia's Irkutsk region. This incident, confirmed by the Russian Defence Ministry, marks a setback for Russia's military capabilities. For SSB aspirants, such events are crucial to understand as they reflect the operational challenges and strategic readiness of major global powers' air forces.",
+            "url": "https://www.dailymail.com/news/article-15901371/Fresh-humiliation-Putin-nuke-capable-supersonic-bomber-crashes-fireball.html",
             "category": "Defence",
-            "date": "2026-06-15T08:32:52Z"
+            "date": "2026-06-15T15:40:04Z"
+        },
+        {
+            "title": "Adani and Jabil plan to build AI data-centre hardware in India",
+            "summary": "Indian conglomerate Adani Group and US manufacturer Jabil are collaborating to produce AI hardware in India. This partnership signifies a major push to establish a domestic manufacturing base for critical AI components. It aims to boost India's self-reliance in advanced technology, strengthen its global AI supply chain position, and foster indigenous innovation and job creation.",
+            "url": "https://thenextweb.com/news/adani-jabil-ai-data-centre-hardware-india/",
+            "category": "Sci & Tech",
+            "date": "2026-06-15T15:05:09Z"
+        },
+        {
+            "title": "Changing Operational Environment. Radical Changes in Almost every Aspect of War",
+            "summary": "The ongoing four-year Russia-Ukraine War and the over 40-day Iran-USA-Israel conflict are profoundly impacting global security. These prolonged confrontations underscore evolving warfare dynamics, critical strategic preparedness needs, and complex international relations. For SSB aspirants, understanding such geopolitical events is vital for comprehending contemporary defence challenges and national security implications.",
+            "url": "https://www.globalresearch.ca/changing-operational-environment/5929944",
+            "category": "Defence",
+            "date": "2026-06-15T15:01:18Z"
+        },
+        {
+            "title": "DC Studios Officially Casts Its Next Green Lantern In Upcoming Spinoff Series",
+            "summary": "DC Studios is expanding its focus on Green Lantern projects within its universe. James Gunn's upcoming DC Universe: Chapter 1, titled \"Gods and Monsters,\" will introduce various heroes. Additionally, the studio is developing new stories under its \"Elseworlds\" banner, indicating a broader strategy for its iconic characters across different narrative continuities, appealing to a global audience.",
+            "url": "https://screenrant.com/my-adventures-with-green-lantern-jessica-cruz-aulii-cravalho-dc-casting-official/",
+            "category": "International",
+            "date": "2026-06-15T14:35:58Z"
+        },
+        {
+            "title": "AI-enabled traffic system: Kerala HC seeks govt\u2019s views on delay in payment to firm",
+            "summary": "The Kerala High Court has sought the state government's views on delays in payments to the company implementing an AI-enabled traffic system. The court is inquiring into the reasons behind the holdup, highlighting concerns over project execution and financial management related to advanced technological infrastructure in the state. This underscores judicial oversight on public projects.",
+            "url": "https://timesofindia.indiatimes.com/city/kochi/ai-enabled-traffic-system-kerala-hc-seeks-govts-views-on-delay-in-payment-to-firm/articleshow/131747857.cms",
+            "category": "National",
+            "date": "2026-06-15T14:26:02Z"
+        },
+        {
+            "title": "Govt intensifies Garima scheme for core sanitation workers",
+            "summary": "A potential US-Iran peace deal and the opening of the Strait of Hormuz bear significant implications for India. This international development could ensure smoother global oil flow, crucial for India's energy security and economic stability. SSB aspirants should note how such geopolitical shifts directly impact India's resource access, trade routes, and national defence preparedness.",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/govt-intensifies-garima-scheme-for-core-sanitation-workers/articleshow/131747726.cms",
+            "category": "International",
+            "date": "2026-06-15T14:19:01Z"
+        },
+        {
+            "title": "AU Small Finance Bank Strengthens Customer-First Approach to Its Credit Card Range",
+            "summary": "AU Small Finance Bank (AU SFB), India's largest Small Finance Bank, has received in-principle approval from the RBI to transition into a Universal Bank. This milestone marks the first such transition in over a decade, signifying AU SFB's significant growth and its future impact on India's financial landscape. This reflects crucial developments in the national economy.",
+            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/au-small-finance-bank-strengthens-customer-first-approach-to-its-credit-card-range/article71103655.ece",
+            "category": "National",
+            "date": "2026-06-15T12:54:48Z"
+        },
+        {
+            "title": "Hindon bets on expansion to stay relevant in NCR airport race",
+            "summary": "The Hindon civil terminal in Ghaziabad is undergoing a significant expansion to address major operational constraints. This upgrade aims to resolve limited aircraft parking issues and reduce its dependence on external air traffic control. The expansion will enhance the terminal's capacity and efficiency for civilian flights, improving regional air connectivity and passenger experience in India.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/hindon-airport-expansion-enhanced-capacity-and-services-to-compete-with-delhi-ncr-airports/articleshow/131745249.cms",
+            "category": "National",
+            "date": "2026-06-15T12:35:37Z"
+        },
+        {
+            "title": "The fresh poll, PASOK\u2019s thoughts about Notopoulou and the Kasselakis rumors, the blue-green silence over TEE and the Urban Planning Offices, and the Church renting out properties",
+            "summary": "The article commences by highlighting the conclusion of academic exams and the end of the school year, signaling the eagerly awaited arrival of the Greek summer. This period is described as a distinct seasonal transition, moving from structured educational routines towards a time of leisure and enjoyment, characteristic of the cultural rhythm and popular activities within Greece as the warmer months begin.",
+            "url": "https://en.protothema.gr/2026/06/15/the-fresh-poll-pasoks-thoughts-about-notopoulou-and-the-kasselakis-rumors-the-blue-green-silence-over-tee-and-the-urban-planning-offices-and-the-church-renting-out-properties/",
+            "category": "National",
+            "date": "2026-06-15T12:34:46Z"
+        },
+        {
+            "title": "A satellite just learned to find things on its own \u2014 here's what that means | TechCrunch",
+            "summary": "An Earth observation satellite has achieved a significant milestone by autonomously identifying its target for the first time, without human intervention. This April event marks a breakthrough in space-based artificial intelligence, potentially enhancing surveillance, environmental monitoring, and disaster response capabilities by reducing reliance on ground analysts. This advancement signifies increasing automation in space technology, crucial for future space operations.",
+            "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+            "category": "Sci & Tech",
+            "date": "2026-06-15T12:00:56Z"
+        },
+        {
+            "title": "When a Team of Meteorologists and Combat Pilots Set Out to Understand Thunderstorms, They Made Flying Safer for Everyone",
+            "summary": "The article primarily discusses Pennsylvania Central Airlines Flight 19, which departed Washington, D.C., with 22 passengers on August 31, 1940. The full narrative likely delves into the circumstances and significance of this historical flight. Separately, the text also mentions a lightning strike in Peckham, Oklahoma.",
+            "url": "https://www.smithsonianmag.com/science-nature/when-team-meteorologists-combat-pilots-set-out-understand-thunderstorms-made-flying-safer-everyone-180988841/",
+            "category": "National",
+            "date": "2026-06-15T12:00:00Z"
+        },
+        {
+            "title": "NAMM NeXT Europe 2026 Elevates Leadership Collaboration and Strategic Vision for the Global Music Products Industry",
+            "summary": "NAMM (The National Association of Music Merchants) recently convened a robust executive summit in Carlsbad, California. This significant event brought together top companies and leaders from the musical instruments, professional audio, and live event communities. The summit aimed to foster collaboration and discuss industry trends, highlighting advancements and future directions within these technology-driven creative sectors for key stakeholders.",
+            "url": "https://www.prnewswire.com/news-releases/namm-next-europe-2026-elevates-leadership-collaboration-and-strategic-vision-for-the-global-music-products-industry-302799809.html",
+            "category": "Sci & Tech",
+            "date": "2026-06-15T12:00:00Z"
+        },
+        {
+            "title": "Trump Gets New Opportunities To Insult America\u2019s Allies In Person",
+            "summary": "U.S. President Donald Trump departed for France on June 15, 2026, to attend the G7 Summit in Evian-les-Bains. This crucial international gathering unites leaders of major industrialized nations to address global economic and political challenges. Trump's participation is significant, occurring amidst anticipated discussions and potential criticism regarding his administration's stance on global issues and multilateralism.",
+            "url": "https://www.huffpost.com/entry/trump-iran-g7_n_6a296adbe4b0a99062faac11",
+            "category": "International",
+            "date": "2026-06-15T11:54:43Z"
+        },
+        {
+            "title": "Manousakis (ADMIE): Focus on investments aimed at protecting critical infrastructure from potential external threats",
+            "summary": "ADMIE\u2019s Chairman Manos Manousakis announced a 'historic milestone' at the 7th OT Forum: a planned 1.0-billion-euro share capital increase for the transmission operator. This significant financial injection aims to bolster the company's infrastructure and operational capacity, crucial for national energy security and economic stability. This move reflects strategic investment in a vital national asset.",
+            "url": "https://www.naftemporiki.gr/english/2124074/manousakis-admie-focus-on-investments-aimed-at-protecting-critical-infrastructure-from-potential-external-threats/",
+            "category": "National",
+            "date": "2026-06-15T05:45:37Z"
         }
     ]
 }
