@@ -1,33 +1,33 @@
 {
-    "last_updated": "2026-06-17T20:06:54.030426+00:00",
+    "last_updated": "2026-06-18T03:26:31.626306+00:00",
     "articles": [
         {
-            "title": "For Keri Russell, \u2018The Diplomat\u2019 Is a \u2018Love Letter\u2019 to the Foreign Service",
-            "summary": "Actress Keri Russell is discussing Season 2 of her Netflix series, 'The Diplomat.' The show portrays the complex world of career foreign-service officers and their political machinations in international relations. Russell finds the narrative 'insane,' highlighting the intricate global diplomacy. This series offers insights into the challenges faced by diplomats on the world stage, relevant for understanding international affairs.",
-            "url": "https://www.thewrap.com/industry-news/awards/keri-russell-the-diplomat-season-3-interview/",
-            "category": "International",
-            "date": "2026-06-16T20:00:00Z"
-        },
-        {
-            "title": "Navy preps science-and-tech strategy built for speed and focus",
-            "summary": "The Navy has launched a new science and technology strategy to accelerate the integration of advanced innovations into its fleet. This initiative will strategically allocate limited research funds, prioritizing unique defense challenges that private industry is unlikely to solve independently. The goal is to ensure critical technological advancements are pursued, maintaining a competitive edge and enhancing operational capabilities for the service.",
-            "url": "https://www.defenseone.com/policy/2026/06/navy-preps-science-and-tech-strategy-built-speed-and-focus/414226/",
+            "title": "IAF to indigenously produce Kamikaze drones with domestic partners",
+            "summary": "The Indian Air Force (IAF) is actively developing indigenous long-range kamikaze drones, aiming for complete self-reliance in drone technology. This significant initiative involves inviting bids from Indian companies for the project. The move is crucial for enhancing India's defence capabilities and preparing the force for future warfare scenarios, thereby reducing dependence on foreign technology and boosting domestic manufacturing.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/iaf-launches-project-to-jointly-design-develop-produce-kamikaze-drones-with-domestic-partners/articleshow/131784023.cms",
             "category": "Defence",
-            "date": "2026-06-16T19:44:41Z"
+            "date": "2026-06-17T01:35:44Z"
         },
         {
-            "title": "\u2018It\u2019s Not Competitive in Nature\u2019",
-            "summary": "The text reviews Vinay Kwatra's two-year tenure as India's ambassador to the United States, highlighting significant shifts in Washington and the global order. It notes the considerable impact of former U.S. President Donald Trump in redefining international dynamics. This period marked a crucial phase for India-US relations amid a rapidly changing world landscape.",
-            "url": "http://foreignpolicy.com/2026/06/16/india-ambassador-us-kwatra-modi-trump/",
-            "category": "International",
-            "date": "2026-06-16T19:35:00Z"
+            "title": "retrokix added to PyPI",
+            "summary": "Retrokix is an innovative emulator enabling users to play Game Boy Advance and NES games. A key feature is its AI integration, making it a 'talkable' emulator for enhanced interaction and control. This technological advancement merges classic gaming with modern artificial intelligence, offering a novel way to experience retro games using standard keyboards and gamepads, highlighting progress in interactive software development.",
+            "url": "https://pypi.org/project/retrokix/",
+            "category": "Sci & Tech",
+            "date": "2026-06-16T16:55:20Z"
         },
         {
-            "title": "Lawmaker gives Trump nominee tongue-lashing after he dodges key question: 'You're afraid!'",
-            "summary": "During a US confirmation hearing, Democratic Senator Tim Kaine sharply criticized a Trump nominee who refused to respond to questions. This exchange underscores the political confrontations and challenges concerning transparency in government appointments within the American system. For SSB aspirants, this offers insight into international democratic processes and accountability mechanisms in major global powers.",
-            "url": "https://www.rawstory.com/lawmaker-gives-trump-nominee-tongue-lashing-after-dodging-questions-you-re-afraid/",
-            "category": "International",
-            "date": "2026-06-16T16:20:15Z"
+            "title": "Chemotherapy-Induced Peripheral Neuropathy Market to Witness Significant Growth at a CAGR of 14.2% During the Forecast Period (2026-2036) as Novel Therapies Enter Late-Stage Development | DelveInsight",
+            "summary": "The market for chemotherapy-induced peripheral neuropathy (CIPN) treatments is expanding significantly. This growth is driven by the condition's high prevalence among cancer patients and a substantial unmet medical need for effective solutions. Additionally, the increasing use of neurotoxic chemotherapies, which cause CIPN, further fuels this market, highlighting an ongoing demand for advanced medical research and patient care innovations.",
+            "url": "https://www.prnewswire.com/news-releases/chemotherapy-induced-peripheral-neuropathy-market-to-witness-significant-growth-at-a-cagr-of-14-2-during-the-forecast-period-20262036-as-novel-therapies-enter-late-stage-development--delveinsight-302801111.html",
+            "category": "Sci & Tech",
+            "date": "2026-06-16T16:31:00Z"
+        },
+        {
+            "title": "SSC Head Constable AWO/TPO answer key, response sheet 2026 released at ssc.gov.in: Direct link to download here",
+            "summary": "The Staff Selection Commission (SSC) has released the answer key and response sheets for the Head Constable (Assistant Wireless Operator/Tele-Printer Operator - AWO/TPO) examination 2026. Aspirants can now access these crucial documents on the official SSC website, ssc.gov.in, to review their responses and estimate their performance. This release is a significant update for candidates awaiting their results for these national-level government posts.",
+            "url": "https://timesofindia.indiatimes.com/education/news/ssc-head-constable-awo/tpo-answer-key-response-sheet-2026-released-at-ssc-gov-in-direct-link-to-download-here/articleshow/131773630.cms",
+            "category": "National",
+            "date": "2026-06-16T14:27:27Z"
         }
     ]
 }
