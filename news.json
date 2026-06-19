@@ -1,47 +1,61 @@
 {
-    "last_updated": "2026-06-19T03:49:38.037785+00:00",
+    "last_updated": "2026-06-19T10:18:54.931159+00:00",
     "articles": [
         {
-            "title": "A U.S. Navy Destroyer Just Completed 11-Month-Long Epic Deployment",
-            "summary": "The Arleigh Burke-class guided-missile destroyer USS Mitscher (DDG 57) returned to Naval Station Norfolk after an extensive 11-month deployment. Operating in the U.S. 5th and 6th Fleet areas, the destroyer conducted maritime security operations, showcasing sustained naval presence and capabilities in critical international waters. This highlights the U.S. Navy's global operational reach and commitment to regional stability.",
-            "url": "https://www.forbes.com/sites/petersuciu/2026/06/17/a-us-navy-destroyer-just-completed-11-month-long-epic-deployment/",
+            "title": "Taiwan hopes US arms sale package can be approved soon, president says",
+            "summary": "Taiwan's President seeks swift US approval for a crucial $14 billion arms sale, reinforcing the island's rejection of unification with China. This move underscores Taiwan's heavy reliance on US military support amidst escalating tensions in the Indo-Pacific. The sale aims to bolster Taiwan's defensive capabilities, highlighting its strategic importance in regional security.",
+            "url": "https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says",
             "category": "Defence",
-            "date": "2026-06-18T01:23:27Z"
+            "date": "2026-06-18T09:52:12Z"
         },
         {
-            "title": "Telegram ban: HC asks government to present proof that justifies blocking",
-            "summary": "The Delhi High Court has sought responses from MeitY, Home Affairs, and the National Testing Agency concerning a prominent messaging platform, likely Telegram. This judicial move highlights increasing scrutiny over such platforms' operations in India. Potential concerns include content regulation, user data privacy, or platform misuse for activities like exam malpractices, given NTA's involvement. The court awaits detailed replies from the ministries.",
-            "url": "https://economictimes.indiatimes.com/tech/technology/telegram-ban-hc-asks-government-to-present-proof-that-justifies-blocking/articleshow/131812171.cms",
-            "category": "National",
-            "date": "2026-06-18T00:30:00Z"
+            "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+            "summary": "Russia's defence ministry reported intercepting nearly 1,000 Ukrainian drones and four cruise missiles nationwide within 24 hours. The statement also mentioned an oil depot being struck. This highlights intense ongoing aerial conflict between Russia and Ukraine, with both sides experiencing significant drone and missile activity, reflecting the dynamic nature of the war.",
+            "url": "https://www.bbc.com/news/articles/c98291g5rr1o",
+            "category": "Defence",
+            "date": "2026-06-18T09:47:47Z"
         },
         {
-            "title": "The 'Italian Alcatraz' that transformed into a stunning national park",
-            "summary": "Freediver Alessandro describes Sardinia as having unparalleled environmental integrity, a rarity even across the entire Mediterranean. He suggests only a handful of locations can rival its pristine condition. This assessment underscores Sardinia's unique ecological value and exceptional natural preservation, positioning it as a standout example of environmental health in a vital international maritime region.",
-            "url": "https://www.nationalgeographic.com/travel/article/asinara-national-park",
+            "title": "Pete Hegseth warns NATO the US will 'review' its military presence in Europe in wake of 'shameful' lack of Iran war support",
+            "summary": "US Defense Secretary Pete Hegseth announced NATO that the Pentagon will review its force presence in Europe within six months. This strategic move aims to pressure allied nations to significantly increase their defence spending and capabilities. Washington's initiative reflects a broader push for greater burden-sharing within the alliance, crucial amidst evolving geopolitical landscapes and security challenges impacting international defence postures.",
+            "url": "https://www.dailymail.com/news/article-15910381/Pete-Hegseth-warns-NATO-US-review-military-presence-Europe-wake-shameful-lack-Iran-war-support.html",
+            "category": "Defence",
+            "date": "2026-06-18T09:39:17Z"
+        },
+        {
+            "title": "Submarine repair plans spark shipyard labour dispute in Halifax",
+            "summary": "Canada's government, Ottawa, is evaluating two Halifax sites for a new submarine maintenance facility. This crucial infrastructure project aims to service Canada's future 12-ship submarine fleet. The facility will ensure operational readiness and long-term support for the naval expansion, highlighting Canada's commitment to strengthening its maritime defence capabilities and national security.",
+            "url": "https://biztoc.com/x/9463a53b9b8017b9",
+            "category": "Defence",
+            "date": "2026-06-18T09:37:23Z"
+        },
+        {
+            "title": "In 1962, a French geologist descended into a dark underground cave, but when he emerged more than two months later, he had lost track of time and helped reveal the human body's internal clock",
+            "summary": "French geologist Michel Siffre conducted a pioneering experiment in the early 1960s. Initially exploring geology, his work evolved into a significant study merging science and human endurance. Siffre endured prolonged underground isolation to research human circadian rhythms and the body's adaptation without external time cues. This groundbreaking research offered crucial insights into our natural biological clock and the psychological impacts of extreme isolation.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/in-1962-a-french-geologist-descended-into-a-dark-underground-cave-but-when-he-emerged-more-than-two-months-later-he-had-lost-track-of-time-and-helped-reveal-the-human-bodys-internal-clock/articleshow/131824906.cms",
+            "category": "Sci & Tech",
+            "date": "2026-06-18T09:29:41Z"
+        },
+        {
+            "title": "Bulakovski's team-first attitude leads to NJ's highest individual honor",
+            "summary": "Ontario coach Rachel Miller is preparing her senior athletes for the 2026 district track and field championships. She conducted individual meetings during an early-week practice, providing personalized attention and motivation. This focused approach aims to enhance each senior athlete's readiness and performance as they gear up for the upcoming competitive events.",
+            "url": "https://www.mansfieldnewsjournal.com/story/sports/high-school/2026/06/18/sasha-bulakovski-is-njs-2025-26-female-scholar-athlete-of-the-year/90556287007/",
             "category": "International",
-            "date": "2026-06-18T00:00:00Z"
+            "date": "2026-06-18T09:00:34Z"
         },
         {
-            "title": "India\u2019s annual defence production surges to Rs 1.78 lakh cr in 2025-26",
-            "summary": "India's defence production achieved an all-time high of Rs 1.78 lakh crore in the financial year 2025-26, the Defence Ministry announced. This significant milestone underscores the nation's growing self-reliance (Aatmanirbharta) in defence manufacturing. Such robust growth strengthens India's strategic capabilities and reduces dependence on foreign imports, contributing to national security.",
-            "url": "https://thehillstimes.in/national/indias-annual-defence-production-surges-to-rs-1-78-lakh-cr-in-2025-26",
-            "category": "Defence",
-            "date": "2026-06-17T23:20:00Z"
+            "title": "Gold rate today (June 18, 2026): Check 24k, 22k and 18k gold jewellery prices from Joyalukkas, Malabar Gold and Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & other cities",
+            "summary": "Gold prices at major jewellery brands across Indian cities remained largely steady today. However, the India Bullion and Jewellers Association (IBJA) noted a marginal change in bullion rates. This domestic economic update provides a snapshot of the current stability in India's gold market, which is relevant for understanding national economic trends and market sentiment.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-18-2026-check-24k-22k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-and-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/131823195.cms",
+            "category": "National",
+            "date": "2026-06-18T08:18:07Z"
         },
         {
-            "title": "As The US Pulls Back, NATO Ponies Up",
-            "summary": "NATO allies are initiating efforts to replace approximately $50 billion worth of U.S. military assets, including planes, ships, and drones, which are being removed from NATO crisis response allocations. This strategic move ensures the alliance maintains its operational readiness and collective defence capabilities amidst ongoing international challenges. The development, crucial for global security dynamics, was reported by Reuters, citing anonymous military sources.",
-            "url": "https://dailycaller.com/2026/06/17/nato-us-europe-ponies-up/",
+            "title": "War Books: The Marine Corps Commandant's 2026 Reading List",
+            "summary": "This 'War Books series' installment deviates from its usual format of expert-curated, themed book lists. While specific content isn't provided, the series inherently focuses on military literature. This suggests explorations into warfare, military history, or strategic analysis. Such resources offer valuable insights for SSB aspirants keen on defence studies and diverse strategic perspectives.",
+            "url": "http://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/",
             "category": "Defence",
-            "date": "2026-06-17T20:46:36Z"
-        },
-        {
-            "title": "Focus on investment-friendly ecosystem in new industrial policy: Minister",
-            "summary": "High drama unfolded at the G7 summit as Senator Rubio reportedly translated for former President Trump following awkward facial gestures. Separately, a significant defence incident occurred as a Hezbollah drone struck an Israeli rescue vehicle after an initial attack, injuring five people. This highlights ongoing regional tensions and cross-border conflict, crucial for understanding contemporary security challenges.",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/focus-on-investment-friendly-ecosystem-in-new-industrial-policy-minister/articleshow/131812390.cms",
-            "category": "Defence",
-            "date": "2026-06-17T20:29:17Z"
+            "date": "2026-06-18T08:04:52Z"
         }
     ]
 }
