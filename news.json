@@ -1,4 +1,68 @@
 {
-    "last_updated": "2026-06-23T09:30:10.302539+00:00",
-    "articles": []
+    "last_updated": "2026-06-23T14:38:16.729191+00:00",
+    "articles": [
+        {
+            "title": "India in talks with UAE to sell BrahMos missiles \u2013 Reuters",
+            "summary": "India is reportedly in initial talks with the United Arab Emirates for the potential sale of its advanced BrahMos supersonic cruise missiles. This development follows the UAE's increased focus on ramping up its weapons purchases. A successful deal would mark a significant boost for India's defence exports and strengthen strategic partnerships in the Middle East, highlighting India's growing role as a defence exporter.",
+            "url": "https://www.rt.com/india/641973-india-brahmos-uae/",
+            "category": "Defence",
+            "date": "2026-06-22T14:27:47Z"
+        },
+        {
+            "title": "HURRY! You Can NOW Get Tickets For A New Disney Springs Experience",
+            "summary": "The highly anticipated LEVEL99 entertainment venue has officially opened its doors at Disney Springs, marking a significant addition to the popular complex. After months of eager anticipation, this new attraction is expected to draw visitors seeking unique experiences and challenges. Its launch significantly enhances the entertainment landscape at Disney Springs, creating considerable excitement among prospective guests and leisure enthusiasts within the nation.",
+            "url": "https://allears.net/2026/06/22/hurry-you-can-now-get-tickets-for-a-new-disney-springs-experience/",
+            "category": "National",
+            "date": "2026-06-22T14:22:17Z"
+        },
+        {
+            "title": "ISRO invites proposals from Indian researchers to study XPoSat Mission data",
+            "summary": "ISRO has announced an 'Announcement of Opportunity', inviting proposals from India's astronomical community to access data from its XPoSat mission. This mission is dedicated to studying cosmic X-ray sources like black holes and neutron stars. The initiative aims to foster national scientific collaboration, enabling researchers to contribute to advanced space research, thereby enhancing India's capabilities in astrophysics and space exploration.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-invites-proposals-from-indian-researchers-to-study-xposat-mission-data/articleshow/131911673.cms",
+            "category": "Sci & Tech",
+            "date": "2026-06-22T14:00:48Z"
+        },
+        {
+            "title": "2026 NBA mock draft: Where top college stars land in our latest 60-pick projections",
+            "summary": "The 2026 NBA Draft is just one day away, as teams prepare to select their next generation of franchise-altering players. This eagerly anticipated event follows an exciting NBA Finals season, which concluded with the New York Knicks securing the coveted league championship title. The draft promises to bring new talent and potential shifts in team dynamics, shaping the future of professional basketball.",
+            "url": "https://www.usatoday.com/story/sports/nba/draft/2026/06/22/2026-nba-mock-draft-all-60-picks-latest-projections/90596526007/",
+            "category": "National",
+            "date": "2026-06-22T14:00:18Z"
+        },
+        {
+            "title": "Amebiasis as a neglected tropical disease: Current knowledge gaps and future directions",
+            "summary": "This article highlights Entamoeba histolytica, a protozoan parasite responsible for significant global health concerns. It causes amebic colitis, a severe diarrheal disease prevalent worldwide, and amebic liver abscess, its most common extraintestinal manifestation. Understanding such parasites is crucial for medical science, public health strategies, and maintaining the well-being of personnel, particularly those deployed in diverse, potentially endemic regions.",
+            "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014423",
+            "category": "Sci & Tech",
+            "date": "2026-06-22T14:00:00Z"
+        },
+        {
+            "title": "CoDaLoMic: An R package for modeling microbiome compositional and longitudinal data",
+            "summary": "CoDaLoMic is an R package developed for advanced analysis of microbiome datasets. It specifically handles longitudinal and compositional data, implementing three dedicated models. This tool is crucial for researchers studying microbial communities over time, offering powerful analytical capabilities in the field of bioinformatics and health sciences. Such advancements contribute significantly to scientific understanding and can have future implications for health and disease research.",
+            "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014328",
+            "category": "Sci & Tech",
+            "date": "2026-06-22T14:00:00Z"
+        },
+        {
+            "title": "Deluge of rain leads to flooding, water restrictions in Edmonton and surrounding communities",
+            "summary": "Heavy rains have caused widespread overland flooding and washed-out roads in Edmonton, Canada, and surrounding communities. The city's wastewater systems are pushed past their limits, leading to significant disruption and infrastructure challenges. This natural disaster highlights the impact of extreme weather events on urban infrastructure and public services, demanding effective disaster management and resilient infrastructure.",
+            "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-rain-flood-9.7244106",
+            "category": "International",
+            "date": "2026-06-22T13:21:14Z"
+        },
+        {
+            "title": "Canadian Armed Forces participates in Exercise VALIANT SHIELD 2026",
+            "summary": "The Canadian Armed Forces (CAF) will participate in Exercise VALIANT SHIELD 2026, an upcoming international joint exercise. Announced on June 22, 2026, from Ottawa, this involvement highlights Canada's commitment to military cooperation and readiness with allied nations. Such exercises are vital for enhancing interoperability and collective defence strategies, preparing forces for complex global challenges and strengthening alliances.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260622-canada01.htm",
+            "category": "Defence",
+            "date": "2026-06-22T12:00:00Z"
+        },
+        {
+            "title": "France, Germany reach deal on arms maker KNDS, paving way for IPO",
+            "summary": "France and Germany have agreed on joint governance for the arms manufacturer KNDS, paving the way for a significant share offering. This strategic move aims to reinvigorate faltering European defence cooperation by strengthening the continent's industrial base. It signifies a crucial step towards enhanced collective security and strategic autonomy amidst evolving geopolitical landscapes, emphasizing the importance of intra-European partnerships in defence manufacturing.",
+            "url": "https://www.digitaljournal.com/article/france-germany-reach-deal-on-arms-maker-knds-paving-way-for-ipo/",
+            "category": "Defence",
+            "date": "2026-06-22T11:00:10Z"
+        }
+    ]
 }
