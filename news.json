@@ -1,47 +1,33 @@
 {
-    "last_updated": "2026-06-24T02:46:51.815965+00:00",
+    "last_updated": "2026-06-24T08:58:52.611876+00:00",
     "articles": [
         {
-            "title": "[Latest] Global Onion Powder Market Size/Share Worth USD 2.61 Billion by 2035 at a 6.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-            "summary": "Custom Market Insights has published a new research report detailing the global onion powder market. This comprehensive study provides insights into market size, trends, and future projections, segmenting the analysis by various product types, including dehydrated onion powder. Such reports offer valuable perspectives on international agricultural processing, supply chains, and consumer goods sectors, essential for understanding global economic dynamics and trade flows.",
-            "url": "https://www.globenewswire.com/news-release/2026/06/23/3315687/0/en/Latest-Global-Onion-Powder-Market-Size-Share-Worth-USD-2-61-Billion-by-2035-at-a-6-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth.html",
-            "category": "International",
-            "date": "2026-06-23T02:30:00Z"
-        },
-        {
-            "title": "Auto components maker Interface in talks to sell majority stake at $300 m valuation",
-            "summary": "Interface, an Indian company founded in 1984 by Amit Gupta, Rakesh Kumar Gupta, and Rakesh Kumar, is headquartered in Gurugram with significant operations in New Delhi. The company is actively involved in the design, development, and manufacturing of products across various unspecified categories, contributing to the nation's industrial landscape.",
-            "url": "https://www.livemint.com/companies/auto-components-maker-interface-auto-majority-stake-300-million-valuation-private-equity-strategic-investors-11782106677175.html",
-            "category": "National",
-            "date": "2026-06-23T00:31:11Z"
-        },
-        {
-            "title": "TST's Final NBA Mock Draft",
-            "summary": "This article offers a final mock draft and detailed predictions for the upcoming NBA Draft. It highlights months of evaluating prospects, studying team needs, and following league intelligence to forecast draft night outcomes. This extensive process aims to anticipate crucial decisions shaping professional basketball teams' futures.",
-            "url": "https://www.thesportingtribune.com/2026/06/22/tst-final-nba-mock-draft",
-            "category": "National",
-            "date": "2026-06-22T23:29:10Z"
-        },
-        {
-            "title": "nblf-queue added to PyPI",
-            "summary": "This repository details a Non-Blocking Lock-Free Queue (NBLFQ), an advanced data structure crucial for concurrent programming. It functions as an atomic, lock-free Multiple-Producer, Multiple-Consumer (MPMC) queue, designed to boost performance by avoiding traditional software locks. Multiple implementations with various storage and allocation strategies are provided to optimize efficiency in multi-threaded systems.",
-            "url": "https://pypi.org/project/nblf-queue/",
-            "category": "Sci & Tech",
-            "date": "2026-06-22T18:24:53Z"
-        },
-        {
-            "title": "India set to seal $230 million M777 howitzer support deal with US: Sergio Gor",
-            "summary": "The United States is finalizing a proposed $230 million sustainment package for India's M777A2 ultra-light howitzers. U.S. Ambassador Sergio Gor confirmed this deal, which aims to ensure the long-term operational readiness and maintenance of these critical artillery systems. This significant defence cooperation bolsters India's capabilities, particularly in challenging terrains, enhancing its strategic preparedness through continued U.S. support for these weapon systems.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-set-to-seal-230-million-m777-howitzer-support-deal-with-us-sergio-gor/articleshow/131916749.cms",
+            "title": "NATO is preparing for wars fought by swarms of THOUSANDS of AI-controlled drones which will rival nukes",
+            "summary": "A top NATO general disclosed preparations for future wars fought by thousands of AI-controlled drone swarms. The Russia-Ukraine conflict showcased the critical role of drones and AI, prompting NATO to adapt. This highlights the growing importance of advanced technology and autonomous systems in modern defence, demanding strategic integration and understanding of evolving warfare paradigms for SSB aspirants.",
+            "url": "https://www.dailymail.com/news/article-15922017/NATO-preparing-wars-fought-swarms-THOUSANDS-AI-controlled-drones-rival-nukes.html",
             "category": "Defence",
-            "date": "2026-06-22T17:40:34Z"
+            "date": "2026-06-23T08:34:29Z"
         },
         {
-            "title": "Comedy Drama \u2018The Golden Valley\u2019 in Development With Tamsin Egerton, Trevor Eve (EXCLUSIVE)",
-            "summary": "Tamsin Egerton and Trevor Eve are set to star in \"The Golden Valley,\" a new half-hour comedy-drama series. Created by Jack Eve, the show will feature these well-known actors in leading roles. This announcement pertains to developments within the entertainment industry, reflecting ongoing projects in the national media landscape, which an aspirant might note as general current affairs.",
-            "url": "https://variety.com/2026/tv/global/the-golden-valley-tamsin-egerton-trevor-eve-1236787296/",
+            "title": "Who will be the Oshkosh, Fond du Lac reader\u2019s choice softball POTY?",
+            "summary": "The article reports on the conclusion of the high school softball season in Oshkosh and Fond du Lac. It highlights the excellent performance of many local athletes and invites readers to participate in a poll to select the 'Player of the Year' from these regions. This news focuses on local sports achievements and community participation.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/softball/2026/06/23/vote-in-the-oshkosh-fond-du-lac-readers-choice-softball-poty-poll/90607177007/",
             "category": "National",
-            "date": "2026-06-22T16:51:39Z"
+            "date": "2026-06-23T08:02:42Z"
+        },
+        {
+            "title": "Who will be the Oshkosh, Fond du Lac reader\u2019s choice girls soccer POTY?",
+            "summary": "The high school girls' soccer season has concluded in Oshkosh and Fond du Lac, Wisconsin, celebrating numerous successful performances by local athletes. This article, published by the Oshkosh Northwestern, likely details outstanding individual achievements and invites reader participation in selecting top players. While a local sports report, it reflects community spirit and youth development in regional athletics within the nation.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/soccer/2026/06/23/vote-in-the-oshkosh-fond-du-lac-readers-choice-girls-soccer-poty-poll/90607082007/",
+            "category": "National",
+            "date": "2026-06-23T08:02:34Z"
+        },
+        {
+            "title": "Delhi High Court reaffirms AITA General Body's authority in constitutional amendments",
+            "summary": "The Delhi High Court has reaffirmed the All India Tennis Association's (AITA) General Body as the primary authority for amending its constitution. This directive mandates that all proposed constitutional changes must be presented to and approved by the General Body, strengthening democratic governance within the national sports federation. This ruling underscores judicial oversight in ensuring proper procedural adherence by national sports bodies.",
+            "url": "https://economictimes.indiatimes.com/news/sports/delhi-high-court-reaffirms-aita-general-bodys-authority-in-constitutional-amendments/articleshow/131929376.cms",
+            "category": "National",
+            "date": "2026-06-23T07:43:18Z"
         }
     ]
 }
