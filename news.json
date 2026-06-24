@@ -1,19 +1,47 @@
 {
-    "last_updated": "2026-06-23T19:54:15.392765+00:00",
+    "last_updated": "2026-06-24T02:46:51.815965+00:00",
     "articles": [
         {
-            "title": "Drugmakers yet to see gains from government's minimum import price policy",
-            "summary": "The Indian government's Minimum Import Price (MIP) framework, aimed at bolstering indigenous drug manufacturers, has not yet shown a clear positive impact, according to industry executives. Despite intentions to support domestic production and reduce import reliance, the policy's effectiveness in providing substantial benefits to local drug makers remains uncertain, highlighting ongoing challenges in pharmaceutical self-sufficiency.",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/drugmakers-yet-to-see-gains-from-governments-minimum-import-price-policy/articleshow/131918843.cms",
-            "category": "National",
-            "date": "2026-06-22T18:56:34Z"
+            "title": "[Latest] Global Onion Powder Market Size/Share Worth USD 2.61 Billion by 2035 at a 6.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "summary": "Custom Market Insights has published a new research report detailing the global onion powder market. This comprehensive study provides insights into market size, trends, and future projections, segmenting the analysis by various product types, including dehydrated onion powder. Such reports offer valuable perspectives on international agricultural processing, supply chains, and consumer goods sectors, essential for understanding global economic dynamics and trade flows.",
+            "url": "https://www.globenewswire.com/news-release/2026/06/23/3315687/0/en/Latest-Global-Onion-Powder-Market-Size-Share-Worth-USD-2-61-Billion-by-2035-at-a-6-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth.html",
+            "category": "International",
+            "date": "2026-06-23T02:30:00Z"
         },
         {
-            "title": "Celebrating European and Latin American Women Nobel Writers at the Library \u2013 Part 2",
-            "summary": "This article is a guest post by Catalina G\u00f3mez, Reference Librarian and Curator of the PALABRA Archive within the Latin American, Caribbean, and European Division. It announces a 'Live! At the Library' event featuring Nobel Laureates. This implies an academic or cultural discussion, likely exploring significant contributions in a library setting, though specific content details are not provided in this snippet.",
-            "url": "https://blogs.loc.gov/international-collections/2026/06/women-nobel-writers-display/",
-            "category": "International",
-            "date": "2026-06-22T18:25:41Z"
+            "title": "Auto components maker Interface in talks to sell majority stake at $300 m valuation",
+            "summary": "Interface, an Indian company founded in 1984 by Amit Gupta, Rakesh Kumar Gupta, and Rakesh Kumar, is headquartered in Gurugram with significant operations in New Delhi. The company is actively involved in the design, development, and manufacturing of products across various unspecified categories, contributing to the nation's industrial landscape.",
+            "url": "https://www.livemint.com/companies/auto-components-maker-interface-auto-majority-stake-300-million-valuation-private-equity-strategic-investors-11782106677175.html",
+            "category": "National",
+            "date": "2026-06-23T00:31:11Z"
+        },
+        {
+            "title": "TST's Final NBA Mock Draft",
+            "summary": "This article offers a final mock draft and detailed predictions for the upcoming NBA Draft. It highlights months of evaluating prospects, studying team needs, and following league intelligence to forecast draft night outcomes. This extensive process aims to anticipate crucial decisions shaping professional basketball teams' futures.",
+            "url": "https://www.thesportingtribune.com/2026/06/22/tst-final-nba-mock-draft",
+            "category": "National",
+            "date": "2026-06-22T23:29:10Z"
+        },
+        {
+            "title": "nblf-queue added to PyPI",
+            "summary": "This repository details a Non-Blocking Lock-Free Queue (NBLFQ), an advanced data structure crucial for concurrent programming. It functions as an atomic, lock-free Multiple-Producer, Multiple-Consumer (MPMC) queue, designed to boost performance by avoiding traditional software locks. Multiple implementations with various storage and allocation strategies are provided to optimize efficiency in multi-threaded systems.",
+            "url": "https://pypi.org/project/nblf-queue/",
+            "category": "Sci & Tech",
+            "date": "2026-06-22T18:24:53Z"
+        },
+        {
+            "title": "India set to seal $230 million M777 howitzer support deal with US: Sergio Gor",
+            "summary": "The United States is finalizing a proposed $230 million sustainment package for India's M777A2 ultra-light howitzers. U.S. Ambassador Sergio Gor confirmed this deal, which aims to ensure the long-term operational readiness and maintenance of these critical artillery systems. This significant defence cooperation bolsters India's capabilities, particularly in challenging terrains, enhancing its strategic preparedness through continued U.S. support for these weapon systems.",
+            "url": "https://economictimes.indiatimes.com/news/defence/india-set-to-seal-230-million-m777-howitzer-support-deal-with-us-sergio-gor/articleshow/131916749.cms",
+            "category": "Defence",
+            "date": "2026-06-22T17:40:34Z"
+        },
+        {
+            "title": "Comedy Drama \u2018The Golden Valley\u2019 in Development With Tamsin Egerton, Trevor Eve (EXCLUSIVE)",
+            "summary": "Tamsin Egerton and Trevor Eve are set to star in \"The Golden Valley,\" a new half-hour comedy-drama series. Created by Jack Eve, the show will feature these well-known actors in leading roles. This announcement pertains to developments within the entertainment industry, reflecting ongoing projects in the national media landscape, which an aspirant might note as general current affairs.",
+            "url": "https://variety.com/2026/tv/global/the-golden-valley-tamsin-egerton-trevor-eve-1236787296/",
+            "category": "National",
+            "date": "2026-06-22T16:51:39Z"
         }
     ]
 }
