@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-06-25T08:53:03.073108+00:00",
+    "last_updated": "2026-06-25T14:16:16.134416+00:00",
     "articles": [
         {
-            "title": "When Michel Siffre emerged from a lightless cave in 1962 after 63 days alone, he was stunned to learn the real date. Cut off from clocks, calendars, and sunlight, he believed it was only August 20 \u2014 nearly a month earlier than it really was. His sense of time had compressed so dramatically that two months underground had felt like little more than one.",
-            "summary": "Michel Siffre, a French speleologist, conducted a pioneering 1962 experiment by spending over two months isolated in the Scarasson cave. Without clocks, calendars, or natural light, his internal sense of time significantly diverged from external reality upon resurfacing. This groundbreaking self-experiment provided crucial insights into human circadian rhythms and the psychological effects of prolonged sensory deprivation, influencing later research in fields like space exploration.",
-            "url": "https://spacedaily.com/t-when-michel-siffre-emerged-from-a-lightless-cave-in-1962-after-63-days-alone-he-was-stunned-to-learn-the-real-date-cut-off-from-clocks-calendars-and-sunlight-he-believed-it-was-only-august-20/",
+            "title": "The rejection that made Padma Shri winner R Madhavan a star: An unbelievable success story",
+            "summary": "Padma Shri awardee R Madhavan, a dedicated NCC cadet, once aspired to join the Indian Army, even training with British forces. Despite narrowly missing the age limit for entry, his commitment to service is noteworthy. This story highlights the diverse paths and dedication of individuals, offering inspiration to aspiring candidates preparing for the Service Selection Board.",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/the-rejection-that-made-padma-shri-winner-r-madhavan-a-star-an-unbelievable-success-story/articleshow/131970518.cms",
+            "category": "Defence",
+            "date": "2026-06-24T14:14:47Z"
+        },
+        {
+            "title": "Related Group, BH score approval for Rosewood Residences West Palm Beach",
+            "summary": "The city of West Palm Beach has officially approved the Rosewood Residences, a luxurious condo tower planned by a collaboration between Related Group and BH Groups. Located at 2001 North Flagler Drive, this development received the necessary go-ahead, paving the way for the construction of a high-end residential project in the area. This approval marks a significant step for the developers.",
+            "url": "https://therealdeal.com/miami/2026/06/24/related-group-bh-group-greenlighted-for-rosewood-residences/",
+            "category": "International",
+            "date": "2026-06-24T14:00:00Z"
+        },
+        {
+            "title": "Germany scraps delayed F126 military frigate programme",
+            "summary": "Germany, represented by Berlin, is reportedly set to acquire eight MEKO A-200 anti-submarine frigates. This strategic procurement marks a significant step in modernizing the German Navy's capabilities. For SSB aspirants, understanding such defence acquisitions highlights a nation's commitment to bolstering maritime security and anti-submarine warfare prowess, crucial for maintaining regional stability and contributing to collective defence efforts.",
+            "url": "https://biztoc.com/x/c76fa116a3a39824",
+            "category": "Defence",
+            "date": "2026-06-24T13:38:30Z"
+        },
+        {
+            "title": "Amazon CEO in India Now; Hyderabad\u2019s growing spacetech orbit",
+            "summary": "Amazon CEO Andy Jassy is visiting India, emphasizing the tech giant's accelerated expansion in quick commerce. This strategic push underlines Amazon's significant investment and focus on the Indian market. The news is featured in ETtech's daily top tech stories, also mentioning insights from Meta's Chris Cox concerning Kunal Shah, highlighting key developments in India's vibrant technology and business landscape.",
+            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/amazon-ceo-in-india-now-hyderabads-growing-spacetech-orbit/articleshow/131969400.cms",
             "category": "Sci & Tech",
-            "date": "2026-06-24T08:47:43Z"
+            "date": "2026-06-24T13:37:18Z"
         },
         {
-            "title": "I\u2019ve covered Prime Day for 7 years \u2014 these are the 201+ best day 2 deals worth shopping (live updates)",
-            "summary": "The article describes day two of Amazon Prime Day 2026, featuring new, member-exclusive discounts alongside popular deals from the previous day. The retailer is actively adding more offers, indicating a major ongoing e-commerce sales event. This reflects the dynamic nature of online retail and consumer marketing strategies, important for understanding global economic trends.",
-            "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-06-24-rcna351521",
-            "category": "International",
-            "date": "2026-06-24T08:43:34Z"
+            "title": "pii-protector added to PyPI",
+            "summary": "This article highlights a new production-grade library for rapid detection of Personally Identifiable Information (PII). It employs a sequential multi-model ensemble, enabling efficient processing where over 90% of texts are handled by a regex layer in under 3ms. This technology is vital for enhancing data privacy and security by quickly identifying sensitive personal data, which has broad applications across various sectors including national security and administration.",
+            "url": "https://pypi.org/project/pii-protector/",
+            "category": "Sci & Tech",
+            "date": "2026-06-24T13:07:32Z"
         },
         {
-            "title": "Fears Labour is blowing another huge hole in defence budgets with tariffs meant to prop up UK steel industry",
-            "summary": "Industry chiefs warn that Britain's fighter jets and nuclear submarines face grounding or decay under Labour's proposed new steel tariffs. These tariffs could severely impact defence supply chains, jeopardizing the UK's military operational readiness and maintenance capabilities. This scenario highlights how domestic economic policies can directly threaten critical national defence infrastructure and readiness.",
-            "url": "https://www.dailymail.com/news/article-15915735/Fears-Labours-steel-tariffs-blow-huge-hole-defence-budgets.html",
-            "category": "Defence",
-            "date": "2026-06-24T08:34:34Z"
+            "title": "Star Fox review - about time you showed up, McCloud",
+            "summary": "The article expresses fans' strong desire for a new Star Fox game from Nintendo, noting its absence on the Switch. It highlights the enduring appeal of the series and its protagonist, Fox McCloud, despite his appearances in other titles. This illustrates consumer demand influencing tech product development in the gaming sector.",
+            "url": "https://www.pockettactics.com/star-fox/review",
+            "category": "Sci & Tech",
+            "date": "2026-06-24T12:00:34Z"
         },
         {
-            "title": "First Nations leaders call for more say in allocation of mining claims in Quebec",
-            "summary": "Indigenous leaders, spearheaded by the Anishinaabe First Nation in Quebec, Canada, are urging the provincial government to modernize its mining claim granting process. They argue the current system often excludes Indigenous communities from decision-making and benefits, leading to concerns over resource management and environmental impact. The call seeks greater consultation and equitable participation in vital economic activities.",
-            "url": "https://www.cbc.ca/news/canada/montreal/quebec-mining-claims-lac-simon-novador-9.7244687",
-            "category": "International",
-            "date": "2026-06-24T08:00:00Z"
-        },
-        {
-            "title": "Neighborhood Wars S09E13 1080p WEB h264-EDITH",
-            "summary": "In 'Mailbox Mayhem', Season 9, Episode 13, two distinct domestic disputes are highlighted in the United States. A parking disagreement escalates in Fond du Lac, Wisconsin, creating tension as a man anticipates an important delivery. Simultaneously, in Pennsylvania, a significant confrontation unfolds between a landlord and their tenant. These segments detail the complexities and challenges arising from everyday civil conflicts.",
-            "url": "https://post.rlsbb.to/neighborhood-wars-s09e13-1080p-web-h264-edith/",
-            "category": "International",
-            "date": "2026-06-24T07:38:42Z"
-        },
-        {
-            "title": "Did Pakistan really down India's Rafale fighter jets during Operation Sindoor? Latest IAF tender reveals the truth",
-            "summary": "The Indian Air Force has issued a tender for temporary support arrangements covering all 36 Rafale fighter jets acquired from France. This development directly refutes Pakistan's persistent claims that several of these aircraft were missing or damaged, thereby confirming India's full operational fleet. The tender underscores the IAF's commitment to maintaining peak readiness for its entire advanced Rafale squadron.",
-            "url": "https://economictimes.indiatimes.com/news/defence/did-pakistan-really-down-indias-rafale-fighter-jets-during-operation-sindoor-latest-iaf-tender-reveals-the-truth/articleshow/131958513.cms",
-            "category": "Defence",
-            "date": "2026-06-24T07:13:37Z"
-        },
-        {
-            "title": "Meet Dr. Shubha Venkatesh Iyengar, Agni missile scientist, whose tech is now being used by every international airport in India",
-            "summary": "President Droupadi Murmu conferred 65 Padma Awards at the second Civil Investiture Ceremony held at Rashtrapati Bhavan. These prestigious civilian honours included two Padma Vibhushan and seven Padma Bhushan awards, recognizing individuals for their exceptional contributions across various fields. This event underscores the nation's commitment to acknowledging significant achievements and inspiring excellence among its citizens.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/meet-dr-shubha-venkatesh-iyengar-agni-missile-scientist-whose-tech-is-now-being-used-by-every-international-airport-in-india/articleshow/131955980.cms",
+            "title": "SaffronStays raises $ 3.5 million in a funding round led by Infinity Ventures",
+            "summary": "Holiday home and villa hospitality brand SaffronStays successfully raised $3.5 million in a recent funding round. The investment was led by Infinity Ventures, with notable participation from various family offices. This capital infusion will empower SaffronStays to expand its operations and enhance its services within India's growing leisure travel sector, reflecting positive movement in the national economy.",
+            "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/saffronstays-secures-35-million-funding-to-revolutionize-indias-holiday-home-market/articleshow/131965217.cms",
             "category": "National",
-            "date": "2026-06-24T06:00:27Z"
+            "date": "2026-06-24T10:48:54Z"
+        },
+        {
+            "title": "Ukrainian drone strikes cut power to city in Crimea",
+            "summary": "Ukrainian strikes on Crimea, specifically targeting Sevastopol, have caused widespread power outages, as reported by both sides. This escalation signifies Ukraine's intensified efforts to cut off the peninsula, controversially annexed by Russia. The attacks highlight the ongoing conflict's impact on critical infrastructure and strategic regions, underscoring Ukraine's resolve to challenge Russian control and regain lost territories.",
+            "url": "https://www.rte.ie/news/world/2026/0624/1580103-ukraine-russia/",
+            "category": "International",
+            "date": "2026-06-24T10:08:53Z"
         }
     ]
 }
