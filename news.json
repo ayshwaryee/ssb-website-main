@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-06-25T02:47:19.927508+00:00",
+    "last_updated": "2026-06-25T08:53:03.073108+00:00",
     "articles": [
         {
-            "title": "Kim Jong Un calls for North Korea to build 2 large warships per year in major naval expansion push: report",
-            "summary": "North Korean leader Kim Jong Un has called for a significant expansion of the nation's naval forces, proposing the construction of two large warships annually over the next five years. This directive aims to modernize the fleet and bolster military capabilities amidst regional tensions, signaling North Korea's strategic focus on maritime power projection and defence readiness in its pursuit of a more potent military.",
-            "url": "https://www.foxnews.com/world/kim-jong-un-calls-north-korea-build-two-large-warships-per-year-major-naval-expansion-push",
-            "category": "International",
-            "date": "2026-06-24T02:20:08Z"
+            "title": "When Michel Siffre emerged from a lightless cave in 1962 after 63 days alone, he was stunned to learn the real date. Cut off from clocks, calendars, and sunlight, he believed it was only August 20 \u2014 nearly a month earlier than it really was. His sense of time had compressed so dramatically that two months underground had felt like little more than one.",
+            "summary": "Michel Siffre, a French speleologist, conducted a pioneering 1962 experiment by spending over two months isolated in the Scarasson cave. Without clocks, calendars, or natural light, his internal sense of time significantly diverged from external reality upon resurfacing. This groundbreaking self-experiment provided crucial insights into human circadian rhythms and the psychological effects of prolonged sensory deprivation, influencing later research in fields like space exploration.",
+            "url": "https://spacedaily.com/t-when-michel-siffre-emerged-from-a-lightless-cave-in-1962-after-63-days-alone-he-was-stunned-to-learn-the-real-date-cut-off-from-clocks-calendars-and-sunlight-he-believed-it-was-only-august-20/",
+            "category": "Sci & Tech",
+            "date": "2026-06-24T08:47:43Z"
         },
         {
-            "title": "North Korea commissions first 5,000-ton destroyer, vows to build a nuclear navy",
-            "summary": "North Korean leader Kim Jong Un has mandated the production of two new destroyers annually, with these ambitious military developments reportedly funded by billions from Pyongyang's ongoing cryptocurrency theft operations. This directive follows the recent launch of North Korea's largest-ever warship, underscoring a significant push to expand its naval capabilities and strengthen military power despite international sanctions, a critical aspect for SSB aspirants to note regarding global security.",
-            "url": "https://cryptobriefing.com/north-korea-destroyer-nuclear-navy-crypto/",
+            "title": "I\u2019ve covered Prime Day for 7 years \u2014 these are the 201+ best day 2 deals worth shopping (live updates)",
+            "summary": "The article describes day two of Amazon Prime Day 2026, featuring new, member-exclusive discounts alongside popular deals from the previous day. The retailer is actively adding more offers, indicating a major ongoing e-commerce sales event. This reflects the dynamic nature of online retail and consumer marketing strategies, important for understanding global economic trends.",
+            "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-06-24-rcna351521",
+            "category": "International",
+            "date": "2026-06-24T08:43:34Z"
+        },
+        {
+            "title": "Fears Labour is blowing another huge hole in defence budgets with tariffs meant to prop up UK steel industry",
+            "summary": "Industry chiefs warn that Britain's fighter jets and nuclear submarines face grounding or decay under Labour's proposed new steel tariffs. These tariffs could severely impact defence supply chains, jeopardizing the UK's military operational readiness and maintenance capabilities. This scenario highlights how domestic economic policies can directly threaten critical national defence infrastructure and readiness.",
+            "url": "https://www.dailymail.com/news/article-15915735/Fears-Labours-steel-tariffs-blow-huge-hole-defence-budgets.html",
             "category": "Defence",
-            "date": "2026-06-24T02:05:38Z"
+            "date": "2026-06-24T08:34:34Z"
+        },
+        {
+            "title": "First Nations leaders call for more say in allocation of mining claims in Quebec",
+            "summary": "Indigenous leaders, spearheaded by the Anishinaabe First Nation in Quebec, Canada, are urging the provincial government to modernize its mining claim granting process. They argue the current system often excludes Indigenous communities from decision-making and benefits, leading to concerns over resource management and environmental impact. The call seeks greater consultation and equitable participation in vital economic activities.",
+            "url": "https://www.cbc.ca/news/canada/montreal/quebec-mining-claims-lac-simon-novador-9.7244687",
+            "category": "International",
+            "date": "2026-06-24T08:00:00Z"
+        },
+        {
+            "title": "Neighborhood Wars S09E13 1080p WEB h264-EDITH",
+            "summary": "In 'Mailbox Mayhem', Season 9, Episode 13, two distinct domestic disputes are highlighted in the United States. A parking disagreement escalates in Fond du Lac, Wisconsin, creating tension as a man anticipates an important delivery. Simultaneously, in Pennsylvania, a significant confrontation unfolds between a landlord and their tenant. These segments detail the complexities and challenges arising from everyday civil conflicts.",
+            "url": "https://post.rlsbb.to/neighborhood-wars-s09e13-1080p-web-h264-edith/",
+            "category": "International",
+            "date": "2026-06-24T07:38:42Z"
+        },
+        {
+            "title": "Did Pakistan really down India's Rafale fighter jets during Operation Sindoor? Latest IAF tender reveals the truth",
+            "summary": "The Indian Air Force has issued a tender for temporary support arrangements covering all 36 Rafale fighter jets acquired from France. This development directly refutes Pakistan's persistent claims that several of these aircraft were missing or damaged, thereby confirming India's full operational fleet. The tender underscores the IAF's commitment to maintaining peak readiness for its entire advanced Rafale squadron.",
+            "url": "https://economictimes.indiatimes.com/news/defence/did-pakistan-really-down-indias-rafale-fighter-jets-during-operation-sindoor-latest-iaf-tender-reveals-the-truth/articleshow/131958513.cms",
+            "category": "Defence",
+            "date": "2026-06-24T07:13:37Z"
+        },
+        {
+            "title": "Meet Dr. Shubha Venkatesh Iyengar, Agni missile scientist, whose tech is now being used by every international airport in India",
+            "summary": "President Droupadi Murmu conferred 65 Padma Awards at the second Civil Investiture Ceremony held at Rashtrapati Bhavan. These prestigious civilian honours included two Padma Vibhushan and seven Padma Bhushan awards, recognizing individuals for their exceptional contributions across various fields. This event underscores the nation's commitment to acknowledging significant achievements and inspiring excellence among its citizens.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/meet-dr-shubha-venkatesh-iyengar-agni-missile-scientist-whose-tech-is-now-being-used-by-every-international-airport-in-india/articleshow/131955980.cms",
+            "category": "National",
+            "date": "2026-06-24T06:00:27Z"
         }
     ]
 }
