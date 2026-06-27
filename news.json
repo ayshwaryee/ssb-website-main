@@ -1,40 +1,33 @@
 {
-    "last_updated": "2026-06-26T19:41:15.386892+00:00",
+    "last_updated": "2026-06-27T02:42:02.843717+00:00",
     "articles": [
         {
-            "title": "Scientists find antidepressant in the brains of sharks off the coast of Rio de Janeiro",
-            "summary": "Hammerhead sharks, an ancient marine species, are particularly prevalent along Brazil's coast, highlighting regional biodiversity. The article also briefly mentions Sertraline, a widely prescribed substance, although its specific context within this discussion remains unclear due to the truncated nature of the text. For SSB aspirants, this snippet demonstrates how diverse topics, from marine biology to pharmaceuticals, can intersect, requiring careful analysis and context-seeking.",
-            "url": "https://theconversation.com/scientists-find-antidepressant-in-the-brains-of-sharks-off-the-coast-of-rio-de-janeiro-285928",
-            "category": "Sci & Tech",
-            "date": "2026-06-25T19:22:49Z"
-        },
-        {
-            "title": "7 DC Retcons That Made Perfect Sense",
-            "summary": "The article discusses DC Comics' historical reliance on 'retcons' and loose continuity. This trend shifted with Marvel Comics' rise, which cultivated fan demand for a consistent, shared universe. This evolution highlights dynamic changes in comic book storytelling, emphasizing complex narrative management and evolving audience expectations in fictional worlds.",
-            "url": "http://comicbook.com/comics/list/7-dc-retcons-that-made-perfect-sense/",
-            "category": "Sci & Tech",
-            "date": "2026-06-25T19:00:00Z"
-        },
-        {
-            "title": "Season16 finale-latest in entertainment and current events",
-            "summary": "The 'unapologetic podcast' concluded its 16th season, discussing entertainment and current events from a black culture perspective, including 'Kim's Korner.' Notably, the Obama Presidential Library opened on Juneteenth. This report highlights ongoing cultural dialogues and significant national developments, offering insights into societal trends and historical milestones relevant for broader general awareness.",
-            "url": "https://www.buzzsprout.com/636256/episodes/19403070-season16-finale-latest-in-entertainment-and-current-events",
+            "title": "FCC proposes clamping down on state and local broadband delays, debates E-Rate program",
+            "summary": "The US Federal Communications Commission (FCC) is actively addressing complaints from broadband providers. These concerns highlight how existing state and local regulations are reportedly hindering the smooth and efficient construction of crucial broadband infrastructure. The FCC's intervention aims to streamline deployment processes, which is vital for enhancing national connectivity and supporting economic development by reducing regulatory friction for essential service expansion.",
+            "url": "https://www.telecompetitor.com/fcc-proposes-clamping-down-on-state-and-local-broadband-delays-debates-e-rate-program/",
             "category": "National",
-            "date": "2026-06-25T18:40:33Z"
+            "date": "2026-06-25T22:15:00Z"
         },
         {
-            "title": "Trusted Interdependence: India's next step in defence self-reliance",
-            "summary": "The Modi government has progressively evolved its defence industrial strategy since 2014, emphasizing 'Make in India' for self-reliance. Initiatives like defence industrial corridors and simplified licensing aim to boost indigenous manufacturing. This multi-phase approach seeks to reduce import dependence, enhance domestic production, and strengthen India's defence capabilities, fostering strategic autonomy and technological growth.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/trusted-interdependence-indias-next-step-in-defence-self-reliance/articleshow/131999814.cms",
-            "category": "Defence",
-            "date": "2026-06-25T17:26:17Z"
+            "title": "We tend to imagine the Moon as a barren, resourceless rock, but the permanently shadowed craters near its south pole hold something future astronauts may prize more than gold: water ice, confirmed by NASA missions, that could one day be split into oxygen to breathe and hydrogen for rocket fuel.",
+            "summary": "Initially viewed as a dry, inert body of dust and stone, the Moon's appearance from Earth and early Apollo samples reinforced this perception. However, scientific advancements are now challenging this simplistic view, revealing a potentially more complex and dynamic lunar environment. This ongoing research continues to redefine our understanding of Earth's closest celestial neighbor.",
+            "url": "https://spacedaily.com/t-we-tend-to-imagine-the-moon-as-a-barren-resourceless-rock-but-the-permanently-shadowed-craters-near-its-south-pole-hold-something-future-astronauts-may-prize-more-than-gold-water-ice-confirmed-by/",
+            "category": "Sci & Tech",
+            "date": "2026-06-25T20:30:31Z"
         },
         {
-            "title": "Additive manufacturing: transforming submarine maintenance and support",
-            "summary": "The Defence Nuclear Enterprise's Submarine Delivery Group (SDG) is leveraging advanced and additive manufacturing techniques. This initiative aims to significantly enhance submarine availability, thereby improving operational readiness and efficiency for the fleet. By adopting cutting-edge manufacturing processes, SDG is optimizing parts production and maintenance, ensuring the UK's vital submarine capabilities remain robust and deployable for national security.",
-            "url": "https://www.gov.uk/government/news/additive-manufacturing-transforming-submarine-maintenance-and-support",
+            "title": "US FCC toughens submarine communication cable rules",
+            "summary": "The US Federal Communications Commission (FCC) has voted to significantly toughen oversight of submarine communication cables, which carry 99% of all international internet traffic. New rules are proposed to enhance security and scrutiny of these vital undersea links. This move underscores the critical importance of securing global digital infrastructure, impacting international data flow and cybersecurity, a growing strategic concern.",
+            "url": "https://www.itnews.com.au/news/us-fcc-toughens-submarine-communication-cable-rules-626939?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+            "category": "International",
+            "date": "2026-06-25T20:24:00Z"
+        },
+        {
+            "title": "Colonel, major named in FIR over alleged attack on J&K's Kishtwar police station",
+            "summary": "Jammu and Kashmir Police have registered a case against several Army men from the 17 Rashtriya Rifles in Kishtwar district. The soldiers are accused of allegedly barging into a police station and assaulting officers. This serious incident, involving civil and military personnel, highlights potential inter-agency issues and warrants a thorough investigation into discipline and conduct in the sensitive region.",
+            "url": "https://economictimes.indiatimes.com/news/defence/colonel-major-named-in-fir-over-alleged-attack-on-jks-kishtwar-police-station/articleshow/132001421.cms",
             "category": "Defence",
-            "date": "2026-06-25T14:33:29Z"
+            "date": "2026-06-25T18:49:18Z"
         }
     ]
 }
