@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-06-27T02:42:02.843717+00:00",
+    "last_updated": "2026-06-27T08:30:41.544104+00:00",
     "articles": [
         {
-            "title": "FCC proposes clamping down on state and local broadband delays, debates E-Rate program",
-            "summary": "The US Federal Communications Commission (FCC) is actively addressing complaints from broadband providers. These concerns highlight how existing state and local regulations are reportedly hindering the smooth and efficient construction of crucial broadband infrastructure. The FCC's intervention aims to streamline deployment processes, which is vital for enhancing national connectivity and supporting economic development by reducing regulatory friction for essential service expansion.",
-            "url": "https://www.telecompetitor.com/fcc-proposes-clamping-down-on-state-and-local-broadband-delays-debates-e-rate-program/",
-            "category": "National",
-            "date": "2026-06-25T22:15:00Z"
+            "title": "North Korea conducts major weapons tests; South training \u2018drone warriors\u2019",
+            "summary": "North Korea recently conducted significant weapons tests to bolster its military and reinforce its southern border. This move comes amidst heightened tensions with South Korea, indicating a continued push by Pyongyang to strengthen its defence capabilities and assert its position in the region. The tests are part of an ongoing pattern of military provocations on the Korean Peninsula.",
+            "url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors",
+            "category": "International",
+            "date": "2026-06-26T08:16:33Z"
         },
         {
-            "title": "We tend to imagine the Moon as a barren, resourceless rock, but the permanently shadowed craters near its south pole hold something future astronauts may prize more than gold: water ice, confirmed by NASA missions, that could one day be split into oxygen to breathe and hydrogen for rocket fuel.",
-            "summary": "Initially viewed as a dry, inert body of dust and stone, the Moon's appearance from Earth and early Apollo samples reinforced this perception. However, scientific advancements are now challenging this simplistic view, revealing a potentially more complex and dynamic lunar environment. This ongoing research continues to redefine our understanding of Earth's closest celestial neighbor.",
-            "url": "https://spacedaily.com/t-we-tend-to-imagine-the-moon-as-a-barren-resourceless-rock-but-the-permanently-shadowed-craters-near-its-south-pole-hold-something-future-astronauts-may-prize-more-than-gold-water-ice-confirmed-by/",
+            "title": "The Bottleneck Isn\u2019t Coding Anymore. It\u2019s Verification",
+            "summary": "An autonomous coding agent recently demonstrated the ability to independently read a software development task (ticket), plan a multi-file implementation, and create a pull request without human intervention. This significant advancement in AI-driven software development highlights growing automation in coding processes, showcasing AI's expanding capabilities in complex technical fields.",
+            "url": "https://devops.com/the-bottleneck-isnt-coding-anymore-its-verification/",
             "category": "Sci & Tech",
-            "date": "2026-06-25T20:30:31Z"
+            "date": "2026-06-26T08:12:27Z"
+        },
+        {
+            "title": "Introducing: Breguet Celebrates the 225th Anniversary of the Tourbillon with Four New Releases, And the Return of a Collector Favorite (Live Pics)",
+            "summary": "The article introduces a new manually-wound tourbillon, a sophisticated watch movement crafted in Breguet gold or platinum. It features precise dimensions of 35mm x 9.2mm with a 43mm lug-to-lug, a slight modification from its original design. This highlights advanced horological engineering and the use of luxurious materials in high-end timepieces.",
+            "url": "https://www.hodinkee.com/articles/introducing-breguet-225th-tourbillons",
+            "category": "Sci & Tech",
+            "date": "2026-06-26T08:00:00Z"
+        },
+        {
+            "title": "MONUMENT OF MISANTHROPY Release New Serial-Killer Concept Album \"Washington State Charm\" Telling The Ted Bundy Story",
+            "summary": "The article, posted on June 26, 2026, briefly introduces \"Washington State Charm,\" the latest studio album from the Austrian brutal death metal band MONUMENT O\u2026. The provided text offers no further details regarding the album's content or any broader implications relevant to national, international, defence, or science and technology sectors.",
+            "url": "http://www.metalunderground.com/news/details.cfm?newsid=161632",
+            "category": "International",
+            "date": "2026-06-26T07:50:48Z"
+        },
+        {
+            "title": "He helped create India's first Made-in-India supersonic missile system: Meet Padma Shri awardee Dr Chandramouli Gaddamanugu, who started with two-member team in 1983 and went on to build Akash, that later starred in Op Sindoor",
+            "summary": "Dr. Chandramouli Gaddamanugu was a pivotal figure in developing the Akash, India's indigenous surface-to-air missile system. This achievement represents one of India's most significant advancements in defence technology, enhancing national security and self-reliance in missile development. His work underscores the importance of domestic innovation for strengthening India's military capabilities.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/he-helped-create-indias-first-made-in-india-supersonic-missile-system-meet-padma-shri-awardee-dr-chandramouli-gaddamanugu-who-started-with-two-member-team-in-1983-and-went-on-to-build-akash-that-later-starred-in-op-sindoor/articleshow/132009502.cms",
+            "category": "Defence",
+            "date": "2026-06-26T07:30:19Z"
+        },
+        {
+            "title": "Kawasaki Heavy to form technical tie-up with Airbus for defense drones, Nikkei reports",
+            "summary": "Japan's Kawasaki Heavy Industries is forming a technical tie-up with Airbus Defence and Space to develop advanced defence drones. This collaboration signifies a strategic international partnership aimed at enhancing unmanned aerial vehicle technology for military applications. Such alliances are vital for modernizing defence capabilities, sharing expertise, and bolstering national security in a rapidly evolving global landscape for SSB aspirants to note.",
+            "url": "https://www.channelnewsasia.com/business/kawasaki-heavy-form-technical-tie-up-airbus-defense-drones-nikkei-reports-6212571",
+            "category": "Defence",
+            "date": "2026-06-26T07:22:29Z"
+        },
+        {
+            "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (June 26, 2026) at IBJA, Malabar Gold & Diamonds, Tanishq, Joyalukkas and Kalyan Jewellers",
+            "summary": "Gold prices experienced a marginal increase on Friday, June 26, 2026, compared to the previous day. Consumers intending to purchase gold jewellery should be aware of these updated rates. The article details the latest 22K gold prices across various retailers, including prominent names like Tanishq and Malabar Gold, offering crucial market information for buyers considering investments or purchases on the specified date.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-june-26-2026-at-ibja-malabar-gold-diamonds-tanishq-joyalukkas-and-kalyan-jewellers/articleshow/132009771.cms",
+            "category": "National",
+            "date": "2026-06-26T07:18:27Z"
+        },
+        {
+            "title": "Government officially names, for the first time, 6 Indian military personnel killed in Operation Sindoor",
+            "summary": "For the first time, the government officially disclosed the names of six Indian military personnel martyred during 'Operation Sindoor'. This cross-border military campaign was launched last May. The disclosure marks a significant step towards transparency regarding sensitive defence operations and acknowledges the sacrifices made by these soldiers, providing details previously withheld about the engagement.",
+            "url": "https://economictimes.indiatimes.com/news/defence/government-officially-names-for-the-first-time-6-indian-military-personnel-killed-in-operation-sindoor/articleshow/132009749.cms",
+            "category": "Defence",
+            "date": "2026-06-26T07:13:13Z"
         },
         {
             "title": "US FCC toughens submarine communication cable rules",
-            "summary": "The US Federal Communications Commission (FCC) has voted to significantly toughen oversight of submarine communication cables, which carry 99% of all international internet traffic. New rules are proposed to enhance security and scrutiny of these vital undersea links. This move underscores the critical importance of securing global digital infrastructure, impacting international data flow and cybersecurity, a growing strategic concern.",
+            "summary": "The US Federal Communications Commission (FCC) has voted to tighten oversight on submarine communication cables, which carry 99% of global internet traffic. This move proposes new rules to enhance the security and regulation of these critical underwater data networks. For SSB aspirants, this underscores the growing strategic importance of international digital infrastructure and national security implications in a globally connected world.",
             "url": "https://www.itnews.com.au/news/us-fcc-toughens-submarine-communication-cable-rules-626939?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
             "category": "International",
             "date": "2026-06-25T20:24:00Z"
-        },
-        {
-            "title": "Colonel, major named in FIR over alleged attack on J&K's Kishtwar police station",
-            "summary": "Jammu and Kashmir Police have registered a case against several Army men from the 17 Rashtriya Rifles in Kishtwar district. The soldiers are accused of allegedly barging into a police station and assaulting officers. This serious incident, involving civil and military personnel, highlights potential inter-agency issues and warrants a thorough investigation into discipline and conduct in the sensitive region.",
-            "url": "https://economictimes.indiatimes.com/news/defence/colonel-major-named-in-fir-over-alleged-attack-on-jks-kishtwar-police-station/articleshow/132001421.cms",
-            "category": "Defence",
-            "date": "2026-06-25T18:49:18Z"
         }
     ]
 }
