@@ -1,89 +1,40 @@
 {
-    "last_updated": "2026-06-30T14:08:10.152724+00:00",
+    "last_updated": "2026-06-30T19:49:05.739649+00:00",
     "articles": [
         {
-            "title": "Every Upcoming DC Movie and TV Show Releasing After Supergirl",
-            "summary": "The DC Universe returns to theaters this summer with 'Supergirl,' roughly a year after 'Superman.' Milly Alcock, who had a memorable cameo, stars as Kara Zor-El. This film continues the popular superhero franchise, expanding the cinematic universe and bringing another iconic character to the big screen for audiences.",
-            "url": "http://comicbook.com/movies/list/every-upcoming-dc-movie-and-tv-show-releasing-after-supergirl/",
+            "title": "specthis added to PyPI",
+            "summary": "The article details a sophisticated, spec-driven research workflow designed for producing reproducible computational artefacts, often in JSON format. This system incorporates a user-friendly dashboard, leverages AI through \"Claude Code subagents,\" and utilizes a refresh/cache pipeline for efficient data management. The methodology aims to streamline research projects, ensuring consistency, verifiability, and automated assembly of results.",
+            "url": "https://pypi.org/project/specthis/",
             "category": "Sci & Tech",
-            "date": "2026-06-29T14:00:00Z"
+            "date": "2026-06-29T19:48:18Z"
         },
         {
-            "title": "List cases against Sabyasachi: HC to cops",
-            "summary": "The government has issued a 3-page Standard Operating Procedure (SOP) form to builders, initiating a comprehensive construction audit. This significant national move aims to enhance accountability, transparency, and regulatory compliance within the building sector. It underscores the government's focus on improving infrastructure quality and ensuring robust oversight of urban development projects.",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/list-cases-against-sabyasachi-hc-to-cops/articleshow/132073272.cms",
-            "category": "National",
-            "date": "2026-06-29T13:56:37Z"
-        },
-        {
-            "title": "Dhanbad Municipal Corporation orders demolition of illegal marriage hall",
-            "summary": "The government has initiated a significant move by dispatching a 3-page Standard Operating Procedure (SOP) form to builders nationwide. This directive mandates a thorough construction audit, aiming to enhance transparency, accountability, and quality standards within the real estate sector. The measure underscores a push for better regulatory oversight, impacting urban development and consumer protection across the country.",
-            "url": "https://timesofindia.indiatimes.com/city/ranchi/dhanbad-municipal-corporation-orders-demolition-of-illegal-marriage-hall/articleshow/132073261.cms",
-            "category": "National",
-            "date": "2026-06-29T13:55:20Z"
-        },
-        {
-            "title": "gismap 0.6.0",
-            "summary": "A critical website component failed to load, potentially due to browser extensions, network problems, or specific browser settings. Users encountering this issue are advised to check their internet connection, disable any ad blockers, or try accessing the site with a different browser to resolve the loading error and view the full content.",
-            "url": "https://pypi.org/project/gismap/0.6.0/",
-            "category": "Sci & Tech",
-            "date": "2026-06-29T13:53:05Z"
-        },
-        {
-            "title": "9 arrested for attack on police team in Siwan",
-            "summary": "Nine individuals have been arrested in Siwan following an attack on a police team. This incident, related to a law and order situation, underscores the challenges faced by local authorities in maintaining public safety and order within the region. The arrests are a step towards ensuring accountability for the assault.",
-            "url": "https://timesofindia.indiatimes.com/city/patna/9-arrested-for-attack-on-police-team-in-siwan/articleshow/132073241.cms",
-            "category": "National",
-            "date": "2026-06-29T13:52:40Z"
-        },
-        {
-            "title": "Calcutta High Court Refuses to Quash FIR Against CM Suvendu Adhikari, extends interim protection",
-            "summary": "The Calcutta High Court refused to quash an FIR against CM Suvendu Adhikari, a significant legal development. While denying the dismissal of the case, the court concurrently extended his interim protection, safeguarding him from immediate arrest. This ruling highlights the judiciary's role in ongoing legal proceedings involving prominent political figures and upholding due process in India.",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/calcutta-high-court-refuses-to-quash-fir-against-cm-suvendu-adhikari-extends-interim-protection/articleshow/132073234.cms",
-            "category": "National",
-            "date": "2026-06-29T13:52:03Z"
-        },
-        {
-            "title": "Consider plea to provide basic facilities in Aranthangi weekly market: HC",
-            "summary": "The government has commenced a construction audit, issuing a 3-page Standard Operating Procedure (SOP) form to builders to bolster regulatory compliance. This national initiative underscores a focus on transparent governance within the building sector. Separately, international media giant Comcast is splitting into two companies amidst a major industry shake-up.",
-            "url": "https://timesofindia.indiatimes.com/city/madurai/consider-plea-to-provide-basic-facilities-in-aranthangi-weekly-market-hc/articleshow/132073222.cms",
-            "category": "National",
-            "date": "2026-06-29T13:50:52Z"
-        },
-        {
-            "title": "HSSC CET Group C recruitment 2026: Registration ends tomorrow for 1,238 posts; direct link to apply here",
-            "summary": "The Haryana Staff Selection Commission (HSSC) CET Group C recruitment for 1,238 posts is closing registrations tomorrow. This presents a significant opportunity for SSB aspirants and other job seekers aiming for stable government employment in various departments. Interested candidates are urged to complete their applications promptly via the official HSSC portal to avoid missing this critical deadline for career advancement.",
-            "url": "https://timesofindia.indiatimes.com/education/news/hssc-cet-group-c-recruitment-2026-registration-ends-tomorrow-for-1238-posts-direct-link-to-apply-here/articleshow/132072985.cms",
-            "category": "National",
-            "date": "2026-06-29T13:45:38Z"
-        },
-        {
-            "title": "Sandia National Labs SA3000 8085 CPU",
-            "summary": "In the late 1970s and early 1980s, Sandia National Laboratory in the US initiated a major effort to develop comprehensive in-house capabilities for designing, fabricating, and testing Integrated Circuits (ICs) at scale. This strategic move aimed at establishing advanced expertise in critical semiconductor technology, crucial for national scientific research and potential defense applications, marking a significant period for the lab's technological independence.",
-            "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-            "category": "Sci & Tech",
-            "date": "2026-06-29T10:20:25Z"
-        },
-        {
-            "title": "LOC Espa\u00f1a installs second BOBST press to expand label production",
-            "summary": "Spanish label manufacturer LOC Espa\u00f1a is expanding its production capabilities by installing a second BOBST MASTER M5 inline flexo press at its plant. This strategic acquisition aims to significantly increase output, building on a decade-long successful partnership with BOBST. The move highlights industrial growth and investment in advanced manufacturing technology within Spain.",
-            "url": "https://biztoc.com/x/33deb9614129ce51",
+            "title": "Venezuela Earthquake: Nearly 1,500 Dead, over 50,000 Estimated Missing",
+            "summary": "Venezuela has been devastated by twin massive earthquakes last week, with the government documenting 1,450 people killed and over 3,000 injured. A staggering 50,000 people are potentially missing, creating a severe humanitarian crisis. International relief efforts are now underway to assist the stricken nation, highlighting the global response required for large-scale natural disasters.",
+            "url": "https://www.breitbart.com/latin-america/2026/06/29/venezuela-earthquake-nearly-1500-dead-over-50000-estimated-missing/",
             "category": "International",
-            "date": "2026-06-29T10:03:35Z"
+            "date": "2026-06-29T18:39:22Z"
         },
         {
-            "title": "Why the Heart of India\u2019s Indigenous Fighter Ecosystem Will be American for Several Decades to Come",
-            "summary": "India's self-reliant military modernization faces a major hurdle in jet engine technology. To address this critical gap, India is actively negotiating with U.S. manufacturer General Electric (GE) for its F414 jet engines. This initiative is crucial for bolstering India's indigenous defence capabilities and reducing dependency on foreign suppliers for advanced military hardware, aligning with strategic self-reliance goals.",
-            "url": "https://thediplomat.com/2026/06/why-the-heart-of-indias-indigenous-fighter-ecosystem-will-be-american-for-several-decades-to-come/",
-            "category": "Defence",
-            "date": "2026-06-29T09:20:00Z"
-        },
-        {
-            "title": "NEET UG paper leak case: Court extends Judicial custody of 10 accused till July 11",
-            "summary": "The Rouse Avenue court extended the judicial custody of 10 accused in the NEET UG Paper leak case until July 11. Produced via video conferencing, this ongoing legal action underscores the judiciary's firm stance against examination irregularities. Such developments are critical for upholding the integrity and fairness of national competitive exams like NEET, which are vital for countless student futures and maintaining meritocracy.",
-            "url": "https://economictimes.indiatimes.com/news/india/neet-ug-paper-leak-case-court-extends-judicial-custody-of-10-accused-till-july-11/articleshow/132067763.cms",
+            "title": "10 great moments in local high school sports history",
+            "summary": "The article discusses how America's Founding Fathers, while not envisioning high school sports, articulated the 'pursuit of happiness,' a core ideal. This principle, the text suggests, defines the experiences and aspirations of prep athletes in America, aligning their endeavors with a fundamental tenet of the nation's foundational vision, reflecting on its enduring relevance for generations.",
+            "url": "https://www.daytondailynews.com/sports/10-great-moments-in-local-high-school-sports-history/article_736abc51-2f27-51bb-aa19-70b16b75d397.html",
             "category": "National",
-            "date": "2026-06-29T08:43:11Z"
+            "date": "2026-06-29T18:32:00Z"
+        },
+        {
+            "title": "Parliamentary panel to review NEET-UG re-exam learnings, NTA reforms on July 1",
+            "summary": "Ministry of Higher Education and NTA officials will brief a Parliamentary panel on insights from the NEET-UG re-examination. They will detail steps to strengthen the examination process, aiming to address systemic concerns and ensure the integrity and robustness of national competitive exams, vital for future aspirants and public trust.",
+            "url": "https://economictimes.indiatimes.com/industry/services/education/parliamentary-panel-to-review-neet-ug-re-exam-learnings-nta-reforms-on-july-1/articleshow/132077349.cms",
+            "category": "National",
+            "date": "2026-06-29T18:09:00Z"
+        },
+        {
+            "title": "India-Japan Summit: Deepening economic ties and strategic investment opportunities for next decade",
+            "summary": "Japanese Prime Minister Sanae Takaichi is set to embark on a three-day visit to India for the 16th India-Japan Summit in New Delhi. The summit aims to strengthen the robust economic relationship between the two nations, which are major global economies. Discussions are expected to cover enhancing bilateral cooperation across various sectors, reinforcing their strategic partnership on regional and global issues.",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-japan-summit-deepening-economic-ties-and-strategic-investment-opportunities-for-next-decade/articleshow/132076615.cms",
+            "category": "International",
+            "date": "2026-06-29T17:33:59Z"
         }
     ]
 }
