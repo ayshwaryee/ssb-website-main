@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-06-30T19:49:05.739649+00:00",
+    "last_updated": "2026-07-01T02:56:44.351281+00:00",
     "articles": [
         {
-            "title": "specthis added to PyPI",
-            "summary": "The article details a sophisticated, spec-driven research workflow designed for producing reproducible computational artefacts, often in JSON format. This system incorporates a user-friendly dashboard, leverages AI through \"Claude Code subagents,\" and utilizes a refresh/cache pipeline for efficient data management. The methodology aims to streamline research projects, ensuring consistency, verifiability, and automated assembly of results.",
-            "url": "https://pypi.org/project/specthis/",
-            "category": "Sci & Tech",
-            "date": "2026-06-29T19:48:18Z"
-        },
-        {
-            "title": "Venezuela Earthquake: Nearly 1,500 Dead, over 50,000 Estimated Missing",
-            "summary": "Venezuela has been devastated by twin massive earthquakes last week, with the government documenting 1,450 people killed and over 3,000 injured. A staggering 50,000 people are potentially missing, creating a severe humanitarian crisis. International relief efforts are now underway to assist the stricken nation, highlighting the global response required for large-scale natural disasters.",
-            "url": "https://www.breitbart.com/latin-america/2026/06/29/venezuela-earthquake-nearly-1500-dead-over-50000-estimated-missing/",
-            "category": "International",
-            "date": "2026-06-29T18:39:22Z"
-        },
-        {
-            "title": "10 great moments in local high school sports history",
-            "summary": "The article discusses how America's Founding Fathers, while not envisioning high school sports, articulated the 'pursuit of happiness,' a core ideal. This principle, the text suggests, defines the experiences and aspirations of prep athletes in America, aligning their endeavors with a fundamental tenet of the nation's foundational vision, reflecting on its enduring relevance for generations.",
-            "url": "https://www.daytondailynews.com/sports/10-great-moments-in-local-high-school-sports-history/article_736abc51-2f27-51bb-aa19-70b16b75d397.html",
+            "title": "NRI flows into Indian equities dip as compliance rules bite",
+            "summary": "Recent data reveals a slowdown in investments by Non-Resident Indians (NRIs) into Indian stock markets. This trend occurs as foreign deposits in Indian banks are also a major policy discussion point. For an SSB aspirant, this highlights important economic shifts affecting India's financial sector and national economy.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/nri-flows-into-indian-equities-dip-as-compliance-rules-bite/articleshow/131996730.cms",
             "category": "National",
-            "date": "2026-06-29T18:32:00Z"
+            "date": "2026-06-30T00:30:00Z"
         },
         {
-            "title": "Parliamentary panel to review NEET-UG re-exam learnings, NTA reforms on July 1",
-            "summary": "Ministry of Higher Education and NTA officials will brief a Parliamentary panel on insights from the NEET-UG re-examination. They will detail steps to strengthen the examination process, aiming to address systemic concerns and ensure the integrity and robustness of national competitive exams, vital for future aspirants and public trust.",
-            "url": "https://economictimes.indiatimes.com/industry/services/education/parliamentary-panel-to-review-neet-ug-re-exam-learnings-nta-reforms-on-july-1/articleshow/132077349.cms",
+            "title": "Starmer's cut-price fleet of Navy drones: PM's \u00a314.5billion defence plan 'only half what UK needs to defend itself' with six 'budget warships' to replace destroyers for a new era of warfare",
+            "summary": "Keir Starmer is set to unveil the UK's long-overdue Defence Investment Plan, featuring a substantial \u00a35 billion allocation for drone 'transformation'. This initiative aims to modernize future defence capabilities. However, the outgoing Prime Minister has reportedly faced criticism regarding the plan's initial funding details, with only \u00a31 billion highlighted, sparking political debate over comprehensive defence spending and strategic priorities.",
+            "url": "https://www.dailymail.com/news/article-15939861/Starmer-Navy-drones-defence-warships-destroyers-warfare.html",
+            "category": "Defence",
+            "date": "2026-06-29T23:43:13Z"
+        },
+        {
+            "title": "Ajay Devgn's heroine became a household name after her Bollywood debut. Today, she owns a Rs 100 crore home",
+            "summary": "Actress Madhoo Shah, renowned for her roles in 'Roja' and 'Phool Aur Kaante', recently unveiled her magnificent Malabar Hill residence. This opulent home, valued at an estimated Rs 100 crore, features a palatial design with a soothing beige aesthetic. The grand unveiling provides a glimpse into her substantial real estate holdings in one of Mumbai's most prestigious locations.",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/ajay-devgns-heroine-became-a-household-name-after-her-bollywood-debut-today-she-owns-a-rs-100-crore-home/articleshow/132079307.cms",
             "category": "National",
-            "date": "2026-06-29T18:09:00Z"
-        },
-        {
-            "title": "India-Japan Summit: Deepening economic ties and strategic investment opportunities for next decade",
-            "summary": "Japanese Prime Minister Sanae Takaichi is set to embark on a three-day visit to India for the 16th India-Japan Summit in New Delhi. The summit aims to strengthen the robust economic relationship between the two nations, which are major global economies. Discussions are expected to cover enhancing bilateral cooperation across various sectors, reinforcing their strategic partnership on regional and global issues.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-japan-summit-deepening-economic-ties-and-strategic-investment-opportunities-for-next-decade/articleshow/132076615.cms",
-            "category": "International",
-            "date": "2026-06-29T17:33:59Z"
+            "date": "2026-06-29T21:21:03Z"
         }
     ]
 }
