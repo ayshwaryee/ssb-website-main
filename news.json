@@ -1,61 +1,40 @@
 {
-    "last_updated": "2026-07-03T13:51:57.079443+00:00",
+    "last_updated": "2026-07-03T19:11:39.579584+00:00",
     "articles": [
         {
-            "title": "State of emergency in Crimea as Ukraine focuses pressure on \u2018jewel in Putin\u2019s crown\u2019",
-            "summary": "Russian President Vladimir Putin has acknowledged that Ukraine's persistent drone attacks on Russia's energy infrastructure are indeed having an effect. Speaking to the ruling United Russia party on June 28, Putin's admission is a rare public recognition from the Kremlin regarding the success of Ukrainian strikes. This highlights the ongoing conflict's evolving tactics and the significant impact on Russia's vital infrastructure.",
-            "url": "https://theconversation.com/state-of-emergency-in-crimea-as-ukraine-focuses-pressure-on-jewel-in-putins-crown-286476",
-            "category": "International",
-            "date": "2026-07-02T13:39:27Z"
-        },
-        {
-            "title": "Before the moon race, explorers wanted to conquer the ocean",
-            "summary": "Popular Science is offering a daily newsletter to keep subscribers updated on breakthroughs, discoveries, and DIY tips, delivered six days a week. Signing up confirms users are over 16 and agree to receive promotional content. This initiative provides a consistent source of information for individuals interested in the latest advancements and practical innovations in science and technology.",
-            "url": "http://www.popsci.com/science/underwater-cities-ocean-exploration-history/",
-            "category": "Sci & Tech",
-            "date": "2026-07-02T13:03:00Z"
-        },
-        {
-            "title": "Indian Navy foils piracy attack on merchant ship in Gulf of Aden, crew including an Indian sailor safe",
-            "summary": "Indian Navy warship INS Trikand successfully thwarted a piracy attempt on a merchant vessel in the strategically important Gulf of Aden on Wednesday night. This operation underscores the Indian Navy's crucial role in ensuring maritime security and freedom of navigation in international waters, demonstrating its commitment to combating piracy and protecting global trade routes. Such deployments enhance India's stature as a net security provider.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/indian-navy-foils-piracy-attack-on-merchant-ship-in-gulf-of-aden-crew-including-an-indian-sailor-safe/articleshow/132139609.cms",
+            "title": "Defence ministry may clear proposals worth over Rs 1 lakh crore today",
+            "summary": "The Defence Ministry is set to approve over Rs 1 lakh crore for significant military acquisitions. Key procurements include 300 K-9 Vajra howitzers for artillery, 600 HAMMER missiles to enhance fighter jet capabilities, and Russian Verba air defence systems for the Army. This major push aims to modernize India's armed forces, boost indigenous defence production, and strengthen national security.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/defence-ministry-may-clear-proposals-worth-over-rs-1-lakh-crore-today/articleshow/132146257.cms",
             "category": "Defence",
-            "date": "2026-07-02T12:57:47Z"
+            "date": "2026-07-02T19:07:45Z"
         },
         {
-            "title": "129 MoUs announced at Japan-India Joint Economic Forum as investment momentum builds",
-            "summary": "Japan announced 129 MoUs with India at the Japan-India Joint Economic Forum, fostering significant economic cooperation. Business leaders from both nations highlighted opportunities to boost trade, investment, and collaboration across various sectors. This strategic partnership aims to deepen bilateral ties and contribute to regional economic stability, a vital development for future officers to monitor.",
-            "url": "https://www.aninews.in/news/business/129-mous-announced-at-japan-india-joint-economic-forum-as-investment-momentum-builds20260702175502",
-            "category": "International",
-            "date": "2026-07-02T12:46:56Z"
-        },
-        {
-            "title": "Shark attack on Alabama teen inspires the start of a national alert system",
-            "summary": "Fifteen-year-old Lulu Gribbin survived a harrowing shark attack off Florida's coast, an incident that nearly claimed her life. She suffered severe injuries, tragically losing her left hand and a portion of her right leg. The article details her survival story, beginning with her unawareness of the impending danger when she entered the water.",
-            "url": "https://abcnews.com/US/wireStory/shark-attack-alabama-teen-inspires-start-national-alert-134403128",
+            "title": "Goodyear Blimp sails above NYC like ship in the water ahead of July Fourth party",
+            "summary": "America's 250th birthday celebration in New York City featured the iconic Goodyear Blimp soaring above a grand fleet of warships, tall ships, and ferries. This monumental event marked a significant national milestone, showcasing a majestic parade both in the air and on the water, highlighting the nation's rich maritime history and ongoing festivities.",
+            "url": "https://nypost.com/2026/07/02/us-news/goodyear-blimp-returns-to-nyc-for-first-time-in-50-years/",
             "category": "National",
-            "date": "2026-07-02T12:23:25Z"
+            "date": "2026-07-02T18:40:10Z"
         },
         {
-            "title": "7 indoor plants that may help repel snakes and lizards from home",
-            "summary": "Lemongrass, rich in citronella, emits a powerful citrus scent. This strong aroma significantly interferes with snakes' keen sense of smell, which they rely heavily upon for hunting. Overpowering smells like that of lemongrass can disorient snakes, disrupting their ability to locate prey. Research suggests this natural property makes lemongrass a potential deterrent against snakes, exploiting their olfactory reliance for defence.",
-            "url": "https://m.economictimes.com/news/india/7-indoor-plants-that-may-help-repel-snakes-and-lizards-from-home/lemongrass-cymbopogon-citratus/slideshow/132138845.cms",
+            "title": "Army stops Kuki protesters near Naga blockade point in Manipur",
+            "summary": "The Indian Army recently intervened in Manipur, halting Kuki protesters near a Naga community blockade point. This deployment underscores the military's role in managing internal security and maintaining law and order amidst ethnic tensions. Such actions are crucial to prevent escalation and ensure stability in sensitive regions prone to civil unrest.",
+            "url": "https://timesofindia.indiatimes.com/city/guwahati/army-stops-kuki-protesters-near-naga-blockade-point-in-manipur/articleshow/132144666.cms",
+            "category": "Defence",
+            "date": "2026-07-02T18:08:40Z"
+        },
+        {
+            "title": "Hoax email bomb threat to Isro HQ in Bengaluru",
+            "summary": "Analysis indicates a potential decline in US influence across Europe, creating a perceived power vacuum within NATO. Turkish President Erdogan is reportedly seeking to capitalize on this shift, aiming to expand Turkey's strategic presence and fill the void. This geopolitical development signifies evolving dynamics within the transatlantic alliance, presenting a critical current affairs topic for SSB aspirants.",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/hoax-email-bomb-threat-to-isro-hq-in-bengaluru/articleshow/132144644.cms",
+            "category": "Defence",
+            "date": "2026-07-02T18:06:03Z"
+        },
+        {
+            "title": "Digital Edge (India) buys 30 acres in Palava for Rs 1,000 cr, plans 270MW data centre",
+            "summary": "Digital Edge (India), backed by the NIIF, has acquired over 30 acres of land in Palava near Mumbai. This land, within Lodha Developers' Green Integrated Data Centre Park, is for establishing advanced data centres. This move signifies a major investment in India's digital infrastructure, boosting its capacity and supporting the nation's growing digital economy.",
+            "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/digital-edge-india-buys-30-acres-in-palava-for-rs-1000-cr-plans-270mw-data-centre/articleshow/132143264.cms",
             "category": "Sci & Tech",
-            "date": "2026-07-02T12:08:38Z"
-        },
-        {
-            "title": "[Eugene Volokh] \"Kids, if Your Parents Are MAGA, They Love Child Rapists\" Sign Protected by First Amendment",
-            "summary": "Plaintiff Accountability Now, an unincorporated association, has secured a permit from the National Park Service (NPS). This permit allows them to conduct a demonstration near the historic George Meade Statue on Constitution Avenue. While the protest is authorized, the provided text does not specify the demonstration's objectives or the specific issues being addressed by the association.",
-            "url": "https://reason.com/volokh/2026/07/02/kids-if-your-parents-are-maga-they-love-child-rapists-sign-protected-by-first-amendment/",
-            "category": "National",
-            "date": "2026-07-02T12:01:03Z"
-        },
-        {
-            "title": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
-            "summary": "An official announcement from the Government Offices of Sweden has been published, originating from the Prime Minister's Office and involving key ministries like Defence, Culture, Foreign Affairs, and Rural Affairs. While specific article details are truncated, the broad ministerial involvement suggests a comprehensive governmental initiative or significant policy update from Sweden concerning various national sectors.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260702-govse01.htm",
-            "category": "National",
-            "date": "2026-07-02T12:00:00Z"
+            "date": "2026-07-02T17:14:31Z"
         }
     ]
 }
