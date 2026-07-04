@@ -1,61 +1,68 @@
 {
-    "last_updated": "2026-07-04T08:30:08.483442+00:00",
+    "last_updated": "2026-07-04T13:13:17.774209+00:00",
     "articles": [
         {
-            "title": "Indian Navy's P-8I aircraft arrives at Joint Base Pearl Harbor-Hickam in Hawaii for RIMPAC 2026",
-            "summary": "The Indian Navy's P-8I Long Range Maritime Reconnaissance and Anti-Submarine Warfare (ASW) aircraft has arrived in Honolulu, Hawaii. It's participating in a major international naval exercise at Joint Base Pearl Harbor-Hickam. This deployment underscores India's commitment to maritime security, fostering interoperability with global partners, and enhancing its strategic reach in the Indo-Pacific region.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-navys-p-8i-aircraft-arrives-at-joint-base-pearl-harbor-hickam-in-hawaii-for-rimpac-2026/articleshow/132156299.cms",
+            "title": "DC Just Killed Green Lantern, and Made His Partner a Massive Villain",
+            "summary": "The article highlights the Green Lantern legacy, noting it has more Earth-based characters than any other superhero franchise. It points out that despite this extensive roster, individual Green Lanterns often don't get sufficient opportunities to 'shine.' This suggests a rich yet potentially underexplored pool of characters within the comic book universe.",
+            "url": "http://comicbook.com/comics/feature/dc-just-killed-green-lantern-and-made-his-partner-a-massive-villain/",
+            "category": "Sci & Tech",
+            "date": "2026-07-03T13:00:00Z"
+        },
+        {
+            "title": "Operation Sindoor exposed limits of Pakistan's nuclear deterrence, pushed China-style rocket force: Report",
+            "summary": "Following perceived shortcomings against India in 'Operation Sindoor', Pakistan's armed forces established the Army Rocket Force Command (ARFC). This strategic move, occurring within months, underscores Pakistan's evolving military doctrine and focus on bolstering its rocket capabilities. For SSB aspirants, this highlights regional power dynamics and the constant adaptation of military forces in response to perceived threats and past operational experiences.",
+            "url": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-exposed-limits-of-pakistans-nuclear-deterrence-pushed-china-style-rocket-force-report/articleshow/132161145.cms",
             "category": "Defence",
-            "date": "2026-07-03T08:18:44Z"
+            "date": "2026-07-03T12:18:11Z"
         },
         {
-            "title": "Putin 'is planning Polish incursion to test NATO's response'",
-            "summary": "Washington warns that the Kremlin is planning an armed incursion into Polish territory, specifically to test NATO's response. This potential provocation could involve Russian troops crossing into Poland and targeting vital infrastructure. Such an act would be a significant escalation, directly challenging NATO's collective defence principle (Article 5) and potentially triggering a broader international crisis.",
-            "url": "https://www.dailymail.com/news/article-15950143/Putin-planning-Polish-incursion-test-NATOs-response.html",
-            "category": "Defence",
-            "date": "2026-07-03T08:12:20Z"
-        },
-        {
-            "title": "Iran\u2019s Khamenei funeral: Which world leaders are attending?",
-            "summary": "Over 100 countries are expected to send representatives to the funeral of former Iranian Supreme Leader Ali Khamenei, scheduled to begin on Friday, according to Iranian state-linked news. This significant international attendance underscores the global diplomatic engagement and attention surrounding such high-profile events involving key international figures, highlighting their geopolitical importance.",
-            "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending",
-            "category": "International",
-            "date": "2026-07-03T08:04:08Z"
-        },
-        {
-            "title": "Recent Watertown High School graduate to play baseball at Northeast Iowa CC",
-            "summary": "Recent Watertown High School graduate and pitcher Hunter Halajian has committed to play college baseball at Northeast Iowa Community College. This move signifies a significant step in his athletic and academic career, transitioning from high school to collegiate-level competition. It offers a chance to develop skills while pursuing higher education alongside his sports pursuits.",
-            "url": "https://www.thepublicopinion.com/story/sports/2026/07/03/watertown-aberdeen-south-dakota-high-school-college-signings-landing-page/90769690007/",
+            "title": "Messenger: Ex-landlord wants better jail conditions. His ex-tenants would like a word.",
+            "summary": "The article highlights a 'Sophie's Choice' dilemma for residents: complaining, even with legal aid, often results in non-renewal of leases or eviction. This puts them in a tough spot, demonstrating a significant challenge where asserting tenant rights can lead to severe housing insecurity, despite legal protections.",
+            "url": "https://www.stltoday.com/news/local/column/tony-messenger/article_86eb05f0-fb7c-463d-bdae-4ca62c95f80a.html",
             "category": "National",
-            "date": "2026-07-03T08:02:27Z"
+            "date": "2026-07-03T12:15:00Z"
+        },
+        {
+            "title": "Anzac teamwork sinks target",
+            "summary": "The Royal Australian Air Force (RAAF) recently integrated with a Royal New Zealand Air Force (RNZAF) P-8A Poseidon maritime patrol aircraft for a historic live-fire sink exercise. This marked the first time such integration occurred, significantly enhancing interoperability and demonstrating robust defence cooperation between Australia and New Zealand. This joint training is crucial for strengthening regional maritime security capabilities and shared operational readiness.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260703-audod01.htm",
+            "category": "Defence",
+            "date": "2026-07-03T12:00:00Z"
+        },
+        {
+            "title": "UNHCR warns Lake Chad Basin at tipping point as violence and displacement surge",
+            "summary": "UNHCR Deputy Director for West and Central Africa, Andrew Wyllie, issued briefing notes. These summarize his statements, likely detailing the humanitarian situation and refugee challenges across the region. The full report covers extensive details on UNHCR's operations and ongoing efforts to support displaced populations and manage refugee flows in West and Central Africa.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260703-unhcr01.htm",
+            "category": "International",
+            "date": "2026-07-03T12:00:00Z"
+        },
+        {
+            "title": "Who's Shipping Bananas To Russia, And Who's Shipping Cocaine?",
+            "summary": "The container ship Cool Emerald recently arrived in St. Petersburg, Russia, prompting an immediate encounter with Russian customs and Federal Security Service (FSB) agents. This interaction signals heightened vigilance by Russian authorities concerning inbound maritime traffic, possibly indicating specific security concerns or a routine but thorough inspection of its cargo and operations. Such port security measures are crucial for national integrity and counter-smuggling efforts.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260703-rferl01.htm",
+            "category": "International",
+            "date": "2026-07-03T12:00:00Z"
+        },
+        {
+            "title": "Fencing Team Qualifies For Asian Games",
+            "summary": "India's men's foil fencing team secured direct qualification for the Asian Games, demonstrating significant progress at the recent Asian Senior Fencing Championship. This achievement underscores the nation's growing prowess in the sport and boosts morale for future international competitions. It reflects the dedication and hard work of the athletes, promising a brighter future for Indian fencing on the global stage.",
+            "url": "https://www.rediff.com/sports/report/indian-mens-foil-team-secures-asian-games-spot/20260703.htm",
+            "category": "National",
+            "date": "2026-07-03T11:40:41Z"
+        },
+        {
+            "title": "Heartstopper Forever, The X-Files & Star Wars: BCTV Daily Dispatch",
+            "summary": "Today's BCTV Daily Dispatch highlighted popular streaming and television series, including 'Star Wars: Visions,' 'Batman: Caped Crusader,' 'Rick and Morty,' 'The X-Files,' and 'Heartstopper Forever.' This reflects the dynamic nature of digital entertainment and media consumption. Aspirants should note the continuous evolution of content platforms and their significant influence on global popular culture and storytelling trends.",
+            "url": "https://bleedingcool.com/tv/heartstopper-forever-the-x-files-star-wars-bctv-daily-dispatch/",
+            "category": "Sci & Tech",
+            "date": "2026-07-03T11:37:09Z"
         },
         {
             "title": "Indian Army Agniveer Result 2026 date and time: Expected release soon, know steps to check at joinindianarmy.nic.in",
-            "summary": "The Indian Army Agniveer Result 2026 is anticipated to be released soon. Aspirants who appeared for the examination should regularly check the official website, joinindianarmy.nic.in, for updates on the exact date and time. This is a crucial announcement for candidates aiming to join the Indian Army through the Agniveer scheme, marking a significant step in their defence career.",
+            "summary": "The Indian Army Agniveer Result 2026 is anticipated to be released soon, a critical update for all aspiring candidates. SSB aspirants who appeared for the Agniveer recruitment drive should regularly monitor the official website, joinindianarmy.nic.in, for the latest announcements regarding the result date and time, and detailed steps to check their scores promptly.",
             "url": "https://timesofindia.indiatimes.com/education/news/indian-army-agniveer-result-2026-date-and-time-expected-release-soon-know-steps-to-check-at-joinindianarmy-nic-in/articleshow/132155459.cms",
             "category": "Defence",
             "date": "2026-07-03T07:59:09Z"
-        },
-        {
-            "title": "S.Korea presidential office rejects Coupang, US claims of discriminatory treatment",
-            "summary": "South Korea has rejected claims from e-commerce giant Coupang and a U.S. congressional report alleging that the company was unfairly targeted following a massive data breach. Seoul is defending its actions amid international scrutiny over the incident, which underscores ongoing debates about corporate accountability and governmental regulatory practices concerning data security.",
-            "url": "https://biztoc.com/x/ba2b1273aeaabadf",
-            "category": "International",
-            "date": "2026-07-03T07:54:33Z"
-        },
-        {
-            "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 3, 2026) at IBJA, Malabar Gold & Diamonds, Tanishq, Joyalukkas and Kalyan Jewellers",
-            "summary": "Gold prices are currently a key focus for buyers and investors tracking daily market movements. As of Friday, July 3, 2026, those planning to purchase gold jewellery are advised to compare prices carefully across different vendors. This emphasizes the need for informed financial decisions in the volatile gold market, relevant for general economic awareness.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-3-2026-at-ibja-malabar-gold-diamonds-tanishq-joyalukkas-and-kalyan-jewellers/articleshow/132154771.cms",
-            "category": "National",
-            "date": "2026-07-03T06:56:10Z"
-        },
-        {
-            "title": "India\u2019s space industry hunts for its SpaceX moment",
-            "summary": "India's private space program is showing early signs of success, three years after PM Modi's policy opened the sector to non-government firms. This initiative is fostering a vibrant private ecosystem, allowing companies to own spaceports and participate in launches. It signifies India's growing capabilities in space technology, promoting national self-reliance and technological advancement in a strategic domain, crucial for future growth.",
-            "url": "https://economictimes.indiatimes.com/news/science/india-private-space-industry-startups-isro-satellites-rockets-skyroot-pixxel-galaxeye-ambani-starlink-constellation-spacex-moment/articleshow/132151774.cms",
-            "category": "Sci & Tech",
-            "date": "2026-07-03T03:31:42Z"
         }
     ]
 }
