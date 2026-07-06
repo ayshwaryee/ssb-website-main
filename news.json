@@ -1,68 +1,47 @@
 {
-    "last_updated": "2026-07-06T15:21:17.018527+00:00",
+    "last_updated": "2026-07-06T19:49:07.831993+00:00",
     "articles": [
         {
+            "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+            "summary": "Russia's Defence Ministry accuses Ukraine of refusing to halt shelling in Kostiantynivka, eastern Ukraine, preventing Moscow from handing over the bodies of fallen Ukrainian soldiers. Russia claims Ukraine rejected a ceasefire offer, hindering humanitarian efforts to repatriate remains. This highlights ongoing challenges and lack of cooperation in managing even humanitarian aspects amidst the intense conflict.",
+            "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka",
+            "category": "Defence",
+            "date": "2026-07-05T19:06:39Z"
+        },
+        {
+            "title": "Blue Wave: How Israel, Washington and a Guernsey Shell Company Stole Colombia\u2019s Election",
+            "summary": "On June 21, 2026, Colombia's preliminary election results indicated a lead for far-right candidate Abelardo De La Espriella over his left-wing rival, Iv\u00e1n Cepeda. This critical moment reflects Colombia's evolving political landscape and potential future direction. The final vote count will determine the definitive outcome of this significant electoral contest, which could impact regional stability and international relations.",
+            "url": "https://www.activistpost.com/blue-wave-how-israel-washington-and-a-guernsey-shell-company-stole-colombias-election/",
+            "category": "International",
+            "date": "2026-07-05T19:02:00Z"
+        },
+        {
+            "title": "Royal Navy in worst state in centuries \u2013 retired admiral",
+            "summary": "Retired chief of the Naval Staff, Lord Alan West, has stated that the Royal Navy is currently in its worst state in British history, operating the smallest fleet ever. This assessment highlights a significant decline in the UK's naval power and defence capabilities, raising concerns about its ability to project influence and protect national interests on a global scale.",
+            "url": "https://www.rt.com/news/642610-royal-navy-worst-state-centuries/",
+            "category": "Defence",
+            "date": "2026-07-05T19:00:56Z"
+        },
+        {
+            "title": "ENC\u2019s seminar explores next generation sonar technologies",
+            "summary": "This news digest covers diverse, fragmented topics. It mentions an incomplete quote from King Charles. Nationally, it reports a man's arrest for stealing a laptop from a Thammanam hostel. Economic news includes rising chicken and egg prices. The text compiles several distinct headlines rather than forming a single, coherent article.",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/encs-seminar-explores-next-generation-sonar-technologies/articleshow/132201886.cms",
+            "category": "National",
+            "date": "2026-07-05T18:37:05Z"
+        },
+        {
+            "title": "How SpaceFields is fuelling Indian rocketry\u2019s liftoff",
+            "summary": "Apurwa Masook and his friends innovatively constructed their initial rockets using basic materials like PVC pipes and fertiliser-grade chemicals. This pioneering amateur rocketry effort highlights ingenuity and practical scientific application. Such initiatives underscore the importance of problem-solving and technical aptitude, qualities highly valued in SSB aspirants, demonstrating how resourcefulness can lead to significant scientific exploration and development.",
+            "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/how-spacefields-is-fuelling-indian-rocketrys-liftoff/article71186727.ece",
+            "category": "Sci & Tech",
+            "date": "2026-07-05T18:00:50Z"
+        },
+        {
             "title": "INS Sanshodhak joins Southern Naval Command in Kochi",
-            "summary": "INS Sanshodhak, the Indian Navy's fourth Survey Vessel Large (SVL), has joined the Southern Naval Command after arriving at its home port in Kochi. This significant induction enhances the Navy's hydrographic survey capabilities, crucial for maritime safety and operations. The SVL project aims to replace older survey ships, modernizing India's naval fleet and reinforcing its strategic presence.",
+            "summary": "INS Sanshodhak, the Indian Navy's fourth Survey Vessel Large (SVL), has officially joined the Southern Naval Command after arriving at its home port in Kochi. This significant induction enhances the Navy's hydrographic survey capabilities, crucial for maritime safety and operations. Its arrival strengthens India's naval presence and contributes to strategic maritime data collection, vital for national security.",
             "url": "https://economictimes.indiatimes.com/news/defence/ins-sanshodhak-joins-southern-naval-command-in-kochi/articleshow/132197655.cms",
             "category": "Defence",
             "date": "2026-07-05T15:18:40Z"
-        },
-        {
-            "title": "Russia says Ukraine rejects local ceasefire for handover of soldiers' bodies",
-            "summary": "The Russian Defence Ministry reported that Ukraine refused to halt shelling in Kostiantynivka, eastern Ukraine. This refusal reportedly prevented Russia from handing over the bodies of fallen Ukrainian soldiers. The incident highlights the ongoing complexities and severe humanitarian challenges amidst the intense conflict, showcasing the difficult communication and lack of trust between the warring nations.",
-            "url": "https://biztoc.com/x/e1072991d818bb8d",
-            "category": "Defence",
-            "date": "2026-07-05T15:14:36Z"
-        },
-        {
-            "title": "60-Plus Navy Sailors on Submarine Sickened by Diesel Generator Malfunction",
-            "summary": "A malfunction aboard a U.S. ballistic missile submarine's backup diesel generator exposed over 60 sailors and civilian workers to exhaust fumes. The incident necessitated medical evaluations for all affected personnel. This highlights the critical importance of operational safety and maintenance protocols within advanced naval platforms, and the potential health risks personnel face, crucial for understanding defence service challenges.",
-            "url": "https://military.com/60-plus-navy-sailors-submarine-sickened-diesel-generator-malfunction",
-            "category": "Defence",
-            "date": "2026-07-05T14:20:52Z"
-        },
-        {
-            "title": "North Korea\u2019s Kim Observed Naval Destroyer Cruise Missile Launch",
-            "summary": "North Korean leader Kim Jong Un recently oversaw the test firing of a strategic cruise missile from a naval vessel. He also evaluated new anti-ship, anti-submarine, and air defense systems during the exercise. This event highlights North Korea's continuous efforts to enhance its military capabilities and maritime defence, a critical development for regional security analysis relevant to SSB aspirants.",
-            "url": "https://gcaptain.com/north-koreas-kim-observed-naval-destroyer-cruise-missile-launch/",
-            "category": "Defence",
-            "date": "2026-07-05T13:39:24Z"
-        },
-        {
-            "title": "FO Talks: India\u2019s Reckoning \u2014 Reform or Regression?",
-            "summary": "Editor-in-Chief Atul Singh and finance professional Sam Tully analyzed the significant withdrawal of foreign capital from India. Their discussion delves into what this trend signifies for the nation's economic trajectory, exploring the underlying reasons and potential future impacts on India's growth and financial stability. This analysis provides insights into crucial economic challenges and prospects for aspirants to understand national economic dynamics.",
-            "url": "https://www.fairobserver.com/economics/fo-talks-indias-reckoning-reform-or-regression/",
-            "category": "National",
-            "date": "2026-07-05T13:33:55Z"
-        },
-        {
-            "title": "Army offers \u20b975,000 crore, five-year order pipeline to defence industry to spur long-term growth",
-            "summary": "The Indian Army is undertaking significant life-cycle enhancements for its T-72 Ajeya and T-90 Bhishma tanks, infantry combat vehicles, and Armoured Recovery Vehicles. These orders aim to modernize and extend the operational lifespan of critical armoured assets. Such continuous upgrades are vital for boosting the Army's combat readiness and maintaining a technologically superior ground force, crucial for national security.",
-            "url": "https://www.thehindubusinessline.com/news/national/army-offers-75000-crore-five-year-order-pipeline-to-defence-industry-to-spur-long-term-growth/article71185577.ece",
-            "category": "Defence",
-            "date": "2026-07-05T13:24:39Z"
-        },
-        {
-            "title": "India can play bigger role in its defence modernisation drive: Indonesia",
-            "summary": "India is well-positioned to significantly contribute to Indonesia's defence modernisation, stated Jakarta's Charge d'Affaires. Indonesia seeks deeper bilateral defence cooperation, leveraging India's growing capabilities as a key partner in the Indo-Pacific. This partnership could involve equipment supply, joint ventures, and training, enhancing regional security and India's strategic footprint.",
-            "url": "https://economictimes.indiatimes.com/news/defence/india-can-play-bigger-role-in-its-defence-modernisation-drive-indonesia/articleshow/132196577.cms",
-            "category": "Defence",
-            "date": "2026-07-05T13:17:33Z"
-        },
-        {
-            "title": "INDIAN NAVAL SHIPS CONCLUDE SUCCESSFUL VISIT TO SINGAPORE",
-            "summary": "The Indian Ministry of Defence highlighted ongoing efforts to strengthen the strategic and maritime partnership with Singapore. This initiative, likely involving joint defense exercises or high-level engagements, underscores the deep-rooted cooperation between the two nations. Such interactions are vital for enhancing regional security, interoperability, and mutual defense interests, reflecting a robust bilateral relationship crucial for stability in the Indo-Pacific.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260705-india-pib01.htm",
-            "category": "Defence",
-            "date": "2026-07-05T12:00:00Z"
-        },
-        {
-            "title": "3 dead, including patient, 2 injured after ambulance collides with Army vehicle in Rajasthan's Sri Ganganagar",
-            "summary": "A tragic road accident occurred in Sri Ganganagar, Rajasthan, where an ambulance collided with an Army vehicle. The incident resulted in three fatalities, including a patient being transported, and left two others injured. This unfortunate event underscores the operational risks and safety considerations for both civilian and defence personnel on our national roads.",
-            "url": "https://timesofindia.indiatimes.com/city/jaipur/3-dead-including-patient-2-injured-after-ambulance-collides-with-army-vehicle-in-rajasthans-sri-ganganagar/articleshow/132191537.cms",
-            "category": "Defence",
-            "date": "2026-07-05T06:01:24Z"
         }
     ]
 }
