@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-07-07T14:19:58.362911+00:00",
+    "last_updated": "2026-07-07T19:47:37.454313+00:00",
     "articles": [
         {
-            "title": "The message behind the missile China just shot rings loud and clear",
-            "summary": "China's military recently conducted a rare test of a ballistic missile launched from a nuclear-powered submarine into the Pacific Ocean. This significant demonstration of naval power drew strong criticism from Japan, Australia, and New Zealand. The test underscores China's advancing capabilities in strategic weaponry and raises concerns among regional powers regarding security and military expansion in the Indo-Pacific.",
-            "url": "https://economictimes.indiatimes.com/news/defence/the-message-behind-the-missile-china-just-shot-rings-loud-and-clear/articleshow/132218287.cms",
-            "category": "Defence",
-            "date": "2026-07-06T14:16:22Z"
-        },
-        {
-            "title": "Lockheed to Buy Ultra Maritime for $3.45 Billion in Sea Push",
-            "summary": "US defense major Lockheed Martin is acquiring Ultra Maritime, a submarine detection systems specialist, for $3.45 billion. This strategic move significantly bolsters Lockheed's undersea warfare capabilities. The acquisition enhances critical naval defense technology and maritime security, providing SSB aspirants insight into global defense industry trends and advanced anti-submarine operations.",
-            "url": "https://financialpost.com/pmn/business-pmn/lockheed-to-buy-ultra-maritime-for-3-45-billion-in-sea-push",
-            "category": "Defence",
-            "date": "2026-07-06T13:52:00Z"
-        },
-        {
-            "title": "A NATO submarine partner: Why Canada chose Germany",
-            "summary": "This snippet introduces Jarine Kim, a graduate of the University of Toronto's Munk School of Global Affairs & Public Policy, and Thomas Klassen, a public policy professor at York University. They are presented as contributors, with their academic backgrounds highlighting expertise in global affairs and public policy, likely for a broader analysis yet to be detailed.",
-            "url": "https://biztoc.com/x/3dffcba8367ae657",
+            "title": "From Indonesia to Australia to New Zealand, PM Modi charts India's Indo-Pacific arc",
+            "summary": "In an 'atomized world,' nations prioritize self-interest. India faces critical geopolitical challenges, notably China's strategic efforts to tighten its grip around the nation. Pakistan is also engaged in multi-faceted activities, further complicating regional security. This dynamic necessitates India's constant vigilance and strategic preparedness in navigating complex international relations and potential threats.",
+            "url": "https://economictimes.indiatimes.com/news/india/from-indonesia-to-australia-to-new-zealand-pm-modi-charts-indias-indo-pacific-arc/articleshow/132225114.cms",
             "category": "International",
-            "date": "2026-07-06T13:51:05Z"
+            "date": "2026-07-06T19:28:34Z"
         },
         {
-            "title": "22 trains affected as heavy rains disrupt rail traffic on busy Ahmedabad\u2013Mumbai corridor",
-            "summary": "Heavy rains and severe waterlogging have crippled Mumbai's Western Railway network, significantly disrupting train services. This affects one of India's busiest rail corridors, connecting Ahmedabad and Mumbai, leading to numerous cancellations and short terminations. Commuters face major travel delays due to the inclement weather impacting critical infrastructure and causing widespread disruption.",
-            "url": "https://www.thehindubusinessline.com/news/22-trains-affected-as-heavy-rains-disrupt-rail-traffic-on-busy-ahmedabadmumbai-corridor/article71189408.ece",
+            "title": "strict-module added to PyPI",
+            "summary": "This article discusses a Python software tool, an AST-based linter, recently renamed from 'strict-module'. It's designed to enforce specific coding practices, including Data Transfer Object (DTO) discipline and preventing certain design patterns (facade-ban). This pluggable, framework-agnostic tool aims to improve code quality and structure in Python development by ensuring adherence to set standards, benefiting developers in maintaining robust and clean codebases.",
+            "url": "https://pypi.org/project/strict-module/",
+            "category": "Sci & Tech",
+            "date": "2026-07-06T19:27:43Z"
+        },
+        {
+            "title": "China\u2019s submarine missile test signals a new era of nuclear deterrence in the Pacific",
+            "summary": "China recently conducted a live-fire demonstration of its sea-based nuclear strike capability on July 6, 2026. This significant event, involving a long-range weapon, showcases Beijing's growing military prowess. The action has rattled governments across the Indo-Pacific region and is perceived as a direct message to Washington, raising concerns about regional stability and security dynamics amidst heightened geopolitical tensions.",
+            "url": "https://cryptobriefing.com/china-submarine-missile-test-nuclear-pacific/",
+            "category": "Defence",
+            "date": "2026-07-06T19:20:19Z"
+        },
+        {
+            "title": "Heavy rain in Mumbai, Palghar disrupts Ahmedabad-Mumbai rail traffic",
+            "summary": "The provided text outlines several domestic incidents. It reports a fatal road accident where a man died after a bus collided with his cycle, leading to an FIR against the driver. Additionally, a suicide case is mentioned where a note alleged harassment, resulting in an FIR against seven individuals for abetment. Another snippet indicates a car was crushed by a ceiling collapse.",
+            "url": "https://timesofindia.indiatimes.com/city/surat/heavy-rain-in-mumbai-palghar-disrupts-ahmedabad-mumbai-rail-traffic/articleshow/132225059.cms",
             "category": "National",
-            "date": "2026-07-06T13:43:25Z"
+            "date": "2026-07-06T19:17:19Z"
         },
         {
-            "title": "China conducts rare submarine-launched ballistic missile test, angering Pacific neighbors - CNN",
-            "summary": "This article presents a standard disclaimer: individuals posting comments bear full ownership and responsibility for their content. The platform explicitly states it is not accountable for these user-generated contributions. This highlights the importance of digital responsibility and understanding platform policies, crucial for aspirants navigating online information and conduct.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184330494",
-            "category": "Sci & Tech",
-            "date": "2026-07-06T13:33:00Z"
+            "title": "Don't just assemble, innovate: The missing hero in India's smartphone success story",
+            "summary": "India has emerged as the world's second-largest mobile phone manufacturer, a significant national achievement. This growth is largely attributed to sustained government policy support, particularly the Production Linked Incentive (PLI) scheme. This rise positions India as a crucial player in global supply chain diversification amidst geopolitical tensions, enhancing its economic strength and manufacturing capabilities.",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/dont-just-assemble-innovate-the-missing-hero-in-indias-smartphone-success-story/articleshow/132224706.cms",
+            "category": "National",
+            "date": "2026-07-06T19:03:44Z"
         },
         {
-            "title": "PM Carney expected to announce today whether our new submarine manuals are printed in Korean or German [Cool]",
-            "summary": "The U.S. Navy plans to acquire 12 new submarines, a significant defense procurement project. The estimated acquisition cost alone is $24 billion, but the total expenditure will be considerably higher once lifetime maintenance and support costs are factored in. This substantial investment underscores the nation's commitment to strengthening its underwater fleet capabilities, impacting long-term defense spending and strategic interests.",
-            "url": "https://www.fark.com/comments/14121504/PM-Carney-expected-to-announce-today-whether-our-new-submarine-manuals-are-printed-in-Korean-German",
+            "title": "Why Is Lockheed Martin Acquiring Ultra Maritime?",
+            "summary": "Lockheed Martin is acquiring Ultra Maritime for $3.45 billion, a strategic move to significantly enhance its undersea warfare and anti-submarine defense capabilities. This acquisition will bolster Lockheed Martin's technological prowess in naval defense, crucial for addressing modern maritime security challenges and strengthening global defense postures. It highlights the ongoing advancements and consolidations in the defence sector to maintain a competitive edge.",
+            "url": "https://biztoc.com/x/92a55dcf46f28978",
             "category": "Defence",
-            "date": "2026-07-06T13:31:18Z"
+            "date": "2026-07-06T18:40:09Z"
         },
         {
-            "title": "Lockheed Martin to acquire Ultra Maritime for $3.45 billion",
-            "summary": "Lockheed Martin is set to acquire Ultra Maritime from Advent for $3.45 billion, a move designed to significantly bolster its undersea and anti-submarine warfare (ASW) capabilities. This acquisition highlights major consolidation within the global defence industry, crucial for strengthening naval operations and security. For SSB aspirants, it underscores the continuous evolution of defence technology and strategic capabilities.",
-            "url": "https://biztoc.com/x/97165eadc00e3bc6",
-            "category": "Defence",
-            "date": "2026-07-06T13:21:53Z"
-        },
-        {
-            "title": "gerrit-change-list added to PyPI",
-            "summary": "This describes a tool designed to recursively scan Git repositories, listing merged commits within a defined time range. It specifically uses the committer date, rather than the author date, across all found repositories. The tool also provides integration with Gerrit, offering direct patch links for detailed review, streamlining code management and tracking processes.",
-            "url": "https://pypi.org/project/gerrit-change-list/",
-            "category": "Sci & Tech",
-            "date": "2026-07-06T13:13:40Z"
+            "title": "Protecting grassland in Manas a priority: Assam forest minister Mallabaruah",
+            "summary": "Naidu has directed master plans for three economic regions, emphasizing national development. Concurrently, new projects face confusion following a post-Taratala audit order, indicating administrative hurdles. Separately, Marathwada is experiencing potential scarcity despite downpours in other parts of the state, highlighting regional weather disparities and their impact. This blend of policy, project management, and environmental concerns is crucial for national understanding.",
+            "url": "https://timesofindia.indiatimes.com/city/guwahati/protecting-grassland-in-manas-a-priority-assam-forest-minister-mallabaruah/articleshow/132223144.cms",
+            "category": "National",
+            "date": "2026-07-06T17:59:27Z"
         }
     ]
 }
