@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-07-07T02:37:49.587688+00:00",
+    "last_updated": "2026-07-07T09:32:43.835229+00:00",
     "articles": [
         {
-            "title": "CG Power , NTPC Green, Oswal Pumps, Jyoti, NBCC, Prestige Estates, Stanley Lifestyle among 15 stocks will hog limelight in Monday\u2019s trade",
-            "summary": "CG Semi Private Limited, a joint venture involving India's Murugappa Group, Renesas Electronics, and Stars Microelectronics, has been established. This strategic collaboration aims to significantly bolster India's semiconductor ecosystem. Such initiatives are crucial for national technological self-reliance and economic growth, offering key opportunities in advanced manufacturing.",
-            "url": "https://www.thehindubusinessline.com/markets/stock-markets/cg-power-ntpc-green-oswal-pumps-jyoti-nbcc-prestige-estates-stanley-lifestyle-among-15-stocks-will-hog-limelight-in-mondays-trade/article71187790.ece",
-            "category": "Sci & Tech",
-            "date": "2026-07-06T02:06:45Z"
-        },
-        {
-            "title": "Why So Lucky In Weights?",
-            "summary": "The website InTheWeights.Com rates individuals on a 0-1000 scale, assessing their recognition by Large Language Models (LLMs). The article highlights how the author received an unusually high rating, indicating a significant digital footprint and strong LLM familiarity compared to many. This platform offers a novel way to quantify one's online presence through the lens of artificial intelligence, showcasing AI's growing role in evaluating digital identities.",
-            "url": "https://www.overcomingbias.com/p/why-so-lucky-in-weights",
-            "category": "Sci & Tech",
-            "date": "2026-07-06T01:40:34Z"
-        },
-        {
-            "title": "Canada to decide between German, South Korean submarine bids on Monday",
-            "summary": "Canada is poised to select between German and South Korean bids for a monumental defence procurement: a fleet of 12 submarines. Expected Monday, this decision marks one of Canada's largest-ever military acquisitions. The choice will significantly bolster its naval capabilities and forge crucial strategic partnerships, with Germany's ThyssenKrupp Marine among the contenders.",
-            "url": "https://abcnews.com/International/wireStory/canada-decide-german-south-korean-submarine-bids-monday-134506177",
+            "title": "UK jets intercept Russian plane dropping sonic trackers",
+            "summary": "The UK Defence Ministry confirmed that British fighter jets intercepted a Russian aircraft last week in the North Atlantic. The Russian plane was reportedly deploying sonic trackers near a British aircraft carrier, prompting the intercept. This incident highlights ongoing surveillance activities and potential tensions in international waters, demonstrating the UK's readiness to protect its naval assets and maintain regional security.",
+            "url": "https://biztoc.com/x/190216cd66114b2e",
             "category": "Defence",
-            "date": "2026-07-06T01:33:05Z"
+            "date": "2026-07-06T09:29:51Z"
         },
         {
-            "title": "Canada to decide between German, South Korean submarine bids on Monday",
-            "summary": "Canada is poised to select between German and South Korean bids for a significant procurement of 12 new submarines. This multi-billion-dollar acquisition marks one of Canada's largest military investments, crucial for modernizing its naval capabilities, enhancing Arctic sovereignty, and strengthening maritime defence. The decision will impact strategic partnerships and provide substantial industrial benefits to the winning nation.",
-            "url": "https://www.yahoo.com/news/politics/articles/canada-decide-between-german-south-003317807.html",
+            "title": "China Successfully Tests Submarine-Launched Strategic Missile",
+            "summary": "China has successfully conducted a test of a submarine-launched strategic missile. This significant development, reported on July 6, 2026, marks an advancement in China's naval capabilities. For SSB aspirants, this highlights the ongoing global military modernization and the critical importance of underwater deterrence and strike power in modern defence strategies, emphasizing the evolving landscape of strategic weaponry.",
+            "url": "https://sputnikglobe.com/20260706/china-successfully-tests-submarine-launched-strategic-missile-1124403957.html",
             "category": "Defence",
-            "date": "2026-07-06T00:33:17Z"
+            "date": "2026-07-06T09:16:52Z"
+        },
+        {
+            "title": "Desperate Russian drivers brawl over petrol while Crimea is plunged into darkness as relentless Ukrainian airstrikes humiliate Putin",
+            "summary": "Russia is experiencing escalating fuel shortages, leading to widespread brawling among motorists at petrol stations. These shortages are a direct consequence of repeated Ukrainian strikes targeting Russian oil facilities. This situation underscores the internal pressures and societal impact within Russia stemming from the ongoing conflict, demonstrating how external actions directly affect domestic stability and resource availability.",
+            "url": "https://www.dailymail.com/news/article-15955745/Desperate-Russian-drivers-brawl-petrol-Crimea-plunged-darkness-relentless-Ukrainian-airstrikes-humiliate-Putin.html",
+            "category": "International",
+            "date": "2026-07-06T09:11:04Z"
+        },
+        {
+            "title": "Russian strike kills 14 around Kyiv on eve of NATO summit",
+            "summary": "On July 6, 2026, Russia launched a significant ballistic missile strike on the Ukrainian capital, Kyiv, amid the ongoing invasion. The attack demonstrates the continued military aggression and volatile security situation in the region. This incident underscores the complexities of modern warfare and geopolitical tensions, crucial for understanding current international defence scenarios.",
+            "url": "https://www.vanguardngr.com/2026/07/russian-strike-kills-14-around-kyiv-on-eve-of-nato-summit/",
+            "category": "Defence",
+            "date": "2026-07-06T09:02:58Z"
+        },
+        {
+            "title": "Germanium Mining advances exploration at Lac du Km 35 property",
+            "summary": "Germanium Mining has initiated extensive exploration surveys at its Lac du Km 35 property in Qu\u00e9bec, Canada. Following a ground-based Time Domain Electromagnetic (TDEM) survey, the company has commenced an airborne magnetic survey. These activities are crucial for identifying potential mineral deposits and assessing the property's geological composition, marking a significant step in resource development in the region.",
+            "url": "https://biztoc.com/x/9b1288912dec6b5e",
+            "category": "International",
+            "date": "2026-07-06T08:59:31Z"
+        },
+        {
+            "title": "Russia, China Test Drone and Counter-Drone Tactics in Joint Exercise",
+            "summary": "Russia and China recently conducted a joint military exercise, focusing on the development and testing of advanced drone and counter-drone tactics. This collaborative effort underscores the growing importance of unmanned aerial systems in modern warfare and aims to enhance both nations' capabilities in operating and defending against drone technology. Such joint drills are vital for strengthening strategic partnerships and interoperability.",
+            "url": "https://sputnikglobe.com/20260706/russia-china-test-drone-and-counter-drone-tactics-in-joint-exercise-1124403794.html",
+            "category": "Defence",
+            "date": "2026-07-06T08:50:41Z"
+        },
+        {
+            "title": "Asia-Pacific Artificial Intelligence (AI) Optimised Data Center - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2025-2030)",
+            "summary": "A new report forecasts substantial growth for Artificial Intelligence (AI) optimised data centers across the Asia-Pacific region from 2025-2030. This market analysis details industry trends, statistics, and growth projections, highlighting the increasing infrastructure demands for advanced AI applications. For an SSB aspirant, understanding this technological expansion is key to grasping future regional capabilities and digital infrastructure development.",
+            "url": "https://www.globenewswire.com/news-release/2026/07/06/3322217/28124/en/Asia-Pacific-Artificial-Intelligence-AI-Optimised-Data-Center-Market-Share-Analysis-Industry-Trends-Statistics-Growth-Forecasts-2025-2030.html",
+            "category": "Sci & Tech",
+            "date": "2026-07-06T08:38:00Z"
+        },
+        {
+            "title": "Indian diaspora in Indonesia anticipates boost in tech, healthcare ties during PM Modi's visit",
+            "summary": "Prime Minister Narendra Modi embarks on a three-day official visit to Indonesia starting today. The visit aims to review and strengthen bilateral ties, deepening the comprehensive strategic partnership between India and Indonesia. Key discussions will focus on enhancing cooperation across diverse sectors like trade, defence, and regional security, fostering closer collaboration between the two nations.",
+            "url": "https://economictimes.indiatimes.com/news/india/indian-diaspora-in-indonesia-anticipates-boost-in-tech-healthcare-ties-during-pm-modis-visit/articleshow/132206657.cms",
+            "category": "International",
+            "date": "2026-07-06T07:53:28Z"
+        },
+        {
+            "title": "China conducts rare submarine-launched ballistic missile test, angering Pacific neighbors",
+            "summary": "The article details website consent mechanisms, explaining that clicking 'Accept all' allows the site and 249 partners under the IAB Transparency & Consent Framework to store and access device information. This highlights the importance for SSB aspirants to be aware of digital privacy implications and informed consent regarding data sharing online.",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_32bc5cd1-3fc1-4e12-9cfe-7468cb875959",
+            "category": "Sci & Tech",
+            "date": "2026-07-06T07:35:17Z"
         }
     ]
 }
