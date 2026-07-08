@@ -1,54 +1,40 @@
 {
-    "last_updated": "2026-07-07T19:47:37.454313+00:00",
+    "last_updated": "2026-07-08T02:11:13.469294+00:00",
     "articles": [
         {
-            "title": "From Indonesia to Australia to New Zealand, PM Modi charts India's Indo-Pacific arc",
-            "summary": "In an 'atomized world,' nations prioritize self-interest. India faces critical geopolitical challenges, notably China's strategic efforts to tighten its grip around the nation. Pakistan is also engaged in multi-faceted activities, further complicating regional security. This dynamic necessitates India's constant vigilance and strategic preparedness in navigating complex international relations and potential threats.",
-            "url": "https://economictimes.indiatimes.com/news/india/from-indonesia-to-australia-to-new-zealand-pm-modi-charts-indias-indo-pacific-arc/articleshow/132225114.cms",
-            "category": "International",
-            "date": "2026-07-06T19:28:34Z"
+            "title": "US voices concern over China's intercontinental range missile test",
+            "summary": "The US expressed strong concern over China's recent test launch of a nuclear-capable missile, viewing it as a destabilizing act. Washington simultaneously reassured its allies of its unwavering defense commitments, especially in the Indo-Pacific. This incident underscores rising geopolitical tensions and the ongoing strategic competition between the two powers, impacting regional security dynamics and highlighting the arms race.",
+            "url": "https://economictimes.indiatimes.com/news/defence/us-voices-concern-over-chinas-intercontinental-range-missile-test/articleshow/132228464.cms",
+            "category": "Defence",
+            "date": "2026-07-07T02:05:11Z"
         },
         {
-            "title": "strict-module added to PyPI",
-            "summary": "This article discusses a Python software tool, an AST-based linter, recently renamed from 'strict-module'. It's designed to enforce specific coding practices, including Data Transfer Object (DTO) discipline and preventing certain design patterns (facade-ban). This pluggable, framework-agnostic tool aims to improve code quality and structure in Python development by ensuring adherence to set standards, benefiting developers in maintaining robust and clean codebases.",
-            "url": "https://pypi.org/project/strict-module/",
+            "title": "Morinaga Milk Achieves Self-Affirmed GRAS Status for LAC-Living+\u2122, Expanding U.S. Opportunities for Its Postbiotic Ingredient",
+            "summary": "The provided article content is reserved exclusively for subscribers, meaning no specific news details are accessible for summarization. Therefore, a concise summary of the actual news or its relevance for SSB aspirants cannot be generated from the given text, which only indicates subscription details.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/morinaga-milk-achieves-self-affirmed-gras-status-for-lac-living-expanding-u-s-opportunities-for-its-postbiotic-ingredient",
+            "category": "National",
+            "date": "2026-07-07T02:00:11Z"
+        },
+        {
+            "title": "Skyroot Aerospace: building the Uber for space, one launch at a time",
+            "summary": "Mission Aagaman, a rocket launch by Skyroot Aerospace, marks a historic milestone as India's first private space mission. Set for liftoff post-July 12th, it signifies the burgeoning private sector's role in space exploration. This initiative underscores India's growing scientific and technological prowess, fostering indigenous innovation and contributing to national self-reliance in advanced domains.",
+            "url": "https://www.livemint.com/companies/people/skyroot-aerospace-building-the-uber-for-space-mission-aagaman-vikram-1-test-flight-11783332303149.html",
             "category": "Sci & Tech",
-            "date": "2026-07-06T19:27:43Z"
+            "date": "2026-07-07T00:30:34Z"
         },
         {
-            "title": "China\u2019s submarine missile test signals a new era of nuclear deterrence in the Pacific",
-            "summary": "China recently conducted a live-fire demonstration of its sea-based nuclear strike capability on July 6, 2026. This significant event, involving a long-range weapon, showcases Beijing's growing military prowess. The action has rattled governments across the Indo-Pacific region and is perceived as a direct message to Washington, raising concerns about regional stability and security dynamics amidst heightened geopolitical tensions.",
-            "url": "https://cryptobriefing.com/china-submarine-missile-test-nuclear-pacific/",
+            "title": "Chinese nuclear capable missile appears to land close to Nauru, Tuvalu",
+            "summary": "China recently conducted a significant test-firing of a nuclear-capable missile from a submarine, showcasing its advanced naval capabilities. The missile's trajectory reportedly crossed multiple Pacific nations before impacting waters near Tuvalu's Exclusive Economic Zone. This demonstration highlights China's expanding strategic reach and military power, raising regional security implications and underscoring its role in international defence dynamics.",
+            "url": "https://www.abc.net.au/news/2026-07-07/china-missile-nuclear-pacific-naura-tuvalu/106887324",
             "category": "Defence",
-            "date": "2026-07-06T19:20:19Z"
+            "date": "2026-07-06T22:40:04Z"
         },
         {
-            "title": "Heavy rain in Mumbai, Palghar disrupts Ahmedabad-Mumbai rail traffic",
-            "summary": "The provided text outlines several domestic incidents. It reports a fatal road accident where a man died after a bus collided with his cycle, leading to an FIR against the driver. Additionally, a suicide case is mentioned where a note alleged harassment, resulting in an FIR against seven individuals for abetment. Another snippet indicates a car was crushed by a ceiling collapse.",
-            "url": "https://timesofindia.indiatimes.com/city/surat/heavy-rain-in-mumbai-palghar-disrupts-ahmedabad-mumbai-rail-traffic/articleshow/132225059.cms",
-            "category": "National",
-            "date": "2026-07-06T19:17:19Z"
-        },
-        {
-            "title": "Don't just assemble, innovate: The missing hero in India's smartphone success story",
-            "summary": "India has emerged as the world's second-largest mobile phone manufacturer, a significant national achievement. This growth is largely attributed to sustained government policy support, particularly the Production Linked Incentive (PLI) scheme. This rise positions India as a crucial player in global supply chain diversification amidst geopolitical tensions, enhancing its economic strength and manufacturing capabilities.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/dont-just-assemble-innovate-the-missing-hero-in-indias-smartphone-success-story/articleshow/132224706.cms",
-            "category": "National",
-            "date": "2026-07-06T19:03:44Z"
-        },
-        {
-            "title": "Why Is Lockheed Martin Acquiring Ultra Maritime?",
-            "summary": "Lockheed Martin is acquiring Ultra Maritime for $3.45 billion, a strategic move to significantly enhance its undersea warfare and anti-submarine defense capabilities. This acquisition will bolster Lockheed Martin's technological prowess in naval defense, crucial for addressing modern maritime security challenges and strengthening global defense postures. It highlights the ongoing advancements and consolidations in the defence sector to maintain a competitive edge.",
-            "url": "https://biztoc.com/x/92a55dcf46f28978",
-            "category": "Defence",
-            "date": "2026-07-06T18:40:09Z"
-        },
-        {
-            "title": "Protecting grassland in Manas a priority: Assam forest minister Mallabaruah",
-            "summary": "Naidu has directed master plans for three economic regions, emphasizing national development. Concurrently, new projects face confusion following a post-Taratala audit order, indicating administrative hurdles. Separately, Marathwada is experiencing potential scarcity despite downpours in other parts of the state, highlighting regional weather disparities and their impact. This blend of policy, project management, and environmental concerns is crucial for national understanding.",
-            "url": "https://timesofindia.indiatimes.com/city/guwahati/protecting-grassland-in-manas-a-priority-assam-forest-minister-mallabaruah/articleshow/132223144.cms",
-            "category": "National",
-            "date": "2026-07-06T17:59:27Z"
+            "title": "What to Expect at the 2026 NATO Summit",
+            "summary": "This global brief covers major international issues, including key discussions on NATO's agenda concerning collective security. It reports China's test-firing of a ballistic missile, signifying advancements in defence capabilities and potential regional impact. The brief also notes the funeral procession for former Iranian Supreme Leader Ayatollah Ali, a significant political event with wider geopolitical implications.",
+            "url": "http://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine/",
+            "category": "International",
+            "date": "2026-07-06T21:36:54Z"
         }
     ]
 }
