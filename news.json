@@ -1,26 +1,47 @@
 {
-    "last_updated": "2026-07-09T02:29:30.809784+00:00",
+    "last_updated": "2026-07-09T09:39:10.657047+00:00",
     "articles": [
         {
+            "title": "Scientists discover 73 volcanoes hidden across the ocean floor - and several could erupt at any moment",
+            "summary": "Scientists have discovered 73 previously unknown volcanoes hidden across the ocean floors. This breakthrough was achieved using an algorithm originally designed for identifying impact craters on Mars, demonstrating innovative applications of technology. The discovery significantly enhances our understanding of Earth's underwater geology and volcanic activity, underscoring the power of cross-disciplinary scientific research in revealing planetary secrets.",
+            "url": "https://www.dailymail.com/sciencetech/article-15961487/Scientists-discover-volcanoes-hidden-ocean.html",
+            "category": "Sci & Tech",
+            "date": "2026-07-08T09:31:26Z"
+        },
+        {
+            "title": "KPop Demon Hunters HUNTR/X Mira in The Daily LITG, 8th July 2026",
+            "summary": "The article highlights that 'KPop Demon Hunters HUNTR/X Mira' was the most-read story on Bleeding Cool, an entertainment news site, reflecting its consistent popularity. This demonstrates the strong global interest in K-Pop culture and fantasy-themed content. For SSB aspirants, this notes the widespread appeal of international media, indicating cultural trends that influence diverse audiences worldwide.",
+            "url": "https://bleedingcool.com/collectibles/kpop-demon-hunters-huntr-x-mira-in-the-daily-litg-8th-july-2026/",
+            "category": "International",
+            "date": "2026-07-08T09:19:10Z"
+        },
+        {
+            "title": "Why is Canada spending tens of billions on new submarines?",
+            "summary": "Canada is poised to spend tens of billions on a significant defence contract with German shipbuilder ThyssenKrupp Marine Systems (TKMS). The deal aims to replace Canada's aging submarine fleet with up to twelve new vessels. This massive procurement underscores Canada's strategic effort to modernize its naval capabilities, enhance maritime security, and project power, marking a crucial step in its long-term defence strategy.",
+            "url": "https://www.cbc.ca/news/politics/tkms-canada-submarine-navy-contract-explained-9.7261980",
+            "category": "Defence",
+            "date": "2026-07-08T08:00:00Z"
+        },
+        {
+            "title": "Somali Pirates Are Back \u2014 But the Coalition That Beat Them Isn\u2019t Coming",
+            "summary": "Recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that maritime security threats can resurface rapidly. This underscores the critical need for sustained vigilance and robust international naval efforts. For SSB aspirants, it highlights the indispensable role of defence forces in safeguarding global shipping lanes and protecting trade interests.",
+            "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
+            "category": "Defence",
+            "date": "2026-07-08T07:30:07Z"
+        },
+        {
+            "title": "Russia tries to jam Musk's Starlink systems to counter Ukrainian drones",
+            "summary": "Russian forces in Ukraine's Zaporizhzhia Region are actively countering Ukrainian 'mid-strike' drone attacks. They are implementing new strategies, including camouflaging military cargoes to enhance concealment and installing powerful electronic jamming systems to disrupt drone communications and operations. This ongoing adaptation highlights the evolving nature of modern warfare, with both sides developing advanced tactics and technologies to gain an advantage against drone threats on the battlefield.",
+            "url": "https://www.yahoo.com/news/world/articles/russia-tries-jam-musks-starlink-063520831.html",
+            "category": "Defence",
+            "date": "2026-07-08T06:35:20Z"
+        },
+        {
             "title": "FDI inflows to India jumped 44% in 2025; but greenfield investment suffered: UN",
-            "summary": "India significantly boosted its foreign direct investment (FDI) in 2025, attracting $39 billion. This represents a substantial 44% increase compared to the previous year, as highlighted by the 2026 World Investment Report. This robust FDI inflow indicates growing international investor confidence in India's economy, contributing to national growth and development, crucial for an aspiring global power.",
+            "summary": "India's Foreign Direct Investment (FDI) saw a significant surge, attracting $39 billion in 2025, a substantial 44% increase over the previous year. This positive trend, highlighted by the 2026 World Investment Report, demonstrates growing global confidence in India's economy. Such economic growth is crucial for national development and job creation, offering vital insights for future leaders and policymakers.",
             "url": "https://www.news9live.com/business/biz-news/fdi-inflows-to-india-jumped-44-in-2025-but-greenfield-investment-suffered-un-2987098",
             "category": "National",
             "date": "2026-07-08T01:45:41Z"
-        },
-        {
-            "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, July 08, 2026",
-            "summary": "The Morning Report, presented by Renil S. Varghese, offers a concise and insightful briefing on the day's top stories impacting the business world. Designed to be fast and to-the-point, it provides a quick dive into key economic developments and market trends. This daily update helps listeners stay informed on crucial business news, with audio content available.",
-            "url": "https://www.thehindubusinessline.com/multimedia/audio/top-business-amp-market-headlines-today-bl-morning-report-july-08-2026/article71194719.ece",
-            "category": "National",
-            "date": "2026-07-07T20:34:05Z"
-        },
-        {
-            "title": "Komatireddy launches \u20b9338 cr road projects",
-            "summary": "Recent headlines highlight unfolding celebrity controversies. Graham Platner reportedly addressed serious allegations made by Jenny Racicot, leading to his public declaration of withdrawal. Simultaneously, details regarding Taylor Swift's wedding reception have generated considerable public discussion and negative buzz online. The news revolves around personal allegations and event mishaps involving prominent figures, drawing significant media and public attention.",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/komatireddy-launches-338-cr-road-projects/articleshow/132246088.cms",
-            "category": "National",
-            "date": "2026-07-07T18:32:40Z"
         }
     ]
 }
