@@ -1,47 +1,61 @@
 {
-    "last_updated": "2026-07-09T09:39:10.657047+00:00",
+    "last_updated": "2026-07-09T14:46:18.599427+00:00",
     "articles": [
         {
-            "title": "Scientists discover 73 volcanoes hidden across the ocean floor - and several could erupt at any moment",
-            "summary": "Scientists have discovered 73 previously unknown volcanoes hidden across the ocean floors. This breakthrough was achieved using an algorithm originally designed for identifying impact craters on Mars, demonstrating innovative applications of technology. The discovery significantly enhances our understanding of Earth's underwater geology and volcanic activity, underscoring the power of cross-disciplinary scientific research in revealing planetary secrets.",
-            "url": "https://www.dailymail.com/sciencetech/article-15961487/Scientists-discover-volcanoes-hidden-ocean.html",
+            "title": "Windows Research Kernel (WRK) \u5185\u5b58\u7ba1\u7406\u5668\u5b8c\u6574\u5206\u6790",
+            "summary": "The provided text is not a news article but a technical snippet referencing Windows Server 2003 and its internal memory management, including x86 Page Table Entries (PTE). It appears to detail system phases and views within a base ntos/mm component. This highly specific information pertains to operating system architecture.",
+            "url": "https://blog.csdn.net/caimouse/article/details/162706856",
             "category": "Sci & Tech",
-            "date": "2026-07-08T09:31:26Z"
+            "date": "2026-07-08T14:31:46Z"
         },
         {
-            "title": "KPop Demon Hunters HUNTR/X Mira in The Daily LITG, 8th July 2026",
-            "summary": "The article highlights that 'KPop Demon Hunters HUNTR/X Mira' was the most-read story on Bleeding Cool, an entertainment news site, reflecting its consistent popularity. This demonstrates the strong global interest in K-Pop culture and fantasy-themed content. For SSB aspirants, this notes the widespread appeal of international media, indicating cultural trends that influence diverse audiences worldwide.",
-            "url": "https://bleedingcool.com/collectibles/kpop-demon-hunters-huntr-x-mira-in-the-daily-litg-8th-july-2026/",
-            "category": "International",
-            "date": "2026-07-08T09:19:10Z"
-        },
-        {
-            "title": "Why is Canada spending tens of billions on new submarines?",
-            "summary": "Canada is poised to spend tens of billions on a significant defence contract with German shipbuilder ThyssenKrupp Marine Systems (TKMS). The deal aims to replace Canada's aging submarine fleet with up to twelve new vessels. This massive procurement underscores Canada's strategic effort to modernize its naval capabilities, enhance maritime security, and project power, marking a crucial step in its long-term defence strategy.",
-            "url": "https://www.cbc.ca/news/politics/tkms-canada-submarine-navy-contract-explained-9.7261980",
+            "title": "DRDO successfully flight-tests Pinaka guided rockets with enhanced 60 km range",
+            "summary": "DRDO successfully conducted a flight-test of the Pinaka Long Range Guided Rocket (LRGR), a significant step towards bolstering India's firepower capabilities. This development enhances the nation's indigenous missile technology and strengthens its strategic arsenal. The successful test reinforces national security through advanced weaponry, showcasing ongoing defence research and development efforts.",
+            "url": "https://www.thehindubusinessline.com/news/drdo-successfully-flight-tests-pinaka-guided-rockets-with-enhanced-60-km-range/article71198823.ece",
             "category": "Defence",
-            "date": "2026-07-08T08:00:00Z"
+            "date": "2026-07-08T14:30:19Z"
         },
         {
-            "title": "Somali Pirates Are Back \u2014 But the Coalition That Beat Them Isn\u2019t Coming",
-            "summary": "Recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that maritime security threats can resurface rapidly. This underscores the critical need for sustained vigilance and robust international naval efforts. For SSB aspirants, it highlights the indispensable role of defence forces in safeguarding global shipping lanes and protecting trade interests.",
-            "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
+            "title": "JS Takanami conducts PASSEX with INS Surat off Mumbai coast",
+            "summary": "The Japan Maritime Self Defence Force (JMSDF) warship JS Takanami (DD-110) conducted joint naval activities with an Indian Navy warship near Mumbai. This collaboration highlights growing defence cooperation and maritime partnership between India and Japan. For SSB aspirants, such exercises are crucial for understanding international naval interoperability and strategic alliances in safeguarding maritime interests.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/js-takanami-conducts-passex-with-ins-surat-off-mumbai-coast/articleshow/132266090.cms",
             "category": "Defence",
-            "date": "2026-07-08T07:30:07Z"
+            "date": "2026-07-08T14:27:53Z"
         },
         {
-            "title": "Russia tries to jam Musk's Starlink systems to counter Ukrainian drones",
-            "summary": "Russian forces in Ukraine's Zaporizhzhia Region are actively countering Ukrainian 'mid-strike' drone attacks. They are implementing new strategies, including camouflaging military cargoes to enhance concealment and installing powerful electronic jamming systems to disrupt drone communications and operations. This ongoing adaptation highlights the evolving nature of modern warfare, with both sides developing advanced tactics and technologies to gain an advantage against drone threats on the battlefield.",
-            "url": "https://www.yahoo.com/news/world/articles/russia-tries-jam-musks-starlink-063520831.html",
+            "title": "India planning upgrade of Russian-made armor \u2013 media",
+            "summary": "India is reportedly planning a significant $7.85 billion upgrade for its Russian-made tanks and armored vehicles, according to army sources. This ambitious modernization drive aims to enhance the operational capabilities and extend the life-cycle of crucial ground force assets. Such investment underscores India's commitment to bolstering its defence preparedness and ensuring its military remains combat-ready against evolving security challenges.",
+            "url": "https://www.rt.com/india/642742-india-upgrade-russian-tanks/",
             "category": "Defence",
-            "date": "2026-07-08T06:35:20Z"
+            "date": "2026-07-08T14:23:51Z"
         },
         {
-            "title": "FDI inflows to India jumped 44% in 2025; but greenfield investment suffered: UN",
-            "summary": "India's Foreign Direct Investment (FDI) saw a significant surge, attracting $39 billion in 2025, a substantial 44% increase over the previous year. This positive trend, highlighted by the 2026 World Investment Report, demonstrates growing global confidence in India's economy. Such economic growth is crucial for national development and job creation, offering vital insights for future leaders and policymakers.",
-            "url": "https://www.news9live.com/business/biz-news/fdi-inflows-to-india-jumped-44-in-2025-but-greenfield-investment-suffered-un-2987098",
-            "category": "National",
-            "date": "2026-07-08T01:45:41Z"
+            "title": "ISRO successfully tests Gaganyaan crew module's main parachute",
+            "summary": "ISRO successfully conducted a critical test on the main parachutes for India's Gaganyaan crew module. This crucial milestone, performed at the Aerial Delivery Research and Development Establishment (ADRDE) in Agra, demonstrated the parachute system's capability for a safe landing. The test validates key technology for the human spaceflight mission, ensuring the crew's secure return to Earth, marking a significant step for India's ambitious space program.",
+            "url": "https://economictimes.indiatimes.com/news/science/isro-successfully-tests-gaganyaan-crew-modules-main-parachute/articleshow/132265611.cms",
+            "category": "Sci & Tech",
+            "date": "2026-07-08T14:00:37Z"
+        },
+        {
+            "title": "UBS Lifts Price Target on Halliburton (HAL), Reaffirms Neutral Rating",
+            "summary": "The provided text details a user consent process, explaining that clicking 'Accept all' allows a website and its numerous partners, operating under the IAB Transparency & Consent Framework, to store and access information on the user's device. This process is fundamental to understanding online data privacy and the mechanisms governing personal information sharing on digital platforms.",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2cd6fd42-97fa-41fc-9830-58dcc2ce7df9",
+            "category": "Sci & Tech",
+            "date": "2026-07-08T13:09:14Z"
+        },
+        {
+            "title": "Denmark Confirms Plan to Purchase P-8 Poseidon Maritime Patrol Aircraft",
+            "summary": "Denmark's Ministry of Defence provisionally decided to acquire two P-8A maritime patrol aircraft, following a Chief of Defence recommendation. This strategic move significantly bolsters Denmark's defence capabilities, particularly for anti-submarine warfare and reconnaissance. The P-8A acquisition enhances national maritime security and interoperability, reflecting Denmark's commitment to modernising its armed forces.",
+            "url": "https://theaviationist.com/2026/07/08/denmark-p8-poseidon-buy/",
+            "category": "Defence",
+            "date": "2026-07-08T13:05:06Z"
+        },
+        {
+            "title": "RDO conducts successful flight-test of Pinaka Long Range Guided Rocket",
+            "summary": "The Defence Research & Development Organisation (DRDO) successfully conducted a flight-test of the Pinaka multi-barrel rocket launcher system on July 8, 2026. This achievement, under the Ministry of Defence, signifies India's continuous advancement in indigenous defence capabilities. Such tests are crucial for validating system upgrades, enhancing accuracy and range, and strengthening national security and self-reliance in critical weaponry.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260708-india-pib01.htm",
+            "category": "Defence",
+            "date": "2026-07-08T12:00:00Z"
         }
     ]
 }
