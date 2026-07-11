@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-07-11T13:07:04.883747+00:00",
+    "last_updated": "2026-07-11T18:54:17.861862+00:00",
     "articles": [
         {
-            "title": "10 Most Powerful DC Lantern Characters That Aren\u2019t Green Lanterns",
-            "summary": "DC Comics' Green Lantern is a foundational superhero mantle with a nearly century-long legacy, originating with Alan Scott. The character represents a rich history within the comic book universe, evolving through various iterations and becoming one of DC's most iconic figures, known for its powerful, often technologically-derived, abilities.",
-            "url": "http://comicbook.com/comics/list/10-most-powerful-dc-lantern-characters-that-arent-green-lanterns/",
+            "title": "President Prabowo refuses to sell state defense industries",
+            "summary": "Indonesian President Prabowo Subianto revealed he blocked past attempts to sell strategic domestic defense industries. He stressed a strong local defense sector is crucial for national sovereignty, economic independence, and job creation. Subianto is committed to bolstering Indonesia's defense capabilities by prioritizing domestic production, reducing foreign reliance, and resisting calls to import over local manufacturing.",
+            "url": "https://en.antaranews.com/news/422216/president-prabowo-refuses-to-sell-state-defense-industries",
+            "category": "Defence",
+            "date": "2026-07-10T18:50:59Z"
+        },
+        {
+            "title": "Navy Ranks: A Complete Guide to Enlisted and Officer Ranks",
+            "summary": "Enlisted sailors are foundational to the U.S. Navy, performing vital daily tasks essential for maintaining fleet mission readiness. They undergo training in a wide array of specialties, such as engineering, enabling them to execute critical operations. This emphasis on skilled personnel underscores the importance of human capital in ensuring naval effectiveness and operational preparedness for national defence.",
+            "url": "https://military.com/navy/ranks",
+            "category": "Defence",
+            "date": "2026-07-10T18:48:11Z"
+        },
+        {
+            "title": "isodistrreg added to PyPI",
+            "summary": "This article details Python bindings for Isotonic Distributional Regression (IDR) and Survival-IDR (S-IDR). Built with PyO3 and maturin, these tools empower advanced statistical modeling and data analysis, particularly for predictive analytics, forecasting, and survival analysis. This development highlights ongoing advancements in scientific computing and open-source software, making complex analytical techniques more accessible for various applications.",
+            "url": "https://pypi.org/project/isodistrreg/",
             "category": "Sci & Tech",
-            "date": "2026-07-10T13:00:00Z"
-        },
-        {
-            "title": "Legendary Hip-Hop Icon Tone Loc Returns With New Animated Social Media Project",
-            "summary": "Legendary rapper and actor Tone Loc is set to debut his first solo animation project, specifically designed for social media release. This new venture marks a significant digital step for the entertainment pioneer, reflecting current trends in content distribution. The announcement, originating from Los Angeles, underscores the continuous evolution of media platforms and celebrity engagement.",
-            "url": "https://www.prnewswire.com/news-releases/legendary-hip-hop-icon-tone-loc-returns-with-new-animated-social-media-project-302822368.html",
-            "category": "International",
-            "date": "2026-07-10T12:51:00Z"
-        },
-        {
-            "title": "From powerboat records to a $1bn war chest: meet Europe\u2019s newest defence unicorn",
-            "summary": "The Royal Navy successfully air-dropped an uncrewed surface vessel (USV) from a transport plane at 1,300 feet, showcasing a significant new rapid deployment capability. This feat propelled Kraken Technology Group, the British maker of the USV, to become Europe's newest defence 'unicorn'. This highlights crucial advancements and investment in robotic naval technology, vital for modern defence strategies and future operational readiness.",
-            "url": "https://thenextweb.com/news/kraken-technology-maritime-defence-unicorn-series-b/",
-            "category": "Defence",
-            "date": "2026-07-10T12:47:08Z"
-        },
-        {
-            "title": "Socialists want to turn AI into a $7B slush fund - realists know that would throw America\u2019s greatest assets away",
-            "summary": "This article highlights a contentious debate within the United States regarding Artificial Intelligence's future. It criticizes proposals to manage AI, possibly through a $7 billion fund, labeling it a 'slush fund.' 'Realists' reportedly warn that such 'socialist' approaches could jeopardize America's crucial technological assets, underscoring a significant national conflict over AI's strategic importance and economic governance.",
-            "url": "https://freerepublic.com/focus/f-chat/4387410/posts",
-            "category": "National",
-            "date": "2026-07-10T11:40:31Z"
-        },
-        {
-            "title": "Missile test showcases sensitive Chinese submarine capabilities key to nuclear deterrent",
-            "summary": "China recently conducted a significant submarine-fired ballistic missile test into the Southern Pacific. This crucial military exercise provided its leadership with an invaluable opportunity to examine highly complex and sensitive naval operations. Such tests are vital for refining strategic deterrence capabilities and ensuring operational readiness, highlighting advancements in their underwater launch technology and command structures.",
-            "url": "https://economictimes.indiatimes.com/news/defence/missile-test-showcases-sensitive-chinese-submarine-capabilities-key-to-nuclear-deterrent/articleshow/132308369.cms",
-            "category": "Defence",
-            "date": "2026-07-10T09:28:45Z"
+            "date": "2026-07-10T18:31:09Z"
         }
     ]
 }
