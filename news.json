@@ -1,47 +1,68 @@
 {
-    "last_updated": "2026-07-13T02:14:05.526471+00:00",
+    "last_updated": "2026-07-13T08:58:30.689660+00:00",
     "articles": [
         {
-            "title": "China ballistic missile test pushes case for Pacific security pact",
-            "summary": "Pacific Minister Pat Conroy stated that China's recent test launch of a nuclear-capable missile into the Pacific significantly damaged its regional standing. He argued this action has inadvertently strengthened the imperative for a robust regional security pact among nations. The incident raises concerns about escalating military activities and underscores the need for collective defence strategies in the Indo-Pacific.",
-            "url": "https://www.abc.net.au/news/2026-07-12/china-nuclear-missile-test-pacific-security-agreement-/106906662",
-            "category": "Defence",
-            "date": "2026-07-12T01:58:21Z"
-        },
-        {
-            "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-            "summary": "This article provides weekend entertainment recommendations, highlighting diverse content from platforms like Disney, Prime Video, and MGM. Suggestions include futuristic sci-fi action featuring cyborg ninja assassins, intense crime dramas involving rival gangs, and epic fantasy narratives about powerful gods. It serves as a brief guide for leisure viewing choices.",
-            "url": "https://www.forbes.com/sites/erikkain/2026/07/11/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-            "category": "Sci & Tech",
-            "date": "2026-07-12T01:15:47Z"
-        },
-        {
-            "title": "Wally Funk, Aviation Pioneer and Oldest Woman to Travel to Space, Dies at 87",
-            "summary": "Wally Funk, the aviation pioneer and oldest woman to journey into space, passed away at 87. A remarkable trailblazer, Funk was part of the 1960s Mercury 13 program, though gender discrimination prevented her from flying then. Decades later, at 82, she finally realized her lifelong dream aboard Blue Origin's New Shepard in 2021, inspiring countless individuals with her unwavering perseverance and breaking barriers in space exploration.",
-            "url": "https://www.universetoday.com/articles/wally-funk-aviation-pioneer-and-oldest-woman-to-travel-to-space-dies-at-87",
-            "category": "Sci & Tech",
-            "date": "2026-07-11T23:14:14Z"
-        },
-        {
-            "title": "The Vampire Lestat: Teaser For Sunday's Penultimate Episode Released; New Posters Spotlight Akasha & Marius",
-            "summary": "The latest episode of \"The Vampire Lestat\" officially introduced two immensely powerful vampires, Marius (Christopher Heyerdahl) and another key figure, to viewers. After being frequently mentioned, their on-screen debut significantly deepens the series' exploration of its rich mythological world and established power hierarchy, bringing central characters from the acclaimed literary source material to life.",
-            "url": "https://comicbookmovie.com/tv/amc/the-vampire-lestat-teaser-for-sundays-penultimate-episode-released-new-posters-spotlight-akasha-marius-a228750",
-            "category": "International",
-            "date": "2026-07-11T16:37:10Z"
-        },
-        {
-            "title": "India becoming major railway products manufacturer and exporter: Ashwini Vaishnaw",
-            "summary": "Union Railways Minister Ashwini Vaishnaw visited the Medha Bogies Factory in Hyderabad, engaging with engineers and manufacturing teams. This interaction underscores the government's commitment to strengthening indigenous production capabilities in the railway sector. Such visits are vital for evaluating progress and fostering innovation in domestic manufacturing of critical railway components, aligning with national 'Make in India' initiatives for self-reliance and infrastructure development.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/railways/india-becoming-major-railway-products-manufacturer-and-exporter-ashwini-vaishnaw/articleshow/132332824.cms",
+            "title": "DU PG admission 2026: Delhi University revises third round admission schedule, seat acceptance ends July 13",
+            "summary": "Delhi University has revised the third round admission schedule for its PG courses for 2026. Aspiring postgraduates need to note that the deadline for seat acceptance in this round is now July 13. This update is crucial for candidates seeking admission to various postgraduate programs at DU, ensuring they meet the updated timeline for securing their spots in one of the nation's premier institutions.",
+            "url": "https://timesofindia.indiatimes.com/education/news/du-pg-admission-2026-delhi-university-revises-third-round-admission-schedule-seat-acceptance-ends-july-13/articleshow/132342996.cms",
             "category": "National",
-            "date": "2026-07-11T14:34:10Z"
+            "date": "2026-07-12T08:42:08Z"
         },
         {
-            "title": "Future wars will still be won by resolve and soldiers, not just AI: Defence Minister Rajnath Singh",
-            "summary": "Defence Minister Rajnath Singh, speaking in Visakhapatnam, stressed that while Artificial Intelligence may impact future conflicts, ultimate victory will hinge on national resolve, trained soldiers, and robust military power. He underscored the enduring importance of human courage and strategic strength over technological advancements alone, serving as a crucial insight for aspiring defence personnel.",
-            "url": "https://economictimes.indiatimes.com/news/defence/future-wars-will-still-be-won-by-resolve-and-soldiers-not-just-ai-defence-minister-rajnath-singh/articleshow/132325630.cms",
+            "title": "Astra Mark 2 Missile Production: India Invites Private Sector Firms for Large-Scale Manufacturing to Meet Export Demand \u2014 TrendKia",
+            "summary": "India is significantly boosting its defence exports, aiming for new heights in global arms trade. Recent agreements, particularly the sale of advanced BrahMos and Astra missile systems to Indonesia, highlight India's growing capabilities as a defence manufacturer and exporter. This strategic push signifies India's evolving role in the international defence market, moving beyond just an importer.",
+            "url": "https://trendkia.com/en/business/astra-mark-2-missile-production-india-invites-private-sector-firms-for-large-scale-manufacturing-to-meet-export-demand-7037",
             "category": "Defence",
-            "date": "2026-07-11T06:08:06Z"
+            "date": "2026-07-12T08:38:36Z"
+        },
+        {
+            "title": "arvak 2.2.0",
+            "summary": "A required website component failed to load, potentially due to browser extensions, network issues, or user browser settings. Aspirants encountering such technical glitches are advised to check their internet connection, disable any active ad blockers, or try using an alternative browser to resolve the display problem and access content effectively.",
+            "url": "https://pypi.org/project/arvak/2.2.0/",
+            "category": "Sci & Tech",
+            "date": "2026-07-12T07:36:55Z"
+        },
+        {
+            "title": "Study Links Common Food Preservatives to Higher Cardiovascular Risk",
+            "summary": "A significant eight-year study, published in the European Heart Journal, tracked the dietary additive intake among 112,395 French adults. Researchers conducted this extensive analysis to understand the long-term effects of various food additives on public health. The study aims to provide critical insights into consumption patterns and potential health implications for a large population group.",
+            "url": "https://www.naturalnews.com/2026-07-12-study-common-food-preservatives-higher-cardiovascular-risk.html",
+            "category": "Sci & Tech",
+            "date": "2026-07-12T06:00:00Z"
+        },
+        {
+            "title": "China\u2019s submarine missile test raises regional security concerns",
+            "summary": "China publicly demonstrated its first nuclear missile launch from a submarine, a significant advancement in strategic military capabilities. The test, involving a JL-3 missile, enhances China's second-strike capacity and expanding naval power. This development holds crucial implications for global power balance and regional security dynamics, vital for defence aspirants to comprehend.",
+            "url": "https://cryptobriefing.com/chinas-submarine-missile-test-raises-regional-security-concerns/",
+            "category": "Defence",
+            "date": "2026-07-12T05:40:11Z"
+        },
+        {
+            "title": "China tests SLBM in Pacific, raising regional tensions",
+            "summary": "China recently demonstrated a strategic nuclear missile test in the Pacific, indicating a significant shift in its defence strategy. This move emphasizes a focus on advanced network-based capabilities over traditional platforms. For SSB aspirants, this highlights evolving global military technologies and strategic postures, underscoring the importance of understanding modern warfare concepts and their implications for national security.",
+            "url": "https://cryptobriefing.com/china-tests-slbm-in-pacific-raising-regional-tensions/",
+            "category": "Defence",
+            "date": "2026-07-12T05:38:53Z"
+        },
+        {
+            "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+            "summary": "The article details how new urban retail locations, exemplified by Aldi's Manhattan store, are enhancing the shopping experience for city commuters. Customers like Kelvin Dozier, who previously frequented an Aldi in Brooklyn, now find the new format more convenient. This suggests a trend towards optimizing retail for the urban demographic, providing a better fit for their lifestyle and needs.",
+            "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o",
+            "category": "National",
+            "date": "2026-07-12T05:00:15Z"
+        },
+        {
+            "title": "Why Write Code in 2026",
+            "summary": "This article snippet highlights the crucial role of software engineers in building a \"software factory\" rather than just developing software. It emphasizes creating an efficient \"assembly line\" and robust infrastructure for rapid changes and immediate software deployment. The focus is on establishing a streamlined system that allows anyone to initiate and ship changes quickly, promoting continuous delivery and operational efficiency in software development.",
+            "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+            "category": "Sci & Tech",
+            "date": "2026-07-12T04:15:27Z"
+        },
+        {
+            "title": "Articles On: China, Taiwan, Geopolitics, Russia, Iran, U.S.-China Relations, Foreign Policy, and Global Security",
+            "summary": "The provided article excerpts highlight critical geopolitical issues. One piece, 'Yes, China does seek hegemony,' by Graham Fletcher, directly addresses China's assertive ambitions. The other, 'Worse Than an Axis' by Thomas Wright, analyzes the dangers posed by the informal alignment of U.S. adversaries. These topics are crucial for understanding evolving international power dynamics and global security challenges.",
+            "url": "https://www.hoover.org/research/articles-china-taiwan-geopolitics-russia-iran-us-china-relations-foreign-policy-and-global",
+            "category": "International",
+            "date": "2026-07-12T00:00:00Z"
         }
     ]
 }
