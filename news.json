@@ -1,33 +1,47 @@
 {
-    "last_updated": "2026-07-12T18:58:29.718382+00:00",
+    "last_updated": "2026-07-13T02:14:05.526471+00:00",
     "articles": [
         {
-            "title": "5 Huge Blockbuster Movie Flops NOBODY Saw Coming (#1 Deserved Way Better)",
-            "summary": "The summer of 2026 has proven to be an exceptionally difficult period for the box office, marking its worst performance in years. Multiple highly anticipated blockbuster films have surprisingly flopped. A notable example is 'Supergirl,' which only managed $37.1 million domestically on its opening. This trend highlights significant challenges and evolving audience engagement within the entertainment industry.",
-            "url": "http://comicbook.com/movies/list/5-huge-blockbuster-movie-flops-nobody-saw-coming/",
-            "category": "National",
-            "date": "2026-07-11T18:00:00Z"
+            "title": "China ballistic missile test pushes case for Pacific security pact",
+            "summary": "Pacific Minister Pat Conroy stated that China's recent test launch of a nuclear-capable missile into the Pacific significantly damaged its regional standing. He argued this action has inadvertently strengthened the imperative for a robust regional security pact among nations. The incident raises concerns about escalating military activities and underscores the need for collective defence strategies in the Indo-Pacific.",
+            "url": "https://www.abc.net.au/news/2026-07-12/china-nuclear-missile-test-pacific-security-agreement-/106906662",
+            "category": "Defence",
+            "date": "2026-07-12T01:58:21Z"
         },
         {
-            "title": "DC Studios Not Having Huge SDCC/Hall H Presence Makes Perfect Sense",
-            "summary": "DC Studios is actively generating hype for its 'Lanterns' project, planning a significant presence at San Diego Comic-Con (SDCC) in 2026. The studio intends to host a dedicated fan activation within Hall H, aiming to build early excitement and engagement among its fanbase for the upcoming venture. This strategic promotion underscores DC Studios' long-term planning for its cinematic universe.",
-            "url": "https://bleedingcool.com/tv/dc-studios-not-having-huge-sdcc-hall-h-presence-makes-perfect-sense/",
-            "category": "National",
-            "date": "2026-07-11T16:37:11Z"
+            "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+            "summary": "This article provides weekend entertainment recommendations, highlighting diverse content from platforms like Disney, Prime Video, and MGM. Suggestions include futuristic sci-fi action featuring cyborg ninja assassins, intense crime dramas involving rival gangs, and epic fantasy narratives about powerful gods. It serves as a brief guide for leisure viewing choices.",
+            "url": "https://www.forbes.com/sites/erikkain/2026/07/11/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+            "category": "Sci & Tech",
+            "date": "2026-07-12T01:15:47Z"
+        },
+        {
+            "title": "Wally Funk, Aviation Pioneer and Oldest Woman to Travel to Space, Dies at 87",
+            "summary": "Wally Funk, the aviation pioneer and oldest woman to journey into space, passed away at 87. A remarkable trailblazer, Funk was part of the 1960s Mercury 13 program, though gender discrimination prevented her from flying then. Decades later, at 82, she finally realized her lifelong dream aboard Blue Origin's New Shepard in 2021, inspiring countless individuals with her unwavering perseverance and breaking barriers in space exploration.",
+            "url": "https://www.universetoday.com/articles/wally-funk-aviation-pioneer-and-oldest-woman-to-travel-to-space-dies-at-87",
+            "category": "Sci & Tech",
+            "date": "2026-07-11T23:14:14Z"
         },
         {
             "title": "The Vampire Lestat: Teaser For Sunday's Penultimate Episode Released; New Posters Spotlight Akasha & Marius",
-            "summary": "The recent episode of 'The Vampire Lestat' officially introduced two powerful vampire characters, Marius (Christopher Heyerdahl) and another, who have been frequently mentioned. Their formal debut marks a significant development in the series, potentially impacting future storylines and intensifying the dramatic narrative for global audiences of the popular show.",
+            "summary": "The latest episode of \"The Vampire Lestat\" officially introduced two immensely powerful vampires, Marius (Christopher Heyerdahl) and another key figure, to viewers. After being frequently mentioned, their on-screen debut significantly deepens the series' exploration of its rich mythological world and established power hierarchy, bringing central characters from the acclaimed literary source material to life.",
             "url": "https://comicbookmovie.com/tv/amc/the-vampire-lestat-teaser-for-sundays-penultimate-episode-released-new-posters-spotlight-akasha-marius-a228750",
             "category": "International",
             "date": "2026-07-11T16:37:10Z"
         },
         {
-            "title": "BSEB revises BBOSE Class 12 theory exam schedule 2026; check new dates",
-            "summary": "Prime Minister Narendra Modi received a traditional Mori Haka welcome during his visit to New Zealand. This cultural reception underscores diplomatic engagement and strengthens bilateral ties between India and New Zealand. Such high-profile international visits are crucial for India's foreign policy, enhancing global standing and fostering potential collaborations vital for national interest.",
-            "url": "https://timesofindia.indiatimes.com/education/news/bseb-revises-bbose-class-12-theory-exam-schedule-2026-check-new-dates/articleshow/132328191.cms",
-            "category": "International",
-            "date": "2026-07-11T10:17:11Z"
+            "title": "India becoming major railway products manufacturer and exporter: Ashwini Vaishnaw",
+            "summary": "Union Railways Minister Ashwini Vaishnaw visited the Medha Bogies Factory in Hyderabad, engaging with engineers and manufacturing teams. This interaction underscores the government's commitment to strengthening indigenous production capabilities in the railway sector. Such visits are vital for evaluating progress and fostering innovation in domestic manufacturing of critical railway components, aligning with national 'Make in India' initiatives for self-reliance and infrastructure development.",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/railways/india-becoming-major-railway-products-manufacturer-and-exporter-ashwini-vaishnaw/articleshow/132332824.cms",
+            "category": "National",
+            "date": "2026-07-11T14:34:10Z"
+        },
+        {
+            "title": "Future wars will still be won by resolve and soldiers, not just AI: Defence Minister Rajnath Singh",
+            "summary": "Defence Minister Rajnath Singh, speaking in Visakhapatnam, stressed that while Artificial Intelligence may impact future conflicts, ultimate victory will hinge on national resolve, trained soldiers, and robust military power. He underscored the enduring importance of human courage and strategic strength over technological advancements alone, serving as a crucial insight for aspiring defence personnel.",
+            "url": "https://economictimes.indiatimes.com/news/defence/future-wars-will-still-be-won-by-resolve-and-soldiers-not-just-ai-defence-minister-rajnath-singh/articleshow/132325630.cms",
+            "category": "Defence",
+            "date": "2026-07-11T06:08:06Z"
         }
     ]
 }
