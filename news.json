@@ -1,33 +1,33 @@
 {
-    "last_updated": "2026-07-13T19:17:45.744352+00:00",
+    "last_updated": "2026-07-14T01:59:49.703608+00:00",
     "articles": [
         {
-            "title": "Camping a popular option for Quebec vacationers",
-            "summary": "Camping organizations in Quebec, Canada, report a significant surge in campground site bookings, primarily driven by younger individuals, newcomers, and first-time camping enthusiasts. A recent Camping Qu\u00e9bec report highlights this growing interest, indicating a strong trend towards outdoor activities and nature-based recreation across the province. This demonstrates a notable shift in leisure preferences among various demographics.",
-            "url": "https://www.cbc.ca/news/canada/montreal/quebec-camping-popularity-summer-9.7267460",
+            "title": "A dozen stocks, including PSU names SAIL, IREDA, Power Grid, Mazagon Dock and ONGC, to remain in focus on Monday",
+            "summary": "Indian PSU SAIL and Indonesia's PT Krakatau Steel are exploring a joint venture to establish a substantial stainless steel project. Following an MoU, the partnership aims for a capacity between 500,000 to 1 million tonnes. This strategic industrial collaboration highlights India's growing economic ties and manufacturing ambitions through international partnerships, contributing significantly to national industrial growth and resource optimization for future needs.",
+            "url": "https://www.thehindubusinessline.com/markets/a-dozen-stocks-including-psu-names-sail-ireda-power-grid-mazagon-dock-and-ongc-to-remain-in-focus-on-monday/article71215800.ece",
+            "category": "National",
+            "date": "2026-07-13T01:49:21Z"
+        },
+        {
+            "title": "Rosie O'Donnell reveals bittersweet details of recent visit to incarcerated daughter in federal prison",
+            "summary": "Celebrity Rosie O'Donnell recently spoke about her visit to a federal prison to see her 28-year-old daughter, Chelsea. O'Donnell revealed this marked their first 'proper' conversation, offering a glimpse into their relationship amidst Chelsea's incarceration. The account highlights a significant personal event for the talk show host, reflecting on the emotional reunion within the prison setting.",
+            "url": "https://www.dailymail.com/tvshowbiz/article-15972347/rosie-odonnell-daughter-chelsea-prison-visit.html",
+            "category": "National",
+            "date": "2026-07-13T01:36:33Z"
+        },
+        {
+            "title": "Shadow Catcher",
+            "summary": "An audio transcript excerpt describes participants returning from 'Guinea Willows' on the third day of a 'Sun Dance' ceremony, with additional mentions of a 'cultural center'. The provided text is severely truncated, making it impossible to provide further details regarding the event's context, participants, or broader significance for a comprehensive summary.",
+            "url": "https://www.pbs.org/wnet/americanmasters/edward-curtis-shadow-catcher/568/",
+            "category": "National",
+            "date": "2026-07-13T01:18:35Z"
+        },
+        {
+            "title": "Fargo wrestling USA championship brackets, results, Day 3 live updates",
+            "summary": "The three-day 16U and Junior Freestyle National Championships concluded on June 12 at North Dakota State University's FargoDome. This prominent wrestling tournament gathered top young athletes from across the United States to compete for national titles in various freestyle wrestling categories, highlighting emerging talent in American amateur wrestling.",
+            "url": "https://www.beaconjournal.com/story/sports/high-school/wrestling/2026/07/12/fargo-wrestling-brackets-results-usa-national-championships/90862599007/",
             "category": "International",
-            "date": "2026-07-12T19:15:19Z"
-        },
-        {
-            "title": "Army eyes one-way desi drones with 1,000-km strike envelope",
-            "summary": "The Indian Army has initiated a process to acquire indigenous long-range, one-way attack drones. The defence industry is invited to offer systems capable of accurately hitting targets up to 1,000 km away. This move aims to significantly enhance the Army's precision strike capabilities and operational reach, aligning with the nation's push for self-reliance in advanced military technology.",
-            "url": "https://economictimes.indiatimes.com/news/defence/army-eyes-one-way-desi-drones-with-1000-km-strike-envelope/articleshow/132351480.cms",
-            "category": "Defence",
-            "date": "2026-07-12T18:54:39Z"
-        },
-        {
-            "title": "instrumation 0.5.0",
-            "summary": "The provided text is an error message, not a news article. It states that a required part of a website failed to load, potentially due to browser extensions, network issues, or browser settings. Users are advised to check their connection, disable ad blockers, or try an alternative browser to resolve this technical issue.",
-            "url": "https://pypi.org/project/instrumation/0.5.0/",
-            "category": "Sci & Tech",
-            "date": "2026-07-12T17:44:33Z"
-        },
-        {
-            "title": "Show HN: Instrumation a PYPI library for Instruments",
-            "summary": "A new project introduces a high-level Hardware Abstraction Layer (HAL) designed for RF test stations. This innovation aims to simplify RF test bench automation, enabling engineers to concentrate on developing core test logic rather than grappling with repetitive connection code, such as PyVISA boilerplate. The initiative promises increased efficiency in technical testing environments.",
-            "url": "https://github.com/abduznik/instrumation",
-            "category": "Sci & Tech",
-            "date": "2026-07-12T15:29:11Z"
+            "date": "2026-07-12T14:23:08Z"
         }
     ]
 }
