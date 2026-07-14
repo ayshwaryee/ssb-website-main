@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-07-14T01:59:49.703608+00:00",
+    "last_updated": "2026-07-14T07:53:51.097949+00:00",
     "articles": [
         {
-            "title": "A dozen stocks, including PSU names SAIL, IREDA, Power Grid, Mazagon Dock and ONGC, to remain in focus on Monday",
-            "summary": "Indian PSU SAIL and Indonesia's PT Krakatau Steel are exploring a joint venture to establish a substantial stainless steel project. Following an MoU, the partnership aims for a capacity between 500,000 to 1 million tonnes. This strategic industrial collaboration highlights India's growing economic ties and manufacturing ambitions through international partnerships, contributing significantly to national industrial growth and resource optimization for future needs.",
-            "url": "https://www.thehindubusinessline.com/markets/a-dozen-stocks-including-psu-names-sail-ireda-power-grid-mazagon-dock-and-ongc-to-remain-in-focus-on-monday/article71215800.ece",
-            "category": "National",
-            "date": "2026-07-13T01:49:21Z"
-        },
-        {
-            "title": "Rosie O'Donnell reveals bittersweet details of recent visit to incarcerated daughter in federal prison",
-            "summary": "Celebrity Rosie O'Donnell recently spoke about her visit to a federal prison to see her 28-year-old daughter, Chelsea. O'Donnell revealed this marked their first 'proper' conversation, offering a glimpse into their relationship amidst Chelsea's incarceration. The account highlights a significant personal event for the talk show host, reflecting on the emotional reunion within the prison setting.",
-            "url": "https://www.dailymail.com/tvshowbiz/article-15972347/rosie-odonnell-daughter-chelsea-prison-visit.html",
-            "category": "National",
-            "date": "2026-07-13T01:36:33Z"
-        },
-        {
-            "title": "Shadow Catcher",
-            "summary": "An audio transcript excerpt describes participants returning from 'Guinea Willows' on the third day of a 'Sun Dance' ceremony, with additional mentions of a 'cultural center'. The provided text is severely truncated, making it impossible to provide further details regarding the event's context, participants, or broader significance for a comprehensive summary.",
-            "url": "https://www.pbs.org/wnet/americanmasters/edward-curtis-shadow-catcher/568/",
-            "category": "National",
-            "date": "2026-07-13T01:18:35Z"
-        },
-        {
-            "title": "Fargo wrestling USA championship brackets, results, Day 3 live updates",
-            "summary": "The three-day 16U and Junior Freestyle National Championships concluded on June 12 at North Dakota State University's FargoDome. This prominent wrestling tournament gathered top young athletes from across the United States to compete for national titles in various freestyle wrestling categories, highlighting emerging talent in American amateur wrestling.",
-            "url": "https://www.beaconjournal.com/story/sports/high-school/wrestling/2026/07/12/fargo-wrestling-brackets-results-usa-national-championships/90862599007/",
+            "title": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
+            "summary": "New Zealand actor Sam Neill, known for his elegant versatility, is profiled for a career spanning diverse roles from art house films to blockbusters like \"Jurassic Park.\" His ability to transition across genres and deliver memorable performances, including dodging velociraptors, highlights his significant contribution to cinema. This piece celebrates his enduring legacy and adaptable acting prowess.",
+            "url": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies",
             "category": "International",
-            "date": "2026-07-12T14:23:08Z"
+            "date": "2026-07-13T07:20:30Z"
+        },
+        {
+            "title": "Russia strikes Ukrainian military cargo at Chornomorsk port in Black Sea escalation",
+            "summary": "The Russian Defence Ministry announced a strike on Ukrainian military cargo facilities at Chornomorsk port. This action is part of the ongoing conflict and signifies a broader escalation in hostilities. Such incidents highlight the dynamic nature of modern warfare and strategic targeting, crucial for understanding international defence scenarios and the importance of logistics infrastructure in conflict zones.",
+            "url": "https://cryptobriefing.com/russia-strikes-ukrainian-military-cargo-at-chornomorsk-port-in-black-sea/",
+            "category": "Defence",
+            "date": "2026-07-13T07:05:29Z"
+        },
+        {
+            "title": "Sam Neill, Jurassic Park star, dies at 78",
+            "summary": "New Zealand actor Sam Neill, renowned for his iconic portrayal of paleontologist Dr. Alan Grant in the 'Jurassic Park' series and a career spanning over 50 films, has died. A beloved figure in international cinema, Neill's extensive filmography includes numerous critically acclaimed performances, leaving a significant legacy in the acting world. His passing marks the end of a prolific career.",
+            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/sam-neill-jurassic-park-star-dies-at-78/articleshow/132359136.cms",
+            "category": "International",
+            "date": "2026-07-13T06:52:41Z"
+        },
+        {
+            "title": "Beloved actor Sam Neill dies suddenly in Sydney",
+            "summary": "Acclaimed and beloved actor Sam Neill has reportedly died suddenly in Sydney on July 13, 2026. His passing marks the end of an era for a significant figure in the global entertainment industry, known for his diverse roles. While not directly defence-related, such news reflects on cultural impact and global personalities, relevant for general awareness.",
+            "url": "https://freerepublic.com/focus/f-chat/4387741/posts",
+            "category": "International",
+            "date": "2026-07-13T06:46:55Z"
+        },
+        {
+            "title": "New Zealand actor Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
+            "summary": "Sam Neill, the acclaimed and versatile actor from Wellington, has enjoyed a prolific international career spanning art house films to major blockbusters. Renowned for dodging velociraptors in \"Jurassic Park\" and numerous other roles, his work showcases a remarkable range. This news highlights his enduring global impact on cinema, reflecting a successful career trajectory adaptable across diverse genres and audiences worldwide.",
+            "url": "https://www.clickondetroit.com/entertainment/2026/07/13/new-zealand-actor-sam-neill-known-for-jurassic-park-and-the-piano-dies-at-78-his-family-says/",
+            "category": "International",
+            "date": "2026-07-13T06:23:52Z"
+        },
+        {
+            "title": "New Zealand actor Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
+            "summary": "Wellington-born Sam Neill, an elegant and versatile actor, has had a distinguished career spanning art films and major blockbusters. He is recognized for roles like dodging velociraptors in 'Jurassic Park' and his performance opposite Holly Hunter. Neill's ability to transition across genres highlights his significant contribution to global cinema, making him a prominent figure in the acting world.",
+            "url": "https://apnews.com/article/sam-neill-obituary-91f11b230d06771fb4680c0916b0c876",
+            "category": "International",
+            "date": "2026-07-13T06:17:31Z"
+        },
+        {
+            "title": "Sam Neill Dead: 'Jurassic Park' Star Was 78",
+            "summary": "Versatile actor Sam Neill, renowned for a distinguished career spanning over 50 years and iconic roles, notably his three appearances in the blockbuster 'Jurassic Park' and 'Jurassic World' franchises, reportedly died on July 13 in Sydney. His extensive filmography cemented his status as a globally recognized figure in the entertainment industry.",
+            "url": "https://variety.com/2026/film/obituaries-people-news/sam-neill-dead-jurassic-park-1236809330/",
+            "category": "International",
+            "date": "2026-07-13T06:17:25Z"
+        },
+        {
+            "title": "Verbalizable Representations\u00a0Form a Global Workspace in Language Models",
+            "summary": "The human mind operates much like an ocean, with conscious thought merely the surface. Beneath, vast unconscious processing continuously occurs, handling complex tasks like visual perception without our explicit awareness. This intricate system highlights the brain's profound capacity beyond our immediate conscious experience, underscoring the depth of cognitive science research.",
+            "url": "https://transformer-circuits.pub/2026/workspace/",
+            "category": "Sci & Tech",
+            "date": "2026-07-13T05:47:01Z"
+        },
+        {
+            "title": "Hepatitis A Outbreak in Skilled Nursing Facility, Los Angeles County, California, USA, 2025",
+            "summary": "This article, presented as an early release, focuses on Hepatitis A (HepA). A disclaimer notes that the content is not final and will be updated in the official online version. While the topic is introduced, specific details or a comprehensive discussion of HepA are not available in this truncated excerpt, limiting a full summary.",
+            "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0202_article",
+            "category": "Sci & Tech",
+            "date": "2026-07-13T04:00:00Z"
         }
     ]
 }
