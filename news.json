@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-07-16T02:06:59.854203+00:00",
+    "last_updated": "2026-07-16T08:03:52.559796+00:00",
     "articles": [
         {
-            "title": "Stocks to watch: Why these 16 shares will be in focus today",
-            "summary": "L&T Technology Services (LTTS), a global leader in Engineering Intelligence Solutions and ER&D Consulting Services, has announced a partnership with Anthropic. This collaboration aims to significantly accelerate advancements in Engineering Intelligence, likely leveraging Anthropic's cutting-edge AI capabilities. The initiative will enhance LTTS's ER&D offerings, driving innovation and efficiency in engineering and research sectors through advanced technological integration.",
-            "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-why-these-16-shares-will-be-in-focus-today/article71223858.ece",
-            "category": "Sci & Tech",
-            "date": "2026-07-15T01:41:21Z"
+            "title": "Inside India newsletter: Modi is exporting India's workforce to a world turning against immigration",
+            "summary": "Priyanka Salve introduces the latest edition of \"Inside India\" from Singapore, a platform dedicated to covering significant stories and developments within India. This feature aims to provide comprehensive insights into the world's fastest-growing nation, focusing on its ongoing progress and key events. Aspirants can expect updates on crucial national affairs and dynamic trends shaping India's domestic landscape.",
+            "url": "https://www.cnbc.com/2026/07/15/modi-export-india-workforce-anti-immigration.html",
+            "category": "National",
+            "date": "2026-07-15T07:58:48Z"
         },
         {
-            "title": "One-way 'speedboats with explosives' launched by US for first time",
-            "summary": "The United States military has, for the first time, deployed uncrewed surface vessels (USVs) \u2013 or one-way boat drones \u2013 as strike weapons in combat. This significant development in naval warfare technology marks a new era, with these autonomous systems directly engaging targets. The vessels were reportedly used against Iran, demonstrating a novel application of robotic combat capabilities.",
-            "url": "https://www.abc.net.au/news/2026-07-15/us-uses-explosive-drone-speedboats-against-iran-for-first-time/106912714",
-            "category": "Defence",
-            "date": "2026-07-15T01:36:07Z"
+            "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 15, 2026) at Tanishq, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
+            "summary": "Gold prices moved higher today, July 15, 2026, making it crucial for consumers to check the latest rates before any purchase. This upward trend signifies market fluctuations, impacting personal finance and potential investment strategies. For SSB aspirants, understanding such domestic economic indicators is vital for comprehensive general awareness and assessing the national economic landscape.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-15-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/132409343.cms",
+            "category": "National",
+            "date": "2026-07-15T07:36:13Z"
+        },
+        {
+            "title": "Sitemapper",
+            "summary": "Sitemapper is a versatile PHP software package designed for generating sitemaps in multiple formats like XML, TXT, HTML, and Google News. It is framework-agnostic, ensuring seamless integration with popular PHP projects such as Laravel and Symfony. This tool simplifies the creation of sitemaps, crucial for website organization and search engine indexing, highlighting advancements in web development tools.",
+            "url": "https://packagist.org/packages/skywalker-labs/sitemapper",
+            "category": "Sci & Tech",
+            "date": "2026-07-15T07:00:00Z"
+        },
+        {
+            "title": "Oracle of the Dragon (2026)",
+            "summary": "The article discusses Samehadaku, a popular Indonesian anime streaming platform, renowned for its extensive and daily-updated collection of anime with Indonesian subtitles. It serves a significant community of anime enthusiasts across the nation, showcasing the robust growth of digital entertainment consumption. For an SSB aspirant, this highlights the evolving digital landscape and its impact on youth engagement and leisure activities.",
+            "url": "https://reliableheatingandplumbing.com/oracle-of-the-dragon-2026/",
+            "category": "Sci & Tech",
+            "date": "2026-07-15T06:58:30Z"
+        },
+        {
+            "title": "Delhi HC lists plea on Wangchuk's deteriorating health for Thursday",
+            "summary": "The Delhi High Court is set to hear a Public Interest Litigation (PIL) on Thursday concerning the health of activist Sonam Wangchuk. Wangchuk is currently on an indefinite fast at Jantar Mantar. The PIL expresses significant concern over his well-being during his protest, highlighting the legal and social implications of activist movements and the judiciary's role in addressing such public interest matters.",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-hc-lists-plea-on-wangchuks-deteriorating-health-for-thursday/articleshow/132408618.cms",
+            "category": "National",
+            "date": "2026-07-15T06:49:29Z"
+        },
+        {
+            "title": "Why are the US, Russia and African Union beating a path to Mali\u2019s door?",
+            "summary": "Mali's government, an internationally isolated military junta, faces collapse amidst a persistent armed insurgency. Despite this extreme instability and international ostracization, the article raises a critical question: why are multiple international actors actively seeking engagement with this regime? This paradox points to complex geopolitical dynamics, suggesting underlying strategic interests or regional security imperatives are compelling external powers to interact with a volatile and unstable government.",
+            "url": "https://www.irishtimes.com/world/2026/07/15/why-are-the-us-russia-and-african-union-beating-a-path-to-malis-door/",
+            "category": "International",
+            "date": "2026-07-15T06:26:30Z"
+        },
+        {
+            "title": "Know thine enemy: A critical engagement with AI-assisted software development | by Amy J. Ko | Bits and Behavior | Jul, 2026 | Medium",
+            "summary": "This article critically examines the evolving relationship between Large Language Models (LLMs) and society. Written from the perspective of a self-professed skeptic, it likely explores the societal implications, challenges, and potential future impact of these advanced AI systems. It offers insights into navigating the pervasive influence of artificial intelligence in contemporary society.",
+            "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+            "category": "Sci & Tech",
+            "date": "2026-07-15T05:47:01Z"
+        },
+        {
+            "title": "Jaishankar meets EU leaders, discusses trade, technology and maritime security",
+            "summary": "External Affairs Minister S Jaishankar met European Council President Antonio Costa in Brussels, emphasizing cooperation in trade and technology. Jaishankar valued Costa's guidance for advancing bilateral ties, underscoring India's commitment to deepening strategic partnerships with key global players. This high-level engagement highlights India's active diplomacy and focus on strengthening economic and technological alliances on the international stage.",
+            "url": "https://economictimes.indiatimes.com/news/india/jaishankar-meets-eu-leaders-discusses-trade-technology-and-maritime-security/articleshow/132406726.cms",
+            "category": "International",
+            "date": "2026-07-15T05:00:38Z"
         },
         {
             "title": "IN FOCUS: Have drones become the 'silver bullet' in wars?",
-            "summary": "Defence experts stress the importance of militaries investing in drone technology to avoid falling behind strategically. They contend that the necessity and scale of drone adoption depend on each nation's specific defence objectives and modern warfare goals. This underscores a critical evolution in military strategy and preparedness for future conflicts.",
+            "summary": "Defence experts emphasize militaries' crucial need to invest in drones, asserting that neglecting this could lead to strategic disadvantages. The level of risk, however, depends on individual state objectives. This highlights the evolving landscape of modern warfare and the growing importance of unmanned aerial systems as key defence capabilities for SSB aspirants to understand.",
             "url": "https://www.channelnewsasia.com/world/drones-wars-silver-bullet-military-defence-singapore-in-focus-6250846",
             "category": "Defence",
             "date": "2026-07-14T22:00:00Z"
-        },
-        {
-            "title": "Trump Drops Shipping Transit Fee, Says Hormuz Strait \u2018Open to All Except Iran\u2019",
-            "summary": "President Trump affirmed the Strait of Hormuz is open for international shipping, excluding Iranian vessels, a day after ordering Iranian port blockages. The U.S. military has restored passage, ensuring global trade can continue through the critical waterway. This move clarifies the U.S. stance, aiming to manage regional tensions and assert control over maritime security.",
-            "url": "https://legalinsurrection.com/2026/07/trump-drops-shipping-transit-fee-says-hormuz-strait-open-to-all-except-iran/",
-            "category": "International",
-            "date": "2026-07-14T18:32:20Z"
         }
     ]
 }
