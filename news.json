@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-07-17T18:59:53.584845+00:00",
+    "last_updated": "2026-07-18T01:59:16.384386+00:00",
     "articles": [
         {
-            "title": "Trump cites national security to stop offshore wind development. Here's what to know",
-            "summary": "The Trump administration actively worked to halt offshore wind development, asserting that such projects posed a national security risk. This policy, initiated late last year, impacted several major renewable energy initiatives. The administration's stance highlighted concerns regarding potential vulnerabilities related to critical infrastructure and strategic interests, sparking discussions on the intersection of energy policy and national defense implications.",
-            "url": "https://www.clickondetroit.com/business/2026/07/16/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know/",
-            "category": "Defence",
-            "date": "2026-07-16T18:53:46Z"
+            "title": "Oil rises on intensifying US-Iran hostilities, threat of Red Sea closure",
+            "summary": "Oil prices surged as renewed US-Iran hostilities intensified across the Gulf, breaking a fragile truce. This escalated conflict significantly disrupted oil flows through the crucial Strait of Hormuz, a vital maritime choke point for global energy supplies. The rising tensions highlight the profound impact of geopolitical instability on international trade routes and energy markets.",
+            "url": "https://www.channelnewsasia.com/business/oil-rises-intensifying-us-iran-hostilities-threat-red-sea-closure-6259956",
+            "category": "International",
+            "date": "2026-07-17T01:31:04Z"
         },
         {
-            "title": "OPSEU/SEFPO: Ontario is burning due to government inaction and poor planning",
-            "summary": "The Ford government in Ontario, Canada, is reportedly failing to fulfill its promise to protect the province. This failure is attributed to ongoing issues with essential personnel, including wildland firefighters, pilots, and operational support staff represented by OPSEU/SEFPO. The situation highlights concerns over public safety and government effectiveness in critical emergency services.",
-            "url": "https://www.globenewswire.com/news-release/2026/07/16/3328757/0/en/OPSEU-SEFPO-Ontario-is-burning-due-to-government-inaction-and-poor-planning.html",
+            "title": "Reliance Jio's 1,600-LEO satellite plan gets IN-SPACe technical nod, moves closer to India's first homegrown constellation",
+            "summary": "India's space regulator, IN-SPACe, has approved Reliance Jio's proposal to deploy approximately 1,600 Low Earth Orbit (LEO) satellites. The project is deemed 'technically sound' and comparable to global systems like Starlink. This marks a significant step for India's private sector in advanced satellite technology, enhancing national connectivity and boosting India's role in the global space internet market.",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/reliance-jios-1600-leo-satellite-plan-gets-in-space-technical-nod-moves-closer-to-indias-first-homegrown-constellation/articleshow/132447556.cms",
+            "category": "Sci & Tech",
+            "date": "2026-07-17T00:13:00Z"
+        },
+        {
+            "title": "Canadian Transportation Agency approves Lac-M\u00e9gantic, Que., rail bypass",
+            "summary": "The Canadian Transportation Agency has approved the construction of a long-awaited railway bypass in Lac-M\u00e9gantic, Quebec. This decision comes 13 years after a tragic rail disaster killed 47 people and devastated the town's downtown core. The bypass aims to enhance safety, prevent future incidents, and is a significant step in the community's recovery and infrastructure development, addressing a critical need arising from the past tragedy.",
+            "url": "https://www.cbc.ca/news/canada/montreal/lac-megantic-rail-bypass-9.7272974",
             "category": "International",
-            "date": "2026-07-16T18:45:00Z"
+            "date": "2026-07-16T20:13:32Z"
         }
     ]
 }
