@@ -1,40 +1,40 @@
 {
-    "last_updated": "2026-07-21T19:12:31.132673+00:00",
+    "last_updated": "2026-07-22T02:07:40.316177+00:00",
     "articles": [
         {
+            "title": "Recent Op-Eds, Opinion Pieces & Articles Worth Reading",
+            "summary": "An article by Rudramani Pokherel in The Himalayan Times delves into Nepal's sensitive national symbol debate, focusing on the cow and the rhino. The discussion, considered almost taboo, explores the significance of each contender, including the cow's traditional holiness. This piece prompts reflection on Nepal's identity and its symbolic representation.",
+            "url": "https://peoplesreview.com.np/2026/07/21/recent-op-eds-opinion-pieces-articles-worth-reading/",
+            "category": "National",
+            "date": "2026-07-21T01:08:18Z"
+        },
+        {
+            "title": "Defence ministry invites firms to design, develop airship-based high-altitude pseudo sats under Rs 15,000cr program",
+            "summary": "India's Defence Ministry is seeking domestic firms to develop airship-based pseudo satellites. These platforms will provide persistent intelligence, surveillance, and reconnaissance (ISR) capabilities, offering a cost-effective alternative to conventional satellite systems. This initiative aims to bolster India's strategic monitoring capabilities with indigenous technology, ensuring continuous surveillance for national security purposes and reducing reliance on existing space-based assets.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/defence-ministry-invites-firms-to-design-develop-airship-based-high-altitude-pseudo-sats-under-rs-15000cr-program/articleshow/132525971.cms",
+            "category": "Defence",
+            "date": "2026-07-20T23:18:17Z"
+        },
+        {
+            "title": "Olentangy Orange wrestler Mackenzie Carder wins national title",
+            "summary": "Olentangy Orange wrestler Mackenzie Carder has achieved national champion status, a significant milestone following her first OHSAA state championship win in March. Carder triumphed in the 125-pound category, demonstrating exceptional skill and dedication in her sport. This accomplishment highlights her consistent high-level performance and embodies the spirit of perseverance often valued in leadership roles.",
+            "url": "https://www.dispatch.com/story/sports/high-school/wrestling/2026/07/20/mackenzie-carder-junior-wrestling-championships-olentangy-orange/90984245007/",
+            "category": "National",
+            "date": "2026-07-20T22:37:19Z"
+        },
+        {
             "title": "Operation Southern Readiness 26-2 begins at Southern Naval Command in Kochi",
-            "summary": "The provided text consists solely of boilerplate information: social media prompts, copyright details for Bennett, Coleman & Co. Ltd. (\u00a9 2026), and a mention of Times Syndication Service for reprint rights. It contains no discernible news content or specific information suitable for summarization relevant to an SSB aspirant's current affairs knowledge.",
+            "summary": "The provided text contains no discernible news content. It consists solely of boilerplate information such as social media prompts, copyright details for Bennett, Coleman & Co. Ltd. (dated 2026), and a reference to Times Syndication Service for reprint rights. Consequently, no specific events can be summarized, nor a relevant news category assigned.",
             "url": "https://timesofindia.indiatimes.com/city/kochi/operation-southern-readiness-26-2-begins-at-southern-naval-command-in-kochi/articleshow/132523127.cms",
             "category": "National",
             "date": "2026-07-20T18:46:13Z"
         },
         {
-            "title": "Operation Armed Forces: Defense Ministry\u2019s new strategy to attract young people to Military Academies",
-            "summary": "Post-Panhellenic Examination candidates in Greece are being urged to define their futures, aligning with the Hellenic Navy's recruitment drive. The article highlights that alongside the Navy, other entities are also actively seeking to attract these fresh talents, signaling a broader national recruitment push leveraging a major examination's outcome. This scenario presents diverse career pathways for successful candidates.",
-            "url": "https://en.protothema.gr/2026/07/20/operation-armed-forces-defense-ministrys-new-strategy-to-attract-young-people-to-military-academies/",
-            "category": "Defence",
-            "date": "2026-07-20T18:17:20Z"
-        },
-        {
-            "title": "STARS temporarily moves helicopter to western Manitoba after flooding closes Dauphin hospital",
-            "summary": "Manitoba, Canada's only emergency air ambulance helicopter is temporarily relocating its base to Brandon. This strategic move aims to significantly improve response times to critical incidents in a key provincial area that includes a major hospital. The relocation enhances life-saving capabilities, ensuring faster medical assistance for urgent situations and optimizing patient outcomes by reducing crucial travel time.",
-            "url": "https://www.cbc.ca/news/canada/manitoba/dauphin-hospital-stars-helicopter-flooding-9.7276524",
+            "title": "Canada's 2026 Wildfire Season Has Surged Far Beyond Historical Averages",
+            "summary": "Canada is grappling with a rapidly escalating national emergency, as what began as a below-average wildfire season has erupted into a crisis. Over 900 active wildfires are burning across the country as of mid-July 2026, posing significant challenges. This situation underscores the growing global concern over environmental disasters and their widespread impact.",
+            "url": "https://www.medicaldaily.com/canada-wildfire-2026-season-statistics-evacuations-smoke-update-476176",
             "category": "International",
-            "date": "2026-07-20T17:47:30Z"
-        },
-        {
-            "title": "Klay Thompson gives eye-opening answer when asked about Warriors reunion",
-            "summary": "Klay Thompson signaled strong interest in a reunion with the Golden State Warriors during an autograph session at Fanatics Fest. He explicitly told fans he desires to finish his career with the team, indicating his strong loyalty and wish to remain with the franchise where he has achieved significant success. This suggests potential for an extended contract.",
-            "url": "https://nypost.com/2026/07/20/sports/klay-thompson-gives-eye-opening-answer-when-asked-about-warriors-reunion/",
-            "category": "National",
-            "date": "2026-07-20T17:43:52Z"
-        },
-        {
-            "title": "llm-as-code 0.2.0",
-            "summary": "The provided text describes a technical error preventing a required website component from loading. Potential causes include browser extensions, network issues, or browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or attempting to use a different browser to resolve access difficulties and restore full site functionality.",
-            "url": "https://pypi.org/project/llm-as-code/0.2.0/",
-            "category": "Sci & Tech",
-            "date": "2026-07-20T15:59:39Z"
+            "date": "2026-07-20T12:00:43Z"
         }
     ]
 }
