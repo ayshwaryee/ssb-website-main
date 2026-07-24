@@ -1,33 +1,54 @@
 {
-    "last_updated": "2026-07-24T02:10:28.810557+00:00",
+    "last_updated": "2026-07-24T08:16:44.197447+00:00",
     "articles": [
         {
-            "title": "Max Fried-Gerrit Cole combo was worth the wait in doubleheader split with Pirates",
-            "summary": "The New York Yankees' offense initially struggled, appearing poorly constructed. This weakness was overshadowed, however, by the significant unveiling of a formidable new duo. Their introduction seems to be a game-changer, diminishing concerns over previous offensive shortcomings and suggesting a renewed outlook for the team's performance.",
-            "url": "https://nypost.com/2026/07/22/sports/max-fried-gerrit-cole-combo-looks-like-everything-yankees-envisioned/",
+            "title": "Hermit Crabs",
+            "summary": "\"Hermit Crabs,\" a graphic elegy published in 2025 by Seoul-based Hyper Pension, is described as an artistic reflection on a fading sense of life. This independent publication from South Korea's creative studio explores profound themes through its visual narrative, offering a unique cultural perspective. It represents an emerging voice in contemporary art, focusing on introspective human experiences.",
+            "url": "https://fontsinuse.com/uses/78691/hermit-crabs",
             "category": "National",
-            "date": "2026-07-23T02:07:34Z"
+            "date": "2026-07-23T08:13:41Z"
         },
         {
-            "title": "pyopenmeteo added to PyPI",
-            "summary": "This article introduces a Python wrapper for the Open-Meteo weather APIs, a top free global weather data source. Open-Meteo offers extensive features like hourly resolution and over 80 years of historical data. This tool simplifies access to comprehensive weather information for developers and researchers, crucial for diverse applications from environmental studies to data-driven decision-making, providing robust data for analysis and model building.",
-            "url": "https://pypi.org/project/pyopenmeteo/",
-            "category": "Sci & Tech",
-            "date": "2026-07-23T01:41:39Z"
-        },
-        {
-            "title": "Morning Brief Podcast: ISRO's Exodus: Space Crisis, Staff Crisis",
-            "summary": "ISRO faces a significant human resource challenge, as approximately 100 scientists and engineers have recently resigned or taken voluntary retirement. Exits primarily impact critical centres like URSC (satellite hub) and VSSC (rocket-making centre). This attrition rate raises concerns about ISRO's talent retention and its capacity to sustain crucial space programs, a vital aspect of India's scientific and strategic capabilities.",
-            "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-isros-exodus-space-crisis-staff-crisis/podcast/132570197.cms",
-            "category": "Sci & Tech",
-            "date": "2026-07-23T00:53:02Z"
-        },
-        {
-            "title": "4 things we learned from Will Stein at SEC Media Days",
-            "summary": "Will Stein, making his inaugural appearance at SEC Media Days in Tampa, utilized the podium to articulate an ambitious vision for his program. He emphasized its significant, untapped potential, aiming to achieve far more than before. His address set a determined tone, signaling a strong push for improved performance and a brighter future within the conference.",
-            "url": "https://www.aseaofblue.com/kentucky-wildcats-football/176430/4-things-we-learned-will-stein-sec-media-days",
+            "title": "Wisconsin Windigo to play Minnesota Mallards in Fond du Lac",
+            "summary": "An exhibition ice hockey game between the Wisconsin Windigo and Minnesota Mallards is scheduled for August 28th at the Blue Line Family Ice Center in Fond du Lac. Proceeds from this event will directly support Fond du Lac Youth programs, aiming to foster community engagement and provide vital resources for youth development through sport. This local initiative highlights community support for young aspirants.",
+            "url": "https://www.fdlreporter.com/story/sports/hockey/2026/07/23/wisconsin-windigo-fond-du-lac-youth-hockey-fundraiser/91009550007/",
             "category": "National",
-            "date": "2026-07-22T22:00:50Z"
+            "date": "2026-07-23T08:05:34Z"
+        },
+        {
+            "title": "Seven f**king obvious problems with AI everyone should have noticed ages ago",
+            "summary": "The article questions OpenAI's recent claim of an AI going 'rogue,' pointing to growing skepticism regarding such 'melodramatic tales.' It argues that public weariness with AI scaremongering and 'nonsense' is overdue, urging readers to critically evaluate dramatic pronouncements from AI developers. The piece calls for increased scrutiny of perceived AI dangers.",
+            "url": "https://www.thedailymash.co.uk/news/science-technology/seven-fking-obvious-problems-with-ai-everyone-should-have-noticed-ages-ago-20260723268033",
+            "category": "Sci & Tech",
+            "date": "2026-07-23T07:58:58Z"
+        },
+        {
+            "title": "'Witnessed glowing seas, saw humpback whales': 9 women officers sail across the Earth and return to Mumbai; battled 60-knot storms and 5-metre waves",
+            "summary": "India's historic all-women Tri-Service circumnavigation expedition successfully returned to Mumbai after 314 days at sea. This pioneering journey covered 25,500 nautical miles across five continents, showcasing the exceptional endurance and capabilities of women in the Indian armed forces. It underscores significant strides in gender equality and joint service operations, inspiring future SSB aspirants towards challenging roles.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/9-women-officers-sail-across-the-globe-and-return-to-mumbai-witnessed-glowing-seas-and-humpback-whales-battled-60-knot-storms-and-5-metre-waves/articleshow/132574061.cms",
+            "category": "Defence",
+            "date": "2026-07-23T07:33:40Z"
+        },
+        {
+            "title": "Elize: Shadows of a Woman (2026)",
+            "summary": "Samehadaku is a widely popular and comprehensive anime streaming website in Indonesia. It serves as a go-to platform for Indonesian anime enthusiasts, offering a daily updated collection of anime with Indonesian subtitles. This platform ensures fans have access to the latest content conveniently, leveraging digital technology for widespread entertainment.",
+            "url": "https://reliableheatingandplumbing.com/elize-shadows-of-a-woman-2026/",
+            "category": "Sci & Tech",
+            "date": "2026-07-23T06:45:14Z"
+        },
+        {
+            "title": "Delhi High Court to hear PIL seeking NIA probe into July 20 'Sansad Chalo' protest tomorrow",
+            "summary": "The Delhi High Court will hear a Public Interest Litigation (PIL) seeking a National Investigation Agency (NIA) probe into the July 20 'Sansad Chalo' protest. The petition aims to investigate alleged irregularities or unlawful aspects of the demonstration, highlighting concerns about public order and potential national security implications. This underscores the judiciary's role in scrutinizing significant public events and ensuring accountability.",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-hc-to-hear-pil-seeking-nia-probe-into-july-20-sansad-chalo-protest-tomorrow/articleshow/132573195.cms",
+            "category": "National",
+            "date": "2026-07-23T06:38:14Z"
+        },
+        {
+            "title": "NASA-ISRO's NISAR satellite Antarctica image captures a giant bird-like shape hidden in East Antarctica's ice; here's what the colourful radar view means",
+            "summary": "The joint India-US Earth observation satellite has released initial data from both its advanced radar instruments. This significant milestone highlights international collaboration in space and India's role in cutting-edge Earth monitoring. Designed for detailed environmental observation, the satellite captured a unique image over East Antarctica, demonstrating its capacity for crucial geological and climate studies.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/nasa-isros-nisar-satellite-antarctica-image-captures-a-giant-bird-like-shape-hidden-in-east-antarcticas-ice-heres-what-the-colourful-radar-view-means/articleshow/132572697.cms",
+            "category": "Sci & Tech",
+            "date": "2026-07-23T05:36:00Z"
         }
     ]
 }
