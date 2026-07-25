@@ -1,61 +1,61 @@
 {
-    "last_updated": "2026-07-25T07:59:04.684473+00:00",
+    "last_updated": "2026-07-25T13:13:39.386305+00:00",
     "articles": [
         {
-            "title": "Bandhan Bank employee from Valsad records video showing floodwater rising to his neck in Gujarat; district saw over 1,100 mm rain in 16 hours",
-            "summary": "Gujarat is grappling with a severe rain crisis, causing extensive flooding across the state. A powerful video from Valsad depicts a Bandhan Bank employee submerged in neck-deep floodwater outside his home, symbolizing the intensity of the situation. This viral footage highlights the urgent challenges posed by the relentless monsoon downpours and the need for immediate disaster relief efforts.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/bandhan-bank-employee-from-valsad-records-video-showing-floodwater-rising-to-his-neck-in-gujarat-district-saw-over-1100-mm-rain-in-16-hours/articleshow/132599101.cms",
-            "category": "National",
-            "date": "2026-07-24T07:39:46Z"
+            "title": "Language Model Hallucination Evaluation with GraphEval",
+            "summary": "Large Language Models (LLMs) commonly face 'hallucinations,' a significant issue during response generation. This problem arises when an LLM produces factually incorrect information, despite appearing confident. Understanding and mitigating these AI hallucinations are crucial for ensuring the reliability and trustworthiness of advanced language models, which is vital for modern technological applications and informed decision-making.",
+            "url": "https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval",
+            "category": "Sci & Tech",
+            "date": "2026-07-24T13:02:40Z"
         },
         {
-            "title": "Before a Cyber Force, Fix Cyber Governance",
-            "summary": "The debate surrounding the creation of a dedicated Cyber Force is gaining momentum, with increasing calls for its establishment. However, the article suggests this discussion has misplaced priorities, focusing prematurely on structural aspects rather than critical strategic and operational considerations. It highlights the need to address foundational issues before focusing on the 'uniforms' of a new cyber command, emphasizing a more considered approach to national cyber defence.",
-            "url": "https://warontherocks.com/before-a-cyber-force-fix-cyber-governance/",
+            "title": "Romania uses F16 to shoot down 'Shahed drone' over its territory for the first time as Putin unleashes new Ukraine strikes",
+            "summary": "Romania, a NATO member bordering Ukraine, utilized an F-16 fighter jet to intercept and shoot down a drone violating its airspace. This incident underscores the escalating security challenges for frontline nations amidst the Ukraine conflict, with drone incursions becoming frequent. It emphasizes the critical need for robust air defence and showcases NATO's preparedness to protect member sovereignty and airspace integrity.",
+            "url": "https://www.dailymail.com/news/article-16002545/Romania-F16-shot-Shahed-drone-territory-Ukraine-strikes.html",
             "category": "Defence",
-            "date": "2026-07-24T07:30:15Z"
+            "date": "2026-07-24T12:55:38Z"
         },
         {
-            "title": "The German navy can\u2019t get enough P-8 patrol aircraft",
-            "summary": "The German Navy is purchasing eight P-8A Poseidon maritime patrol aircraft to significantly boost its submarine-hunting capabilities. Despite the initial order, Germany's head of naval air warfare expressed a desire for ten, indicating a potential future expansion of this vital defence asset. This procurement strengthens Germany's maritime security and modernises its naval air force.",
-            "url": "https://www.defenseone.com/business/2026/07/german-navy-cant-get-enough-p-8-patrol-aircraft/414988/",
+            "title": "Lanterns Training Headquarters: Bleeding Cool Takes The Oath (IMAGES)",
+            "summary": "Bleeding Cool recently visited DC Studios' Lanterns Training Headquarters at San Diego Comic-Con (SDCC). This preview, featured at the annual international pop culture convention, offered a glimpse into content related to DC's 'Lanterns' series. While specific details from the visit are brief, such major entertainment events like SDCC are crucial for generating global industry buzz and fan engagement for upcoming projects, highlighting international media trends.",
+            "url": "https://bleedingcool.com/tv/lanterns-training-headquarters-bleeding-cool-takes-the-oath-images/",
+            "category": "International",
+            "date": "2026-07-24T12:38:11Z"
+        },
+        {
+            "title": "ED searches 9 locations in Punjab, Jammu and Kashmir in narco-terror funding probe, freezes Rs 49.9 lakh",
+            "summary": "The Directorate of Enforcement (ED), Jammu Sub Zonal Office, conducted extensive search operations on July 23 across nine locations in Punjab. These operations were carried out under the provisions of the Prevention of Money Laundering Act (PMLA), 2002. This action highlights the ED's ongoing efforts to investigate and curb financial irregularities and potential money laundering activities within the region, targeting economic offences.",
+            "url": "https://economictimes.indiatimes.com/news/india/ed-searches-9-locations-in-punjab-jammu-and-kashmir-in-narco-terror-funding-probe-freezes-rs-49-9-lakh/articleshow/132605684.cms",
+            "category": "National",
+            "date": "2026-07-24T12:29:29Z"
+        },
+        {
+            "title": "The Rise of North Korea\u2019s Nuclear-Armed Navy",
+            "summary": "North Korea test-fired nuclear-capable cruise missiles from its upcoming guided missile destroyer, Kang Kon (52), on July 3, under Supreme Leader Kim Jong Un's observation. This launch signifies Pyongyang's advancements in naval strike capabilities and its ongoing defiance of international sanctions. The demonstration raises regional tensions and global proliferation concerns, highlighting North Korea's persistent military development and unpredictable posture.",
+            "url": "https://thediplomat.com/2026/07/the-rise-of-north-koreas-nuclear-armed-navy/",
+            "category": "International",
+            "date": "2026-07-24T12:26:00Z"
+        },
+        {
+            "title": "Oil at $100 is pushing up costs from gas pumps to grocery aisles",
+            "summary": "Global oil prices have surged past $100 a barrel due to intensified fighting and military strikes linked to the ongoing Iran war. This escalation is expected to cause further economic hardship for consumers worldwide, who are already grappling with rising costs. The conflict highlights the significant impact of geopolitical instability on global energy markets and economic stability.",
+            "url": "https://fortune.com/2026/07/24/oil-100-barrel-consumer-prices-iran-war/",
+            "category": "International",
+            "date": "2026-07-24T12:18:30Z"
+        },
+        {
+            "title": "Indigenous 'Bhargavastra' counter-drone system to complete internal trials in 2-3 months, says SDAL Chairman Satyanarayan Nuwal",
+            "summary": "Solar Defence and Aerospace Ltd (SDAL) is completing internal trials of its indigenous counter-drone system, 'Bhargavastra', within two months. This initiative boosts India's 'Atmanirbhar Bharat' mission in defence. 'Bhargavastra' will crucially enhance national security, providing the capability to detect and neutralize enemy drones, thereby strengthening India's defence against modern aerial threats.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indigenous-bhargavastra-counter-drone-system-to-complete-internal-trials-in-2-3-months-says-sdal-chairman-satyanarayan-nuwal/articleshow/132605358.cms",
             "category": "Defence",
-            "date": "2026-07-24T07:19:34Z"
+            "date": "2026-07-24T12:16:06Z"
         },
         {
-            "title": "La Ahorcada (2026)",
-            "summary": "Samehadaku is a leading Indonesian website for streaming anime, offering a comprehensive and daily updated collection with Indonesian subtitles. It's highly popular among anime enthusiasts nationwide, reflecting the significant demand for accessible and localized digital entertainment. This platform exemplifies the growing trend of online content consumption and the importance of catering to specific regional linguistic preferences within the tech landscape.",
-            "url": "https://reliableheatingandplumbing.com/la-ahorcada-2026/",
-            "category": "Sci & Tech",
-            "date": "2026-07-24T07:05:34Z"
-        },
-        {
-            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 1st July 2026",
-            "summary": "This resource offers daily current affairs questions, vital for SSB aspirants and UPSC Prelims preparation. Sourced from authoritative publications like The Hindu, Indian Express, and PIB, it provides comprehensive coverage of national and international developments. Aspirants can also utilize archived quizzes to strengthen their knowledge base, staying updated on key events crucial for competitive exams.",
-            "url": "https://iasbaba.com/2026/07/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-1st-july-2026/",
+            "title": "Delhi HC refuses to entertain PIL seeking NIA probe into CJP's Parliament march",
+            "summary": "The Delhi High Court refused to entertain a Public Interest Litigation (PIL) seeking an NIA or specialized agency probe into a march to Parliament on July 20, led by the 'Cockroach Janta Party'. The PIL aimed for an investigation into the protest, likely concerning its legality or security implications. However, the High Court\u2019s refusal means the matter will not proceed for further investigation through this specific judicial request.",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-hc-refuses-to-entertain-pil-seeking-nia-probe-into-cjps-parliament-march/articleshow/132605006.cms",
             "category": "National",
-            "date": "2026-07-24T06:24:01Z"
-        },
-        {
-            "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 24, 2026) at Tanishq, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
-            "summary": "On Friday, July 24, 2026, gold prices saw a slight decline across major jewellery brands. This trend makes it opportune for potential buyers to compare rates among leading jewellers before making a purchase. The price adjustment reflects current market dynamics, offering a potential advantage for consumers looking to invest in or buy gold jewellery.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-24-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/132597927.cms",
-            "category": "National",
-            "date": "2026-07-24T06:21:45Z"
-        },
-        {
-            "title": "Indonesia must not lag in global AI supply chain: Nezar Patria",
-            "summary": "Indonesia's Deputy Minister of Communication and Digital Affairs, Nezar Patria, stressed the nation's imperative to integrate into the global Artificial Intelligence (AI) industry supply chain. He highlighted the need for Indonesia to proactively develop its AI capabilities to avoid being marginalized in the rapidly evolving digital economy, ensuring national competitiveness and technological advancement.",
-            "url": "https://en.antaranews.com/news/423887/indonesia-must-not-lag-in-global-ai-supply-chain-nezar-patria",
-            "category": "Sci & Tech",
-            "date": "2026-07-24T06:14:42Z"
-        },
-        {
-            "title": "e7awghal 0.1.7",
-            "summary": "A critical component of a website failed to load, possibly due to browser extensions, network instability, or specific browser settings. Users are urged to check their internet connection, disable any active ad blockers, or try accessing the site with a different browser to troubleshoot the problem. This aims to resolve the technical glitch and restore full functionality.",
-            "url": "https://pypi.org/project/e7awghal/0.1.7/",
-            "category": "Sci & Tech",
-            "date": "2026-07-24T06:09:32Z"
+            "date": "2026-07-24T12:14:45Z"
         }
     ]
 }
