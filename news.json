@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-07-25T13:13:39.386305+00:00",
+    "last_updated": "2026-07-25T18:59:56.841041+00:00",
     "articles": [
         {
-            "title": "Language Model Hallucination Evaluation with GraphEval",
-            "summary": "Large Language Models (LLMs) commonly face 'hallucinations,' a significant issue during response generation. This problem arises when an LLM produces factually incorrect information, despite appearing confident. Understanding and mitigating these AI hallucinations are crucial for ensuring the reliability and trustworthiness of advanced language models, which is vital for modern technological applications and informed decision-making.",
-            "url": "https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval",
-            "category": "Sci & Tech",
-            "date": "2026-07-24T13:02:40Z"
-        },
-        {
-            "title": "Romania uses F16 to shoot down 'Shahed drone' over its territory for the first time as Putin unleashes new Ukraine strikes",
-            "summary": "Romania, a NATO member bordering Ukraine, utilized an F-16 fighter jet to intercept and shoot down a drone violating its airspace. This incident underscores the escalating security challenges for frontline nations amidst the Ukraine conflict, with drone incursions becoming frequent. It emphasizes the critical need for robust air defence and showcases NATO's preparedness to protect member sovereignty and airspace integrity.",
-            "url": "https://www.dailymail.com/news/article-16002545/Romania-F16-shot-Shahed-drone-territory-Ukraine-strikes.html",
-            "category": "Defence",
-            "date": "2026-07-24T12:55:38Z"
-        },
-        {
-            "title": "Lanterns Training Headquarters: Bleeding Cool Takes The Oath (IMAGES)",
-            "summary": "Bleeding Cool recently visited DC Studios' Lanterns Training Headquarters at San Diego Comic-Con (SDCC). This preview, featured at the annual international pop culture convention, offered a glimpse into content related to DC's 'Lanterns' series. While specific details from the visit are brief, such major entertainment events like SDCC are crucial for generating global industry buzz and fan engagement for upcoming projects, highlighting international media trends.",
-            "url": "https://bleedingcool.com/tv/lanterns-training-headquarters-bleeding-cool-takes-the-oath-images/",
-            "category": "International",
-            "date": "2026-07-24T12:38:11Z"
-        },
-        {
-            "title": "ED searches 9 locations in Punjab, Jammu and Kashmir in narco-terror funding probe, freezes Rs 49.9 lakh",
-            "summary": "The Directorate of Enforcement (ED), Jammu Sub Zonal Office, conducted extensive search operations on July 23 across nine locations in Punjab. These operations were carried out under the provisions of the Prevention of Money Laundering Act (PMLA), 2002. This action highlights the ED's ongoing efforts to investigate and curb financial irregularities and potential money laundering activities within the region, targeting economic offences.",
-            "url": "https://economictimes.indiatimes.com/news/india/ed-searches-9-locations-in-punjab-jammu-and-kashmir-in-narco-terror-funding-probe-freezes-rs-49-9-lakh/articleshow/132605684.cms",
+            "title": "John Mayer is coming to Connecticut\u2019s Mohegan Sun. What do tickets cost?",
+            "summary": "SeatGeek has been announced as the official music concert Ticketing Partner of the New York Post. Through this commercial partnership, the New York Post is set to receive revenue from sharing content related to concert ticketing and from purchases made by users. This arrangement highlights a media outlet's affiliation with an entertainment ticketing platform to leverage its reach for promotional and financial benefits.",
+            "url": "https://nypost.com/2026/07/24/ticket-sales/how-much-are-tickets-to-see-john-mayer-at-mohegan-sun-in-ct/",
             "category": "National",
-            "date": "2026-07-24T12:29:29Z"
+            "date": "2026-07-24T18:38:07Z"
         },
         {
-            "title": "The Rise of North Korea\u2019s Nuclear-Armed Navy",
-            "summary": "North Korea test-fired nuclear-capable cruise missiles from its upcoming guided missile destroyer, Kang Kon (52), on July 3, under Supreme Leader Kim Jong Un's observation. This launch signifies Pyongyang's advancements in naval strike capabilities and its ongoing defiance of international sanctions. The demonstration raises regional tensions and global proliferation concerns, highlighting North Korea's persistent military development and unpredictable posture.",
-            "url": "https://thediplomat.com/2026/07/the-rise-of-north-koreas-nuclear-armed-navy/",
+            "title": "Russia's 'Axis Of Upheaval' Is Built To Last Beyond Ukraine, Analyst Kendall-Taylor Says",
+            "summary": "Russia's strengthening partnerships with China, Iran, and North Korea are forming an 'axis of upheaval,' a significant geopolitical realignment driven by the Ukraine war. This emerging bloc challenges global stability and existing power structures. For SSB aspirants, this shift highlights evolving international security dynamics and crucial implications for global power balances, demanding keen strategic understanding.",
+            "url": "https://www.rferl.org/a/us-russia-china-iran-ukraine-war/33812439.html",
             "category": "International",
-            "date": "2026-07-24T12:26:00Z"
+            "date": "2026-07-24T18:37:49Z"
         },
         {
-            "title": "Oil at $100 is pushing up costs from gas pumps to grocery aisles",
-            "summary": "Global oil prices have surged past $100 a barrel due to intensified fighting and military strikes linked to the ongoing Iran war. This escalation is expected to cause further economic hardship for consumers worldwide, who are already grappling with rising costs. The conflict highlights the significant impact of geopolitical instability on global energy markets and economic stability.",
-            "url": "https://fortune.com/2026/07/24/oil-100-barrel-consumer-prices-iran-war/",
-            "category": "International",
-            "date": "2026-07-24T12:18:30Z"
-        },
-        {
-            "title": "Indigenous 'Bhargavastra' counter-drone system to complete internal trials in 2-3 months, says SDAL Chairman Satyanarayan Nuwal",
-            "summary": "Solar Defence and Aerospace Ltd (SDAL) is completing internal trials of its indigenous counter-drone system, 'Bhargavastra', within two months. This initiative boosts India's 'Atmanirbhar Bharat' mission in defence. 'Bhargavastra' will crucially enhance national security, providing the capability to detect and neutralize enemy drones, thereby strengthening India's defence against modern aerial threats.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indigenous-bhargavastra-counter-drone-system-to-complete-internal-trials-in-2-3-months-says-sdal-chairman-satyanarayan-nuwal/articleshow/132605358.cms",
-            "category": "Defence",
-            "date": "2026-07-24T12:16:06Z"
-        },
-        {
-            "title": "Delhi HC refuses to entertain PIL seeking NIA probe into CJP's Parliament march",
-            "summary": "The Delhi High Court refused to entertain a Public Interest Litigation (PIL) seeking an NIA or specialized agency probe into a march to Parliament on July 20, led by the 'Cockroach Janta Party'. The PIL aimed for an investigation into the protest, likely concerning its legality or security implications. However, the High Court\u2019s refusal means the matter will not proceed for further investigation through this specific judicial request.",
-            "url": "https://economictimes.indiatimes.com/news/india/delhi-hc-refuses-to-entertain-pil-seeking-nia-probe-into-cjps-parliament-march/articleshow/132605006.cms",
+            "title": "Cincinnati Reds: Eugenio Su\u00e1rez relishes return to Seattle",
+            "summary": "During a baseball game at T-Mobile Park in Seattle, play paused as the scoreboard prominently displayed a significant career highlight for player Eugenio Su\u00e1rez before his at-bat. Mariners catcher Cal Raleigh was also noted to be involved in this memorable on-field event, bringing the action to a temporary halt for the appreciation of Su\u00e1rez's achievement.",
+            "url": "https://www.journal-news.com/sports/cincinnati-reds-eugenio-su-rez-relishes-return-to-seattle/article_427a8bc1-bcb3-5c09-baad-b82743911e28.html",
             "category": "National",
-            "date": "2026-07-24T12:14:45Z"
+            "date": "2026-07-24T18:37:00Z"
+        },
+        {
+            "title": "Germany Is A Nuclear Power within The European Military Industrial Complex (EMIC)",
+            "summary": "US tactical B-61 nuclear warheads have been deployed and stockpiled by six European countries for over two decades. These 'bunker buster' bombs, controversially dubbed 'Peace-Making Bombs', represent a long-standing security arrangement. This involves non-nuclear states hosting US nuclear arms, raising questions about proliferation treaties and regional stability amidst evolving geopolitics.",
+            "url": "https://www.globalresearch.ca/yes-germany-a-nuclear-power-within-the-european-military-industrial-complex-emic/5934405",
+            "category": "Defence",
+            "date": "2026-07-24T18:10:41Z"
+        },
+        {
+            "title": "Shipbuilder Housing Is A Big Deal With 2028 Presidential Implications",
+            "summary": "San Francisco's Hunters Point Shipyard, a former U.S. Navy facility, faces significant hurdles to reconstitution after decades of neglect. High-cost housing in the area is making its revitalization extremely difficult, challenging efforts by shipyard executives and politicians. This situation highlights the complex interplay of urban development and strategic defence asset management, impacting potential future naval capabilities or related industrial use.",
+            "url": "https://www.forbes.com/sites/craighooper/2026/07/24/shipbuilder-housing-is-a-big-deal-with-2028-presidential-implications/",
+            "category": "Defence",
+            "date": "2026-07-24T18:01:17Z"
+        },
+        {
+            "title": "King Diamond Part Ways with Andy LaRocque, Welcome Former Ozzy Osbourne Guitarist Gus G",
+            "summary": "King Diamond's eponymous band has announced a significant lineup change, replacing long-term guitarist Andy LaRoque with renowned axeman Gus G, previously known for his work with Ozzy Osbourne. Gus G will join permanently, taking over writing and playing duties, marking a new chapter for the band's musical direction and upcoming projects.",
+            "url": "https://consequence.net/2026/07/king-diamond-andy-larocque-gus-g/",
+            "category": "International",
+            "date": "2026-07-24T18:01:11Z"
+        },
+        {
+            "title": "Leonardo Proteus Development Contract Extended",
+            "summary": "Leonardo Helicopters UK confirmed at Farnborough International Airshow 2026 that its Proteus helicopter program is progressing. This highlights continued innovation in aerospace, potentially impacting future rotary-wing capabilities. For SSB aspirants, this emphasizes the importance of ongoing R&D in defence technology for national security and military modernization, demonstrating the strategic role of advanced aviation.",
+            "url": "https://theaviationist.com/2026/07/24/leonardo-proteus-development-contract-extended/",
+            "category": "Defence",
+            "date": "2026-07-24T17:59:47Z"
         }
     ]
 }
