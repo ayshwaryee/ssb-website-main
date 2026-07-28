@@ -1,33 +1,33 @@
 {
-    "last_updated": "2026-07-27T19:19:17.050290+00:00",
+    "last_updated": "2026-07-28T02:03:04.457832+00:00",
     "articles": [
         {
-            "title": "PM sets up task force headed by UIDAI chief Nandan Nilekani for exam reforms; panel to revamp NTA through technology & structural changes",
-            "summary": "The Indian government is introducing a Bill in Lok Sabha to amend laws preventing unfair practices in public examinations, exemplified by NEET. This key legislation, coming a day after Prime Minister Modi's expected mention, targets curbing paper leaks and cheating. It aims to ensure greater transparency and fairness, reinforcing academic integrity for aspirants nationwide.",
-            "url": "https://economictimes.indiatimes.com/news/india/pm-sets-up-task-force-headed-by-uidai-chief-nandan-nilekani-for-exam-reforms-panel-to-revamp-nta-through-technology-structural-changes/articleshow/132646947.cms",
-            "category": "National",
-            "date": "2026-07-26T18:46:55Z"
+            "title": "'Apocalyptic' fire bears down on Bordeaux: Inferno so big it generates its own thunderstorms threatens entire city with 38C heat set to fan the flames",
+            "summary": "An 'apocalyptic' wildfire near Bordeaux, France, is generating its own thunderstorms, fueled by immense size and extreme 38C heat. This terrifying blaze threatens a large population and highlights the increasing severity of climate-related disasters. Emergency services face significant challenges in containing the rapidly spreading inferno, demonstrating the global impact of extreme weather events.",
+            "url": "https://www.dailymail.com/news/article-16006933/Apocalyptic-fire-Bordeaux-thunderstorms-38C-heat.html",
+            "category": "International",
+            "date": "2026-07-27T01:02:47Z"
         },
         {
-            "title": "Army rescues 790+ people as Gujarat flood relief operations end",
-            "summary": "The Indian Army successfully concluded extensive flood relief operations in Gujarat, rescuing over 790 individuals from flood-affected areas. This highlights the crucial role of the armed forces in national disaster management and humanitarian aid. Such missions demonstrate the Army's dedication to assisting citizens during natural calamities, reinforcing their multi-faceted capabilities and commitment to national service beyond conventional combat roles.",
-            "url": "https://timesofindia.indiatimes.com/city/ahmedabad/army-rescues-790-people-as-gujarat-flood-relief-operations-end/articleshow/132647053.cms",
-            "category": "Defence",
-            "date": "2026-07-26T18:44:24Z"
-        },
-        {
-            "title": "On Kargil Diwas, PM Modi hails INS Mahendragiri, DRDO's Pinaka and Kusha tests, calls for 'vocal for local' in Mann Ki Baat",
-            "summary": "Prime Minister Narendra Modi commemorated Kargil Diwas, honoring the unparalleled bravery and sacrifice of Indian soldiers. He underscored the nation's steadfast progress towards achieving 'Atmanirbharta' (self-reliance), particularly in the defence sector. This focus on indigenous capabilities not only bolsters national security but also embodies the resilient spirit of the armed forces, reinforcing India's strategic autonomy.",
-            "url": "https://economictimes.indiatimes.com/news/india/on-kargil-diwas-pm-modi-hails-ins-mahendragiri-drdos-pinaka-and-kusha-tests-calls-for-vocal-for-local-in-mann-ki-baat/articleshow/132646598.cms",
-            "category": "Defence",
-            "date": "2026-07-26T18:32:43Z"
-        },
-        {
-            "title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
-            "summary": "The article introduces James Cameron's earlier warnings, drawing parallels with the contemporary rise of AI, exemplified by OpenAI and platforms like Hugging Face, co-founded by Sam Altman. It suggests a reflection on how fictional cautionary tales about advanced technology might relate to today's rapid AI developments, implying a discussion about the foresight of these predictions amidst current advancements.",
-            "url": "https://abcnews.com/Technology/wireStory/called-skynet-day-close-sci-fi-after-rogue-135101950",
+            "title": "For decades a single whale has called at a frequency no other whale answers, and no one can say whether it is truly alone or simply speaking a language the rest of the ocean cannot hear",
+            "summary": "Scientists in the North Pacific discovered a unique whale vocalizing at an unusual 52 hertz, significantly higher than typical blue and fin whales. Dubbed the \"52-hertz whale,\" its solitary calls have sparked scientific interest regarding its potential as a hybrid, deaf individual, or an unknown species. This phenomenon underscores marine biology mysteries and the challenges of inter-species communication in ocean soundscapes.",
+            "url": "https://spacedaily.com/t-52-hertz-whale-frequency-no-other-whale-answers/",
             "category": "Sci & Tech",
-            "date": "2026-07-26T16:34:11Z"
+            "date": "2026-07-27T00:30:54Z"
+        },
+        {
+            "title": "5 Tiny Homes and Fold-Out Cabins Built to Move Wherever You Go",
+            "summary": "Portable architecture is undergoing a significant transformation, redefining concepts of space, ownership, and mobility. No longer merely temporary or emergency constructions, these systems are evolving into sophisticated, design-led solutions that offer advanced adaptability. This shift impacts how we perceive and utilize physical environments, potentially influencing various sectors with innovative, mobile infrastructural approaches.",
+            "url": "https://www.yankodesign.com/2026/07/26/5-tiny-homes-and-fold-out-cabins-built-to-move-wherever-you-go/",
+            "category": "Sci & Tech",
+            "date": "2026-07-26T23:30:05Z"
+        },
+        {
+            "title": "James Cameron tried to warn us: \u2018Skynet Day\u2019 is now shorthand for OpenAI\u2019s agent going rogue and hacking into a startup",
+            "summary": "The article connects James Cameron's early prophetic warnings about Artificial Intelligence in his screenplays with modern AI advancements, referencing entities like OpenAI and figures such as Sam Altman. It suggests that concerns regarding AI's capabilities and societal impact have long been present, predating current breakthroughs, urging contemporary reflection on this rapidly evolving technology's future implications.",
+            "url": "https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/",
+            "category": "Sci & Tech",
+            "date": "2026-07-26T18:05:25Z"
         }
     ]
 }
