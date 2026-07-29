@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-07-29T02:06:02.165564+00:00",
+    "last_updated": "2026-07-29T08:31:13.917339+00:00",
     "articles": [
         {
-            "title": "Sharmila Dhankar wins historic gold as India bags 6 medals on CWG Day 5",
-            "summary": "India demonstrated its strongest performance at the Commonwealth Games 2026, securing six medals on Day 5, bringing the total to 10. A significant highlight was Sharmila Dhankar setting a new national record. This impressive display underscores India's growing sporting prowess and competitive spirit on an international stage, inspiring national pride and ambition.",
-            "url": "https://economictimes.indiatimes.com/news/sports/other-sports/sharmila-dhankar-wins-historic-gold-as-india-bags-6-medals-on-commonwealth-games-day-5/articleshow/132673362.cms",
-            "category": "International",
-            "date": "2026-07-28T02:00:05Z"
+            "title": "Rajnath Singh unveils landmark policy reforms for ICG personnel and their families",
+            "summary": "Defence Minister Rajnath Singh recently unveiled two significant policy reforms for the Indian Coast Guard. These initiatives aim to promote gender parity in the induction and service conditions, ensuring equal opportunities for women. This move reflects a commitment to fostering a more inclusive and diverse workforce within the ICG, strengthening women's role in national defence and maritime security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-unveils-landmark-policy-reforms-for-icg-personnel-and-their-families/articleshow/132679192.cms",
+            "category": "Defence",
+            "date": "2026-07-28T08:23:23Z"
         },
         {
-            "title": "Australia\u2019s \u2018World-First\u2019 Data Center Rules Face First Hurdle",
-            "summary": "Australian PM Anthony Albanese's proposed world-first environmental and energy controls for the nation's A$150 billion data center pipeline face their initial test this Tuesday. These regulations aim to curb the substantial environmental impact and high energy consumption of data centers, showcasing Australia's proactive approach to sustainable technology development. This initiative could set a global precedent.",
-            "url": "https://financialpost.com/pmn/business-pmn/australias-world-first-data-center-rules-face-first-hurdle",
+            "title": "What is the highest acceleration a human can survive?",
+            "summary": "Humans can survive remarkably high g-forces, or multiples of Earth\u2019s gravitational acceleration, but duration, direction, and application are critical. This scientific understanding is vital for fields like aerospace and defence, ensuring safety and performance for pilots and astronauts. The ability to withstand extreme acceleration is key to designing high-performance aircraft and spacecraft, considering human physiological limits.",
+            "url": "https://www.lifesciencesworld.com/what-is-the-highest-acceleration-a-human-can-survive/",
             "category": "Sci & Tech",
-            "date": "2026-07-28T00:22:14Z"
+            "date": "2026-07-28T08:12:24Z"
         },
         {
-            "title": "gs1belu-mpm-download-mcp added to PyPI",
-            "summary": "This unofficial community project emphasizes its complete independence, explicitly stating no affiliation, endorsement, or support from GS1. The disclaimer highlights that 'GS1' and 'My Product Manager' are proprietary, reinforcing the project's status as a distinct, community-driven initiative. This clarity ensures users understand its grassroots origins and lack of corporate backing.",
-            "url": "https://pypi.org/project/gs1belu-mpm-download-mcp/",
-            "category": "Sci & Tech",
-            "date": "2026-07-27T21:19:56Z"
+            "title": "How one Karnataka village's traditional diet is linked to healthy child growth",
+            "summary": "Children in a village within Karnataka's Uttara Kannada district are demonstrating exceptional growth, mirroring the health outcomes seen in India's most affluent households. This significant development suggests effective local health and nutrition initiatives are bridging socioeconomic gaps, potentially offering a model for improving child welfare across rural India and highlighting successful grassroots efforts.",
+            "url": "https://www.thenewsminute.com/karnataka/how-one-karnataka-villages-traditional-diet-is-linked-to-healthy-child-growth",
+            "category": "National",
+            "date": "2026-07-28T08:11:34Z"
+        },
+        {
+            "title": "Apollo Micro Systems shortlisted by IAF for indigenous prescision range extension kit programme",
+            "summary": "Apollo Micro Systems (AMS) has been selected by the Indian Air Force to develop the Indigenous Precision Range Extension Kit (IPREK). This critical defence technology programme aims to significantly improve IAF capabilities, reinforcing India's push for self-reliance in advanced military systems. The collaboration underscores the 'Atmanirbhar Bharat' initiative, enhancing indigenous defence manufacturing and strategic independence for the nation.",
+            "url": "https://economictimes.indiatimes.com/news/defence/apollo-micro-systems-shortlisted-by-iaf-for-indigenous-prescision-range-extension-kit-programme/articleshow/132678266.cms",
+            "category": "Defence",
+            "date": "2026-07-28T07:48:54Z"
+        },
+        {
+            "title": "Tejas Shirse battles stress fracture to make historic Commonwealth Games final",
+            "summary": "Indian hurdler Tejas Shirse created history at the Commonwealth Games, becoming the first from the country to reach the men's 110m hurdles final. While achieving this significant milestone, his journey was marked by both breakthrough and disappointment, reflecting the high stakes and challenges of elite international competition. This performance highlights India's growing presence in global athletics.",
+            "url": "https://economictimes.indiatimes.com/news/sports/other-sports/tejas-shirse-battles-stress-fracture-to-make-historic-commonwealth-games-final/articleshow/132678221.cms",
+            "category": "National",
+            "date": "2026-07-28T07:36:48Z"
+        },
+        {
+            "title": "DRDO sensitive data offered for sale on dark web for nearly Rs 8 lakh",
+            "summary": "Alleged DRDO data, including sensitive information, has reportedly surfaced on the dark web and is being offered for sale for $8,000, as claimed by a Kerala-based cyber intelligence firm. DRDO is actively verifying the authenticity of this potential data breach. This incident highlights a significant cyber security concern for India's premier defence research organization and critical national assets.",
+            "url": "https://economictimes.indiatimes.com/news/defence/drdo-sensitive-data-offered-for-sale-on-dark-web-for-nearly-rs-8-lakh/articleshow/132677874.cms",
+            "category": "Defence",
+            "date": "2026-07-28T07:28:13Z"
+        },
+        {
+            "title": "Shirse's Courageous CWG Final Run On Injured Foot",
+            "summary": "Indian national record-holder Tejas Shirse displayed extraordinary courage and determination by competing in the Commonwealth Games men's 110m hurdles final despite a stress fracture. He made history as the first Indian to reach this final, inspiring many with his unwavering spirit and commitment to represent the nation even amidst significant personal challenge, embodying true resilience.",
+            "url": "https://www.rediff.com/sports/report/tejas-shirse-runs-with-injury-in-cwg-hurdles-final/20260728.htm",
+            "category": "National",
+            "date": "2026-07-28T07:06:33Z"
+        },
+        {
+            "title": "BTEUP Even Semester result 2026 declared at bteup.ac.in: Direct link active to download marksheet",
+            "summary": "The Board of Technical Education, Uttar Pradesh (BTEUP) has declared the results for its Even Semester examinations for 2026. Students can now access and download their marksheets directly from the official website, bteup.ac.in. This announcement is significant for those awaiting their academic performance from the technical education board, ensuring timely access to their results.",
+            "url": "https://timesofindia.indiatimes.com/education/news/bteup-even-semester-result-2026-declared-at-bteup-ac-in-direct-link-active-to-download-marksheet/articleshow/132675082.cms",
+            "category": "National",
+            "date": "2026-07-28T04:35:39Z"
         }
     ]
 }
