@@ -1,26 +1,40 @@
 {
-    "last_updated": "2026-07-30T19:17:42.853212+00:00",
+    "last_updated": "2026-07-31T02:20:58.717304+00:00",
     "articles": [
         {
-            "title": "midas-dfxm added to PyPI",
-            "summary": "Dark-Field X-ray Microscopy (DFXM) uses differentiable forward and inverse methods to image bulk grains. The technique employs a magnifying objective, like CRL or MLL, placed on a diffracted X-ray beam. This advanced microscopy allows for detailed internal structural analysis, crucial for material science research and understanding material properties at a microscopic level.",
-            "url": "https://pypi.org/project/midas-dfxm/",
-            "category": "Sci & Tech",
-            "date": "2026-07-29T19:13:49Z"
+            "title": "Why these 10 stocks will be in focus today",
+            "summary": "The USFDA has completed critical Pre-Approval (PAI) and Good Manufacturing Practices (GMP) inspections at Dr. Reddy's Laboratories' facility in India. These inspections are essential for granting approvals to new drugs and ensuring strict quality standards for medicines exported to the United States. A favorable outcome is crucial for Dr. Reddy's future product launches and continued market access in the lucrative US pharmaceutical market.",
+            "url": "https://www.thehindubusinessline.com/markets/why-these-10-stocks-will-be-in-focus-today/article71284211.ece",
+            "category": "International",
+            "date": "2026-07-30T02:13:00Z"
         },
         {
-            "title": "Which of Dyson\u2019s 2026 Vacuum Models Is the Best?",
-            "summary": "This article discusses a high-end appliance, noted for its significant cost and extensive array of attachments, surpassing other models. The reviewer particularly praises the 'Fluffy Optic' head, which is regularly utilized for effectively cleaning hard floors. The piece seems to detail the premium device's functional versatility and advanced features, justifying its expensive nature for optimal performance.",
-            "url": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
-            "category": "Sci & Tech",
-            "date": "2026-07-29T19:08:24Z"
+            "title": "Smallcaps set for strong earnings rebound in FY27; Mirae Asset\u2019s Varun Goel names 3 winning themes",
+            "summary": "Mirae Asset Mutual Funds predicts a significant comeback for small-cap stocks, driven by accelerating earnings growth after two flat years. A robust recovery is anticipated by FY27. This economic forecast is important for SSB aspirants to grasp domestic market trends, understand India's financial landscape, and prepare for discussions on national economic health and future development prospects.",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/smallcaps-set-for-strong-earnings-rebound-in-fy27-mirae-assets-varun-goel-names-3-winning-themes/articleshow/132724901.cms",
+            "category": "National",
+            "date": "2026-07-30T02:06:49Z"
         },
         {
-            "title": "tejas-label-ocr 0.1.1",
-            "summary": "A common website loading error, potentially caused by browser extensions, network instability, or incorrect browser settings, has been identified. Users encountering such issues are advised to troubleshoot by verifying their internet connection, temporarily disabling ad blockers, or attempting access via an alternative browser to resolve the display problem and ensure seamless online experience.",
-            "url": "https://pypi.org/project/tejas-label-ocr/0.1.1/",
+            "title": "Saint John\u2019s Ocean Steel makes 'tectonic shift' away from U.S. after losing most U.S. customers",
+            "summary": "A Saint John-based steel fabrication company, employing 200 people, is pivoting its focus towards domestic projects, exemplified by a recent contract for a British Columbia mine. This strategic shift reduces its historical 100% reliance on the U.S. market, indicating a strengthening of national economic self-reliance and industrial resilience. This development underscores the importance of fostering internal trade and job security within the nation.",
+            "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-ocean-steel-tariffs-9.7289425",
+            "category": "National",
+            "date": "2026-07-29T20:13:55Z"
+        },
+        {
+            "title": "Pok\u00e9mon Pokopia Reveals New Details For Expansion Pass\u2014Part 1",
+            "summary": "Pok\u00e9mon Pokopia has announced new details concerning its upcoming Expansion Pass Part 1. This significant content addition, typical for popular video games, is slated for an imminent launch. The revealed information likely previews new Pok\u00e9mon, areas, or gameplay features, enhancing the overall experience for players within this major gaming franchise.",
+            "url": "https://bleedingcool.com/games/pokemon-pokopia-reveals-new-details-for-expansion-pass-part-1/",
             "category": "Sci & Tech",
-            "date": "2026-07-29T18:47:52Z"
+            "date": "2026-07-29T17:52:10Z"
+        },
+        {
+            "title": "Ryan Clark opens up on the game film that won over Mike Tomlin",
+            "summary": "Former NFL safety Ryan Clark, initially undrafted from LSU, forged a remarkable career with the Pittsburgh Steelers. Renowned for his raw physicality and exemplary communication, he was a pivotal enforcer in their secondary. Clark transitioned from a formidable player, building a significant league legacy, to a respected NFL analyst. His journey exemplifies perseverance in professional sports.",
+            "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/07/29/ryan-clark-film-session-won-over-mike-tomlin/91091361007/",
+            "category": "National",
+            "date": "2026-07-29T16:07:17Z"
         }
     ]
 }
