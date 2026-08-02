@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-08-02T02:13:42.910569+00:00",
+    "last_updated": "2026-08-02T08:13:10.482376+00:00",
     "articles": [
         {
-            "title": "Show HN: I built a Python obfuscator that keeps production traces debuggable",
-            "summary": "pyobfus is a modern Python code obfuscator designed to protect source code by making it harder to reverse-engineer. Utilizing an Abstract Syntax Tree (AST) approach, it includes framework-aware presets and supports AI-assisted debugging through reverse stack-trace mapping. This tool enhances software security for Python applications, ensuring intellectual property protection for developers and potentially aiding in securing critical software systems.",
-            "url": "https://github.com/zhurong2020/pyobfus",
-            "category": "Sci & Tech",
-            "date": "2026-08-01T02:00:45Z"
-        },
-        {
-            "title": "Lanterns TV Teaser Offers Another Look at Ulrich Thomsen's Sinestro",
-            "summary": "A new TV teaser for the upcoming series 'Lanterns' has been released, offering viewers an additional glimpse of Ulrich Thomsen portraying the character Sinestro. The show is developed by Chris Mundy, Damon Lindelof, and Tom King, marking an update for fans of the fictional universe and its characters.",
-            "url": "https://bleedingcool.com/tv/lanterns-tv-teaser-offers-another-look-at-ulrich-thomsens-sinestro/",
-            "category": "Sci & Tech",
-            "date": "2026-07-31T23:26:09Z"
-        },
-        {
-            "title": "Forward-Deployed USS Minnesota Completed Maiden Patrol",
-            "summary": "The U.S. Navy's Virginia-class fast-attack submarine USS Minnesota (SSN 783) returned to its homeport at Naval Base Guam on July 29, 2026, transiting Apra Harbor. This routine deployment and return underscore the U.S. Navy's persistent operational presence and strategic capabilities in the Indo-Pacific region, emphasizing the critical role of advanced submarine assets in maintaining national security and regional stability.",
-            "url": "https://www.forbes.com/sites/petersuciu/2026/07/31/forward-deployed-uss-minnesota-completed-maiden-patrol/",
+            "title": "Russian attacks on Ukraine\u2019s capital kill 9, wound dozens",
+            "summary": "Russian forces launched an air attack on Ukraine's capital, Kyiv, on August 1, 2026, amidst their ongoing invasion. The strike caused significant damage to a multi-storey residential building, resulting in casualties. Rescue operations are underway to manage the aftermath. This incident underscores the continued intensity of the conflict and its devastating impact on urban areas and civilian populations.",
+            "url": "https://www.vanguardngr.com/2026/08/russian-attacks-on-ukraines-capital-kill-9-wound-dozens/",
             "category": "Defence",
-            "date": "2026-07-31T21:48:32Z"
+            "date": "2026-08-01T07:28:43Z"
+        },
+        {
+            "title": "Hyundai Motor India July total sales up 25.4 pc at 75,360 units",
+            "summary": "Hyundai Motor India Ltd reported its highest-ever monthly sales in July 2026, achieving a 25.4 per cent rise in total sales to 75,360 units. Domestic sales also reached an all-time high, indicating strong consumer demand and a robust performance for the automotive company within the Indian market. This significant growth underscores Hyundai's dominant position and successful strategies in India.",
+            "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-achieves-record-sales-of-75360-units-in-july-2026-up-254/articleshow/132784303.cms",
+            "category": "National",
+            "date": "2026-08-01T07:16:33Z"
+        },
+        {
+            "title": "Amar Upadhyay turns 50: Son Aryaman's heartfelt note steals the show",
+            "summary": "Television actor Amar Upadhyay celebrated his 50th birthday on Saturday, August 1st. His children, Aryaman and Chenab, expressed their love and celebrated this significant milestone publicly on social media. This news pertains to a prominent figure in the entertainment industry, reflecting personal events among national personalities, shared widely through digital platforms.",
+            "url": "https://www.nationpress.com/entertainment/amar-upadhyay-turns-50-kids-notes-go-viral",
+            "category": "National",
+            "date": "2026-08-01T07:14:04Z"
+        },
+        {
+            "title": "9,000 kmph: SpaceX junk is about to punch a hole in the Moon. Why scientists are happy",
+            "summary": "A defunct SpaceX rocket stage will impact the Moon at nearly 9,000 km/h. Planetary scientists globally are preparing to observe this event, aiming to study the resulting crater and ejected material. This accidental collision offers a unique opportunity to understand lunar geology and impact dynamics, providing valuable data for future space missions.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/spacex-junk-is-about-to-punch-a-hole-in-the-moon-at-nearly-9000-kmph-why-scientists-are-happy/articleshow/132783992.cms",
+            "category": "Sci & Tech",
+            "date": "2026-08-01T07:13:28Z"
+        },
+        {
+            "title": "Woolworths online shopping",
+            "summary": "The author details a three-year struggle to fully configure \"hydra.lemis.com,\" citing persistent irritation from numerous software updates and an urgent need for resolution. A new development today suggests ongoing challenges in managing this technical setup. This personal account highlights common frustrations and complexities in long-term software administration and system maintenance for digital projects.",
+            "url": "http://www.lemis.com/grog/diary-jul2026.php?topics=c#D-20260801-023205",
+            "category": "Sci & Tech",
+            "date": "2026-08-01T06:32:05Z"
+        },
+        {
+            "title": "Hyundai Motor India July total sales hit all-time high at 75,360 units, up 25.4%",
+            "summary": "Hyundai Motor India Ltd reported its highest-ever monthly sales in July 2026, achieving a 25.4% rise to 75,360 units. This record-breaking performance includes peak domestic sales, indicating strong demand and growth in the Indian automotive sector. SSB aspirants should note such economic indicators as they reflect the nation's industrial health and consumer confidence.",
+            "url": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-july-total-sales-hit-all-time-high-at-75360-units-up-254/article71293699.ece",
+            "category": "National",
+            "date": "2026-08-01T06:26:50Z"
+        },
+        {
+            "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 13th July 2026",
+            "summary": "India's maritime strength hinges on indigenisation, with indigenous warship classes like Nilgiri (stealth frigates) significantly enhancing naval capabilities and maritime security. This strategic self-reliance in defence manufacturing strengthens internal security and projects India's growing naval power. For SSB aspirants, understanding this domestic defence production is crucial for comprehending national security and strategic autonomy.",
+            "url": "https://iasbaba.com/2026/08/daily-current-affairs-ias-upsc-prelims-and-mains-exam-13th-july-2026/",
+            "category": "Defence",
+            "date": "2026-08-01T04:21:31Z"
+        },
+        {
+            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 11th July 2026",
+            "summary": "This platform provides daily Current Affairs quizzes, crucial for UPSC Prelims and valuable for SSB aspirants. Questions are meticulously sourced from The Hindu, Indian Express, and PIB, covering essential national and international developments. Access to an archive of previous quizzes is also available for comprehensive revision and practice, helping aspirants stay updated on key events.",
+            "url": "https://iasbaba.com/2026/08/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-11th-july-2026/",
+            "category": "National",
+            "date": "2026-08-01T04:10:08Z"
         }
     ]
 }
