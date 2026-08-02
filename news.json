@@ -1,47 +1,26 @@
 {
-    "last_updated": "2026-08-01T19:00:54.107522+00:00",
+    "last_updated": "2026-08-02T02:13:42.910569+00:00",
     "articles": [
         {
-            "title": "A week of AUKUS double-speak leaves everyone scratching their heads",
-            "summary": "The 'Aussie Shepherd,' a lively and fluffy herding dog, is extremely popular and widely encountered across the United States. Despite its name and claims of partial Antipodean origin, it has become a beloved breed within American culture, highlighting its significant presence and widespread appeal among Americans.",
-            "url": "https://www.abc.net.au/news/2026-08-01/us-military-personnel-aukus-deployment-conroy-remarks/106982608",
-            "category": "National",
-            "date": "2026-07-31T19:00:00Z"
-        },
-        {
-            "title": "How Danny MacAskill tackled the \u2018Impossible Bike Obstacle Course Race\u2019: An exclusive interview",
-            "summary": "Red Bull has launched its ambitious \"Impossible Bike Obstacle Course Race,\" a unique event pushing the limits of extreme cycling. The race features legendary bike stunt riders Danny MacAskill and Kriss Kyle, promising an unprecedented display of skill and daring. This initiative underscores Red Bull's continuous innovation in creating spectacular challenges within the world of action sports.",
-            "url": "https://www.singletracks.com/mtb-tips/how-danny-macaskill-tackled-the-impossible-bike-obstacle-course-race-an-exclusive-interview/",
-            "category": "International",
-            "date": "2026-07-31T18:52:34Z"
-        },
-        {
-            "title": "Beyond the throwing circle: Motherhood, arthritis and Seema Kaliramna's bronze",
-            "summary": "Indian Commonwealth Games bronze medallist discus thrower Seema Kaliramna's journey highlights immense resilience. Her toughest battle commenced after childbirth, as she strived to regain peak athletic form. This narrative underscores the profound dedication, mental fortitude, and commitment required to balance motherhood with elite sporting ambitions, serving as an inspiring example of overcoming adversity and demonstrating unwavering spirit essential for success.",
-            "url": "https://economictimes.indiatimes.com/news/sports/other-sports/beyond-the-throwing-circle-motherhood-arthritis-and-seema-kaliramnas-bronze/articleshow/132775638.cms",
-            "category": "National",
-            "date": "2026-07-31T18:41:50Z"
-        },
-        {
-            "title": "Our omnivorous appetite: Rise of a seamless local-national consumer identity through vernacular creativity that AI will fuel",
-            "summary": "Global data indicates that nearly 75% of top YouTube videos trend exclusively within their country, with genuinely worldwide viral hits being a rarity. Similarly, the top 50 songs on Spotify originate from diverse linguistic and regional sources. This highlights a significant localization in digital content consumption, suggesting that despite the global reach of platforms, cultural and regional preferences strongly influence media popularity.",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/our-omnivorous-appetite-rise-of-a-seamless-local-national-consumer-identity-through-vernacular-creativity-that-ai-will-fuel/articleshow/132774109.cms",
+            "title": "Show HN: I built a Python obfuscator that keeps production traces debuggable",
+            "summary": "pyobfus is a modern Python code obfuscator designed to protect source code by making it harder to reverse-engineer. Utilizing an Abstract Syntax Tree (AST) approach, it includes framework-aware presets and supports AI-assisted debugging through reverse stack-trace mapping. This tool enhances software security for Python applications, ensuring intellectual property protection for developers and potentially aiding in securing critical software systems.",
+            "url": "https://github.com/zhurong2020/pyobfus",
             "category": "Sci & Tech",
-            "date": "2026-07-31T17:34:05Z"
+            "date": "2026-08-01T02:00:45Z"
         },
         {
-            "title": "Sri Lanka sentences officials to death over bombing that killed Australians",
-            "summary": "A Sri Lankan court has sentenced a former police chief and a former defence ministry official to death for failing to prevent the devastating 2019 Easter Sunday bombings by Islamic State-inspired groups. This landmark ruling highlights severe accountability for leadership in national security, emphasizing the critical importance of intelligence sharing and proactive measures to safeguard citizens against terror threats.",
-            "url": "https://www.abc.net.au/news/2026-08-01/death-penalty-sentence-over-easter-sunday-bombings/106985044",
+            "title": "Lanterns TV Teaser Offers Another Look at Ulrich Thomsen's Sinestro",
+            "summary": "A new TV teaser for the upcoming series 'Lanterns' has been released, offering viewers an additional glimpse of Ulrich Thomsen portraying the character Sinestro. The show is developed by Chris Mundy, Damon Lindelof, and Tom King, marking an update for fans of the fictional universe and its characters.",
+            "url": "https://bleedingcool.com/tv/lanterns-tv-teaser-offers-another-look-at-ulrich-thomsens-sinestro/",
+            "category": "Sci & Tech",
+            "date": "2026-07-31T23:26:09Z"
+        },
+        {
+            "title": "Forward-Deployed USS Minnesota Completed Maiden Patrol",
+            "summary": "The U.S. Navy's Virginia-class fast-attack submarine USS Minnesota (SSN 783) returned to its homeport at Naval Base Guam on July 29, 2026, transiting Apra Harbor. This routine deployment and return underscore the U.S. Navy's persistent operational presence and strategic capabilities in the Indo-Pacific region, emphasizing the critical role of advanced submarine assets in maintaining national security and regional stability.",
+            "url": "https://www.forbes.com/sites/petersuciu/2026/07/31/forward-deployed-uss-minnesota-completed-maiden-patrol/",
             "category": "Defence",
-            "date": "2026-07-31T17:25:56Z"
-        },
-        {
-            "title": "Over half of BSE 500 stocks underperform market in July - www.lokmattimes.com",
-            "summary": "In July, over half of the BSE 500 stocks underperformed the broader market, with 280 companies experiencing declines of up to 22%. This trend emerged despite benchmark indices closing higher, indicating a divergence between leading indices and the performance of a wider range of companies. This highlights a nuanced market reality beyond headline figures.",
-            "url": "https://www.lokmattimes.com/business/over-half-of-bse-500-stocks-underperform-market-in-july/",
-            "category": "National",
-            "date": "2026-07-31T16:56:30Z"
+            "date": "2026-07-31T21:48:32Z"
         }
     ]
 }
