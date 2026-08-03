@@ -1,33 +1,40 @@
 {
-    "last_updated": "2026-08-02T19:01:56.052643+00:00",
+    "last_updated": "2026-08-03T02:21:49.929670+00:00",
     "articles": [
         {
-            "title": "India's youth driving advances in AI, space & deep tech: PM Narendra Modi",
-            "summary": "Prime Minister Narendra Modi highlighted India's youth as crucial drivers for the nation's rapid economic and technological growth. He noted India's emergence as the world's second-largest mobile phone manufacturer and the third-largest startup ecosystem. This success underscores the vibrant entrepreneurial spirit and innovative capabilities of young Indians, positioning the country as a major global player in manufacturing and digital innovation.",
-            "url": "https://economictimes.indiatimes.com/news/india/indias-youth-driving-advances-in-ai-space-deep-tech-pm-narendra-modi/articleshow/132795798.cms",
-            "category": "National",
-            "date": "2026-08-01T18:45:54Z"
+            "title": "Show HN: Symbio self fine-tuning AI loop",
+            "summary": "Symbio introduces a new local AI that learns directly from user corrections without requiring cloud access or subscriptions. This innovative system processes user notes to construct training data, enabling it to fine-tune itself. The goal is to eliminate repetitive inputs and enhance personalized learning directly on-device, emphasizing privacy and user-centric adaptation. This tech offers an independent, self-improving AI solution.",
+            "url": "https://github.com/huyedits/Symbio",
+            "category": "Sci & Tech",
+            "date": "2026-08-01T23:06:26Z"
         },
         {
-            "title": "3 killed, property damaged in Malabar",
-            "summary": "Outer Delhi reported a tragic snakebite claiming a woman and her teen daughter. Separately, political tensions escalated in Karnataka as Nainar accused the CM of insulting Vijay amidst ongoing Cauvery river protests, highlighting inter-state water sharing challenges. Furthermore, nine arrests were made following a murder linked to campus rivalry, indicating concerns over law and order.",
-            "url": "https://timesofindia.indiatimes.com/city/kochi/3-killed-property-damaged-in-malabar/articleshow/132795050.cms",
-            "category": "National",
-            "date": "2026-08-01T18:01:54Z"
+            "title": "Russian ship defies sanctions to send military vehicles to Mali",
+            "summary": "The Kremlin is intensifying support for Mali's ruling junta through new deliveries, following successful offensives by the jihadist group Jama'a. Experts view this as Russia doubling down on its commitment to the West African nation amidst internal instability. This strategic move highlights Moscow's growing influence and involvement in regional conflicts and security dynamics.",
+            "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko",
+            "category": "International",
+            "date": "2026-08-01T23:03:23Z"
         },
         {
-            "title": "How Rufus Sewell Found a TV Role Worth Staying For",
-            "summary": "Renowned actor Rufus Sewell has deliberately avoided long-running TV series throughout his decades-long career. He attributes this professional choice to a personal apprehension regarding career security, stating that the very idea of it has historically filled him with fear. This approach has allowed him to pursue diverse roles rather than being tied to a single, continuous show.",
-            "url": "http://www.hollywoodreporter.com/tv/tv-features/rufus-sewell-the-diplomat-emmys-1236661206/",
-            "category": "National",
-            "date": "2026-08-01T16:30:35Z"
+            "title": "Hell-World Venus May Have Once Had Oceans Across 90% of Its Hot, Dry Surface",
+            "summary": "The article contrasts Earth and Venus, highlighting their profound differences despite similar sizes. Earth thrives with life, water, and geological activity, while Venus is an extreme, hellish world. Its dense, hot atmosphere and surface conditions make it uninhabitable, showcasing the unique planetary factors essential for supporting life. This comparison underscores Earth's unique habitability.",
+            "url": "https://www.sciencealert.com/hell-world-venus-may-have-once-had-oceans-across-90-of-its-hot-dry-surface",
+            "category": "Sci & Tech",
+            "date": "2026-08-01T20:00:00Z"
         },
         {
-            "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-            "summary": "The Rams, despite leading league scoring in 2025, failed to win their division due to a crucial 38-37 overtime loss to the Seahawks. To remedy this, the team is now strategically shifting focus towards creating the best defense. This move highlights a major operational re-evaluation aimed at improving overall performance and securing future divisional success.",
-            "url": "https://www.cbssports.com/betting/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+            "title": "The Lanterns Comic-Con Footage Actually Made Me More Excited for an Earth-set Green Lantern Story",
+            "summary": "A new trailer for 'Lanterns' debuted at San Diego Comic-Con 2026, generating buzz for the Green Lantern franchise's integration into the MCU. This development suggests a potentially successful approach to the iconic DC Comics property, indicating a significant \"big swing\" for the Marvel Cinematic Universe in adapting the sci-fi superhero series, while the DCU remains in its nascent stages.",
+            "url": "http://comicbook.com/tv-shows/feature/the-lanterns-comic-con-footage-actually-made-me-more-excited-for-an-earth-set-green-lantern-story/",
+            "category": "Sci & Tech",
+            "date": "2026-08-01T18:00:00Z"
+        },
+        {
+            "title": "Betting the Buccaneers in 2026: See how Tampa Bay's win total, Super Bowl odds are trending and our best bets",
+            "summary": "In 2025, the Tampa Bay Buccaneers' four-year division title streak concluded. This outcome resulted from the Carolina Panthers sweeping the Atlanta Falcons and subsequently winning a crucial tiebreaker among the three 8-9 teams. The Panthers' victory prevented the Buccaneers from securing another division championship, marking a significant shift in the league standings.",
+            "url": "https://www.cbssports.com/betting/news/betting-the-buccaneers-in-2026-see-how-tampa-bays-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
             "category": "National",
-            "date": "2026-08-01T14:48:07Z"
+            "date": "2026-08-01T14:38:05Z"
         }
     ]
 }
