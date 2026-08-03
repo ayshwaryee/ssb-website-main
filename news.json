@@ -1,40 +1,61 @@
 {
-    "last_updated": "2026-08-03T02:21:49.929670+00:00",
+    "last_updated": "2026-08-03T09:33:22.245221+00:00",
     "articles": [
         {
-            "title": "Show HN: Symbio self fine-tuning AI loop",
-            "summary": "Symbio introduces a new local AI that learns directly from user corrections without requiring cloud access or subscriptions. This innovative system processes user notes to construct training data, enabling it to fine-tune itself. The goal is to eliminate repetitive inputs and enhance personalized learning directly on-device, emphasizing privacy and user-centric adaptation. This tech offers an independent, self-improving AI solution.",
-            "url": "https://github.com/huyedits/Symbio",
-            "category": "Sci & Tech",
-            "date": "2026-08-01T23:06:26Z"
+            "title": "Indian Army launches indigenous XWG diesel that works at minus 42\u00b0C for tanks, combat vehicles along LAC, LoC",
+            "summary": "The Indian Army has introduced an indigenously developed Xtreme Weather Grade (XWG) diesel. This specialized fuel is designed to significantly boost combat readiness and operational mobility in the extreme cold conditions prevalent in Eastern Ladakh and other high-altitude regions. Its introduction will ensure better performance of vehicles and equipment, improving logistical support and tactical capabilities for troops operating in challenging environments.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-launches-indigenous-xwg-diesel-that-works-at-minus-42c-for-tanks-combat-vehicles-along-lac-loc/articleshow/132803817.cms",
+            "category": "Defence",
+            "date": "2026-08-02T09:23:07Z"
         },
         {
-            "title": "Russian ship defies sanctions to send military vehicles to Mali",
-            "summary": "The Kremlin is intensifying support for Mali's ruling junta through new deliveries, following successful offensives by the jihadist group Jama'a. Experts view this as Russia doubling down on its commitment to the West African nation amidst internal instability. This strategic move highlights Moscow's growing influence and involvement in regional conflicts and security dynamics.",
-            "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko",
+            "title": "Indian Navy launches 5th Diving Support Craft 'DSC A24' in Kolkata",
+            "summary": "The fifth Diving Support Craft (DSC A24) was launched in Kolkata, marking a key milestone for the Indian Navy. This vessel is part of the DSC project, enhancing the Navy's underwater operations, maintenance, and rescue capabilities. It also significantly boosts the 'Make in India' initiative, demonstrating indigenous shipbuilding prowess essential for national security and maritime strength.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-launches-5th-diving-support-craft-dsc-a24-in-kolkata/articleshow/132803389.cms",
+            "category": "Defence",
+            "date": "2026-08-02T08:04:46Z"
+        },
+        {
+            "title": "Wait times for Quebec's 811 health line are exploding. What's the holdup?",
+            "summary": "Quebec's Info-Sant\u00e9 811 non-urgent health advice line is experiencing significant delays. Callers faced an average wait time peaking at 98 minutes on July 14 last month to speak with a nurse. This highlights challenges in public healthcare service delivery and resource management in the region, a critical aspect of national governance and public welfare that future leaders should observe.",
+            "url": "https://www.cbc.ca/news/canada/montreal/quebec-811-health-advice-wait-times-9.7292521",
             "category": "International",
-            "date": "2026-08-01T23:03:23Z"
+            "date": "2026-08-02T08:00:00Z"
         },
         {
-            "title": "Hell-World Venus May Have Once Had Oceans Across 90% of Its Hot, Dry Surface",
-            "summary": "The article contrasts Earth and Venus, highlighting their profound differences despite similar sizes. Earth thrives with life, water, and geological activity, while Venus is an extreme, hellish world. Its dense, hot atmosphere and surface conditions make it uninhabitable, showcasing the unique planetary factors essential for supporting life. This comparison underscores Earth's unique habitability.",
-            "url": "https://www.sciencealert.com/hell-world-venus-may-have-once-had-oceans-across-90-of-its-hot-dry-surface",
+            "title": "Lurkers in the deep: How Canada's new submarines will be used in peace and potential war",
+            "summary": "Canada announced its decision to acquire its next submarine fleet from Germany's ThyssenKrupp Marine Systems. Prime Minister Mark Carney stated the new submarines are crucial for securing Canadian coastlines and waters. This significant defence procurement highlights Canada's commitment to bolstering its maritime security capabilities and reflects international cooperation in strategic defence acquisitions, crucial for national defence. This strengthens Canada's naval power.",
+            "url": "https://www.cbc.ca/news/politics/canada-new-submarines-use-9.7293006",
+            "category": "Defence",
+            "date": "2026-08-02T08:00:00Z"
+        },
+        {
+            "title": "Police Complaint (2026)",
+            "summary": "Samehadaku is identified as Indonesia's leading and most updated official anime streaming platform, highly popular among enthusiasts. It offers a comprehensive, daily updated collection of Indonesian-subtitled anime. This highlights the significant growth of digital entertainment consumption and the increasing reliance on online platforms for specific cultural content within the nation, reflecting evolving tech usage trends.",
+            "url": "https://mediaobservatory.net/police-complaint-2026/",
             "category": "Sci & Tech",
-            "date": "2026-08-01T20:00:00Z"
+            "date": "2026-08-02T07:55:00Z"
         },
         {
-            "title": "The Lanterns Comic-Con Footage Actually Made Me More Excited for an Earth-set Green Lantern Story",
-            "summary": "A new trailer for 'Lanterns' debuted at San Diego Comic-Con 2026, generating buzz for the Green Lantern franchise's integration into the MCU. This development suggests a potentially successful approach to the iconic DC Comics property, indicating a significant \"big swing\" for the Marvel Cinematic Universe in adapting the sci-fi superhero series, while the DCU remains in its nascent stages.",
-            "url": "http://comicbook.com/tv-shows/feature/the-lanterns-comic-con-footage-actually-made-me-more-excited-for-an-earth-set-green-lantern-story/",
+            "title": "Show HN: An SDK to build apps for Kobo eReaders",
+            "summary": "Cobalt is an SDK specifically designed for building real applications on Kobo devices. It features a declarative UI layer, a runtime that intelligently manages hardware resources during sessions, and a browser simulator. This toolkit empowers developers to create more dynamic and interactive software, enhancing the capabilities and user experience of Kobo e-readers significantly.",
+            "url": "https://github.com/BandarLabs/Cobalt",
             "category": "Sci & Tech",
-            "date": "2026-08-01T18:00:00Z"
+            "date": "2026-08-02T07:05:04Z"
         },
         {
-            "title": "Betting the Buccaneers in 2026: See how Tampa Bay's win total, Super Bowl odds are trending and our best bets",
-            "summary": "In 2025, the Tampa Bay Buccaneers' four-year division title streak concluded. This outcome resulted from the Carolina Panthers sweeping the Atlanta Falcons and subsequently winning a crucial tiebreaker among the three 8-9 teams. The Panthers' victory prevented the Buccaneers from securing another division championship, marking a significant shift in the league standings.",
-            "url": "https://www.cbssports.com/betting/news/betting-the-buccaneers-in-2026-see-how-tampa-bays-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
-            "category": "National",
-            "date": "2026-08-01T14:38:05Z"
+            "title": "U.S. Navy Orders 10,000-Ton Attack Submarines in Major Fleet Expansion",
+            "summary": "The U.S. Navy has awarded a contract for a new class of 10,000-ton nuclear-powered attack submarines. This strategic move aims to significantly enhance its underwater combat capabilities and global power projection. For SSB aspirants, it highlights continuous advancements in naval technology crucial for maintaining maritime dominance and strategic deterrence.",
+            "url": "https://www.naturalnews.com/2026-08-02-us-navy-orders-10000-ton-attack-fleet.html",
+            "category": "Defence",
+            "date": "2026-08-02T06:00:00Z"
+        },
+        {
+            "title": "I\u2019m Laughing Over Nathan Fillion\u2019s Take On Watching His Lanterns Co-Stars Get Into Character",
+            "summary": "The article announces \"Lanterns,\" a new DC show, set to premiere on the 2026 TV schedule. Co-created by Damon Lindelof, Chris Mundy, and Tom King, the series will feature Aaron Pierre as John Stewart, a prominent Green Lantern. This show is anticipated by fans of the DC universe, expanding its live-action television offerings.",
+            "url": "https://www.cinemablend.com/streaming-news/nathan-fillion-funny-take-watching-lanterns-co-stars-get-into-character",
+            "category": "Sci & Tech",
+            "date": "2026-08-01T22:21:00Z"
         }
     ]
 }
