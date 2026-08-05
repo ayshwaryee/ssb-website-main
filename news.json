@@ -1,61 +1,117 @@
 {
-    "last_updated": "2026-08-05T08:27:24.434709+00:00",
+    "last_updated": "2026-08-05T13:55:32.766501+00:00",
     "articles": [
         {
-            "title": "US Navy replaces Ohio-Class, the world's most heavily armed missile submarines: 19 Virginia-class boats become next- gen SSGNs to succeed them",
-            "summary": "The US Navy is replacing its heavily armed conventional missile submarines with new guided missile platforms. This strategic modernization enhances precision strike capabilities and adapts to modern naval warfare. For SSB aspirants, this highlights significant global naval power shifts, emphasizing continuous technological upgrades in defence, influencing strategic deployments and international security dynamics.",
-            "url": "https://economictimes.indiatimes.com/news/defence/us-navy-replaces-the-worlds-most-heavily-armed-missile-submarines-19-virginia-class-become-next-gen-ssgns-to-succeed-the-ohio-class/articleshow/132851976.cms",
-            "category": "Defence",
-            "date": "2026-08-04T08:04:22Z"
+            "title": "cursor-humanizer added to PyPI",
+            "summary": "This technology creates realistic, human-like mouse movements for automated browser interactions using Playwright Python's async API. It generates natural cursor paths with randomised Bezier curves, making automated activities harder to detect by bot protection systems. This innovation is crucial for robust web automation and testing, enhancing the ability to mimic human behaviour online.",
+            "url": "https://pypi.org/project/cursor-humanizer/",
+            "category": "Sci & Tech",
+            "date": "2026-08-04T13:43:41Z"
         },
         {
-            "title": "Ukraine strikes Moscow industrial zone in fresh drone onslaught, killing multiple people, as Kyiv continues to bring war to Putin's doorstep",
-            "summary": "Ukraine launched a drone attack targeting an industrial zone on the outskirts of Moscow, resulting in five fatalities and ten injuries. This latest assault marks an escalation in drone warfare, bringing the conflict directly to Russia's capital region. Such incidents highlight the evolving nature of modern warfare and the challenges in homeland defence.",
-            "url": "https://www.dailymail.com/news/article-16026689/Ukraine-strikes-Moscow-industrial-zone-fresh-drone-onslaught-killing-multiple-people-Kyiv-continues-bring-war-Putins-doorstep.html",
-            "category": "Defence",
-            "date": "2026-08-04T07:28:47Z"
+            "title": "Bizcap US launches Line of Capital Ultra for SMBs seeking flexible financing",
+            "summary": "US non-bank funder Bizcap US launched 'Line of Capital (LOC) Ultra,' a new flexible working capital solution for businesses. This expands their financial product offerings, providing enterprises with crucial funding options. For SSB aspirants, this reflects evolving financial markets and the importance of capital access for economic growth, aiding general awareness.",
+            "url": "https://www.prnewswire.com/news-releases/bizcap-us-launches-line-of-capital-ultra-for-smbs-seeking-flexible-financing-302842540.html",
+            "category": "International",
+            "date": "2026-08-04T13:42:00Z"
         },
         {
-            "title": "Five dead in Moscow as Ukraine continues warehouse strikes",
-            "summary": "A Ukrainian drone strike near Moscow resulted in five deaths and ten injuries at a warehouse overnight. This incident underscores the ongoing Russia-Ukraine conflict's intensity and Ukraine's operational reach. Such events are vital for SSB aspirants to grasp contemporary geopolitical tensions and military strategies in modern warfare scenarios.",
-            "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo",
-            "category": "Defence",
-            "date": "2026-08-04T07:20:40Z"
-        },
-        {
-            "title": "H\u00edrkedd \u2013 Vadhandhi 2. \u00e9vad!",
-            "summary": "Dated August 4, 2026, the article announces upcoming media premieres in Hungary. It highlights the third season of 'Mystery at the Lake' and the fourth season of 'Deception' on Disney+. Additionally, a new Netflix series, 'L\u00e1zad\u00f3 sz...', is scheduled for release. This content focuses on entertainment programming updates relevant to the Hungarian audience.",
-            "url": "https://www.sorozatjunkie.hu/2026/08/04/hirkedd-405/",
+            "title": "Follow along live as Miami Dolphins begin Day 6 of training camp",
+            "summary": "The Miami Dolphins have commenced Day 6 of their training camp, with coach Jeff Hafley announcing a setback. Right tackle Austin Jackson will be sidelined due to a short-term injury. This news impacts the team's ongoing preparations, highlighting the constant adjustments teams face due to player availability and the physical demands inherent in professional sports training.",
+            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/04/miami-dolphins-training-camp-austin-jackson/91163113007/",
             "category": "National",
-            "date": "2026-08-04T07:05:27Z"
+            "date": "2026-08-04T13:41:08Z"
         },
         {
-            "title": "US Is Underestimating The Iran-Russia-China-North Korea Axis, Warns Mark Montgomery",
-            "summary": "The burgeoning strategic partnership among China, Russia, Iran, and North Korea represents a significant and defining security challenge for the United States and its allies. This evolving alignment prompts growing concerns in Washington regarding global stability and the shifting international balance of power, impacting future geopolitical and defence strategies worldwide.",
-            "url": "https://www.rferl.org/a/iran-russia-china-ukraine-north-korea-montgomery/33821449.html",
+            "title": "Lohia Aerospace to invest up to $10 million in India\u2019s first large-format 3D composite tooling facility",
+            "summary": "Lohia Aerospace Systems is investing $8-10 million to establish India's first commercial large-format additive manufacturing facility in Mumbai over two years. This pioneering unit will produce aerospace composite tooling, significantly boosting indigenous capabilities. This initiative strengthens 'Make in India' for the aerospace sector, fostering self-reliance crucial for both civil and defence applications and accelerating production.",
+            "url": "https://economictimes.indiatimes.com/news/defence/lohia-aerospace-to-invest-up-to-10-million-in-indias-first-large-format-3d-composite-tooling-facility/articleshow/132862465.cms",
             "category": "Defence",
-            "date": "2026-08-04T06:43:00Z"
+            "date": "2026-08-04T13:35:42Z"
         },
         {
-            "title": "Russia downs 320 Ukrainian drones: Six killed, warehouses damaged in Moscow, St Petersburg",
-            "summary": "Russia reported downing 320 Ukrainian drones, signaling intense aerial combat. The attacks led to six deaths and damaged warehouses in Moscow and St. Petersburg. This incident exemplifies the escalating drone warfare and defensive countermeasures employed, highlighting the evolving nature of military engagements in the ongoing Russia-Ukraine conflict.",
-            "url": "https://timesofindia.indiatimes.com/world/russia-downs-320-ukrainian-drones-six-killed-warehouses-damaged-in-moscow-st-petersburg/articleshow/132846897.cms",
+            "title": "Bizcap US launches Line of Capital Ultra, giving partners a smart working capital solution for clients",
+            "summary": "Non-bank funder Bizcap US has launched Line of Capital (LOC) Ultra in Miami, a new product designed to offer flexible funding solutions. Aimed at brokers, financial advisors, and independent sales organizations (ISOs), this initiative seeks to enhance capital access within the financial services sector. Announced for August 4, 2026, it represents an expansion in specialized lending for businesses.",
+            "url": "https://www.prnewswire.com/news-releases/bizcap-us-launches-line-of-capital-ultra-giving-partners-a-smart-working-capital-solution-for-clients-302842530.html",
+            "category": "National",
+            "date": "2026-08-04T13:31:00Z"
+        },
+        {
+            "title": "Navy Relieves Commander of Sub USS West Virginia",
+            "summary": "The U.S. Navy has relieved Commander Joseph Sammur from command of the USS West Virginia, a ballistic missile submarine. This decision, reported on August 3, 2026, marks a notable leadership change within a crucial strategic asset of the Navy. For SSB aspirants, such actions highlight the stringent accountability and high standards expected from commanding officers in the armed forces.",
+            "url": "https://freerepublic.com/focus/f-news/4390542/posts",
             "category": "Defence",
-            "date": "2026-08-04T06:39:48Z"
+            "date": "2026-08-04T13:29:37Z"
         },
         {
-            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 16th July 2026",
-            "summary": "This resource provides daily current affairs questions, meticulously curated from important sources like The Hindu, Indian Express, and PIB. These questions are highly beneficial for UPSC Prelims aspirants, offering crucial preparation for various competitive exams, including those relevant for SSB, by focusing on contemporary national issues and events.",
-            "url": "https://iasbaba.com/2026/08/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-16th-july-2026/",
+            "title": "How long will Austin Jackson miss practices with Miami Dolphins?",
+            "summary": "Miami Dolphins coach Jeff Hafley held a press briefing during Day 6 of the team's training camp. A significant update included Right Tackle Austin Jackson's minor injury, causing him to exit Monday's practice prematurely. The coach provided further details, likely regarding player readiness and team developments as preparations continue for the upcoming professional football season.",
+            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/04/dolphins-austin-jackson-jeff-hafley/91162655007/",
             "category": "National",
-            "date": "2026-08-04T05:59:48Z"
+            "date": "2026-08-04T13:21:29Z"
         },
         {
-            "title": "Military personnel bag 46% of India\u2019s medals at CWG 2026",
-            "summary": "The article fragments highlight India's strategic focus on the 'Amdavad 2030' campaign, following the 'Glasgow' event, indicating national aspirations and potential challenges. Separately, it touches upon a domestic issue concerning an ex-India junior keeper's controversial bid to secure a government job, suggesting a mix of national ambitions and internal affairs that demand attention.",
-            "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/military-personnel-bag-46-of-indias-medals-at-cwg-2026/articleshow/132845195.cms",
+            "title": "Monument of Misanthropy \u2013 Washington State Charm (2026)",
+            "summary": "The provided text outlines an album's tracklist, featuring titles such as 'Neath Tacoma Asphalt' and 'The 1974 PNW Spree'. It details collaborations with various artists including Mendel bij de Leij and Gabe Mangold, indicating a new musical release. While not directly defence-related, it represents a cultural release from a specific region within a national context.",
+            "url": "https://post.rlsbb.cc/monument-of-misanthropy-washington-state-charm-2026/",
             "category": "National",
-            "date": "2026-08-04T03:03:44Z"
+            "date": "2026-08-04T12:50:46Z"
+        },
+        {
+            "title": "Dolphins' Quinn Ewers: Learning from Malik Willis 'not worst thing'",
+            "summary": "Miami Dolphins quarterback Quinn Ewers underscored team unity, expressing that all players in the quarterback room are committed to the organization's success. This statement highlights positive attributes like collective goal-setting and a shared vision, essential for effective team dynamics. While specific to sports, such principles of cooperation and leadership are broadly applicable and valuable for aspirants focused on collaborative environments.",
+            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/04/miami-dolphins-quinn-ewers-malik-willis/91140134007/",
+            "category": "National",
+            "date": "2026-08-04T12:15:55Z"
+        },
+        {
+            "title": "Chief of the Defence Force - Speech at ADSTAR Summit",
+            "summary": "Issued by Defence Media, the text introduces an event featuring Minister for Foreign Affairs Penny Wong addressing High Commissioners, industry, academia, and international defence partners. While the specific agenda isn't detailed due to truncation, it signifies a key defence engagement focused on global collaboration and strategic partnerships, bringing together diverse stakeholders for discussions within the defence sector.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260804-audod03.htm",
+            "category": "Defence",
+            "date": "2026-08-04T12:00:00Z"
+        },
+        {
+            "title": "US carrier strike group participates in 17th MMCA - AFP",
+            "summary": "A US Navy carrier strike group, spearheaded by the USS George Washington (CVN-73), recently participated in the 17th multilateral maritime exercise. This involvement underscores ongoing international defence cooperation and strategic naval presence in the region. Such joint drills are vital for enhancing interoperability and regional security, providing key insights for SSB aspirants on global defence dynamics and maritime strategy.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260804-pna02.htm",
+            "category": "Defence",
+            "date": "2026-08-04T12:00:00Z"
+        },
+        {
+            "title": "PLA documentary debuts H-6N bomber carrying single large missile; weapon capable of anti-ship and ground strikes: expert",
+            "summary": "A recent PLA documentary focused on joint operations has featured striking footage of two J-20 stealth fighters escorting an H-6 bomber. This depiction underscores the People's Liberation Army's advancements in integrated air combat capabilities and strategic projection, demonstrating evolving military doctrine and technological prowess.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260804-globaltimes02.htm",
+            "category": "Defence",
+            "date": "2026-08-04T12:00:00Z"
+        },
+        {
+            "title": "Chinese ship spotted lurking over Taiwan-US undersea cables \u2014 'research vessel' seen loitering above the 8,000-mile Pacific Light Cable Network fiber-optic system",
+            "summary": "Taiwan's Coast Guard warned a 200-ft Chinese research vessel near a critical US-Taiwan undersea cable. Observed 'lurking', the incident, captured by Newsweek, highlights escalating regional tensions and potential intelligence gathering. This underscores the constant vigilance in maritime security and sovereign defence challenges crucial for SSB aspirants.",
+            "url": "https://www.tomshardware.com/networking/chinese-ship-spotted-lurking-over-taiwan-us-undersea-cables-research-vessel-seen-loitering-above-the-8-000-mile-pacific-light-cable-network-fiber-optic-system",
+            "category": "Defence",
+            "date": "2026-08-04T11:49:18Z"
+        },
+        {
+            "title": "Ted Lasso, Creature Commandos & Scooby-Doo: BCTV Daily Dispatch",
+            "summary": "This BCTV Daily Dispatch covers updates from popular streaming and television franchises. It details developments for upcoming projects such as 'Scooby-Doo: Origins,' 'Lanterns,' 'Creature Commandos,' 'God of War,' 'Ted Lasso,' and 'Warhammer 40,000.' This dispatch serves as a brief roundup of entertainment news, keeping viewers informed on various series and their production statuses.",
+            "url": "https://bleedingcool.com/tv/ted-lasso-creature-commandos-scooby-doo-bctv-daily-dispatch/",
+            "category": "Sci & Tech",
+            "date": "2026-08-04T11:37:10Z"
+        },
+        {
+            "title": "India on track for $5.1 trillion GDP by FY29, says Finance Minister",
+            "summary": "The International Monetary Fund projects India's economy will surpass the USD 5-trillion mark by Fiscal Year 2029. This ambitious target is supported by the government's comprehensive growth strategy, aiming to bolster economic prowess. Such expansion is vital for national development, enhancing India's global influence and strategic capabilities, relevant for understanding the nation's progress.",
+            "url": "https://www.thehindubusinessline.com/economy/india-on-track-for-51-trillion-gdp-by-fy29-says-finance-minister/article71305007.ece",
+            "category": "National",
+            "date": "2026-08-04T11:25:23Z"
+        },
+        {
+            "title": "Military Drone Market Size to Hit USD 42.80 Billion by 2035 as AI-Powered Autonomous Defense Systems Accelerate Global Growth | SNS Insider",
+            "summary": "The global Military Drone Market is projected for substantial growth, expanding from USD 16.50 billion in 2025 to USD 42.80 billion by 2035, at a robust CAGR of 10.0%. This forecast highlights increasing global investment and reliance on advanced unmanned aerial systems for defence operations, reflecting the strategic importance of drone technology in modern warfare and security architectures.",
+            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338121/0/en/Military-Drone-Market-Size-to-Hit-USD-42-80-Billion-by-2035-as-AI-Powered-Autonomous-Defense-Systems-Accelerate-Global-Growth-SNS-Insider.html",
+            "category": "Defence",
+            "date": "2026-08-04T10:48:00Z"
         }
     ]
 }
