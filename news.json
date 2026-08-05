@@ -1,117 +1,26 @@
 {
-    "last_updated": "2026-08-05T13:55:32.766501+00:00",
+    "last_updated": "2026-08-05T19:23:51.539125+00:00",
     "articles": [
         {
-            "title": "cursor-humanizer added to PyPI",
-            "summary": "This technology creates realistic, human-like mouse movements for automated browser interactions using Playwright Python's async API. It generates natural cursor paths with randomised Bezier curves, making automated activities harder to detect by bot protection systems. This innovation is crucial for robust web automation and testing, enhancing the ability to mimic human behaviour online.",
-            "url": "https://pypi.org/project/cursor-humanizer/",
-            "category": "Sci & Tech",
-            "date": "2026-08-04T13:43:41Z"
+            "title": "Glowing Fishing Net Caught in a Mangrove Tree Wins the 2026 Mangrove Photography Awards",
+            "summary": "Gaurav Patil, an Indian photographer, has been named the Overall Winner of the Mangrove Photographer of the Year 2026. His winning photograph, \"Tangled glow: When life meets the ruins,\" captured a poignant scene of a mangrove patch intertwined with discarded fishing nets. This achievement highlights both India's talent in environmental photography and underscores the critical issue of marine pollution affecting vital coastal ecosystems.",
+            "url": "https://mymodernmet.com/mangrove-photography-awards-2026/",
+            "category": "National",
+            "date": "2026-08-04T19:20:42Z"
         },
         {
-            "title": "Bizcap US launches Line of Capital Ultra for SMBs seeking flexible financing",
-            "summary": "US non-bank funder Bizcap US launched 'Line of Capital (LOC) Ultra,' a new flexible working capital solution for businesses. This expands their financial product offerings, providing enterprises with crucial funding options. For SSB aspirants, this reflects evolving financial markets and the importance of capital access for economic growth, aiding general awareness.",
-            "url": "https://www.prnewswire.com/news-releases/bizcap-us-launches-line-of-capital-ultra-for-smbs-seeking-flexible-financing-302842540.html",
+            "title": "The Fantasy Football Today pick by pick PPR series: How to draft from every single position in the top-12",
+            "summary": "A 12-part, pick-by-pick series detailing a six-person PPR mock draft, involving participants like Adam Aizer and Dave Richard, is underway. Each individual constructed two teams, with the series set to analyze all selections. This extensive coverage aims to offer insights into drafting strategies for competitive fantasy sports leagues, a popular national pastime.",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-today-pick-by-pick-series-how-to-draft-from-each-snake-draft-position/",
+            "category": "National",
+            "date": "2026-08-04T18:20:25Z"
+        },
+        {
+            "title": "\u2018Retail Unplugged': AI personalization, shoppertainment and the state of today\u2019s consumer take center stage as Shoptalk Fall debuts in Nashville",
+            "summary": "Shoptalk announced the full agenda for its Fall 2026 conference in Nashville, themed \"Retail Unplugged.\" This major retail industry event promises candid discussions and unfiltered insights into the sector's future. Leaders will explore evolving consumer trends and technological advancements. For aspirants, this highlights dynamic economic adaptation and continuous innovation in global commerce.",
+            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338597/0/en/Retail-Unplugged-AI-personalization-shoppertainment-and-the-state-of-today-s-consumer-take-center-stage-as-Shoptalk-Fall-debuts-in-Nashville.html",
             "category": "International",
-            "date": "2026-08-04T13:42:00Z"
-        },
-        {
-            "title": "Follow along live as Miami Dolphins begin Day 6 of training camp",
-            "summary": "The Miami Dolphins have commenced Day 6 of their training camp, with coach Jeff Hafley announcing a setback. Right tackle Austin Jackson will be sidelined due to a short-term injury. This news impacts the team's ongoing preparations, highlighting the constant adjustments teams face due to player availability and the physical demands inherent in professional sports training.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/04/miami-dolphins-training-camp-austin-jackson/91163113007/",
-            "category": "National",
-            "date": "2026-08-04T13:41:08Z"
-        },
-        {
-            "title": "Lohia Aerospace to invest up to $10 million in India\u2019s first large-format 3D composite tooling facility",
-            "summary": "Lohia Aerospace Systems is investing $8-10 million to establish India's first commercial large-format additive manufacturing facility in Mumbai over two years. This pioneering unit will produce aerospace composite tooling, significantly boosting indigenous capabilities. This initiative strengthens 'Make in India' for the aerospace sector, fostering self-reliance crucial for both civil and defence applications and accelerating production.",
-            "url": "https://economictimes.indiatimes.com/news/defence/lohia-aerospace-to-invest-up-to-10-million-in-indias-first-large-format-3d-composite-tooling-facility/articleshow/132862465.cms",
-            "category": "Defence",
-            "date": "2026-08-04T13:35:42Z"
-        },
-        {
-            "title": "Bizcap US launches Line of Capital Ultra, giving partners a smart working capital solution for clients",
-            "summary": "Non-bank funder Bizcap US has launched Line of Capital (LOC) Ultra in Miami, a new product designed to offer flexible funding solutions. Aimed at brokers, financial advisors, and independent sales organizations (ISOs), this initiative seeks to enhance capital access within the financial services sector. Announced for August 4, 2026, it represents an expansion in specialized lending for businesses.",
-            "url": "https://www.prnewswire.com/news-releases/bizcap-us-launches-line-of-capital-ultra-giving-partners-a-smart-working-capital-solution-for-clients-302842530.html",
-            "category": "National",
-            "date": "2026-08-04T13:31:00Z"
-        },
-        {
-            "title": "Navy Relieves Commander of Sub USS West Virginia",
-            "summary": "The U.S. Navy has relieved Commander Joseph Sammur from command of the USS West Virginia, a ballistic missile submarine. This decision, reported on August 3, 2026, marks a notable leadership change within a crucial strategic asset of the Navy. For SSB aspirants, such actions highlight the stringent accountability and high standards expected from commanding officers in the armed forces.",
-            "url": "https://freerepublic.com/focus/f-news/4390542/posts",
-            "category": "Defence",
-            "date": "2026-08-04T13:29:37Z"
-        },
-        {
-            "title": "How long will Austin Jackson miss practices with Miami Dolphins?",
-            "summary": "Miami Dolphins coach Jeff Hafley held a press briefing during Day 6 of the team's training camp. A significant update included Right Tackle Austin Jackson's minor injury, causing him to exit Monday's practice prematurely. The coach provided further details, likely regarding player readiness and team developments as preparations continue for the upcoming professional football season.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/04/dolphins-austin-jackson-jeff-hafley/91162655007/",
-            "category": "National",
-            "date": "2026-08-04T13:21:29Z"
-        },
-        {
-            "title": "Monument of Misanthropy \u2013 Washington State Charm (2026)",
-            "summary": "The provided text outlines an album's tracklist, featuring titles such as 'Neath Tacoma Asphalt' and 'The 1974 PNW Spree'. It details collaborations with various artists including Mendel bij de Leij and Gabe Mangold, indicating a new musical release. While not directly defence-related, it represents a cultural release from a specific region within a national context.",
-            "url": "https://post.rlsbb.cc/monument-of-misanthropy-washington-state-charm-2026/",
-            "category": "National",
-            "date": "2026-08-04T12:50:46Z"
-        },
-        {
-            "title": "Dolphins' Quinn Ewers: Learning from Malik Willis 'not worst thing'",
-            "summary": "Miami Dolphins quarterback Quinn Ewers underscored team unity, expressing that all players in the quarterback room are committed to the organization's success. This statement highlights positive attributes like collective goal-setting and a shared vision, essential for effective team dynamics. While specific to sports, such principles of cooperation and leadership are broadly applicable and valuable for aspirants focused on collaborative environments.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/04/miami-dolphins-quinn-ewers-malik-willis/91140134007/",
-            "category": "National",
-            "date": "2026-08-04T12:15:55Z"
-        },
-        {
-            "title": "Chief of the Defence Force - Speech at ADSTAR Summit",
-            "summary": "Issued by Defence Media, the text introduces an event featuring Minister for Foreign Affairs Penny Wong addressing High Commissioners, industry, academia, and international defence partners. While the specific agenda isn't detailed due to truncation, it signifies a key defence engagement focused on global collaboration and strategic partnerships, bringing together diverse stakeholders for discussions within the defence sector.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260804-audod03.htm",
-            "category": "Defence",
-            "date": "2026-08-04T12:00:00Z"
-        },
-        {
-            "title": "US carrier strike group participates in 17th MMCA - AFP",
-            "summary": "A US Navy carrier strike group, spearheaded by the USS George Washington (CVN-73), recently participated in the 17th multilateral maritime exercise. This involvement underscores ongoing international defence cooperation and strategic naval presence in the region. Such joint drills are vital for enhancing interoperability and regional security, providing key insights for SSB aspirants on global defence dynamics and maritime strategy.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260804-pna02.htm",
-            "category": "Defence",
-            "date": "2026-08-04T12:00:00Z"
-        },
-        {
-            "title": "PLA documentary debuts H-6N bomber carrying single large missile; weapon capable of anti-ship and ground strikes: expert",
-            "summary": "A recent PLA documentary focused on joint operations has featured striking footage of two J-20 stealth fighters escorting an H-6 bomber. This depiction underscores the People's Liberation Army's advancements in integrated air combat capabilities and strategic projection, demonstrating evolving military doctrine and technological prowess.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260804-globaltimes02.htm",
-            "category": "Defence",
-            "date": "2026-08-04T12:00:00Z"
-        },
-        {
-            "title": "Chinese ship spotted lurking over Taiwan-US undersea cables \u2014 'research vessel' seen loitering above the 8,000-mile Pacific Light Cable Network fiber-optic system",
-            "summary": "Taiwan's Coast Guard warned a 200-ft Chinese research vessel near a critical US-Taiwan undersea cable. Observed 'lurking', the incident, captured by Newsweek, highlights escalating regional tensions and potential intelligence gathering. This underscores the constant vigilance in maritime security and sovereign defence challenges crucial for SSB aspirants.",
-            "url": "https://www.tomshardware.com/networking/chinese-ship-spotted-lurking-over-taiwan-us-undersea-cables-research-vessel-seen-loitering-above-the-8-000-mile-pacific-light-cable-network-fiber-optic-system",
-            "category": "Defence",
-            "date": "2026-08-04T11:49:18Z"
-        },
-        {
-            "title": "Ted Lasso, Creature Commandos & Scooby-Doo: BCTV Daily Dispatch",
-            "summary": "This BCTV Daily Dispatch covers updates from popular streaming and television franchises. It details developments for upcoming projects such as 'Scooby-Doo: Origins,' 'Lanterns,' 'Creature Commandos,' 'God of War,' 'Ted Lasso,' and 'Warhammer 40,000.' This dispatch serves as a brief roundup of entertainment news, keeping viewers informed on various series and their production statuses.",
-            "url": "https://bleedingcool.com/tv/ted-lasso-creature-commandos-scooby-doo-bctv-daily-dispatch/",
-            "category": "Sci & Tech",
-            "date": "2026-08-04T11:37:10Z"
-        },
-        {
-            "title": "India on track for $5.1 trillion GDP by FY29, says Finance Minister",
-            "summary": "The International Monetary Fund projects India's economy will surpass the USD 5-trillion mark by Fiscal Year 2029. This ambitious target is supported by the government's comprehensive growth strategy, aiming to bolster economic prowess. Such expansion is vital for national development, enhancing India's global influence and strategic capabilities, relevant for understanding the nation's progress.",
-            "url": "https://www.thehindubusinessline.com/economy/india-on-track-for-51-trillion-gdp-by-fy29-says-finance-minister/article71305007.ece",
-            "category": "National",
-            "date": "2026-08-04T11:25:23Z"
-        },
-        {
-            "title": "Military Drone Market Size to Hit USD 42.80 Billion by 2035 as AI-Powered Autonomous Defense Systems Accelerate Global Growth | SNS Insider",
-            "summary": "The global Military Drone Market is projected for substantial growth, expanding from USD 16.50 billion in 2025 to USD 42.80 billion by 2035, at a robust CAGR of 10.0%. This forecast highlights increasing global investment and reliance on advanced unmanned aerial systems for defence operations, reflecting the strategic importance of drone technology in modern warfare and security architectures.",
-            "url": "https://www.globenewswire.com/news-release/2026/08/04/3338121/0/en/Military-Drone-Market-Size-to-Hit-USD-42-80-Billion-by-2035-as-AI-Powered-Autonomous-Defense-Systems-Accelerate-Global-Growth-SNS-Insider.html",
-            "category": "Defence",
-            "date": "2026-08-04T10:48:00Z"
+            "date": "2026-08-04T15:27:00Z"
         }
     ]
 }
