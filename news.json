@@ -1,40 +1,19 @@
 {
-    "last_updated": "2026-08-06T13:53:01.582740+00:00",
+    "last_updated": "2026-08-06T23:53:32.639486+00:00",
     "articles": [
         {
-            "title": "tejas-label-ocr 0.1.9.1",
-            "summary": "The provided text is an error message, not a news article, indicating that a website component failed to load. It suggests potential causes like browser extensions, network issues, or settings, advising users to check their connection, disable ad blockers, or try another browser. This content is a technical troubleshooting message, not suitable for current affairs briefing relevant to an SSB aspirant.",
-            "url": "https://pypi.org/project/tejas-label-ocr/0.1.9.1/",
-            "category": "Sci & Tech",
-            "date": "2026-08-05T13:50:41Z"
-        },
-        {
-            "title": "tejas-label-ocr 0.1.8",
-            "summary": "A website encountered a critical loading error, preventing a required part from displaying. This technical issue may stem from factors like browser extensions, network connectivity problems, or specific browser settings. Users are advised to troubleshoot by verifying their internet connection, disabling ad blockers, or attempting to access the site with an alternative browser to resolve the problem.",
-            "url": "https://pypi.org/project/tejas-label-ocr/0.1.8/",
-            "category": "Sci & Tech",
-            "date": "2026-08-05T13:36:31Z"
-        },
-        {
-            "title": "tejas-label-ocr 0.1.7",
-            "summary": "A website encountered a loading error, preventing a crucial part from displaying. Potential causes include browser extensions, network issues, or browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or attempting a different browser. This highlights common technical troubleshooting steps for website functionality, relevant for maintaining digital readiness in various contexts.",
-            "url": "https://pypi.org/project/tejas-label-ocr/0.1.7/",
-            "category": "Sci & Tech",
-            "date": "2026-08-05T13:31:56Z"
-        },
-        {
-            "title": "Government approves senior bureaucrats' postings to IMF, ADB",
-            "summary": "India's Centre has approved key foreign postings for senior officials to influential international financial institutions. These include significant positions at the International Monetary Fund (IMF) in Washington and the Asian Development Bank (ADB) in the Philippines. This highlights India's active engagement in global economic governance, offering civil servants opportunities to represent national interests on an international stage.",
-            "url": "https://economictimes.indiatimes.com/news/india/government-approves-senior-bureaucrats-postings-to-imf-adb/articleshow/132931380.cms",
+            "title": "Hiroshima and Nagasaki anniversary: What is the world\u2019s nuclear status today?",
+            "summary": "The world observes the 81st anniversary of the devastating Hiroshima and Nagasaki nuclear bombings. These US attacks, conducted on August 6th and 9th during the final days of World War II, remain a poignant reminder of the horrors of nuclear warfare and its catastrophic human cost. The anniversaries serve as a global call for peace and nuclear disarmament, reflecting on the historical lessons learned.",
+            "url": "https://www.rt.com/news/643914-hiroshima-anniversary-nuclear-arsenal/",
             "category": "International",
-            "date": "2026-08-05T13:21:07Z"
+            "date": "2026-08-05T23:46:22Z"
         },
         {
-            "title": "SpaceX rocket segment to crash into the moon: What happened?",
-            "summary": "A SpaceX rocket booster, adrift in space since last year, is believed to have impacted the moon at high speed on Wednesday. This marks the first unintentional lunar impact of space debris, creating a new crater for scientific observation. While not visible to the naked eye, the event offers a unique opportunity to study the moon's subsurface and the dynamics of such impacts, providing valuable data for future space missions.",
-            "url": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened",
-            "category": "Sci & Tech",
-            "date": "2026-08-05T12:36:40Z"
+            "title": "N Korean missile unit deployed in Russia, Ukraine says",
+            "summary": "Ukrainian military intelligence reports a North Korean missile unit is deploying to western Russia, potentially equipped with 120 ballistic missiles and six launchers for strikes against Ukraine. This significant development highlights deepening military cooperation between North Korea and Russia, indicating an increased foreign military presence and capability in the ongoing conflict, a crucial point for understanding global security dynamics.",
+            "url": "https://www.rte.ie/news/2026/0806/1586683-north-korea-russia/",
+            "category": "International",
+            "date": "2026-08-05T23:00:00Z"
         }
     ]
 }
