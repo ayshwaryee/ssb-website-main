@@ -1,18 +1,25 @@
 {
-    "last_updated": "2026-08-06T23:53:32.639486+00:00",
+    "last_updated": "2026-08-07T02:24:41.379076+00:00",
     "articles": [
         {
-            "title": "Hiroshima and Nagasaki anniversary: What is the world\u2019s nuclear status today?",
-            "summary": "The world observes the 81st anniversary of the devastating Hiroshima and Nagasaki nuclear bombings. These US attacks, conducted on August 6th and 9th during the final days of World War II, remain a poignant reminder of the horrors of nuclear warfare and its catastrophic human cost. The anniversaries serve as a global call for peace and nuclear disarmament, reflecting on the historical lessons learned.",
-            "url": "https://www.rt.com/news/643914-hiroshima-anniversary-nuclear-arsenal/",
+            "title": "Defunct SpaceX rocket crashes into Moon at 8,690km/h",
+            "summary": "A discarded SpaceX rocket piece, after a year of drifting, successfully impacted the Moon at 8,690 kilometres per hour, precisely as predicted. While not directly observed, this accidental lunar collision offers scientists a unique research opportunity. It will allow for studying the new crater and the Moon's subsurface, advancing our understanding of celestial mechanics and space debris.",
+            "url": "https://www.abc.net.au/news/2026-08-06/defunct-spacex-rocket-crashes-into-the-moon-kicks-up-dust/107002532",
+            "category": "Sci & Tech",
+            "date": "2026-08-06T02:01:55Z"
+        },
+        {
+            "title": "'Embarrassing' Yankees slammed by fans over shocking stadium glitch during Cardinals game: 'A complete s*** show'",
+            "summary": "During a baseball clash between the New York Yankees and St Louis Cardinals at Yankee Stadium, an embarrassing power cut caused significant disruption. Stadium floodlights failed twice in the first inning, plunging parts of the venue into darkness and delaying play. This unusual incident at a major international sports venue created noticeable inconvenience for players and spectators.",
+            "url": "https://www.dailymail.com/sport/mlb/article-16032433/yankees-stadium-power-cut-cardinals-game.html",
             "category": "International",
-            "date": "2026-08-05T23:46:22Z"
+            "date": "2026-08-06T01:20:21Z"
         },
         {
             "title": "N Korean missile unit deployed in Russia, Ukraine says",
-            "summary": "Ukrainian military intelligence reports a North Korean missile unit is deploying to western Russia, potentially equipped with 120 ballistic missiles and six launchers for strikes against Ukraine. This significant development highlights deepening military cooperation between North Korea and Russia, indicating an increased foreign military presence and capability in the ongoing conflict, a crucial point for understanding global security dynamics.",
+            "summary": "Ukraine reports a North Korean missile unit is deploying to western Russia, potentially armed with 120 ballistic missiles and six launchers. This significant deployment is intended for strikes against Ukraine, highlighting deeper military collaboration between Pyongyang and Moscow. This development escalates concerns over the ongoing conflict and international arms transfers, posing new challenges for Ukrainian defence.",
             "url": "https://www.rte.ie/news/2026/0806/1586683-north-korea-russia/",
-            "category": "International",
+            "category": "Defence",
             "date": "2026-08-05T23:00:00Z"
         }
     ]
