@@ -1,19 +1,68 @@
 {
-    "last_updated": "2026-08-07T07:06:15.313526+00:00",
+    "last_updated": "2026-08-07T12:51:30.347757+00:00",
     "articles": [
         {
-            "title": "HAL shares jump over 6%, extend gains for second straight session. What did its annual report reveal?",
-            "summary": "Shares of state-owned defence major Hindustan Aeronautics (HAL) rallied over 6% on the BSE, hitting Rs 4,910. This surge reflects strong investor confidence in HAL's robust order book. For SSB aspirants, this underscores the increasing financial strength and potential within India's indigenous defence manufacturing sector, crucial for bolstering national security and economic self-reliance.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-jump-over-6-extend-gains-for-second-straight-session-what-did-its-annual-report-reveal/articleshow/132983082.cms",
+            "title": "VTDS partners with DEUS Automation for small-calibre ammunition tech transfer to India",
+            "summary": "Indian defence company VTDS has forged a strategic technology partnership with Czech firm DEUS Automation. This collaboration primarily targets the small-calibre ammunition sector, aiming to bolster indigenous manufacturing capabilities and potentially reduce import dependency. Such international defence sector alliances are vital for modernising India's armed forces and strengthening its defence industrial base.",
+            "url": "https://economictimes.indiatimes.com/news/defence/vtds-partners-with-deus-automation-for-small-calibre-ammunition-tech-transfer-to-india/articleshow/133004816.cms",
             "category": "Defence",
-            "date": "2026-08-06T05:31:26Z"
+            "date": "2026-08-06T12:39:42Z"
         },
         {
-            "title": "MV Electrosystems shares to list today: GMP indicates 26% upside on debut",
-            "summary": "MV Electrosystems is set to make its stock market debut on the BSE and NSE today, August 6th. Strong investor interest has fueled expectations for a healthy listing, indicating robust market confidence. This significant event reflects positively on new ventures entering the public domain and contributes to the national economic landscape, an important aspect for informed citizens.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-shares-to-list-today-gmp-indicates-26-upside-on-debut/articleshow/132979473.cms",
-            "category": "National",
-            "date": "2026-08-06T02:39:57Z"
+            "title": "302-Powered Factory Five Racing Mk4 289 Roadster 5-Speed",
+            "summary": "A Factory Five Racing Mk4 Roadster, purchased as a 289 Roadster specification kit, was custom-built by its owner. The project involved installing a 302ci Ford engine, highlighting a personal engineering endeavor. This showcases detailed mechanical assembly and customization, a practical application of automotive technology, offering insight into hobbyist engineering projects.",
+            "url": "https://bringatrailer.com/listing/2015-factory-five-racing-mk4-roadster-2/",
+            "category": "Sci & Tech",
+            "date": "2026-08-06T12:30:04Z"
+        },
+        {
+            "title": "NASA Satellite Captures \u2018Hummingbird\u2019 Shape Hidden in Antarctic Ice",
+            "summary": "A NASA satellite has captured a remarkable image of Antarctica, revealing a fractured landscape where a mountaintop strikingly resembles a hummingbird. This observation highlights the dynamic geological features of the polar region and the advanced capabilities of space technology. Such satellite imagery is crucial for monitoring Earth's changing environments and expanding our understanding of global geography and climate science, vital for future strategic and environmental assessments.",
+            "url": "https://petapixel.com/2026/08/06/nasa-satellite-captures-hummingbird-shape-hidden-in-antarctic-ice/",
+            "category": "Sci & Tech",
+            "date": "2026-08-06T12:28:42Z"
+        },
+        {
+            "title": "PARLIAMENT QUESTION: INDIA'S POSITION IN GLOBAL LAUNCH MARKET",
+            "summary": "India's LVM3-M6 mission, operated by the Department of Space, successfully deployed the US-based AST Space Mobile's BlueBird Block-2 communication satellite. This achievement underscores India's advanced space capabilities and its growing reliability in the global commercial satellite launch market. Such successful missions enhance ISRO's international standing, attracting foreign clients and highlighting India's technological prowess in the competitive space sector.",
+            "url": "https://www.globalsecurity.org/space/library/news/2026/space-260806-india-pib02.htm",
+            "category": "Sci & Tech",
+            "date": "2026-08-06T12:00:00Z"
+        },
+        {
+            "title": "Dr. Jitendra Singh Informs Rajya Sabha of Key Milestones in Gaganyaan and India's Human Space Exploration Roadmap",
+            "summary": "India's Gaganyaan human space mission is nearing reality, with critical human-rating milestones successfully achieved. Dr. Jitendra Singh announced this progress, highlighting India's advanced capabilities in space technology. This paves the way for the nation's first indigenous human spaceflight, significantly bolstering its position among leading spacefaring nations and marking a major leap in space exploration.",
+            "url": "https://www.globalsecurity.org/space/library/news/2026/space-260806-india-pib01.htm",
+            "category": "Sci & Tech",
+            "date": "2026-08-06T12:00:00Z"
+        },
+        {
+            "title": "PARLIAMENT QUESTION: DEVELOPMENT OF SPACE TECHNOLOGY",
+            "summary": "The Indian government, via the Department of Space, is actively pursuing new schemes and initiatives to significantly enhance the domestic production and manufacturing of space technology. These strategic efforts aim to boost India's self-reliance in this critical sector, strengthening its capabilities in advanced space applications and industrial output.",
+            "url": "https://www.globalsecurity.org/space/library/news/2026/space-260806-india-pib03.htm",
+            "category": "Sci & Tech",
+            "date": "2026-08-06T12:00:00Z"
+        },
+        {
+            "title": "Major Pacific exercise wraps up",
+            "summary": "The world's largest combined and joint maritime exercise, Rim of the Pacific (RIMPAC), has concluded with a closing ceremony aboard a US Navy aircraft carrier. This massive biennial exercise, involving navies like the Royal Australian Navy, is vital for enhancing multinational interoperability, readiness, and strategic partnerships. For SSB aspirants, such exercises highlight the importance of international defence cooperation and maritime security.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260806-au-navy01.htm",
+            "category": "Defence",
+            "date": "2026-08-06T12:00:00Z"
+        },
+        {
+            "title": "North Korea Conducts Ballistic Missile Test Days Before US and South Korea Begin Drills",
+            "summary": "North Korea launched a short-range ballistic missile towards the sea, resuming weapons tests days before planned joint military drills by the U.S. and South Korea. This action escalates regional tensions, highlighting Pyongyang's continued defiance of international sanctions and its ongoing pursuit of missile capabilities, posing a significant security challenge to the Korean Peninsula and broader Indo-Pacific.",
+            "url": "https://military.com/north-korea-conducts-ballistic-missile-test-days-before-us-and-south-korea-begin-drills",
+            "category": "Defence",
+            "date": "2026-08-06T11:30:26Z"
+        },
+        {
+            "title": "Lanterns Star Garret Dillahunt Just Responded To Those Black Hand Fan Theories",
+            "summary": "Actor Garret Dillahunt is cast as William Macon in HBO Max's 'Lanterns' superhero drama. A strong fan theory suggests he's secretly playing the iconic Green Lantern villain Black Hand, sparking significant speculation among comic enthusiasts. This exemplifies how major international entertainment franchises generate global fan engagement and intense scrutiny around character portrayals in big-budget adaptations.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-star-garret-dillahunt-just-responded-to-those-black-hand-fan-theories-a229216",
+            "category": "International",
+            "date": "2026-08-06T11:07:45Z"
         }
     ]
 }
