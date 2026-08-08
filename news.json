@@ -1,61 +1,33 @@
 {
-    "last_updated": "2026-08-07T18:47:00.950339+00:00",
+    "last_updated": "2026-08-08T01:11:55.061029+00:00",
     "articles": [
         {
-            "title": "India Successfully Test-Fires Agni-4 Ballistic Missile",
-            "summary": "India has successfully test-fired its Agni-4 ballistic missile, marking a significant advancement in the nation's defense capabilities. This news underscores India's continuous progress in strategic weaponry and missile technology. The Agni-4, an intermediate-range ballistic missile, reinforces India's indigenous defense strength and enhances its regional security posture. This development is crucial for SSB aspirants tracking national defense updates.",
-            "url": "https://sputnikglobe.com/20260806/india-successfully-test-fires-agni-4-ballistic-missile-1124546260.html",
-            "category": "Defence",
-            "date": "2026-08-06T18:33:15Z"
-        },
-        {
-            "title": "France submits final Rafale proposal as India moves closer to Rs 3.25 lakh crore deal",
-            "summary": "India's plan to acquire 114 Rafale fighter jets for the Indian Air Force has moved closer, as France submitted detailed technical and commercial proposals. This significant development advances the multi-billion dollar deal, crucial for modernizing India's air defence capabilities and strengthening its national security posture by upgrading its aerial fleet.",
-            "url": "https://economictimes.indiatimes.com/news/defence/france-submits-final-rafale-proposal-as-india-moves-closer-to-rs-3-25-lakh-crore-deal/articleshow/133013883.cms",
-            "category": "Defence",
-            "date": "2026-08-06T18:22:47Z"
-        },
-        {
-            "title": "Halifax needs more shipbuilding tradespeople, but some college programs are at capacity",
-            "summary": "Canada's submarine strategy in Halifax requires hundreds of skilled workers. However, local trade programs essential for training these personnel are already at capacity, with no clear expansion plan despite recent donations. This bottleneck in skilled labour and training infrastructure poses a significant challenge to the timely execution of Canada's vital defence projects, highlighting a critical resource gap.",
-            "url": "https://www.cbc.ca/news/canada/nova-scotia/halifax-tradespeople-college-programs-capacity-9.7297428",
-            "category": "Defence",
-            "date": "2026-08-06T17:05:20Z"
-        },
-        {
-            "title": "Report: Pentagon Updates U.S. Nuclear Strategy to Address War with China and Russia",
-            "summary": "The Department of War is reportedly drafting a revised nuclear strategy specifically for potential regional conflicts involving China and Russia. This updated approach emphasizes the limited deployment of short-range tactical nuclear weapons, indicating a shift towards more flexible deterrence options. This strategic review reflects ongoing efforts to adapt military planning to evolving geopolitical challenges and maintain effective deterrence in specific conflict scenarios.",
-            "url": "https://www.breitbart.com/asia/2026/08/06/report-pentagon-updates-u-s-nuclear-strategy-to-address-war-with-china-and-russia/",
-            "category": "Defence",
-            "date": "2026-08-06T17:04:56Z"
-        },
-        {
-            "title": "Today\u2019s News in a Nutshell",
-            "summary": "Khabarhub presents a daily overview of significant developments across Nepal, encompassing politics, business, economy, sports, and entertainment. A key update reported is the anticipated return of former Prime Minister Deuba to Nepal from Hong Kong. This briefing aims to inform readers about diverse national happenings and important figures' movements within the country.",
-            "url": "https://english.khabarhub.com/2026/06/562093/",
-            "category": "National",
-            "date": "2026-08-06T16:15:41Z"
-        },
-        {
-            "title": "'Ukrainian intelligence is coming for every one of you': Moment Putin's defence officials panic when virtual meeting is hacked",
-            "summary": "A Ukrainian prankster, Yevhen Volnov, caused panic by hacking a top-secret virtual meeting of Russian Defence Ministry officials. This incident highlights vulnerabilities in secure communications and the potential for non-traditional actors to infiltrate high-level discussions. It underscores the ongoing challenges of information warfare and cyber security in international relations, demonstrating how such disruptions can impact national defence structures.",
-            "url": "https://www.dailymail.com/news/article-16034123/Ukrainian-intelligence-coming-one-you-Moment-Putins-defence-officials-panic-virtual-meeting-hacked.html",
-            "category": "International",
-            "date": "2026-08-06T16:00:16Z"
-        },
-        {
-            "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, August 7, 2026",
-            "summary": "The Reserve Bank of India (RBI) has retained Tata Sons Private Limited on its FY27 list of 17 Upper Layer Non-Banking Financial Companies (NBFCs). This designation signifies Tata Sons' systemic importance within India's financial sector, leading to enhanced regulatory scrutiny and compliance requirements. This move highlights RBI's commitment to ensuring robust oversight and stability in the NBFC landscape.",
-            "url": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-august-7-2026/article71313901.ece",
-            "category": "National",
-            "date": "2026-08-06T15:43:51Z"
-        },
-        {
-            "title": "loc-authorities 0.4.0",
-            "summary": "A website component failed to load, possibly due to browser extensions, network issues, or settings. Users are advised to check their connection, disable ad blockers, or try an alternative browser. This situation underscores the importance of basic technical troubleshooting skills and digital literacy for SSB aspirants in accessing and utilizing online resources effectively.",
-            "url": "https://pypi.org/project/loc-authorities/0.4.0/",
+            "title": "What Star Trek got wrong about AI (so far)",
+            "summary": "Over six decades, Star Trek has meticulously crafted culture's most detailed vision of coexisting with machine intelligence. It presents scenarios with talking computers, synthetic crew, and ship minds governing entire vessels, offering a rich blueprint for future human-AI interaction. This iconic series deeply explores the social and operational aspects of advanced AI integration, shaping public perception of intelligent machines.",
+            "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c",
             "category": "Sci & Tech",
-            "date": "2026-08-06T13:39:12Z"
+            "date": "2026-08-07T00:20:56Z"
+        },
+        {
+            "title": "India plans safe space for local satellite communications players",
+            "summary": "Global satellite communication providers, including Starlink and Eutelsat OneWeb, will likely need to coordinate with emerging Indian constellations, such as Jio's proposed system, for spectrum allocation. This regulatory move ensures efficient resource management and facilitates service provision in India. For SSB aspirants, this highlights national efforts in regulating advanced technologies and fostering collaboration in the burgeoning satellite internet sector.",
+            "url": "https://economictimes.indiatimes.com/news/india/india-plans-safe-space-for-local-satellite-communications-players/articleshow/133015464.cms",
+            "category": "Sci & Tech",
+            "date": "2026-08-07T00:00:00Z"
+        },
+        {
+            "title": "\u2018The Diplomat\u2019s Allison Janney Is Not Your Typical President: \u201cI\u2019d Rather Hear Someone Else Talk Than Me\u201d",
+            "summary": "This article discusses the challenging prospect of interviewing acclaimed actress Allison Janney. Given her consistent portrayal of powerful women with extreme authority and conviction in many career-defining roles, interviewers often find themselves feeling intimidated or 'in a tizzy.' Her commanding on-screen presence reportedly translates into a formidable off-screen persona for those preparing to engage with her.",
+            "url": "http://deadline.com/2026/08/the-diplomat-allison-janney-keri-russell-netflix-1237028144/",
+            "category": "National",
+            "date": "2026-08-06T21:42:01Z"
+        },
+        {
+            "title": "Boosie Badazz Keeps It Real On \u2018Rickey Smiley On The Spot\u2019, Explains Pardon Jig",
+            "summary": "Rapper Boosie Badazz recently featured on the Rickey Smiley On The Spot podcast, where he characteristically spoke his mind. Known for his candid commentary, Boosie engaged in an open discussion. While specific details of his statements were not provided in the article snippet, his appearance highlights his continued public presence in the entertainment sphere.",
+            "url": "https://hiphopwired.com/3061492/boosie-badazz-keeps-it-real-on-rickey-smiley-on-the-spot/",
+            "category": "National",
+            "date": "2026-08-06T20:09:10Z"
         }
     ]
 }
