@@ -1,33 +1,26 @@
 {
-    "last_updated": "2026-08-08T01:11:55.061029+00:00",
+    "last_updated": "2026-08-08T06:41:42.305309+00:00",
     "articles": [
         {
-            "title": "What Star Trek got wrong about AI (so far)",
-            "summary": "Over six decades, Star Trek has meticulously crafted culture's most detailed vision of coexisting with machine intelligence. It presents scenarios with talking computers, synthetic crew, and ship minds governing entire vessels, offering a rich blueprint for future human-AI interaction. This iconic series deeply explores the social and operational aspects of advanced AI integration, shaping public perception of intelligent machines.",
-            "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c",
+            "title": "Show HN: Linkly \u2013 a language designed for LLMs, compiled through MLIR",
+            "summary": "A significant software development project, internally named \"v0.1.0 Unfinished,\" has announced the successful completion of its initial phase. This achievement involved finalizing key technical components such as a custom MLIR dialect and the last agent role, and resolving all known limitations. The extensive work is underscored by hundreds of thousands of tests and numerous code integrations.",
+            "url": "https://github.com/choiyounggi/linkly/releases",
             "category": "Sci & Tech",
-            "date": "2026-08-07T00:20:56Z"
+            "date": "2026-08-07T06:30:58Z"
         },
         {
-            "title": "India plans safe space for local satellite communications players",
-            "summary": "Global satellite communication providers, including Starlink and Eutelsat OneWeb, will likely need to coordinate with emerging Indian constellations, such as Jio's proposed system, for spectrum allocation. This regulatory move ensures efficient resource management and facilitates service provision in India. For SSB aspirants, this highlights national efforts in regulating advanced technologies and fostering collaboration in the burgeoning satellite internet sector.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-plans-safe-space-for-local-satellite-communications-players/articleshow/133015464.cms",
-            "category": "Sci & Tech",
-            "date": "2026-08-07T00:00:00Z"
+            "title": "'Just rumours, will talk to Army': Arunachal Pradesh CM Pema Khandu denies reports of Chinese incursion",
+            "summary": "Police in Argentina used tear gas and water cannons against demonstrators protesting a property bill. Crucially, India and China have also agreed to utilize diplomatic and military channels. This initiative aims to prevent misunderstandings and maintain stability along the Line of Actual Control (LAC), underscoring ongoing efforts for peaceful border management.",
+            "url": "https://timesofindia.indiatimes.com/city/itanagar/just-rumours-will-talk-to-army-arunachal-pradesh-cm-pema-khandu-denies-reports-of-chinese-incursion/articleshow/133024445.cms",
+            "category": "Defence",
+            "date": "2026-08-07T06:27:22Z"
         },
         {
-            "title": "\u2018The Diplomat\u2019s Allison Janney Is Not Your Typical President: \u201cI\u2019d Rather Hear Someone Else Talk Than Me\u201d",
-            "summary": "This article discusses the challenging prospect of interviewing acclaimed actress Allison Janney. Given her consistent portrayal of powerful women with extreme authority and conviction in many career-defining roles, interviewers often find themselves feeling intimidated or 'in a tizzy.' Her commanding on-screen presence reportedly translates into a formidable off-screen persona for those preparing to engage with her.",
-            "url": "http://deadline.com/2026/08/the-diplomat-allison-janney-keri-russell-netflix-1237028144/",
-            "category": "National",
-            "date": "2026-08-06T21:42:01Z"
-        },
-        {
-            "title": "Boosie Badazz Keeps It Real On \u2018Rickey Smiley On The Spot\u2019, Explains Pardon Jig",
-            "summary": "Rapper Boosie Badazz recently featured on the Rickey Smiley On The Spot podcast, where he characteristically spoke his mind. Known for his candid commentary, Boosie engaged in an open discussion. While specific details of his statements were not provided in the article snippet, his appearance highlights his continued public presence in the entertainment sphere.",
-            "url": "https://hiphopwired.com/3061492/boosie-badazz-keeps-it-real-on-rickey-smiley-on-the-spot/",
-            "category": "National",
-            "date": "2026-08-06T20:09:10Z"
+            "title": "Dombivli doctors assault: Bombay HC to impose strict conditions for release of accused",
+            "summary": "Police in Argentina used tear gas and water cannons against demonstrators protesting a property bill. Separately, India and China have agreed to utilize both diplomatic and military channels to prevent misunderstandings along the Line of Actual Control (LAC). These developments highlight ongoing international tensions and efforts to maintain stability between nations amidst various internal and external challenges.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/dombivli-doctors-assault-bombay-hc-to-impose-strict-conditions-for-release-of-accused/articleshow/133024396.cms",
+            "category": "International",
+            "date": "2026-08-07T06:24:15Z"
         }
     ]
 }
