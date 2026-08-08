@@ -1,61 +1,61 @@
 {
-    "last_updated": "2026-08-08T12:36:15.746582+00:00",
+    "last_updated": "2026-08-08T18:29:38.855816+00:00",
     "articles": [
         {
-            "title": "Show HN: reverse-engineer secure-enclave fingerprint scanner to work on Linux",
-            "summary": "This article discusses the operational mechanisms of a Goodix SPI fingerprint sensor, differentiating it from common USB laptop sensors. It explores the two methods of driving the sensor, including a 'traditional' approach involving the Rich Execution Environment (REE) and the operating system's kernel. The technical analysis delves into the intricate software-hardware interaction crucial for secure and efficient biometric authentication in modern devices.",
-            "url": "https://github.com/wrobelda/goodix-fp-spi-linux",
+            "title": "Who\u2019s next for a Data Center? \u20ac50 billion in investments over the next decade",
+            "summary": "Cloud computing is highlighted as the fundamental backbone of artificial intelligence and the broader Fourth Industrial Revolution. Its essential role in storing and processing vast data underpins advancements in AI, data analytics, and interconnected technologies. This foundational technology is driving transformative changes across industries, making its understanding crucial for comprehending modern technological landscapes and global progress.",
+            "url": "https://en.protothema.gr/2026/08/07/another-one-for-data-centers-e50-billion-in-investments-over-the-next-decade/",
             "category": "Sci & Tech",
-            "date": "2026-08-07T12:26:07Z"
+            "date": "2026-08-07T17:59:01Z"
+        },
+        {
+            "title": "IP protection, FTA utilisation, contractual safeguards\u2019 integration key for Indian exporters: Report",
+            "summary": "Indian exporters pursuing global growth must adopt an integrated strategy focusing on intellectual property protection, optimal utilisation of Free Trade Agreements (FTAs), and accurate customs documentation. This discipline is crucial for navigating international trade complexities, enhancing competitiveness, and boosting India's export performance. Mastering these aspects will unlock new markets and ensure sustainable economic expansion.",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ip-protection-fta-utilisation-contractual-safeguards-integration-key-for-indian-exporters-report/articleshow/133039929.cms",
+            "category": "International",
+            "date": "2026-08-07T17:52:21Z"
+        },
+        {
+            "title": "Joao Cancelo rejoins Al Hilal training as Barcelona return remains unresolved",
+            "summary": "This article discusses the anticipated transfer of Portuguese defender Joao Cancelo to Barcelona from Al Hilal during the summer transfer window. Despite earlier expectations, the deal for the player, who previously spent time at Inter Milan and Juventus, faced complexities. This prominent international football transfer involves a major European club securing a key defensive talent.",
+            "url": "https://barcauniversal.com/joao-cancelo-rejoins-al-hilal-training-as-barcelona-return-remains-unresolved/",
+            "category": "International",
+            "date": "2026-08-07T17:45:00Z"
+        },
+        {
+            "title": "Centre approves electronics manufacturing cluster in Rajnandgaon; Rs 3,000 crore investment expected",
+            "summary": "The Centre approved an Electronics Manufacturing Cluster (EMC 2.0) in Chhattisgarh, targeting over Rs 3,000 crore investment. This aims to boost domestic electronics manufacturing and create significant employment. It aligns with India's 'Atmanirbhar Bharat' vision, promoting self-reliance, regional economic development, and strengthening the national industrial base in a crucial sector.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/centre-approves-electronics-manufacturing-cluster-in-rajnandgaon-rs-3000-crore-investment-expected/articleshow/133039745.cms",
+            "category": "National",
+            "date": "2026-08-07T17:43:16Z"
+        },
+        {
+            "title": "Your Ultimate Fall 2026 Watchlist: The Black Movies and Shows We Can\u2019t Wait to See",
+            "summary": "Mahershala Ali is confirmed to star as Latif in a new project titled 'YOUR MOTHER YOUR MOTHER YOUR MOTHER', produced by Amazon MGM Studios. While specific plot or genre details remain unstated in this initial announcement, the involvement of the acclaimed actor and a major studio suggests a significant upcoming release, highlighting ongoing activities within the global entertainment production landscape.",
+            "url": "https://www.theroot.com/your-ultimate-fall-2026-watchlist-the-black-movies-and-2000120052",
+            "category": "International",
+            "date": "2026-08-07T16:45:42Z"
+        },
+        {
+            "title": "PetSmart Used AI to Drive a 22% Lift in Salon Bookings",
+            "summary": "A retailer aimed to boost grooming salon appointments, opting for an innovative strategy instead of prolonged email campaign development and testing. This approach focused on efficient customer acquisition and engagement, leveraging a different method to quickly drive patronage for salon services and enhance business growth.",
+            "url": "https://www.pymnts.com/news/artificial-intelligence/2026/petsmart-used-ai-drive-22percent-lift-salon-bookings/",
+            "category": "Sci & Tech",
+            "date": "2026-08-07T16:44:11Z"
         },
         {
             "title": "\"Scotland is powering Britain's future defence\" says Defence Secretary on first visit to Rosyth Shipyard and forces housing",
-            "summary": "The UK Defence Secretary made his inaugural visit to Scotland, touring Babcock's Rosyth facility, a crucial naval shipbuilding site, notably for Type 26 frigates. He also inspected Service Family Accommodation in Edinburgh. This visit underscored the government's commitment to bolstering the defence industry, supporting regional prosperity, and prioritizing the welfare of service personnel and their families.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/uk/2026/uk-260807-ukmod01.htm",
+            "summary": "UK Defence Secretary Wes Streeting visited Scotland for the first time, emphasizing its crucial role in national defence. He witnessed how defence investments boost national security and operational readiness. This visit highlighted Scotland's strategic importance and significant contributions to the broader UK defence framework, reaffirming regional commitments and the nation's unified security approach.",
+            "url": "https://www.gov.uk/government/news/scotland-is-powering-britains-future-defence-says-defence-secretary-on-first-visit-to-rosyth-shipyard-and-forces-housing",
             "category": "Defence",
-            "date": "2026-08-07T12:00:00Z"
+            "date": "2026-08-07T15:57:31Z"
         },
         {
-            "title": "36th Meeting of the Working Mechanism for Consultation and Coordination on India-China Border Affairs (August 06, 2026)",
-            "summary": "India and China held their 36th Working Mechanism for Consultation & Coordination on Border Affairs (WMCC) meeting on August 6th. This crucial diplomatic forum aims to manage border issues and maintain peace along the LAC. SSB aspirants should understand such engagements are vital to India's national security strategy, demonstrating proactive efforts in safeguarding territorial integrity.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-india-mea01.htm",
+            "title": "Goodwin considers selling part of defence business",
+            "summary": "Goodwin's mechanical engineering division is a key supplier for vital UK and US frigate and submarine programmes. Notably, they contribute to Britain's strategic Dreadnought programme, crucial for building the Royal Navy's next-generation submarines. This highlights the critical role of specialized engineering firms in bolstering national defence capabilities and supporting international military partnerships through essential component supply.",
+            "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo",
             "category": "Defence",
-            "date": "2026-08-07T12:00:00Z"
-        },
-        {
-            "title": "PH, Australia defense chiefs condemn Chinese hostile actions in SCS",
-            "summary": "The Philippines and Australia have jointly expressed serious concerns over China's \"destabilizing and dangerous conduct\" by its vessels, likely referring to maritime activities in the South China Sea. This collaboration underscores growing regional solidarity in addressing Beijing's assertive posture and maintaining stability in vital strategic waters, signalling increased diplomatic pressure from Manila and Canberra.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-pna01.htm",
-            "category": "International",
-            "date": "2026-08-07T12:00:00Z"
-        },
-        {
-            "title": "NEET UG counselling 2026: MCC opens round 1 choice filling window; candidates can submit preferences till August 13",
-            "summary": "The Medical Counselling Committee (MCC) has commenced Round 1 choice filling for NEET UG counselling 2026. Aspirants aiming for medical and dental college admissions must submit their preferences by August 13. This crucial phase allows candidates to select their desired institutions and courses, marking a significant step in their journey to becoming medical professionals across the nation.",
-            "url": "https://timesofindia.indiatimes.com/education/news/neet-ug-counselling-2026-mcc-opens-round-1-choice-filling-window-candidates-can-submit-preferences-till-august-13/articleshow/133032856.cms",
-            "category": "National",
-            "date": "2026-08-07T11:45:25Z"
-        },
-        {
-            "title": "Students\u2019 Group Threatens SKMU Lockdown Over Reduced UG Seats in Dumka College",
-            "summary": "A significant 'terror plot' controversy at Jantar Mantar has resulted in the transfer of Amritsar's senior police officer, Gurpreet Bhullar. This development has elicited strong criticism from the BJP, raising questions about national security protocols and police accountability. Aspirants should observe the interplay of domestic politics and law enforcement in such critical national events.",
-            "url": "https://timesofindia.indiatimes.com/city/ranchi/students-group-threatens-skmu-lockdown-over-reduced-ug-seats-in-dumka-college/articleshow/133032875.cms",
-            "category": "National",
-            "date": "2026-08-07T11:40:58Z"
-        },
-        {
-            "title": "Mixed cropping emerges as a safer bet",
-            "summary": "A major controversy has emerged concerning a 'terror plot' allegedly linked to Jantar Mantar. Following these developments, Amritsar's top police official, Gurpreet Bhullar, has been shunted from his position. The opposition BJP has reacted strongly, criticizing the handling of the situation and the administrative action, indicating significant political and law-and-order ramifications within the country.",
-            "url": "https://timesofindia.indiatimes.com/city/kochi/mixed-cropping-emerges-as-a-safer-bet/articleshow/133032180.cms",
-            "category": "National",
-            "date": "2026-08-07T11:35:38Z"
-        },
-        {
-            "title": "Indian Air Force showcases the Rafale",
-            "summary": "The Indian Air Force's (IAF) Rafale fleet recently achieved a historic milestone by debuting at Exercise Pitch Black in Australia. This marks the first participation of the IAF's advanced multirole fighters in the major international air combat exercise, demonstrating India's evolving air power capabilities and commitment to interoperability with global partners, a key aspect for SSB aspirants to understand regarding defence diplomacy.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260807-audod03.htm",
-            "category": "Defence",
-            "date": "2026-08-07T09:25:19Z"
+            "date": "2026-08-07T15:22:51Z"
         }
     ]
 }
