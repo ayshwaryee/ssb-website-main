@@ -1,68 +1,75 @@
 {
-    "last_updated": "2026-08-10T12:56:30.234456+00:00",
+    "last_updated": "2026-08-10T18:49:34.327002+00:00",
     "articles": [
         {
-            "title": "Russia and Ukraine exchange overnight strikes, leaving seven dead",
-            "summary": "Russia and Ukraine exchanged intense overnight strikes, tragically resulting in civilian casualties and injuries on both sides. This latest escalation underscores the devastating human cost of the ongoing conflict and the volatile security situation in the region. Such events highlight the urgent need for international efforts towards peace and de-escalation, impacting global stability.",
-            "url": "https://www.thejournal.ie/russia-and-ukraine-7125637-Aug2026/",
-            "category": "International",
-            "date": "2026-08-09T12:21:47Z"
+            "title": "HAL revives Su-30MKI production at Nashik",
+            "summary": "Alpha Trade offers daily stock market ideas from SEBI-registered analysts and investment insights for wealth growth. It provides stock recommendations and analysis of sectoral trends, alongside \"Stock Reports Plus\" for comprehensive stock research. This service aims to empower individuals with expert analysis for informed financial decisions and effective portfolio management.",
+            "url": "https://economictimes.indiatimes.com/news/defence/hal-revives-su-30mki-production-at-nashik/articleshow/133073821.cms",
+            "category": "National",
+            "date": "2026-08-09T18:36:22Z"
         },
         {
-            "title": "INDIAN NAVY-US NAVY EXPLOSIVE ORDNANCE DISPOSAL EXERCISE 2026 TO COMMENCE AT SOUTHERN NAVAL COMMAND, KOCHI",
-            "summary": "The Indian Navy and US Navy are scheduled to conduct their Explosive Ordnance Disposal (EOD) Exercise 2026. This crucial collaborative exercise aims to enhance interoperability, share best practices, and strengthen professional bonds between the two navies in handling and disposing of explosive threats, thereby boosting maritime security and operational readiness for future challenges.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260809-india-pib01.htm",
+            "title": "Chinese ship spotted 'lurking' near Taiwan's subsea internet cables linking it to the US",
+            "summary": "A Chinese research vessel was observed lingering over critical undersea communication cables in the Pacific, prompting a warning from Taiwan's Coast Guard to move away from the Pacific Light Cable Network. This incident raises international concerns about potential surveillance or interference with vital global internet infrastructure, highlighting ongoing geopolitical tensions and maritime security issues in the region.",
+            "url": "https://www.techradar.com/pro/chinese-ship-spotted-lurking-near-taiwans-subsea-internet-cables-linking-it-to-the-us",
+            "category": "International",
+            "date": "2026-08-09T18:35:00Z"
+        },
+        {
+            "title": "AI, information warfare, cyber experts could join Territorial Army soon",
+            "summary": "The Defence Ministry is in advanced discussions to significantly expand the Territorial Army's mandate. The plan aims to induct experts in emerging technologies, such as Artificial Intelligence, into its ranks. This strategic move seeks to leverage specialized civilian skills and knowledge to bolster India's defence capabilities, ensuring the armed forces remain at the forefront of technological advancements and national security preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/ai-information-warfare-cyber-experts-could-join-territorial-army-soon/articleshow/133073547.cms",
             "category": "Defence",
-            "date": "2026-08-09T12:00:00Z"
+            "date": "2026-08-09T18:24:51Z"
         },
         {
-            "title": "Murphy Oil Sees Sharp Profit Increase",
-            "summary": "Murphy Oil Corp reported a substantial surge in its second-quarter net income, reaching $225.8 million, nearly six times higher than the same period last year. This significant increase in profitability is largely due to soaring global oil prices, which have dramatically boosted earnings across the energy sector. This highlights the current strong market conditions for crude oil and its impact on corporate financials.",
-            "url": "https://www.rigzone.com/news/murphy_oil_sees_sharp_profit_increase-09-aug-2026-184327-article/",
-            "category": "International",
-            "date": "2026-08-09T11:00:00Z"
-        },
-        {
-            "title": "Shiels: Tales from the Great Lakes as sailors race from Chicago and Port Huron to Mackinac",
-            "summary": "The Chicago-to-Mackinac and Port Huron-to-Mackinac races are recognized as the world's oldest continuous freshwater sailboat competitions. These prestigious events occur annually over consecutive July weekends across the Great Lakes, showcasing navigational skill and endurance. They are significant cultural and sporting traditions within the region, attracting widespread interest.",
-            "url": "https://www.lansingstatejournal.com/story/opinion/contributors/2026/08/09/tales-from-the-great-lakes-as-sailors-race-to-mackinac-michael-patrick-shiels/91200721007/",
-            "category": "National",
-            "date": "2026-08-09T10:02:45Z"
-        },
-        {
-            "title": "Crude oil, developments in West Asia, inflation data to drive markets this week, say analysts",
-            "summary": "Analysts predict crude oil prices, West Asian geopolitical tensions, and upcoming inflation data will significantly influence stock market direction this week. Developments around critical straits, impacting oil supply, are also crucial. These global and domestic economic factors highlight the complex interplay shaping national financial markets, essential knowledge.",
-            "url": "https://www.thehindubusinessline.com/markets/crude-oil-developments-in-west-asia-inflation-data-to-drive-markets-this-week-say-analysts/article71324391.ece",
-            "category": "National",
-            "date": "2026-08-09T09:39:52Z"
-        },
-        {
-            "title": "What Car Does Elon Musk Actually Drive? Mostly a Tesla, Despite His Sprawling Car Collection",
-            "summary": "The daily vehicle choice of Tesla founder Elon Musk, leader of the world's most valuable EV company, has long been a subject of speculation. This article delves into his personal driving habits, revealing a dynamic history from various Tesla models to surprising older cars. It highlights that even the EV pioneer\u2019s preferences evolve, offering insights beyond his public image.",
-            "url": "https://www.ibtimes.com.au/elon-musk-daily-drives-tesla-garage-1873798",
+            "title": "Nuclear energy: Why India should test ANEEL fuel in its PHWRs",
+            "summary": "US-based Clean Core Thorium Energy (CCTE) reached a significant milestone in developing its proprietary thorium-based ANEEL nuclear fuel. The company announced a fuel fabrication agreement, crucial for advancing this sustainable and safer nuclear technology. This progress by a US firm marks a step forward in next-generation nuclear energy solutions, potentially impacting global clean energy efforts and energy security.",
+            "url": "https://www.thehindubusinessline.com/business-tech/nuclear-energy-why-india-should-test-aneel-fuel-in-its-phwrs/article71325915.ece",
             "category": "Sci & Tech",
-            "date": "2026-08-09T09:32:47Z"
+            "date": "2026-08-09T18:18:35Z"
         },
         {
-            "title": "I build AI data centers. I want them to disappear from view",
-            "summary": "Sean James, a distinguished engineer at AI chipmaker Nvidia, focuses on powering data centers. Notably, his career began in submarines, highlighting a unique transition from a defence background to the forefront of artificial intelligence. This trajectory exemplifies the diverse career paths and transferable skills applicable to advanced technological domains like AI, offering an inspiring perspective for aspirants considering varied professional journeys.",
-            "url": "https://biztoc.com/x/3cc46fc6c52de356",
+            "title": "USS San Juan retires: US Navy needs 66 attack submarines but fleet could fall to 46-47 by 2030",
+            "summary": "The USS San Juan submarine has retired after 38 years of service, highlighting a significant challenge for the United States Navy. The US attack submarine fleet faces a growing capability gap as aging vessels are decommissioned faster than new ones can be delivered. This imbalance, attributed to ongoing production challenges, impacts the nation's naval readiness and strategic capabilities, raising concerns about future fleet strength.",
+            "url": "https://timesofindia.indiatimes.com/defence/international/uss-san-juan-retires-us-navy-needs-66-attack-submarines-but-fleet-could-fall-to-46-47-by-2030/articleshow/133071322.cms",
+            "category": "Defence",
+            "date": "2026-08-09T17:01:28Z"
+        },
+        {
+            "title": "Reimagining NZ\u2019s defence partnership with the US won\u2019t compromise a nuclear-free identity - David Santoro",
+            "summary": "Pillar II represents a significant evolution for the Five Eyes intelligence network, transitioning from traditional intelligence-sharing into joint high-tech development. Building on decades of mutual trust, this initiative aims to strengthen the alliance's collaborative efforts in advanced technological domains, likely enhancing collective security and adapting to contemporary defence challenges. It signifies a strategic broadening of their cooperative framework.",
+            "url": "https://www.nzherald.co.nz/business/reimagining-nzs-defence-partnership-with-the-us-wont-compromise-a-nuclear-free-identity-david-santoro/premium/ETNREOV3OBFE3F4B6IEX4QQ44M/",
+            "category": "Defence",
+            "date": "2026-08-09T17:00:00Z"
+        },
+        {
+            "title": "IN-SPACe invites private operators for new space port in Thoothukudi",
+            "summary": "IN-SPACe, India's space promotion and authorisation centre, has issued an Expression of Interest (EOI) for handing over the operation and management of soon-to-be operational space assets. This move aims to invite private sector participation, fostering greater innovation and efficiency in India's burgeoning space industry and aligning with the nation's efforts to liberalize the sector.",
+            "url": "https://www.thehindubusinessline.com/news/science/in-space-invites-private-operators-for-new-space-port-in-thoothukudi/article71324789.ece",
             "category": "Sci & Tech",
-            "date": "2026-08-09T09:16:19Z"
+            "date": "2026-08-09T15:37:11Z"
         },
         {
-            "title": "Crude oil prices, West Asia developments likely to steer markets this week",
-            "summary": "Analysts predict stock market direction this week will hinge on global crude oil prices, escalating West Asian geopolitical tensions, and upcoming inflation data. Developments surrounding a key strait are also crucial. These factors underscore the profound impact of international events and economic indicators on market stability, a key insight for understanding national and global dynamics.",
-            "url": "https://www.business-standard.com/markets/news/crude-oil-prices-west-asia-developments-likely-to-steer-markets-this-week-126080900276_1.html",
+            "title": "DCU\u2019s New Controversial Show & More HBO Max Releases This Week",
+            "summary": "New HBO Max releases from August 10-16, 2026, will feature \"DCUs Lanterns Season 1,\" a highly anticipated superhero series. Created by Damon Lindelof, Chris Mundy, and Tom King, this addition signifies HBO Max's ongoing strategy to expand its content library, appealing to fans of popular franchises within the DC Universe for entertainment. Such releases highlight trends in streaming platforms.",
+            "url": "https://www.superherohype.com/news/684057-new-hbo-max-releases-this-week-august-10-16",
+            "category": "Sci & Tech",
+            "date": "2026-08-09T15:00:00Z"
+        },
+        {
+            "title": "Match amical : Chelsea tenu en \u00e9chec par le club malaisien de Johor",
+            "summary": "On August 9, 2026, Malaysian club Johor played an exciting 3-3 draw against Chelsea. Aiman, Arribas, and Bergson scored for the 'Tigres du Sud', while Delap netted twice for Chelsea, complemented by an own goal from Glauder. This high-scoring encounter, occurring on a date Malaysia will remember, showcased a thrilling international football spectacle.",
+            "url": "https://www.sofoot.com/breves/match-amical-chelsea-tenu-en-echec-par-le-club-malaisien-de-johor",
             "category": "International",
-            "date": "2026-08-09T09:02:26Z"
+            "date": "2026-08-09T14:22:42Z"
         },
         {
-            "title": "Operation Safed Sagar: Netflix's ambitious Indian production",
-            "summary": "Netflix is developing its largest-ever production in India, a spectacle described as being on the scale of \"Top Gun.\" The series or film will dramatize one of India's most politically significant historical chapters. This ambitious project aims to significantly strengthen Netflix's market position within the country, leveraging a compelling national narrative for a broad audience.",
-            "url": "https://www.straitstimes.com/life/entertainment/indias-top-gun-is-netflixs-most-ambitious-local-production",
-            "category": "National",
-            "date": "2026-08-09T08:49:00Z"
+            "title": "Russia Says It Struck Vessels And Military Facilities Supporting Ukraine In Odesa",
+            "summary": "Russia's Defence Ministry reported continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian military. These operations target facilities crucial for Ukraine's maritime capabilities and logistics, reflecting ongoing military efforts to disrupt naval support structures. The persistent attacks highlight the continuous conflict between the two nations and Russia's focus on degrading Ukraine's port assets.",
+            "url": "https://gcaptain.com/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa/",
+            "category": "Defence",
+            "date": "2026-08-09T13:10:48Z"
         }
     ]
 }
