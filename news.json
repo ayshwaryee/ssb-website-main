@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-08-10T01:18:33.400777+00:00",
+    "last_updated": "2026-08-10T07:20:50.609398+00:00",
     "articles": [
         {
+            "title": "India hands over another consignment of Bailey bridges to Sri Lanka",
+            "summary": "India has delivered its third consignment of Bailey bridges to Sri Lanka, aiding the island nation in reconstructing rural roads devastated by Cyclone Ditwah. This assistance underscores India's commitment to supporting its neighbours during recovery efforts and strengthens bilateral ties, demonstrating a key aspect of its 'Neighbourhood First' policy through humanitarian aid and infrastructure support.",
+            "url": "https://economictimes.indiatimes.com/news/india/india-hands-over-another-consignment-of-bailey-bridges-to-sri-lanka/articleshow/133063804.cms",
+            "category": "International",
+            "date": "2026-08-09T07:19:45Z"
+        },
+        {
+            "title": "privyscope-ja added to PyPI",
+            "summary": "A new Japanese language pack has been released for 'privyscope,' a sophisticated two-stage engine designed for detecting and masking Personally Identifiable Information (PII). This plugin enhances privyscope's capability to process Japanese data, shipping specific regex rules and entity configurations. It aims to improve data privacy and security by accurately identifying and protecting sensitive information within Japanese text, reflecting advancements in data protection technology.",
+            "url": "https://pypi.org/project/privyscope-ja/",
+            "category": "Sci & Tech",
+            "date": "2026-08-09T07:07:19Z"
+        },
+        {
+            "title": "Meghwal, Shahnavaz win high jump, long jump medals as India bag three at World U20s",
+            "summary": "Basant Kumar Meghwal made history at the World Athletics U20 Championships in Eugene, becoming the first Indian to win a high jump medal. Shahnavaz Khan also secured a bronze in the long jump, marking a proud moment for India. These achievements highlight the growing talent in Indian athletics on the global stage, inspiring young aspirants towards excellence and national pride.",
+            "url": "https://economictimes.indiatimes.com/news/sports/other-sports/meghwal-shahnavaz-win-high-jump-long-jump-medals-as-india-bag-three-at-world-u20s/articleshow/133062571.cms",
+            "category": "National",
+            "date": "2026-08-09T05:16:04Z"
+        },
+        {
+            "title": "Dividend alert: Jio Financial, Power Grid, HPCL among nearly 90 stocks turning ex-record date this week",
+            "summary": "Around 90 prominent Indian companies, including major players like Jio Financial Services, Power Grid Corporation, Hindustan Aeronautics (HAL), and Hindustan Petroleum Corporation (HPCL), have officially set their record dates. This corporate action typically precedes significant events such as dividend distributions, stock splits, or bonus share issues, indicating active financial movements across diverse sectors of the Indian economy and impacting investors.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-jio-financial-power-grid-hpcl-among-nearly-90-stocks-turning-ex-record-date-this-week/articleshow/133062498.cms",
+            "category": "National",
+            "date": "2026-08-09T05:04:41Z"
+        },
+        {
+            "title": "India Secures Multiple Medals At World U20 Athletics",
+            "summary": "Indian athletes Basant Kumar Meghwal and Shahnavaz Khan achieved historic success at the World Athletics U20 Championships. Meghwal secured a silver medal in high jump, while Khan earned a bronze in long jump. This remarkable performance marks a significant milestone for India in international youth athletics, highlighting emerging talent and boosting national pride in the sporting arena.",
+            "url": "https://www.rediff.com/sports/report/indian-athletes-shine-at-world-u20-meghwal-wins-silver-khan-bronze/20260809.htm",
+            "category": "International",
+            "date": "2026-08-09T05:00:34Z"
+        },
+        {
+            "title": "Marine licence requirements for activities in areas beyond national jurisdiction (ABNJ)",
+            "summary": "The Marine Management Organisation (MMO) mandates a marine licence for planned activities in specific marine areas, including ABNJ (Areas Beyond National Jurisdiction). This highlights the crucial regulatory framework governing maritime operations and environmental compliance. For SSB aspirants, understanding such licensing is vital, underscoring the importance of national and international maritime law for naval, coast guard, and merchant marine roles.",
+            "url": "https://www.gov.uk/guidance/marine-licence-requirements-for-activities-in-areas-beyond-national-jurisdiction-abnj",
+            "category": "National",
+            "date": "2026-08-09T05:00:03Z"
+        },
+        {
             "title": "Travel credit cards: The new winners after reward devaluations",
-            "summary": "Mint has released its updated annual ranking of the best travel-focused credit cards, moving beyond just reward rates to critically assess recent devaluations. This comprehensive review aims to assist consumers in choosing the most advantageous cards for their travel needs. The analysis divides cards into categories, offering clear guidance on optimizing benefits amidst evolving financial product landscapes, which is crucial for informed personal finance management.",
+            "summary": "Mint has revisited its annual ranking of the best travel-focused credit cards. The updated evaluation considers not only reward rates but also recent devaluations, with cards categorized for comparison. This analysis helps consumers make informed financial decisions regarding travel expenditure and maximizing benefits, a valuable skill for SSB aspirants in personal resource management.",
             "url": "https://www.livemint.com/money/personal-finance/travel-credit-cards-the-new-winners-after-reward-devaluations-11786040617975.html",
             "category": "National",
             "date": "2026-08-09T00:59:32Z"
         },
         {
-            "title": "GLO@23: The Bull still reigns supreme",
-            "summary": "The article introduces a legendary tycoon operating uniquely within a volatile corporate world, where corporate giants frequently swap boardrooms and sell equity due to market shifts. While the specifics of what this tycoon 'continues to prove' are not provided in the truncated text, the premise highlights a contrast in business philosophy amidst global economic unpredictability.",
-            "url": "https://www.vanguardngr.com/2026/08/glo23-the-bull-still-reigns-supreme/",
-            "category": "International",
-            "date": "2026-08-08T23:35:34Z"
-        },
-        {
-            "title": "Captain moves crew to citadel, thwarts pirate assault on India-bound vessel",
-            "summary": "This text describes features designed for reader engagement in online articles. It encourages users to share comments and react using various tags such as 'Insightful' or 'Big Development'. The platform emphasizes adhering to 'TOI community guidelines' to foster respectful discourse and facilitate meaningful reader interaction with the news content.",
-            "url": "https://timesofindia.indiatimes.com/india/captain-moves-crew-to-citadel-thwarts-pirates/articleshow/133060996.cms",
-            "category": "National",
-            "date": "2026-08-08T22:31:35Z"
-        },
-        {
-            "title": "Malik Willis tells Miami Dolphins teammates 'this is a business'",
-            "summary": "Malik Willis, in Miami Gardens, was observed reflecting on a recent address he gave to his teammates. Although the exact nature of the error was minor, Willis appeared to downplay its significance. He seemingly attempted to brush off the discussion, suggesting it was not a substantial event, despite taking time to consider his own actions during the team interaction.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/08/malik-willis-miami-dolphins-addressing-team/91226939007/",
-            "category": "National",
-            "date": "2026-08-08T21:24:33Z"
-        },
-        {
-            "title": "xilinx-test-runner added to PyPI",
-            "summary": "This news fragment discusses desktop theme customization, including dark mode settings. It then shifts to detail the repetitive daily process of verifying designs on an FPGA prototype, which involves obtaining current source files and initiating builds. This suggests a technical article focused on hardware design verification workflows or engineering methodologies, despite its truncated form.",
-            "url": "https://pypi.org/project/xilinx-test-runner/",
+            "title": "Is A Massive Alien Threat Heading For Earth? New Lanterns Clip Drops A Possible Hint",
+            "summary": "A new 'Lanterns' clip shows Hal Jordan (Kyle Chandler) asserting the galaxy's peaceful nature. William Macon (Garret Dillahunt) challenges this, questioning why 'space cops' are needed if peace truly exists. This dialogue sets up a core thematic conflict for the series, exploring contrasting views on galactic order, security, and the necessity of authority.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/is-a-massive-alien-threat-heading-for-earth-new-lanterns-clip-drops-a-possible-hint-a229260",
             "category": "Sci & Tech",
-            "date": "2026-08-08T20:38:49Z"
-        },
-        {
-            "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
-            "summary": "Ukraine has denied targeting Bulgaria after a drone exploded near the strategic Trans-Balkan gas pipeline, which links T\u00fcrkiye to Ukraine, close to the Romanian border. Bulgaria is investigating the incident, confirming no disruption to gas flow. This event, despite Ukraine's denial, highlights heightened regional security concerns and the potential for spillover effects from the ongoing conflict.",
-            "url": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
-            "category": "International",
-            "date": "2026-08-08T20:06:05Z"
-        },
-        {
-            "title": "openral-hal 0.3.1",
-            "summary": "The provided text is a technical error message indicating that a website component failed to load. Potential causes identified include browser extensions, network issues, or specific browser settings. Users are advised to troubleshoot by checking their internet connection, disabling any ad blockers, or attempting to access the site using a different browser to resolve the display problem.",
-            "url": "https://pypi.org/project/openral-hal/0.3.1/",
-            "category": "Sci & Tech",
-            "date": "2026-08-08T16:03:49Z"
+            "date": "2026-08-08T19:54:24Z"
         }
     ]
 }
