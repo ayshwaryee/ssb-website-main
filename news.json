@@ -1,75 +1,40 @@
 {
-    "last_updated": "2026-08-10T18:49:34.327002+00:00",
+    "last_updated": "2026-08-11T01:16:35.952420+00:00",
     "articles": [
         {
-            "title": "HAL revives Su-30MKI production at Nashik",
-            "summary": "Alpha Trade offers daily stock market ideas from SEBI-registered analysts and investment insights for wealth growth. It provides stock recommendations and analysis of sectoral trends, alongside \"Stock Reports Plus\" for comprehensive stock research. This service aims to empower individuals with expert analysis for informed financial decisions and effective portfolio management.",
-            "url": "https://economictimes.indiatimes.com/news/defence/hal-revives-su-30mki-production-at-nashik/articleshow/133073821.cms",
+            "title": "Joan Jett cancels remaining 2026 concerts after undergoing surgery for 'fractured vertebrae'",
+            "summary": "Rock icon Joan Jett, 67, is stepping away from performing on stage following a serious injury that necessitated surgery. The announcement, made by her team via an Instagram post, indicates a required hiatus for the celebrated musician. This significant development will see the influential artist focus on her recovery from the injury.",
+            "url": "https://www.foxnews.com/entertainment/joan-jett-cancels-remaining-2026-concerts-undergoing-surgery-fractured-vertebrae",
             "category": "National",
-            "date": "2026-08-09T18:36:22Z"
+            "date": "2026-08-10T00:54:50Z"
+        },
+        {
+            "title": "India's strategic liftoff",
+            "summary": "India's BrahMos missile agreement, exemplified by the Philippines deal, is just the initial move in its strategic push into the competitive ASEAN defence market. This 'opening salvo' signifies India's ambition to become a major defence exporter, leveraging advanced capabilities to meet regional security needs and strengthen defence cooperation among Southeast Asian nations.",
+            "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/india-s-strategic-liftoff-126080501276_1.html",
+            "category": "Defence",
+            "date": "2026-08-10T00:00:55Z"
+        },
+        {
+            "title": "Silent whales leave a trace",
+            "summary": "Distributed Acoustic Sensing (DAS) uses optical fibres and laser light to measure strain. Submarine cables, equipped with DAS, are already detecting whale calls. This innovative technology provides a versatile platform, potentially capable of sensing diverse underwater phenomena like seismic activity or vessel movements, significantly enhancing maritime monitoring capabilities.",
+            "url": "https://www.nature.com/articles/s41567-026-03421-1",
+            "category": "Sci & Tech",
+            "date": "2026-08-10T00:00:00Z"
         },
         {
             "title": "Chinese ship spotted 'lurking' near Taiwan's subsea internet cables linking it to the US",
-            "summary": "A Chinese research vessel was observed lingering over critical undersea communication cables in the Pacific, prompting a warning from Taiwan's Coast Guard to move away from the Pacific Light Cable Network. This incident raises international concerns about potential surveillance or interference with vital global internet infrastructure, highlighting ongoing geopolitical tensions and maritime security issues in the region.",
+            "summary": "A Chinese research vessel was observed lingering near critical Pacific undersea communication cables, specifically the Pacific Light Cable Network. Taiwan's Coast Guard issued a warning for the vessel to depart. This incident raises concerns about potential intelligence gathering and maritime security in the Indo-Pacific region, highlighting ongoing geopolitical tensions and the vulnerability of crucial global infrastructure.",
             "url": "https://www.techradar.com/pro/chinese-ship-spotted-lurking-near-taiwans-subsea-internet-cables-linking-it-to-the-us",
-            "category": "International",
+            "category": "Defence",
             "date": "2026-08-09T18:35:00Z"
         },
         {
-            "title": "AI, information warfare, cyber experts could join Territorial Army soon",
-            "summary": "The Defence Ministry is in advanced discussions to significantly expand the Territorial Army's mandate. The plan aims to induct experts in emerging technologies, such as Artificial Intelligence, into its ranks. This strategic move seeks to leverage specialized civilian skills and knowledge to bolster India's defence capabilities, ensuring the armed forces remain at the forefront of technological advancements and national security preparedness.",
-            "url": "https://economictimes.indiatimes.com/news/defence/ai-information-warfare-cyber-experts-could-join-territorial-army-soon/articleshow/133073547.cms",
-            "category": "Defence",
-            "date": "2026-08-09T18:24:51Z"
-        },
-        {
-            "title": "Nuclear energy: Why India should test ANEEL fuel in its PHWRs",
-            "summary": "US-based Clean Core Thorium Energy (CCTE) reached a significant milestone in developing its proprietary thorium-based ANEEL nuclear fuel. The company announced a fuel fabrication agreement, crucial for advancing this sustainable and safer nuclear technology. This progress by a US firm marks a step forward in next-generation nuclear energy solutions, potentially impacting global clean energy efforts and energy security.",
-            "url": "https://www.thehindubusinessline.com/business-tech/nuclear-energy-why-india-should-test-aneel-fuel-in-its-phwrs/article71325915.ece",
-            "category": "Sci & Tech",
-            "date": "2026-08-09T18:18:35Z"
-        },
-        {
-            "title": "USS San Juan retires: US Navy needs 66 attack submarines but fleet could fall to 46-47 by 2030",
-            "summary": "The USS San Juan submarine has retired after 38 years of service, highlighting a significant challenge for the United States Navy. The US attack submarine fleet faces a growing capability gap as aging vessels are decommissioned faster than new ones can be delivered. This imbalance, attributed to ongoing production challenges, impacts the nation's naval readiness and strategic capabilities, raising concerns about future fleet strength.",
-            "url": "https://timesofindia.indiatimes.com/defence/international/uss-san-juan-retires-us-navy-needs-66-attack-submarines-but-fleet-could-fall-to-46-47-by-2030/articleshow/133071322.cms",
-            "category": "Defence",
-            "date": "2026-08-09T17:01:28Z"
-        },
-        {
-            "title": "Reimagining NZ\u2019s defence partnership with the US won\u2019t compromise a nuclear-free identity - David Santoro",
-            "summary": "Pillar II represents a significant evolution for the Five Eyes intelligence network, transitioning from traditional intelligence-sharing into joint high-tech development. Building on decades of mutual trust, this initiative aims to strengthen the alliance's collaborative efforts in advanced technological domains, likely enhancing collective security and adapting to contemporary defence challenges. It signifies a strategic broadening of their cooperative framework.",
-            "url": "https://www.nzherald.co.nz/business/reimagining-nzs-defence-partnership-with-the-us-wont-compromise-a-nuclear-free-identity-david-santoro/premium/ETNREOV3OBFE3F4B6IEX4QQ44M/",
-            "category": "Defence",
-            "date": "2026-08-09T17:00:00Z"
-        },
-        {
-            "title": "IN-SPACe invites private operators for new space port in Thoothukudi",
-            "summary": "IN-SPACe, India's space promotion and authorisation centre, has issued an Expression of Interest (EOI) for handing over the operation and management of soon-to-be operational space assets. This move aims to invite private sector participation, fostering greater innovation and efficiency in India's burgeoning space industry and aligning with the nation's efforts to liberalize the sector.",
-            "url": "https://www.thehindubusinessline.com/news/science/in-space-invites-private-operators-for-new-space-port-in-thoothukudi/article71324789.ece",
-            "category": "Sci & Tech",
-            "date": "2026-08-09T15:37:11Z"
-        },
-        {
-            "title": "DCU\u2019s New Controversial Show & More HBO Max Releases This Week",
-            "summary": "New HBO Max releases from August 10-16, 2026, will feature \"DCUs Lanterns Season 1,\" a highly anticipated superhero series. Created by Damon Lindelof, Chris Mundy, and Tom King, this addition signifies HBO Max's ongoing strategy to expand its content library, appealing to fans of popular franchises within the DC Universe for entertainment. Such releases highlight trends in streaming platforms.",
-            "url": "https://www.superherohype.com/news/684057-new-hbo-max-releases-this-week-august-10-16",
-            "category": "Sci & Tech",
-            "date": "2026-08-09T15:00:00Z"
-        },
-        {
-            "title": "Match amical : Chelsea tenu en \u00e9chec par le club malaisien de Johor",
-            "summary": "On August 9, 2026, Malaysian club Johor played an exciting 3-3 draw against Chelsea. Aiman, Arribas, and Bergson scored for the 'Tigres du Sud', while Delap netted twice for Chelsea, complemented by an own goal from Glauder. This high-scoring encounter, occurring on a date Malaysia will remember, showcased a thrilling international football spectacle.",
-            "url": "https://www.sofoot.com/breves/match-amical-chelsea-tenu-en-echec-par-le-club-malaisien-de-johor",
+            "title": "Russia and Ukraine exchange overnight strikes, leaving seven dead",
+            "summary": "Russia and Ukraine exchanged intense overnight strikes, reportedly causing civilian deaths and injuries on both sides. Local authorities confirmed these casualties, underscoring the relentless nature of the ongoing conflict. This latest violence highlights the tragic human cost and continued cross-border aggression, emphasizing the persistent intensity of hostilities between the two nations.",
+            "url": "https://www.thejournal.ie/russia-and-ukraine-7125637-Aug2026/",
             "category": "International",
-            "date": "2026-08-09T14:22:42Z"
-        },
-        {
-            "title": "Russia Says It Struck Vessels And Military Facilities Supporting Ukraine In Odesa",
-            "summary": "Russia's Defence Ministry reported continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian military. These operations target facilities crucial for Ukraine's maritime capabilities and logistics, reflecting ongoing military efforts to disrupt naval support structures. The persistent attacks highlight the continuous conflict between the two nations and Russia's focus on degrading Ukraine's port assets.",
-            "url": "https://gcaptain.com/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa/",
-            "category": "Defence",
-            "date": "2026-08-09T13:10:48Z"
+            "date": "2026-08-09T12:21:47Z"
         }
     ]
 }
