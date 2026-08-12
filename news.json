@@ -1,54 +1,96 @@
 {
-    "last_updated": "2026-08-12T01:24:42.780260+00:00",
+    "last_updated": "2026-08-12T07:16:33.666716+00:00",
     "articles": [
         {
+            "title": "In September 1983, a Soviet lieutenant colonel named Stanislav Petrov sat in a bunker south of Moscow watching his early-warning screens light up with five incoming American missiles, and instead of phoning it up the chain he decided the computer was lying and waited \u2014 a judgment call that historians now credit with preventing a retaliatory nuclear launch",
+            "summary": "On September 26, 1983, an alarm blared at the Serpukhov-15 bunker near Moscow, triggered by the Soviet Oko early-warning satellite system reporting incoming missiles. This critical moment, known as the 1983 Soviet nuclear false alarm incident, saw a Soviet officer, Stanislav Petrov, defy protocol and determine the launch warnings were erroneous, averting potential nuclear war through crucial human judgment.",
+            "url": "https://spacedaily.com/sd-in-september-1983-a-soviet-lieutenant-colonel-named-stanislav-petrov-sat-in-a-bunker-south-of-moscow-watching-his-early-warning-screens-light-up-with-five-incoming-american-missiles-and-instead-of/",
+            "category": "Defence",
+            "date": "2026-08-11T06:16:12Z"
+        },
+        {
+            "title": "Russian attacks on Ukraine\u2019s Zaporizhzhia kill five, officials say, with Kyiv bombed too",
+            "summary": "Russian forces launched early Tuesday attacks on Ukrainian cities, killing five and injuring 20 in Zaporizhzhia, and triggering fires in the capital, Kyiv. This ongoing conflict highlights the critical security situation in Eastern Europe, demonstrating the continued human cost and infrastructure damage caused by the prolonged hostilities. Such events are vital for SSB aspirants to understand global geopolitical dynamics.",
+            "url": "https://www.irishtimes.com/world/europe/2026/08/11/russian-attacks-on-ukraines-zaporizhzhia-kill-five-officials-say-with-kyiv-bombed-too/",
+            "category": "International",
+            "date": "2026-08-11T05:57:58Z"
+        },
+        {
+            "title": "Russian barrage on Ukraine kills 9, wounds dozens",
+            "summary": "Russian overnight attacks across Ukraine killed at least nine people and wounded dozens, authorities reported. Kyiv simultaneously warned that Moscow has acquired more ballistic missiles, signaling an escalation or continuation of its military campaign. This ongoing conflict involves significant civilian casualties and the deployment of advanced weaponry, highlighting persistent regional instability, a critical concern in international relations.",
+            "url": "https://www.channelnewsasia.com/world/russian-barrage-ukraine-kills-9-wounds-dozens-6311371",
+            "category": "International",
+            "date": "2026-08-11T05:53:00Z"
+        },
+        {
+            "title": "Ukraine says Russia fired North Korean missiles in deadly attack",
+            "summary": "Kyiv reported extensive Russian attacks across Ukraine overnight, resulting in at least nine deaths and dozens wounded. Ukraine accused Moscow of deploying North Korean missiles in these raids, escalating concerns about the nature of the weaponry used in the ongoing conflict. This incident highlights the continued intensity of the conflict and the alleged international arms transfers involved.",
+            "url": "https://www.channelnewsasia.com/world/ukraine-says-russia-fired-north-korean-missiles-in-deadly-attack-6311371",
+            "category": "International",
+            "date": "2026-08-11T05:53:00Z"
+        },
+        {
+            "title": "peek-code added to PyPI",
+            "summary": "A new Python-based tool, 'peek', offers developers the capability to understand any codebase in just five seconds. Installable via pip, this utility quickly identifies programming languages, technology stacks, and generates a 'Start Here' guide for projects. This innovative approach aims to significantly streamline code analysis and improve efficiency in software development workflows.",
+            "url": "https://pypi.org/project/peek-code/",
+            "category": "Sci & Tech",
+            "date": "2026-08-11T05:50:03Z"
+        },
+        {
+            "title": "Vietnam\u2019s VinSpace signs deal with SpaceX to launch its first satellites in 2027",
+            "summary": "Vietnamese aerospace firm VinSpace has partnered with SpaceX to launch its inaugural satellites into orbit aboard a rideshare mission in 2027. This landmark agreement signifies a crucial step for Vietnam's burgeoning space program, leveraging international collaboration to advance its technological capabilities. The initiative underscores global trends in space access and the increasing role of private companies in facilitating national space ambitions, enhancing future communication and scientific potential.",
+            "url": "https://abcnews.com/International/wireStory/vietnams-vinspace-signs-deal-elon-musks-spacex-launch-135536822",
+            "category": "Sci & Tech",
+            "date": "2026-08-11T05:43:49Z"
+        },
+        {
+            "title": "Vietnam\u2019s VinSpace signs deal with Elon Musk\u2019s SpaceX to launch its first satellites in 2027",
+            "summary": "Vietnamese aerospace company VinSpace has signed a contract with SpaceX to launch its first satellites into orbit via a SpaceX rideshare mission in 2027. This collaboration signifies a major advancement for Vietnam in expanding its independent space capabilities and developing satellite technology. The agreement underscores growing international partnerships in space exploration, contributing to scientific and strategic interests in the Southeast Asian region.",
+            "url": "https://www.livemint.com/companies/vietnams-vinspace-signs-deal-with-elon-musk-s-spacex-to-launch-its-first-satellites-in-2027-11786425981178.html",
+            "category": "Sci & Tech",
+            "date": "2026-08-11T05:26:20Z"
+        },
+        {
+            "title": "Durand Cup 2026: Mohun Bagan and SC Delhi storm into quarterfinals",
+            "summary": "Mohun Bagan Super Giant and Sporting Club Delhi have advanced to the quarterfinals of the 135th Durand Cup. Both teams secured commanding victories over their respective opponents on Monday, ensuring their progression in India's prestigious football tournament. This highlights strong performances from domestic clubs in a key national sporting event.",
+            "url": "https://www.business-standard.com/sports/football-news/durand-cup-2026-mohun-bagan-and-sc-delhi-storm-into-quarterfinals-126081001876_1.html",
+            "category": "National",
+            "date": "2026-08-11T05:17:48Z"
+        },
+        {
+            "title": "Pistons Proposed to Trade Jalen Duren in Massive 7-Player Deal for Kyrie Irving",
+            "summary": "On May 17th in Detroit, Michigan, a high-stakes NBA playoff game unfolded. During the intense first quarter of Game Seven in the Second Round, Jalen Duren (#0) of the Detroit Pistons was observed making a crucial pass against Max Strus (#2) of the Cleveland Cavaliers. This play was part of a pivotal moment in the highly competitive series between two prominent national basketball teams.",
+            "url": "https://heavy.com/sports/nba/detroit-pistons/pistons-jalen-duren-kyrie-irving-trade/",
+            "category": "National",
+            "date": "2026-08-11T04:12:46Z"
+        },
+        {
             "title": "How Congress is reshaping the administration's FY27 budget",
-            "summary": "As the 2027 fiscal year approaches, the annual defense budget is currently in limbo, facing typical delays. Three out of four congressional defense committees have already released their markups, indicating active legislative discussions and the complex process of finalizing crucial defense spending. This situation underscores the ongoing challenges in securing timely budgetary approvals for military operations and strategic planning.",
+            "summary": "The US 2027 fiscal year defense budget faces uncertainty as the new fiscal year approaches, with congressional committees deliberating markups. The annual budget process is in \"limbo,\" highlighting the complex legislative challenges in securing crucial funding for military operations and modernization. This situation reflects typical political hurdles in allocating substantial defence expenditure for national security.",
             "url": "https://dsm.forecastinternational.com/2026/08/10/how-congress-is-reshaping-the-pentagons-fy27-spending-plans/",
             "category": "Defence",
             "date": "2026-08-11T00:21:24Z"
         },
         {
             "title": "The Tense Discussions Behind Ronald Reagan\u2019s \u2018Tear Down This Wall\u2019 Speech",
-            "summary": "In 1987, Peter Robinson meticulously prepared for President Ronald Reagan's pivotal speech in West Berlin. This historic address famously challenged the Soviet Union, urging the tearing down of the Berlin Wall, and became a powerful symbol of freedom and the impending end of the Cold War, significantly shaping international diplomacy.",
+            "summary": "In 1987, President Ronald Reagan's speechwriter, Peter Robinson, helped craft the iconic \"Tear Down This Wall\" address in West Berlin. Delivered at the Brandenburg Gate, Reagan's powerful words challenged Soviet leader Mikhail Gorbachev to dismantle the Berlin Wall, symbolizing a pivotal moment in the Cold War that significantly influenced eventual German reunification and the fall of communism.",
             "url": "https://www.wearethemighty.com/history/the-tense-discussions-behind-ronald-reagans-tear-down-this-wall-speech/",
             "category": "International",
             "date": "2026-08-11T00:00:00Z"
         },
         {
             "title": "Hanwha Makes $1.2 Billion Bid for Austal USA",
-            "summary": "South Korea's defense giant Hanwha has made a preliminary offer of up to $1.2 billion to acquire Austal USA. This significant move could give Hanwha control over one of the largest U.S. naval shipbuilders. The potential acquisition highlights growing international defense industry consolidation and strategic partnerships concerning naval production, impacting global maritime power projection and defense capabilities.",
+            "summary": "South Korea's Hanwha has made a preliminary $1.2 billion offer to acquire Austal USA, a prominent U.S. naval shipbuilder. This potential acquisition would grant the Korean defense giant significant control over a major American defense asset, impacting the U.S. defense industrial base. The move highlights global consolidation in the defense sector amidst rising demand for naval capabilities.",
             "url": "https://gcaptain.com/hanwha-makes-1-2-billion-bid-for-austal-usa/",
             "category": "Defence",
             "date": "2026-08-10T23:53:48Z"
         },
         {
             "title": "Show HN: The Annotated DiffusionGemma",
-            "summary": "Google has launched DiffusionGemma, a 26B open-weight uniform state diffusion language model. This experimental AI model is notably ~4 times faster than Gemma 4 for specific tasks, demonstrating enhanced efficiency in processing. Its release highlights continuous innovation in machine learning and computational linguistics by major tech companies, pushing boundaries in AI development.",
+            "summary": "Google recently released DiffusionGemma, a new 26B open-weight uniform state diffusion language model. This experimental AI model is approximately four times faster than Gemma 4 for certain workloads. Its launch signifies significant advancements in accessible, high-performance artificial intelligence, which could impact future technological developments across various sectors, demonstrating rapid progress in generative AI capabilities.",
             "url": "https://mlberkeley.substack.com/p/the-annotated-diffusiongemma",
             "category": "Sci & Tech",
             "date": "2026-08-10T23:32:25Z"
-        },
-        {
-            "title": "Gridlock ahead: Perth's industrial hub faces a decade of disruption",
-            "summary": "The article introduces truck driver Carolus Broers at a critical fuel depot in Kwinana, Perth, an essential hub for the city's petrol supply. The narrative begins by setting an early morning scene, likely focusing on the daily operations, logistics, or potential challenges within Western Australia's vital energy distribution infrastructure.",
-            "url": "https://www.abc.net.au/news/2026-08-11/kwinana-bracing-for-decade-of-disruption-aukus-freeway/106987926",
-            "category": "National",
-            "date": "2026-08-10T21:20:46Z"
-        },
-        {
-            "title": "BMC proposes Rs 42 crore retaining wall work below elevated nature walkway in Kamla Nehru Park",
-            "summary": "The provided text is not a news article but rather copyright information and a prompt to follow on social media. It does not contain any substantive content to summarize for an SSB aspirant.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-proposes-rs-42-crore-retaining-wall-work-below-elevated-nature-walkway-in-kamla-nehru-park/articleshow/133127932.cms",
-            "category": "National",
-            "date": "2026-08-10T18:01:11Z"
-        },
-        {
-            "title": "USS Thomas Hudner Returns to Naval Station Mayport from Deployment to U.S. 4th, 5th, and 6th Fleets",
-            "summary": "The USS Thomas Hudner (DDG 116), an Arleigh Burke-class guided-missile destroyer, returned to Naval Station Mayport, Florida, on August 9. This marked the conclusion of an almost nine-month deployment, underscoring the US Navy's sustained operational readiness and global maritime presence. Such extended deployments are vital for projecting power and safeguarding international security interests.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260810-usn03.htm",
-            "category": "Defence",
-            "date": "2026-08-10T12:00:00Z"
         }
     ]
 }
