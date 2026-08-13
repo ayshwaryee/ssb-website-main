@@ -1,33 +1,54 @@
 {
-    "last_updated": "2026-08-13T01:26:34.098744+00:00",
+    "last_updated": "2026-08-13T07:18:18.579895+00:00",
     "articles": [
         {
-            "title": "Buzzing stocks: Godrej Consumer, L&T, Tenneco Clean, Dr Agarwal\u2019s, SJVN, BEML, Bajaj Electricals, Diamond Power, Saatvik Green, Innovision, SUGS Lloyd",
-            "summary": "Godrej Consumer Products Limited (GCPL), a prominent Indian consumer goods company, has announced a key leadership appointment. Aasif Malbari, currently serving as the Global Chief Financial Officer and President of Godrej Africa, has been appointed as the new Managing Director. This strategic executive restructuring is a significant development for GCPL, signaling a change in leadership at a pivotal time for the company's operations and market strategy.",
-            "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-godrej-consumer-lt-tenneco-clean-dr-agarwals-sjvn-beml-bajaj-electricals-diamond-power-saatvik-green-innovision-sugs-lloyd/article71334844.ece",
+            "title": "Boxing taught me never to accept defeat: Sakshi Chaudhary",
+            "summary": "This text serves as a standard website element, encouraging readers to engage actively with content by sharing comments. It emphasizes the importance of respectful dialogue and adherence to the platform's community guidelines, fostering an interactive space for public discussion and varied perspectives on news topics.",
+            "url": "https://timesofindia.indiatimes.com/sports/off-the-field/boxing-taught-me-never-to-accept-defeat-sakshi-chaudhary/articleshow/133174527.cms",
             "category": "National",
-            "date": "2026-08-12T01:23:59Z"
+            "date": "2026-08-12T07:15:04Z"
         },
         {
-            "title": "The Best August Trivia Questions for the Dog Days of Summer",
-            "summary": "The article begins by observing the conclusion of summer, highlighting how common warm-weather fantasies, including daily beach trips and leisurely naps, tend to diminish quickly, much like fading tan lines. It suggests a contemplation on the ephemeral nature of seasonal pleasures and the transition as the summer period draws to a close.",
-            "url": "https://www.mentalfloss.com/random-facts/august-trivia-questions",
+            "title": "The US Treasury\u2019s sale of euros to boost the yen could have effects nobody bargained for",
+            "summary": "The US Treasury intervened in currency markets by purchasing yen with euros, causing the Japanese currency to appreciate against the US dollar. This unusual intervention, aimed at stabilizing markets, reportedly cast a spotlight on underlying economic vulnerabilities. Such global financial maneuvers are critical for SSB aspirants to understand, as they reflect international economic dynamics and their potential impact on geopolitical stability.",
+            "url": "https://www.livemint.com/opinion/online-views/us-treasury-euro-sale-boost-yen-unintended-effects-america-japan-currency-carry-trade-11786449397657.html",
+            "category": "International",
+            "date": "2026-08-12T07:00:26Z"
+        },
+        {
+            "title": "Actor Madhavan salutes TCS techie-turned Indian Air Force female pilot Bhawana Kanth, India's first woman 'Top Gun'",
+            "summary": "Actor R Madhavan is generating buzz through his social media presence and upcoming film. He is set to star in 'GDN', a Tamil biographical drama where he will portray a legendary self-taught individual. While specific details about the character and the film's theme are still emerging, Madhavan's involvement promises an interesting narrative for audiences.",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/actor-madhavan-salutes-tcs-techie-turned-indian-air-force-female-pilot-bhawana-kanth-indias-first-woman-top-gun/articleshow/133173897.cms",
             "category": "National",
-            "date": "2026-08-12T01:00:00Z"
+            "date": "2026-08-12T06:56:31Z"
         },
         {
-            "title": "The anti-AUKUS campaign needs to turn into an effective political movement",
-            "summary": "An independent public inquiry into the AUKUS security pact is currently underway, with a recent hearing held in Sydney. Retired Admiral Chris Barrie, one of five appointed commissioners, participated in the proceedings. The inquiry scrutinizes the trilateral agreement between Australia, the UK, and the US, particularly focusing on the provision of nuclear-powered submarines to Australia, highlighting ongoing review of this significant defence alliance.",
-            "url": "http://www.crikey.com.au/2026/08/12/anti-aukus-campaign-inquiry-political-movement/",
-            "category": "Defence",
-            "date": "2026-08-11T23:25:41Z"
-        },
-        {
-            "title": "Sci-Fi Shapes the Future",
-            "summary": "The author attributes their unique preparedness for today's world to extensive childhood reading of science fiction. Devouring works by iconic authors like Robert Heinlein, Frank Herbert, and Arthur C. Clarke, these futuristic novels provided distinctive perspectives. The article suggests that engaging with such imaginative narratives helped shape the author's understanding of contemporary society and its complexities.",
-            "url": "https://dailyreckoning.com/sci-fi-shapes-the-future/",
+            "title": "fpbinject added to PyPI",
+            "summary": "FPBInject enables runtime code injection for ARM Cortex-M microcontrollers, allowing function replacement on a running MCU via a serial connection. This innovative method eliminates the need for reflashing, debuggers, or downtime, offering efficient system updates. It utilizes the Flash Patch and Breakpoint (FPB) unit for seamless operation on embedded systems, enhancing flexibility in system maintenance and development.",
+            "url": "https://pypi.org/project/fpbinject/",
             "category": "Sci & Tech",
-            "date": "2026-08-11T22:00:12Z"
+            "date": "2026-08-12T06:54:40Z"
+        },
+        {
+            "title": "10 Stars Who Clashed With Themselves On The Same Day!",
+            "summary": "This article explores the phenomenon of Bollywood actors having multiple films release simultaneously. It sets the stage by highlighting Shabana Azmi's upcoming projects, 'Batwara 1947' and 'Awarapan 2', which are expected to clash. The piece intends to further analyze other instances where various Bollywood actors have faced similar same-day film releases.",
+            "url": "https://www.rediff.com/movies/special/10-stars-who-clashed-with-themselves-on-the-same-day/20260812.htm",
+            "category": "National",
+            "date": "2026-08-12T06:41:48Z"
+        },
+        {
+            "title": "Bigg Boss Malayalam: Here\u2019s how much ex-contestant Manju Pathrose earned in 50 days",
+            "summary": "This news details the earnings of ex-contestant Manju Pathrose during her 50-day tenure on Bigg Boss Malayalam. It reports on the financial aspects of reality television participation, specifically within the entertainment industry. While not related to core SSB general knowledge topics, it offers a glimpse into celebrity remuneration in the national media landscape.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/malayalam/bigg-boss-malayalam-heres-how-much-ex-contestant-manju-pathrose-earned-in-50-days/articleshow/133173133.cms",
+            "category": "National",
+            "date": "2026-08-12T06:26:41Z"
+        },
+        {
+            "title": "Pentagon Drafting Nuclear Strategy to Expand Tactical Weapons Options, NBC Reports",
+            "summary": "The Pentagon is formulating a new nuclear strategy that significantly emphasizes tactical nuclear weapons. This proposed doctrine aims to broaden presidential options in the event of a potential nuclear conflict, marking a shift in US nuclear posture. This development has critical implications for global security and deterrence.",
+            "url": "https://www.naturalnews.com/2026-08-12-pentagon-drafting-nuclear-strategy-tactical-weapons-options.html",
+            "category": "Defence",
+            "date": "2026-08-12T06:00:00Z"
         }
     ]
 }
