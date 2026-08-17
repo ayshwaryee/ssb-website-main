@@ -1,33 +1,47 @@
 {
-    "last_updated": "2026-08-17T06:42:10.478205+00:00",
+    "last_updated": "2026-08-17T12:33:03.602759+00:00",
     "articles": [
         {
-            "title": "Shera Energy eyes 25-30% revenue growth in FY27, bets on capacity expansion",
-            "summary": "Jaipur-based Shera Energy is targeting an ambitious 25-30% revenue growth this financial year. This expansion will be fueled by significant capacity enhancement and the introduction of new value-added products. The company aims to strengthen its market presence by catering to crucial sectors, including power and related infrastructure. This strategic business growth highlights an important development in India's industrial landscape.",
-            "url": "https://www.business-standard.com/companies/news/shera-energy-eyes-25-30-revenue-growth-in-fy27-bets-on-capacity-expansion-126081600154_1.html",
-            "category": "National",
-            "date": "2026-08-16T06:17:35Z"
-        },
-        {
-            "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-            "summary": "Ongoing Russian strikes in Ukraine resulted in one fatality and seven injuries, underscoring the conflict's human cost. Concurrently, a Spanish fighter jet, operating within NATO's air policing mission, successfully intercepted and shot down a drone that had violated Romanian airspace. This demonstrates vigilant airspace protection and heightened regional security posture amidst persistent geopolitical tensions.",
-            "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania",
+            "title": "Indian Army chief arrives in Kathmandu for four-day visit",
+            "summary": "Indian Army Chief Dhiraj Seth has commenced a four-day visit to Kathmandu, Nepal, following a formal invitation from Nepal Army Chief Ashok Raj Sigdel. This high-level engagement between the defence chiefs is expected to strengthen military cooperation and bilateral ties between India and Nepal, facilitating discussions on regional security and strategic partnership.",
+            "url": "https://english.khabarhub.com/2026/16/563532/",
             "category": "Defence",
-            "date": "2026-08-16T04:54:33Z"
+            "date": "2026-08-16T12:15:17Z"
         },
         {
-            "title": "India has around 440 space technology startups: DPIIT Start-up India portal",
-            "summary": "India now hosts around 440 registered space technology startups, showcasing a burgeoning private sector. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) has authorized 113 firms, actively enabling private participation in space activities. This signifies India's commitment to fostering indigenous innovation, promoting self-reliance, and expanding its strategic capabilities in advanced space technology.",
-            "url": "https://www.thehindubusinessline.com/news/india-has-around-440-space-technology-startups-dpiit-start-up-india-portal/article71351921.ece",
-            "category": "Sci & Tech",
-            "date": "2026-08-16T03:42:45Z"
+            "title": "Dolphins news: Reacting and overreacting to preseason loss to Commanders",
+            "summary": "The Miami Dolphins opened their NFL preseason with a 20-7 loss against the Commanders. Despite the defeat, the Dolphins showcased some early highlights, particularly during the initial phases when their starting players were actively engaged, providing specific areas for the team to analyze and build upon for the upcoming regular season.",
+            "url": "https://www.thephinsider.com/miami-dolphins-news/121602/miami-dolphins-news-overreaction-saturday-takes-a-look-back-at-miamis-preseason-loss-to-commanders",
+            "category": "National",
+            "date": "2026-08-16T12:07:18Z"
         },
         {
-            "title": "Miami Dolphins' Jeff Hafley: 'People are so quick to judge' rookies",
-            "summary": "Jeff Hafley, the new coach for the Miami Dolphins, recently completed his first preseason game. The article highlights the prevalent lack of patience in the South Florida area concerning team performance, suggesting an immediate pressure on Hafley's tenure. This sets an early tone for his leadership in professional American football.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/15/miami-dolphins-jeff-hafley-rookies/91322738007/",
+            "title": "GENERAL DHIRAJ SETH, CHIEF OF THE ARMY STAFF EMBARKS ON AN OFFICIAL VISIT TO NEPAL",
+            "summary": "General Dhiraj Seth, India's Chief of the Army Staff (COAS), commenced an official visit to Nepal from August 17, 2026. This high-level engagement aims to bolster bilateral defence cooperation and strengthen strategic ties between the Indian and Nepalese armies. Such visits are crucial for regional security discussions, enhancing interoperability, and fostering goodwill, reflecting India's proactive defence diplomacy with key neighbours.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260816-india-pib01.htm",
+            "category": "Defence",
+            "date": "2026-08-16T12:00:00Z"
+        },
+        {
+            "title": "\u2018Spearhead of annexation\u2019: Israel hands West Bank rule to civilian police",
+            "summary": "Palestinian politicians and analysts are warning against an alleged Israeli plan to illegally annex the occupied West Bank. They claim Israel is implementing a series of decisions and actions to achieve this. This development exacerbates regional tensions and impacts international law regarding occupied territories, requiring diplomatic scrutiny and potential global response.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police",
             "category": "International",
-            "date": "2026-08-15T22:02:29Z"
+            "date": "2026-08-16T11:54:55Z"
+        },
+        {
+            "title": "YFN Spider-Man, Scrubs, Percy Jackson & More: BCTV Daily Dispatch",
+            "summary": "Today's BCTV Daily Dispatch reports on updates across popular streaming and television series, including 'Percy Jackson,' 'Scrubs,' 'Your Friendly Neighborhood Spider-Man,' 'Lanterns,' 'Reacher,' and 'The X-Files.' This showcases the dynamic nature of digital entertainment and its pervasive cultural influence, driven by evolving media technologies and platforms.",
+            "url": "https://bleedingcool.com/tv/yfn-spider-man-scrubs-percy-jackson-more-bctv-daily-dispatch/",
+            "category": "Sci & Tech",
+            "date": "2026-08-16T11:37:09Z"
+        },
+        {
+            "title": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
+            "summary": "Russia conducted a fresh wave of overnight airstrikes across Ukraine, causing two fatalities at a steel plant. Simultaneously, Kyiv launched a significant drone attack, signaling an escalation in hostilities. This ongoing tit-for-tat military action underscores the persistent geopolitical instability and the devastating human cost of the conflict, crucial for SSB aspirants to understand.",
+            "url": "https://uk.news.yahoo.com/russian-missile-attack-kyiv-sparks-013305567.html",
+            "category": "Defence",
+            "date": "2026-08-16T11:05:27Z"
         }
     ]
 }
