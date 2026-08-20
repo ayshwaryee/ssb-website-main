@@ -1,33 +1,19 @@
 {
-    "last_updated": "2026-08-20T00:55:33.469745+00:00",
+    "last_updated": "2026-08-20T06:36:27.638298+00:00",
     "articles": [
         {
-            "title": "Lindelof On That \u201cLanterns\u201d Premiere Ending",
-            "summary": "The series premiere of HBO Max's 'Lanterns' intentionally left viewers confused, according to the showrunners. This narrative choice sparked discussions among audiences, confirming the creators' aim for deliberate ambiguity. For SSB aspirants, understanding how creative decisions influence public reception, even in entertainment, highlights critical thinking about intentional ambiguity in communication and audience engagement strategies.",
-            "url": "https://www.darkhorizons.com/lindelof-on-that-lanterns-premiere-ending/",
+            "title": "Why Transformer-Based Architectures for Digital Wallet Creation",
+            "summary": "The article clarifies a common misconception, stating that advanced Transformer-based architectures are generally not utilized for core \"Wallet Creation\" modules. These modules typically involve simpler Create, Read, Update, and Delete (CRUD) operations concerning user registration and data management. This highlights a distinction between sophisticated AI models and more fundamental software engineering practices for specific application components.",
+            "url": "https://www.c-sharpcorner.com/article/why-transformer-based-architectures-for-digital-wallet-creation/",
             "category": "Sci & Tech",
-            "date": "2026-08-19T00:40:58Z"
+            "date": "2026-08-19T06:29:30Z"
         },
         {
-            "title": "Trump\u2019s Plan for Foreign-Built Navy Ships Runs Into Resistance",
-            "summary": "President Trump's controversial proposal to open U.S. Navy shipbuilding to foreign yards faces strong opposition. American shipbuilders and lawmakers argue this policy endangers national security by outsourcing critical defense infrastructure and risking significant job losses domestically. This debate highlights the tension between economic efficiency and protecting national industrial capabilities within the defence sector.",
-            "url": "https://gcaptain.com/trumps-plan-for-foreign-built-navy-ships-runs-into-resistance/",
-            "category": "Defence",
-            "date": "2026-08-19T00:18:04Z"
-        },
-        {
-            "title": "IShowSpeed teases a WWE return \"very soon\" after WrestleMania 42 appearance and explosive Logan Paul rivalry",
-            "summary": "Satyendar Jain, the former CEO of the Delhi Jal Board, has been arrested along with five other individuals. While the specific charges are not detailed, this development indicates significant legal action against a prominent figure previously associated with a key civic body in the National Capital Territory. This event underscores ongoing efforts in addressing governance and accountability within national administration.",
-            "url": "https://timesofindia.indiatimes.com/world/us-streamers/ishowspeed-teases-a-wwe-return-very-soon-after-wrestlemania-42-appearance-and-explosive-logan-paul-rivalry/articleshow/133334539.cms",
-            "category": "National",
-            "date": "2026-08-18T23:50:54Z"
-        },
-        {
-            "title": "In 1962, a French cave explorer spent two months alone underground with no clock, no calendar, and no sunlight \u2014 and when his team finally told him the experiment was over, he thought he still had nearly a month left",
-            "summary": "A young Frenchman, Michel Siffre, emerged from a cave in the Ligurian Alps on September 14, 1962, after a pioneering isolation experiment. Shielded from light, he insisted it was still August, highlighting the human body's desynchronization from external time without natural cues. This groundbreaking research contributed significantly to chronobiology and understanding circadian rhythms.",
-            "url": "https://spacedaily.com/d-in-1962-a-french-cave-explorer-spent-two-months-alone-underground-with-no-clock-no-calendar-and-no-sunlight-and-when-his-team-finally-told-him-the-experiment-was-over-he-thought-he-still/",
-            "category": "Sci & Tech",
-            "date": "2026-08-18T17:45:37Z"
+            "title": "Ukraine's axed defence minister demands wartime election - with polls saying he would beat Zelensky",
+            "summary": "Ukraine's ousted Defence Minister, Mykhailo Fedorov, recently called for wartime elections, citing a critical 'crisis of governance' within the nation. This bombshell address marks the most significant internal political challenge to Ukraine's leadership amidst the ongoing conflict. Fedorov's demand raises serious questions about the country's political stability and future direction while engaged in war.",
+            "url": "https://www.dailymail.com/news/article-16063119/Ukraines-axed-defence-minister-demands-wartime-election-polls-saying-beat-Zelensky.html",
+            "category": "International",
+            "date": "2026-08-19T06:21:01Z"
         }
     ]
 }
