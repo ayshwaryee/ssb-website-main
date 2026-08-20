@@ -1,19 +1,68 @@
 {
-    "last_updated": "2026-08-20T06:36:27.638298+00:00",
+    "last_updated": "2026-08-20T12:36:22.445538+00:00",
     "articles": [
         {
-            "title": "Why Transformer-Based Architectures for Digital Wallet Creation",
-            "summary": "The article clarifies a common misconception, stating that advanced Transformer-based architectures are generally not utilized for core \"Wallet Creation\" modules. These modules typically involve simpler Create, Read, Update, and Delete (CRUD) operations concerning user registration and data management. This highlights a distinction between sophisticated AI models and more fundamental software engineering practices for specific application components.",
-            "url": "https://www.c-sharpcorner.com/article/why-transformer-based-architectures-for-digital-wallet-creation/",
-            "category": "Sci & Tech",
-            "date": "2026-08-19T06:29:30Z"
+            "title": "Kyle Chandler and Aaron Pierre\u2019s Chemistry Is Vital to Lanterns. Luckily, They Have Tons of It.",
+            "summary": "HBO's upcoming series 'Lanterns,' a pivotal part of James Gunn's revamped DC Universe, is highlighted. The series, described as a dynamic duo superhero narrative with true-crime elements, reportedly hinges on actors Kyle Chandler and Aaron Pierre. It marks a significant new chapter for the globally popular DC franchise, further expanding its universe on a major platform.",
+            "url": "https://www.menshealth.com/entertainment/a73465412/lanterns-kyle-chandler-aaron-pierre-interview/",
+            "category": "International",
+            "date": "2026-08-19T12:30:00Z"
         },
         {
-            "title": "Ukraine's axed defence minister demands wartime election - with polls saying he would beat Zelensky",
-            "summary": "Ukraine's ousted Defence Minister, Mykhailo Fedorov, recently called for wartime elections, citing a critical 'crisis of governance' within the nation. This bombshell address marks the most significant internal political challenge to Ukraine's leadership amidst the ongoing conflict. Fedorov's demand raises serious questions about the country's political stability and future direction while engaged in war.",
-            "url": "https://www.dailymail.com/news/article-16063119/Ukraines-axed-defence-minister-demands-wartime-election-polls-saying-beat-Zelensky.html",
+            "title": "NFL preseason Week 2 betting guide: Thursday & Friday games",
+            "summary": "The article details NFL Preseason Week 2, covering five upcoming games across Thursday and Friday. It provides comprehensive matchup analyses, including player information, betting odds like the spread and over/under, and expert picks. This content offers insights for those following American professional football's initial phase.",
+            "url": "https://www.thebiglead.com/nfl-preseason-week-2-betting-guide-thursday-friday-games/",
+            "category": "National",
+            "date": "2026-08-19T12:16:43Z"
+        },
+        {
+            "title": "Who is Mykhailo Fedorov, Ukraine's ex-defence minister?",
+            "summary": "Ukraine's former Defence Minister Mykhailo Fedorov has publicly called for wartime elections, marking the most significant internal political challenge to President Volodymyr Zelensky's authority since Russia's full-scale invasion began. This demand highlights growing domestic pressure and potential shifts in Ukraine's political landscape amidst ongoing conflict, stirring debate on governance during wartime.",
+            "url": "https://www.rte.ie/news/2026/0819/1588512-mykhailo-federov/",
             "category": "International",
-            "date": "2026-08-19T06:21:01Z"
+            "date": "2026-08-19T12:07:14Z"
+        },
+        {
+            "title": "Universal Signs Deal For The Beatles Merch, E-Commerce As Biopics Near",
+            "summary": "Universal Music Group has secured a new global exclusive licensing deal with Apple Corps. This significant agreement comes as a quartet of Beatles biopics are scheduled for a simultaneous April 2028 release. The deal likely encompasses extensive music rights and content, vital for the upcoming film projects and future ventures, reinforcing the band's global legacy and intellectual property management.",
+            "url": "http://www.billboard.com/pro/universal-beatles-apple-licensing-deal-merch-biopics-near/",
+            "category": "International",
+            "date": "2026-08-19T12:02:47Z"
+        },
+        {
+            "title": "Have I Been Flocked?, XCancel, Raclin Murphy Museum of Art, More: Wednesday ResearchBuzz, August 19, 2026",
+            "summary": "A new website, 'Have I Been Flocked?', has been launched, enabling individuals to check if their vehicle's license plate number appears in publicly accessible databases. Users can input their plate number to ascertain its public visibility. This tool brings focus to concerns regarding personal data privacy and the accessibility of vehicle-related information, highlighting the importance of digital awareness for citizens.",
+            "url": "https://researchbuzz.me/2026/08/19/have-i-been-flocked-xcancel-raclin-murphy-museum-of-art-more-wednesday-researchbuzz-august-19-2026/",
+            "category": "Sci & Tech",
+            "date": "2026-08-19T12:01:20Z"
+        },
+        {
+            "title": "Navy advances MH-60 modernization, identifies industry performers for TALON prototype project",
+            "summary": "The US Navy is reportedly taking a critical step, as of August 19, 2026, to ensure its long-term fleet readiness and secure maritime dominance. This initiative involves Katherine Coughlan, the Aviation Portfolio Acquisition Executive, suggesting a focus on acquiring and managing aviation assets. The move underscores the US Navy's continuous efforts to maintain robust operational capabilities and strategic superiority.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-usn02.htm",
+            "category": "Defence",
+            "date": "2026-08-19T12:00:00Z"
+        },
+        {
+            "title": "France assumes command of NATO Task Group from the United Kingdom",
+            "summary": "In Reykjav\u00edk, Iceland, on August 19, 2026, command of Standing NATO Maritime Group One (SNMG1) was formally handed over. The UK-led Battle Staff, commanded by the Royal Navy, transferred leadership of this critical multinational maritime force. This strategic command change underscores NATO's continuous readiness and interoperability, reinforcing collective defence capabilities and ensuring robust maritime security operations within the alliance's area of responsibility.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-nato-marcom01.htm",
+            "category": "Defence",
+            "date": "2026-08-19T12:00:00Z"
+        },
+        {
+            "title": "Japan Wants to Develop Hypersonic Missiles, Unmanned Submarines, Attack Drones - Reports",
+            "summary": "Japan's Defense Ministry is set to develop submarine-launched hypersonic missiles and low-cost attack drones, significantly enhancing its naval capabilities. Plans also include exploring equipping submarines with long-range missiles. These strategic initiatives highlight Japan's commitment to modernizing its forces and bolstering its deterrence posture, focusing on advanced maritime weapon systems crucial for regional security dynamics.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260819-sputnik01.htm",
+            "category": "Defence",
+            "date": "2026-08-19T12:00:00Z"
+        },
+        {
+            "title": "15 Black Radio Icons Who Shaped Culture Through the Years",
+            "summary": "DJs Marley Marl and Mr. Magic (John Rivas) were photographed on October 21, 1983, on air with a WBLS 107.5FM microphone in New York City. This iconic image, captured by Michael Ochs Archives/Getty Images, documents a significant moment in early hip-hop radio culture. It highlights the pioneering figures who were instrumental in shaping the genre's sound and expanding its reach during the vibrant 1980s era in the United States.",
+            "url": "https://www.theroot.com/15-black-radio-icons-who-shaped-culture-through-the-yea-2000121759",
+            "category": "National",
+            "date": "2026-08-19T11:39:42Z"
         }
     ]
 }
