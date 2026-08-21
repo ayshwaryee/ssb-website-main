@@ -1,26 +1,68 @@
 {
-    "last_updated": "2026-08-21T06:36:28.425444+00:00",
+    "last_updated": "2026-08-21T12:35:46.780236+00:00",
     "articles": [
         {
-            "title": "Smaller jet planes can raise IndiGo's capacity for new routes\u2014but it could prove costly",
-            "summary": "The provided fragment outlines IndiGo's current flight operations, utilizing narrow-body aircraft for short-haul routes within India and to Gulf and Southeast Asian countries. It highlights that the airline doesn't currently serve specific other international destinations. The full article likely elaborates on IndiGo's strategic plans for network expansion, potentially involving new aircraft acquisitions to enhance India's global aviation connectivity and economic influence.",
-            "url": "https://www.livemint.com/opinion/online-views/smaller-jet-planes-indigo-capacity-new-routes-embraer-airline-aircraft-fleet-cost-calculations-11787168486684.html",
+            "title": "India, Japan agree to bolster defense ties",
+            "summary": "Japan's Defence Minister Shinjiro Koizumi visited New Delhi, inspecting a guard of honour. India and Japan agreed to significantly bolster security ties during this high-level engagement. This strategic commitment aims to enhance defence cooperation, crucial for regional stability and mutual security interests, reflecting growing bilateral alignment between both nations.",
+            "url": "https://www.hurriyetdailynews.com/india-japan-agree-to-bolster-defense-ties-225859",
+            "category": "Defence",
+            "date": "2026-08-20T12:11:50Z"
+        },
+        {
+            "title": "Vedanta Group subsidiary launches Copper-Doped Alloy and VFA for automotive applications",
+            "summary": "Vedanta Aluminium, a Vedanta Group subsidiary, launched its new Copper-Doped Alloy and Vedanta Foundry Alloy (VFA) within its Primary Foundry Alloy (PFA) range. This initiative underscores advancements in material science and manufacturing capabilities. Such innovations contribute significantly to industrial self-reliance and technological progress, bolstering the national economy.",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/vedanta-group-subsidiary-launches-copper-doped-alloy-and-vfa-for-automotive-applications/articleshow/133376869.cms",
             "category": "National",
-            "date": "2026-08-20T06:30:22Z"
+            "date": "2026-08-20T12:09:03Z"
         },
         {
-            "title": "The enclave and its limits",
-            "summary": "Recent Pentagon data reveals over 750 US soldiers have sustained injuries in attacks linked to Iran since the conflict began. This significant statistic underscores the ongoing human cost and persistent security challenges faced by US forces in the region. Such developments highlight the volatile nature of international relations and geopolitical tensions, crucial for understanding global defence dynamics and strategic implications.",
-            "url": "https://timesofindia.indiatimes.com/toi-blogs/power-policy/the-enclave-and-its-limits/articleshow/133365143.cms",
+            "title": "India-Japan Joint Press Statement",
+            "summary": "Indian Raksha Mantri Shri Rajnath Singh and Japanese Defence Minister Mr. Shinjiro Koizumi conducted a significant bilateral meeting. The discussion likely focused on enhancing defence cooperation, regional security, and strategic partnerships between India and Japan, reflecting ongoing efforts to strengthen ties in the Indo-Pacific region. This interaction underscores the importance of diplomatic engagement in defence matters.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260820-india-pib01.htm",
             "category": "Defence",
-            "date": "2026-08-20T05:55:03Z"
+            "date": "2026-08-20T12:00:00Z"
         },
         {
-            "title": "Turkish naval platforms take center stage at Teknofest in G\u00f6lc\u00fck",
-            "summary": "Turkish Navy vessels sailed the Izmit Gulf on August 19, preceding Teknofest's maritime-focused 'Blue Homeland' event. Hosted from August 20-23 at G\u00f6lc\u00fck Naval Shipyard, this highlights Turkey's commitment to naval capabilities, indigenous defence technology, and strategic maritime doctrines. This initiative emphasizes the critical importance of a robust navy for national security.",
-            "url": "https://www.hurriyetdailynews.com/turkish-naval-platforms-take-center-stage-at-teknofest-in-golcuk-225824",
+            "title": "Vice Adm. Williams Champions Acquisition Reform and Industrial Base Mobilizaton to Meet Strategic Needs",
+            "summary": "Vice Adm. Douglas Williams, Director of Portfolio Acquisition Executive (PAE) Strategic Systems Programs (SSP), was in Omaha, Nebraska, on August 20, 2026. He provided crucial insights related to SSP. This engagement likely involved discussions pertinent to strategic defence systems and future acquisitions, offering valuable perspectives on critical military programs that shape future defence capabilities.",
+            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260820-stratcom01.htm",
             "category": "Defence",
-            "date": "2026-08-20T05:40:44Z"
+            "date": "2026-08-20T12:00:00Z"
+        },
+        {
+            "title": "North Korea fires up to 10 ballistic missiles toward sea, hours after Trump speaks of re-engagement",
+            "summary": "South Korea condemned North Korea's launch of over 10 short-range ballistic missiles, ordering its military to maintain full readiness. This incident occurred amidst ongoing joint exercises between South Korea and the US, heightening regional tensions. Seoul called the launches a clear provocation, underscoring the volatile security situation on the Korean Peninsula and the need for robust defence preparedness.",
+            "url": "https://www.cbc.ca/news/world/north-korea-missile-launch-ulchi-freedom-trump-9.7313643",
+            "category": "Defence",
+            "date": "2026-08-20T11:58:09Z"
+        },
+        {
+            "title": "Lanterns: Theory Based On Weeks Ahead Trailer Suggests That [Spoiler] May Still Be Alive",
+            "summary": "The article reveals a major spoiler from the series premiere of 'Lanterns', confirming the death of the prominent character Hal Jordan, played by Kyle Chandler, in its first episode titled 'Pilot'. This unexpected plot twist in the highly anticipated show sets a dramatic and surprising tone from the very beginning.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-theory-based-on-weeks-ahead-trailer-suggests-that-spoiler-may-still-be-alive-a229456",
+            "category": "Sci & Tech",
+            "date": "2026-08-20T11:51:12Z"
+        },
+        {
+            "title": "Japan deepen strategic ties with maritime security cooperation deal",
+            "summary": "Defence ministers, including India's Rajnath Singh, have signed a significant bilateral deal to enhance maritime security cooperation. This agreement is strategically crucial, particularly focusing on stability and safety within the vital Indo-Pacific region. For SSB aspirants, understanding such alliances highlights India's commitment to regional security and strategic partnerships in critical sea lanes, reinforcing its geopolitical role.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/japan-deepen-strategic-ties-with-maritime-security-cooperation-deal-126082000969_1.html",
+            "category": "Defence",
+            "date": "2026-08-20T11:49:53Z"
+        },
+        {
+            "title": "Lanterns Season 2 Might Come Sooner Than Fans Think Thanks to New Update",
+            "summary": "HBO premiered 'Lanterns' on August 16, featuring Hal Jordan (Kyle Chandler) and rookie John Stewart (Aaron Pierre). The duo investigates a mysterious murder in Nebraska, marking the series' debut. This new sci-fi drama delves into crime-solving within the expansive Green Lantern universe, offering a fresh take on the iconic comic book characters.",
+            "url": "http://comicbook.com/tv-shows/news/lanterns-season-2-might-come-sooner-than-fans-think-thanks-to-new-update/",
+            "category": "Sci & Tech",
+            "date": "2026-08-20T11:00:00Z"
+        },
+        {
+            "title": "Sensex today | Stock Market Highlights: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains",
+            "summary": "Trilegal advised Goldman Sachs (India) Securities on a significant USD 309 million block sale of Paytm shares. This major financial transaction indicates substantial investment activity within the Indian market. Such large-scale deals are crucial for understanding market dynamics and investor confidence, showcasing the continuous evolution of India's financial landscape.",
+            "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-20th-august-2026/article71365156.ece",
+            "category": "National",
+            "date": "2026-08-20T10:37:26Z"
         }
     ]
 }
