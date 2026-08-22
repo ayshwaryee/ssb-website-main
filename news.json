@@ -1,68 +1,54 @@
 {
-    "last_updated": "2026-08-22T12:28:06.173860+00:00",
+    "last_updated": "2026-08-22T18:20:54.391018+00:00",
     "articles": [
         {
-            "title": "Appendix cancer is not just appendicitis: Doctors bust 5 myths about age, symptoms, surgery and treatment",
-            "summary": "Doctors clarify appendix cancer is distinct from appendicitis, debunking five common myths concerning age, symptoms, surgery, and treatment. This expert insight underscores the importance of accurate medical understanding for timely diagnosis and effective patient care. Distinguishing serious conditions from benign ones is crucial, emphasizing the value of precise health information for informed decision-making.",
-            "url": "https://timesofindia.indiatimes.com/health/appendix-cancer-is-not-just-appendicitis-doctors-bust-5-myths-about-age-symptoms-surgery-and-treatment/articleshow/133403216.cms",
+            "title": "Shipwreck Hunters Discover the Ruins of a British Destroyer That Split in Half During a Tragic Peacetime Accident 118 Years Ago",
+            "summary": "In 1908, Royal Navy ships, including HMS Tiger, conducted a training exercise involving Whitehead torpedo tubes during a moonless night in the English Channel. This historical event highlights early 20th-century naval drills and the technological advancements in maritime warfare. Understanding such historical operations provides valuable context for the evolution of modern defence strategies and naval readiness.",
+            "url": "https://www.smithsonianmag.com/smart-news/shipwreck-hunters-discover-the-ruins-of-a-british-destroyer-that-split-in-half-during-a-tragic-peacetime-accident-118-years-ago-180989379/",
+            "category": "Defence",
+            "date": "2026-08-21T18:04:39Z"
+        },
+        {
+            "title": "Your Android phone is mangling lossless audio before it even reaches your headphones",
+            "summary": "Android devices may inadvertently degrade audio quality, even for hi-res files, due to their internal audio mixer, AudioFlinger. This system component resamples almost all audio content, potentially lowering the sound fidelity without the user's knowledge. Aspirants should be aware of such technical limitations that can impact their media experience on Android platforms.",
+            "url": "https://www.makeuseof.com/your-android-phone-is-mangling-lossless-audio-before-it-even-reaches-your-headphones/",
             "category": "Sci & Tech",
-            "date": "2026-08-21T12:00:56Z"
+            "date": "2026-08-21T18:00:14Z"
         },
         {
-            "title": "Navy Removes Bureaucratic Barriers to Accelerate 3D Printing and Accelerate Submarine Lethality",
-            "summary": "The US Navy released new technical requirements on August 21, 2026, a strategic move to accelerate warfighting capabilities and eliminate industrial bottlenecks. This initiative underscores the continuous global focus on enhancing military readiness and supply chain resilience, crucial for national defence preparedness. Aspirants should note such developments as indicators of modern military priorities.",
-            "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260821-usnpr01.htm",
-            "category": "Defence",
-            "date": "2026-08-21T12:00:00Z"
-        },
-        {
-            "title": "Exclusive: PLA tracks, monitors US P-8A's transit through Taiwan Straits: source",
-            "summary": "A US P-8A anti-submarine patrol aircraft recently transited the sensitive Taiwan Straits. This US military operation, interpreted as a freedom of navigation exercise, typically draws strong reactions from China, viewing it as a provocation challenging its sovereignty over Taiwan. The incident underscores persistent geopolitical tensions and military posturing between the US and China in the strategically vital Indo-Pacific region.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260821-globaltimes01.htm",
-            "category": "Defence",
-            "date": "2026-08-21T12:00:00Z"
-        },
-        {
-            "title": "President Lee, China FM discuss bilateral ties, Korean Peninsula",
-            "summary": "South Korean President Lee Jae Myung hosted talks with Chinese Foreign Minister Wang Yi, focusing on strengthening bilateral ties. Discussions also covered critical issues concerning the Korean Peninsula. This high-level diplomatic engagement highlights efforts to foster regional stability and cooperation between Seoul and Beijing, crucial for understanding East Asian geopolitics.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/rok/2026/rok-260821-koreanet01.htm",
+            "title": "Lanterns Shines Bright With 9.3M Views In First 3 Days On HBO Max - Biggest Launch For A DC Studios Show",
+            "summary": "The new DCU series 'Lanterns' has launched successfully on HBO and HBO Max, achieving 9.3 million views in its first three days. This strong debut marks the biggest premiere for any DC series on these platforms, demonstrating significant global audience engagement. The success underscores the continued international appeal of the DC Universe in digital entertainment.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-shines-bright-with-93m-views-in-first-3-days-on-hbo-max---biggest-launch-for-a-dc-studios-show-a229481",
             "category": "International",
-            "date": "2026-08-21T12:00:00Z"
+            "date": "2026-08-21T17:55:48Z"
         },
         {
-            "title": "The 20 Sexiest Movies on Prime Video Right Now",
-            "summary": "The entertainment industry is experiencing a revival in 'sexy movies,' with films like Wuthering Heights, The Invite, and I Want Your Sex marking this comeback. This trend highlights evolving cultural preferences and cinematic expressions. Aspirants should observe such shifts in popular culture, as they often reflect broader societal changes and global entertainment dynamics, demonstrating an understanding of diverse trends.",
-            "url": "https://www.esquire.com/entertainment/movies/g73476325/sexiest-movies-prime-video/",
-            "category": "International",
-            "date": "2026-08-21T12:00:00Z"
+            "title": "DC 'People v. Gorilla Grodd' Set at HBO Max Skyler Gisondo Jimmy Tatro",
+            "summary": "HBO Max is moving forward with its DC Studios mockumentary series, \"The People v. Gorilla Grodd.\" First reported in November 2025, this production will likely offer a satirical look at the legal and societal implications surrounding the highly intelligent, telepathic ape villain from the DC universe, blending fictional science with mockumentary storytelling.",
+            "url": "https://variety.com/2026/tv/news/people-v-gorilla-grodd-hbo-max-skyler-gisondo-jimmy-tatro-1236840183/",
+            "category": "Sci & Tech",
+            "date": "2026-08-21T17:45:16Z"
         },
         {
-            "title": "INDIAN ARMY'S TERRITORIAL ARMY LAUNCHES 'TERRIER CYBER QUEST 2026'",
-            "summary": "The Ministry of Defence announced that the Territorial Army, in partnership with CyberPeace, has launched Terrier Cyber Quest 2026 (TCQ). This initiative likely aims to enhance cyber security skills and awareness among defence personnel or the wider community, crucial for national defence. This collaboration underscores India's focus on bolstering its cyber capabilities, an essential aspect for future SSB aspirants to understand.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260821-india-pib02.htm",
-            "category": "Defence",
-            "date": "2026-08-21T12:00:00Z"
-        },
-        {
-            "title": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-            "summary": "Israel has initiated tenders for building 1,234 homes in the occupied West Bank. This move signifies a major expansion of illegal settlements, drawing strong condemnation from international rights groups. Critics argue this construction will effectively sever Palestinian territorial continuity, further complicating the long-standing Israeli-Palestinian conflict and raising concerns about regional stability and international law.",
-            "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage",
-            "category": "International",
-            "date": "2026-08-21T11:57:21Z"
-        },
-        {
-            "title": "Sensex today | Stock Market Highlights: Nifty ends marginally higher, Sensex flat as markets post weekly losses",
-            "summary": "The Reserve Bank of India's (RBI) Central Board recently convened in Chennai to meticulously review the nation's prevailing economic situation. The Board specifically assessed potential risks to the economic outlook, deliberating on factors that could impact India's financial stability and growth trajectory. Such high-level meetings are crucial for policy formulation and maintaining economic resilience.",
-            "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-august-2026/article71368928.ece",
+            "title": "India's forgotten gourmet produce: Tellicherry pepper, Lakadong turmeric, and Kashmiri morels",
+            "summary": "Monsoon winds, a seasonal phenomenon bringing moisture to India, were historically crucial for trade. Millennia ago, ancient traders skillfully utilized these powerful winds to sail ships filled with valuable goods like gold and silver to India, highlighting the region's historical economic significance and sophisticated early maritime connections driven by natural elements.",
+            "url": "https://economictimes.indiatimes.com/news/india/indias-forgotten-gourmet-produce-tellicherry-pepper-lakadong-turmeric-and-kashmiri-morels/articleshow/133410742.cms",
             "category": "National",
-            "date": "2026-08-21T10:42:24Z"
+            "date": "2026-08-21T17:42:42Z"
         },
         {
-            "title": "Data Patterns rises after securing supply contract worth Rs 585 crore from BEL",
-            "summary": "Data Patterns (India) has secured a significant order worth Rs. 585.76 crore from Bharat Electronics (BEL) for the procurement of crucial radar electronics. This development underscores the growing strength of India's indigenous defence manufacturing sector, enhancing domestic capabilities in critical defence technologies and supporting self-reliance within the nation's defence ecosystem.",
-            "url": "https://www.business-standard.com/markets/capital-market-news/data-patterns-rises-after-securing-supply-contract-worth-rs-585-crore-from-bel-126082100189_1.html",
-            "category": "Defence",
-            "date": "2026-08-21T04:20:24Z"
+            "title": "The long and winding R&D: While India tracks where publicly funded research money goes, it should track what it creates",
+            "summary": "India's research-funding ecosystem is estimated to be losing over \u20b93,000 crore annually due to duplicate grants. This significant financial drain, comparable to issues highlighted by a US analysis, indicates a critical inefficiency in resource allocation for scientific advancement. For SSB aspirants, this underlines the importance of robust financial oversight and transparent management in national institutions to ensure optimal utilization of public funds for development.",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/the-long-and-winding-rd-while-india-tracks-where-publicly-funded-research-money-goes-it-should-track-what-it-creates/articleshow/133410210.cms",
+            "category": "National",
+            "date": "2026-08-21T17:22:14Z"
+        },
+        {
+            "title": "Too young to ask their own questions: Learning and visitor dynamics in a constructivist museum environment",
+            "summary": "The National Museum in Prague launched a new permanent Childrens Museum exhibition in 2023. Primarily for ages 5-10, it aims to offer an engaging and educational experience. This initiative reflects efforts to make national cultural institutions more accessible and appealing to younger audiences, fostering early learning and interaction with history and culture, highlighting cultural development in other nations.",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355543",
+            "category": "International",
+            "date": "2026-08-21T14:00:00Z"
         }
     ]
 }
