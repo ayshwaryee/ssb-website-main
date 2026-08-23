@@ -1,54 +1,33 @@
 {
-    "last_updated": "2026-08-23T01:00:37.092849+00:00",
+    "last_updated": "2026-08-23T06:31:28.521486+00:00",
     "articles": [
         {
-            "title": "opbdh 1.5.0",
-            "summary": "The provided text is an error message, not a news article. It states that a website component failed to load, likely due to browser extensions, network issues, or settings. Users are advised to check their internet connection, disable ad blockers, or try a different browser to resolve this technical problem and access the site fully.",
-            "url": "https://pypi.org/project/opbdh/1.5.0/",
+            "title": "China\u2019s new moon mission could unlock secret of lunar ice: Why that matters",
+            "summary": "China is set to launch its Change-7 unmanned robotic space mission, potentially this Monday. The mission aims to explore the moon's south pole, specifically focusing on permanently shadowed craters to search for ice water. This endeavor is crucial for understanding lunar resources and could significantly impact future space exploration and the establishment of lunar bases.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters",
             "category": "Sci & Tech",
-            "date": "2026-08-22T00:49:28Z"
+            "date": "2026-08-22T05:36:39Z"
         },
         {
-            "title": "WWE SmackDown Preview: WWE Gives Title Match Away Free on TV",
-            "summary": "This article details an upcoming WWE event in Toronto, featuring CM Punk defending the Undisputed WWE Championship against Kevin Owens. The event also includes a highly anticipated tag team gold match and promises significant wrestling action and drama. Aspirants might note the global reach of such entertainment spectacles, showcasing international sports and media engagement.",
-            "url": "https://bleedingcool.com/tv/wwe-smackdown-preview-wwe-gives-title-match-away-free-on-tv/",
-            "category": "International",
-            "date": "2026-08-22T00:37:09Z"
-        },
-        {
-            "title": "Mystery as retired spy general with links to Russia\u2019s Defence Ministry found shot dead",
-            "summary": "A retired Russian spy general with significant links to Russia's Defence Ministry has been found shot dead, sparking a mystery. This incident raises questions about internal security, potential assassinations, or power struggles within the intelligence community. For an SSB aspirant, such events underscore the complex and often perilous world of national security and intelligence operations, even after retirement from active service.",
-            "url": "https://freerepublic.com/focus/f-news/4392690/posts",
+            "title": "Munir, power, and paranoia",
+            "summary": "The fragment describes a persistent strategic reality for India since the late '50s: paranoia among Pakistani dictators. It notes that \"Munir's case\" presents an extreme worsening of this trend, comparing it to sudden acrophobia. This recurring leadership dynamic in Pakistan is presented as highly relevant to India's strategic considerations and security posture.",
+            "url": "https://www.business-standard.com/opinion/columns/munir-power-and-paranoia-126082101551_1.html",
             "category": "Defence",
-            "date": "2026-08-22T00:25:32Z"
+            "date": "2026-08-22T04:00:41Z"
         },
         {
-            "title": "Lanterns S01E02 Images: Hal Jordan Tries Charming the Town & More",
-            "summary": "New promotional images have been released for 'Lanterns S01E02', the upcoming episode of the HBO/Max series. The show features a stellar cast including Aaron Pierre and Kyle Chandler, and is developed by prominent creators Chris Mundy, Damon Lindelof, and Tom King. These visuals offer a first glimpse into the highly anticipated series, signaling its development within the digital entertainment landscape.",
-            "url": "https://bleedingcool.com/tv/lanterns-s01e02-images-hal-jordan-tries-charming-the-town-more/",
+            "title": "Meet Mason Corey: The 17-year-old New Jersey student who uses AI to predict 3D-printed plastic strength without breaking it",
+            "summary": "Seventeen-year-old Mason Corey, a New Jersey student, has innovatively developed an AI system. This AI accurately predicts the structural strength of 3D-printed plastic objects through non-destructive testing, avoiding physical breakage. This advancement significantly enhances material science, manufacturing efficiency, and quality control in 3D printing applications, offering valuable insights for future technological development.",
+            "url": "https://timesofindia.indiatimes.com/science/meet-mason-corey-the-17-year-old-new-jersey-student-who-uses-ai-to-predict-3d-printed-plastic-strength-without-breaking-it/articleshow/133416169.cms",
             "category": "Sci & Tech",
-            "date": "2026-08-21T23:37:10Z"
+            "date": "2026-08-22T02:43:51Z"
         },
         {
-            "title": "Some of these works are still growing (12 Photos)",
-            "summary": "The article describes 12 unique artworks that ingeniously blend natural elements with artistic expression. These pieces feature vibrant yellow flowers, living branches, vines, fungi, foliage, and grass, integrated into diverse scenes. From intricate underwater environments to painted portraits and comic-book characters, the collection showcases an innovative approach to incorporating nature's beauty and biological elements into creative compositions, demonstrating artistic versatility and environmental engagement.",
-            "url": "https://streetartutopia.com/2026/08/22/some-of-these-artworks-are-still-growing/",
+            "title": "Show HN: Zroar \u2013 Serialized Roaring Bitmaps in Zig",
+            "summary": "zroar is a ground-up implementation of the 'roaring bitmaps' data structure, designed for efficient data serialization. It stores 48-bit keys and containers within a single, flat byte buffer. This technical advancement focuses on optimizing how data is stored and accessed, offering improved performance for applications that handle large volumes of information, a key aspect in modern computing and data management.",
+            "url": "https://github.com/manishrjain/zroar",
             "category": "Sci & Tech",
-            "date": "2026-08-21T22:01:49Z"
-        },
-        {
-            "title": "Anglotopia Podcast: Doggerland, Lyonesse & Cantre\u2019r Gwaelod \u2013 The True History Behind Britain\u2019s Drowned Lands",
-            "summary": "Jonathan Thomas hosted Professor Patrick Nunn, a distinguished geographer from the University of the Sunshine Coast and an honorary professorial fellow at the University of Me, on the Anglotopia Podcast. The episode featured a discussion with Professor Nunn, though the specific subject matter of their conversation was not detailed in the provided text snippet.",
-            "url": "https://anglotopia.net/anglotopia-podcast/doggerland-lyonesse-cantrer-gwaelod-the-true-history-behind-britains-drowned-lands/",
-            "category": "Sci & Tech",
-            "date": "2026-08-21T21:37:37Z"
-        },
-        {
-            "title": "Navy mulls stripping Black war hero\u2019s name from aircraft carrier for Trump: Sources",
-            "summary": "US Navy officials are considering removing the name of a renowned Black World War II hero from a new aircraft carrier. The proposal involves potentially renaming the ship after former President Donald Trump. This move sparks debate over honoring historical figures, military naming traditions, and political influence on defence infrastructure, impacting morale and historical recognition within the armed forces.",
-            "url": "https://abcnews.com/Politics/navy-mulls-stripping-black-war-heros-aircraft-carrier/story?id=135836486",
-            "category": "Defence",
-            "date": "2026-08-21T15:32:46Z"
+            "date": "2026-08-21T20:18:22Z"
         }
     ]
 }
