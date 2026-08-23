@@ -1,33 +1,47 @@
 {
-    "last_updated": "2026-08-23T06:31:28.521486+00:00",
+    "last_updated": "2026-08-23T12:28:53.243950+00:00",
     "articles": [
         {
-            "title": "China\u2019s new moon mission could unlock secret of lunar ice: Why that matters",
-            "summary": "China is set to launch its Change-7 unmanned robotic space mission, potentially this Monday. The mission aims to explore the moon's south pole, specifically focusing on permanently shadowed craters to search for ice water. This endeavor is crucial for understanding lunar resources and could significantly impact future space exploration and the establishment of lunar bases.",
-            "url": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters",
-            "category": "Sci & Tech",
-            "date": "2026-08-22T05:36:39Z"
+            "title": "The next export story: A $50 billion prize India can't afford to miss",
+            "summary": "India's telecom equipment industry is a minor global player, with annual exports of only $0.6-1 billion. Imports significantly outstrip exports by four to five times, indicating a major trade imbalance and reliance on foreign technology. This highlights an opportunity for bolstering domestic manufacturing and achieving greater self-sufficiency in a vital technological sector.",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telecom-sector-the-next-export-story-a-50-billion-prize-india-cant-afford-to-miss/articleshow/133423767.cms",
+            "category": "National",
+            "date": "2026-08-22T12:24:12Z"
         },
         {
-            "title": "Munir, power, and paranoia",
-            "summary": "The fragment describes a persistent strategic reality for India since the late '50s: paranoia among Pakistani dictators. It notes that \"Munir's case\" presents an extreme worsening of this trend, comparing it to sudden acrophobia. This recurring leadership dynamic in Pakistan is presented as highly relevant to India's strategic considerations and security posture.",
-            "url": "https://www.business-standard.com/opinion/columns/munir-power-and-paranoia-126082101551_1.html",
+            "title": "In 2021, Johnston Atoll eradicated invasive yellow crazy ants after an 11-year effort; the refuge is home to nearly 13,000 red-tailed tropicbird nesting pairs",
+            "summary": "Johnston Atoll successfully eradicated invasive yellow crazy ants after an 11-year effort, safeguarding its unique ecosystem, including nearly 13,000 red-tailed tropicbirds. This long-term ecological restoration showcases dedicated environmental stewardship and the impact of sustained conservation initiatives on protecting critical biodiversity in remote refuges. It underscores the importance of persistent efforts in preserving fragile environments.",
+            "url": "https://timesofindia.indiatimes.com/world/us/in-2021-johnston-atoll-erased-yellow-crazy-ants-from-640-acres-after-10-years-of-formic-acid-attacks-nearly-13000-red-tailed-tropicbird-pairs-found-a-safer-refuge/articleshow/133421442.cms",
+            "category": "Sci & Tech",
+            "date": "2026-08-22T12:18:36Z"
+        },
+        {
+            "title": "Northeast India looks to emerge as space-tech gateway to Southeast Asia",
+            "summary": "The Space Industry Association of India (SIA-India) and NESAC are organizing the Northeast India Space Workshop 2026 in Guwahati. This initiative aims to explore and promote space applications within the Northeast region. For SSB aspirants, this highlights India's focus on regional development through technology, enhancing national capabilities in space science, and fostering innovation, crucial for security and progress.",
+            "url": "https://economictimes.indiatimes.com/news/science/northeast-india-looks-to-emerge-as-space-tech-gateway-to-southeast-asia/articleshow/133424137.cms",
+            "category": "Sci & Tech",
+            "date": "2026-08-22T12:16:24Z"
+        },
+        {
+            "title": "In 2021, scientists reported that Sydney cockatoos had learned to pry open garbage bins; by the end of 2019, the trick had spread across 44 suburbs",
+            "summary": "Scientists reported in 2021 that Sydney cockatoos developed a clever method to pry open garbage bins. This innovative behavior, observed spreading among the bird population since late 2019, showcases remarkable animal learning and social transmission of skills. It offers insights into avian intelligence and adaptability, becoming a notable instance of cultural evolution in the animal kingdom.",
+            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2021-national-geographic-reported-that-sydney-cockatoos-can-pry-open-garbage-bins-by-the-end-of-2019-the-learned-trick-had-spread-across-44-suburbs/articleshow/133420086.cms",
+            "category": "Sci & Tech",
+            "date": "2026-08-22T12:15:36Z"
+        },
+        {
+            "title": "DELIVERY OF MANGROL - THE THIRD ANTI-SUBMARINE WARFARE SHALLOW WATER CRAFT BUILT BY CSL, KOCHI",
+            "summary": "Mangrol, the third Anti-Submarine Warfare Shallow Water Craft (ASW SWC), is being constructed by Cochin Shipyard Limited for the Indian Navy. This vessel signifies a crucial step in bolstering India's coastal defence capabilities against submarine threats. Its development underscores the nation's ongoing commitment to indigenous defence production and modernizing its naval fleet to ensure maritime security in shallow waters.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260822-india-pib02.htm",
             "category": "Defence",
-            "date": "2026-08-22T04:00:41Z"
+            "date": "2026-08-22T12:00:00Z"
         },
         {
-            "title": "Meet Mason Corey: The 17-year-old New Jersey student who uses AI to predict 3D-printed plastic strength without breaking it",
-            "summary": "Seventeen-year-old Mason Corey, a New Jersey student, has innovatively developed an AI system. This AI accurately predicts the structural strength of 3D-printed plastic objects through non-destructive testing, avoiding physical breakage. This advancement significantly enhances material science, manufacturing efficiency, and quality control in 3D printing applications, offering valuable insights for future technological development.",
-            "url": "https://timesofindia.indiatimes.com/science/meet-mason-corey-the-17-year-old-new-jersey-student-who-uses-ai-to-predict-3d-printed-plastic-strength-without-breaking-it/articleshow/133416169.cms",
-            "category": "Sci & Tech",
-            "date": "2026-08-22T02:43:51Z"
-        },
-        {
-            "title": "Show HN: Zroar \u2013 Serialized Roaring Bitmaps in Zig",
-            "summary": "zroar is a ground-up implementation of the 'roaring bitmaps' data structure, designed for efficient data serialization. It stores 48-bit keys and containers within a single, flat byte buffer. This technical advancement focuses on optimizing how data is stored and accessed, offering improved performance for applications that handle large volumes of information, a key aspect in modern computing and data management.",
-            "url": "https://github.com/manishrjain/zroar",
-            "category": "Sci & Tech",
-            "date": "2026-08-21T20:18:22Z"
+            "title": "Fan post: Welcome to the DOPE Show",
+            "summary": "The provided text is an incomplete article, only containing an introduction to a fan post by Rick Berry for the 'Brew Hoopers' website. It acknowledges the significant effort Rick invested in his 'really interesting article'. Crucially, the actual subject matter or detailed content of Rick's submission is entirely missing, making it impossible to provide a meaningful summary or accurate category for an SSB aspirant.",
+            "url": "https://www.brewhoop.com/bucks-analysis/72956/milwaukee-fan-post-jon-horst-nba-draft-bust",
+            "category": "National",
+            "date": "2026-08-22T12:00:00Z"
         }
     ]
 }
