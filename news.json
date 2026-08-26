@@ -1,33 +1,19 @@
 {
-    "last_updated": "2026-08-26T00:59:02.492438+00:00",
+    "last_updated": "2026-08-26T06:38:24.070570+00:00",
     "articles": [
         {
-            "title": "No. 2 Pioneer scores 20 unanswered points to beat Cass",
-            "summary": "Walton Pioneer achieved a remarkable turnaround, recovering from an initial 15-0 deficit to secure a 20-15 victory over Lewis Cass on Friday night at Owens Memorial Field. The Class 1A No. 2 Panthers displayed strong resilience, completing a stunning comeback against their rivals in a hard-fought contest, showcasing admirable sportsmanship and determination.",
-            "url": "https://www.pharostribune.com/sports/article_2a0a339f-7b02-4849-8370-ea0d01bf2ff1.html",
-            "category": "International",
-            "date": "2026-08-25T00:46:00Z"
+            "title": "Alcobev major Diageo launches initiatives to rejuvenate Godavari, Yamuna river basins",
+            "summary": "Alcobev major Diageo has launched initiatives to rejuvenate India's vital Godavari and Yamuna river basins. These efforts are part of its broader water replenishment and WASH (Water, Sanitation, and Hygiene) programs. This corporate social responsibility project aims to improve water resources and hygiene for communities, contributing to national environmental sustainability and public health.",
+            "url": "https://www.thehindubusinessline.com/economy/agri-business/alcobev-major-diageo-launches-initiatives-to-rejuvenate-godavari-yamuna-river-basins/article71387410.ece",
+            "category": "National",
+            "date": "2026-08-25T05:54:50Z"
         },
         {
-            "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
-            "summary": "The provided text lists research institutions including the State Key Laboratory of Submarine Geoscience at Shanghai Jiao Tong University and references a Key Laboratory of Polar Ecosystems. Authors Yongxin Lv, Liang Dong, and Yu Zhang are associated with this work. While the specific scientific findings are not detailed in the truncated article, it indicates research in marine and polar science fields.",
-            "url": "https://www.nature.com/articles/s41467-026-77249-x.pdf",
+            "title": "https://github.com/schlarpc/elgato-cam-link-4k-firmware-re/tree/main",
+            "summary": "This repository documents the firmware and update protocol for the Elgato Cam Link 4K HDMI capture device. It also introduces 'cl4k-fwtool,' an independent utility designed to read, compare, and write the device's firmware. This initiative provides technical insight into the hardware's internal workings, allowing users or developers to manage and update the device's software independently, enhancing control over this specific video capture technology.",
+            "url": "https://github.com/schlarpc/elgato-cam-link-4k-firmware-re/tree/main",
             "category": "Sci & Tech",
-            "date": "2026-08-25T00:00:00Z"
-        },
-        {
-            "title": "This company wants to stop underwater drones and even submarines with a whole new form of sonar technology",
-            "summary": "Ultra Maritime is testing a new system to detect underwater drones at the US Navy's Lanternfish 2026 exercise. It pairs the Sea Spear passive sonar array with the AN/SSQ-125B active sonobuoy. This integration aims to bolster naval capabilities against modern underwater threats, demonstrating advancements in defence technology for maritime security.",
-            "url": "https://www.techradar.com/pro/this-company-wants-to-stop-underwater-drones-and-even-submarines-with-a-whole-new-form-of-sonar-technology",
-            "category": "Defence",
-            "date": "2026-08-24T21:30:00Z"
-        },
-        {
-            "title": "Mumbai Police cyber team recovers filmmaker Sudhir Mishra\u2019s X account",
-            "summary": "Amid an escalating economic war, Iran publicly mocked U.S. President Trump. Reports also indicate China resisted Trump's strategy to severely impact Iran's economy, presenting a significant hurdle. This highlights ongoing geopolitical tensions, complex international relations, and the intricate web of global powers concerning economic sanctions and foreign policy.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-police-cyber-team-recovers-filmmaker-sudhir-mishras-x-account/articleshow/133476190.cms",
-            "category": "International",
-            "date": "2026-08-24T18:12:34Z"
+            "date": "2026-08-25T05:47:02Z"
         }
     ]
 }
