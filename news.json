@@ -1,54 +1,12 @@
 {
-    "last_updated": "2026-08-26T19:42:08.279117+00:00",
+    "last_updated": "2026-08-27T06:51:58.395426+00:00",
     "articles": [
         {
-            "title": "Rajnath Singh opens DRDO missile tech to private sector",
-            "summary": "India's Defence Ministry has approved the transfer of technology for all conventional missile systems developed by DRDO to Indian industries. This strategic move aims to significantly boost indigenous manufacturing capabilities and enhance self-reliance in defence production. It will accelerate the development and production of advanced missile systems within the country, strengthening India's defence capabilities and strategic autonomy.",
-            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-opens-drdo-missile-tech-to-private-sector/articleshow/133523823.cms",
+            "title": "Indian Navy monitors safe transit of merchant vessels through Bab-el-Mandeb Strait",
+            "summary": "A mission-deployed Indian Navy unit monitored the safe transit of merchant vessels MV Union Mariner and MV Dagher through the critical Bab-el-Mandeb Strait on August 25. This action underscores the Indian Navy's commitment to ensuring maritime security and protecting vital international trade routes, reinforcing India's role as a responsible naval power in a strategically significant region.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/indian-navy-monitors-safe-transit-of-merchant-vessels-through-bab-el-mandeb-strait/article71391708.ece",
             "category": "Defence",
-            "date": "2026-08-25T19:30:52Z"
-        },
-        {
-            "title": "A brief history of federal lift ticket regulation",
-            "summary": "In 1975, the Aspen Skiing Company sought US Forest Service approval to raise its lift ticket prices from $10 to $12. This proposal met strong opposition from Aspen residents, highlighting a conflict between corporate interests, government regulation, and local community concerns over recreational costs. The situation exemplifies the challenges in balancing commercial operations with public affordability on federally managed lands.",
-            "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-            "category": "National",
-            "date": "2026-08-25T19:25:43Z"
-        },
-        {
-            "title": "Russia strikes five vessels in Ukraine\u2019s Black Sea ports, escalating maritime conflict",
-            "summary": "Recent Russian attacks on Ukraine's Pivdennyi and Odesa grain export hubs have triggered fresh global concerns. These military actions severely jeopardise international food supply chains and Black Sea shipping security. The incident underscores the critical impact of ongoing defence operations on global stability and resource distribution, a vital consideration in international relations.",
-            "url": "https://cryptobriefing.com/russia-strikes-ukraine-black-sea-ports/",
-            "category": "Defence",
-            "date": "2026-08-25T19:14:43Z"
-        },
-        {
-            "title": "The 35 wildest state costumes from the 2026 Miss USA pageant",
-            "summary": "The Miss USA 2026 pageant has officially commenced, kicking off with its vibrant state costume contest on Monday. This national beauty competition, a prominent cultural event in the United States, is now in full swing. Aspirants should stay informed about such national-level happenings as part of their general awareness, understanding broader societal and cultural trends.",
-            "url": "https://www.businessinsider.com/miss-usa-state-costume-contest-outfits-photos-2026-8#article",
-            "category": "National",
-            "date": "2026-08-25T19:02:57Z"
-        },
-        {
-            "title": "quantlint added to PyPI",
-            "summary": "A new Python tool, `quantlint`, helps detect \"look-ahead bias\" in quantitative financial models. This critical flaw arises when future data is accidentally used in model development, leading to unrealistic performance expectations and potential losses. `quantlint` efficiently identifies such biases, ensuring the robustness of algorithmic trading strategies and preventing costly errors for developers and analysts.",
-            "url": "https://pypi.org/project/quantlint/",
-            "category": "Sci & Tech",
-            "date": "2026-08-25T19:02:54Z"
-        },
-        {
-            "title": "Grant Morrison Criticizes Lanterns\u2019 Hal Jordan and Its Lack of Costumes and Ring Effects",
-            "summary": "Legendary comic book writer Grant Morrison has expressed significant reservations regarding DC Studios' forthcoming 'Lanterns' series. Morrison, whose extensive work includes acclaimed DC titles, critiques the adaptation's stripped-down approach to the rich Green Lantern mythology, indicating he is \"not exactly sold\" on the creative direction for the iconic universe.",
-            "url": "https://geektyrant.com/news/grant-morrison-criticizes-lanterns-hal-jordan-and-its-lack-of-costumes-and-ring-effects",
-            "category": "International",
-            "date": "2026-08-25T18:56:00Z"
-        },
-        {
-            "title": "Lanterns: Why Grant Morrison Doesn\u2019t Recognize Kyle Chandler\u2019s Hal Jordan Performance",
-            "summary": "Veteran comic writer Grant Morrison has expressed disappointment with 'DCU's Lanterns,' a new TV series directed by James Hawes. The show, which premiered on August 16, 2026, has garnered negative reviews from critics, including Morrison. This highlights ongoing discussions regarding the reception of new adaptations within the entertainment industry.",
-            "url": "https://www.superherohype.com/news/688888-lanterns-why-grant-morrison-doesnt-recognize-kyle-chandler-hal-jordan-performance",
-            "category": "National",
-            "date": "2026-08-25T18:22:48Z"
+            "date": "2026-08-26T06:31:24Z"
         }
     ]
 }
