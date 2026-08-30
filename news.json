@@ -1,54 +1,131 @@
 {
-    "last_updated": "2026-08-30T03:11:43.874436+00:00",
+    "last_updated": "2026-08-30T11:05:29.656823+00:00",
     "articles": [
         {
+            "title": "Updated Alec Pierce Fantasy Outlook 2026: Colts WR Has Some Major Red Flags",
+            "summary": "Alec Pierce, after achieving a career-best 1,000-yard season, faces a significant setback due to offseason ankle surgery. This injury has sidelined him indefinitely, jeopardizing his momentum and availability for the 2026 season. The development creates considerable uncertainty for the athlete's immediate future in professional sports, potentially impacting his career trajectory following his strong performance.",
+            "url": "https://www.profootballnetwork.com/fantasy-football/alec-pierce-fantasy-outlook-updated-2026/?utm_medium=rss&amp;utm_source=nordot",
+            "category": "National",
+            "date": "2026-08-29T11:04:09Z"
+        },
+        {
+            "title": "China sends tunnel rescue experts to Rasuwa as Indian and Chinese teams join efforts",
+            "summary": "China has deployed a helicopter carrying tunnel rescue specialists to Nepal. This aid aims to assist in the crucial search and rescue operations for Nepali and foreign nationals trapped inside hydropower project tunnels. This action exemplifies international cooperation and humanitarian efforts between nations, demonstrating a commitment to cross-border support during complex emergencies and natural disasters, crucial for regional stability and relations.",
+            "url": "https://english.khabarhub.com/2026/29/565524/",
+            "category": "International",
+            "date": "2026-08-29T10:47:10Z"
+        },
+        {
+            "title": "Updated Colston Loveland Fantasy Outlook 2026: Should You Draft the Bears TE in Fantasy Football?",
+            "summary": "American football player Colston Loveland, a first-round draft pick, finished his rookie season as TE15 in points per game. His current value in the fantasy sports community, however, places him significantly higher than his on-field rookie performance. The analysis likely delves into his future potential versus current market expectations.",
+            "url": "https://www.profootballnetwork.com/fantasy-football/colston-loveland-fantasy-outlook-updated-2026/",
+            "category": "National",
+            "date": "2026-08-29T10:35:57Z"
+        },
+        {
+            "title": "Updated Dallas Goedert Fantasy Outlook 2026: Should I Draft Dallas Goedert in Fantasy Football?",
+            "summary": "Dallas Goedert, 31, is entering his ninth season with the Philadelphia Eagles, fresh off his career-best fantasy football performance. The upcoming season sees significant team changes, with the departure of A.J. Brown and the addition of a rookie tight end. Goedert's veteran experience and proven receiving skills are poised to make him a pivotal offensive player for the Eagles in a restructured lineup.",
+            "url": "https://www.profootballnetwork.com/fantasy-football/dallas-goedert-fantasy-outlook-updated-2026/",
+            "category": "National",
+            "date": "2026-08-29T10:35:47Z"
+        },
+        {
+            "title": "Updated Kenyon Sadiq Fantasy Outlook 2026: Should You Draft the Jets Rookie?",
+            "summary": "Kenyon Sadiq, an Oregon Ducks football player, showcased a significant breakout last season, catching 51 balls for eight touchdowns and averaging 11 yards per catch. This marked a major emergence for Sadiq, who had minimal involvement as a pass catcher in his previous two years at the university. His rapid development positions him for a more prominent role, demonstrating athletic progression within the sport.",
+            "url": "https://www.profootballnetwork.com/fantasy-football/jets-kenyon-sadiq-fantasy-outlook-updated-2026/",
+            "category": "National",
+            "date": "2026-08-29T10:33:57Z"
+        },
+        {
+            "title": "Updated Tucker Kraft Fantasy Outlook 2026: Can the Packers TE Return from Injury to be Fantasy Relevant?",
+            "summary": "American football player Tucker Kraft, known for his breakout season, suffered a torn ACL in Week 8, prematurely ending his year. He has spent the offseason rehabilitating from the injury. His team, Green Bay, has indicated a cautious approach to his return to play, emphasizing careful management of his recovery process.",
+            "url": "https://www.profootballnetwork.com/fantasy-football/tucker-kraft-fantasy-outlook-updated-2026/",
+            "category": "International",
+            "date": "2026-08-29T10:33:41Z"
+        },
+        {
+            "title": "Scientists took 232 gravity readings across a Utah mountain and discovered 1.55 million cubic metres of ice hidden beneath loose rock, enough frozen water to fill about 600 Olympic swimming pools",
+            "summary": "Scientists in Utah conducted 232 gravity readings across a mountain, leading to the discovery of 1.55 million cubic metres of ice hidden beneath loose rock. This significant find, located in the US, demonstrates innovative geophysical techniques for uncovering hidden natural resources. Such discoveries can be crucial for understanding regional water reserves and geological compositions, showcasing advanced scientific methodologies for environmental mapping.",
+            "url": "https://timesofindia.indiatimes.com/world/us/scientists-took-232-gravity-readings-across-a-utah-mountain-and-discovered-1-55-million-cubic-metres-of-ice-hidden-beneath-loose-rock-enough-frozen-water-to-fill-about-600-olympic-swimming-pools/articleshow/133607664.cms",
+            "category": "Sci & Tech",
+            "date": "2026-08-29T08:11:07Z"
+        },
+        {
+            "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+            "summary": "A new token-efficiency linter, currently in early development, has emerged to optimize Large Language Model (LLM) prompts and payloads. This tool performs deterministic, local, tokenizer-level static analysis on prompt strings, message arrays, and tool schemas. It aims to enhance the efficiency of LLM inputs, potentially reducing costs and improving performance for AI applications. This reflects a growing focus on optimizing AI model interactions.",
+            "url": "https://github.com/ritenv/tokensift",
+            "category": "Sci & Tech",
+            "date": "2026-08-29T06:33:51Z"
+        },
+        {
+            "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+            "summary": "Six months into the war with Iran, this analysis assesses significant geopolitical changes in the Gulf. A critical turning point was Iran's June 2025 missile strike on Al Udeid Air Base in Qatar, profoundly reshaping regional security dynamics. The article takes stock of the strategic implications and evolving landscape, crucial for understanding the ongoing conflict's impact on regional stability.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging",
+            "category": "Defence",
+            "date": "2026-08-29T06:11:58Z"
+        },
+        {
+            "title": "Beyond origami: New algorithm designs expandable 3D lattices",
+            "summary": "The article introduces Hoberman spheres, kinetic lattices of joint-connected rods capable of contracting and expanding. Drawing inspiration from the ancient Japanese art of origami, these structures highlight advancements in deployable mechanisms. This innovative engineering holds significant potential for future applications requiring adaptable forms, compact storage, and dynamic reconfigurability across various scientific and technical domains.",
+            "url": "https://newatlas.com/materials/hoberman-spheres-scissor-jointed-collapsible-shapes/",
+            "category": "Sci & Tech",
+            "date": "2026-08-29T06:03:00Z"
+        },
+        {
+            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: The Baptist\u2019s Final Sermon - Saturday, August 29, 2026",
+            "summary": "The provided text outlines a future religious devotional, 'My Catholic Life!' Catholic Daily Reflections, focusing on 'The Baptists Final Sermon.' Scheduled for Saturday, August 29, 2026, this content is presented as a Catholic Caucus Devotional on YouTube, offering spiritual reflection rather than traditional current events for SSB aspirants.",
+            "url": "https://freerepublic.com/focus/f-religion/4393522/posts",
+            "category": "National",
+            "date": "2026-08-29T05:32:07Z"
+        },
+        {
+            "title": "Appleton-area high school sports results for Friday, Aug. 28",
+            "summary": "The top-ranked Warhawks (2-0) secured a dominant win over the Rockets, exploding with a 28-point second half to pull away decisively. Jebari Craig Jr. was instrumental in their victory, showcasing an impressive performance with 163 rushing yards on 14 carries and scoring three crucial touchdowns. This strong offensive display ensured the Warhawks maintained their undefeated record.",
+            "url": "https://www.postcrescent.com/story/sports/high-school/2026/08/29/appleton-area-high-school-sports-results-for-friday-aug-28/91513180007/",
+            "category": "National",
+            "date": "2026-08-29T05:12:03Z"
+        },
+        {
+            "title": "Why stop at Lake America?",
+            "summary": "The provided article snippet, titled 'Why stop at Lake America?' from The Spectator, offers only the opening sentence referencing 'The Irish Rovers' and a 'biggest mixup.' With the bulk of the content (`[+4867 chars]`) missing, a detailed summary for SSB aspirants regarding its specific subject matter or implications cannot be accurately generated.",
+            "url": "https://freerepublic.com/focus/f-bloggers/4393511/posts",
+            "category": "National",
+            "date": "2026-08-29T03:43:37Z"
+        },
+        {
             "title": "Suspected Pakistan drone spotted along LoC in Jammu & Kashmir's Poonch, search operation underway",
-            "summary": "A suspected Pakistani drone was spotted hovering over forward areas along the Line of Control (LoC) in Jammu and Kashmir's Poonch district. Indian security forces promptly launched a search operation in the Mendhar area following the sighting. Such incidents underscore the constant vigilance required by our armed forces along the border, emphasizing the dynamic security challenges faced in the region.",
+            "summary": "A suspected Pakistani drone was spotted hovering over forward areas along the Line of Control in Jammu and Kashmir's Poonch district. Security forces promptly launched a comprehensive search operation in the Mendhar sector to investigate the intrusion. This incident underscores the continuous security challenges and the critical need for heightened vigilance against cross-border surveillance and potential infiltration attempts by adversarial elements along India's sensitive border regions.",
             "url": "https://economictimes.indiatimes.com/news/defence/suspected-pakistan-drone-spotted-along-loc-in-jammu-kashmirs-poonch-search-operation-underway/articleshow/133602579.cms",
             "category": "Defence",
             "date": "2026-08-29T02:43:03Z"
         },
         {
             "title": "Pakistani drone detected in Jammu and Kashmir's Rajouri, security forces put LoC sector on high alert",
-            "summary": "The provided text outlines features for a website's comment section, inviting users to share thoughts and select reactions such as 'Insightful', 'Agree', or 'Concerning'. It also reminds users to be respectful and adhere to community guidelines. This section serves as an interactive platform for reader engagement rather than presenting news content for an SSB aspirant.",
+            "summary": "The provided text details the interactive features of an online comment section, encouraging users to share their thoughts and engage with content. It offers various reaction options, from 'Insightful' to 'Big Development', enabling nuanced feedback. Emphasizing respectful discourse, it directs users to 'TOI community guidelines' for proper online etiquette, promoting constructive discussion.",
             "url": "https://timesofindia.indiatimes.com/india/pakistani-drone-detected-in-jammu-and-kashmirs-rajouri-security-forces-put-loc-sector-on-high-alert/articleshow/133602407.cms",
             "category": "Sci & Tech",
             "date": "2026-08-29T02:32:56Z"
         },
         {
             "title": "Takeaways as Miami Dolphins fall to Falcons, finish preseason 0-3",
-            "summary": "The Miami Dolphins' three-game NFL preseason has concluded. This shortened preseason tied for the fewest games in franchise history, excluding the pandemic season. The team's performance and strategic takeaways from these crucial preparatory matches are likely detailed further, offering insights into their readiness for the upcoming league.",
+            "summary": "The Miami Dolphins have concluded their three-game preseason, marking one of the shortest in the team's history, excluding the pandemic season. This brief preseason tied a record for the fewest games played, even if the team's feeling about it differed. This wraps up their preparatory period before the main season begins.",
             "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/08/28/miami-dolphins-nfl-preseason-atlanta-falcons/91510006007/",
             "category": "National",
             "date": "2026-08-29T02:06:23Z"
         },
         {
-            "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-            "summary": "Security sources report six international warships, including vessels from India, the US, Turkey (two), Spain, and Denmark, are now in the seas near Lutuf. This significant multi-national naval deployment suggests a coordinated maritime operation or response to an emerging security situation. This highlights international defence cooperation and strategic naval postures for SSB aspirants.",
-            "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo",
-            "category": "Defence",
-            "date": "2026-08-29T01:14:13Z"
-        },
-        {
             "title": "When Nepal Needed Friends, the World Stood Together",
-            "summary": "Nepal experienced a devastating flash flood in Rasuwa, triggering a strong international humanitarian response. Countries globally extended crucial aid and support, demonstrating solidarity during Nepal's darkest hour. This rapid assistance highlights the critical role of international cooperation in disaster relief and reinforces global partnerships, underscoring collective responsibility in addressing crises beyond national borders.",
+            "summary": "Nepal experienced a devastating flash flood in Rasuwa, causing widespread death and destruction. The international community responded swiftly with humanitarian aid and support, demonstrating global solidarity during the crisis. This collaborative effort highlighted the critical role of international cooperation in disaster relief and strengthened diplomatic ties through timely assistance to Nepal in its hour of need.",
             "url": "https://english.khabarhub.com/2026/29/565401/",
             "category": "International",
             "date": "2026-08-29T00:15:47Z"
         },
         {
-            "title": "Some Indigenous businesses are trying to avoid U.S. markets amid trade war",
-            "summary": "Indigenous business owners in Canada are increasingly choosing to avoid the American market, finding it simpler to bypass cross-border complexities altogether. They perceive it as more pragmatic to navigate international business without the challenges posed by existing agreements with the US. This trend highlights difficulties for Canadian Indigenous enterprises in maintaining economic ties with their southern neighbour.",
-            "url": "https://www.cbc.ca/news/indigenous/some-indigenous-businesses-are-trying-to-avoid-u-s-markets-amid-trade-war-9.7324885",
-            "category": "International",
-            "date": "2026-08-28T22:29:00Z"
-        },
-        {
-            "title": "Lanterns Clip Reveals A Huge, Potentially Controversial Change To John Stewart's Origin - Spoilers",
-            "summary": "Within the fictional DC Universe, it's common for multiple characters to hold the same superhero mantle, a narrative convention often explored in its comics. The text highlights The Flash, noting how both Barry Allen and Wally West have served in the role, illustrating the evolving nature of heroic identities in this fictional world.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-clip-reveals-a-huge-potentially-controversial-change-to-john-stewarts-origin---spoilers-a229599",
+            "title": "Volleyball: Young LQPV Eagles get a new coach",
+            "summary": "Morgan Jager has taken over as the new head coach for the Lac qui Parle Valley volleyball team, replacing Amber Lee. Jager steps into the role following the team's 3-10 Camden Conference and 5-18 overall record last season, signaling a new chapter for the squad. This local coaching change marks a key leadership transition for the school's sports program.",
+            "url": "https://www.wctrib.com/sports/prep/volleyball-young-lqpv-eagles-get-a-new-coach",
             "category": "National",
-            "date": "2026-08-28T17:52:20Z"
+            "date": "2026-08-28T22:33:00Z"
         }
     ]
 }
