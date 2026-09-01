@@ -1,103 +1,33 @@
 {
-    "last_updated": "2026-09-01T15:57:41.628794+00:00",
+    "last_updated": "2026-09-01T20:25:27.774986+00:00",
     "articles": [
         {
-            "title": "From accidental shooter to Asian Games: Army man Kedarling's incredible journey",
-            "summary": "Naib Subedar Kedarling Balakrishna Uchaganve of the Indian Army exemplifies dedication, transitioning from a humble farming background in Karnataka to representing India in shooting. His inspiring journey showcases the opportunities within the armed forces for aspirants to achieve national recognition through perseverance and hard work, proving that commitment can overcome any initial circumstances.",
-            "url": "https://www.rediff.com/sports/report/kedarling-uchaganve-indian-army-shooters-journey-to-asian-games-and-olympic-dreams/20260831.htm",
-            "category": "Defence",
-            "date": "2026-08-31T15:54:04Z"
-        },
-        {
-            "title": "Lanterns: Sinestro Tells Hal Jordan To Kill John Stewart In New Episode 4 Teaser",
-            "summary": "The article previews upcoming episodes of 'Lanterns,' highlighting an installment focusing on John Stewart's backstory. It also details a return to a 2016 timeline for a key conversation involving Hal J, indicating plot progression within the fictional series. This content reports on narrative developments in an entertainment franchise, discussing character arcs and timeline elements for fans.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-sinestro-tells-hal-jordan-to-kill-john-stewart-in-new-episode-4-teaser-a229633",
+            "title": "How Great Power Rivalry Is Fracturing the Pacific Islands Forum",
+            "summary": "The 55th Pacific Islands Forum Leaders Meeting commenced, focusing on unity but acknowledging the intense competition among external powers for influence in the strategically vital Pacific region. This geopolitical dynamic underscores the complex challenges faced by island nations, impacting their sovereignty and regional stability, a crucial area for understanding global power shifts and international relations.",
+            "url": "https://thediplomat.com/2026/09/how-great-power-rivalry-is-fracturing-the-pacific-islands-forum/",
             "category": "International",
-            "date": "2026-08-31T15:50:38Z"
+            "date": "2026-08-31T20:25:00Z"
         },
         {
-            "title": "Why Black Folks Need to Tune in to Aaron Pierre\u2019s \u2018Lanterns\u2019",
-            "summary": "A new DC Comics series, 'Lanterns,' starring Aaron Pierre and Kyle Chandler, has premiered on HBO Max. This launch expands the DC universe, providing fans with fresh content on the popular streaming platform. The show highlights the ongoing trend of major comic franchises leveraging digital entertainment services, reflecting evolving media distribution and consumption patterns.",
-            "url": "https://www.theroot.com/why-black-folks-need-to-tune-in-to-aaron-pierres-lanter-2000123776",
+            "title": "Internal probe over, Army plans court martial in JCO\u2019s shooting case",
+            "summary": "Russia is pitching a \u20b950,000 crore S-400 missile system deal, with India considering five more squadrons to enhance air defence. This reflects India's ongoing military modernization. Separately, Germany is boosting homegrown rare earth mining to reduce reliance on China, highlighting global efforts towards strategic supply chain independence and resource security.",
+            "url": "https://timesofindia.indiatimes.com/city/pune/internal-probe-over-army-plans-court-martial-in-jcos-shooting-case/articleshow/133662430.cms",
+            "category": "Defence",
+            "date": "2026-08-31T19:31:11Z"
+        },
+        {
+            "title": "Why has Greece signed a $3.5bn missile deal with Israel? - Al Jazeera",
+            "summary": "A standard disclaimer clarifies that user-posted comments are the exclusive responsibility of their creators. This 'fine print' explicitly absolves the hosting platform from any accountability regarding the content or implications of these contributions. Such legal notices are fundamental for digital platforms to mitigate liability and ensure users understand their ownership and responsibility for their online interactions, fostering awareness of online conduct and platform regulations.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185325708",
             "category": "Sci & Tech",
-            "date": "2026-08-31T15:42:10Z"
+            "date": "2026-08-31T17:53:08Z"
         },
         {
-            "title": "portbay-django-stamper added to PyPI",
-            "summary": "This article details a technique to stamp Django templates with `data-pb-loc` attributes, containing file path, line, and column information. This mechanism allows PortBay's visual editor to precisely resolve elements displayed in a web browser back to their exact corresponding tags within the template's source code. This feature streamlines the process of identifying and editing specific template components, enhancing developer efficiency in web application development.",
-            "url": "https://pypi.org/project/portbay-django-stamper/",
-            "category": "Sci & Tech",
-            "date": "2026-08-31T15:40:05Z"
-        },
-        {
-            "title": "7 new sci-fi shows you should stream this week",
-            "summary": "The article identifies a significant \"science fiction revolution\" in current television programming. This year, networks have launched numerous new sci-fi series and continued existing popular ones, marking a strong industry trend. This surge in futuristic and technologically-themed content reflects evolving viewer preferences and production focus, highlighting a cultural shift towards engaging with imaginative explorations of science and technology.",
-            "url": "https://www.makeuseof.com/7-new-sci-fi-shows-lanterns-star-trek-silo/",
-            "category": "Sci & Tech",
-            "date": "2026-08-31T15:31:14Z"
-        },
-        {
-            "title": "The X-Men\u2019s Bishop Was Originally Filipino? 8 Incredible Stories About the Creation of Popular Superheroes",
-            "summary": "A controversial 2023 comic book storyline is discussed, featuring Nightcrawler temporarily replacing Spider-Man. In a surprising plot twist, Nightcrawler learns that his mother is also his father. This unique narrative element forms a significant part of a popular fictional comic series, sparking considerable reader discussion within the realm of entertainment.",
-            "url": "https://www.pfadvice.com/2026/08/31/the-x-mens-bishop-was-originally-filipino-8-incredible-stories-about-the-creation-of-popular-superheroes/",
-            "category": "National",
-            "date": "2026-08-31T15:06:03Z"
-        },
-        {
-            "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
-            "summary": "Greece and Israel have finalized their largest-ever defence agreement, a $3.5 billion deal for a multi-layered air defence system to be delivered to Athens. This significant acquisition aims to bolster Greece's aerial security capabilities, marking a substantial strengthening of bilateral defence cooperation between the two nations and impacting regional strategic balance.",
-            "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel",
+            "title": "Tata Advanced Systems to explore co-production of Javelin missiles in India",
+            "summary": "TASL and the Javelin Joint Venture are exploring in-India final assembly and integration of anti-tank missile rounds, alongside component production. This initiative marks a significant push towards boosting India's indigenous defence manufacturing capabilities and achieving self-reliance in critical weaponry. It strongly aligns with 'Make in India' defence goals, enhancing strategic capabilities crucial for national security.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/tata-advanced-systems-to-explore-co-production-of-javelin-missiles-in-india-126083101007_1.html",
             "category": "Defence",
-            "date": "2026-08-31T14:57:56Z"
-        },
-        {
-            "title": "There\u2019s A \u2018Lanterns\u2019 Episode 3 Takeaway That\u2019s Totally Wrong",
-            "summary": "An episode of the HBO Max series 'Lanterns,' reportedly episode 3, has garnered extremely divided reactions from viewers. Some enthusiasts have lauded it as the best installment of the highly praised show to date, while others have vehemently criticized it as the absolute worst. This strong divergence in opinion signifies a significant debate surrounding the episode's content and execution.",
-            "url": "https://www.forbes.com/sites/paultassi/2026/08/31/theres-a-lanterns-episode-3-takeaway-thats-totally-wrong/",
-            "category": "Sci & Tech",
-            "date": "2026-08-31T14:42:00Z"
-        },
-        {
-            "title": "INS Nipun commissioned into Navy",
-            "summary": "The Indian Navy commissioned INS Nipun, the second indigenously developed Nistar-class Diving Support Vessel (DSV), in Mumbai. This commissioning significantly enhances the Navy's underwater capabilities for salvage, maintenance, and deep-sea operations. INS Nipun underscores India's growing self-reliance in defence manufacturing, bolstering maritime security and operational readiness crucial for the nation's strategic interests.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/ins-nipun-commissioned-into-navy/article71411142.ece",
-            "category": "Defence",
-            "date": "2026-08-31T14:32:34Z"
-        },
-        {
-            "title": "Navy chief Admiral Swaminathan flags evolving threats, rising maritime contestation",
-            "summary": "Navy Chief Admiral Swaminathan recently highlighted evolving maritime threats and rising global contestation. His statement underscores India's critical need to bolster naval capabilities and vigilance, particularly in the Indo-Pacific region. For SSB aspirants, this emphasizes understanding key defence challenges, strategic priorities, and the crucial role of a strong navy in safeguarding national interests and maritime security.",
-            "url": "https://timesofindia.indiatimes.com/india/navy-chief-admiral-swaminathan-flags-evolving-threats-rising-maritime-contestation/articleshow/133649737.cms",
-            "category": "Defence",
-            "date": "2026-08-31T10:21:40Z"
-        },
-        {
-            "title": "Japan plans $55.6 bn budget to beef up its defence with drones, missiles",
-            "summary": "Japan is modernizing its defence strategies by integrating drones, artificial intelligence, and new warfare methods. This strategic shift, supported by an 8.9 trillion yen ($55.6 billion) budget, underscores Japan's commitment to adapting to contemporary security challenges. This proactive modernization aims to enhance operational effectiveness and maintain a robust deterrent posture in a rapidly evolving geopolitical landscape.",
-            "url": "https://www.business-standard.com/world-news/japan-plans-55-6-bn-budget-to-beef-up-its-defence-with-drones-missiles-126083100635_1.html",
-            "category": "Defence",
-            "date": "2026-08-31T10:19:08Z"
-        },
-        {
-            "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
-            "summary": "Nepal is grappling with a severe humanitarian crisis following devastating flash floods five days ago, with rescue teams actively searching for thousands missing. This natural disaster highlights the critical importance of robust disaster management, rapid response capabilities, and international cooperation in aiding vulnerable nations during emergencies.",
-            "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing",
-            "category": "International",
-            "date": "2026-08-31T10:17:22Z"
-        },
-        {
-            "title": "Quote of the day by Kirk Douglas: \u2018A man with flaws is more interesting. If I thought a man had never committed a sin in his life\u2026\u2019 Inspiring life lessons by Hollywood icon on why mistakes can be your greatest strength",
-            "summary": "The article begins with a Kirk Douglas quote, challenging the societal view of mistakes as weaknesses that lead to self-blame. For SSB aspirants, this highlights the crucial importance of developing mental resilience and a growth mindset. It suggests overcoming self-condemnation by viewing errors as vital learning opportunities, essential for leadership development and fostering a robust character in the demanding defence environment.",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-kirk-douglas-a-man-with-flaws-is-more-interesting-if-i-thought-a-man-had-never-committed-a-sin-in-his-life-inspiring-life-lessons-by-hollywood-icon-on-why-mistakes-can-be-your-greatest-strength/articleshow/133649322.cms",
-            "category": "Defence",
-            "date": "2026-08-31T10:02:48Z"
-        },
-        {
-            "title": "Iran War: Iran Retaliates Disproportionately to US Attack on Larak Island as WaPo Detailed Pentagon Leak Shows Navy Incapacity, Top Level Opposition",
-            "summary": "A recent post covering the Iran conflict has been launched largely complete. However, the author will not be able to provide further updates by 8:30 AM EDT. For the latest developments concerning the situation, readers, including SSB aspirants tracking international affairs, are directed to consult the comments section where new information is expected to emerge.",
-            "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-retaliates-disproportionately-to-us-attack-on-larak-island-as-wapo-detailed-pentagon-leak-shows-navy-incapacity-top-level-opposition.html",
-            "category": "International",
-            "date": "2026-08-31T09:41:09Z"
+            "date": "2026-08-31T12:35:43Z"
         }
     ]
 }
