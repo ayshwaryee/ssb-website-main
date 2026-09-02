@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-09-02T02:30:23.542372+00:00",
+    "last_updated": "2026-09-02T10:27:02.941214+00:00",
     "articles": [
         {
-            "title": "Modi discusses steps to widen strategic ties with leaders of Armenia and Kyrgyzstan",
-            "summary": "Prime Minister Narendra Modi held extensive dialogues in Bishkek with key Eurasian leaders, aiming to expand India's strategic footprint and influence in the region. These high-level meetings underscore India's proactive foreign policy to strengthen bilateral ties and enhance its geopolitical standing. Such diplomatic engagements are vital for fostering regional stability and cooperation, crucial aspects for an aspiring defence officer to understand.",
-            "url": "https://economictimes.indiatimes.com/news/india/modi-discusses-steps-to-widen-strategic-ties-with-leaders-of-armenia-and-kyrgyzstan/articleshow/133666057.cms",
-            "category": "International",
-            "date": "2026-09-01T02:12:08Z"
-        },
-        {
-            "title": "Why Did Japan Send Its Navy To British Malta In 1917? [13:33]",
-            "summary": "An article explores Japan's decision to deploy its navy to British Malta in 1917, a pivotal historical event during World War I. This strategic move was likely executed under the Anglo-Japanese Alliance, highlighting significant international naval cooperation. Japanese forces in the Mediterranean probably supported Allied efforts, potentially through convoy escort or anti-submarine warfare, making it a key moment in early 20th-century global defence strategy and alliances.",
-            "url": "https://freerepublic.com/focus/f-chat/4393807/posts",
+            "title": "Finland answers America's Nato \"loyalty test\"",
+            "summary": "Finland has responded to a US questionnaire, circulated by the Pentagon in July, asking NATO allies about their support for Washington's foreign policy priorities. This engagement underscores ongoing efforts within the alliance to align strategic objectives. For SSB aspirants, this interaction highlights the complexities of international partnerships and the importance of unified foreign policy among NATO members.",
+            "url": "https://yle.fi/a/74-20243988",
             "category": "Defence",
-            "date": "2026-09-01T01:34:26Z"
+            "date": "2026-09-01T10:18:00Z"
         },
         {
-            "title": "How to fit Minesweeper into 247 bytes",
-            "summary": "Zuplo offers an API gateway to manage API, AI, and MCP requests, enabling efficient traffic routing, server security, and AI cost optimization. Complementary technology from Foxit Structur transforms unstructured PDFs into structured JSON data. These innovations are critical for modern digital operations, streamlining IT infrastructure management and enhancing data processing capabilities, showcasing advancements in software and data management.",
-            "url": "https://javascriptweekly.com/issues/800",
+            "title": "Goebel, Weaver headline best Week 2 Green Bay-area football performers",
+            "summary": "The Phantoms, ranked No. 5 in Division 1, demonstrated significant dominance by crushing No. 6 Appleton North 35-7. This decisive victory, where they became the first team to score over 30 points against such a high-ranked opponent, strongly suggests they are deserving of a higher position in the coaches poll. Their impressive early-season performance highlights their strength.",
+            "url": "https://www.greenbaypressgazette.com/story/sports/high-school/football/2026/09/01/goebel-weaver-headline-best-week-2-green-bay-area-football-performers/91552700007/",
+            "category": "National",
+            "date": "2026-09-01T10:05:40Z"
+        },
+        {
+            "title": "nexusos-robotics 1.0.0",
+            "summary": "A website component failed to load, potentially due to browser extensions, network issues, or specific browser settings. Users encountering this technical problem are advised to check their internet connection, disable any active ad blockers, or try using an alternative web browser. Resolving these issues is necessary to ensure full access and proper display of the site's content.",
+            "url": "https://pypi.org/project/nexusos-robotics/1.0.0/",
             "category": "Sci & Tech",
-            "date": "2026-09-01T00:00:00Z"
+            "date": "2026-09-01T09:41:28Z"
+        },
+        {
+            "title": "nexusos-robotics added to PyPI",
+            "summary": "NexusOS addresses the 'Tower of Babel' in robotics, aiming to unify diverse systems. It achieves this using zero-dependency hardware abstraction, WAN-resilient telemetry streaming, and unified cloud fleet orchestration. This next-generation platform simplifies remote management and enhances interoperability across various robotic applications, making complex operations more efficient and scalable.",
+            "url": "https://pypi.org/project/nexusos-robotics/",
+            "category": "Sci & Tech",
+            "date": "2026-09-01T09:41:28Z"
+        },
+        {
+            "title": "Make in India achieved little but govt's 'Fake in India' continues: Cong on GDP numbers",
+            "summary": "The Congress party has criticized the government's latest GDP figures, labeling them 'statistical gymnastics.' They also asserted that the 'Make in India' initiative has yielded minimal results, questioning the Modi administration's economic performance. This critique highlights ongoing political debate surrounding national economic data and policy effectiveness, suggesting a disconnect between official statistics and ground realities, relevant for understanding India's domestic policy landscape.",
+            "url": "https://economictimes.indiatimes.com/news/india/make-in-india-achieved-little-but-govts-fake-in-india-continues-cong-on-gdp-numbers/articleshow/133675692.cms",
+            "category": "National",
+            "date": "2026-09-01T09:32:28Z"
+        },
+        {
+            "title": "DEE Development Engineers eyes global partner for nuclear piping space JV: Chairman",
+            "summary": "DEE Development Engineers plans to enter India's high-potential nuclear power segment, actively seeking a joint venture partner for specialized piping fabrication solutions. This strategic move signifies increasing private sector involvement and investment in critical national energy infrastructure. For SSB aspirants, this highlights advancements in indigenous capabilities within the nuclear energy domain and potential for technological self-reliance.",
+            "url": "https://www.thehindubusinessline.com/companies/dee-development-engineers-eyes-global-partner-for-nuclear-piping-space-jv-chairman/article71414027.ece",
+            "category": "Sci & Tech",
+            "date": "2026-09-01T09:21:36Z"
+        },
+        {
+            "title": "Daily Tech News 1 September 2026",
+            "summary": "The article presents a humorous, informal disclaimer stating, 'Glitter is the Devil's bath salts.' This metaphorical statement expresses a strong, negative sentiment towards glitter, treating it as undesirable. It functions as a satirical or personal opinion, not a factual news report for SSB aspirants.",
+            "url": "https://acecomments.mu.nu/?post=421188",
+            "category": "National",
+            "date": "2026-09-01T08:55:18Z"
+        },
+        {
+            "title": "Upcoming cars in September 2026: Kia Sorento, BMW 7 Series & more",
+            "summary": "Actor Abhay Verma recently praised his star-kid co-stars Suhana Khan, Shanaya Kapoor, and Rasha Thadani, emphasizing their strong work ethic. He highlighted their dedication to putting their professional commitments ahead of their famous surnames. This observation from Verma offers insight into the emerging talent and work culture within the Indian film industry, reflecting on the individual merit and efforts of these young artists.",
+            "url": "https://timesofindia.indiatimes.com/auto/cars/upcoming-cars-in-september-2026-kia-sorento-bmw-7-series-more/articleshow/133671195.cms",
+            "category": "National",
+            "date": "2026-09-01T06:45:36Z"
         }
     ]
 }
