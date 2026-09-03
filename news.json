@@ -1,152 +1,33 @@
 {
-    "last_updated": "2026-09-03T10:34:12.813166+00:00",
+    "last_updated": "2026-09-03T15:39:37.627736+00:00",
     "articles": [
         {
-            "title": "Next Star Trek Movie Gets Huge Update, Writers Compare It To Classic Denzel Washington Films",
-            "summary": "Filmmakers Jonathan Goldstein and John Francis Daley have provided a significant update on Paramount Skydance's upcoming Star Trek movie. This new cinematic installment is currently in active development, promising fresh narratives within the iconic science fiction universe. While specific plot details are still limited, this signals the continued expansion of the beloved franchise, offering an update on futuristic entertainment developments.",
-            "url": "https://screenrant.com/star-trek-movie-update-writers-denzel-washington-comparison/",
-            "category": "Sci & Tech",
-            "date": "2026-09-02T10:30:14Z"
-        },
-        {
-            "title": "Hyundai India MD seeks long-term policy, shift to advanced tech exports",
-            "summary": "Hyundai Motor India MD and CEO Tarun Garg called for a consistent, long-term policy framework to bolster the automotive sector. This initiative aims to support industry scale, accelerate technology, and foster component development within the country. Garg's appeal emphasizes the need for stable government policies to drive innovation and enhance India's manufacturing capabilities, urging a supportive environment for sustained growth in the auto industry.",
-            "url": "https://www.business-standard.com/companies/news/hyundai-india-md-seeks-long-term-policy-shift-to-advanced-tech-exports-126090200769_1.html",
-            "category": "National",
-            "date": "2026-09-02T10:25:47Z"
-        },
-        {
-            "title": "Miami Dolphins' Jordyn Brooks: Being physical is choice, takes no talent",
-            "summary": "NFL linebacker Jordyn Brooks is highlighted for exceptional durability and consistent performance. In his six-year career, he has averaged 140 tackles per season, missing only two games in the past five years. This showcases his remarkable reliability and sustained high-level play, making him a crucial asset in the league.",
-            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/09/02/miami-dolphins-jordyn-brooks/91571027007/",
-            "category": "National",
-            "date": "2026-09-02T10:08:37Z"
-        },
-        {
-            "title": "Is this the future of America?",
-            "summary": "The US is experiencing a significant expansion of AI infrastructure, reminiscent of the data center growth seen over the past two decades in locations like Loudoun County, Virginia. This massive build-out underscores the critical need for physical infrastructure to support advanced artificial intelligence, highlighting its foundational role in the nation's technological progress and future capabilities.",
-            "url": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
-            "category": "Sci & Tech",
-            "date": "2026-09-02T10:02:28Z"
-        },
-        {
-            "title": "Organigram Global to Host 2026 OG Investor Session",
-            "summary": "Organigram has opened registration for its second Digital Investor Session. During this event, senior leadership will present updates on the company's global expansion plans and business strategy to potential and current investors. This session aims to inform stakeholders about Organigram's future direction and market positioning, though full content details require a subscription.",
-            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-global-to-host-2026-og-investor-session",
-            "category": "National",
-            "date": "2026-09-02T10:01:39Z"
-        },
-        {
-            "title": "When I Was 10 Weeks Old, My Dad Was Arrested for Breaking Three of My Bones. It Was Front-Page News for Years. Now It\u2019s My Turn to Write the Story.",
-            "summary": "A deeply disturbing police report details a 10-week-old infant's broken arms. The incident occurred while the 19-year-old father was caring for the crying baby as the mother slept. This snippet describes a tragic personal event, likely pointing to a case of child abuse or severe neglect, highlighting critical social issues.",
-            "url": "https://slate.com/life/2026/09/florida-dad-child-abuse-crime.html",
-            "category": "National",
-            "date": "2026-09-02T09:40:00Z"
-        },
-        {
-            "title": "Lanterns Backlash Intensifies As DC Studios Podcast Host Brands Hal Jordan A Racist",
-            "summary": "A recent 'Lanterns' episode sparked fan debate by revealing John Stewart Sr. was offered the Green Lantern ring before Hal Jordan. His decision was reportedly influenced by strong family devotion and significant socio-political factors, adding depth to his character's origin. This plot twist reframes key elements within the DC universe's lore, prompting discussions about character history and narrative choices in the ongoing series.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-backlash-intensifies-as-dc-studios-podcast-host-brands-hal-jordan-a-racist-a229664",
-            "category": "Sci & Tech",
-            "date": "2026-09-02T09:37:17Z"
-        },
-        {
-            "title": "Indian Navy eyes indigenous SATCOM terminals to boost network-centric warfare",
-            "summary": "The Indian Navy is seeking indigenous satellite communication terminals for its warships to bolster network-centric warfare capabilities. These advanced systems are crucial for enhancing communication reliability in harsh maritime conditions. This initiative aligns with India's focus on self-reliance in defence technology, ensuring robust operational readiness and strengthening the fleet's strategic communication infrastructure at sea.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/indian-navy-eyes-indigenous-satcom-terminals-to-boost-network-centric-warfare/articleshow/133702377.cms",
-            "category": "Defence",
-            "date": "2026-09-02T07:49:22Z"
-        },
-        {
-            "title": "Engineering the future of global pipeline infrastructure: How India's SSEGPL is powering the next generation of energy projects",
-            "summary": "India's engineering sector has emerged as a major export driver, fueled by government initiatives like Make in India and significant infrastructure investments. This sector's robust growth underscores the nation's strengthening manufacturing capabilities and increasing global competitiveness. For SSB aspirants, this highlights national economic progress and the vital role of industrial development in India's global standing, reflecting opportunities in a key economic domain.",
-            "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/engineering-the-future-of-global-pipeline-infrastructure-how-indias-ssegpl-is-powering-the-next-generation-of-energy-projects/articleshow/133702016.cms",
-            "category": "National",
-            "date": "2026-09-02T07:35:43Z"
-        },
-        {
-            "title": "PR can polish picture of GDP, but not economy itself: Congress slams Modi government",
-            "summary": "The Congress party criticized the Modi government, citing former finance secretary Subhash Chandra Garg's reported remarks on GDP numbers. Congress alleged that the government prioritizes public relations over accurate economic data, stating that \"PR can polish\" but not fundamentally change realities. This political attack highlights ongoing debate regarding the nation's economic performance and data integrity under the current administration.",
-            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pr-can-polish-picture-of-gdp-but-not-economy-itself-congress-slams-modi-government/articleshow/133701101.cms",
-            "category": "National",
-            "date": "2026-09-02T06:59:34Z"
-        },
-        {
-            "title": "Auto sector must focus on building global leadership with scale: Industry leaders",
-            "summary": "Industry leaders in New Delhi urged India's auto sector to transcend mere resilience. They advocated for building globally competitive, technology-rich, and sustainable domestic value chains. This strategic shift is crucial for fostering long-term growth and enhancing India's global standing. It emphasizes innovation and environmental responsibility, aiming to establish India as a premier automotive hub beyond just overcoming immediate challenges.",
-            "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sector-must-focus-on-building-global-leadership-with-scale-industry-leaders/articleshow/133701205.cms",
-            "category": "National",
-            "date": "2026-09-02T06:53:21Z"
-        },
-        {
-            "title": "'It's a military secret': Putin taunts Britain over possible plan to target UK defence plants for its support of Ukraine",
-            "summary": "Russian President Vladimir Putin taunted Britain, stating it's a 'military secret' if Russia would target UK defence plants, including drone makers. This provocative declaration, made to state media, escalates rhetoric and raises concerns about the security of UK defence infrastructure. It suggests potential retaliatory measures and highlights the unpredictable nature of current geopolitical tensions.",
-            "url": "https://www.dailymail.com/news/article-16098149/Its-military-secret-Putin-taunts-Britain-possible-plan-target-UK-defence-plants-support-Ukraine.html",
-            "category": "Defence",
-            "date": "2026-09-02T06:37:39Z"
-        },
-        {
-            "title": "Trump says US could still \u2018smack\u2019 Iran",
-            "summary": "US President Trump asserted the Strait of Hormuz is in \"extremely good shape,\" contrasting this with Iran's reportedly deteriorating economy, military, and leadership. These comments highlight ongoing geopolitical tensions between the US and Iran regarding a vital global shipping lane. Trump's remarks also hinted at potential future actions, underscoring continued vigilance and the complex strategic dynamics in the region.",
-            "url": "https://thechronicle.com.gh/trump-says-us-could-still-smack-iran/",
+            "title": "Netflix has a $700 million sci-fi blockbuster most Americans have probably never seen",
+            "summary": "The Chinese animated fantasy film, \"Ne Zha 2,\" has achieved remarkable global success, becoming the fourth-highest-grossing movie of all time. Despite its immense popularity worldwide, it remains largely unknown to many in the US. This highlights the diverse landscape of global cinema and cultural consumption beyond Western markets, an important aspect of international awareness for aspirants.",
+            "url": "https://www.makeuseof.com/netflix-wandering-earth-sci-fi-americans-never-seen/",
             "category": "International",
-            "date": "2026-09-02T06:24:09Z"
+            "date": "2026-09-02T15:30:14Z"
         },
         {
-            "title": "Nepal flash flood gives IAF another opportunity to demonstrate its airlift capability",
-            "summary": "The Indian Air Force recently delivered relief supplies to Nepal, showcasing its crucial global reach and strategic capabilities. This humanitarian mission underscores the IAF's rapid response capacity, essential for both disaster relief and national security. Past operations in Jammu & Kashmir and East Pakistan, alongside recent deployments to Ladakh and the Maldives, highlight its operational versatility and India's growing role as a regional security provider.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/nepal-flash-flood-gives-iaf-another-opportunity-to-demonstrate-its-air-lift-capability/articleshow/133698725.cms",
+            "title": "Nepal PM thanks India for flood rescue help after minister seeks compensation, as reconstruction estimates reach billions of dollar",
+            "summary": "Nepal's Prime Minister Balendra Shah expressed gratitude to India and China for their crucial assistance following devastating flash floods. These floods tragically killed over 1,100 people and left nearly 4,900 missing. This highlights India's significant role in regional humanitarian aid and disaster response, reinforcing bilateral ties during crises, a key aspect for understanding international relations.",
+            "url": "https://economictimes.indiatimes.com/news/india/nepal-pm-thanks-india-for-flood-rescue-help-after-minister-seeks-compensation-as-reconstruction-estimates-reach-billions-of-dollar/articleshow/133714056.cms",
+            "category": "International",
+            "date": "2026-09-02T15:16:08Z"
+        },
+        {
+            "title": "Isro to launch India\u2019s first imaging satellite EOS-5 in geo orbit, will provide 24x7 constant vigil of borders",
+            "summary": "ISRO is poised to launch India's first geosynchronous imaging satellite, EOS-05, on Friday. This advanced satellite will provide continuous 24x7 surveillance over Indian borders. Positioned at a high altitude, EOS-05 is designed to offer real-time viewing of specific regions, significantly enhancing India's monitoring capabilities for national security and strategic observation. This marks a crucial step in indigenous space-based intelligence gathering.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/isro-to-launch-indias-first-imaging-satellite-eos-5-in-geo-orbit-will-provide-24x7-constant-vigil-of-borders/articleshow/133714163.cms",
             "category": "Defence",
-            "date": "2026-09-02T05:42:58Z"
+            "date": "2026-09-02T15:10:27Z"
         },
         {
-            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: The Power of His Word - Wednesday, September 2, 2026",
-            "summary": "This notice highlights a future Catholic devotional titled 'The Power of His Word,' slated for Wednesday, September 2, 2026. Presented by 'My Catholic Life!' on YouTube, it offers daily reflections within a Catholic Caucus devotional context. Understanding diverse faith-based content can contribute to an SSB aspirant's awareness of societal values and cultural practices within the national framework.",
-            "url": "https://freerepublic.com/focus/f-religion/4393933/posts",
-            "category": "National",
-            "date": "2026-09-02T05:34:21Z"
-        },
-        {
-            "title": "Why Pacific Island states should seek collective security for the region",
-            "summary": "At the Pacific Islands Forum in Palau, participants reportedly preferred discussing urgent regional challenges like transnational crime and energy security, and likely climate issues, over engaging in debates about great power rivalry. This highlights the island nations' focus on immediate, practical concerns impacting their security and development rather than broader geopolitical struggles.",
-            "url": "https://theconversation.com/why-pacific-island-states-should-seek-collective-security-for-the-region-289377",
-            "category": "International",
-            "date": "2026-09-02T05:27:44Z"
-        },
-        {
-            "title": "Priority Jewels IPO ends with 100.45 times subscription",
-            "summary": "Priority Jewels' initial public offering (IPO) saw overwhelming investor demand, receiving bids for 32.16 crore shares compared to only 32.02 lakh shares on offer. This massive oversubscription, significantly exceeding the available shares, indicates strong market confidence and high investor interest in the company's stock market debut. Such market dynamics reflect current economic sentiment.",
-            "url": "https://www.business-standard.com/markets/capital-market-news/priority-jewels-ipo-ends-with-100-45-times-subscription-126090200283_1.html",
-            "category": "National",
-            "date": "2026-09-02T05:22:47Z"
-        },
-        {
-            "title": "Meet Shakti Sharma, first woman non-medical Air Vice Marshal in IAF",
-            "summary": "Air Vice Marshal Shakti Sharma has made history by becoming the first woman non-medical officer in the Indian Air Force (IAF) to achieve this esteemed rank. With a distinguished career spanning over three decades, her promotion signifies a major milestone for women in the armed forces, showcasing opportunities for professional growth and leadership in non-medical branches within the IAF and inspiring future aspirants.",
-            "url": "https://www.business-standard.com/india-news/meet-shakti-sharma-first-woman-non-medical-air-vice-marshal-in-iaf-126090200247_1.html",
+            "title": "The US Arms Bottleneck Is Impacting Its East Asian Allies",
+            "summary": "Taiwan has faced significant delays in receiving a crucial $14 billion arms package, including Patriot PAC-3 interceptors and NASAMS air defense systems. In May, multiple explanations were provided for these holdups. This situation highlights potential challenges in military procurement and strategic defense capabilities amidst ongoing geopolitical tensions, directly impacting Taiwan's security preparedness.",
+            "url": "https://thediplomat.com/2026/09/the-us-arms-bottleneck-is-impacting-its-east-asian-allies/",
             "category": "Defence",
-            "date": "2026-09-02T05:09:51Z"
-        },
-        {
-            "title": "Harold Holt, the Australian prime minister who disappeared while swimming",
-            "summary": "Almost 60 years ago, Australia's Prime Minister, Harold Holt, mysteriously vanished while swimming off the coast of Victoria in December 1967. Elected only 22 months prior, his disappearance remains a notable historical enigma in Australian politics, sparking decades of speculation and investigation into the fate of a serving head of government.",
-            "url": "https://www.irishtimes.com/opinion/an-irish-diary/2026/09/02/harold-holt-the-australian-prime-minister-who-disappeared-while-swimming/",
-            "category": "International",
-            "date": "2026-09-02T05:00:01Z"
-        },
-        {
-            "title": "Entry List: AMSOIL Champ Off-Road at the Polaris World Championships 2026",
-            "summary": "The 2026 Polaris World Championships at Crandon International Raceway are gearing up with a sneak preview of the highly competitive Pro division entry lists. This global motorsports event, a significant international competition, promises thrilling action. Enthusiasts can anticipate live coverage of the races, showcasing top-tier drivers and teams, available live on Friday and Saturday. Staying informed on such international events, even in sports, broadens an aspirant's general awareness.",
-            "url": "https://www.floracing.com/articles/16152121-champ-off-road-polaris-world-championships?utm_medium=rss",
-            "category": "International",
-            "date": "2026-09-02T04:06:45Z"
-        },
-        {
-            "title": "Football: LQPV Eagles hope more experience leads to success",
-            "summary": "The Lac qui Parle Valley football team, 'The Eagles,' is set to commence their new season with optimism, fielding 10 returning starters. After a challenging 1-8 record last year in the Mid-South White District, the team aims for a significant turnaround. This local sports update highlights team resilience and the pursuit of improvement, common themes in various competitive fields.",
-            "url": "https://www.wctrib.com/sports/prep/football-lqpv-eagles-hope-more-experience-leads-to-success",
-            "category": "National",
-            "date": "2026-09-01T22:32:00Z"
+            "date": "2026-09-02T14:49:00Z"
         }
     ]
 }
