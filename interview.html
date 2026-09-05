@@ -5,127 +5,674 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Mock Interview - SSB Academy</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Exo+2:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- MediaPipe Modules for Face Tracking -->
+    <script type="module">
+        import { FaceLandmarker, FilesetResolver } from "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.3";
+        window.MediaPipeFaceLandmarker = FaceLandmarker;
+        window.MediaPipeFilesetResolver = FilesetResolver;
+    </script>
+
     <style>
-        .video-box { border: 4px solid #1e3a8a; box-shadow: 0 0 30px rgba(30, 58, 138, 0.4); }
-        .pulse-red { animation: pulse 1.5s infinite; }
-        @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; } 100% { opacity: 0.5; } }
-        body { overflow-x: hidden; }
+        :root {
+            --navy: #0a1628; --navy2: #0f1f3d; --navy3: #162847;
+            --blue: #1a4ed8; --blue2: #2563eb;
+            --accent: #38bdf8; --accent2: #0ea5e9;
+            --gold: #f59e0b; --green: #10b981; --red: #ef4444;
+            --text: #e2e8f0; --muted: #64748b;
+        }
+        * { box-sizing: border-box; }
+        body { background: var(--navy); color: var(--text); font-family: 'Exo 2', sans-serif; overflow-x: hidden; min-height: 100vh; }
+        h1, h2, h3, .title-font { font-family: 'Rajdhani', sans-serif; }
+        body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(rgba(26, 78, 216, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(26, 78, 216, 0.04) 1px, transparent 1px); background-size: 40px 40px; pointer-events: none; z-index: 0; }
+        .z1 { position: relative; z-index: 1; }
+        .avatar-ring { position: relative; display: inline-block; }
+        .avatar-ring::before { content: ''; position: absolute; inset: -4px; border-radius: 50%; background: conic-gradient(from 0deg, var(--accent), var(--blue), var(--accent)); animation: spin 4s linear infinite; z-index: -1; }
+        .avatar-ring.speaking::before { animation: spin 1s linear infinite; background: conic-gradient(from 0deg, var(--gold), var(--accent), var(--gold)); }
+        .avatar-ring.listening::before { animation: spin 0.5s linear infinite; background: conic-gradient(from 0deg, var(--green), var(--accent), var(--green)); }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .waveform { display: flex; align-items: center; gap: 3px; height: 32px; }
+        .wave-bar { width: 3px; background: var(--accent); border-radius: 2px; animation: wave 1.2s ease-in-out infinite; transition: background 0.3s; }
+        .wave-bar:nth-child(1) { animation-delay: 0s; height: 40%; } .wave-bar:nth-child(2) { animation-delay: 0.1s; height: 70%; } .wave-bar:nth-child(3) { animation-delay: 0.2s; height: 100%; }
+        .wave-bar:nth-child(4) { animation-delay: 0.3s; height: 70%; } .wave-bar:nth-child(5) { animation-delay: 0.4s; height: 40%; } .wave-bar:nth-child(6) { animation-delay: 0.1s; height: 60%; }
+        .wave-bar:nth-child(7) { animation-delay: 0.2s; height: 90%; } .wave-bar:nth-child(8) { animation-delay: 0.3s; height: 60%; } .wave-bar:nth-child(9) { animation-delay: 0.4s; height: 35%; }
+        .wave-bar.green { background: var(--green); } .wave-bar.paused { animation-play-state: paused; height: 20% !important; }
+        @keyframes wave { 0%, 100% { transform: scaleY(0.4); } 50% { transform: scaleY(1); } }
+        .glass { background: rgba(15, 31, 61, 0.7); border: 1px solid rgba(56, 189, 248, 0.15); backdrop-filter: blur(12px); }
+        @keyframes pulseDot { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.3); } }
+        .pulse-dot { animation: pulseDot 1.5s ease-in-out infinite; }
+        @keyframes slideUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+        .slide-up { animation: slideUp 0.4s ease forwards; }
+        .cam-live { box-shadow: 0 0 0 2px var(--green), 0 0 24px rgba(16,185,129,0.2); }
+        .cam-speaking { box-shadow: 0 0 0 2px var(--gold), 0 0 24px rgba(245,158,11,0.2); }
+        .olq-badge { background: rgba(56, 189, 248, 0.1); border: 1px solid rgba(56, 189, 248, 0.3); color: var(--accent); font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 9999px; font-family: 'Rajdhani', sans-serif; letter-spacing: 0.05em; text-transform: uppercase; }
+        .progress-fill { height: 100%; border-radius: 9999px; background: linear-gradient(90deg, var(--blue), var(--accent)); transition: width 0.6s ease; }
+        #reportModal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 100; overflow-y: auto; padding: 24px; }
+        #reportModal.show { display: flex; align-items: flex-start; justify-content: center; }
+        @keyframes rotateSpin { to { transform: rotate(360deg); } }
+        .spinner { width: 20px; height: 20px; border: 2px solid rgba(56,189,248,0.2); border-top-color: var(--accent); border-radius: 50%; animation: rotateSpin 0.7s linear infinite; }
+        .transcript-box { background: rgba(10, 22, 40, 0.6); border: 1px solid rgba(56, 189, 248, 0.1); border-radius: 12px; padding: 16px; min-height: 80px; font-size: 14px; line-height: 1.7; color: var(--text); font-style: italic; }
+        .btn-primary { background: linear-gradient(135deg, var(--blue), var(--blue2)); border: 1px solid rgba(56, 189, 248, 0.3); color: white; font-family: 'Rajdhani', sans-serif; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; transition: all 0.2s; }
+        .btn-primary:hover { filter: brightness(1.15); transform: translateY(-1px); } .btn-primary:active { transform: scale(0.97); } .btn-primary:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+        .btn-danger { background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.4); color: var(--red); font-family: 'Rajdhani', sans-serif; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; transition: all 0.2s; }
+        .btn-danger:hover { background: rgba(239,68,68,0.25); }
+        .status-bar { font-family: 'Rajdhani', sans-serif; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; }
+        #reportModal::-webkit-scrollbar { width: 8px; }
+        #reportModal::-webkit-scrollbar-track { background: rgba(0,0,0,0.2); }
+        #reportModal::-webkit-scrollbar-thumb { background: var(--blue); border-radius: 4px; }
     </style>
 </head>
-<body class="bg-[#0f172a] text-white min-h-screen flex flex-col">
-    <header class="p-4 md:p-6 flex justify-between items-center border-b border-gray-800 shrink-0">
-        <div class="flex items-center">
-            <img src="imageout/ssb logo.png" alt="Logo" class="h-8 w-8 md:h-10 md:w-10 mr-3">
-            <h1 class="text-lg md:text-xl font-bold text-blue-400 uppercase tracking-tight">AI Interview Panel</h1>
-        </div>
-        <a href="dashboard.html" class="bg-gray-800 hover:bg-gray-700 px-3 py-2 rounded-xl text-xs md:text-sm transition-all active:scale-95 flex items-center">
-            <i class="fas fa-chevron-left mr-2"></i> Back to Dashboard
-        </a>
-    </header>
+<body>
 
-    <main class="flex-1 flex flex-col items-center justify-center p-4 md:p-8">
-        <div class="w-full max-w-6xl grid lg:grid-cols-3 gap-6 md:gap-10 items-stretch">
-            
-            <div class="lg:col-span-1">
-    <div class="bg-gray-800/60 p-8 rounded-3xl border border-gray-700 text-center shadow-2xl h-full flex flex-col items-center">
-        
-        <div class="relative inline-block mb-8">
-            <img src="imageout/priyaai.png" 
-                 alt="Capt. Priya Sharma" 
-                 class="w-48 h-48 rounded-full border-4 border-blue-500 object-cover shadow-2xl mx-auto transition-transform duration-300 hover:scale-105 max-w-full">
-            
-            <span class="absolute bottom-3 right-3 w-6 h-6 bg-green-500 border-4 border-gray-800 rounded-full animate-pulse shadow-lg"></span>
+<header class="z1 border-b border-slate-800/80 px-6 py-4 flex justify-between items-center" style="background: rgba(10,22,40,0.9); backdrop-filter: blur(12px); position: sticky; top: 0; z-index: 50;">
+    <div class="flex items-center gap-3">
+        <img src="imageout/ssb logo.png" alt="Logo" class="h-8 w-8" onerror="this.style.display='none'">
+        <span class="title-font text-lg font-bold text-sky-400 tracking-widest">AI INTERVIEW PANEL</span>
+        <div class="hidden sm:flex items-center gap-2 ml-4">
+            <div id="headerDot" class="w-2 h-2 rounded-full bg-slate-600"></div>
+            <span id="headerStatus" class="status-bar text-slate-500">OFFLINE</span>
         </div>
-        
-        <div class="mb-8">
-            <h2 class="text-2xl md:text-3xl font-bold text-white tracking-tight">Capt. Priya Sharma</h2>
-            <p class="text-blue-400 font-bold text-sm uppercase tracking-widest mt-1">Interviewing Officer</p>
-        </div>
-        
-        <div class="w-full bg-gray-900/80 rounded-2xl py-3 px-4 flex items-center justify-center border border-gray-700 mb-auto">
-            <span id="statusDot" class="w-3 h-3 bg-red-600 rounded-full mr-3"></span>
-            <span id="statusText" class="text-xs font-black uppercase tracking-widest text-gray-400">System Offline</span>
-        </div>
-
-        <button id="mainBtn" class="w-full mt-8 bg-blue-600 hover:bg-blue-500 py-4 rounded-2xl font-black text-lg transition-all shadow-2xl active:scale-95 uppercase tracking-widest">
-            Start Session
-        </button>
     </div>
-</div>
+    <div class="flex items-center gap-3">
+        <span id="questionCounter" class="title-font text-slate-500 text-sm hidden">Q <span id="qNum">0</span> / <span id="qTotal">0</span></span>
+        <a href="dashboard.html" class="btn-danger px-4 py-2 rounded-lg text-xs flex items-center gap-2">
+            <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+            Dashboard
+        </a>
+    </div>
+</header>
 
-            <div class="lg:col-span-2 flex flex-col space-y-6">
-                <div class="video-box relative aspect-video bg-black rounded-3xl overflow-hidden group">
-                    <video id="userCam" autoplay playsinline class="w-full h-full object-cover hidden"></video>
-                    <div id="camPlaceholder" class="absolute inset-0 flex flex-col items-center justify-center text-gray-700 bg-gray-900">
-                        <i class="fas fa-video-slash text-5xl mb-4"></i>
-                        <p class="font-bold uppercase text-xs tracking-widest">Camera Inactive</p>
-                    </div>
-                    <div id="liveLabel" class="absolute top-4 right-4 bg-red-600 text-white text-[10px] font-black px-3 py-1 rounded-full hidden pulse-red tracking-tighter">
-                        LIVE FEED
-                    </div>
+<main class="z1 max-w-7xl mx-auto px-4 py-6 grid lg:grid-cols-3 gap-6">
+
+    <div class="lg:col-span-1 flex flex-col gap-4">
+        <div class="glass rounded-2xl p-6 text-center">
+            <div class="flex justify-center mb-4">
+                <div class="avatar-ring" id="avatarRing">
+                    <img src="imageout/priyaai.png" alt="Capt. Priya Sharma" class="w-28 h-28 rounded-full object-cover" onerror="this.src='https://ui-avatars.com/api/?name=Priya+Sharma&background=1a4ed8&color=fff&size=112'">
                 </div>
-
-                <div class="flex-1 bg-gray-800/40 p-6 md:p-10 rounded-3xl border border-gray-700 flex items-center justify-center shadow-lg">
-                    <p id="questionDisplay" class="text-lg md:text-xl font-medium text-gray-500 text-center leading-relaxed italic">
-                        "Ready to practice your Officer Like Qualities? Click the button in the profile panel to begin."
-                    </p>
+            </div>
+            <h2 class="title-font text-2xl font-bold text-white">Capt. Priya Sharma</h2>
+            <p class="text-sky-400 text-xs font-semibold tracking-widest uppercase mt-1">Interviewing Officer · IO</p>
+            <div class="mt-4 flex items-center justify-center gap-2">
+                <div id="statusDot" class="w-2.5 h-2.5 rounded-full bg-slate-600 pulse-dot"></div>
+                <span id="statusText" class="status-bar text-slate-400">System Offline</span>
+            </div>
+            <div class="mt-3 flex justify-center" id="waveContainer" style="opacity:0; transition: opacity 0.3s;">
+                <div class="waveform">
+                    <div class="wave-bar" id="wb1"></div><div class="wave-bar" id="wb2"></div><div class="wave-bar" id="wb3"></div>
+                    <div class="wave-bar" id="wb4"></div><div class="wave-bar" id="wb5"></div><div class="wave-bar" id="wb6"></div>
+                    <div class="wave-bar" id="wb7"></div><div class="wave-bar" id="wb8"></div><div class="wave-bar" id="wb9"></div>
                 </div>
             </div>
         </div>
-    </main>
 
-    <script>
-        const video = document.getElementById('userCam');
-        const mainBtn = document.getElementById('mainBtn');
-        const questionDisplay = document.getElementById('questionDisplay');
-        const statusDot = document.getElementById('statusDot');
-        const statusText = document.getElementById('statusText');
-        const placeholder = document.getElementById('camPlaceholder');
-        const liveLabel = document.getElementById('liveLabel');
+        <div class="glass rounded-2xl p-5 flex flex-col gap-3">
+            <button id="mainBtn" class="btn-primary w-full py-4 rounded-xl text-base flex items-center justify-center gap-2">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg> Start Session
+            </button>
+            <button id="submitBtn" class="btn-primary w-full py-3 rounded-xl text-sm hidden flex items-center justify-center gap-2" disabled>
+                <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg> Submit Answer
+            </button>
+            <button id="skipBtn" class="btn-danger w-full py-2 rounded-xl text-xs hidden">Skip Question →</button>
 
-        const questions = [
-            "Welcome. Tell me something about your hometown and your schooling.",
-            "Why did you choose your current stream of education?",
-            "What motivates you to pursue a career in the Indian Armed Forces?",
-            "Describe a situation where you had to lead a team through a difficult task.",
-            "How do you keep yourself physically and mentally fit for the SSB?"
-        ];
-        let qIndex = 0;
+            <div id="progressSection" class="hidden mt-2">
+                <div class="flex justify-between text-xs text-slate-500 mb-1.5"><span class="status-bar">Progress</span><span id="progressLabel">0%</span></div>
+                <div class="h-1.5 bg-slate-800 rounded-full overflow-hidden"><div class="progress-fill" id="progressBar" style="width:0%"></div></div>
+            </div>
+        </div>
 
-        mainBtn.onclick = async () => {
-            if (qIndex === 0) {
-                try {
-                    const stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: true });
-                    video.srcObject = stream;
-                    video.classList.remove('hidden');
-                    placeholder.classList.add('hidden');
-                    liveLabel.classList.remove('hidden');
-                    statusDot.classList.replace('bg-red-600', 'bg-green-500');
-                    statusText.innerText = "System Online";
-                    statusText.classList.replace('text-gray-400', 'text-green-500');
-                    mainBtn.innerText = "Next Question";
-                    showNextQuestion();
-                } catch (e) {
-                    alert("Error: Please enable camera and microphone permissions to start.");
+        <div class="glass rounded-2xl p-5" id="liveScorePanel" style="display:none;">
+            <h3 class="title-font text-sm font-bold text-sky-400 tracking-widest uppercase mb-3">Live OLQ Signals</h3>
+            <div id="olqBadges" class="flex flex-wrap gap-1.5"></div>
+            <div class="mt-4 flex items-center justify-between"><span class="text-xs text-slate-500">Running Score</span><span id="runningScore" class="title-font text-2xl font-bold text-white">—</span></div>
+        </div>
+    </div>
+
+    <div class="lg:col-span-2 flex flex-col gap-4">
+        <div class="relative rounded-2xl overflow-hidden" style="aspect-ratio: 16/9; background: #060d1a;" id="camWrapper">
+            <video id="userCam" autoplay playsinline muted class="w-full h-full object-cover hidden"></video>
+            <canvas id="snapCanvas" style="display:none;"></canvas>
+
+            <div id="camPlaceholder" class="absolute inset-0 flex flex-col items-center justify-center gap-3 text-slate-700">
+                <svg width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M15 10l4.553-2.069A1 1 0 0121 8.845v6.31a1 1 0 01-1.447.894L15 14M3 8a2 2 0 012-2h10a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2V8z"/></svg>
+                <p class="text-xs tracking-widest uppercase font-semibold">Camera Inactive</p>
+            </div>
+
+            <div id="hudOverlay" class="hidden absolute inset-0 pointer-events-none">
+                <div class="absolute top-3 left-3 flex items-center gap-2 bg-black/50 backdrop-blur px-3 py-1.5 rounded-full"><div class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></div><span class="title-font text-xs text-white font-bold tracking-widest">LIVE</span></div>
+                <div class="absolute top-3 right-3 bg-black/50 backdrop-blur px-3 py-1.5 rounded-full"><span id="timerDisplay" class="title-font text-xs text-sky-400 font-bold tracking-widest">00:00</span></div>
+                
+                <!-- NEW: Focus Analyzer HUD -->
+                <div class="absolute top-14 right-3 bg-black/50 backdrop-blur px-3 py-1.5 rounded-full flex items-center gap-2 hidden" id="focusIndicator">
+                    <div id="focusDot" class="w-2 h-2 rounded-full bg-green-500"></div>
+                    <span id="focusLabel" class="title-font text-xs text-green-400 font-bold tracking-widest">FOCUS: STABLE</span>
+                </div>
+
+                <div class="absolute bottom-3 left-3 bg-black/50 backdrop-blur px-3 py-1 rounded"><span class="title-font text-xs text-white tracking-widest">CANDIDATE</span></div>
+                <div class="absolute bottom-3 right-3 bg-black/50 backdrop-blur px-3 py-1.5 rounded-full flex items-center gap-2"><svg width="12" height="12" fill="var(--accent)" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg><span id="confLabel" class="title-font text-xs text-sky-400 font-bold tracking-widest">READY</span></div>
+            </div>
+
+            <div id="analyzingOverlay" class="hidden absolute inset-0 bg-black/70 backdrop-blur-sm flex flex-col items-center justify-center gap-4">
+                <div class="spinner" style="width:36px; height:36px; border-width:3px;"></div>
+                <p class="title-font text-sky-400 tracking-widest text-sm">ANALYZING RESPONSE...</p>
+            </div>
+        </div>
+
+        <div class="glass rounded-2xl p-6" id="questionCard">
+            <div class="flex items-start gap-3">
+                <div class="w-8 h-8 rounded-lg flex items-center justify-center shrink-0" style="background: rgba(26,78,216,0.3); border: 1px solid rgba(56,189,248,0.3);">
+                    <svg width="16" height="16" fill="var(--accent)" viewBox="0 0 24 24"><path d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-3 3v-3z"/></svg>
+                </div>
+                <div class="flex-1">
+                    <p class="title-font text-xs text-sky-400 tracking-widest uppercase mb-2">Question</p>
+                    <p id="questionDisplay" class="text-base font-medium text-slate-300 leading-relaxed italic">"Ready to practice your Officer Like Qualities? Click Start Session to begin."</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="transcriptSection" class="hidden">
+            <div class="flex items-center justify-between mb-2">
+                <p class="title-font text-xs text-sky-400 tracking-widest uppercase flex items-center gap-2"><svg width="12" height="12" fill="none" stroke="var(--accent)" stroke-width="2.5" viewBox="0 0 24 24"><path d="M12 1a3 3 0 00-3 3v8a3 3 0 006 0V4a3 3 0 00-3-3z"/><path d="M19 10v2a7 7 0 01-14 0v-2M12 19v4M8 23h8"/></svg> Candidate Answer</p>
+                <div id="recIndicator" class="hidden items-center gap-1.5"><div class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></div><span class="title-font text-xs text-red-400 tracking-widest">REC</span><span id="recTimer" class="title-font text-xs text-slate-500 tracking-widest ml-1">0s</span></div>
+            </div>
+            <div class="transcript-box" id="transcriptBox"><span class="text-slate-600">Your spoken answer will appear here after transcription…</span></div>
+            <div id="transcribingBar" class="hidden mt-2 flex items-center gap-2"><div class="spinner" style="width:14px;height:14px;"></div><span class="title-font text-xs text-sky-400 tracking-widest">TRANSCRIBING AUDIO…</span></div>
+        </div>
+
+        <div id="feedbackCard" class="glass rounded-2xl p-6 hidden slide-up">
+            <div class="flex items-center justify-between mb-4"><h3 class="title-font text-sm font-bold text-sky-400 tracking-widest uppercase">IO Quick Feedback</h3><div id="qScoreDisplay" class="flex items-center gap-2"></div></div>
+            <p id="feedbackText" class="text-sm text-slate-300 leading-relaxed mb-3"></p>
+            <div id="feedbackOlqs" class="flex flex-wrap gap-1.5"></div>
+        </div>
+    </div>
+</main>
+
+<div id="reportModal">
+    <div class="w-full max-w-4xl" style="font-family: 'Exo 2', sans-serif;">
+        <div class="glass rounded-3xl p-6 sm:p-10 border border-sky-500/20">
+            <div class="text-center mb-8">
+                <div class="inline-flex items-center gap-3 mb-3">
+                    <div class="h-px w-12" style="background: linear-gradient(90deg, transparent, var(--accent))"></div>
+                    <svg width="28" height="28" fill="none" stroke="var(--gold)" stroke-width="1.5" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"/></svg>
+                    <div class="h-px w-12" style="background: linear-gradient(90deg, var(--accent), transparent)"></div>
+                </div>
+                <h2 class="title-font text-3xl md:text-4xl font-bold text-white tracking-wide">Comprehensive Session Evaluation</h2>
+                <p class="text-sky-400 font-semibold tracking-widest uppercase mt-2 text-sm">Assessing Officer: Capt. Priya Sharma</p>
+                <p id="reportDate" class="text-xs text-slate-500 mt-2"></p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-6 mb-8">
+                <div class="md:col-span-1 rounded-2xl p-6 flex flex-col justify-center text-center" style="background: linear-gradient(135deg, rgba(26,78,216,0.2), rgba(14,165,233,0.1)); border: 1px solid rgba(56,189,248,0.2);">
+                    <p class="title-font text-xs text-sky-400 tracking-widest uppercase mb-2">Overall Score</p>
+                    <div class="title-font text-6xl font-bold text-white" id="overallScore">—</div>
+                    <div class="text-lg mt-2" id="overallVerdict"></div>
+                </div>
+                
+                <div class="md:col-span-2 rounded-2xl p-6" style="background: rgba(10,22,40,0.6); border: 1px solid rgba(56,189,248,0.15);">
+                    <p class="title-font text-xs font-bold text-sky-400 tracking-widest uppercase mb-3"><i class="fas fa-file-signature mr-2"></i>IO's Final Remarks</p>
+                    <p id="finalRemarks" class="text-sm text-slate-300 leading-relaxed italic"></p>
+                </div>
+            </div>
+
+            <!-- NEW: Body Language Report Panel -->
+            <div class="rounded-xl p-5 mb-8" style="background: rgba(56,189,248,0.05); border: 1px solid rgba(56,189,248,0.2);">
+                <p class="title-font text-sm font-bold text-sky-400 tracking-widest uppercase mb-2">Body Language & Focus</p>
+                <div class="flex items-center gap-4 mb-3">
+                    <div class="w-16 h-16 rounded-full border-4 border-slate-700 flex items-center justify-center">
+                        <span id="reportFocusPct" class="title-font text-xl font-bold text-white">0%</span>
+                    </div>
+                    <div class="flex-1">
+                        <p class="text-xs text-slate-400 uppercase tracking-widest mb-1">Eye Contact Maintained</p>
+                        <div class="h-2 bg-slate-800 rounded-full w-full overflow-hidden">
+                            <div id="reportFocusBar" class="h-full bg-sky-400 transition-all"></div>
+                        </div>
+                    </div>
+                </div>
+                <p id="bodyLanguageText" class="text-sm text-slate-300 leading-relaxed"></p>
+            </div>
+
+            <div class="grid sm:grid-cols-2 gap-6 mb-10">
+                <div class="rounded-xl p-5" style="background: rgba(16,185,129,0.05); border: 1px solid rgba(16,185,129,0.2);">
+                    <p class="title-font text-sm font-bold text-green-400 tracking-widest uppercase mb-4">Demonstrated Strengths</p>
+                    <ul id="strengthsList" class="space-y-3 text-sm text-slate-200"></ul>
+                </div>
+                <div class="rounded-xl p-5" style="background: rgba(245,158,11,0.05); border: 1px solid rgba(245,158,11,0.2);">
+                    <p class="title-font text-sm font-bold text-amber-400 tracking-widest uppercase mb-4">Areas Requiring Polish</p>
+                    <ul id="improvementsList" class="space-y-3 text-sm text-slate-200"></ul>
+                </div>
+            </div>
+
+            <div class="mb-10">
+                <h3 class="title-font text-lg font-bold text-white border-b border-slate-700 pb-2 mb-5">15 Officer Like Qualities (OLQs) Assessment</h3>
+                <div id="olqGrid" class="grid grid-cols-2 lg:grid-cols-3 gap-4"></div>
+            </div>
+
+            <div class="mb-10">
+                <h3 class="title-font text-lg font-bold text-white border-b border-slate-700 pb-2 mb-5">Question-by-Question Transcript & Analysis</h3>
+                <div id="questionSummaries" class="space-y-6"></div>
+            </div>
+
+            <div class="flex gap-4 flex-wrap mt-8">
+                <button onclick="window.location.href='interview.html'" class="btn-primary flex-1 py-4 rounded-xl text-sm flex items-center justify-center gap-2">
+                    <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 102.13-3.36L1 10"/></svg>
+                    Start New Interview
+                </button>
+                <button onclick="window.location.href='dashboard.html'" class="btn-danger flex-1 py-4 rounded-xl text-sm flex items-center justify-center gap-2">
+                    <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                    Return to Dashboard
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// ============================================================
+//  SSB AI MOCK INTERVIEWER — Advanced Reporting Engine
+// ============================================================
+
+const EL_VOICES = ['pFZP5JQG7iQjIQuC4Bku', 'ThT5KcBeYPX3keUQqHPh', 'EXAVITQu4vr4xnSDxMaL', '21m00Tcm4TlvDq8ikWAM'];
+let qIndex = 0, sessionActive = false, currentAudio = null, mediaRecorder = null, audioChunks = [], isRecording = false, recSeconds = 0, recTimerInt = null, audioStream = null, sessionData = [], sessionTimer = null, sessionSeconds = 0, analysisResults = [], askedTopics = new Set(), currentQ = null;
+
+// Silence & Face Detection Variables
+let audioContext, analyser, microphone, silenceTimer, isSpeaking = false;
+let faceLandmarker = null, lastVideoTime = -1, analyzerActive = false;
+let totalAnalysisFrames = 0, focusedFrames = 0;
+
+const video = document.getElementById('userCam'), mainBtn = document.getElementById('mainBtn'), submitBtn = document.getElementById('submitBtn'), skipBtn = document.getElementById('skipBtn'), questionDisplay = document.getElementById('questionDisplay'), statusDot = document.getElementById('statusDot'), statusText = document.getElementById('statusText'), headerDot = document.getElementById('headerDot'), headerStatus = document.getElementById('headerStatus'), placeholder = document.getElementById('camPlaceholder'), hudOverlay = document.getElementById('hudOverlay'), transcriptBox = document.getElementById('transcriptBox'), transcriptSec = document.getElementById('transcriptSection'), waveContainer = document.getElementById('waveContainer'), avatarRing = document.getElementById('avatarRing'), timerDisplay = document.getElementById('timerDisplay'), feedbackCard = document.getElementById('feedbackCard'), feedbackText = document.getElementById('feedbackText'), feedbackOlqs = document.getElementById('feedbackOlqs'), qScoreDisplay = document.getElementById('qScoreDisplay'), progressSection = document.getElementById('progressSection'), progressBar = document.getElementById('progressBar'), progressLabel = document.getElementById('progressLabel'), analyzingOverlay = document.getElementById('analyzingOverlay'), qNum = document.getElementById('qNum'), qTotal = document.getElementById('qTotal'), questionCounter = document.getElementById('questionCounter'), liveScorePanel = document.getElementById('liveScorePanel'), olqBadges = document.getElementById('olqBadges'), runningScore = document.getElementById('runningScore'), confLabel = document.getElementById('confLabel'), snapCanvas = document.getElementById('snapCanvas'), recIndicator = document.getElementById('recIndicator'), recTimerEl = document.getElementById('recTimer'), transcribingBar = document.getElementById('transcribingBar');
+const focusIndicator = document.getElementById('focusIndicator'), focusLabel = document.getElementById('focusLabel'), focusDot = document.getElementById('focusDot');
+
+const TOTAL_QUESTIONS = 7; qTotal.textContent = TOTAL_QUESTIONS;
+
+// --- NEW: INITIALIZE MEDIAPIPE FACE TRACKER ---
+async function initCameraAnalyzer() {
+    try {
+        while(!window.MediaPipeFaceLandmarker) { await new Promise(r => setTimeout(r, 100)); }
+        const vision = await window.MediaPipeFilesetResolver.forVisionTasks("https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.3/wasm");
+        faceLandmarker = await window.MediaPipeFaceLandmarker.createFromOptions(vision, {
+            baseOptions: { modelAssetPath: "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task", delegate: "GPU" },
+            runningMode: "VIDEO", numFaces: 1
+        });
+        console.log("✅ Face Analyzer Ready");
+    } catch (e) { console.error("Face Analyzer Error:", e); }
+}
+initCameraAnalyzer(); // Start loading in background immediately
+
+// --- NEW: RUN FACE TRACKING LOOP ---
+function detectBodyLanguage() {
+    if (!analyzerActive) return;
+    if (!video.paused && faceLandmarker && video.currentTime > 0) {
+        let startTimeMs = performance.now();
+        if (lastVideoTime !== video.currentTime) {
+            lastVideoTime = video.currentTime;
+            try {
+                const results = faceLandmarker.detectForVideo(video, startTimeMs);
+                if (results.faceLandmarks && results.faceLandmarks.length > 0) {
+                    totalAnalysisFrames++;
+                    const landmarks = results.faceLandmarks[0];
+                    const leftIris = landmarks[468]; // Iris tracking point
+                    
+                    // Check if looking straight (X bounds between 0.4 and 0.6 approx)
+                    if (leftIris.x > 0.40 && leftIris.x < 0.60) {
+                        focusLabel.textContent = "FOCUS: STABLE";
+                        focusLabel.className = "title-font text-xs text-green-400 font-bold tracking-widest";
+                        focusDot.className = "w-2 h-2 rounded-full bg-green-500";
+                        focusedFrames++;
+                    } else {
+                        focusLabel.textContent = "LOOKING AWAY";
+                        focusLabel.className = "title-font text-xs text-red-400 font-bold tracking-widest";
+                        focusDot.className = "w-2 h-2 rounded-full bg-red-500";
+                    }
+                } else {
+                    focusLabel.textContent = "FACE NOT DETECTED";
+                    focusLabel.className = "title-font text-xs text-amber-400 font-bold tracking-widest";
+                    focusDot.className = "w-2 h-2 rounded-full bg-amber-500";
                 }
-            } else {
-                showNextQuestion();
-            }
-        };
+            } catch (e) {}
+        }
+    }
+    requestAnimationFrame(detectBodyLanguage);
+}
 
-        function showNextQuestion() {
-            if (qIndex < questions.length) {
-                questionDisplay.innerText = questions[qIndex];
-                questionDisplay.classList.replace('text-gray-500', 'text-white');
-                qIndex++;
-            } else {
-                questionDisplay.innerText = "Excellent attempt. Review your posture and confidence in the recording. Jai Hind!";
-                mainBtn.innerText = "Finish";
-                mainBtn.classList.replace('bg-blue-600', 'bg-green-600');
-                mainBtn.onclick = () => window.location.href = 'dashboard.html';
+mainBtn.addEventListener('click', async () => { if (!sessionActive) await startSession(); });
+
+async function startSession() {
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: true });
+        video.srcObject = new MediaStream(stream.getVideoTracks());
+        video.classList.remove('hidden'); placeholder.classList.add('hidden'); hudOverlay.classList.remove('hidden'); document.getElementById('camWrapper').classList.add('cam-live');
+        audioStream = stream; sessionActive = true; setStatus('online', 'System Online');
+        progressSection.classList.remove('hidden'); questionCounter.classList.remove('hidden'); transcriptSec.classList.remove('hidden');
+        mainBtn.classList.add('hidden'); submitBtn.classList.remove('hidden'); submitBtn.classList.add('flex'); skipBtn.classList.remove('hidden'); liveScorePanel.style.display = 'block';
+        focusIndicator.classList.remove('hidden'); // Show tracker UI
+        
+        const autoSubmitText = document.createElement('p');
+        autoSubmitText.className = "text-[10px] text-slate-500 text-center w-full mt-1 font-bold tracking-widest uppercase";
+        autoSubmitText.innerText = "Auto-submits after 3s of silence";
+        submitBtn.parentElement.insertBefore(autoSubmitText, skipBtn);
+
+        // Start Trackers
+        startTimer(); 
+        analyzerActive = true; 
+        detectBodyLanguage();
+
+        await sleep(600); await askNextQuestion();
+    } catch (e) { alert('Please allow camera AND microphone access to start the session.'); }
+}
+
+function captureSnapshot() {
+    try { snapCanvas.width = 320; snapCanvas.height = 240; snapCanvas.getContext('2d').drawImage(video, 0, 0, 320, 240); return snapCanvas.toDataURL('image/jpeg', 0.6).split(',')[1]; } catch (e) { return null; }
+}
+
+async function generateQuestion(b64) {
+    const allTopics = ['Personal Background', 'Motivation', 'Leadership', 'Resilience', 'Current Affairs', 'Physical Fitness', 'Teamwork', 'Initiative', 'Decision Making', 'Self Awareness'];
+    const remaining = allTopics.filter(t => !askedTopics.has(t));
+    const fallbackTopic = remaining.length > 0 ? remaining[Math.floor(Math.random() * remaining.length)] : allTopics[0];
+    
+    setAvatarState('listening'); setStatus('analyzing', 'Reading situation…');
+    const topicsUsed = [...askedTopics].join(', ') || 'none';
+    const promptText = `You are Capt. Priya Sharma, A female SSB Interviewing Officer.
+Look at the candidate's face in the image and generate ONE contextual SSB Personal Interview question.
+Rules:
+- Topics already covered: ${topicsUsed}
+- Taking an interview of a male candidate
+- strictly ask specific questions regarding to SSB selection from candidate
+- DO NOT repeat any already-covered topic
+- Question MUST be in conversational Hindi/Hinglish, Avoid extremely 'deep' Hindi words.
+Return ONLY valid JSON: {"topic":"<topic>","text":"<question text>"}`;
+
+    try {
+        const res = await fetch('/api/generate-question', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ b64, promptText }) });
+        if (!res.ok) throw new Error('API failed');
+        const parsed = await res.json(); return { text: parsed.text, topic: parsed.topic };
+    } catch (e) { return { text: 'Aapne baare mein kuch batayein.', topic: fallbackTopic }; }
+}
+
+function speakElevenLabs(text) {
+    return new Promise(async (resolve) => {
+        if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+        setAvatarState('speaking'); document.getElementById('camWrapper').classList.add('cam-speaking'); document.getElementById('camWrapper').classList.remove('cam-live');
+        try {
+            const res = await fetch('/api/speak', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ text, voiceId: EL_VOICES[0] }) });
+            if (!res.ok) throw new Error('TTS Failed');
+            const blob = await res.blob(); currentAudio = new Audio(URL.createObjectURL(blob));
+            await new Promise(r => { currentAudio.onended = r; currentAudio.onerror = r; currentAudio.play().catch(r); });
+        } catch (e) { await speakBrowserFallback(text); }
+        setAvatarState('idle'); document.getElementById('camWrapper').classList.remove('cam-speaking'); document.getElementById('camWrapper').classList.add('cam-live'); resolve();
+    });
+}
+
+function speakBrowserFallback(text) {
+    return new Promise(resolve => {
+        if (!window.speechSynthesis) { resolve(); return; }
+        const u = new SpeechSynthesisUtterance(text); u.lang = 'hi-IN';
+        setAvatarState('speaking'); u.onend = () => { setAvatarState('idle'); resolve(); }; speechSynthesis.speak(u);
+    });
+}
+
+function startRecording() {
+    if (!audioStream) return;
+    audioChunks = []; recSeconds = 0; isRecording = true; isSpeaking = false;
+    mediaRecorder = new MediaRecorder(new MediaStream(audioStream.getAudioTracks()), { mimeType: 'audio/webm' });
+    mediaRecorder.ondataavailable = e => { if (e.data.size > 0) audioChunks.push(e.data); }; mediaRecorder.start(250);
+    
+    recIndicator.classList.remove('hidden'); recIndicator.classList.add('flex');
+    recTimerInt = setInterval(() => { recSeconds++; recTimerEl.textContent = recSeconds + 's'; }, 1000);
+    setAvatarState('listening'); setStatus('listening', 'Listening…'); confLabel.textContent = 'RECORDING';
+    document.getElementById('camWrapper').classList.add('cam-live');
+    submitBtn.disabled = true; setTimeout(() => { if (isRecording) submitBtn.disabled = false; }, 3000);
+
+    // SILENCE DETECTION ENGINE
+    audioContext = new (window.AudioContext || window.webkitAudioContext)();
+    analyser = audioContext.createAnalyser();
+    microphone = audioContext.createMediaStreamSource(audioStream);
+    microphone.connect(analyser);
+    analyser.fftSize = 256;
+    const bufferLength = analyser.frequencyBinCount;
+    const dataArray = new Uint8Array(bufferLength);
+
+    function detectSilence() {
+        if (!isRecording) return;
+        analyser.getByteFrequencyData(dataArray);
+        let sum = 0;
+        for(let i = 0; i < bufferLength; i++) { sum += dataArray[i]; }
+        let average = sum / bufferLength;
+
+        if (average > 15) { 
+            if (silenceTimer) { clearTimeout(silenceTimer); silenceTimer = null; }
+            isSpeaking = true;
+            confLabel.textContent = 'SPEAKING';
+        } else if (isSpeaking) { 
+            if (!silenceTimer) {
+                confLabel.textContent = 'DETECTING SILENCE...';
+                silenceTimer = setTimeout(() => {
+                    if (isRecording) { processAnswer(); }
+                }, 3000); 
             }
         }
-    </script>
+        requestAnimationFrame(detectSilence);
+    }
+    detectSilence();
+}
+
+function stopRecording() {
+    return new Promise(resolve => {
+        if (!mediaRecorder || mediaRecorder.state === 'inactive') { resolve(null); return; }
+        if (audioContext) { audioContext.close(); }
+        if (silenceTimer) { clearTimeout(silenceTimer); }
+        mediaRecorder.onstop = () => { resolve(new Blob(audioChunks, { type: 'audio/webm' })); }; mediaRecorder.stop();
+        isRecording = false; clearInterval(recTimerInt); recIndicator.classList.add('hidden'); recIndicator.classList.remove('flex');
+    });
+}
+
+async function transcribeAudio(audioBlob) {
+    transcribingBar.classList.remove('hidden'); transcribingBar.classList.add('flex');
+    const formData = new FormData(); formData.append('audio', audioBlob);
+    try {
+        const res = await fetch('/api/transcribe', { method: 'POST', body: formData });
+        const data = await res.json(); return data.transcript || '(Could not transcribe — please speak clearly and try again)';
+    } catch (e) { return '(Transcription failed)'; } 
+    finally { transcribingBar.classList.add('hidden'); transcribingBar.classList.remove('flex'); }
+}
+
+async function askNextQuestion() {
+    if (qIndex >= TOTAL_QUESTIONS) { await finishSession(); return; }
+    feedbackCard.classList.add('hidden'); transcriptBox.innerHTML = '<span style="color:#475569">Speak your answer after the question is asked…</span>';
+    confLabel.textContent = 'READY'; submitBtn.disabled = true;
+    const snap = captureSnapshot(); const q = await generateQuestion(snap); currentQ = q; askedTopics.add(q.topic);
+    questionDisplay.textContent = `"${q.text}"`; questionDisplay.classList.add('slide-up'); setTimeout(() => questionDisplay.classList.remove('slide-up'), 400);
+    qNum.textContent = qIndex + 1; updateProgress();
+    await speakElevenLabs(q.text); await sleep(400); startRecording();
+}
+
+submitBtn.addEventListener('click', async () => { if (!isRecording && audioChunks.length === 0) return; await processAnswer(); });
+skipBtn.addEventListener('click', async () => {
+    audioChunks = []; if (mediaRecorder && mediaRecorder.state !== 'inactive') { await stopRecording(); }
+    await processAnswer(true);
+});
+
+async function processAnswer(skipped = false) {
+    if (!isRecording && audioChunks.length === 0 && !skipped) return; 
+    
+    submitBtn.disabled = true; skipBtn.disabled = true; setAvatarState('idle');
+    const audioBlob = skipped ? null : await stopRecording();
+    analyzingOverlay.classList.remove('hidden'); setStatus('analyzing', 'Analyzing…');
+    let transcript = '(No answer provided)'; if (audioBlob && audioBlob.size > 1000) { transcript = await transcribeAudio(audioBlob); }
+    transcriptBox.textContent = transcript;
+    
+    const analysis = await analyzeWithGemini(currentQ.text, currentQ.topic, transcript);
+    analysisResults.push(analysis); sessionData.push({ question: currentQ.text, topic: currentQ.topic, answer: transcript });
+    analyzingOverlay.classList.add('hidden'); submitBtn.disabled = false; skipBtn.disabled = false;
+    showQuestionFeedback(analysis); updateLiveOLQPanel(analysis); qIndex++;
+    
+    if (qIndex < TOTAL_QUESTIONS) {
+        setStatus('online', 'System Online'); const ack = analysis.score >= 8 ? 'Bahut accha jawab diya. Aage chalte hain.' : 'Theek hai. Agla question suniye.';
+        await speakElevenLabs(ack); await sleep(400); await askNextQuestion();
+    } else {
+        await speakElevenLabs('Aapka interview session yahan khatam hua. And aapki Detailed report card taiyaar ho rahi hai. Jai Hind!'); await sleep(600); await finishSession();
+    }
+}
+
+// Quick Analysis per question
+async function analyzeWithGemini(question, topic, answer) {
+    const prompt = `You are Capt. Priya Sharma, an experienced IO at the SSB.
+Question: "${question}" (Topic: ${topic})
+Answer: "${answer}"
+Analyze this answer. Return ONLY JSON: {"score": <1-10>, "olqs_demonstrated": ["1-4 OLQs"], "feedback": "<1-2 sentence quick feedback>"}`;
+    try { const res = await fetch('/api/analyze', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ prompt }) }); if (!res.ok) throw new Error(); return await res.json(); } 
+    catch (e) { return { score: 5, olqs_demonstrated: ['Self-Confidence'], feedback: "Keep pushing. Elaborate more next time." }; }
+}
+
+// DETAILED FINAL REPORT ANALYSIS WITH BODY LANGUAGE
+async function finishSession() {
+    stopTimer(); sessionActive = false; analyzerActive = false; setStatus('complete', 'Session Complete');
+    
+    // Calculate final focus percentage
+    const focusPct = totalAnalysisFrames > 0 ? Math.round((focusedFrames / totalAnalysisFrames) * 100) : 0;
+    
+    const prompt = `You are Capt. Priya Sharma, an expert SSB Interviewing Officer (IO). 
+Analyze the COMPLETE mock interview session provided below for a male B.Tech candidate.
+
+Candidate's Answers:
+${sessionData.map((d, i) => `Q${i+1} [${d.topic}]: "${d.question}"\nAnswer: "${d.answer}"\nQuick Score: ${analysisResults[i]?.score}`).join('\n\n')}
+
+System Data:
+- The candidate maintained visual eye contact and focus for ${focusPct}% of the interview duration.
+
+Return ONLY a valid JSON object strictly following this structure:
+{
+  "overall_score": <1-10>,
+  "verdict": "<Recommended | Borderline | Not Recommended>",
+  "olq_scores": {
+    "Effective Intelligence": <1-10>, "Reasoning Ability": <1-10>, "Organising Ability": <1-10>,
+    "Power of Expression": <1-10>, "Social Adaptability": <1-10>, "Cooperation": <1-10>,
+    "Sense of Responsibility": <1-10>, "Initiative": <1-10>, "Self-Confidence": <1-10>,
+    "Speed of Decision": <1-10>, "Ability to Influence": <1-10>, "Liveliness": <1-10>,
+    "Determination": <1-10>, "Courage": <1-10>, "Stamina": <1-10>
+  },
+  "strengths": ["Detail 3-4 specific strengths based on their answers."],
+  "improvements": ["Detail 3-4 actionable improvements."],
+  "body_language_feedback": "Write 2 sentences evaluating their confidence and posture based purely on their ${focusPct}% eye-contact score.",
+  "final_remarks": "<Write a 4-5 sentence summary summarizing their performance and potential as an officer.>",
+  "detailed_question_feedback": ["<Feedback Q1>", "<Feedback Q2>", "<Feedback Q3>", "<Feedback Q4>", "<Feedback Q5>", "<Feedback Q6>", "<Feedback Q7>"]
+}`;
+
+    try { 
+        const res = await fetch('/api/analyze', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ prompt }) }); 
+        const reportData = await res.json();
+        reportData.calculated_focus_pct = focusPct; // Inject local stat
+        renderReport(reportData); 
+    } 
+    catch (e) { 
+        renderReport({ 
+            overall_score: 6, verdict: "Borderline", calculated_focus_pct: focusPct,
+            body_language_feedback: `Your eye contact score was ${focusPct}%. Strong candidates aim for 85%+ visual focus.`,
+            final_remarks: "We encountered an error generating deep AI analysis. Ensure you use the STAR method in your answers.",
+            detailed_question_feedback: sessionData.map(() => "System could not process deep feedback for this answer.")
+        }); 
+    }
+}
+
+function renderReport(data) {
+    document.getElementById('reportDate').textContent = new Date().toLocaleString('en-IN', { dateStyle: 'full', timeStyle: 'short' }); 
+    document.getElementById('overallScore').textContent = `${data.overall_score || 5}/10`;
+    
+    let verdictColor = '#ef4444'; // Red
+    let vText = data.verdict || 'NOT RECOMMENDED';
+    if(vText.toUpperCase().includes('RECOMMENDED') && !vText.toUpperCase().includes('NOT')) verdictColor = '#10b981'; // Green
+    if(vText.toUpperCase().includes('BORDERLINE')) verdictColor = '#f59e0b'; // Yellow
+    
+    document.getElementById('overallVerdict').innerHTML = `<span style="color:${verdictColor}; font-weight:800; letter-spacing: 0.1em;">${vText.toUpperCase()}</span>`; 
+    document.getElementById('finalRemarks').textContent = data.final_remarks || "Keep practicing your communication skills and structure.";
+
+    // Render Body Language Metrics
+    const fPct = data.calculated_focus_pct || 0;
+    const fColor = fPct >= 80 ? '#10b981' : fPct >= 50 ? '#f59e0b' : '#ef4444';
+    document.getElementById('reportFocusPct').textContent = fPct + '%';
+    document.getElementById('reportFocusPct').style.color = fColor;
+    document.getElementById('reportFocusPct').parentElement.style.borderColor = fColor;
+    document.getElementById('reportFocusBar').style.width = fPct + '%';
+    document.getElementById('reportFocusBar').style.backgroundColor = fColor;
+    document.getElementById('bodyLanguageText').textContent = data.body_language_feedback || "Body language data processing incomplete.";
+
+    // Render OLQs
+    const olqGrid = document.getElementById('olqGrid');
+    olqGrid.innerHTML = '';
+    if (data.olq_scores) {
+        Object.entries(data.olq_scores).forEach(([olq, score]) => {
+            const color = score >= 7 ? '#10b981' : score >= 5 ? '#f59e0b' : '#ef4444';
+            const pct = (score / 10) * 100;
+            olqGrid.innerHTML += `
+            <div class="bg-slate-800/50 rounded-xl p-4 border border-slate-700/50">
+                <div class="flex justify-between items-center mb-2">
+                    <span style="font-family:Rajdhani,sans-serif;font-size:12px;font-weight:600;color:#cbd5e1;text-transform:uppercase;">${olq}</span>
+                    <span style="font-family:Rajdhani,sans-serif;font-size:18px;font-weight:700;color:${color};">${score}/10</span>
+                </div>
+                <div class="h-1.5 bg-slate-900 rounded-full overflow-hidden">
+                    <div style="height:100%;width:${pct}%;background:${color};border-radius:9999px;"></div>
+                </div>
+            </div>`;
+        });
+    }
+
+    // Render Strengths & Improvements
+    document.getElementById('strengthsList').innerHTML = (data.strengths||[]).map(s=>`<li class="flex items-start gap-3"><i class="fas fa-check-circle text-green-500 mt-1"></i><span class="leading-relaxed">${s}</span></li>`).join('');
+    document.getElementById('improvementsList').innerHTML = (data.improvements||[]).map(s=>`<li class="flex items-start gap-3"><i class="fas fa-exclamation-circle text-amber-500 mt-1"></i><span class="leading-relaxed">${s}</span></li>`).join('');
+
+    // Render Detailed Transcript
+    const qs = document.getElementById('questionSummaries');
+    qs.innerHTML = '';
+    sessionData.forEach((d, i) => {
+        const aiDetailedFeedback = data.detailed_question_feedback ? data.detailed_question_feedback[i] : (analysisResults[i]?.feedback || "No feedback generated.");
+        
+        qs.innerHTML += `
+        <div class="bg-slate-800/40 rounded-2xl p-5 border border-slate-700">
+            <div class="flex items-center gap-3 mb-3">
+                <span class="bg-blue-900 text-blue-300 text-xs font-bold px-2 py-1 rounded">Q${i+1}</span>
+                <span class="text-xs text-sky-400 font-bold uppercase tracking-widest">${d.topic}</span>
+            </div>
+            <p class="text-sm md:text-base font-medium text-white mb-4">"${d.question}"</p>
+            
+            <div class="pl-4 border-l-2 border-slate-600 mb-5">
+                <p class="text-xs text-slate-500 uppercase tracking-widest font-bold mb-1">Your Answer</p>
+                <p class="text-sm text-slate-300 italic">"${d.answer}"</p>
+            </div>
+            
+            <div class="bg-blue-900/20 rounded-xl p-4 border border-blue-500/20">
+                <p class="text-xs text-blue-400 uppercase tracking-widest font-bold mb-2 flex items-center"><i class="fas fa-robot mr-2"></i>IO's Deep Analysis</p>
+                <p class="text-sm text-blue-100 leading-relaxed">${aiDetailedFeedback}</p>
+            </div>
+        </div>`;
+    });
+
+    document.getElementById('reportModal').classList.add('show');
+}
+
+function showQuestionFeedback(analysis) {
+    feedbackCard.classList.remove('hidden'); feedbackCard.classList.add('slide-up'); feedbackText.textContent = analysis.feedback || '';
+    qScoreDisplay.innerHTML = `<span style="font-size:28px;font-weight:700;color:#10b981;">${analysis.score || 5}/10</span>`;
+    feedbackOlqs.innerHTML = (analysis.olqs_demonstrated||[]).map(olq=>`<span class="olq-badge">${olq}</span>`).join('');
+}
+function updateLiveOLQPanel(analysis) {
+    (analysis.olqs_demonstrated||[]).forEach(olq => { const el = document.createElement('span'); el.className = 'olq-badge'; el.textContent = olq; olqBadges.appendChild(el); });
+    const scores = analysisResults.map(r => r.score||0).filter(Boolean); if (scores.length) runningScore.textContent = `${(scores.reduce((a,b)=>a+b,0)/scores.length).toFixed(1)}/10`;
+}
+function startTimer() { sessionTimer = setInterval(() => { sessionSeconds++; const m = String(Math.floor(sessionSeconds/60)).padStart(2,'0'); const s = String(sessionSeconds%60).padStart(2,'0'); timerDisplay.textContent = `${m}:${s}`; }, 1000); }
+function stopTimer() { clearInterval(sessionTimer); }
+function updateProgress() { const pct = Math.round((qIndex / TOTAL_QUESTIONS) * 100); progressBar.style.width = pct + '%'; progressLabel.textContent = pct + '%'; }
+function setStatus(state, label) {
+    statusText.textContent = label; headerStatus.textContent = label.toUpperCase();
+    const c = { online:'#10b981', speaking:'#f59e0b', listening:'#38bdf8', analyzing:'#a78bfa', complete:'#10b981', offline:'#64748b' }[state] || '#64748b';
+    statusDot.style.background = c; headerDot.style.background = c; statusText.style.color = c; headerStatus.style.color = c;
+}
+function setAvatarState(state) {
+    avatarRing.className = 'avatar-ring'; waveContainer.style.opacity = '0'; document.querySelectorAll('.wave-bar').forEach(b => b.classList.remove('green', 'paused'));
+    if (state === 'speaking') { avatarRing.classList.add('speaking'); waveContainer.style.opacity = '1'; setStatus('speaking', 'Priya Speaking'); }
+    else if (state === 'listening') { avatarRing.classList.add('listening'); waveContainer.style.opacity = '1'; document.querySelectorAll('.wave-bar').forEach(b => b.classList.add('green')); setStatus('listening', 'Listening…'); }
+    else if (sessionActive) setStatus('online', 'System Online');
+}
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+</script>
 </body>
 </html>
