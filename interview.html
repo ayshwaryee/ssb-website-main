@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>AI Mock Interview - SSB Academy</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Exo+2:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -23,7 +23,7 @@
             --text: #e2e8f0; --muted: #64748b;
         }
         * { box-sizing: border-box; }
-        body { background: var(--navy); color: var(--text); font-family: 'Exo 2', sans-serif; overflow-x: hidden; min-height: 100vh; }
+        body { background: var(--navy); color: var(--text); font-family: 'Exo 2', sans-serif; overflow-x: hidden; min-height: 100dvh; }
         h1, h2, h3, .title-font { font-family: 'Rajdhani', sans-serif; }
         body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(rgba(26, 78, 216, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(26, 78, 216, 0.04) 1px, transparent 1px); background-size: 40px 40px; pointer-events: none; z-index: 0; }
         .z1 { position: relative; z-index: 1; }
@@ -83,9 +83,11 @@
     </div>
 </header>
 
-<main class="z1 max-w-7xl mx-auto px-4 py-6 grid lg:grid-cols-3 gap-6">
+<main class="z1 max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 lg:grid-cols-3 gap-6">
 
-    <div class="lg:col-span-1 flex flex-col gap-4">
+    <!-- Add 'order-2 lg:order-1' to push profile down on mobile -->
+    <div class="lg:col-span-1 flex flex-col gap-4 order-2 lg:order-1">
+        <!-- Profile Panel Content -->
         <div class="glass rounded-2xl p-6 text-center">
             <div class="flex justify-center mb-4">
                 <div class="avatar-ring" id="avatarRing">
@@ -129,7 +131,8 @@
         </div>
     </div>
 
-    <div class="lg:col-span-2 flex flex-col gap-4">
+    
+    <div class="lg:col-span-2 flex flex-col gap-4 order-1 lg:order-2">
         <div class="relative rounded-2xl overflow-hidden" style="aspect-ratio: 16/9; background: #060d1a;" id="camWrapper">
             <video id="userCam" autoplay playsinline muted class="w-full h-full object-cover hidden"></video>
             <canvas id="snapCanvas" style="display:none;"></canvas>
