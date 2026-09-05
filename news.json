@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-03-18T01:51:33.284037+00:00",
+    "last_updated": "2026-09-05T09:51:34.306662+00:00",
     "articles": [
         {
-            "title": "US-Iran war: Dubai, UAE air traffic operations return to normal after temporary closure of country's airspace",
-            "summary": "Air traffic in the United Arab Emirates has resumed normal operations following the lifting of temporary precautionary measures. State news agency WAM reported this development, citing the UAE's General Civil Aviation Authority. This signifies a restoration of regular flight schedules and safety protocols, reassuring passengers and airlines about the region's operational stability after a period of disruption.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/us-iran-war-dubai-uae-air-traffic-operations-return-to-normal-after-temporary-closure-of-countrys-airspace/articleshow/129621870.cms",
+            "title": "Most Earth-imaging satellites orbit a few hundred kilometres up, giving them only minutes over any one location during each pass. EOS-05, launched by ISRO on 4 September 2026, is now climbing towards a geosynchronous orbit roughly 36,000 kilometres above Earth, from where it is designed to keep the same broad region in view and provide near-continuous imagery.",
+            "summary": "On September 4th, India successfully launched a 51.7-meter rocket from Satish Dhawan Space Centre at 2:55 a.m. IST. The mission, completed in 18 minutes, deployed the 2,367-kilogram EOS-03 Earth Observation Satellite. This launch signifies India's continuous advancements in space technology and its commitment to bolstering its Earth observation capabilities, vital for various national applications.",
+            "url": "https://spacedaily.com/t-isro-eos05-geosynchronous-earth-imaging/",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T09:40:02Z"
+        },
+        {
+            "title": "South Korea confirms chip investment talks with US as tariff threat grows",
+            "summary": "The US and South Korea are engaged in key negotiations regarding semiconductor investment. While Seoul secured tariff protection for its chipmakers, Washington insists on more American-based manufacturing. This critical discussion on semiconductor production and supply chain resilience forms a significant part of broader bilateral talks, underscoring the strategic economic and geopolitical importance of chips between the two nations.",
+            "url": "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
             "category": "International",
-            "date": "2026-03-17T01:41:44Z"
+            "date": "2026-09-04T09:28:30Z"
         },
         {
-            "title": "UAE closes airspace as precaution to incoming missile threats from Iran, defence ministry says - BBC",
-            "summary": "This 'fine print' outlines a crucial legal disclaimer concerning online content. It states that user comments are solely the responsibility of their posters, and the platform bears no liability for them. This standard practice protects digital entities from legal repercussions arising from third-party contributions, highlighting the importance of understanding liability in the digital domain for future officers.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181013528",
-            "category": "National",
-            "date": "2026-03-17T01:32:49Z"
+            "title": "Scientists filmed a sperm whale giving birth and watched females from another family line help bring the calf into the world \u2014 then repeatedly lift the newborn to the surface and support it there while it was still too weak and uncoordinated to swim properly on its own",
+            "summary": "On July 8, 2023, an unusual event off Dominica saw eleven sperm whales gather despite blood in the water. This incident is being investigated by Project CETI, an initiative focused on decoding whale communication. Researchers are analyzing this behaviour to understand cetacean social dynamics and develop AI-driven tools for interspecies communication, providing valuable insights into marine science.",
+            "url": "https://spacedaily.com/d-scientists-filmed-a-sperm-whale-giving-birth-and-watched-females-from-another-family-line-help-bring-the-calf-into-the-world-then-repeatedly-lift-the-newborn-to-the-surface-and-support-it-th/",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T09:15:32Z"
         },
         {
-            "title": "Indiana Jones as You Have Never Seen It Before (31 pics)",
-            "summary": "This unique photo diary provides an exclusive behind-the-scenes look into the making of the iconic film \u201cRaiders of the Lost Ark\u201d. It captures candid moments of the cast and crew, showing them interacting, joking around, and meticulously preparing for various camera shots. The diary offers valuable insights into the movie-making process, showcasing the camaraderie and efforts involved in producing the cinematic masterpiece.",
-            "url": "https://izismile.com/2026/03/17/indiana_jones_as_you_have_never_seen_it_31_pics.html",
+            "title": "How Kentucky football coaches have fared in debut, from Bear to Stoops",
+            "summary": "Kentucky head coach Will Stein is set to debut his Wildcats on Saturday, Sept. 5, against Youngstown State. As a first-time head coach, Stein joined the program after serving as an offensive coordinator, marking a new era for the team. This game will be a significant early test for his leadership and coaching strategy, drawing considerable attention in the collegiate sports landscape.",
+            "url": "https://www.courier-journal.com/story/sports/college/kentucky/2026/09/04/kentucky-football-coach-debut-history-will-stein-mark-stoops-bear-bryant/91576003007/",
             "category": "National",
-            "date": "2026-03-16T23:00:15Z"
+            "date": "2026-09-04T09:11:10Z"
+        },
+        {
+            "title": "India launches first ever imaging satellite into geo orbit",
+            "summary": "ISRO successfully deployed India's first imaging satellite into geosynchronous orbit using a GSLV. This significant achievement enhances India's space capabilities for advanced Earth observation, supporting critical applications like disaster management, resource mapping, and strategic surveillance. It underscores India's growing indigenous technological prowess and self-reliance in space exploration, offering enhanced monitoring capabilities.",
+            "url": "https://www.dw.com/en/india-launches-first-ever-imaging-satellite-into-geo-orbit/live-78897037",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T08:22:00Z"
+        },
+        {
+            "title": "India news: ISRO launces first imaging satellite into orbit",
+            "summary": "Indian investigators reported an Air India flight from Phuket to New Delhi last month experienced a sudden altitude drop due to a temporary loss of hydraulic systems. This incident highlights critical aviation safety protocols and maintenance importance for SSB aspirants. Such events underscore the rigorous training and technical expertise required in civil aviation, emphasizing vigilance and rapid response in high-pressure situations.",
+            "url": "https://www.dw.com/en/india-news-isro-launces-first-imaging-satellite-into-orbit/live-78897037",
+            "category": "National",
+            "date": "2026-09-04T08:22:00Z"
+        },
+        {
+            "title": "Russia and India expanding industrial cooperation \u2013 Moscow",
+            "summary": "Russia's Deputy Minister of Industry and Trade, Roman Chekushov, announced Russia's readiness to share high-end technology and enhance industrial cooperation with India. This initiative aims to bolster India's industrial development and self-reliance, reflecting a deepening strategic partnership focused on advanced technology transfer and collaborative manufacturing, vital for national security and economic growth.",
+            "url": "https://www.rt.com/india/645126-russia-india-industrial-cooperation/",
+            "category": "Defence",
+            "date": "2026-09-04T08:02:06Z"
+        },
+        {
+            "title": "Pine martens vanished from England for a century; locals helped bring them back, now 4 kits spotted",
+            "summary": "Pine martens, extinct in England for a century, are showing a promising return thanks to dedicated local conservation efforts. Communities built den boxes and used camera tracking, leading to the recent sighting of four pine marten kits. This successful re-establishment of the native species is a significant milestone, highlighting effective wildlife conservation strategies and community involvement in ecological restoration.",
+            "url": "https://timesofindia.indiatimes.com/science/pine-martens-vanished-from-england-for-a-century-locals-built-den-boxes-and-set-up-cameras-to-track-their-return-now-four-kits-have-been-spotted/articleshow/133755103.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T07:20:44Z"
         }
     ]
 }
