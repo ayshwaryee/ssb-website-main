@@ -24,7 +24,7 @@ router.post('/generate-question', async (req, res) => {
             },
             body: JSON.stringify({
                 model: "openai/gpt-oss-20b", // Fast, free openAi reasoning model
-                reasoning_effort: "low",
+                reasoning_effort: "medium",
                 messages: [{ role: "user", content: promptText }],
                 response_format: { type: "json_object" }
             })
@@ -99,7 +99,7 @@ router.post('/analyze', async (req, res) => {
             },
             body: JSON.stringify({
                 model: "openai/gpt-oss-20b", // Fast, free openAi reasoning model
-                reasoning_effort: "low",
+                reasoning_effort: "medium",
                 messages: [{ role: "user", content: req.body.prompt }],
                 response_format: { type: "json_object" }
             })
