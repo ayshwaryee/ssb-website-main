@@ -24,7 +24,8 @@ app.post('/api/generate-question', async (req, res) => {
                 'Content-Type': 'application/json' 
             },
             body: JSON.stringify({
-                model: "llama-3.3-70b-versatile", // Fast, free Llama 3 model
+                model: "openai/gpt-oss-20b", // Fast, free openAi reasoning model
+                reasoning_effort: "low",
                 messages: [{ role: "user", content: promptText }],
                 response_format: { type: "json_object" } // Forces JSON output
             })
