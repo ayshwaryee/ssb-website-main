@@ -1,0 +1,29 @@
+{
+  "name": "ssb-website-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayshwaryee/ssb-website-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayshwaryee/ssb-website-main/issues"
+  },
+  "homepage": "https://github.com/ayshwaryee/ssb-website-main#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "multer": "^2.3.0",
+    "node-fetch": "^2.7.0",
+    "serverless-http": "^4.0.0"
+  }
+}
