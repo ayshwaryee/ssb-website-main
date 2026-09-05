@@ -6,12 +6,15 @@ const multer = require('multer');
 const serverless = require('serverless-http'); 
 
 const app = express();
+const router = express.Router(); // NEW: Create a router
+
 app.use(cors());
 app.use(express.json({ limit: '50mb' })); 
 const upload = multer({ storage: multer.memoryStorage() }); 
 
 // --- 1. GROQ (Questions) ---
-app.post('/api/generate-question', async (req, res) => {
+// Note: We define routes on the 'router' without the '/api' prefix
+router.post('/generate-question', async (req, res) => {
     const { promptText } = req.body;
     try {
         const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
@@ -21,8 +24,7 @@ app.post('/api/generate-question', async (req, res) => {
                 'Content-Type': 'application/json' 
             },
             body: JSON.stringify({
-                model: "openai/gpt-oss-20b",
-                reasoning_effort: 'low', // Replaced openai/gpt-oss-20b with Mixtral
+                model: "mixtral-8x7b-32768",
                 messages: [{ role: "user", content: promptText }],
                 response_format: { type: "json_object" }
             })
@@ -40,7 +42,7 @@ app.post('/api/generate-question', async (req, res) => {
 });
 
 // --- 2. ELEVENLABS (Speech) ---
-app.post('/api/speak', async (req, res) => {
+router.post('/speak', async (req, res) => {
     const { text, voiceId } = req.body;
     try {
         const response = await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${voiceId}`, {
@@ -62,7 +64,7 @@ app.post('/api/speak', async (req, res) => {
 });
 
 // --- 3. DEEPGRAM (Transcription) ---
-app.post('/api/transcribe', upload.single('audio'), async (req, res) => {
+router.post('/transcribe', upload.single('audio'), async (req, res) => {
     try {
         const response = await fetch('https://api.deepgram.com/v1/listen?model=nova-2&language=hi&detect_language=true', {
             method: 'POST',
@@ -79,7 +81,7 @@ app.post('/api/transcribe', upload.single('audio'), async (req, res) => {
 });
 
 // --- 4. GROQ (Analysis) ---
-app.post('/api/analyze', async (req, res) => {
+router.post('/analyze', async (req, res) => {
     try {
         const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
             method: 'POST',
@@ -88,7 +90,8 @@ app.post('/api/analyze', async (req, res) => {
                 'Content-Type': 'application/json' 
             },
             body: JSON.stringify({
-                model: "llama-3.3-70b-versatile", // Kept exactly as you requested
+                model: "openai/gpt-oss-20b", // Fast, free openAi reasoning model
+                reasoning_effort: "low",
                 messages: [{ role: "user", content: req.body.prompt }],
                 response_format: { type: "json_object" }
             })
@@ -104,6 +107,10 @@ app.post('/api/analyze', async (req, res) => {
         res.json({ score: 5, olqs_demonstrated: ["Initiative"], feedback: "Keep practicing your structure." });
     }
 });
+
+// NEW: Mount the router to both possible base paths so Netlify always catches it
+app.use('/api', router);
+app.use('/.netlify/functions/api', router);
 
 // Export the Express app as a Netlify Serverless Function
 module.exports.handler = serverless(app);
