@@ -1,33 +1,61 @@
 {
-    "last_updated": "2026-09-05T02:35:09.620714+00:00",
+    "last_updated": "2026-09-05T09:51:34.306662+00:00",
     "articles": [
         {
-            "title": "Priority Jewels shares to list today; GMP indicates potential 14% listing gains",
-            "summary": "Priority Jewels' Rs 91.05 crore Initial Public Offering (IPO) is scheduled to debut on the BSE and NSE on September 4, 2026. The public issue garnered an overwhelmingly strong response, being subscribed 100.45 times overall. This significant oversubscription highlights robust investor confidence in the company's market entry.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/priority-jewels-shares-to-list-today-gmp-indicates-potential-14-listing-gains/articleshow/133749744.cms",
-            "category": "National",
-            "date": "2026-09-04T02:30:06Z"
-        },
-        {
-            "title": "Breaking news live updates: ISRO chief V Narayanan says Earth observation satellites are not \u2018spy satellites\u2019, scan India for citizen safety",
-            "summary": "ISRO chief V. Narayanan clarified that Earth observation satellites continuously scan India to bolster citizen safety and security, asserting they should not be termed \"spy satellites.\" These crucial assets provide vital data for national benefit, aiding in various applications beyond mere surveillance, thereby enhancing India's strategic capabilities and ensuring the well-being of its population.",
-            "url": "https://m.economictimes.com/news/newsblogs/isro-eos-05-india-satellite-pm-modi-janmashthami-2026-strait-of-hormuz-iran-us-war-middle-east-ukraine-russia-trump-tariffs-nepal-floods/liveblog/133749695.cms",
+            "title": "Most Earth-imaging satellites orbit a few hundred kilometres up, giving them only minutes over any one location during each pass. EOS-05, launched by ISRO on 4 September 2026, is now climbing towards a geosynchronous orbit roughly 36,000 kilometres above Earth, from where it is designed to keep the same broad region in view and provide near-continuous imagery.",
+            "summary": "On September 4th, India successfully launched a 51.7-meter rocket from Satish Dhawan Space Centre at 2:55 a.m. IST. The mission, completed in 18 minutes, deployed the 2,367-kilogram EOS-03 Earth Observation Satellite. This launch signifies India's continuous advancements in space technology and its commitment to bolstering its Earth observation capabilities, vital for various national applications.",
+            "url": "https://spacedaily.com/t-isro-eos05-geosynchronous-earth-imaging/",
             "category": "Sci & Tech",
-            "date": "2026-09-04T02:18:44Z"
+            "date": "2026-09-04T09:40:02Z"
         },
         {
-            "title": "Civil Aviation Minister welcomes Group Captain Abhinandan Varthaman to civil aviation",
-            "summary": "Group Captain Abhinandan Varthaman (Retd), a celebrated Indian Air Force pilot known for his courage, has transitioned into the civil aviation sector. This move marks a new career chapter for the decorated officer after his distinguished service. His decision was noted by the Civil Aviation Minister, highlighting opportunities for servicemen post-retirement and inspiring future defence aspirants.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/civil-aviation-minister-welcomes-group-captain-abhinandan-varthaman-to-civil-aviation/articleshow/133749583.cms",
-            "category": "National",
-            "date": "2026-09-04T02:08:48Z"
-        },
-        {
-            "title": "Lanterns Viewing Numbers Take Flight: S01E03 Averages 10M First 3 Days",
-            "summary": "HBO's 'Lanterns' series, featuring Aaron Pierre and Kyle Chandler, is reportedly attracting significant viewership, challenging some social media perceptions. This highlights the ongoing popularity of major international streaming content and potential disparities between online discourse and actual audience engagement with global entertainment productions.",
-            "url": "https://bleedingcool.com/tv/lanterns-viewing-numbers-take-flight-s01e03-averages-10m-first-3-days/",
+            "title": "South Korea confirms chip investment talks with US as tariff threat grows",
+            "summary": "The US and South Korea are engaged in key negotiations regarding semiconductor investment. While Seoul secured tariff protection for its chipmakers, Washington insists on more American-based manufacturing. This critical discussion on semiconductor production and supply chain resilience forms a significant part of broader bilateral talks, underscoring the strategic economic and geopolitical importance of chips between the two nations.",
+            "url": "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
             "category": "International",
-            "date": "2026-09-03T18:53:10Z"
+            "date": "2026-09-04T09:28:30Z"
+        },
+        {
+            "title": "Scientists filmed a sperm whale giving birth and watched females from another family line help bring the calf into the world \u2014 then repeatedly lift the newborn to the surface and support it there while it was still too weak and uncoordinated to swim properly on its own",
+            "summary": "On July 8, 2023, an unusual event off Dominica saw eleven sperm whales gather despite blood in the water. This incident is being investigated by Project CETI, an initiative focused on decoding whale communication. Researchers are analyzing this behaviour to understand cetacean social dynamics and develop AI-driven tools for interspecies communication, providing valuable insights into marine science.",
+            "url": "https://spacedaily.com/d-scientists-filmed-a-sperm-whale-giving-birth-and-watched-females-from-another-family-line-help-bring-the-calf-into-the-world-then-repeatedly-lift-the-newborn-to-the-surface-and-support-it-th/",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T09:15:32Z"
+        },
+        {
+            "title": "How Kentucky football coaches have fared in debut, from Bear to Stoops",
+            "summary": "Kentucky head coach Will Stein is set to debut his Wildcats on Saturday, Sept. 5, against Youngstown State. As a first-time head coach, Stein joined the program after serving as an offensive coordinator, marking a new era for the team. This game will be a significant early test for his leadership and coaching strategy, drawing considerable attention in the collegiate sports landscape.",
+            "url": "https://www.courier-journal.com/story/sports/college/kentucky/2026/09/04/kentucky-football-coach-debut-history-will-stein-mark-stoops-bear-bryant/91576003007/",
+            "category": "National",
+            "date": "2026-09-04T09:11:10Z"
+        },
+        {
+            "title": "India launches first ever imaging satellite into geo orbit",
+            "summary": "ISRO successfully deployed India's first imaging satellite into geosynchronous orbit using a GSLV. This significant achievement enhances India's space capabilities for advanced Earth observation, supporting critical applications like disaster management, resource mapping, and strategic surveillance. It underscores India's growing indigenous technological prowess and self-reliance in space exploration, offering enhanced monitoring capabilities.",
+            "url": "https://www.dw.com/en/india-launches-first-ever-imaging-satellite-into-geo-orbit/live-78897037",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T08:22:00Z"
+        },
+        {
+            "title": "India news: ISRO launces first imaging satellite into orbit",
+            "summary": "Indian investigators reported an Air India flight from Phuket to New Delhi last month experienced a sudden altitude drop due to a temporary loss of hydraulic systems. This incident highlights critical aviation safety protocols and maintenance importance for SSB aspirants. Such events underscore the rigorous training and technical expertise required in civil aviation, emphasizing vigilance and rapid response in high-pressure situations.",
+            "url": "https://www.dw.com/en/india-news-isro-launces-first-imaging-satellite-into-orbit/live-78897037",
+            "category": "National",
+            "date": "2026-09-04T08:22:00Z"
+        },
+        {
+            "title": "Russia and India expanding industrial cooperation \u2013 Moscow",
+            "summary": "Russia's Deputy Minister of Industry and Trade, Roman Chekushov, announced Russia's readiness to share high-end technology and enhance industrial cooperation with India. This initiative aims to bolster India's industrial development and self-reliance, reflecting a deepening strategic partnership focused on advanced technology transfer and collaborative manufacturing, vital for national security and economic growth.",
+            "url": "https://www.rt.com/india/645126-russia-india-industrial-cooperation/",
+            "category": "Defence",
+            "date": "2026-09-04T08:02:06Z"
+        },
+        {
+            "title": "Pine martens vanished from England for a century; locals helped bring them back, now 4 kits spotted",
+            "summary": "Pine martens, extinct in England for a century, are showing a promising return thanks to dedicated local conservation efforts. Communities built den boxes and used camera tracking, leading to the recent sighting of four pine marten kits. This successful re-establishment of the native species is a significant milestone, highlighting effective wildlife conservation strategies and community involvement in ecological restoration.",
+            "url": "https://timesofindia.indiatimes.com/science/pine-martens-vanished-from-england-for-a-century-locals-built-den-boxes-and-set-up-cameras-to-track-their-return-now-four-kits-have-been-spotted/articleshow/133755103.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-04T07:20:44Z"
         }
     ]
 }
