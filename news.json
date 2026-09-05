@@ -1,61 +1,54 @@
 {
-    "last_updated": "2026-09-05T14:25:58.227924+00:00",
+    "last_updated": "2026-09-05T19:49:33.170911+00:00",
     "articles": [
         {
-            "title": "Lanterns Fans Respond As HBO Max Shares \"Should\u2019ve Asked John\u2019s Mom To Be The Green Lantern\" Video",
-            "summary": "The article introduces a critical debate regarding John Stewart's parents' actions and motives concerning their son. It questions whether they are loving, dedicated individuals prioritizing his best interests, or if they are selfishly endangering him due to their own personal desires. The text sets up an ethical dilemma exploring their character and the potential impact on their child's well-being.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-fans-respond-as-hbo-max-shares-shouldve-asked-johns-mom-to-be-the-green-lantern-video-a229711",
-            "category": "National",
-            "date": "2026-09-04T14:23:16Z"
-        },
-        {
-            "title": "India harnessing power of its industry for space programmes: Shah on EOS-05 launch",
-            "summary": "Union Home Minister Amit Shah congratulated ISRO scientists for successfully launching India's first imaging satellite into geosynchronous orbit. This significant achievement marks a major advancement in the nation's space technology capabilities, enhancing India's observational prowess. The successful placement of this pioneering satellite is a testament to ISRO's expertise and commitment to national development.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-achieves-milestone-with-eos-05-satellite-launch-into-geosynchronous-orbit/articleshow/133765224.cms",
+            "title": "What\u2019s Next For HBO\u2019s Lanterns?",
+            "summary": "Recent episodes of a popular series have unveiled a significantly darker origin story for the character Green Lantern John Stewart, exceeding initial expectations. Concurrently, prior installments introduced multiple formidable antagonists, known as 'big bads'. This narrative development suggests a complex, evolving storyline with deeper character exploration and emerging threats within the fictional universe.",
+            "url": "http://comicbook.com/tv-shows/feature/whats-next-for-hbos-lanterns/",
             "category": "Sci & Tech",
-            "date": "2026-09-04T14:05:07Z"
+            "date": "2026-09-04T19:37:28Z"
         },
         {
-            "title": "Correction: Holt-Laury as a gumball machine",
-            "summary": "This news details a correction to a scientific paper's citation. The second author's initials were incorrect for 'Holt-Laury as a gumball machine,' published in PLoS ONE. The accurate citation now identifies V\u00e1zquez-De Francisco, MJ as the correct author. This highlights the vital importance of precision in academic referencing and maintaining research integrity.",
-            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357757",
+            "title": "The Irish Times view on hybrid attacks in Europe: a new security order",
+            "summary": "Germany has concluded that Russia was responsible for the drone attack at Leipzig airport last month. This finding confirms suspicions held by some European leaders regarding Russian involvement in such incidents. The attribution highlights escalating geopolitical tensions and the nature of hybrid warfare in Europe, impacting regional security and diplomatic relations.",
+            "url": "https://www.irishtimes.com/opinion/editorials/2026/09/04/the-irish-times-view-on-hybrid-attacks-in-europe-a-new-security-order/",
+            "category": "International",
+            "date": "2026-09-04T19:30:00Z"
+        },
+        {
+            "title": "Vobile Signs Strategic Cooperation and Commercial Agreements with UNN to Build AI Factories in Brunei Darussalam",
+            "summary": "Christopher Phan, Acting CEO of UNN, and Yangbin Wang, CEO of Vobile, Inc., signed agreements at UNN's Tungku Submarine Cable Landing Station. This ceremony marks a new collaboration between the two companies. While specific details are not provided in this excerpt, the location suggests these agreements likely pertain to advancements in telecommunications infrastructure or digital connectivity, impacting future technological developments and services.",
+            "url": "https://www.prnewswire.com/news-releases/vobile-signs-strategic-cooperation-and-commercial-agreements-with-unn-to-build-ai-factories-in-brunei-darussalam-302870397.html",
             "category": "Sci & Tech",
-            "date": "2026-09-04T14:00:00Z"
+            "date": "2026-09-04T19:30:00Z"
         },
         {
-            "title": "LANTERNS Producer Calls the Green Lantern Ring \"Sexist\" and Reveals Some Writers Knew Nothing About the Character",
-            "summary": "The article highlights Hal Jordan, a DCU character, who has become a significant target of criticism since 'Lanterns' premiered. Accusations of racism have been leveled against him, and even his iconic Green Lantern ring is reportedly facing scrutiny. This ongoing controversy underscores the negative reception and narrative challenges surrounding the character within the DC Universe.",
-            "url": "https://geektyrant.com/news/lanterns-producer-calls-the-green-lantern-ring-sexist-and-reveals-some-writers-knew-nothing-about-the-character",
+            "title": "HBO Max Takes Ryan Reynolds At His Word For A Potential Lanterns Cameo",
+            "summary": "Ryan Reynolds' 2011 'Green Lantern' film proved a critical setback for the DC Comics superhero genre, nearly jeopardizing its future. However, Reynolds showcased significant resilience, managing a successful career rebound post-film. The news likely delves into his subsequent journey and achievements in the competitive film industry, highlighting his recovery from an early career misstep.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/hbo-max-takes-ryan-reynolds-at-his-word-for-a-potential-lanterns-cameo-a229721",
+            "category": "International",
+            "date": "2026-09-04T19:07:24Z"
+        },
+        {
+            "title": "Show HN: Squeezed \u2013 Pipe any audio into synced Squeezebox players, no LMS needed",
+            "summary": "Squeezed is a technical application designed to stream raw PCM S16LE audio to Squeezelite and Squeezebox clients using the SlimProto protocol. It supports diverse input methods, including standard input, FIFOs, Unix sockets, and TCP sockets. This software facilitates efficient digital audio distribution over a network to compatible devices, showcasing advancements in audio networking technology, relevant for specialized media setups or home entertainment systems.",
+            "url": "https://github.com/tsirysndr/squeezed",
             "category": "Sci & Tech",
-            "date": "2026-09-04T14:00:00Z"
+            "date": "2026-09-04T19:06:08Z"
         },
         {
-            "title": "In 1974, President Ronald Reagan bought the 688-acre Rancho del Cielo near Santa Barbara; sold 24 years later, it became a California State Landmark in 2002",
-            "summary": "Former US President Ronald Reagan purchased the expansive 688-acre Rancho del Cielo near Santa Barbara in 1974. This significant property, serving as his 'Western White House', was later sold after 24 years. It subsequently transitioned into a California State property, preserving a piece of presidential history and the state's natural heritage.",
-            "url": "https://timesofindia.indiatimes.com/world/us/in-1974-president-ronald-reagan-bought-the-688-acre-rancho-del-cielo-near-santa-barbara-sold-24-years-later-it-became-a-california-state-landmark-in-2002/articleshow/133762350.cms",
-            "category": "National",
-            "date": "2026-09-04T13:24:26Z"
+            "title": "Everyone but Australia reconsiders relationship with America",
+            "summary": "Global politics over the past 18 months has been significantly shaped by concerns regarding the United States' reliability as an alliance partner. This recurring theme highlights doubts about its dependability and the escalating costs associated with maintaining these partnerships. The discourse indicates a substantial re-evaluation of strategic alliances globally, as nations adjust to evolving geopolitical dynamics and assess the future of international security frameworks.",
+            "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
+            "category": "International",
+            "date": "2026-09-04T19:00:00Z"
         },
         {
-            "title": "In 2003, New Jersey opened a 42-foot bridge made from discarded milk jugs and cups; the plastic span can carry a fully loaded 36,000-pound fire truck",
-            "summary": "In 2003, New Jersey unveiled a groundbreaking 42-foot bridge constructed entirely from discarded plastic, specifically milk jugs and cups. This innovative span showcases the incredible potential of recycled materials, demonstrating its robust engineering by successfully supporting a fully loaded 36,000-pound fire truck. It stands as an early example of sustainable infrastructure capable of handling significant loads, merging environmental responsibility with practical application.",
-            "url": "https://timesofindia.indiatimes.com/science/in-2003-new-jersey-opened-a-42-foot-bridge-made-from-discarded-milk-jugs-and-cups-the-plastic-span-can-carry-a-fully-loaded-36000-pound-fire-truck/articleshow/133762409.cms",
-            "category": "Sci & Tech",
-            "date": "2026-09-04T13:22:51Z"
-        },
-        {
-            "title": "Australia eyes space-sector tie-ups in India; 3-5 deals likely next week",
-            "summary": "Australia is actively seeking deeper commercial space cooperation with India, identifying key opportunities in earth observation, satellite manufacturing, launch services, and space biotechnology. This initiative aims to strengthen bilateral ties and leverage each nation's expertise in the rapidly expanding space sector, fostering mutual growth and technological advancement between the two countries.",
-            "url": "https://www.business-standard.com/world-news/australia-eyes-space-sector-tie-ups-in-india-3-5-deals-likely-next-week-126090401129_1.html",
-            "category": "Sci & Tech",
-            "date": "2026-09-04T13:19:36Z"
-        },
-        {
-            "title": "Karnataka CM to lead all-party delegation to PM Modi for farm loan waiver amid drought",
-            "summary": "Karnataka Chief Minister DK Shivakumar announced plans to lead an all-party delegation to Prime Minister Narendra Modi. The delegation aims to seek a waiver for farm loans in Karnataka. This critical step is being taken due to severe drought conditions devastating the state's agricultural sector, highlighting state-centre coordination for farmer relief and disaster management amidst economic distress.",
-            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-cm-leads-all-party-delegation-to-pm-modi-for-urgent-farm-loan-waiver-amid-severe-drought-crisis/articleshow/133762282.cms",
-            "category": "National",
-            "date": "2026-09-04T12:19:59Z"
+            "title": "India-Japan \u2018Veer Guardian 26\u2019 to bring Japanese F-2A fighters to Jodhpur for the first time",
+            "summary": "The Indian Air Force (IAF) is set to conduct an intense bilateral air-combat exercise with Japan in western Rajasthan. This marks the second edition of the joint drill, designed to enhance interoperability, tactical skills, and strategic cooperation between the two air forces. For SSB aspirants, understanding such exercises is crucial for appreciating India's defence readiness, regional security dynamics, and international military partnerships.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/india-japan-veer-guardian-26-to-bring-japanese-f-2a-fighters-to-jodhpur-for-the-first-time/articleshow/133768500.cms",
+            "category": "Defence",
+            "date": "2026-09-04T15:38:12Z"
         }
     ]
 }
