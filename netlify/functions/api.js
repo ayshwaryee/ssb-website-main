@@ -6,14 +6,13 @@ const multer = require('multer');
 const serverless = require('serverless-http'); 
 
 const app = express();
-const router = express.Router(); // NEW: Create a router
+const router = express.Router(); 
 
 app.use(cors());
 app.use(express.json({ limit: '50mb' })); 
 const upload = multer({ storage: multer.memoryStorage() }); 
 
 // --- 1. GROQ (Questions) ---
-// Note: We define routes on the 'router' without the '/api' prefix
 router.post('/generate-question', async (req, res) => {
     const { promptText } = req.body;
     try {
@@ -37,11 +36,12 @@ router.post('/generate-question', async (req, res) => {
         res.json(JSON.parse(content));
     } catch (error) {
         console.error('\n❌ Groq Question Error:', error.message);
+        // Fallback question if Groq API fails or key is missing
         res.json({ topic: "Resilience", text: "Apni zindagi ke ek mushkil daur ke baare mein batayein." });
     }
 });
 
-// --- 2. ELEVENLABS (Speech) ---
+// --- 2. ELEVENLABS (Speech - SERVERLESS BUFFER FIX) ---
 router.post('/speak', async (req, res) => {
     const { text, voiceId } = req.body;
     try {
@@ -54,9 +54,16 @@ router.post('/speak', async (req, res) => {
             },
             body: JSON.stringify({ text, model_id: 'eleven_multilingual_v2', language_code: 'hi' })
         });
-        if (!response.ok) throw new Error('ElevenLabs API failed');
+        
+        if (!response.ok) throw new Error(`ElevenLabs API failed: ${response.statusText}`);
+        
+        // Netlify Serverless functions cannot stream directly. 
+        // We must buffer the audio into memory and send it as a complete binary chunk.
+        const arrayBuffer = await response.arrayBuffer();
+        const buffer = Buffer.from(arrayBuffer);
+        
         res.setHeader('Content-Type', 'audio/mpeg');
-        response.body.pipe(res); 
+        res.send(buffer); 
     } catch (error) {
         console.error('\n❌ ElevenLabs Error:', error.message);
         res.status(500).json({ error: 'Failed to generate speech' });
@@ -108,9 +115,13 @@ router.post('/analyze', async (req, res) => {
     }
 });
 
-// NEW: Mount the router to both possible base paths so Netlify always catches it
+// Mount the router to both possible base paths so Netlify always catches it
 app.use('/api', router);
 app.use('/.netlify/functions/api', router);
+app.use('/', router);
 
 // Export the Express app as a Netlify Serverless Function
-module.exports.handler = serverless(app);
+// CRUCIAL: Added binary configuration to allow audio files to pass through the function
+module.exports.handler = serverless(app, {
+    binary: ['audio/mpeg', 'audio/webm', 'audio/ogg', 'audio/*']
+});
