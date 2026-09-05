@@ -23,7 +23,8 @@ router.post('/generate-question', async (req, res) => {
                 'Content-Type': 'application/json' 
             },
             body: JSON.stringify({
-                model: "mixtral-8x7b-32768",
+                model: "openai/gpt-oss-20b", // Fast, free openAi reasoning model
+                reasoning_effort: "low",
                 messages: [{ role: "user", content: promptText }],
                 response_format: { type: "json_object" }
             })
