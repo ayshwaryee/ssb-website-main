@@ -1,26 +1,68 @@
 {
-    "last_updated": "2026-09-07T02:29:20.616293+00:00",
+    "last_updated": "2026-09-07T11:23:25.575087+00:00",
     "articles": [
         {
-            "title": "24_Thi_VA_malabar cancer centre",
-            "summary": "The provided text consists solely of website boilerplate information, including social media prompts, copyright details for Bennett, Coleman & Co. Ltd. (\u00a9 2026), and Times Syndication Service contacts for reprint rights. This content is not a news article and offers no substantive current affairs for an SSB aspirant to analyze or discuss, highlighting the importance of discerning actual news reports.",
-            "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/24_thi_va_malabar-cancer-centre/articleshow/133821686.cms",
+            "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+            "summary": "The Indian stock market closed in the green on Friday, with Sensex and Nifty showing positive gains. However, both indices significantly erased most of their intraday advances, settling near their day's lowest points after the closing auction session. This suggests a day of considerable volatility despite the overall positive market close.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133834844.cms",
             "category": "National",
-            "date": "2026-09-06T01:14:52Z"
+            "date": "2026-09-06T11:05:16Z"
         },
         {
-            "title": "Focus on fair practices & social responsibility",
-            "summary": "This section outlines a platform's robust user engagement features for news articles, encouraging readers to actively share opinions and react using diverse tags such as 'Insightful,' 'Promising,' or 'Big Development.' It emphasizes respectful discourse and adherence to community guidelines, fostering a structured environment for public discussion on various topics.",
-            "url": "https://timesofindia.indiatimes.com/india/focus-on-fair-practices-social-responsibility/articleshow/133819312.cms",
+            "title": "In 1888, Wisconsin publisher and women\u2019s-rights pioneer Lisle Lester died penniless in New York; her ashes went unclaimed for 138 years and are finally returning home to Fond du Lac",
+            "summary": "Lisle Lester, a Wisconsin publisher and pioneer for women's rights, died penniless in New York in 1888. Her ashes remarkably remained unclaimed for an astounding 138 years after her death. This historical note sheds light on the life of a significant, yet long-overlooked, figure in American social history.",
+            "url": "https://timesofindia.indiatimes.com/world/us/in-1888-wisconsin-publisher-and-womens-rights-pioneer-lisle-lester-died-penniless-in-new-york-her-ashes-went-unclaimed-for-138-years-and-are-finally-returning-home-to-fond-du-lac/articleshow/133833661.cms",
+            "category": "National",
+            "date": "2026-09-06T10:54:38Z"
+        },
+        {
+            "title": "Japan\u2019s Strategic Turn",
+            "summary": "The article's introduction reflects on Japan's standing three decades ago, a period immediately following the Cold War's end and before China's significant global ascent. It notes Japan had already moved past its 'Number One' economic peak, as highlighted by Ezra Vogel's 1979 work. This historical context likely sets the stage for a detailed analysis of Japan's subsequent geopolitical and economic trajectory in the evolving world order.",
+            "url": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
+            "category": "International",
+            "date": "2026-09-06T10:00:00Z"
+        },
+        {
+            "title": "opbdh 1.8.0",
+            "summary": "The provided text is an error message indicating a website component failed to load, potentially due to browser extensions, network issues, or browser settings. Users encountering this are advised to check their internet connection, disable any ad blockers, or attempt using a different web browser to resolve the technical problem and access the full site content.",
+            "url": "https://pypi.org/project/opbdh/1.8.0/",
             "category": "Sci & Tech",
-            "date": "2026-09-05T23:11:35Z"
+            "date": "2026-09-06T09:50:13Z"
         },
         {
-            "title": "Will Stein's offense off to historic start in Kentucky football debut",
-            "summary": "Will Stein made a significant impression in his debut as Kentucky's football coach. His team achieved a strong offensive start in Game 1, exceeding the 30-point mark by the third quarter, primarily due to a touchdown reception by Prince Jean. This initial performance signifies a promising start under Coach Stein's leadership for the UK football program.",
-            "url": "https://www.courier-journal.com/story/sports/college/kentucky/2026/09/05/will-stein-debut-makes-kentucky-football-history/91632495007/",
+            "title": "ISRO staff bodies seek clarification on trajectory of privatisation",
+            "summary": "Nine ISRO employee associations have written to Chairperson V Narayanan, seeking official clarification on a proposed internal transfer within the space agency. This collective action highlights employee concerns regarding organizational changes and internal governance at India's premier space research body. Aspirants should note such internal dynamics within key national institutions.",
+            "url": "https://www.thehindubusinessline.com/news/isro-staff-bodies-seek-clarification-on-trajectory-of-privatisation/article71434659.ece",
+            "category": "Sci & Tech",
+            "date": "2026-09-06T09:01:55Z"
+        },
+        {
+            "title": "Yankees news: Aaron Judge continues to get closer to return",
+            "summary": "The New York Yankees are poised for the potential return of their Captain, lauded as the world's greatest hitter. After a challenging season marked by his absence, this highly anticipated comeback could significantly bolster the team's performance. His rejoining the squad is expected to inject crucial strength and leadership, potentially changing their fortunes.",
+            "url": "https://www.pinstripealley.com/yankees-news/206188/yankees-news-aaron-judge-injury-rehab-jasson-dominguez-anthony-volpe-trent-grisham-il-franchise-value",
             "category": "National",
-            "date": "2026-09-05T19:11:25Z"
+            "date": "2026-09-06T09:00:00Z"
+        },
+        {
+            "title": "Quebec Votes 2026: Here's who's running in your Outaouais riding",
+            "summary": "West Quebecers are poised to elect new representatives to their National Assembly on October 5th, with at least two fresh faces expected. The previous legislature saw Coalition Avenir Qu\u00e9bec hold four of the region's five seats before its dissolution. This provincial election in Quebec, Canada, marks a significant political event, determining local governance and the legislative body's future composition.",
+            "url": "https://www.cbc.ca/news/canada/ottawa/west-quebec-outaouais-voters-9.7330938",
+            "category": "International",
+            "date": "2026-09-06T08:00:00Z"
+        },
+        {
+            "title": "EOS-05 satellite completes orbit manoeuvre en route to GEO",
+            "summary": "ISRO's Earth Observation Satellite EOS-05 successfully completed a crucial orbit manoeuvre, progressing towards its Geosynchronous Orbit. This achievement underscores India's significant advancements in space technology and satellite deployment. Such missions are vital for national applications like resource mapping, disaster monitoring, and strategic surveillance, reinforcing India's self-reliance and technological prowess in space.",
+            "url": "https://www.thehindubusinessline.com/news/science/eos-05-satellite-completes-orbit-manoeuvre-en-route-to-geo/article71434723.ece",
+            "category": "Sci & Tech",
+            "date": "2026-09-06T07:27:21Z"
+        },
+        {
+            "title": "From policy paralysis to policy dynamism, India has come a long way: PM Modi at SRCC after 13 years",
+            "summary": "Prime Minister Narendra Modi stated that India has transitioned from \"policy paralysis\" in 2013, when it was part of the 'fragile 5' economies, to present \"policy dynamism.\" He criticized those responsible for pushing the nation into that challenging economic state. This highlights the government's focus on national economic progress and governance reforms.",
+            "url": "https://www.thehindubusinessline.com/news/from-policy-paralysis-to-policy-dynamism-india-has-come-a-long-way-pm-modi-at-srcc-after-13-years/article71434494.ece",
+            "category": "National",
+            "date": "2026-09-06T06:12:42Z"
         }
     ]
 }
