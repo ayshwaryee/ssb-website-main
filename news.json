@@ -1,19 +1,89 @@
 {
-    "last_updated": "2026-09-08T02:42:40.797822+00:00",
+    "last_updated": "2026-09-08T10:27:57.407836+00:00",
     "articles": [
         {
-            "title": "\u2018Lanterns\u2019 Episode 4 Easter Eggs You Missed",
-            "summary": "This post details spoilers for 'Lanterns Episode 4', contrasting it with the previous week's flashback-focused installment. It delves into the latest narrative developments and plot revelations of the superhero series. Readers are warned about significant spoilers regarding the episode's storyline and character arcs, impacting their viewing experience of this fictional show.",
-            "url": "https://screencrush.com/lanterns-episode-4-breakdown/",
-            "category": "Sci & Tech",
-            "date": "2026-09-07T02:38:58Z"
+            "title": "As US Plays War Games, North Korea Flexes Its Muscle",
+            "summary": "North Korean leader Kim Jong Un commissioned a second naval destroyer and urged building a more reliable nuclear deterrent. Amidst heightened tensions with the United States and South Korea, this move underscores Pyongyang's continuous military modernization efforts. It reflects North Korea's strategic intent to bolster its defence capabilities and strengthen its regional position, significantly impacting Korean Peninsula security dynamics.",
+            "url": "https://www.newser.com/story/396004/as-us-plays-war-games-north-korea-flexes-its-muscle.html",
+            "category": "International",
+            "date": "2026-09-07T10:01:00Z"
         },
         {
-            "title": "Lanterns Episode 4 Review: Hard Traveling Heroes",
-            "summary": "In a narrative segment, Zoe's car is dramatically destroyed by a satellite. Characters John and Hal subsequently utilize Kerry's significant computer hacking expertise to trace the advanced machinery responsible for the attack. Their investigation leads them to a figure identified as Hector Hammond, suggesting a plot involving sophisticated technology and digital espionage.",
-            "url": "http://www.denofgeek.com/tv/lanterns-episode-4-review/",
+            "title": "Why Systematix is bullish on Apollo Micro Systems after 47% YTD rally; check target price",
+            "summary": "Systematix Institutional Equities initiated coverage on Apollo Micro Systems with a 'Buy' rating, setting a target price of Rs 570. This financial assessment suggests a potential stock appreciation of about 40%. Such market analyses provide insight into India's corporate sector, offering valuable context for understanding national economic trends and the investment landscape relevant to various strategic industries.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-systematix-is-bullish-on-apollo-micro-systems-after-47-ytd-rally-check-target-price/articleshow/133874090.cms",
+            "category": "National",
+            "date": "2026-09-07T09:29:44Z"
+        },
+        {
+            "title": "Kentucky vs Alabama storylines, players to watch in SEC opener",
+            "summary": "Kentucky football commenced its 2026 season with an impressive 45-13 victory over Youngstown State at Kroger Field. This debut performance under coach Will Stein saw Kentucky dominate their opponents, signaling a strong start to the season. The win established a positive momentum, showcasing the team's capabilities for upcoming challenges.",
+            "url": "https://www.courier-journal.com/story/sports/college/kentucky/2026/09/07/kentucky-alabama-storylines-players-watch-tv-info/91542024007/",
+            "category": "National",
+            "date": "2026-09-07T09:10:58Z"
+        },
+        {
+            "title": "xsdkit added to PyPI",
+            "summary": "This news highlights a new software development tool: a generic XSD reader. Developed in Rust and Python, it parses W3C XML Schemas into a queryable component model. This facilitates easier management and programmatic access to complex data structures for developers. Currently in an early development stage, it provides comprehensive documentation and API references for aspiring coders.",
+            "url": "https://pypi.org/project/xsdkit/",
             "category": "Sci & Tech",
-            "date": "2026-09-07T02:00:00Z"
+            "date": "2026-09-07T08:54:01Z"
+        },
+        {
+            "title": "Satya Niketan building collapse: Owner Hariram apprehended in Bhiwadi after 7 killed in Delhi",
+            "summary": "Hariram, the owner of the building that collapsed in Delhi's Satya Niketan, has been apprehended from Bhiwadi in Rajasthan. His arrest followed an extensive multi-state manhunt involving ten police teams. This significant development underscores authorities' commitment to ensuring accountability for structural failures and tragic incidents, offering a crucial update on the building collapse investigation.",
+            "url": "https://economictimes.indiatimes.com/news/india/satya-niketan-building-collapse-owner-apprehended-in-bhiwadi-after-7-killed-in-delhi/articleshow/133872326.cms",
+            "category": "National",
+            "date": "2026-09-07T08:47:31Z"
+        },
+        {
+            "title": "Navy invests in its most important asset",
+            "summary": "The Royal Australian Navy is prioritizing investment in its personnel, recognizing them as its most vital asset. HMAS Kuttabul recently hosted a week-long event in Sydney, emphasizing the Navy's commitment to strengthening its workforce. This initiative underscores a strategic focus on human capital development to enhance operational readiness and future capabilities within the Australian Defence Force, ensuring a well-trained and supported naval contingent.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260907-au-navy01.htm",
+            "category": "Defence",
+            "date": "2026-09-07T08:39:12Z"
+        },
+        {
+            "title": "Billionaire Adani\u2019s firm to make ammo for Indian-made Kalashnikovs",
+            "summary": "Gautam Adani's defence firm has partnered with Indo-Russian Rifles Private Limited (IRRPL) to supply indigenously manufactured ammunition for AK-203 assault rifles. This significant agreement boosts India's self-reliance in defence production, supporting the 'Make in India' initiative and enhancing the capabilities of the Indian Armed Forces through local sourcing of critical components.",
+            "url": "https://www.rt.com/india/645205-adani-defence-ak203-ammunition/",
+            "category": "Defence",
+            "date": "2026-09-07T08:21:49Z"
+        },
+        {
+            "title": "Africa's digital edge: Building EU-Africa digital cooperation",
+            "summary": "Africa's digital transformation is a strategic priority for governments across the continent and the European Union. This initiative aims to leverage technology for development, with a notable increase in internet usage observed between 2019 and 2024. The strategic importance underscores collaborative efforts to bridge the digital divide and foster socio-economic growth in the region through enhanced connectivity.",
+            "url": "https://www.iss.europa.eu/publications/briefs/africas-digital-edge-building-eu-africa-digital-cooperation",
+            "category": "International",
+            "date": "2026-09-07T08:05:53Z"
+        },
+        {
+            "title": "Isro's private-sector push: How close is India's space model to Nasa's?",
+            "summary": "ISRO is significantly expanding private sector participation, while retaining core responsibilities like R&D and strategic missions. This approach, potentially mirroring NASA's model, aims to accelerate India's space sector growth, leveraging private innovation for enhanced capabilities and economic benefits. This strategic shift will boost national self-reliance and technological advancement in space, vital for India's future development and global standing.",
+            "url": "https://www.business-standard.com/industry/news/isro-s-private-sector-push-how-close-is-india-s-space-model-to-nasa-s-126090700499_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-09-07T07:46:50Z"
+        },
+        {
+            "title": "Philippines' Teodoro says China could exploit cuts in US-South Korean exercises",
+            "summary": "The Philippine Defense Secretary warns that recent reductions in U.S.-South Korean military exercises might empower China to assert its influence further in the Indo-Pacific. This creates a strategic void, potentially leading to increased geopolitical tensions and shifts in regional power dynamics. SSB aspirants should note the implications for regional security and balancing power.",
+            "url": "https://www.yahoo.com/news/articles/philippines-teodoro-says-china-could-032550219.html",
+            "category": "Defence",
+            "date": "2026-09-07T07:32:42Z"
+        },
+        {
+            "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
+            "summary": "Israeli warplanes struck Syria's Abu al-Duhur airbase on August 18, 2026, marking a significant shift in Middle East geopolitics. This direct action by Israel is seen as challenging established regional assumptions, potentially indicating a new, more assertive Israeli strategic approach. The incident highlights evolving security dynamics in the volatile region.",
+            "url": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
+            "category": "International",
+            "date": "2026-09-07T07:30:31Z"
+        },
+        {
+            "title": "Delhi HC agrees to hear on Monday Hindutva influencer Swatantra Bhardwaj's plea against arrest",
+            "summary": "The Delhi High Court has agreed to grant an urgent hearing on a plea by Hindutva influencer Swatantra Bhardwaj, challenging his arrest. Bhardwaj's arrest is linked to an alleged assault case involving the father of an individual. This development underscores the legal proceedings surrounding public figures and alleged criminal incidents, which aspiring officers should be aware of as part of national current affairs.",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-hc-agrees-to-hear-on-monday-hindutva-influencer-swatantra-bhardwajs-plea-against-arrest/articleshow/133867793.cms",
+            "category": "National",
+            "date": "2026-09-07T06:42:21Z"
         }
     ]
 }
