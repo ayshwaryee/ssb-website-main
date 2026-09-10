@@ -1,68 +1,47 @@
 {
-    "last_updated": "2026-09-10T15:42:51.662039+00:00",
+    "last_updated": "2026-09-10T20:20:46.206990+00:00",
     "articles": [
         {
-            "title": "Gaganyaan delays should be taken with 'pinch of salt': Astronaut Angad Pratap",
-            "summary": "Group Captain Angad Pratap, a Gaganyaan mission astronaut, acknowledged that delays are intrinsic to developing complex human spaceflight programmes. He stressed that such challenges are crucial for meticulous planning and execution, especially for India's ambitious Gaganyaan mission. This highlights the rigorous process ensuring utmost safety and success for the nation's indigenous human spaceflight endeavour.",
-            "url": "https://economictimes.indiatimes.com/news/science/gaganyaan-delays-should-be-taken-with-pinch-of-salt-astronaut-angad-pratap/articleshow/133974680.cms",
+            "title": "Factoring RSA 260",
+            "summary": "The Cognition research team is optimizing their job scheduler to enhance the use of disaggregated compute resources. As a proof of concept, they are utilizing number factoring. This initiative aims to improve computational efficiency and resource management, reflecting advancements in high-performance computing and strategic system optimization within their research framework. Such efforts are crucial for boosting processing power and overall system performance.",
+            "url": "https://cognition.com/blog/factoring-rsa-260",
             "category": "Sci & Tech",
-            "date": "2026-09-09T15:24:37Z"
+            "date": "2026-09-09T20:16:08Z"
         },
         {
-            "title": "nspect added to PyPI",
-            "summary": "A new Rust-based Command Line Interface (CLI) tool has been developed to deeply analyze C# projects and solutions. It provides crucial insights into dependency graphs, package references, and potential version conflicts. Furthermore, it calculates vital structural metrics such as Lines of Code and cyclomatic complexity, helping C# developers manage and understand complex software projects more effectively.",
-            "url": "https://pypi.org/project/nspect/",
-            "category": "Sci & Tech",
-            "date": "2026-09-09T15:23:07Z"
-        },
-        {
-            "title": "No relief for woman running NGO in illegal adoption case",
-            "summary": "Recent international news includes British actor Noel Clarke being charged with sex offences, including voyeurism, against five women, with a court date now set. Separately, Norway is bidding farewell to King Harald V. High-profile attendees from the British Royal Family, including Prince William and Princess Anne, have joined the commemorative event, highlighting ongoing royal engagements.",
-            "url": "https://timesofindia.indiatimes.com/city/mumbai/no-relief-for-woman-running-ngo-in-illegal-adoption-case/articleshow/133974619.cms",
+            "title": "Pune\u2019s Katraj-Kondhwa Road has seen 50+ accidents, over 20 deaths in 5 years",
+            "summary": "The provided article snippet begins with promotional content for Haryanvi music videos 'Her Aura' and 'In Love With Her' by Vibhor Singh and SickMoney. It then abruptly truncates, indicating the main news content is a much longer piece discussing 'China's Not\u2026'. This suggests the actual article pertains to a significant development or analysis concerning China's actions or policies.",
+            "url": "https://timesofindia.indiatimes.com/city/pune/punes-katraj-kondhwa-road-has-seen-50-accidents-over-20-deaths-in-5-years/articleshow/133983223.cms",
             "category": "International",
-            "date": "2026-09-09T15:21:54Z"
+            "date": "2026-09-09T20:05:08Z"
         },
         {
-            "title": "Skidding Pacts: An AUKUS Delusion Update",
-            "summary": "This article critically examines the pervasive ecosystem of graft, favours, and corruption within the defence sector. It highlights specific ethical challenges in defence contracting and conferencing, where integrity is often compromised. For SSB aspirants, understanding these systemic issues is crucial, emphasizing the vital importance of transparency and ethical leadership in navigating the complex defence environment.",
-            "url": "https://www.globalresearch.ca/aukus-delusion-update/5939704",
-            "category": "Defence",
-            "date": "2026-09-09T15:17:32Z"
-        },
-        {
-            "title": "I Think This Major Lanterns Character Has Been A Fake The Whole Time, And It Changes Everything",
-            "summary": "The mystery series 'Lanterns' continues to challenge fan predictions with its plot reveals. Episode 4 delivered a significant revelation concerning 'the identity of the...', adding another layer to the show's intricate narrative. Viewers have noted that the unfolding story has consistently defied expectations, keeping the audience engaged with its unpredictable twists.",
-            "url": "http://comicbook.com/dc/feature/i-think-this-major-lanterns-character-has-been-a-fake-the-whole-time-and-it-changes-everything/",
-            "category": "Sci & Tech",
-            "date": "2026-09-09T15:00:00Z"
-        },
-        {
-            "title": "15-year-old drowns at Lalpathar waterfall in Jharsuguda",
-            "summary": "Congress leader Rahul Gandhi has demanded the resignation of an Aam Aadmi Party (AAP) finance minister in Punjab, following the suicide of Gulzar Singh. Addressing Dalits in the state, Gandhi urged them to remain vigilant, implying broader systemic issues. This incident underscores significant political scrutiny and calls for accountability within the state government, a key development for national political observers.",
-            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/15-year-old-drowns-at-lalpathar-waterfall-in-jharsuguda/articleshow/133973928.cms",
+            "title": "Students to take daily anti-drug pledge in UP",
+            "summary": "The article promotes new Haryanvi music videos, 'Her Aura' and 'In Love With Her,' by Vibhor Singh and SickMoney, urging social media engagement. It also abruptly mentions 'China,' suggesting a potential national or international context. The visible content primarily highlights cultural entertainment.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/students-to-take-daily-anti-drug-pledge-in-up/articleshow/133983201.cms",
             "category": "National",
-            "date": "2026-09-09T14:59:23Z"
+            "date": "2026-09-09T20:04:07Z"
         },
         {
-            "title": "Now women lifeguards to keep track of tourists",
-            "summary": "Rahul Gandhi has publicly demanded the resignation of an Aam Aadmi Party (AAP) finance minister following the suicide of Gulzar Singh. Addressing Dalits in Punjab, Gandhi urged them to remain vigilant amidst the incident. This political development highlights growing tensions and accountability demands within the state's political landscape, focusing on the welfare and protection of vulnerable communities.",
-            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/now-women-lifeguards-to-keep-track-of-tourists/articleshow/133973918.cms",
-            "category": "National",
-            "date": "2026-09-09T14:58:47Z"
+            "title": "100 questions, CCTV evidence crack accused\u2019s silence in property dealer\u2019s murder",
+            "summary": "The article indicates a significant discussion on China, a vital subject for SSB aspirants tracking international relations and global security. While details of 'China's Not\u2026' policies or actions are largely truncated, hinting at important geopolitical analysis, the text also briefly mentions new Haryanvi music videos like 'Her Aura' and 'In Love With Her'.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/100-questions-cctv-evidence-crack-accuseds-silence-in-property-dealers-murder/articleshow/133983185.cms",
+            "category": "International",
+            "date": "2026-09-09T20:03:07Z"
         },
         {
-            "title": "62 dismissed, but Haryana sanitation workers extend strike",
-            "summary": "Congress leader Rahul Gandhi has urged Dalits in Punjab to remain vigilant, demanding the resignation of the Aam Aadmi Party's finance minister. This demand stems from the suicide of Gulzar Singh. The incident highlights political tensions and concerns within Punjab, bringing national attention to the state's governance and socio-political landscape, underscoring the importance of accountability in public office.",
-            "url": "https://timesofindia.indiatimes.com/city/chandigarh/62-dismissed-but-haryana-sanitation-workers-extend-strike/articleshow/133973884.cms",
-            "category": "National",
-            "date": "2026-09-09T14:57:46Z"
+            "title": "Don\u2019t have special powers to work 24x7, says Kashi cops, resigns",
+            "summary": "The article primarily promotes new Haryanvi music videos by Vibhor Singh and SickMoney. However, it abruptly concludes with an incomplete phrase, 'Chinas Not\u2026', strongly indicating the intended news report focused on China. Though specific details are missing due to truncation, this fragment suggests content related to China's policies or international affairs, a critical area for SSB aspirants to understand.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/dont-have-special-powers-to-work-24x7-says-kashi-cops-resigns/articleshow/133983169.cms",
+            "category": "International",
+            "date": "2026-09-09T20:02:17Z"
         },
         {
-            "title": "Ranchi University awards medals to toppers at 39th convocation",
-            "summary": "Rahul Gandhi has demanded the resignation of Punjab's Aam Aadmi Party (AAP) finance minister following the suicide of Gulzar Singh. Addressing the issue, Gandhi urged the Dalit community in Punjab to remain vigilant, emphasizing the seriousness of the incident. This political development highlights ongoing concerns regarding community welfare and political accountability within the state.",
-            "url": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-university-awards-medals-to-toppers-at-39th-convocation/articleshow/133973796.cms",
-            "category": "National",
-            "date": "2026-09-09T14:55:19Z"
+            "title": "Nursery admissions turn into \u2018UPSC exams for parents\u2019",
+            "summary": "An incomplete article fragment hints at a news development concerning China, possibly detailing its diplomatic stance or a specific ongoing situation. However, the full content is unavailable, making a comprehensive summary for SSB aspirants on specific implications or events currently not feasible.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/nursery-admissions-turn-into-upsc-exams-for-parents/articleshow/133983110.cms",
+            "category": "International",
+            "date": "2026-09-09T20:00:19Z"
         }
     ]
 }
