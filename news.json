@@ -1,40 +1,68 @@
 {
-    "last_updated": "2026-09-10T02:44:44.954109+00:00",
+    "last_updated": "2026-09-10T10:26:19.775371+00:00",
     "articles": [
         {
-            "title": "HAL, Divis Labs among 3 stocks MOFSL's Chandan Taparia is bullish on",
-            "summary": "A market analysis indicates potential Nifty weakness towards 23,500 if it remains below 23,700, with resistance levels noted at 23,800 and 23,900. Leading companies like HAL and Divis Labs are highlighted among three stocks recommended by MOFSL (Motilal Oswal Financial Services Ltd). This reflects current trends and investment insights within the Indian stock market.",
-            "url": "https://www.business-standard.com/markets/news/hal-divis-labs-among-3-stocks-mofsl-s-chandan-taparia-is-bullish-on-126090900119_1.html",
-            "category": "National",
-            "date": "2026-09-09T02:19:30Z"
-        },
-        {
-            "title": "NFL survivor contest picks, predictions, advice, strategy: My favorite Week 1 selections",
-            "summary": "The article highlights the significant, unstoppable momentum of NFL Survivor contests in the current football betting landscape. These highly popular contests are depicted as having a deep and ingrained presence, making them extremely difficult to halt or resist. The comparison underscores their powerful, widespread nature and deep integration into the sports betting world, indicating their dominance.",
-            "url": "https://sports.yahoo.com/nfl/betting/article/nfl-survivor-contest-picks-predictions-advice-strategy-my-favorite-week-1-selections-013151412.html",
-            "category": "National",
-            "date": "2026-09-09T01:31:51Z"
-        },
-        {
-            "title": "China reveals military talks with Canadian officials after years of strain",
-            "summary": "Amidst efforts to deepen relations, Canada and China recently held \"candid\" discussions on military issues, as reported by Beijing. This exchange involved Canadian and Chinese officials focusing on defence matters. For SSB aspirants, understanding such bilateral military dialogues is vital for grasping international strategic engagements and the evolving geopolitical landscape.",
-            "url": "https://www.nationalobserver.com/2026/09/08/news/china-reveals-military-talks-canadian-officials-after-years-strain",
+            "title": "IRGC spokesperson: No advanced technology can evade Iran's surveillance layers in Strait of Hormuz",
+            "summary": "IRNA, the Islamic Republic News Agency, reported on September 9, 2026, from Tehran. The news concerns Brigadier General Ali Mohammad Naini, spokesperson for the Islamic Revolution Guards Corps (IRGC), who has made an unspecified statement or announcement. The full context of the IRGC official's message is not available in this excerpt, leaving the specific details unknown.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260909-irna03.htm",
             "category": "Defence",
-            "date": "2026-09-09T01:06:02Z"
+            "date": "2026-09-09T10:25:00Z"
         },
         {
-            "title": "Bold strategies define every team's build in the annual Fantasy Football Today draft: Full results, more",
-            "summary": "A CBS Sports staff member recounted a recent player draft experience, focusing on selecting players previously unfamiliar to them this season. Described as enjoyable, the draft involved fellow staff members in a league setting. The provided snippet suggests the article delves into further details of this league, offering insights into their internal sports engagement and team selection process.",
-            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-today-draft-results-strategy/",
-            "category": "National",
-            "date": "2026-09-08T19:54:11Z"
-        },
-        {
-            "title": "Show HN: Validation SDK merges to Stable for NeAnt sources",
-            "summary": "The NeAnt project has implemented a strict policy for new contributors, accepting only those with prior experience in similar Ne.app modules or large-scale open-source projects. This measure is designed to ensure the highest quality of merge requests and maintain the project's integrity and development standards. It prioritizes experienced developers for its technical contributions.",
-            "url": "https://github.com/ne-app-open/src",
+            "title": "India steps up space ambitions, eyes crewed missions and space station",
+            "summary": "India has gained valuable human spaceflight experience through international cooperation, most notably with Shukla becoming the first Indian to visit the International Space Station last year. Serving as a pilot, his mission underscores India's growing involvement in global space endeavors. This achievement is a significant step, paving the way for future Indian-led space missions and further enhancing the nation's capabilities in space exploration.",
+            "url": "https://www.channelnewsasia.com/asia/india-space-ambitions-crewed-missions-space-station-6372676",
             "category": "Sci & Tech",
-            "date": "2026-09-08T17:05:22Z"
+            "date": "2026-09-09T10:21:06Z"
+        },
+        {
+            "title": "Delhi building collapse: HC seeks govt's reply on hostel facilities for DU",
+            "summary": "The Delhi High Court has requested responses from the Central Government, Delhi Government, and Delhi University regarding a plea by the NSUI president. The plea advocates for mandatory hostel facilities in all Delhi University colleges. This development highlights ongoing discussions about student welfare and infrastructure within higher education institutions, prompting judicial review into accessibility and resources for students in the capital.",
+            "url": "https://www.business-standard.com/india-news/delhi-building-collapse-hc-seeks-govt-s-reply-on-hostel-facilities-for-du-126090900900_1.html",
+            "category": "National",
+            "date": "2026-09-09T10:20:42Z"
+        },
+        {
+            "title": "Beneath New York\u2019s water system lies an 85-mile underground river that carries roughly half the city\u2019s drinking water \u2014 parts of it run more than a thousand feet below ground and are so inaccessible that engineers inspect them with robotic submarines",
+            "summary": "New York City relies on a crucial 85-mile underground \"hole in the rock\" infrastructure, largely unseen by the public. This vital system connects reservoirs in the Catskills, serving as the primary water supply for millions of residents. It exemplifies essential urban engineering and planning critical for major metropolitan areas.",
+            "url": "https://spacedaily.com/d-beneath-new-yorks-water-system-lies-an-85-mile-underground-river-that-carries-roughly-half-the-citys-drinking-water-parts-of-it-run-more-than-a-thousand-feet-below-ground-a/",
+            "category": "National",
+            "date": "2026-09-09T10:15:48Z"
+        },
+        {
+            "title": "\u2018I am the house now\u2019: Scott Bessent dares currency markets to move against him",
+            "summary": "The news snippet signals a major leadership transition at Apple, reporting that John Ternus will assume the role of the company's new Chief Executive Officer. While the full details regarding his appointment, strategic vision, and the future direction he plans for the global tech giant are not provided in the truncated article, this represents a significant development for the technology sector.",
+            "url": "https://fortune.com/2026/09/09/i-am-the-house-now-scott-bessent-dares-currency-markets-to-move-against-him/",
+            "category": "Sci & Tech",
+            "date": "2026-09-09T10:06:45Z"
+        },
+        {
+            "title": "Aitech Brings Data-Center-Class AI Performance to Defense Platforms with Next-Generation 3U VPX C530 and SOSA Aligned 3U VPX U-C5300 Rugged AI GPGPU Boards",
+            "summary": "Upgraded AI-enabled 3U VPX GPGPU boards are delivering major gains in AI inference, parallel processing, and real-time rendering for defense and aerospace systems. This technological advancement significantly enhances computing capabilities in critical applications, offering improved performance and efficiency for modern military and aerospace operations, crucial for advanced situational awareness and decision-making.",
+            "url": "https://www.prnewswire.com/news-releases/aitech-brings-data-center-class-ai-performance-to-defense-platforms-with-next-generation-3u-vpx-c530-and-sosa-aligned-3u-vpx-u-c5300-rugged-ai-gpgpu-boards-302873157.html",
+            "category": "Defence",
+            "date": "2026-09-09T10:05:00Z"
+        },
+        {
+            "title": "Manitoba Hydro hearings conclude with more criticism of plan to burn more natural gas",
+            "summary": "Public hearings in Manitoba, Canada, regarding Manitoba Hydro's proposed natural gas expansion in Brandon have concluded after six weeks. The initiative by the Crown corporation faced considerable criticism during the proceedings, overseen by the Public Utilities Board. This development underscores the complex interplay between energy infrastructure projects, public opinion, and regulatory oversight in resource management within a nation.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/hydro-regulator-hearings-end-9.7336345",
+            "category": "National",
+            "date": "2026-09-09T10:00:00Z"
+        },
+        {
+            "title": "West Bank sanction row: Israel bars 12 British MPs from entering country",
+            "summary": "Actor Avinash Ashok fulfilled a five-year aspiration by entering the Bigg Boss Tamil 10 house, a significant national reality television show. Before his official entry, he shared an emotional moment and a heartfelt hug with his son, marking a personal milestone as he embarked on this popular entertainment journey.",
+            "url": "https://timesofindia.indiatimes.com/world/uk/west-bank-sanction-row-israel-bars-12-british-mps-from-entering-country/articleshow/133962633.cms",
+            "category": "National",
+            "date": "2026-09-09T09:55:58Z"
+        },
+        {
+            "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
+            "summary": "Kelsi Kiper, spouse of an active-duty service member, has consistently used the U.S. Postal Service for almost a decade to cast her ballots. Registered in Texas but stationed out of state, her reliance on mail-in voting highlights the critical role of postal services in facilitating electoral participation for military families. This mechanism ensures service members and their dependents can exercise their democratic rights despite frequent relocations.",
+            "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+            "category": "National",
+            "date": "2026-09-09T09:00:00Z"
         }
     ]
 }
