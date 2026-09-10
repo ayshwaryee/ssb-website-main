@@ -1,68 +1,68 @@
 {
-    "last_updated": "2026-09-10T10:26:19.775371+00:00",
+    "last_updated": "2026-09-10T15:42:51.662039+00:00",
     "articles": [
         {
-            "title": "IRGC spokesperson: No advanced technology can evade Iran's surveillance layers in Strait of Hormuz",
-            "summary": "IRNA, the Islamic Republic News Agency, reported on September 9, 2026, from Tehran. The news concerns Brigadier General Ali Mohammad Naini, spokesperson for the Islamic Revolution Guards Corps (IRGC), who has made an unspecified statement or announcement. The full context of the IRGC official's message is not available in this excerpt, leaving the specific details unknown.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260909-irna03.htm",
-            "category": "Defence",
-            "date": "2026-09-09T10:25:00Z"
-        },
-        {
-            "title": "India steps up space ambitions, eyes crewed missions and space station",
-            "summary": "India has gained valuable human spaceflight experience through international cooperation, most notably with Shukla becoming the first Indian to visit the International Space Station last year. Serving as a pilot, his mission underscores India's growing involvement in global space endeavors. This achievement is a significant step, paving the way for future Indian-led space missions and further enhancing the nation's capabilities in space exploration.",
-            "url": "https://www.channelnewsasia.com/asia/india-space-ambitions-crewed-missions-space-station-6372676",
+            "title": "Gaganyaan delays should be taken with 'pinch of salt': Astronaut Angad Pratap",
+            "summary": "Group Captain Angad Pratap, a Gaganyaan mission astronaut, acknowledged that delays are intrinsic to developing complex human spaceflight programmes. He stressed that such challenges are crucial for meticulous planning and execution, especially for India's ambitious Gaganyaan mission. This highlights the rigorous process ensuring utmost safety and success for the nation's indigenous human spaceflight endeavour.",
+            "url": "https://economictimes.indiatimes.com/news/science/gaganyaan-delays-should-be-taken-with-pinch-of-salt-astronaut-angad-pratap/articleshow/133974680.cms",
             "category": "Sci & Tech",
-            "date": "2026-09-09T10:21:06Z"
+            "date": "2026-09-09T15:24:37Z"
         },
         {
-            "title": "Delhi building collapse: HC seeks govt's reply on hostel facilities for DU",
-            "summary": "The Delhi High Court has requested responses from the Central Government, Delhi Government, and Delhi University regarding a plea by the NSUI president. The plea advocates for mandatory hostel facilities in all Delhi University colleges. This development highlights ongoing discussions about student welfare and infrastructure within higher education institutions, prompting judicial review into accessibility and resources for students in the capital.",
-            "url": "https://www.business-standard.com/india-news/delhi-building-collapse-hc-seeks-govt-s-reply-on-hostel-facilities-for-du-126090900900_1.html",
-            "category": "National",
-            "date": "2026-09-09T10:20:42Z"
-        },
-        {
-            "title": "Beneath New York\u2019s water system lies an 85-mile underground river that carries roughly half the city\u2019s drinking water \u2014 parts of it run more than a thousand feet below ground and are so inaccessible that engineers inspect them with robotic submarines",
-            "summary": "New York City relies on a crucial 85-mile underground \"hole in the rock\" infrastructure, largely unseen by the public. This vital system connects reservoirs in the Catskills, serving as the primary water supply for millions of residents. It exemplifies essential urban engineering and planning critical for major metropolitan areas.",
-            "url": "https://spacedaily.com/d-beneath-new-yorks-water-system-lies-an-85-mile-underground-river-that-carries-roughly-half-the-citys-drinking-water-parts-of-it-run-more-than-a-thousand-feet-below-ground-a/",
-            "category": "National",
-            "date": "2026-09-09T10:15:48Z"
-        },
-        {
-            "title": "\u2018I am the house now\u2019: Scott Bessent dares currency markets to move against him",
-            "summary": "The news snippet signals a major leadership transition at Apple, reporting that John Ternus will assume the role of the company's new Chief Executive Officer. While the full details regarding his appointment, strategic vision, and the future direction he plans for the global tech giant are not provided in the truncated article, this represents a significant development for the technology sector.",
-            "url": "https://fortune.com/2026/09/09/i-am-the-house-now-scott-bessent-dares-currency-markets-to-move-against-him/",
+            "title": "nspect added to PyPI",
+            "summary": "A new Rust-based Command Line Interface (CLI) tool has been developed to deeply analyze C# projects and solutions. It provides crucial insights into dependency graphs, package references, and potential version conflicts. Furthermore, it calculates vital structural metrics such as Lines of Code and cyclomatic complexity, helping C# developers manage and understand complex software projects more effectively.",
+            "url": "https://pypi.org/project/nspect/",
             "category": "Sci & Tech",
-            "date": "2026-09-09T10:06:45Z"
+            "date": "2026-09-09T15:23:07Z"
         },
         {
-            "title": "Aitech Brings Data-Center-Class AI Performance to Defense Platforms with Next-Generation 3U VPX C530 and SOSA Aligned 3U VPX U-C5300 Rugged AI GPGPU Boards",
-            "summary": "Upgraded AI-enabled 3U VPX GPGPU boards are delivering major gains in AI inference, parallel processing, and real-time rendering for defense and aerospace systems. This technological advancement significantly enhances computing capabilities in critical applications, offering improved performance and efficiency for modern military and aerospace operations, crucial for advanced situational awareness and decision-making.",
-            "url": "https://www.prnewswire.com/news-releases/aitech-brings-data-center-class-ai-performance-to-defense-platforms-with-next-generation-3u-vpx-c530-and-sosa-aligned-3u-vpx-u-c5300-rugged-ai-gpgpu-boards-302873157.html",
+            "title": "No relief for woman running NGO in illegal adoption case",
+            "summary": "Recent international news includes British actor Noel Clarke being charged with sex offences, including voyeurism, against five women, with a court date now set. Separately, Norway is bidding farewell to King Harald V. High-profile attendees from the British Royal Family, including Prince William and Princess Anne, have joined the commemorative event, highlighting ongoing royal engagements.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/no-relief-for-woman-running-ngo-in-illegal-adoption-case/articleshow/133974619.cms",
+            "category": "International",
+            "date": "2026-09-09T15:21:54Z"
+        },
+        {
+            "title": "Skidding Pacts: An AUKUS Delusion Update",
+            "summary": "This article critically examines the pervasive ecosystem of graft, favours, and corruption within the defence sector. It highlights specific ethical challenges in defence contracting and conferencing, where integrity is often compromised. For SSB aspirants, understanding these systemic issues is crucial, emphasizing the vital importance of transparency and ethical leadership in navigating the complex defence environment.",
+            "url": "https://www.globalresearch.ca/aukus-delusion-update/5939704",
             "category": "Defence",
-            "date": "2026-09-09T10:05:00Z"
+            "date": "2026-09-09T15:17:32Z"
         },
         {
-            "title": "Manitoba Hydro hearings conclude with more criticism of plan to burn more natural gas",
-            "summary": "Public hearings in Manitoba, Canada, regarding Manitoba Hydro's proposed natural gas expansion in Brandon have concluded after six weeks. The initiative by the Crown corporation faced considerable criticism during the proceedings, overseen by the Public Utilities Board. This development underscores the complex interplay between energy infrastructure projects, public opinion, and regulatory oversight in resource management within a nation.",
-            "url": "https://www.cbc.ca/news/canada/manitoba/hydro-regulator-hearings-end-9.7336345",
-            "category": "National",
-            "date": "2026-09-09T10:00:00Z"
+            "title": "I Think This Major Lanterns Character Has Been A Fake The Whole Time, And It Changes Everything",
+            "summary": "The mystery series 'Lanterns' continues to challenge fan predictions with its plot reveals. Episode 4 delivered a significant revelation concerning 'the identity of the...', adding another layer to the show's intricate narrative. Viewers have noted that the unfolding story has consistently defied expectations, keeping the audience engaged with its unpredictable twists.",
+            "url": "http://comicbook.com/dc/feature/i-think-this-major-lanterns-character-has-been-a-fake-the-whole-time-and-it-changes-everything/",
+            "category": "Sci & Tech",
+            "date": "2026-09-09T15:00:00Z"
         },
         {
-            "title": "West Bank sanction row: Israel bars 12 British MPs from entering country",
-            "summary": "Actor Avinash Ashok fulfilled a five-year aspiration by entering the Bigg Boss Tamil 10 house, a significant national reality television show. Before his official entry, he shared an emotional moment and a heartfelt hug with his son, marking a personal milestone as he embarked on this popular entertainment journey.",
-            "url": "https://timesofindia.indiatimes.com/world/uk/west-bank-sanction-row-israel-bars-12-british-mps-from-entering-country/articleshow/133962633.cms",
+            "title": "15-year-old drowns at Lalpathar waterfall in Jharsuguda",
+            "summary": "Congress leader Rahul Gandhi has demanded the resignation of an Aam Aadmi Party (AAP) finance minister in Punjab, following the suicide of Gulzar Singh. Addressing Dalits in the state, Gandhi urged them to remain vigilant, implying broader systemic issues. This incident underscores significant political scrutiny and calls for accountability within the state government, a key development for national political observers.",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/15-year-old-drowns-at-lalpathar-waterfall-in-jharsuguda/articleshow/133973928.cms",
             "category": "National",
-            "date": "2026-09-09T09:55:58Z"
+            "date": "2026-09-09T14:59:23Z"
         },
         {
-            "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-            "summary": "Kelsi Kiper, spouse of an active-duty service member, has consistently used the U.S. Postal Service for almost a decade to cast her ballots. Registered in Texas but stationed out of state, her reliance on mail-in voting highlights the critical role of postal services in facilitating electoral participation for military families. This mechanism ensures service members and their dependents can exercise their democratic rights despite frequent relocations.",
-            "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+            "title": "Now women lifeguards to keep track of tourists",
+            "summary": "Rahul Gandhi has publicly demanded the resignation of an Aam Aadmi Party (AAP) finance minister following the suicide of Gulzar Singh. Addressing Dalits in Punjab, Gandhi urged them to remain vigilant amidst the incident. This political development highlights growing tensions and accountability demands within the state's political landscape, focusing on the welfare and protection of vulnerable communities.",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/now-women-lifeguards-to-keep-track-of-tourists/articleshow/133973918.cms",
             "category": "National",
-            "date": "2026-09-09T09:00:00Z"
+            "date": "2026-09-09T14:58:47Z"
+        },
+        {
+            "title": "62 dismissed, but Haryana sanitation workers extend strike",
+            "summary": "Congress leader Rahul Gandhi has urged Dalits in Punjab to remain vigilant, demanding the resignation of the Aam Aadmi Party's finance minister. This demand stems from the suicide of Gulzar Singh. The incident highlights political tensions and concerns within Punjab, bringing national attention to the state's governance and socio-political landscape, underscoring the importance of accountability in public office.",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/62-dismissed-but-haryana-sanitation-workers-extend-strike/articleshow/133973884.cms",
+            "category": "National",
+            "date": "2026-09-09T14:57:46Z"
+        },
+        {
+            "title": "Ranchi University awards medals to toppers at 39th convocation",
+            "summary": "Rahul Gandhi has demanded the resignation of Punjab's Aam Aadmi Party (AAP) finance minister following the suicide of Gulzar Singh. Addressing the issue, Gandhi urged the Dalit community in Punjab to remain vigilant, emphasizing the seriousness of the incident. This political development highlights ongoing concerns regarding community welfare and political accountability within the state.",
+            "url": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-university-awards-medals-to-toppers-at-39th-convocation/articleshow/133973796.cms",
+            "category": "National",
+            "date": "2026-09-09T14:55:19Z"
         }
     ]
 }
