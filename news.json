@@ -1,47 +1,33 @@
 {
-    "last_updated": "2026-09-10T20:20:46.206990+00:00",
+    "last_updated": "2026-09-11T02:37:41.663617+00:00",
     "articles": [
         {
-            "title": "Factoring RSA 260",
-            "summary": "The Cognition research team is optimizing their job scheduler to enhance the use of disaggregated compute resources. As a proof of concept, they are utilizing number factoring. This initiative aims to improve computational efficiency and resource management, reflecting advancements in high-performance computing and strategic system optimization within their research framework. Such efforts are crucial for boosting processing power and overall system performance.",
-            "url": "https://cognition.com/blog/factoring-rsa-260",
+            "title": "repoverity added to PyPI",
+            "summary": "RepoVerity introduces a system for deterministic, evidence-based code trust audits specifically for Python repositories. It aims to provide concrete evidence confirming a repository's readiness for review or merging. This innovation significantly enhances software supply chain security and reliability, a crucial aspect for maintaining integrity in digital systems and critical infrastructure, including those potentially vital for national security and defence applications.",
+            "url": "https://pypi.org/project/repoverity/",
             "category": "Sci & Tech",
-            "date": "2026-09-09T20:16:08Z"
+            "date": "2026-09-10T02:28:40Z"
         },
         {
-            "title": "Pune\u2019s Katraj-Kondhwa Road has seen 50+ accidents, over 20 deaths in 5 years",
-            "summary": "The provided article snippet begins with promotional content for Haryanvi music videos 'Her Aura' and 'In Love With Her' by Vibhor Singh and SickMoney. It then abruptly truncates, indicating the main news content is a much longer piece discussing 'China's Not\u2026'. This suggests the actual article pertains to a significant development or analysis concerning China's actions or policies.",
-            "url": "https://timesofindia.indiatimes.com/city/pune/punes-katraj-kondhwa-road-has-seen-50-accidents-over-20-deaths-in-5-years/articleshow/133983223.cms",
-            "category": "International",
-            "date": "2026-09-09T20:05:08Z"
-        },
-        {
-            "title": "Students to take daily anti-drug pledge in UP",
-            "summary": "The article promotes new Haryanvi music videos, 'Her Aura' and 'In Love With Her,' by Vibhor Singh and SickMoney, urging social media engagement. It also abruptly mentions 'China,' suggesting a potential national or international context. The visible content primarily highlights cultural entertainment.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/students-to-take-daily-anti-drug-pledge-in-up/articleshow/133983201.cms",
+            "title": "Nifty could edge lower to 23,300; HAL among 3 stock ideas: Ajit Mishra",
+            "summary": "The Nifty, India's benchmark stock market index, has technically fallen below its critical 23,600 support level. This significant decline indicates a weakening in its near-term market structure, suggesting a bearish outlook for investors. Understanding such market movements is crucial for general awareness, as economic indicators often reflect national stability and growth prospects, important for SSB aspirants to comprehend.",
+            "url": "https://www.business-standard.com/markets/news/stocks-to-buy-nifty-could-edge-lower-to-23-300-hal-among-3-stock-ideas-ajit-mishra-126091000103_1.html",
             "category": "National",
-            "date": "2026-09-09T20:04:07Z"
+            "date": "2026-09-10T02:25:13Z"
         },
         {
-            "title": "100 questions, CCTV evidence crack accused\u2019s silence in property dealer\u2019s murder",
-            "summary": "The article indicates a significant discussion on China, a vital subject for SSB aspirants tracking international relations and global security. While details of 'China's Not\u2026' policies or actions are largely truncated, hinting at important geopolitical analysis, the text also briefly mentions new Haryanvi music videos like 'Her Aura' and 'In Love With Her'.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/100-questions-cctv-evidence-crack-accuseds-silence-in-property-dealers-murder/articleshow/133983185.cms",
+            "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+            "summary": "Kathmandu's Economic Digest offers a concise yet comprehensive summary of Nepal's latest business and economic developments. The publication provides clear insights into key economic trends and policy updates, aiming to keep readers informed about the country's evolving financial landscape and government initiatives. This covers crucial aspects of Nepal's economic performance and policy direction for stakeholders and general readers alike.",
+            "url": "https://english.khabarhub.com/2026/10/567144/",
             "category": "International",
-            "date": "2026-09-09T20:03:07Z"
+            "date": "2026-09-10T02:15:10Z"
         },
         {
-            "title": "Don\u2019t have special powers to work 24x7, says Kashi cops, resigns",
-            "summary": "The article primarily promotes new Haryanvi music videos by Vibhor Singh and SickMoney. However, it abruptly concludes with an incomplete phrase, 'Chinas Not\u2026', strongly indicating the intended news report focused on China. Though specific details are missing due to truncation, this fragment suggests content related to China's policies or international affairs, a critical area for SSB aspirants to understand.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/dont-have-special-powers-to-work-24x7-says-kashi-cops-resigns/articleshow/133983169.cms",
-            "category": "International",
-            "date": "2026-09-09T20:02:17Z"
-        },
-        {
-            "title": "Nursery admissions turn into \u2018UPSC exams for parents\u2019",
-            "summary": "An incomplete article fragment hints at a news development concerning China, possibly detailing its diplomatic stance or a specific ongoing situation. However, the full content is unavailable, making a comprehensive summary for SSB aspirants on specific implications or events currently not feasible.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/nursery-admissions-turn-into-upsc-exams-for-parents/articleshow/133983110.cms",
-            "category": "International",
-            "date": "2026-09-09T20:00:19Z"
+            "title": "India\u2019s photonics market projected to grow fourfold to $10 billion by 2031",
+            "summary": "India's domestic photonics market is projected to grow fourfold, reaching USD 10 billion by 2031. This significant expansion is driven by the increasing demand from data centres and other electronic devices that require high data speeds. This growth indicates a strong push towards advanced high-speed communication technologies and infrastructure development within the nation.",
+            "url": "https://www.thehindubusinessline.com/info-tech/indias-photonics-market-projected-to-grow-fourfold-to-10-billion-by-2031/article71449788.ece",
+            "category": "Sci & Tech",
+            "date": "2026-09-10T00:32:17Z"
         }
     ]
 }
