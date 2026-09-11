@@ -1,33 +1,68 @@
 {
-    "last_updated": "2026-09-11T02:37:41.663617+00:00",
+    "last_updated": "2026-09-11T10:28:41.125377+00:00",
     "articles": [
         {
-            "title": "repoverity added to PyPI",
-            "summary": "RepoVerity introduces a system for deterministic, evidence-based code trust audits specifically for Python repositories. It aims to provide concrete evidence confirming a repository's readiness for review or merging. This innovation significantly enhances software supply chain security and reliability, a crucial aspect for maintaining integrity in digital systems and critical infrastructure, including those potentially vital for national security and defence applications.",
-            "url": "https://pypi.org/project/repoverity/",
+            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 10th September 2026",
+            "summary": "TRISHNA, a collaborative Earth-observation mission between India's ISRO and France's CNES, is a Thermal Infra-Red Imaging Satellite. Its primary goal is high-resolution natural resource assessment, providing critical data for environmental monitoring and management. This international partnership highlights advancements in space technology for global benefit, focusing on detailed thermal imaging of Earth's surface for scientific research.",
+            "url": "https://iasbaba.com/2026/09/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-10th-september-2026/",
             "category": "Sci & Tech",
-            "date": "2026-09-10T02:28:40Z"
+            "date": "2026-09-10T10:07:39Z"
         },
         {
-            "title": "Nifty could edge lower to 23,300; HAL among 3 stock ideas: Ajit Mishra",
-            "summary": "The Nifty, India's benchmark stock market index, has technically fallen below its critical 23,600 support level. This significant decline indicates a weakening in its near-term market structure, suggesting a bearish outlook for investors. Understanding such market movements is crucial for general awareness, as economic indicators often reflect national stability and growth prospects, important for SSB aspirants to comprehend.",
-            "url": "https://www.business-standard.com/markets/news/stocks-to-buy-nifty-could-edge-lower-to-23-300-hal-among-3-stock-ideas-ajit-mishra-126091000103_1.html",
+            "title": "PNB to enter wealth management services, beef up credit card portfolio",
+            "summary": "State-run lender PNB is actively pursuing new growth strategies. It aims to launch wealth management services by early 2027 and is significantly expanding its credit card portfolio, adding 50,000-60,000 cards each month. These moves highlight the bank's focus on diversifying revenue streams and strengthening its presence in key financial sectors within the national economy.",
+            "url": "https://www.business-standard.com/companies/news/pnb-wealth-management-credit-card-expansion-ashok-chandra-126091000710_1.html",
             "category": "National",
-            "date": "2026-09-10T02:25:13Z"
+            "date": "2026-09-10T09:35:55Z"
         },
         {
-            "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
-            "summary": "Kathmandu's Economic Digest offers a concise yet comprehensive summary of Nepal's latest business and economic developments. The publication provides clear insights into key economic trends and policy updates, aiming to keep readers informed about the country's evolving financial landscape and government initiatives. This covers crucial aspects of Nepal's economic performance and policy direction for stakeholders and general readers alike.",
-            "url": "https://english.khabarhub.com/2026/10/567144/",
-            "category": "International",
-            "date": "2026-09-10T02:15:10Z"
-        },
-        {
-            "title": "India\u2019s photonics market projected to grow fourfold to $10 billion by 2031",
-            "summary": "India's domestic photonics market is projected to grow fourfold, reaching USD 10 billion by 2031. This significant expansion is driven by the increasing demand from data centres and other electronic devices that require high data speeds. This growth indicates a strong push towards advanced high-speed communication technologies and infrastructure development within the nation.",
-            "url": "https://www.thehindubusinessline.com/info-tech/indias-photonics-market-projected-to-grow-fourfold-to-10-billion-by-2031/article71449788.ece",
+            "title": "PM Modi hails India's space success in virtual address to Paris Space Summit",
+            "summary": "PM Modi virtually addressed the International Space Summit in Paris, emphasizing India's significant progress in space exploration. His participation highlighted India's growing global stature and technological capabilities in the space sector. This engagement underscores the nation's commitment to advancing its space program and contributing to international scientific collaboration, reflecting India's strength in critical emerging technologies.",
+            "url": "https://economictimes.indiatimes.com/news/india/pm-modi-hails-indias-space-success-in-virtual-address-to-paris-space-summit/articleshow/134002310.cms",
             "category": "Sci & Tech",
-            "date": "2026-09-10T00:32:17Z"
+            "date": "2026-09-10T09:35:12Z"
+        },
+        {
+            "title": "Indian regional airlines to buy 105 Russian planes",
+            "summary": "Three Indian airlines have agreed to procure 105 Russian Il-114-300 passenger aircraft, significantly expanding civil aviation and manufacturing cooperation between India and Russia. This move strengthens bilateral ties, boosting India's domestic air travel capacity and fostering joint industrial development. It underscores a strategic partnership beyond traditional defence, enhancing economic collaboration in the aerospace sector.",
+            "url": "https://www.rt.com/india/645387-india-russia-regional-aircraft/",
+            "category": "International",
+            "date": "2026-09-10T09:26:47Z"
+        },
+        {
+            "title": "Vasai Ganeshotsav row: BJP leader seeks ban on contracts for non-Hindu contractors",
+            "summary": "A 22-year-old school dropout pleaded guilty to stealing $245 million in Bitcoin. He achieved this by impersonating executives from Google and Gemini, demonstrating a sophisticated cyber scheme. The stolen cryptocurrency was reportedly used to fund extravagant purchases, including Ferraris. This case underscores the growing challenges in digital asset security and the prevalence of high-value cryptocurrency theft.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/vasai-ganeshotsav-row-bjp-leader-seeks-ban-on-contracts-for-non-hindu-contractors/articleshow/134001277.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-10T09:17:31Z"
+        },
+        {
+            "title": "Arappor Iyakkam seeks sweeping anti-corruption reforms from Tamil Nadu CM Vijay",
+            "summary": "A 22-year-old school dropout pleaded guilty to stealing $245 million in Bitcoin by posing as Google and Gemini executives. He used the stolen fortune to fund luxury items like Ferraris. This high-profile case highlights significant vulnerabilities in digital asset security and the rising sophistication of cybercrime tactics, emphasizing the critical need for robust cybersecurity awareness.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/arappor-iyakkam-seeks-sweeping-anti-corruption-reforms-from-tamil-nadu-cm-vijay/articleshow/134001674.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-10T09:17:10Z"
+        },
+        {
+            "title": "Karnataka apartment bill on hold: What could it mean for flat owners",
+            "summary": "A 22-year-old school dropout has pleaded guilty to stealing an astounding $245 million in Bitcoin. He orchestrated this massive fraud by impersonating executives from tech giant Google and the cryptocurrency exchange Gemini. The stolen fortune was reportedly used to fund a lavish lifestyle, including the purchase of luxury cars like Ferraris. This case underscores the increasing sophistication of cyber financial crimes and the critical need for enhanced digital security measures in the cryptocurrency domain.",
+            "url": "https://timesofindia.indiatimes.com/real-estate/news/karnataka-apartment-bill-on-hold-what-could-it-mean-for-flat-owners/articleshow/134001683.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-10T09:14:58Z"
+        },
+        {
+            "title": "Captcha Design Festival",
+            "summary": "Captcha is a design festival set to explore design not merely as a finished product, but as an evolving, ongoing process. Commencing September 14th, the event encourages active participation through watching, discussing, and engaging with various design aspects. It aims to offer a comprehensive platform for understanding the dynamic and transformative nature of design, inviting a deeper dive into its continuous development.",
+            "url": "https://www.slanted.de/captcha-design-festival/",
+            "category": "Sci & Tech",
+            "date": "2026-09-10T09:00:43Z"
+        },
+        {
+            "title": "US and Philippine marines train with BrahMos to deter China",
+            "summary": "US and Philippine forces recently conducted a joint exercise, simulating the potent BrahMos anti-ship missile. This involved establishing a 'kill chain' using drones and ground-based missiles, a critical component of modern maritime defence. The exercise helps Philippine Marines refine tactics for the BrahMos system, acquired in 2022, enhancing their coastal defence capabilities and interoperability in the region.",
+            "url": "https://timesofindia.indiatimes.com/defence/international/us-and-philippine-marines-train-with-brahmos-to-deter-china/articleshow/133998211.cms",
+            "category": "Defence",
+            "date": "2026-09-10T07:31:49Z"
         }
     ]
 }
