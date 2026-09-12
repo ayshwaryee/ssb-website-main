@@ -1,33 +1,26 @@
 {
-    "last_updated": "2026-09-12T14:52:31.707605+00:00",
+    "last_updated": "2026-09-12T20:04:08.289400+00:00",
     "articles": [
         {
-            "title": "Museums On The Move",
-            "summary": "A recent report highlights the critical need for Micro, Small, and Medium Enterprises (MSMEs) to enhance their digital infrastructure. This is vital for improving operational efficiency, fostering sustainable growth, and boosting competitiveness within the national economy. Strengthening digital capabilities will enable MSMEs to contribute more effectively to overall economic development and national progress.",
-            "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/museums-on-the-move/articleshow/134073182.cms",
-            "category": "National",
-            "date": "2026-09-11T14:38:14Z"
+            "title": "acadplot added to PyPI",
+            "summary": "AcadPlot, a new plotting tool built on matplotlib, simplifies generating publication-quality plots and subplots for research papers. It features an academic Inconsolata-style setup and LaTeX rendering, making it ideal for scientific documentation and presentations. This tool helps researchers create professional visualizations efficiently, enhancing the clarity and impact of their work for a global audience.",
+            "url": "https://pypi.org/project/acadplot/",
+            "category": "Sci & Tech",
+            "date": "2026-09-11T20:00:55Z"
         },
         {
-            "title": "French WWII Blockbuster \u2018De Gaulle\u2019 Lands U.S. Distribution With Samuel Goldwyn Films (EXCLUSIVE)",
-            "summary": "Samuel Goldwyn Films has acquired U.S. distribution rights for 'De Gaulle,' Antonin Baudry's two-part historical epic. Premiering at Cannes, the film explores the life of Charles de Gaulle, France's pivotal wartime leader and statesman. This acquisition brings the critically acclaimed French production, detailing a significant international historical figure, to American audiences, offering insights into crucial European history relevant for broader general knowledge.",
-            "url": "https://variety.com/2026/film/global/french-wwii-de-gaulle-u-s-distribution-with-samuel-goldwyn-films-1236858666/",
+            "title": "Remembrance, Resilience, and 911 Advances in Public Safety",
+            "summary": "Commemorating the twenty-fifth anniversary of September 11, 2001, this article reflects on the lives lost during the devastating terrorist attacks. It prompts readers to remember the victims and consider the enduring legacy and profound impact of 9/11. The piece likely explores the historical significance and what is owed to those affected by this pivotal international tragedy.",
+            "url": "https://bradenkelley.com/2026/09/911-25th-anniversary-remembrance-public-safety-advances/",
             "category": "International",
-            "date": "2026-09-11T14:25:00Z"
+            "date": "2026-09-11T19:50:48Z"
         },
         {
-            "title": "Modi raises safety of Indians in Black Sea in talks with Putin, nudges Russian leader to end Ukraine conflict",
-            "summary": "Prime Minister Narendra Modi recently discussed the safety of Indian seafarers in the Black Sea with Russian President Vladimir Putin. Amidst ongoing regional instability, PM Modi reiterated India's strong commitment to supporting any peace initiative to resolve the conflict. This diplomatic engagement underscores India's efforts to ensure its citizens' security while advocating for de-escalation in international conflict zones affecting global maritime routes.",
-            "url": "https://www.thehindubusinessline.com/news/modi-raises-safety-of-indians-in-black-sea-in-talks-with-putin-nudges-russian-leader-to-end-ukraine-conflict/article71456623.ece",
+            "title": "Bill Kerby Dead: \u2018The Rose,\u2019 \u2018Last American Hero\u2019 Screenwriter Was 88",
+            "summary": "Maverick screenwriter Bill Kerby, a notable figure in Hollywood, has passed away. He is widely recognized for crafting the initial draft of the popular Bette Midler-starring rock drama 'The Rose'. Kerby's diverse filmography also includes significant contributions to movies like 'The Last American Hero', 'The Gravy Train', and 'Hooper'. His unique storytelling prowess left a distinctive mark on the entertainment industry.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/bill-kerby-dead-the-rose-last-american-hero-hooper-1236697827/",
             "category": "International",
-            "date": "2026-09-11T14:05:05Z"
-        },
-        {
-            "title": "In talks with Putin, Modi raises safety of Indians in Black Sea",
-            "summary": "Prime Minister Modi engaged with Russian President Putin to address the safety of Indian seafarers in the Black Sea, a region impacted by ongoing conflict. Modi underscored India's deep concern for its citizens' welfare abroad and reiterated India's unwavering commitment to supporting peace initiatives. This diplomatic outreach highlights India's active role in global affairs and its dedication to safeguarding its diaspora amidst international complexities.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/in-talks-with-putin-modi-raises-safety-of-indians-in-black-sea/articleshow/134069395.cms",
-            "category": "International",
-            "date": "2026-09-11T13:12:05Z"
+            "date": "2026-09-11T18:33:15Z"
         }
     ]
 }
