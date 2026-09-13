@@ -1,26 +1,47 @@
 {
-    "last_updated": "2026-09-13T02:45:30.740680+00:00",
+    "last_updated": "2026-09-13T10:58:23.671186+00:00",
     "articles": [
         {
+            "title": "When the Machine Acquires a Self: Conscience, Agency, and the Governance Frontier of Artificial Intelligence",
+            "summary": "Biagio Bossone argues that experts concerned about AI superintelligence are avoiding crucial questions regarding its future role and potential impact. He suggests focusing on what happens when AI begins to 'serve,' rather than just its inherent dangers. This highlights a need for deeper analysis into AI's societal implications and control mechanisms, urging a proactive approach to understanding its integration and potential risks.",
+            "url": "https://www.nakedcapitalism.com/2026/09/when-the-machine-acquires-a-self-conscience-agency-and-the-governance-frontier-of-artificial-intelligence.html",
+            "category": "Sci & Tech",
+            "date": "2026-09-12T05:50:57Z"
+        },
+        {
+            "title": "Ask HAL 9000 about artificial intelligence and human survival",
+            "summary": "The provided text introduces Stanley Kubrick's iconic film \"2001: A Space Odyssey,\" outlining the core premise. It describes the American spacecraft Discovery One's mission to Jupiter with astronauts Dave Bowman and Frank Poole. Crucially, it highlights the presence of HAL 9000, an advanced artificial intelligence computer, as part of the crew, setting the stage for the film's technological and philosophical themes.",
+            "url": "https://www.americanthinker.com/blog/2026/09/ask-hal-9000-about-artificial-intelligence-and-human-survival/",
+            "category": "Sci & Tech",
+            "date": "2026-09-12T04:00:00Z"
+        },
+        {
+            "title": "Anita Brookner: Art & Life by Hermione Lee \u2013 A loving, careful and worthwhile biography of an evasive life",
+            "summary": "This article introduces \"Anita Brookner: Art & Life,\" a 544-page book by Chatto & Windus, priced at \u00a328, delving into the life and career of the acclaimed English novelist Anita Brookner. The piece highlights Brookner's notably private nature, even quoting her assertion about having no private papers. It promises to explore her significant contributions to literature and her personal journey, offering insights into her world.",
+            "url": "https://www.irishtimes.com/culture/books/review/2026/09/12/anita-brookner-art-life-by-hermione-lee-a-loving-careful-and-worthwhile-biography-of-an-evasive-life/",
+            "category": "National",
+            "date": "2026-09-12T03:51:00Z"
+        },
+        {
             "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-            "summary": "North Korea fired several ballistic missiles towards the sea off its eastern coast, detected by South Korea's Joint Chiefs of Staff. This launch is a recurring display of Pyongyang's military capabilities and defiance of international sanctions. Such tests typically escalate regional tensions and are often seen as responses to joint military exercises, posing ongoing security challenges for its neighbours.",
+            "summary": "North Korea recently fired multiple ballistic missiles into the sea off its eastern coast, detected by South Korea's military. This action, reported by South Korea's Joint Chiefs of Staff, signifies ongoing regional tensions and security challenges. Such provocative launches by Pyongyang are a recurring concern for international stability and a key defence issue in the Indo-Pacific.",
             "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says",
             "category": "Defence",
             "date": "2026-09-12T02:25:59Z"
         },
         {
-            "title": "foxguard v0.13.0",
-            "summary": "Foxguard provides fast, local security scanning for software code, secrets, dependencies, and crypto risks. Integrated with the 0sec open cybersecurity harness, it helps identify vulnerabilities early. This tool is crucial for enhancing software integrity, reducing exploitation risks, and ensuring robust digital infrastructure, which is vital for both civilian and defence applications in the modern technological landscape.",
-            "url": "https://kitploit.com/en/posts/github-0sec-labs-foxguard-v0130",
-            "category": "Sci & Tech",
-            "date": "2026-09-11T23:56:20Z"
+            "title": "BRICS 2026: PM Modi sits down with Putin, talks $100 bn trade by 2030; Plan to deepen defence, energy, nuclear ties",
+            "summary": "India and Russia have agreed to significantly expand industrial collaboration across critical sectors like manufacturing, railways, nuclear energy, and critical minerals. This strategic move aims to achieve a substantial $100-billion bilateral trade target, deepening their economic partnership. The expanded cooperation signifies a diversification of ties beyond traditional defence, bolstering India's economic growth and strategic autonomy on the global stage.",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/brics-2026-pm-modi-sits-down-with-putin-talks-100-bn-trade-by-2030-plan-to-deepen-defence-energy-nuclear-ties/articleshow/134086738.cms",
+            "category": "International",
+            "date": "2026-09-12T00:00:00Z"
         },
         {
-            "title": "Marengo Asia Hospitals raises Rs 400 crore from LeapFrog Investments to double bed capacity",
-            "summary": "Marengo Asia Hospitals has successfully raised \u20b9400 crore from LeapFrog Investments to facilitate a significant expansion of its hospital network. This strategic investment, supported by Samara Capital, aims to enhance healthcare infrastructure and accessibility across India. The funding highlights a push to strengthen national health services through private sector growth and development.",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/marengo-asia-hospitals-raises-rs-400-crore-from-leapfrog-investments-to-double-bed-capacity/articleshow/134085778.cms",
-            "category": "National",
-            "date": "2026-09-11T18:49:57Z"
+            "title": "\u2018SPEAK UHP\u2019: The Internet Gets A Proper Laugh At Aaron Pierre\u2019s South London Bruvcent Slip-Up & More In Latest \u2018Lanterns\u2019 Episode",
+            "summary": "Actor Aaron Pierre's South London accent briefly emerged during a dramatic moment in the latest episode of HBO Max's hit series, \"Lanterns.\" This unexpected slip-up during an \"explosive scene\" quickly caught the internet's attention, becoming a source of widespread amusement and discussion among viewers globally. The incident highlights the keen observation of audiences engaging with international entertainment.",
+            "url": "https://bossip.com/4628677/funniest-reactions-aaron-pierre-accent-slip-lanterns-episode-4/",
+            "category": "International",
+            "date": "2026-09-11T23:55:16Z"
         }
     ]
 }
