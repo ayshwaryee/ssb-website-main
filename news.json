@@ -1,33 +1,47 @@
 {
-    "last_updated": "2026-09-13T15:29:35.643632+00:00",
+    "last_updated": "2026-09-13T20:10:25.471289+00:00",
     "articles": [
         {
-            "title": "Modi-Xi talks: Border peace, trade imbalance key to India-China reset",
-            "summary": "India has made peace and tranquillity along its border with China, alongside rectifying the structural trade imbalance, central to any further development of bilateral ties. Prime Minister Modi's firm stance underscores India's strategic prioritisation of national security and economic equity. This approach signals a conditional roadmap for future relations, essential for regional stability and India's sovereign interests.",
-            "url": "https://www.thehindubusinessline.com/economy/modi-xi-talks-border-peace-trade-imbalance-key-to-india-china-reset/article71460735.ece",
+            "title": "Miami Dolphins' 13 rookies await NFL debut vs. Raiders (who will cry?)",
+            "summary": "The Miami Dolphins are set to open their 2026 NFL season against the Las Vegas Raiders with a remarkably young squad. Nearly a quarter of their active roster, specifically 13 players, will be rookies\u2014the highest number in the league. This strategic focus on youth suggests a significant rebuilding phase for the Dolphins.",
+            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/09/12/miami-dolphins-rookies-raiders-jacob-rodriguez/91697839007/",
+            "category": "National",
+            "date": "2026-09-12T19:12:28Z"
+        },
+        {
+            "title": "As U.S. Trade Pressure Mounts, Vietnam Prepares to Prosecute 74 \u2018Xoi Lac\u2019 Sports Pirates",
+            "summary": "Vietnamese football fans have long relied on pirated streams from 'Xoi Lac TV' and its sister sites to watch Premier League matches with local commentary for free. This practice highlights a significant challenge in intellectual property rights and content distribution across borders, involving illegal broadcasting of international sports content, creating issues for broadcasters and rights holders.",
+            "url": "https://torrentfreak.com/as-us-trade-pressure-mounts-vietnam-prepares-to-prosecute-74-xoi-lac-sports-pirates/",
             "category": "International",
-            "date": "2026-09-12T15:09:53Z"
+            "date": "2026-09-12T18:18:08Z"
+        },
+        {
+            "title": "Navy moves to revive WWII-era Badangi airstrip",
+            "summary": "Prime Minister Modi hosted global leaders, including Presidents Putin and Xi, at a gala dinner, signifying India's diplomatic engagement. He shared Ramanathaswamy Temple heritage with Xi and launched stamps marking 20 years of BRICS. These high-level interactions underscore India's commitment to strengthening international cooperation and its pivotal role in multilateral forums, particularly within the BRICS framework.",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/navy-moves-to-revive-wwii-era-badangi-airstrip/articleshow/134149117.cms",
+            "category": "International",
+            "date": "2026-09-12T17:54:52Z"
+        },
+        {
+            "title": "China\u2019s X factor, and why India needs its own narrative",
+            "summary": "This news item discusses China's strategic influence, referred to as its 'X factor,' and critically emphasizes India's imperative to forge its own powerful national narrative. This highlights the strategic competition between the two nations, underscoring the importance of India's geopolitical communication and soft power in asserting its position on the global stage, crucial for national interest.",
+            "url": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/chinas-x-factor-and-why-india-needs-its-own-narrative/articleshow/134144154.cms",
+            "category": "Defence",
+            "date": "2026-09-12T16:31:56Z"
         },
         {
             "title": "Finding our way home may be the final frontier",
-            "summary": "Prominent tech leaders, including Sam Altman and Elon Musk, advocate slowing AI development due to global concerns over its rapid progress and impact. Separately, Saudi Arabia has reportedly shut a crucial pipeline, an action poised to spark significant geopolitical or economic consequences. This highlights pressing international debates on technology governance and energy security.",
+            "summary": "Prominent tech leaders, including Dario Amodei, Sam Altman, and Elon Musk, are advocating for a slowdown in artificial intelligence development. Their unified call highlights increasing concerns among industry pioneers regarding the rapid pace and potential societal implications of AI. This emphasizes ongoing debates about balancing innovation with ethical considerations and responsible governance as advanced technologies progress.",
             "url": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/finding-our-way-home-may-be-the-final-frontier/articleshow/134135617.cms",
             "category": "Sci & Tech",
             "date": "2026-09-12T13:55:23Z"
         },
         {
-            "title": "Journey for 9/11 25th anniversary reveals country that hopes to unite again",
-            "summary": "The Southern California News Group dispatched a reporting team nationwide for the 25th anniversary of the September 11 attacks. This initiative aims to commemorate the significant event, likely exploring its lasting impact on US national security and societal fabric. Aspiring officers should understand such pivotal historical moments and their implications for national policy.",
-            "url": "https://wpdash.medianewsgroup.com/?p=9794205",
-            "category": "National",
-            "date": "2026-09-12T13:53:18Z"
-        },
-        {
-            "title": "Pokhran to showcase India\u2019s drone warfare push after Operation Sindoor",
-            "summary": "An Indian-origin individual has been charged in Canada for a violent carjacking attempt and home invasion, during which a driver was stabbed. This incident draws attention to legal issues involving overseas citizens. Domestically, a private hospital in Ranchi has received a show-cause notice from the district health wing, indicating scrutiny over healthcare regulatory compliance.",
-            "url": "https://timesofindia.indiatimes.com/city/jodhpur/pokhran-to-showcase-indias-drone-warfare-push-after-operation-sindoor/articleshow/134133163.cms",
-            "category": "International",
-            "date": "2026-09-12T13:01:11Z"
+            "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+            "summary": "Russia's Ministry of Defence announced its forces have targeted and struck multiple industrial facilities across Ukraine. This action signifies Moscow's continued focused campaign aimed at degrading Kyiv's industrial infrastructure. This ongoing conflict has significant geopolitical implications and highlights the evolving nature of modern warfare, where critical infrastructure becomes a key target in prolonged engagements.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine",
+            "category": "Defence",
+            "date": "2026-09-12T08:38:48Z"
         }
     ]
 }
