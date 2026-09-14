@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-09-14T17:29:10.270368+00:00",
+    "last_updated": "2026-09-14T21:19:52.593138+00:00",
     "articles": [
         {
-            "title": "ganpati",
-            "summary": "The provided text contains only boilerplate information such as copyright notices and social media prompts. It does not include any actual news content from which a summary could be extracted or a category assigned. No news details are present in this specific article.",
-            "url": "https://timesofindia.indiatimes.com/city/delhi/ganpati/articleshow/134214721.cms",
+            "title": "A good judgment",
+            "summary": "This article introduces three practical ideas considered relevant during a period of 'judgment upon us.' Rabbi Moshe Bamberger of Touro's Lander College for Men discusses the power of the group, complemented by insights from Rabbi Eliezer Pa... The full piece likely delves into spiritual, ethical, or communal guidance, drawing from religious teachings to address contemporary challenges.",
+            "url": "https://www.israelnationalnews.com/news/433102",
             "category": "National",
-            "date": "2026-09-13T17:16:19Z"
+            "date": "2026-09-13T20:45:13Z"
         },
         {
-            "title": "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
-            "summary": "Airbus must obtain GST registration in Gujarat to supply aircraft to the Indian Defence Ministry, as ruled by the Gujarat AAR. This decision impacts a significant defence procurement project involving the Tata group, which is assembling aircraft for Airbus in its Gujarat plant. This highlights crucial tax compliance within major defence acquisitions and collaborative manufacturing efforts in India.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/supply-of-40-airbus-aircraft-to-defence-ministry-taxable-aar-says-gujarat-gst-registration-required/article71462805.ece",
-            "category": "Defence",
-            "date": "2026-09-13T10:40:32Z"
+            "title": "Data centres in Australia: your questions answered",
+            "summary": "Community opposition is intensifying against large-scale data centres, prompting critics to call for a pause in their development. This mirrors actions taken by jurisdictions like New York, highlighting growing concerns over the environmental impact and resource consumption of expanding digital infrastructure. Aspiring officers should recognize the public debate surrounding technological advancements and their societal implications.",
+            "url": "https://theconversation.com/data-centres-in-australia-your-questions-answered-290841",
+            "category": "Sci & Tech",
+            "date": "2026-09-13T20:10:56Z"
+        },
+        {
+            "title": "Problem with some icon loading (Discord) Firefox crash",
+            "summary": "A user reports significant computer anomalies, including the Discord application icon failing to load and frequent Firefox browser crashes. Suspecting deeper system issues, a comprehensive FRST64.exe diagnostic scan was executed. The extensive scan results, spanning over 149,000 characters, have been provided to identify and resolve these technical malfunctions.",
+            "url": "https://www.bleepingcomputer.com/forums/t/818616/problem-with-some-icon-loading-discord-firefox-crash/",
+            "category": "Sci & Tech",
+            "date": "2026-09-13T19:39:03Z"
         }
     ]
 }
