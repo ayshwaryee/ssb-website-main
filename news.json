@@ -1,40 +1,68 @@
 {
-    "last_updated": "2026-09-16T02:58:41.806411+00:00",
+    "last_updated": "2026-09-16T10:42:58.341209+00:00",
     "articles": [
         {
-            "title": "ITCONS E-Solutions bags order worth Rs 83 lakh",
-            "summary": "ITCONS E-Solutions has secured an Rs 83.05 lakh manpower outsourcing services contract from the Indian Navy, Ministry of Defence. This deal highlights the Indian Armed Forces' increasing collaboration with the private sector for essential operational support and efficiency. For SSB aspirants, it demonstrates how external partnerships enhance defence capabilities and the broader ecosystem supporting national security.",
-            "url": "https://www.business-standard.com/markets/capital-market-news/itcons-e-solutions-bags-order-worth-rs-83-lakh-126091500080_1.html",
-            "category": "Defence",
-            "date": "2026-09-15T02:34:01Z"
-        },
-        {
-            "title": "Allison Janney Wins Emmy for Supporting Actress in Drama, Tying Record for Most Wins by a Performer",
-            "summary": "Allison Janney, known for her role in \"The Diplomat,\" recently earned her eighth career Emmy Award for Outstanding Supporting Actress in a Drama Series. This significant achievement places her among television's most celebrated performers, as she now ties the all-time record for Emmy wins by an actress. Her remarkable career continues to be recognized for excellence.",
-            "url": "https://variety.com/2026/tv/news/allison-janney-wins-emmy-supporting-actress-drama-1236860099/",
+            "title": "Delhi government has decided to construct hostels for 10,000 students: CM Rekha Gupta",
+            "summary": "Delhi Chief Minister Rekha Gupta announced plans for the construction of fully equipped and secure hostel facilities for 10,000 students. This initiative by the Delhi government aims to provide safe and comprehensive accommodation for students enrolled across colleges in the capital. The project emphasizes student welfare and aims to enhance access to higher education by addressing accommodation needs effectively.",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-government-has-decided-to-construct-hostels-for-10000-students-cm-rekha-gupta/articleshow/134258839.cms",
             "category": "National",
-            "date": "2026-09-15T00:32:23Z"
+            "date": "2026-09-15T10:31:22Z"
         },
         {
-            "title": "Andy Burnham delays ordering new submarines for TWO years despite global threats",
-            "summary": "Andy Burnham has reportedly postponed new submarine orders for two years, despite existing global threats. This decision could impact national defence capabilities and strategic readiness, a critical aspect for SSB aspirants to understand regarding maritime security. It highlights the balance between political decisions and defence preparedness in a dynamic global environment.",
-            "url": "https://freerepublic.com/focus/f-bloggers/4395527/posts",
-            "category": "Defence",
-            "date": "2026-09-14T23:31:57Z"
+            "title": "Chandrayaan-1 finds clues to a Moon basin lost in time",
+            "summary": "India's Chandrayaan-1 mission data has provided crucial mineralogical evidence of an ancient, hidden impact basin on the Moon. This significant basin is no longer visible through conventional topographic or gravity data, highlighting the mission's profound contribution to lunar geology. The discovery underscores India's growing prowess in space research, offering new insights into the Moon's early history and geological evolution.",
+            "url": "https://economictimes.indiatimes.com/news/science/chandrayaan-1-discovers-evidence-of-ancient-moon-basin-unveiling-lunar-secrets/articleshow/134258690.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-15T10:25:46Z"
         },
         {
-            "title": "Indian government reveals new system able to detect Chinese-made components in military drones",
-            "summary": "The Indian Army has inaugurated a new lab to uncover hidden vulnerabilities in drones, particularly those utilizing Chinese-origin components. This initiative, supported by AASHVAST technicians, aims to identify potential backdoors and weaknesses. It strengthens national security protocols by ensuring operational integrity against sophisticated threats, underscoring the Army's commitment to modern warfare preparedness and safeguarding critical defence assets from exploitation.",
-            "url": "https://www.techradar.com/pro/indian-government-reveals-new-system-able-to-detect-chinese-made-components-in-military-drones",
-            "category": "Defence",
-            "date": "2026-09-14T22:45:00Z"
+            "title": "Meet Enos Mills, the Kansas teenager who built a cabin near Longs Peak at 15 and helped create Rocky Mountain National Park",
+            "summary": "A contentious clash occurred between US Senator Mazie Hirono and former government official Kash Patel, reportedly ending in an abrupt exit. The incident, marked by strong accusations including \"You're a liar & drunk!\", apparently rattled an FBI boss. This highlights significant political and intelligence tensions within the United States government.",
+            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-enos-mills-the-kansas-teenager-who-built-a-cabin-near-longs-peak-at-15-and-helped-create-rocky-mountain-national-park/articleshow/134258158.cms",
+            "category": "National",
+            "date": "2026-09-15T10:12:54Z"
         },
         {
-            "title": "Delhi Police Investigate Two Separate Body Discoveries in Outer City",
-            "summary": "The news briefly mentions Donald Trump's daughter-in-law clarifying an oligarch's wedding funding, denying conspiracy. More significantly, the extensive article primarily details a People's Liberation Army (PLA) deployment along an unspecified border. This highlights ongoing military activity or strategic positioning, crucial for understanding defence and geopolitical implications.",
-            "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-investigate-two-separate-body-discoveries-in-outer-city/articleshow/134244904.cms",
+            "title": "Lanterns Star Poorna Jagannathan On Episode 5's Reveal That Zoe Killed [Spoiler]",
+            "summary": "The latest, fifth installment of the 'Lanterns' series delivered significant plot developments, playing out like a season finale despite three episodes remaining. This pivotal episode featured several major reveals and included the deaths of key characters, marking a crucial turn in the ongoing narrative. Its dramatic events have significantly escalated the stakes, building anticipation for the season's conclusion.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-star-poorna-jagannathan-on-episode-5s-reveal-that-zoe-killed-spoiler-a229895",
+            "category": "International",
+            "date": "2026-09-15T10:07:15Z"
+        },
+        {
+            "title": "NATO fighter jet shoots down drone over Lithuania",
+            "summary": "An Italian NATO fighter jet successfully intercepted and shot down a drone over Lithuanian airspace early Tuesday morning, as reported by the Lithuanian National Crisis Management Centre. This event underscores NATO's robust air defence posture and commitment to territorial integrity, demonstrating the alliance's constant vigilance and rapid response capabilities in safeguarding member states amidst regional security challenges. It highlights operational readiness crucial for collective defence.",
+            "url": "https://www.cbc.ca/news/world/nato-response-lithuania-drone-9.7344227",
             "category": "Defence",
-            "date": "2026-09-14T16:46:26Z"
+            "date": "2026-09-15T10:07:12Z"
+        },
+        {
+            "title": "DRDO develops GaN chip: Meet Dr Meena Mishra, scientist behind the technology that was denied by other countries and why it matters for Indian defence platforms",
+            "summary": "Dr. Meena Mishra, Director of DRDO's Solid State Physics Laboratory (SSPL), played a pivotal role in India's successful indigenous development of critical Gallium (Ga)-based technology. This significant achievement by DRDO enhances India's self-reliance in advanced defence materials, vital for modern electronic systems and bolstering national security. It exemplifies India's growing scientific and technological capabilities in defence.",
+            "url": "https://economictimes.indiatimes.com/news/defence/drdo-develops-gan-chip-meet-dr-meena-mishra-scientist-behind-the-technology-that-was-denied-by-other-countries-and-why-it-matters-for-indian-defence-platforms/articleshow/134257456.cms",
+            "category": "Defence",
+            "date": "2026-09-15T10:03:15Z"
+        },
+        {
+            "title": "Gold rates today in Abu Dhabi, Dubai, Riyadh, Doha, Kuwait City, Muscat: Check 24K, 22K, 18K gold rates on September 15, 2026",
+            "summary": "On September 15, 2026, gold rates in Dubai and Abu Dhabi were updated, with 24-karat gold priced at AED 518.75 per gram and 22-karat gold at AED 480.50 per gram. These figures, reported by the Joyalukkas website at 9:15 AM, provide essential market data for investors and consumers tracking precious metal prices in the UAE.",
+            "url": "https://m.economictimes.com/wealth/invest/gold-rates-today-in-abu-dhabi-dubai-riyadh-doha-kuwait-city-muscat-check-24k-22k-18k-gold-rates-on-september-15-2026/gold-rates-in-dubai-and-abu-dhabi/slideshow/134257759.cms",
+            "category": "International",
+            "date": "2026-09-15T09:35:46Z"
+        },
+        {
+            "title": "Celebrate Ganpati, Travel Smart With AU Credit Cards, and Enjoy Exciting Offers on Flights & Hotels",
+            "summary": "AU Small Finance Bank is actively celebrating Ganesh Chaturthi across India, aiming to enhance festive joy. The bank is likely introducing special offerings or initiatives for customers during this auspicious season. This reflects how financial institutions engage with major national festivals, promoting community spirit and services, especially in Maharashtra and other regions.",
+            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/celebrate-ganpati-travel-smart-with-au-credit-cards-and-enjoy-exciting-offers-on-flights-hotels/article71466991.ece",
+            "category": "National",
+            "date": "2026-09-15T09:23:50Z"
+        },
+        {
+            "title": "Cast your vote for the Oshkosh and Fond du Lac Athlete of the Week",
+            "summary": "A local 'Athlete of the Week' poll is currently underway for high school athletes in the Oshkosh and Fond du Lac regions. Open for voting from September 7th to 13th, the initiative encourages residents to cast their votes for area student-athletes excelling in various sports, including cross country. Voting concludes on Friday, September 18th.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/2026/09/15/oshkosh-fond-du-lac-athlete-of-the-week-poll-for-sept-7-13/91599504007/",
+            "category": "National",
+            "date": "2026-09-15T09:05:06Z"
         }
     ]
 }
