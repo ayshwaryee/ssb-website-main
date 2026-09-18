@@ -1,33 +1,75 @@
 {
-    "last_updated": "2026-09-18T02:49:31.355541+00:00",
+    "last_updated": "2026-09-18T10:25:55.623145+00:00",
     "articles": [
         {
-            "title": "At 76, PM Narendra Modi\u2019s journey runs from a Gujarat town to the world stage",
-            "summary": "Prime Minister Narendra Modi marked his 76th birthday on Thursday, September 17. This occasion reflects his remarkable political journey, originating from Vadnagar, Gujarat, and culminating in his tenure as India's highest elected official. His career exemplifies a long and dedicated path in public service, reaching the nation's top leadership position.",
-            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/narendra-modi-biography-journey-from-tea-seller-to-prime-minister-world-leader-at-76-pm-narendra-modis-journey-runs-from-a-gujarat-town-to-the-world-stage/articleshow/134278454.cms",
-            "category": "National",
-            "date": "2026-09-17T02:47:13Z"
+            "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
+            "summary": "Kochi-based EyeROV is pioneering indigenous marine technology, specifically advanced underwater robots. Showcased at the BRICS Summit, this highlights India's growing technological prowess and global ambitions in specialized robotics. For SSB aspirants, this exemplifies India's crucial self-reliance in critical marine tech, essential for national defence, security, and exploration capabilities.",
+            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/eyerov-indian-deep-tech-startup-showcases-its-underwater-drones-to-world-leaders/article71476119.ece",
+            "category": "Sci & Tech",
+            "date": "2026-09-17T10:00:40Z"
         },
         {
-            "title": "We have an El Ni\u00f1o tracker in space but the rainfall reshapers we need to study most are closer home",
-            "summary": "Food prices are rising across the nation amidst weakening monsoon rains, resulting in a significant 15% rain deficit. This deficit is directly contributing to price uptrends for crucial commodities like oilseeds, edible oils, and pulses. The situation underscores a pressing national challenge concerning agricultural output and inflation, potentially impacting food security and household budgets.",
-            "url": "https://www.livemint.com/opinion/online-views/el-ni-o-tracker-in-space-rainfall-we-need-to-study-most-close-to-home-inflation-indian-ocean-dipole-11789482559205.html",
-            "category": "National",
-            "date": "2026-09-17T02:00:14Z"
-        },
-        {
-            "title": "Modi and Xi\u2019s Meeting Caps a Detente",
-            "summary": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping held a significant meeting on the sidelines of the BRICS summit. Highlighted in Foreign Policy's South Asia Brief, this encounter is crucial for understanding current India-China relations and regional geopolitical dynamics. Such high-level engagements often signal shifts in international diplomacy, making them important for aspirants studying global affairs and foreign policy.",
-            "url": "http://foreignpolicy.com/2026/09/16/modi-xi-brics-meeting-india-china-detente/",
+            "title": "Donald Trump Returns to the U.N. Amid the Collapse of the Old Order",
+            "summary": "Former President Trump and his team advocate for a pared-down United Nations. U.S. Ambassador to the U.N. Mike Waltz emphasized the institution's critical need for strong, effective leadership. This indicates a potential strategic divergence in U.S. foreign policy concerning the U.N.'s future role and structure, which is crucial for understanding global governance challenges.",
+            "url": "https://www.newyorker.com/news/global-notes/donald-trump-returns-to-the-un-amid-the-collapse-of-the-old-order",
             "category": "International",
-            "date": "2026-09-17T00:21:25Z"
+            "date": "2026-09-17T10:00:00Z"
         },
         {
-            "title": "Psychedelic Pop Artist Peter Max Has Died At 88, His Son Says",
-            "summary": "Peter Max, the renowned pop artist celebrated for his vibrant, psychedelic works emblematic of the 1960s flower power movement, has passed away at 86. His distinctive art, which captured the optimism of a generation, transcended traditional canvases, adorning everything from postage stamps to cruise ships, leaving an indelible mark on global culture.",
-            "url": "https://www.huffpost.com/entry/ap-us-obit-peter-max_n_6aab232ce4b0812a5f1028f5",
+            "title": "A WW1 Submarine Wreck Is Leaking Explosives Into The North Sea",
+            "summary": "A German WW1 submarine, SM UC-30, sank in April 1917 after hitting a British mine while returning home. The incident resulted in the loss of 27 crewmen along with its armament of 18 mines and six torpedoes. This historical event underscores the inherent dangers and strategic importance of naval warfare during major conflicts.",
+            "url": "https://www.sciencealert.com/a-ww1-submarine-wreck-is-leaking-explosives-into-the-north-sea",
+            "category": "Defence",
+            "date": "2026-09-17T10:00:00Z"
+        },
+        {
+            "title": "India, US troops conduct counter-terror drills in Yudh Abhyas 2026",
+            "summary": "Indian and US Army troops conducted advanced building-clearance and room-intervention drills in Auli during Yudh Abhyas 2026. This 22nd edition of the joint exercise focused on urban warfare tactics, leveraging modern assets such as drones, robotic dogs, canines, and snipers. The drills aimed to enhance interoperability and specialized combat skills, strengthening bilateral defence cooperation between the two nations.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-us-army-yudh-abhyas-2026-counter-terror-drills-auli-126091700694_1.html",
+            "category": "Defence",
+            "date": "2026-09-17T09:47:20Z"
+        },
+        {
+            "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
+            "summary": "Prime Minister Narendra Modi visited the EyeROV pavilion at the Bharat Innovates Exposition, organised by the Ministry of Education in New Delhi. Held as part of the BRICS Summit, the event showcased indigenous innovations. The PM's visit underscores India's commitment to fostering technological advancements and supporting startups like EyeROV, highlighting their role in national development and self-reliance.",
+            "url": "https://www.prnewswire.com/news-releases/eyerov-indian-deep-tech-startup-showcases-its-underwater-drones-to-world-leaders-302881854.html",
+            "category": "Sci & Tech",
+            "date": "2026-09-17T09:27:00Z"
+        },
+        {
+            "title": "Think you can spot a ChatGPT image? Take my real-or-AI quiz and see how many fool you",
+            "summary": "OpenAI recently launched ChatGPT Images 2.5, significantly upgrading its AI image generation capabilities. This new model promises sharper details and faster image creation, representing a notable leap in artificial intelligence for visual content. Such technological advancements are vital for SSB aspirants to understand emerging global trends and their potential applications across various sectors, including defence and national security.",
+            "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
+            "category": "Sci & Tech",
+            "date": "2026-09-17T09:07:39Z"
+        },
+        {
+            "title": "Isro staff for probe into PSLV sabotage allegations, raise cadre review, other concerns",
+            "summary": "ISRO staff are demanding a thorough investigation into serious allegations of sabotage concerning the Polar Satellite Launch Vehicle (PSLV) program. Concurrently, they have raised other significant internal concerns, specifically calling for a comprehensive cadre review within the esteemed space organization. This signals internal unrest and calls for immediate management attention to ensure smooth operations and morale.",
+            "url": "https://timesofindia.indiatimes.com/science/isro-staff-for-probe-into-pslv-sabotage-allegations-raise-cadre-review-other-concerns/articleshow/134306311.cms",
+            "category": "Sci & Tech",
+            "date": "2026-09-17T08:35:17Z"
+        },
+        {
+            "title": "Check out the Oshkosh, Fond du Lac area football stat leaders",
+            "summary": "As the high school football season reaches its midpoint, players from the Oshkosh and Fond du Lac areas are having particularly memorable seasons. Through the first four weeks, numerous athletes from these communities have showcased strong performances, contributing to an exciting and unforgettable year for local high school football. The article details their successes and promising talent.",
+            "url": "https://www.thenorthwestern.com/story/sports/high-school/football/2026/09/17/wiaa-high-school-football-week-4-stat-leaders-from-oshkosh-fond-du-lac/91709038007/",
+            "category": "National",
+            "date": "2026-09-17T08:03:26Z"
+        },
+        {
+            "title": "Gold rate today (September 17, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
+            "summary": "Gold prices in India dipped on Thursday, September 17, 2026, with major jewellery brands reporting lower 22k rates compared to the previous day. This market movement, tracked by the India Bullion and Jewellers Association (IBJA), reflects daily fluctuations impacting consumers and the economy, a key aspect for general awareness.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-september-17-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-tanishq-ibja-in-delhi-mumbai-hyderabad-more-cities/articleshow/134305137.cms",
+            "category": "National",
+            "date": "2026-09-17T07:49:34Z"
+        },
+        {
+            "title": "Greece\u2019s ties with Israel spark tensions with Turkey",
+            "summary": "Fresh tensions are flaring between Turkey and Greece over territorial waters and military installations on Aegean islands. Ankara is notably concerned about Greece's deepening international ties. This renewed friction underscores long-standing disputes over maritime boundaries and sovereignty, impacting regional stability and international relations.",
+            "url": "https://www.irishtimes.com/world/2026/09/17/greeces-growing-ties-with-israel-spark-tensions-with-turkey/",
             "category": "International",
-            "date": "2026-09-16T23:34:04Z"
+            "date": "2026-09-17T05:50:56Z"
         }
     ]
 }
