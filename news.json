@@ -1,61 +1,68 @@
 {
-    "last_updated": "2026-09-19T10:10:47.839743+00:00",
+    "last_updated": "2026-09-19T15:13:10.437436+00:00",
     "articles": [
         {
-            "title": "Friends fly better together",
-            "summary": "The Royal Australian Navy's HMAS Perth conducted operations in the strategically vital South China Sea, hosting a VIP visit from the US Navy's Deputy Commodore. This interaction underscores robust defence cooperation and interoperability between Australia and the US, highlighting their combined presence and commitment to regional security in the contested maritime area.",
-            "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260918-au-navy01.htm",
+            "title": "Tier-2 cities see housing prices rise nearly twice as fast as top 8 markets: Report",
+            "summary": "A recent report highlights a significant trend in India's real estate sector: housing prices in Tier-2 cities are surging at nearly double the pace observed in the top 8 metropolitan markets. This indicates robust economic growth and increasing demand in smaller urban centers, offering crucial insights into evolving national development and investment opportunities beyond the major metros.",
+            "url": "https://timesofindia.indiatimes.com/real-estate/news/tier-2-cities-see-housing-prices-rise-nearly-twice-as-fast-as-top-8-markets-report/articleshow/134338142.cms",
+            "category": "National",
+            "date": "2026-09-18T15:04:44Z"
+        },
+        {
+            "title": "Delhi Police crack blind theft case as delivery boy flaunts new iPhone, plans costly bike",
+            "summary": "Recent national news highlights the immersion of 2,300 Lord Ganesh idols in Coimbatore district waterbodies, concluding the festive period. Concurrently, an income tax tribunal case is unfolding at ITAT Mumbai, addressing a dispute where a taxman added an erroneously declared Rs 9.6 lakh EPF interest to an individual's income. These events reflect significant cultural happenings and ongoing legal interpretations within India.",
+            "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-crack-blind-theft-case-as-delivery-boy-flaunts-new-iphone-plans-costly-bike/articleshow/134338407.cms",
+            "category": "National",
+            "date": "2026-09-18T15:03:32Z"
+        },
+        {
+            "title": "In 1979, Beach Boys co-founder Mike Love paid $435,000 for a 2.5-acre Lake Tahoe property; the nearly 19,000-sq-ft estate he built is now surrounded by six protected acres and listed for $43 million",
+            "summary": "Beach Boys co-founder Mike Love purchased a 2.5-acre Lake Tahoe property in 1979 for $435,000. He subsequently constructed a vast, nearly 19,000-square-foot estate on the land. The article introduces this significant celebrity real estate, detailing its initial acquisition and scale, with further information regarding its present status to be elaborated upon.",
+            "url": "https://timesofindia.indiatimes.com/world/us/in-1979-beach-boys-co-founder-mike-love-paid-435000-for-a-2-5-acre-lake-tahoe-property-the-nearly-19000-sq-ft-estate-he-built-is-now-surrounded-by-six-protected-acres-and-listed-for-43-million/articleshow/134336086.cms",
+            "category": "National",
+            "date": "2026-09-18T15:03:29Z"
+        },
+        {
+            "title": "Defence Min calls for indigenous tech, public-private synergy in aviation",
+            "summary": "Defence Minister Rajnath Singh stressed that the public and private sectors should be viewed as complementary forces, not competitors. This perspective is crucial for maximizing national potential, particularly in defence. He likely underscored the importance of synergy between government enterprises and private industries to foster innovation, accelerate indigenous production, and enhance self-reliance, thereby strengthening India's defence capabilities and modernization efforts for SSB aspirants.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/defence-min-calls-for-indigenous-tech-public-private-synergy-in-aviation-126091801163_1.html",
             "category": "Defence",
-            "date": "2026-09-18T10:09:02Z"
+            "date": "2026-09-18T15:03:25Z"
         },
         {
-            "title": "Lanterns midseason trailer teases more Sinestro, Guy Gardner, and Hal Jordan's possible killer \u2014 and I have a new theory about how the former Green Lantern will be brought back to life",
-            "summary": "A new midseason trailer for the HBO TV show 'Lanterns' has been released, offering glimpses into its developing storyline. The trailer hints at the introduction of Guy Gardner, an expanded role for Sinestro, and potentially reveals the identity of Hal Jordan's killer. It also suggests the series will adapt major comic book arcs, immersing viewers deeper into the DC Universe's cosmic mythology.",
-            "url": "https://www.techradar.com/streaming/hbo-max/lanterns-midseason-trailer-teases-more-sinestro-guy-gardner-and-hal-jordans-possible-killer-and-i-have-a-new-theory-about-how-the-former-green-lantern-will-be-brought-back-to-life",
-            "category": "Sci & Tech",
-            "date": "2026-09-18T10:00:00Z"
-        },
-        {
-            "title": "Merit Financial Advisors Adds Nearly $900 Million Advisor Team Led by Tim Brennan, Expanding Chicagoland Presence",
-            "summary": "Merit Financial Advisors, based in Atlanta, has acquired a veteran Commonwealth advisor and their Next-Generation team. This strategic move aims to significantly accelerate the company's growth, with a particular focus on expanding its operations within the Illinois and Wisconsin markets. This development signifies a clear business expansion strategy within the United States' financial advisory sector.",
-            "url": "https://www.prnewswire.com/news-releases/merit-financial-advisors-adds-nearly-900-million-advisor-team-led-by-tim-brennan-expanding-chicagoland-presence-302882506.html",
+            "title": "Maruti Swift, Dzire, Baleno CNG get automatic transmission: Prices, details",
+            "summary": "Coimbatore district witnessed the immersion of 2,300 Lord Ganesh idols in waterbodies, marking the conclusion of the festival. Separately, an income tax controversy in Mumbai involves Rs 9.6 lakh EPF interest, mistakenly declared in an ITR, being added to income by tax authorities, prompting a review by ITAT Mumbai. These events cover cultural and financial legal developments.",
+            "url": "https://timesofindia.indiatimes.com/auto/cars/maruti-swift-dzire-baleno-cng-get-automatic-transmission-prices-details/articleshow/134338295.cms",
             "category": "National",
-            "date": "2026-09-18T10:00:00Z"
+            "date": "2026-09-18T15:00:07Z"
         },
         {
-            "title": "Over 20 Indonesian firms to join INA-LAC business mission in Chile",
-            "summary": "Indonesia's Ministry of Foreign Affairs confirmed over 20 Indonesian companies' participation in the INA-LAC Business Mission in Santiago, Chile. This pivotal initiative aims to bolster economic ties and trade between Indonesia and Latin American-Caribbean nations. Such international business engagements are vital for fostering global partnerships, expanding Indonesia's economic footprint, and demonstrating its proactive foreign policy in promoting national interests.",
-            "url": "https://en.antaranews.com/news/431869/over-20-indonesian-firms-to-join-ina-lac-business-mission-in-chile",
+            "title": "UC Ban on \"Intentional or Repeated Use of a Name or Pronoun Inconsistent with the Individual's Gender Identity\" \u2026",
+            "summary": "A legal challenge, Defending Education v. Anguiano, is underway concerning a portion of the University of California's anti-harassment policy. Presided over by Judge Fred Slaughter, the case involves plaintiffs contesting specific aspects of the university's regulations. This legal action targets the scope or application of the existing harassment guidelines.",
+            "url": "https://reason.com/volokh/2026/09/18/uc-ban-on-intentional-or-repeated-use-of-a-name-or-pronoun-inconsistent-with-the-individuals-gender-identity/",
+            "category": "National",
+            "date": "2026-09-18T14:58:40Z"
+        },
+        {
+            "title": "From July Uprising leader to graft probe: Former Yunus govt advisor Asif Mahmud under scanner",
+            "summary": "Coimbatore district witnessed the immersion of approximately 2,300 Lord Ganesh idols in waterbodies, a key post-festival ritual. This event underscores local cultural traditions and environmental management challenges associated with large-scale immersions. SSB aspirants should monitor such national cultural-environmental developments for a holistic understanding of societal dynamics.",
+            "url": "https://timesofindia.indiatimes.com/world/south-asia/from-july-uprising-leader-to-graft-probe-former-yunus-govt-advisor-asif-mahmud-under-scanner/articleshow/134338078.cms",
+            "category": "National",
+            "date": "2026-09-18T14:56:17Z"
+        },
+        {
+            "title": "ICE to remain without Senate-confirmed chief after White House withdraws Trump\u2019s pick",
+            "summary": "The U.S. Immigration and Customs Enforcement (ICE) will continue operating without a Senate-confirmed chief after the White House officially withdrew the previous administration's nominee. This decision leaves a key federal agency responsible for immigration enforcement without permanent, Senate-approved leadership, reflecting ongoing political dynamics concerning high-level government appointments.",
+            "url": "https://timesofindia.indiatimes.com/world/us/ice-to-remain-without-senate-confirmed-chief-after-white-house-withdraws-trumps-pick/articleshow/134338205.cms",
             "category": "International",
-            "date": "2026-09-18T09:45:22Z"
+            "date": "2026-09-18T14:45:36Z"
         },
         {
-            "title": "8 Sci-Fi Movies That Divided Critics At The Time But Are Now 10/10 Masterpieces",
-            "summary": "In summer 1982, critics largely misjudged seminal films \"Blade Runner\" and \"The Thing.\" These science fiction/horror classics initially faced negative reviews and poor box office performance. This highlights how early critical reception can often fail to foresee the lasting cultural impact and eventual acclaim of groundbreaking cinematic works, a crucial lesson in perspective.",
-            "url": "https://screenrant.com/sci-fi-movies-mixed-reviews-masterpieces/",
-            "category": "Sci & Tech",
-            "date": "2026-09-18T09:32:15Z"
-        },
-        {
-            "title": "Gurgaon hit-and-run: Accused Kalyan Singh Bainsla, cousin Lavnish sent to 14-day judicial custody",
-            "summary": "India achieved a historic milestone at the Asian Games, recording their largest T20I victory. Simultaneously, significant political developments saw the Trinamool Congress officially rename itself 'Mamata All India Trinamool Congress'. Party leader 'Didi' (Mamata Banerjee) also unveiled a new party symbol: a football player, signaling strategic changes within the prominent national political party.",
-            "url": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-hit-and-run-accused-kalyan-singh-bainsla-cousin-lavnish-sent-to-14-day-judicial-custody/articleshow/134330696.cms",
-            "category": "National",
-            "date": "2026-09-18T09:17:42Z"
-        },
-        {
-            "title": "Why is Thileepan, who took terrorism, made a hero in Nallur?",
-            "summary": "A new bronze monument in Nallur, Sri Lanka, commemorates Thileepan, a prominent LTTE political leader who died on a hunger strike from September 15-26, 1987. His protest was against specific demands. The monument's installation reignites historical sensitivities concerning this pivotal event in Sri Lankan Tamil politics and India-Sri Lanka relations.",
-            "url": "https://www.sinhalanet.net/why-is-thileepan-who-took-terrorism-made-a-hero-in-nallur",
+            "title": "2,300 Lord Ganesh idols immersed in waterbodies in Coimbatore district",
+            "summary": "Beijing has strongly criticized the Philippines following a vessel collision in the South China Sea, accusing Manila of deliberate provocations. This incident marks a significant escalation of maritime tensions in the highly contested region. Such disputes are vital for SSB aspirants to understand global geopolitics, international law, and potential flashpoints.",
+            "url": "https://timesofindia.indiatimes.com/city/coimbatore/2300-lord-ganesh-idols-immersed-in-waterbodies-in-coimbatore-district/articleshow/134338179.cms",
             "category": "International",
-            "date": "2026-09-18T09:12:28Z"
-        },
-        {
-            "title": "Bigg Boss 20: Gauahar Khan calls out Mary Kom over Mahhi Vij-Yung DSA fight, says \u2018At least sach toh boliye\u2019",
-            "summary": "In the context of Bigg Boss 20, actress Gauahar Khan publicly criticized boxing legend Mary Kom. Khan's call-out concerned a recent dispute involving participants Mahhi Vij and Yung DSA within the reality show. Gauahar Khan specifically urged Mary Kom to \"at least speak the truth\" regarding the incident, highlighting an apparent disagreement over the facts of the fight.",
-            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-gauahar-khan-calls-out-mary-kom-over-mahhi-vij-yung-dsa-fight-says-at-least-sach-toh-boliye/articleshow/134330178.cms",
-            "category": "National",
-            "date": "2026-09-18T08:31:44Z"
+            "date": "2026-09-18T14:43:59Z"
         }
     ]
 }
