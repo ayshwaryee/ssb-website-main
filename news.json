@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-09-20T20:11:26.112715+00:00",
+    "last_updated": "2026-09-21T02:57:30.956624+00:00",
     "articles": [
         {
-            "title": "China is readying the world's first giant submarine UAV carrier \u2014 built with a 1115ft dock, the unnamed mothership could be longer (and bigger) than WW2 light aircraft carriers and carry 148ft underwater drones",
-            "summary": "Satellite imagery shows China constructing a ~200m mothership in Shanghai, designed to deploy and recover submarine-sized drones. Analysts suggest this vessel, featuring a bottom-opening well-deck, signifies a significant leap in China's unmanned naval warfare capabilities. For SSB aspirants, this highlights evolving maritime strategic challenges and technological advancements in naval defence, emphasizing the growing importance of drone technology in modern warfare.",
-            "url": "https://www.techradar.com/pro/china-is-readying-the-worlds-first-giant-submarine-uav-carrier-built-with-a-1115ft-dock-the-unnamed-mothership-could-be-longer-and-bigger-than-ww2-light-aircraft-carriers-and-carry-148ft-underwater-drones",
-            "category": "Defence",
-            "date": "2026-09-19T19:05:00Z"
+            "title": "Green Lantern #39 Preview: Kyle Battles Killer Burger Mascots",
+            "summary": "Green Lantern #39 pits Kyle Rayner against bizarre threats, including homicidal fast food mascots and extraterrestrial plastic surgeons, indicating a highly imaginative storyline. Amidst these unusual confrontations, the comic also explores a developing romance for the hero. This issue promises a unique blend of action and personal narrative for fans of the DC universe, pushing the boundaries of conventional superhero challenges.",
+            "url": "https://bleedingcool.com/comics/green-lantern-39-preview-kyle-battles-killer-burger-mascots/",
+            "category": "Sci & Tech",
+            "date": "2026-09-20T02:27:09Z"
         },
         {
-            "title": "India and Nepal explore strategic bilateral ties, global role at RIS seminar",
-            "summary": "An international seminar on 'Reimagining India-Nepal Relations' was held in New Delhi. Attended by Nepalese Finance Minister Swarnim Wagle and India's MEA Additional Secretary Munu Mahawar, the event aimed to strengthen bilateral ties, explore cooperation avenues, and enhance strategic partnership. These diplomatic engagements are vital for regional stability and mutual development, underscoring India's key foreign policy objectives.",
-            "url": "https://economictimes.indiatimes.com/news/india/india-and-nepal-explore-strategic-bilateral-ties-global-role-at-ris-seminar/articleshow/134358310.cms",
+            "title": "Articles On: U.S.-China Relations, AI, Taiwan, Chinese Military Strategy, Cyberwarfare, Space Competition, Hong Kong, China-India Relations, China-Japan Relations, and Strategic Competition",
+            "summary": "This news snippet highlights two key topics: an analysis of former President Trump's understanding of Xi Jinping, pointing to complexities in US-China relations; and a critical perspective from a former U.S. A.I. diplomat. The latter expresses doubts about the effectiveness of upcoming AI safety talks, indicating a pessimistic outlook on international efforts to manage artificial intelligence risks. Both articles underscore ongoing global challenges in diplomacy and technology governance.",
+            "url": "https://www.hoover.org/research/articles-us-china-relations-ai-taiwan-chinese-military-strategy-cyberwarfare-space",
             "category": "International",
-            "date": "2026-09-19T17:42:58Z"
+            "date": "2026-09-20T00:00:00Z"
         },
         {
-            "title": "From INSAS to AK-203: How India's 'Sher' assault rifle came to be",
-            "summary": "Soldiers primarily rely on assault rifles as their fundamental weapon, sometimes enhanced with hand grenades and bulletproof jackets for improved safety. The article introduces a historical or contextual element by mentioning \"The British set,\" likely pertaining to military doctrine or equipment development. This highlights the crucial role of personal weaponry and safety gear in defence operations for service personnel.",
-            "url": "https://economictimes.indiatimes.com/news/defence/from-insas-to-ak-203-how-indias-sher-assault-rifle-came-to-be/articleshow/134358020.cms",
-            "category": "Defence",
-            "date": "2026-09-19T17:33:00Z"
-        },
-        {
-            "title": "2026 OKC Thunder fan survey results: Cason Wallace should be 5th starter",
-            "summary": "The Oklahoma City Thunder basketball team is emerging as a popular favorite for the 2026-27 regular season championship title. Despite implementing cost-cutting strategies during the summer, the team's strong prospects and strategic positioning indicate their readiness to compete at an elite level. This highlights how effective resource management can still lead to top-tier performance.",
-            "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/09/19/2026-okc-thunder-fan-survey-results-cason-wallace-should-be-5th-starter/91845959007/",
-            "category": "National",
-            "date": "2026-09-19T17:00:09Z"
-        },
-        {
-            "title": "IAF Suryakiran team enthrals audience in Meerut",
-            "summary": "Nine fighter aircraft recently performed breathtaking aerobatics in Meerut, captivating observers. The display featured dynamic formation changes, with jets appearing to skim the ground before executing complex inverted manoeuvres high in the sky. This powerful showcase highlighted the exceptional skill of the pilots and the advanced capabilities of the aircraft, reinforcing India's aerial prowess and readiness for potential SSB aspirants.",
-            "url": "https://economictimes.indiatimes.com/news/defence/iaf-suryakiran-team-enthrals-audience-in-meerut/articleshow/134355957.cms",
-            "category": "Defence",
-            "date": "2026-09-19T14:37:32Z"
+            "title": "HellGates, custom CPU gate-level challenge",
+            "summary": "The article discusses HellGates, a sophisticated 'crackme' challenge published in 2025. It centers on a custom-designed, 32-bit CPU that is both encrypted and bit-addressable, presenting a significant reverse-engineering task. This intricate project underscores advancements in cybersecurity and low-level system design, demanding advanced problem-solving skills to unravel its complexities.",
+            "url": "https://blog.xutaxkamay.com/posts/hellgates/",
+            "category": "Sci & Tech",
+            "date": "2026-09-19T21:44:07Z"
         }
     ]
 }
