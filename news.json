@@ -1,19 +1,40 @@
 {
-    "last_updated": "2026-09-23T20:58:42.312970+00:00",
+    "last_updated": "2026-09-24T02:48:16.320127+00:00",
     "articles": [
         {
-            "title": "LANTERNS Showrunner Says Batman Mention Required \u201cShockingly Fewer Conversations\u201d Than You\u2019d Think",
-            "summary": "The HBO series \"Lanterns,\" in its sixth episode, subtly confirmed Batman's official existence within the live-action DCU. This revelation was made without a grand announcement, simply establishing his presence in the fictional universe, rather than a massive reveal.",
-            "url": "https://geektyrant.com/news/lanterns-showrunner-says-batman-mention-required-shockingly-fewer-conversations-than-youd-think",
-            "category": "National",
-            "date": "2026-09-22T20:37:00Z"
+            "title": "Lanterns Star Nathan Fillion on Making Guy Gardner Work in HBO Series",
+            "summary": "Actor Nathan Fillion is confident that Guy Gardner will fit seamlessly into HBO's upcoming 'Lanterns' series, despite its advertised darker and more serious tone. Fillion suggests Gardner's unique personality and comedic timing can effectively integrate. This provides insight into the creative direction of the highly anticipated superhero adaptation, balancing its grim premise with established character dynamics for a global audience.",
+            "url": "https://bleedingcool.com/tv/lanterns-star-nathan-fillion-on-making-guy-gardner-work-in-hbo-series/",
+            "category": "International",
+            "date": "2026-09-23T02:37:10Z"
         },
         {
-            "title": "Trump and Xi: Strongmen at the Temple of Thymos",
-            "summary": "In May 2026, U.S. President Donald Trump made his second state visit to China, escorted by President Xi Jinping through Beijing's historic Temple of Heaven. This significant diplomatic event between the two global powers likely involved high-level discussions on bilateral relations, trade, and geopolitical issues, underscoring complex international power dynamics and strategic alliances.",
-            "url": "https://thediplomat.com/2026/09/trump-and-xi-strongmen-at-the-temple-of-thymos/",
+            "title": "Trump suggests Ukraine deal could be close while meeting with Zelenskyy",
+            "summary": "Ukrainian President Zelenskyy met with US counterpart Donald Trump, expressing confidence that the White House can help resolve Russia's 4-year war on his nation. Despite these diplomatic overtures, attacks from both sides continue. This meeting highlights the ongoing international efforts and Ukraine's strategic reliance on US support to achieve peace and stability amidst the protracted conflict.",
+            "url": "https://www.business-standard.com/world-news/trump-suggests-ukraine-deal-could-be-close-while-meeting-with-zelenskyy-126092300056_1.html",
             "category": "International",
-            "date": "2026-09-22T18:43:00Z"
+            "date": "2026-09-23T02:21:07Z"
+        },
+        {
+            "title": "Introducing the All-New SIG SAUER P385",
+            "summary": "At its premier SIG NEXT event on September 22, 2026, SIG SAUER, a renowned firearms manufacturer, unveiled the P385 pistol, promising a new era of performance. This introduction of advanced small arms technology is crucial for SSB aspirants to note, as such developments often impact weapon procurement and operational effectiveness for military and law enforcement agencies, signifying continuous innovation in defence capabilities.",
+            "url": "https://www.prnewswire.com/news-releases/introducing-the-all-new-sig-sauer-p385-302886920.html",
+            "category": "Defence",
+            "date": "2026-09-23T02:21:00Z"
+        },
+        {
+            "title": "Single-cell atlas of transcriptomic vulnerability across brain disorders",
+            "summary": "This scientific initiative focuses on collecting and harmonizing extensive clinical, pathological, and demographic metadata linked to brain tissue specimens. Over 1,000 samples were sourced from leading brain banks, including the Mount Sinai NIH Neurobiobank. The effort aims to create a standardized, comprehensive dataset crucial for advanced neurological research, potentially enhancing our understanding of brain diseases and paving the way for innovative treatments.",
+            "url": "https://www.nature.com/articles/s41586-025-09573-z",
+            "category": "Sci & Tech",
+            "date": "2026-09-23T00:00:00Z"
+        },
+        {
+            "title": "Karnataka high court defers plea on Vande Mataram order",
+            "summary": "The news features former President Trump's media initiatives amidst reports of a White House media ban affecting traditional news outlets. Separately, Israeli Prime Minister Netanyahu strongly criticized the NYC Mayor ahead of a crucial UN speech, with an associated arrest threat looming. These developments highlight significant ongoing events in international politics and media spheres, relevant for understanding global dynamics.",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-high-court-defers-plea-on-vande-mataram-order/articleshow/134419053.cms",
+            "category": "International",
+            "date": "2026-09-22T18:29:30Z"
         }
     ]
 }
