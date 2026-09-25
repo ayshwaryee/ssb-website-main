@@ -1,68 +1,40 @@
 {
-    "last_updated": "2026-09-25T10:59:16.516202+00:00",
+    "last_updated": "2026-09-25T16:21:37.275565+00:00",
     "articles": [
         {
-            "title": "What would Seshan do if faced with SIR?",
-            "summary": "Maharashtra farmers are experiencing severe distress following the failure of the Kharif crop, with the prospects for the upcoming Rabi crop also appearing bleak. This critical situation highlights significant agricultural challenges and economic hardship for the state's farming community, raising concerns about food security and rural livelihoods.",
-            "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/what-would-seshan-do-if-faced-with-sir/articleshow/134459647.cms",
+            "title": "Salman Khan: The Uber Driver Who Won Asian Games Rowing Medal",
+            "summary": "Indian rower Salman Khan's inspiring journey from an Uber driver to an Asian Games bronze medallist in men's double sculls exemplifies remarkable dedication. Overcoming financial hurdles, he fulfilled his late father's dream through sport. His achievement, driven by immense discipline and perseverance, showcases how unwavering commitment leads to national pride and success, offering a powerful lesson for SSB aspirants.",
+            "url": "https://www.rediff.com/sports/report/salman-khan-from-uber-driver-to-asian-games-rower/20260924.htm",
             "category": "National",
-            "date": "2026-09-24T10:58:04Z"
+            "date": "2026-09-24T16:19:37Z"
         },
         {
-            "title": "\u201cLimit yourself to a haircut only\u201d: Neurosurgeon has a warning for salon-goers; next time you visit a salon, remember this one salon procedure can lead to paralysis",
-            "summary": "Neurosurgeon Dr. Arun Naik has issued a warning against the practice of neck cracking in salons after haircuts. Shared widely on X, his message highlights potential severe health risks associated with this seemingly innocuous step. People are urged to avoid such practices to prevent serious injuries, emphasizing the importance of public awareness regarding health safety in common routines.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/limit-yourself-to-a-haircut-only-neurosurgeon-has-a-warning-for-salon-goers-next-time-you-visit-a-salon-remember-this-one-salon-procedure-can-lead-to-paralysis/articleshow/134458923.cms",
-            "category": "National",
-            "date": "2026-09-24T10:30:01Z"
-        },
-        {
-            "title": "twig-cli added to PyPI",
-            "summary": "This article introduces a new Command Line Interface (CLI) designed to streamline Git worktree management. It enables users to create, jump between, and clean up worktrees with simple, single commands. The CLI emphasizes ease of use, programmatic interaction via JSON output, and robust shell integration, significantly enhancing developer productivity by simplifying complex Git operations.",
-            "url": "https://pypi.org/project/twig-cli/",
-            "category": "Sci & Tech",
-            "date": "2026-09-24T10:21:26Z"
-        },
-        {
-            "title": "Check out the Oshkosh, Fond du Lac area football stat leaders",
-            "summary": "The high school football season in Oshkosh and Fond du Lac has reached its midpoint, with local players delivering memorable performances. The article details remarkable athletic achievements from teams and individual players across the region, highlighting their ongoing success and community engagement in American youth sports. This update showcases the vibrant local sports scene and achievements.",
-            "url": "https://www.thenorthwestern.com/story/sports/high-school/football/2026/09/24/oshkosh-fond-du-lac-high-school-football-stat-leaders-through-week-5/91812887007/",
-            "category": "National",
-            "date": "2026-09-24T08:02:07Z"
-        },
-        {
-            "title": "Gold rate today (September 24, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
-            "summary": "Gold prices decreased today, September 24, 2026, across India's prominent jewellery retailers including Malabar Gold & Diamonds, Kalyan Jewellers, Tanishq, and Joyalukkas. Such fluctuations in the bullion market are important for SSB aspirants to track, as they reflect national economic indicators and consumer sentiment. Understanding these market trends offers insight into broader financial dynamics within the country.",
-            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-september-24-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-tanishq-ibja-in-delhi-mumbai-hyderabad-more-cities/articleshow/134455623.cms",
-            "category": "National",
-            "date": "2026-09-24T07:55:33Z"
-        },
-        {
-            "title": "In 2026, Australian researchers combined satellite images and desktop mapping to uncover more than 1,000 previously uncharted coral reefs",
-            "summary": "More than a thousand previously unmapped coral reefs have been discovered off northern Australia's coast. These substantial reefs are large enough to host diverse marine ecosystems, including fish, sharks, and complex food webs. This significant finding underscores the vastness of unexplored underwater environments and the critical importance of continued marine research and conservation efforts for biodiversity protection worldwide.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/in-2026-australian-researchers-combined-satellite-images-and-desktop-mapping-to-uncover-more-than-1000-previously-uncharted-coral-reefs/articleshow/134427107.cms",
-            "category": "Sci & Tech",
-            "date": "2026-09-24T07:40:00Z"
-        },
-        {
-            "title": "'Looking forward to seeing US, Indian troops train side by side': Sergio Gor touches down at Mahajan Range for Yudh Abhyas 2026",
-            "summary": "US Ambassador to India Sergio Gor visited the Mahajan Field Firing Range in Rajasthan to observe joint drills between Indian and US Army troops. These exercises, part of 'Yudh Abhyas', significantly bolster defence cooperation, interoperability, and strategic partnership between the two nations, crucial for regional security and shared interests.",
-            "url": "https://economictimes.indiatimes.com/news/defence/looking-forward-to-seeing-us-indian-troops-train-side-by-side-sergio-gor-touches-down-at-mahajan-range-for-yudh-abhyas-2026/articleshow/134454988.cms",
-            "category": "Defence",
-            "date": "2026-09-24T07:23:31Z"
-        },
-        {
-            "title": "Did you know they've made a TV series where real politicians pretend Russia is bombing the UK?",
-            "summary": "Two senior RAF pilots were reportedly shot dead in an 'execution-style' attack outside a UK pub. Concurrently, a severe malware attack has crippled the NHS computer systems, leading to critical ambulance delays and reported patient deaths. These dual incidents highlight significant national security concerns, critical infrastructure vulnerabilities, and the growing threat of cyber warfare within the UK.",
-            "url": "https://www.thejournal.ie/the-wargame-sky-tv-series-7170805-Sep2026/",
-            "category": "National",
-            "date": "2026-09-24T06:30:01Z"
-        },
-        {
-            "title": "'Restore access': US court temporarily blocks Trump's ban on TV networks from White House",
-            "summary": "A US court has temporarily blocked former President Trump's ban on several television networks from accessing the White House. This significant ruling effectively restores access for these media outlets, marking a victory for press freedom and media's right to cover the presidency. The decision underscores ongoing legal debates surrounding government-media relations and transparency in the United States.",
-            "url": "https://timesofindia.indiatimes.com/world/us/restore-access-us-court-temporarily-blocks-trumps-ban-on-tv-networks-from-white-house/articleshow/134453012.cms",
+            "title": "Trump hails \u2018great friendship\u2019 with Xi as Chinese leader visits White House",
+            "summary": "US President Donald Trump hosted Chinese President Xi Jinping at the White House, marking their first meeting there in over a decade. The visit was characterized by significant pomp and ceremony, reflecting the high-stakes diplomatic engagement between the two global powers. This summit aimed to address key bilateral and international issues, emphasizing the importance of US-China relations despite underlying tensions.",
+            "url": "https://www.abc.net.au/news/2026-09-25/trump-welcomes-xi-to-white-house/107193702",
             "category": "International",
-            "date": "2026-09-24T06:04:50Z"
+            "date": "2026-09-24T16:08:47Z"
+        },
+        {
+            "title": "The next phase of Make in India",
+            "summary": "Launched in September 2014, India's 'Make in India' initiative aimed to boost domestic manufacturing for both national needs and global export. Over twelve years, it has significantly transformed into a comprehensive national manufacturing mission. This strategic evolution underscores India's commitment to strengthening its industrial base, fostering self-reliance, and enhancing its global economic footprint through indigenous production.",
+            "url": "https://www.thehindubusinessline.com/opinion/the-next-phase-of-make-in-india/article71503740.ece",
+            "category": "National",
+            "date": "2026-09-24T15:54:43Z"
+        },
+        {
+            "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+            "summary": "NISAR (NASA-ISRO Synthetic Aperture Radar) data from December 2025 to August 2026 revealed the spread of lava from Russia's Krasheninnikov volcano on the Kamchatka Peninsula. This joint Earth-observing mission utilizes advanced radar to monitor geological changes like volcanic activity, providing crucial insights for disaster preparedness and understanding Earth's dynamic processes. It exemplifies international collaboration in space science.",
+            "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+            "category": "Sci & Tech",
+            "date": "2026-09-24T15:47:17Z"
+        },
+        {
+            "title": "From Russia to India: Meet Yury Lisichko, the man fixing shooters' pistol grips",
+            "summary": "The provided text is a standard prompt for a website's comment section, not a news article. It encourages readers to share thoughts while adhering to community guidelines and respectful discourse. As it lacks substantive news content, it offers no information relevant for an SSB aspirant studying current affairs or specific topics like Defence, National, or International events.",
+            "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/from-russia-to-india-meet-yury-lisichko-the-man-fixing-shooters-pistol-grips/articleshow/134465806.cms",
+            "category": "National",
+            "date": "2026-09-24T15:37:27Z"
         }
     ]
 }
