@@ -1,68 +1,47 @@
 {
-    "last_updated": "2026-09-27T16:15:22.926929+00:00",
+    "last_updated": "2026-09-27T20:44:16.161552+00:00",
     "articles": [
         {
+            "title": "Justin Verlander makes final start: Where he stands in Detroit Tigers history",
+            "summary": "Veteran right-handed pitcher Justin Verlander, 43, made his final career start for the Detroit Tigers on September 26. This appearance marked his 382nd start for the team, concluding his 21st Major League Baseball season. Verlander's long and distinguished career with the Tigers concludes, a significant event in professional baseball.",
+            "url": "https://www.freep.com/story/sports/mlb/tigers/2026/09/26/justin-verlander-ranks-detroit-tigers-leaderboards-history/91958811007/",
+            "category": "National",
+            "date": "2026-09-26T19:13:20Z"
+        },
+        {
+            "title": "How Australia's defence force is turning AI into a 'silicon commander'",
+            "summary": "Last year, the Australian-made Ghost Bat, an AI-powered uncrewed aircraft, made aviation and AI history over South Australia. This platform, roughly two-thirds the size of a fighter, achieved a significant autonomous flight milestone. The event highlights Australia's advancements in integrating artificial intelligence with advanced aerial vehicles, crucial for evolving defence capabilities.",
+            "url": "https://www.abc.net.au/news/2026-09-27/defence-force-ai-transformation/107139794",
+            "category": "Defence",
+            "date": "2026-09-26T19:09:38Z"
+        },
+        {
+            "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
+            "summary": "An unnamed analyst warns humanity faces its most dangerous era, reiterating long-standing predictions of three converging global conflicts. These conflicts are projected to collectively escalate into a 'World War III' scenario. The current geopolitical stage is unfortunately set, indicating an imminent or already unfolding progression towards these grave global challenges, requiring urgent attention and awareness.",
+            "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
+            "category": "International",
+            "date": "2026-09-26T19:06:00Z"
+        },
+        {
+            "title": "biolabcalc added to PyPI",
+            "summary": "This article introduces a multifaceted Python library and Excel extension designed to simplify daily wet-lab molecular biology calculations. It aids in reaction optimization, in vitro transcription stoichiometry, PCR kinetics, and protein quantification, streamlining complex scientific computations for researchers. This tool enhances efficiency and accuracy in molecular biology experiments.",
+            "url": "https://pypi.org/project/biolabcalc/",
+            "category": "Sci & Tech",
+            "date": "2026-09-26T18:56:35Z"
+        },
+        {
+            "title": "Lanterns S01E07: \"The Jordan Boys' Legacy\": Hal's Past Holds The Key",
+            "summary": "HBO's upcoming series 'Lanterns,' starring Aaron Pierre and Kyle Chandler, is set to delve into Hal Jordan's past, revealing its crucial importance. The seventh episode, titled \"The Jordan Boys' Legacy,\" indicates that understanding Jordan's history will be central to the unfolding narrative. This highly anticipated show promises deep character exploration within the iconic Lanterns lore, hinting at advanced alien technology as a core element of its fictional universe.",
+            "url": "https://bleedingcool.com/tv/lanterns-s01e07-the-jordan-boys-legacy-hals-past-holds-the-key/",
+            "category": "Sci & Tech",
+            "date": "2026-09-26T18:37:09Z"
+        },
+        {
             "title": "Passing game lifts Freedom past Little Chute in County N rivalry game",
-            "summary": "The article details a highly anticipated local football battle between undefeated Freedom and Little Chute teams, fiercely competing for the coveted County N sign. This intense rivalry generates significant community excitement, elevating the stakes and promising a theatrical sporting event. The match highlights local sporting prowess and school pride within the region.",
+            "summary": "The highly anticipated football clash between the Freedom and Little Chute teams for the County N sign promises intense action. This season, the stakes are particularly high as both teams enter the contest undefeated, setting the stage for a dramatic and compelling battle. The showdown is expected to deliver significant drama and spectacle, drawing considerable attention in the local sporting arena.",
             "url": "https://www.postcrescent.com/story/sports/high-school/football/2026/09/26/high-school-football-takeaways-for-week-6-in-the-appleton-area/91953558007/",
             "category": "National",
             "date": "2026-09-26T15:24:45Z"
-        },
-        {
-            "title": "Congress must save the Navy from becoming \u2018hollow\u2019",
-            "summary": "The article emphasizes the U.S. Constitution's crucial mandate for Congress to provide and maintain a Navy, a responsibility deemed more vital than ever. The author previously asserted in June 2022 that the U.S. Navy was 'broken,' signaling significant concerns about its operational readiness and the efficacy of Congressional oversight in ensuring its robust maintenance and strategic capabilities.",
-            "url": "https://www.wnd.com/2026/09/congress-must-save-navy-becoming-hollow/",
-            "category": "Defence",
-            "date": "2026-09-26T15:20:34Z"
-        },
-        {
-            "title": "op-system 0.4.0",
-            "summary": "The article introduces `op_system`, a software tool designed for specifying and compiling mathematical equations (ODEs, PDEs) critical for modeling complex multi-physics and multi-scale systems. It offers a domain-agnostic approach, enabling scientists and engineers to efficiently define right-hand sides (RHS) for diverse physical phenomena using YAML/JSON-friendly specifications. This innovation streamlines advanced scientific computing and simulation.",
-            "url": "https://pypi.org/project/op-system/",
-            "category": "Sci & Tech",
-            "date": "2026-09-26T14:02:30Z"
-        },
-        {
-            "title": "She left IAF after 10 years to support family, then lost husband in MiG-21 crash; Supreme Court backs her reinstatement",
-            "summary": "The Supreme Court has directed the reinstatement of a former Indian Air Force Short Service Commissioned woman officer. She had left service in 2013 and subsequently became a war widow. This landmark ruling underscores the legal system's role in addressing grievances and ensuring justice for defence personnel, even years after their initial departure, setting an important precedent.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/she-left-iaf-after-10-years-to-support-family-then-lost-husband-in-mig-21-crash-supreme-court-backs-her-reinstatement/articleshow/134505659.cms",
-            "category": "Defence",
-            "date": "2026-09-26T14:00:50Z"
-        },
-        {
-            "title": "In 2023, recycled face-mask fibre was added to printable concrete; a 1% dose raised compressive strength by 41% over unreinforced concrete",
-            "summary": "In 2023, researchers successfully integrated recycled face-mask fibres into printable concrete, demonstrating a significant improvement in material strength. A mere 1% addition of these fibres increased the concrete's compressive strength by 41% compared to unreinforced concrete. This innovative development presents a sustainable approach to construction, enhancing material performance while effectively repurposing waste materials.",
-            "url": "https://timesofindia.indiatimes.com/science/in-2023-recycled-face-mask-fibre-was-added-to-printable-concrete-a-1-dose-raised-compressive-strength-by-41-over-unreinforced-concrete/articleshow/134501133.cms",
-            "category": "Sci & Tech",
-            "date": "2026-09-26T13:28:35Z"
-        },
-        {
-            "title": "In 2023, engineers melted discarded plastic bags into roof tiles; the lighter tiles showed test temperatures about 17\u00b0C lower than standard roof materials",
-            "summary": "In 2023, engineers successfully repurposed discarded plastic bags into innovative roof tiles. These lighter, eco-friendly tiles demonstrated significantly improved thermal performance, registering temperatures approximately 17\u00b0C lower than conventional roofing materials during tests. This development presents a promising sustainable solution for construction, potentially reducing building energy consumption and contributing to environmental conservation through waste repurposing.",
-            "url": "https://timesofindia.indiatimes.com/science/in-2023-engineers-melted-discarded-plastic-bags-into-roof-tiles-the-lighter-tiles-lowered-test-temperatures-by-about-17c-compared-with-standard-roof-materials/articleshow/134500980.cms",
-            "category": "Sci & Tech",
-            "date": "2026-09-26T13:17:42Z"
-        },
-        {
-            "title": "10 Best Hulu TV Shows Of 2026 (So Far)",
-            "summary": "Bryan Cranston, famous for 'Walter White', reprised his iconic role for the 'Malcolm in the Middle: Life's Still Unfair' reunion. The beloved Fox sitcom's cast reunited to mostly positive results, bringing back the cherished series for fans. This cultural event signifies a notable return for a popular television classic, marking its continued impact.",
-            "url": "https://www.tvline.com/2269362/best-hulu-tv-shows-2026/",
-            "category": "International",
-            "date": "2026-09-26T13:02:00Z"
-        },
-        {
-            "title": "Original Rachel Dolezal wants to have dinner with \u2018Palestinian Rachel Dolezal\u2019: \u2018Girl, tell me your story\u2019",
-            "summary": "Rachel Dolezal, known for faking a Black identity, expressed interest in meeting Hannah Gann, a Philadelphia activist recently exposed for allegedly pretending to be Palestinian. Gann, a white Jewish woman, was dubbed the \"Palestinian Rachel Dolezal\" due to the similar nature of identity deception in activism. This incident highlights ongoing discussions surrounding authenticity and representation in social justice movements.",
-            "url": "https://nypost.com/2026/09/26/us-news/rachel-dolezal-wants-to-talk-with-hannah-gann-the-palestinian-rachel-dolezal/",
-            "category": "National",
-            "date": "2026-09-26T12:24:27Z"
-        },
-        {
-            "title": "My Mother-in-Law Needs to Move in With Us. But She\u2019s Insisting on Bringing Something Chilling.",
-            "summary": "The provided text is an incomplete snippet, promoting 'The Slatest' for daily analysis and Slate's 'Dear Prudence' advice column. Crucially, the actual news content (indicated by [+9155 chars]) is missing. This prevents a meaningful news summary for an SSB aspirant or accurate category assignment based on the provided input.",
-            "url": "https://slate.com/advice/2026/09/dear-prudence-mil-move-in-chilling.html",
-            "category": "National",
-            "date": "2026-09-26T12:00:00Z"
         }
     ]
 }
