@@ -1,33 +1,40 @@
 {
-    "last_updated": "2026-09-29T03:50:18.963632+00:00",
+    "last_updated": "2026-09-29T11:59:35.078470+00:00",
     "articles": [
         {
-            "title": "TakeMe2Space to launch India\u2019s first orbital computing satellite on SpaceX rocket",
-            "summary": "A Hyderabad-based startup's MOI-1A satellite is slated for launch later this year aboard a Falcon 9 rocket. This pioneering satellite will carry advanced Nvidia processors, capable of an impressive 117 trillion operations per second, into orbit. This initiative represents a significant stride in deploying high-performance computing capabilities in space, spearheaded by an Indian firm.",
-            "url": "https://cryptobriefing.com/takeme2space-india-orbital-computing-satellite-spacex/",
-            "category": "Sci & Tech",
-            "date": "2026-09-28T03:44:12Z"
+            "title": "Nifty slips below 22,800 as rising oil prices, US yields trigger selling",
+            "summary": "Global equity benchmarks fell sharply amid escalating Iran-US tensions, which significantly pushed crude oil prices higher. Concerns mounted over potential prolonged supply disruptions and rising US Treasury yields. For SSB aspirants, understanding how geopolitical conflicts directly impact global energy markets, economic stability, and supply chains is crucial for national strategic awareness.",
+            "url": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-22-800-as-rising-oil-prices-us-yields-trigger-selling-126092800905_1.html",
+            "category": "International",
+            "date": "2026-09-28T11:46:09Z"
         },
         {
-            "title": "Lanterns Episode 7 Ending Just Answered a Major Sinestro Question",
-            "summary": "The article details 'Lanterns Episode 7', revealing the solution to Sinestro's major mystery within the fictional series' narrative. The penultimate episode finally discloses the location of an escaped villain, dramatically impacting the story arc heading into its finale. This content pertains to developments in a science fiction entertainment franchise, not real-world news relevant for SSB aspirants.",
-            "url": "https://www.superherohype.com/news/695897-lanterns-episode-7-ending-sinestro-location-an",
+            "title": "Lanterns Episode 7 Drops Flash Easter Eggs DC Fans May Have Missed",
+            "summary": "Lanterns Episode 7 subtly introduced a Flash connection into Hal Jordan's past, largely missed by viewers. A new analysis highlights these hidden DC Comics nods, deepening the superhero narrative. This discovery enriches the established continuity of the Green Lantern and Flash universes, showcasing intricate storytelling and character interconnections in these adaptations.",
+            "url": "https://www.superherohype.com/news/695943-lanterns-episode-7-easter-eggs-dcu-batman",
             "category": "Sci & Tech",
-            "date": "2026-09-28T03:39:48Z"
+            "date": "2026-09-28T11:45:00Z"
         },
         {
-            "title": "Lanterns Episode 7 Retcons A Major Piece Of Green Lantern Lore",
-            "summary": "The article discusses a show featuring Green Lantern's Hal Jordan, focusing on the author's reaction to the character's background reframing. The reviewer finds this adaptation more 'eye-rolling' than deeply problematic, indicating a critical but somewhat indifferent stance towards the creative changes made in the series. This piece appears to be entertainment commentary.",
-            "url": "https://www.slashfilm.com/2269532/lanterns-episode-7-retcon-green-lantern-lore/",
-            "category": "Sci & Tech",
-            "date": "2026-09-28T03:00:00Z"
+            "title": "High Potential, Lanterns, MTV VMAs & More: BCTV Daily Dispatch",
+            "summary": "The BCTV Daily Dispatch compiles various entertainment news from the streaming and TV industry. Topics covered include updates on the MTV VMAs, popular television series such as 'Lanterns,' 'SNL,' 'Daredevil: Born Again,' 'High Potential,' and 'Scrubs,' alongside content related to William Shatner and the Star Trek franchise, offering a quick overview of pop culture developments.",
+            "url": "https://bleedingcool.com/tv/high-potential-lanterns-mtv-vmas-more-bctv-daily-dispatch/",
+            "category": "National",
+            "date": "2026-09-28T11:37:08Z"
         },
         {
-            "title": "Can We Stop Saying Lanterns Hates Hal Jordan Now? New DCU Notes",
-            "summary": "The article reviews HBO's \"Lanterns\" series, focusing on episode S01E07, \"The Jordan Boys' Legacy.\" It praises the show's respectful portrayal of Hal Jordan and includes notes relevant to the DC Universe. The discussion centers on the narrative and character development within this science fiction superhero saga, highlighting how the series integrates its fictional elements.",
-            "url": "https://bleedingcool.com/tv/can-we-stop-saying-lanterns-hates-hal-jordan-now-new-dcu-notes/",
+            "title": "Vulnerability Summary for the Week of September 21, 2026",
+            "summary": "The CISA Vulnerability Bulletin reports new cybersecurity vulnerabilities weekly, with some still lacking assigned CVSS scores. This vital resource tracks emerging digital threats, underscoring the continuous need for robust cyber defence. For SSB aspirants, understanding such bulletins emphasizes the evolving landscape of cyber warfare and its critical role in national security.",
+            "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
             "category": "Sci & Tech",
-            "date": "2026-09-28T02:37:10Z"
+            "date": "2026-09-28T11:32:46Z"
+        },
+        {
+            "title": "Russia hits Ukraine's largest mobile provider, strikes data centres",
+            "summary": "Russia recently struck Kyivstar's headquarters, Ukraine's largest mobile provider, as part of a continued bombardment targeting Ukrainian data centers and communication infrastructure. This systematic campaign aims to disrupt essential services nationwide. Such attacks highlight the hybrid warfare dimension, impacting crucial civilian infrastructure vital for daily life and national resilience amid the ongoing conflict.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/russia-hits-ukraines-largest-mobile-provider-strikes-data-centres/articleshow/134540772.cms",
+            "category": "International",
+            "date": "2026-09-28T11:16:17Z"
         }
     ]
 }
