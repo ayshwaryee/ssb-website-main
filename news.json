@@ -1,26 +1,12 @@
 {
-    "last_updated": "2026-09-30T17:28:21.062756+00:00",
+    "last_updated": "2026-09-30T21:47:28.229210+00:00",
     "articles": [
         {
-            "title": "AP govt employees seek faster LoCs for cashless treatment under EHC",
-            "summary": "The provided text is not a news article but rather standard website boilerplate. It includes social media prompts, copyright information for Bennett, Coleman & Co. Ltd. (dated 2026), and details for reprint rights through Times Syndication Service. This content serves administrative and legal functions for a publishing entity, not reporting on current events.",
-            "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-govt-employees-seek-faster-locs-for-cashless-treatment-under-ehc/articleshow/134571537.cms",
-            "category": "National",
-            "date": "2026-09-29T17:23:11Z"
-        },
-        {
-            "title": "pdefa added to PyPI",
-            "summary": "This describes a new CPU inference engine optimized for efficient machine learning tasks, including image processing (PNG/JPEG) and object detection (YOLO). Built in C++20 with AVX2 SIMD for high performance, it incorporates an ONNX engine converter and boasts zero Python dependencies, utilizing ctypes for its Python layer. This technical innovation focuses on delivering high-speed, standalone AI computation capabilities.",
-            "url": "https://pypi.org/project/pdefa/",
-            "category": "Sci & Tech",
-            "date": "2026-09-29T16:43:29Z"
-        },
-        {
-            "title": "Selected Articles: Lithuania and Other NATO Members Plotting Blockade of Kaliningrad",
-            "summary": "Reports indicate Lithuania and other Baltic NATO members are planning a blockade of Kaliningrad, a Russian exclave. This potential action would significantly escalate regional tensions, impacting critical supply lines and challenging Russian access. Such a move underscores ongoing geopolitical friction and could have profound implications for security dynamics between NATO and Russia, demanding close attention from a defence perspective.",
-            "url": "https://www.globalresearch.ca/selected-articles-lithuania-other-nato-members-plotting-blockade-kaliningrad/5942202",
+            "title": "U.S. Navy Advances New W93 Nuclear Warhead for Trident Submarine-Launched Ballistic Missiles",
+            "summary": "The U.S. Navy's W93 warhead and Mk7 reentry body, destined for the Trident II Submarine Launched Ballistic Missile (SLBM) under the D5 Life Extension 2 program, have entered development. This initiative aims to modernize the U.S. nuclear deterrent, ensuring its continued reliability and capability. For SSB aspirants, this underscores the ongoing focus on strategic defence modernization and maintaining a robust nuclear triad.",
+            "url": "https://theaviationist.com/2026/09/29/us-navy-w93-nuclear-warhead-emd/",
             "category": "Defence",
-            "date": "2026-09-29T15:22:45Z"
+            "date": "2026-09-29T20:39:22Z"
         }
     ]
 }
