@@ -1,33 +1,124 @@
 {
-    "last_updated": "2026-09-30T03:38:27.037683+00:00",
+    "last_updated": "2026-09-30T11:47:54.961688+00:00",
     "articles": [
         {
-            "title": "E20 petrol can reduce India's dependence on imports: ONGC official",
-            "summary": "ONGC Director Om Prakash Sinha stated E20 petrol can significantly boost India's self-reliance and reduce fuel imports. Speaking at an event, Sinha emphasized E20's critical role in enhancing national energy security. This push for ethanol-blended petrol is a crucial stride for India to decrease its reliance on foreign oil, aligning with broader national goals for economic and resource independence.",
-            "url": "https://www.thehindubusinessline.com/news/e20-petrol-can-reduce-indias-dependence-on-imports-ongc-official/article71522332.ece",
+            "title": "sonnet-term added to PyPI",
+            "summary": "This document describes the technical foundation of a terminal version for a project named 'Sonnet,' incorporating a 'KINJI' persona and 'Hermes' agent with an original skill pack. It clarifies that the software folder was derived from an executable file ('SonnetSetup (2).exe') and augmented with a Command Line Interface (CLI) layer. The text further outlines its structural components, including a 'sonnet launcher bash' script.",
+            "url": "https://pypi.org/project/sonnet-term/",
+            "category": "Sci & Tech",
+            "date": "2026-09-29T11:44:55Z"
+        },
+        {
+            "title": "AI Short Film \u2018The Gifted\u2019 Wins Inaugural Future Vision XPRIZE Backed By Range Media Partners & Google",
+            "summary": "The AI-generated short film, 'The Gifted,' has won the inaugural Future Vision XPRIZE competition, backed by Google, XPRIZE, and Range Media. This prestigious award recognizes film projects exploring technology's impact on shaping the future. 'The Gifted' exemplifies advancements in creative AI, demonstrating its potential in filmmaking and artistic expression, pushing boundaries in digital storytelling and highlighting the evolving role of artificial intelligence in creative industries.",
+            "url": "http://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
+            "category": "Sci & Tech",
+            "date": "2026-09-29T11:43:13Z"
+        },
+        {
+            "title": "EON Space Labs secures patent for indigenous space telescope MIRA",
+            "summary": "EON Space Labs, a deeptech company focused on advanced electro-optical imaging systems, has been granted a patent for its miniaturised space telescope-based imaging system. This patented technology, referred to as an 'advanced imag...' (likely MIRA), represents a significant stride in developing high-resolution imaging capabilities crucial for various space applications, highlighting innovation in this specialized field.",
+            "url": "https://www.thehindubusinessline.com/news/science/eon-space-labs-secures-patent-for-indigenous-space-telescope-mira/article71523624.ece",
+            "category": "Sci & Tech",
+            "date": "2026-09-29T11:31:56Z"
+        },
+        {
+            "title": "Dolphins news: De\u2019Von Achane injury, Chiefs game reactions, Malik Willis needing to step up",
+            "summary": "The Miami Dolphins suffered a defeat against the Kansas City Chiefs, worsening their season start to 0-3. Beyond the game result, a critical injury sustained by a player during Sunday's match is projected to significantly impact the team's performance and strategy for the entire remainder of the season. This adds a substantial challenge to their already struggling campaign.",
+            "url": "https://www.thephinsider.com/miami-dolphins-news/123200/miami-dolphins-news-devon-achane-injury-updates-roster-moves-kansas-city-chiefs-review-updates-malik-willis",
             "category": "National",
-            "date": "2026-09-29T03:38:00Z"
+            "date": "2026-09-29T11:00:38Z"
         },
         {
-            "title": "NASA lays out phased plan to return Starliner to service",
-            "summary": "NASA and Boeing have outlined a roadmap to return the Starliner spacecraft to operational service, overcoming significant technical hurdles from past flights. This plan ensures Starliner\u2019s readiness for future crewed missions, particularly to the International Space Station. This development is vital for advancing commercial human spaceflight capabilities, showcasing crucial progress in space technology and manned spaceflight engineering.",
-            "url": "https://economictimes.indiatimes.com/news/science/nasa-lays-out-phased-plan-to-return-starliner-to-service/articleshow/134555068.cms",
-            "category": "Sci & Tech",
-            "date": "2026-09-29T03:34:48Z"
+            "title": "The Marvel Actor Who Almost Played Hal Jordan On Lanterns Before Kyle Chandler",
+            "summary": "HBO's upcoming series \"Lanterns\" is drawing praise as a standout live-action DC Comics TV show. It focuses on the compelling dynamic between seasoned hero Hal Jordan (Kyle Chandler) and rookie Lantern John Stewart. This adaptation is noted for its character depth and narrative within the iconic Green Lantern universe, promising a strong addition to the superhero genre.",
+            "url": "https://www.tvline.com/2271664/marvel-actor-josh-brolin-hal-jordan-lanterns-kyle-chandler/",
+            "category": "International",
+            "date": "2026-09-29T10:15:28Z"
         },
         {
-            "title": "The Shadows Have Other Ideas (9 Photos)",
-            "summary": "This article delves into captivating optical illusions crafted by shadows and mundane objects. It illustrates how a painted witch on the road creatively transforms a traffic cone into her hat, playing tricks on visual perception. The text explores various shadow interactions, such as figures seemingly detaching from their silhouettes, highlighting the fascinating interplay between light, shadow, and our interpretation of reality.",
-            "url": "https://streetartutopia.com/2026/09/29/shadow-art-where-the-shadow-tells-the-story/",
-            "category": "Sci & Tech",
-            "date": "2026-09-29T02:01:00Z"
+            "title": "Yogi govt's support push: From free coaching to career guidance for UP's young aspirants",
+            "summary": "A Karachi football team was recently robbed at gunpoint on a Balochistan highway in Pakistan. Unidentified armed individuals intercepted their vehicle, forcibly taking mobile phones and cash from the players and staff. This incident highlights ongoing law and order challenges in certain regions, a concern for national security and stability, relevant for aspirants tracking current affairs.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/yogi-govts-support-push-from-free-coaching-to-career-guidance-for-ups-young-aspirants/articleshow/134561813.cms",
+            "category": "National",
+            "date": "2026-09-29T09:25:25Z"
         },
         {
-            "title": "\u2018The Love Hypothesis\u2019 Cast Guide: Who\u2019s Who in the New Prime Video Romance?",
-            "summary": "The article discusses \"The Love Hypothesis,\" a new Prime Video release that uniquely explores romantic relationships by literally applying scientific chemistry to the concept of love. This fictional narrative delves into complex romantic dynamics as if a scientific hypothesis. The review includes light spoilers for viewers interested in its distinctive approach to interpreting love through a scientific lens.",
-            "url": "https://decider.com/2026/09/28/the-love-hypothesis-cast-guide-prime-video/",
+            "title": "Scientists in Thailand hid fruits in an opaque box; 16 Asian elephants learned to navigate it for rewards and followed it along",
+            "summary": "Scientists in Thailand conducted a study demonstrating the advanced cognitive abilities of 16 Asian elephants. The elephants learned to successfully navigate an opaque box to retrieve hidden fruit rewards. This experiment highlights their impressive spatial memory and problem-solving skills, as they consistently followed the box, showcasing a remarkable capacity for learning and adaptation.",
+            "url": "https://timesofindia.indiatimes.com/science/wildlife/scientists-in-thailand-hid-fruits-in-an-opaque-box-16-asian-elephants-learned-to-navigate-it-for-rewards-and-followed-it-along/articleshow/134561057.cms",
             "category": "Sci & Tech",
-            "date": "2026-09-28T19:00:00Z"
+            "date": "2026-09-29T09:22:06Z"
+        },
+        {
+            "title": "A North Carolina land trust has saved the first 200 acres around Tuckertown Reservoir after 1,400 donors joined the campaign; another 3,800 privately owned acres remain at risk of sale and development",
+            "summary": "In a significant conservation effort, a North Carolina land trust has successfully protected the initial 200 acres around Tuckertown Reservoir. This achievement, driven by contributions from 1,400 donors, marks a crucial step in a broader campaign to preserve vital natural landscapes. Such community-driven environmental initiatives underscore global efforts in ecological protection.",
+            "url": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-land-trust-has-saved-the-first-200-acres-around-tuckertown-reservoir-after-1400-donors-joined-the-campaign-another-3800-privately-owned-acres-remain-at-risk-of-sale-and-development/articleshow/134559571.cms",
+            "category": "International",
+            "date": "2026-09-29T09:22:00Z"
+        },
+        {
+            "title": "Pokimane explains how her cat Mimi died after balcony fall and addresses online criticism",
+            "summary": "A Karachi football team was recently robbed at gunpoint on a Balochistan highway. Assailants reportedly took mobile phones and cash from the team members during the incident. This highlights ongoing law and order challenges in certain regions, which can impact public safety and travel, and is a matter of concern for national security and governance in Pakistan.",
+            "url": "https://timesofindia.indiatimes.com/world/us-streamers/pokimane-explains-how-her-cat-mimi-died-after-balcony-fall-and-addresses-online-criticism/articleshow/134561753.cms",
+            "category": "National",
+            "date": "2026-09-29T09:19:17Z"
+        },
+        {
+            "title": "Indian Shooter Neeru Dhanda Clinches Asian Games Gold",
+            "summary": "Indian shooter Neeru Dhanda made history at the Asian Games by becoming the first Indian woman to win an individual shotgun gold in women's trap. Her remarkable resilience and stellar performance brought immense pride to the nation. This achievement serves as an inspiring example of determination and excellence, motivating aspirants towards significant national contributions and highlighting India's sporting prowess.",
+            "url": "https://www.rediff.com/sports/report/neeru-dhanda-wins-historic-asian-games-gold-in-trap-shooting/20260929.htm",
+            "category": "National",
+            "date": "2026-09-29T09:15:41Z"
+        },
+        {
+            "title": "Pakistan\u2019s Hangor-class submarine fires missile, raising stakes in the Arabian Sea",
+            "summary": "Pakistan successfully test-fired a Chinese YJ-18 anti-ship cruise missile from its newly acquired submarine. This marks a significant enhancement in Pakistan's naval capabilities, particularly its anti-access/area-denial potential. The YJ-18 missile can engage targets beyond visual range, upgrading their submarine fleet's striking power. This development holds implications for regional maritime security dynamics.",
+            "url": "https://timesofindia.indiatimes.com/defence/international/pakistans-hangor-class-submarine-fires-missile-raising-stakes-in-the-arabian-sea/articleshow/134561385.cms",
+            "category": "Defence",
+            "date": "2026-09-29T09:00:30Z"
+        },
+        {
+            "title": "Battling an Army of Price-Setters",
+            "summary": "This article, featured in The American Prospect's October 2026 issue, initiates a discussion on significant economic trends. It specifically addresses the spike in inflation observed shortly after a particular period. Aspiring candidates should note that such analyses often delve into national economic policies, their impacts, and potential future outlooks, crucial for understanding current affairs.",
+            "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
+            "category": "National",
+            "date": "2026-09-29T09:00:00Z"
+        },
+        {
+            "title": "serp-scales added to PyPI",
+            "summary": "A new software development project introduces \"pandas-style\" DataFrame and Series functionalities for Serpentine, a specific programming language subset. This innovation allows the same source code to compile into efficient native binaries and also integrate with standard CPython environments. This advancement promises enhanced data processing efficiency and cross-platform adaptability, offering a valuable tool for developers in various technological and scientific applications.",
+            "url": "https://pypi.org/project/serp-scales/",
+            "category": "Sci & Tech",
+            "date": "2026-09-29T08:36:05Z"
+        },
+        {
+            "title": "serp-molt added to PyPI",
+            "summary": "This technical description outlines a new software component serving as a 'drop-in' for Pydantic v2, aimed at the Serpentine subset. It enables developers to define data models using annotated classes, facilitating robust features like keyword construction and flexible data validation with type coercion. This tool enhances efficiency for software development, particularly in data handling within Python applications.",
+            "url": "https://pypi.org/project/serp-molt/",
+            "category": "Sci & Tech",
+            "date": "2026-09-29T08:29:11Z"
+        },
+        {
+            "title": "Gold rate today (September 29, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
+            "summary": "Gold prices experienced a notable decline today, September 29, 2026, at major Indian jewellery brands including Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas. This market movement reflects a significant shift in the precious metal's valuation, potentially impacting consumer purchasing decisions and investor sentiment within the national market. Updates from other prominent retailers like Tanishq are still anticipated.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-18k-20k-24k-delhi-hyderabad-bengaluru-citywise-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas/articleshow/134558810.cms",
+            "category": "National",
+            "date": "2026-09-29T06:50:31Z"
+        },
+        {
+            "title": "Safegold's latest Ad Film has celebrity Amol Parashar pitching his family's old gold in a living-room 'Shark Tank'",
+            "summary": "SafeGold's new digital film leverages startup pitch rhetoric to address a fundamental question Indian households rarely pose regarding their jewellery. The campaign aims to provoke thought and encourage consumers to critically evaluate aspects of their gold holdings. This initiative challenges conventional thinking about gold ownership within India, likely promoting a new perspective or solution for managing gold assets.",
+            "url": "https://www.business-standard.com/content/specials/safegold-s-latest-ad-film-has-celebrity-amol-parashar-pitching-his-family-s-old-gold-in-a-living-room-shark-tank-126092500351_1.html",
+            "category": "National",
+            "date": "2026-09-29T06:46:26Z"
+        },
+        {
+            "title": "Nel ASA: Receives purchase order from Collins Aerospace for US Navy stacks",
+            "summary": "Nel Hydrogen US secured a purchase order from Collins Aerospace for PEM electrolyser stacks. These stacks are crucial for generating hydrogen, a key component for future aerospace applications. For SSB aspirants, this highlights the growing role of hydrogen technology in the defence and aerospace sectors, potentially impacting future aircraft propulsion and auxiliary power systems development, showcasing evolving strategic technologies.",
+            "url": "https://www.prnewswire.com/news-releases/nel-asa-receives-purchase-order-from-collins-aerospace-for-us-navy-stacks-302892471.html",
+            "category": "Defence",
+            "date": "2026-09-29T06:13:00Z"
         }
     ]
 }
