@@ -1,26 +1,68 @@
 {
-    "last_updated": "2026-10-02T03:42:59.370926+00:00",
+    "last_updated": "2026-10-02T11:45:44.961983+00:00",
     "articles": [
         {
-            "title": "Booked but no ticket, money debited? Delhi HC seeks Railways, IRCTC response on plea seeking audit of online reservation system",
-            "summary": "The Delhi High Court has sought responses from the Ministry of Railways and the Indian Railway Catering and Tourism Corporation (IRCTC) regarding a Public Interest Litigation (PIL). This PIL is seeking an independent assessment concerning an unspecified aspect of railway operations or services. This development highlights judicial oversight on public services, compelling government bodies to address citizen concerns raised through legal channels.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/railways/booked-but-no-ticket-money-debited-delhi-hc-seeks-railways-irctc-response-on-plea-seeking-audit-of-online-reservation-system/articleshow/134606936.cms",
-            "category": "National",
-            "date": "2026-10-01T03:22:27Z"
+            "title": "Stealth frigate INS Trishul takes part in bilateral naval exercise 'Varuna' in France",
+            "summary": "The Indian Navy's stealth frigate INS Trishul recently participated in the flagship bilateral naval exercise 'Varuna' in France. This drill is crucial for strengthening maritime ties and professional bonds between India and France. Such international exercises enhance interoperability and regional security, providing SSB aspirants valuable insights into joint naval operations and defence diplomacy.",
+            "url": "https://economictimes.indiatimes.com/news/defence/stealth-frigate-ins-trishul-takes-part-in-bilateral-naval-exercise-varuna-in-france/articleshow/134617286.cms",
+            "category": "Defence",
+            "date": "2026-10-01T11:28:17Z"
         },
         {
-            "title": "Lanterns: Everything The Finale Has to Do to Land the Plane and Light Up the DCU",
-            "summary": "The article highlights the significant success of \"Lanterns\" in bringing the DC Universe's Green Lantern lore to mainstream audiences, specifically through its presentation in HBO's \"True Detective.\" This demonstrates how fantastical narratives can achieve widespread appeal and strong audience engagement when effectively integrated into popular media, showcasing successful adaptation of complex fictional universes to a broader viewership.",
-            "url": "http://comicbook.com/tv-shows/list/lanterns-everything-the-finale-has-to-do-to-land-the-plane-and-light-up-the-dcu/",
+            "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+            "summary": "Explosions rocked Ethiopia's capital overnight, with sounds reported near the military headquarters in the west and another area in the south of the city. Residents and diplomatic sources confirmed hearing the blasts. This incident, targeting areas close to critical security infrastructure, indicates potential internal instability or a security challenge within the nation's capital.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo",
+            "category": "Defence",
+            "date": "2026-10-01T11:25:03Z"
+        },
+        {
+            "title": "The Competitive Calculus Behind Yann LeCun\u2019s Attack on Anthropic",
+            "summary": "The article discusses a fundamental structural shift impacting AI governance, moving beyond simple personality clashes or philosophical debates among leading AI labs. Current friction arises from deeper disagreements concerning advanced AI development, control, and existential risks. This highlights inherent challenges in establishing effective oversight and collaborative frameworks within the rapidly evolving AI landscape, signaling a more profound systemic issue.",
+            "url": "https://forkast.news/the-competitive-calculus-behind-yann-lecuns-attack-on-anthropic/",
             "category": "Sci & Tech",
-            "date": "2026-10-01T00:30:00Z"
+            "date": "2026-10-01T11:15:30Z"
         },
         {
-            "title": "North Charleston police arrest four on mob assault charges after Northwoods Mall brawl",
-            "summary": "North Charleston police arrested four individuals on mob assault charges following a brawl at Northwoods Mall. The incident, reported by ABC4 News on August 21, 2026, involved multiple people and led to the charges. Authorities intervened to restore order and address the violence that unfolded at the public shopping center, ensuring public safety.",
-            "url": "https://freerepublic.com/focus/f-chat/4397469/posts",
-            "category": "National",
-            "date": "2026-09-30T23:09:24Z"
+            "title": "Can Malik Willis' legs help Dolphins overcome loss of De'Von Achane?",
+            "summary": "Miami Dolphins quarterback Malik Willis has emerged as a formidable rushing threat, accumulating 101 yards. This unusual dual-threat role for a QB is proving challenging for opposing defenses and even surprising for his own team's veterans. His performance highlights a shift in quarterback play, adding a dynamic new dimension to the Dolphins' offensive strategy.",
+            "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/10/01/miami-dolphins-malik-willis-devon-achane-jaylen-wright-ollie-gordon/92028645007/",
+            "category": "International",
+            "date": "2026-10-01T11:06:10Z"
+        },
+        {
+            "title": "Why Lac La Biche's shoreline is getting a health checkup",
+            "summary": "A team of biologists from Masse Environmental, contracted by Living Lakes Canada, is meticulously studying Lac La Biche's shoreline to analyze environmental changes over the past decade. From a boat, they are assessing shifts in the lake's ecology. This vital research underscores the importance of continuous environmental monitoring for safeguarding freshwater ecosystems and informing future conservation strategies.",
+            "url": "https://www.cbc.ca/news/canada/edmonton/lac-la-biche-shoreline-study-9.7363046",
+            "category": "Sci & Tech",
+            "date": "2026-10-01T11:00:00Z"
+        },
+        {
+            "title": "8 Best New Series on Netflix in October 2026",
+            "summary": "The article previews an exclusive selection of 8 highly anticipated series, chosen from over 50 new releases set to debut in October 2026. It highlights upcoming entertainment content from major streaming platforms like Netflix, advising viewers to prepare their watch lists well in advance for these exciting launches.",
+            "url": "https://www.whats-on-netflix.com/what-to-watch/8-best-new-series-on-netflix-in-october-2026/",
+            "category": "International",
+            "date": "2026-10-01T10:59:53Z"
+        },
+        {
+            "title": "Quote of the day by Benedict Cumberbatch: \u2018Story of male grief is what men feel or don\u2019t allow themselves to feel, and the damage done\u2019, Actor\u2019s powerful lesson on teaching boys to feel",
+            "summary": "Benedict Cumberbatch, a highly acclaimed actor, is celebrated for his charismatic personality and diverse acting range. Known globally for his iconic role as Dr. Strange, his powerful performances have garnered him a significant fan following. His stellar skills have established him as a prominent figure in the international entertainment industry, consistently making him a fan favourite.",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-benedict-cumberbatch-story-of-male-grief-is-what-men-feel-or-dont-allow-themselves-to-feel-and-the-damage-done-actors-powerful-lesson-on-teaching-boys-to-feel/articleshow/134615738.cms",
+            "category": "International",
+            "date": "2026-10-01T10:37:48Z"
+        },
+        {
+            "title": "Lanterns Season Finale Teaser Features New Footage - Did [Spoiler] Kill Hal Jordan?",
+            "summary": "The highly anticipated season finale of the series 'Lanterns' is scheduled to premiere on HBO Max this Sunday. A new teaser trailer has been released, featuring overwhelmingly positive critic reviews. Despite concluding its current season, series creator James Gunn has strongly indicated that 'Lanterns' will continue, assuring its future for fans and viewers on the streaming platform.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-season-finale-teaser-features-new-footage---did-spoiler-kill-hal-jordan-a230169",
+            "category": "International",
+            "date": "2026-10-01T10:26:08Z"
+        },
+        {
+            "title": "Turkey says it will block Greece-Cyprus cable work on its continental shelf",
+            "summary": "Turkey's Defence Ministry objects to a planned electricity link between Greece and Cyprus, asserting it won't allow unauthorized activity on its continental shelf. This move highlights Ankara's long-standing territorial and maritime boundary disputes with Greece in the eastern Mediterranean. This geopolitical tension over sovereignty and resource access is crucial for understanding international defence dynamics.",
+            "url": "https://en.protothema.gr/2026/10/01/turkey-says-it-will-block-greece-cyprus-cable-work-on-its-continental-shelf/",
+            "category": "Defence",
+            "date": "2026-10-01T09:24:48Z"
         }
     ]
 }
