@@ -1,54 +1,68 @@
 {
-    "last_updated": "2026-10-03T03:27:48.491863+00:00",
+    "last_updated": "2026-10-03T10:59:03.195676+00:00",
     "articles": [
         {
-            "title": "\u2018New Zealand\u2019s unfair advantage in defence tech\u2019 \u2013 even as Aussies gain foothold with NZDF",
-            "summary": "New Zealand demonstrates a dedicated approach to environmental monitoring and telecommunications, deeply rooted in its national values and ethos. This strategy reflects a strong commitment to integrating technological advancements with sustainable practices and societal well-being, crucial for national development and a progressive global outlook, aligning policy with core principles.",
-            "url": "https://www.nzherald.co.nz/business/new-zealands-unfair-advantage-in-defence-tech-even-as-aussies-gain-foothold-with-nzdf/premium/ZHTQI6MMPFFRTA4WH3S4QGI3PI/",
+            "title": "Army's New $1.2B Missile Defense System Contract Doubles Strike Capacity",
+            "summary": "The U.S. Army is developing an advanced missile defense system, a significant investment aimed at doubling its capacity to strike moving targets in conflicts. This modernization effort enhances defense infrastructure and improves response capabilities against dynamic threats, bolstering strategic readiness. This initiative highlights the Army's focus on next-generation military technology.",
+            "url": "https://military.com/army-12-billion-missile-defense-system-contract-with-lockheed-martin-doubles-strike-capacity",
+            "category": "Defence",
+            "date": "2026-10-02T09:00:14Z"
+        },
+        {
+            "title": "WHO IS YOUR CLUB'S GREATEST EVER PLAYER? Edinburgh City's goal machine, Elgin City's man for all seasons, the wing king of Falkirk, Forfar's smooth operator, and the Cappielow hero who gave Sir Alex nightmares",
+            "summary": "The article begins a discussion to determine Edinburgh City's greatest player, with strong contenders including record appearance holder Dougie Gair and striker Blair Henderson. It notes the challenge of overlooking Gair's impactful midfield presence while acknowledging Henderson's significant contributions. The piece aims to analyze the merits of both players in their claim to the club's top individual honour.",
+            "url": "https://www.dailymail.com/sport/football/article-16140283/GREATEST-Edinburgh-City-Elgin-City-Falkirk-Forfar-Athletic-Greenock-Morton.html",
+            "category": "National",
+            "date": "2026-10-02T08:53:49Z"
+        },
+        {
+            "title": "contentgrid-hal-client 0.2.11",
+            "summary": "A critical website component failed to load, potentially due to browser extensions, network issues, or browser settings. Users are advised to verify their internet connection, disable ad blockers, or try an alternative browser. This technical malfunction prevents full site functionality, requiring user action to resolve access problems and ensure proper web content display.",
+            "url": "https://pypi.org/project/contentgrid-hal-client/0.2.11/",
             "category": "Sci & Tech",
-            "date": "2026-10-02T02:35:21Z"
+            "date": "2026-10-02T08:30:59Z"
         },
         {
-            "title": "Ravens Get Derrick Henry Warning from Titans\u2019 All-Pro",
-            "summary": "Derrick Henry, the two-time NFL rushing champion for the Baltimore Ravens, is grappling with growing offensive challenges. He is focused on overcoming these team problems while preparing to face an All-Pro opponent. This football star's performance is crucial for the Ravens' strategy in upcoming league games.",
-            "url": "https://heavy.com/sports/nfl/baltimore-ravens/derrick-henry-warning-titans-jeffery-simmons/",
+            "title": "This Date in Washington Senators History \u2013 Otis Clymer hits for the cycle",
+            "summary": "The article details historical baseball events involving the Washington Nationals. In 1908, Otis Clymer achieved a batting cycle, leading the Nationals to a dominant 12-2 victory over New York. However, the subsequent 1909 season proved challenging, as the Nationals concluded with a dismal 110-loss record, continuing to drop games, notably against Philadelphia.",
+            "url": "https://dcbaseballhistory.com/2026/10/this-date-in-washington-senators-history-otis-clymer-hits-for-the-cycle/",
             "category": "National",
-            "date": "2026-10-02T01:38:42Z"
+            "date": "2026-10-02T08:30:00Z"
         },
         {
-            "title": "Catholic Caucus: Daily Mass Readings 2-October-2026",
-            "summary": "Jesus taught his disciples about true greatness in the kingdom of heaven, emphasizing humility by using a child as an example. This biblical passage highlights the importance of childlike innocence and lowliness for spiritual leadership, a fundamental teaching of Christianity globally influencing moral philosophy and ethical considerations for aspirants.",
-            "url": "https://freerepublic.com/focus/f-religion/4397616/posts",
+            "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+            "summary": "The Ukrainian military reported that Russia incurred its highest losses of 2026 in September, with 46,230 soldiers killed or wounded. This significant casualty figure underscores the intense nature of ongoing conflict. For SSB aspirants, such reports highlight the brutal realities and human cost of warfare, crucial for understanding defence dynamics and geopolitical impacts.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats",
+            "category": "Defence",
+            "date": "2026-10-02T08:03:02Z"
+        },
+        {
+            "title": "Symposium on Jurisdiction, Responsibility, and Temporality: Nicaragua v. Germany Before the ICJ \u2013 Setting the Record Straight: Germany\u2019s \u2018Robust Legal Framework\u2019 on Weapons Export Licences",
+            "summary": "Germany's agent, in an opening statement, adamantly insisted on rejecting questions related to Germany's actual breaches. This firm position suggests a formal proceeding, likely an international court or diplomatic forum, where Germany is defending its actions. The agent's resistance indicates a strong determination to control the narrative regarding alleged violations, though the specific nature of these breaches remains unspecified.",
+            "url": "http://opiniojuris.org/2026/10/02/setting-the-record-straight-germanys-robust-legal-framework-on-weapons-export-licences/",
             "category": "International",
-            "date": "2026-10-02T01:30:03Z"
+            "date": "2026-10-02T08:00:07Z"
         },
         {
-            "title": "Russia\u2019s Navy Shows Its Reach Around Japan\u2019s Southwestern Islands",
-            "summary": "President Vladimir Putin's mid-August visit to the Kuril Islands, his first as Russia's leader, significantly escalated a long-standing territorial dispute with Japan. This controversial move reignited the decades-old conflict over the strategically important islands, drawing international scrutiny to the strained bilateral relations between Moscow and Tokyo. This ongoing geopolitical issue highlights regional tensions.",
-            "url": "https://thediplomat.com/2026/10/russias-navy-shows-its-reach-around-japans-southwestern-islands/",
+            "title": "The Black Sea is the most dangerous it's been since the start of Russia\u2019s war. And it's choking global grain",
+            "summary": "Mykola Lupar, a 29-year-old commander, leads a Ukrainian navy patrol boat from Chornomorsk in the Black Sea. The article focuses on his crew's missions on the open water, implying the operational challenges and strategic importance of naval presence amidst conflict. This provides insight into the day-to-day realities and critical roles played by naval personnel in maintaining maritime security and defense capabilities.",
+            "url": "https://www.cbc.ca/news/world/commercial-shipping-targeted-black-sea-9.7365129",
+            "category": "Defence",
+            "date": "2026-10-02T08:00:00Z"
+        },
+        {
+            "title": "PSG\u2019s Senny Mayulu out for several weeks",
+            "summary": "Paris Saint-Germain has confirmed that 20-year-old Senny Mayulu will be sidelined for several weeks due to an injury. The promising player sustained the injury while representing France on U21 national team duty earlier this week, forcing him off the field. This incident presents a setback for both Mayulu's immediate playing career and his club's team availability, impacting upcoming fixtures.",
+            "url": "https://www.getfootballnewsfrance.com/2026/psgs-senny-mayulu-out-for-several-weeks/",
             "category": "International",
-            "date": "2026-10-02T00:54:00Z"
+            "date": "2026-10-02T08:00:00Z"
         },
         {
-            "title": "Lanterns Now Averaging 12M U.S./19M Global Viewers Per Episode",
-            "summary": "This incomplete article snippet suggests DC Studios is pleased with viewership for its 'Lanterns' series, featuring Aaron Pierre and Kyle Chandler. However, it lacks substantive details for analysis and is purely entertainment-focused. This content does not align with defence, national, international, or scientific developments typically relevant for SSB aspirants.",
-            "url": "https://bleedingcool.com/tv/lanterns-now-averaging-12m-u-s-19m-global-viewers-per-episode/",
-            "category": "National",
-            "date": "2026-10-01T22:25:10Z"
-        },
-        {
-            "title": "31 Facts, Guesses, and Quotes About Walt Disney World 55 Years Ago from Look Magazine, April 6, 1971",
-            "summary": "Walt Disney World is celebrating its 55th anniversary. Located in Florida, USA, this iconic entertainment complex is a global landmark known for its theme parks, resorts, and immersive experiences. The milestone marks over five decades of providing entertainment and drawing millions of visitors worldwide, cementing its legacy as a premier leisure destination.",
-            "url": "https://touringplans.com/blog/31-facts-guesses-and-quotes-about-walt-disney-world-55-years-ago-from-look-magazine-april-6-1971/",
-            "category": "International",
-            "date": "2026-10-01T18:20:59Z"
-        },
-        {
-            "title": "The Row Spring 2027: Bohemian\u00a0Rhapsody",
-            "summary": "The Row fashion brand launched its spring collection, breaking from tradition by drawing inspiration from the historic 'Hippie Trail.' The new line showcases exquisite handwork, alongside flower-patterned and madras fabrics, reminiscent of market finds. This collection signifies a notable shift in the brand's aesthetic, embracing a more bohemian and globally-influenced design philosophy for the season.",
-            "url": "http://wwd.com/runway/spring-2027/paris/the-row/review/",
-            "category": "International",
-            "date": "2026-10-01T16:28:02Z"
+            "title": "Lithium Americas Corp. (LAC) Stock Price, News, Quote & History",
+            "summary": "Lithium Americas Corp. (LAC) stock showed active trading, with daily and 52-week ranges indicating market volatility and investor interest. High volumes confirm focus on critical mineral companies. This financial data reflects market dynamics for lithium, a pivotal resource. Its strategic importance for electric vehicles and energy storage underscores its role in technological advancement and resource security.",
+            "url": "https://biztoc.com/x/5fd2e35b8c18a6f1",
+            "category": "Sci & Tech",
+            "date": "2026-10-02T04:21:17Z"
         }
     ]
 }
