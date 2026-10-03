@@ -1,82 +1,19 @@
 {
-    "last_updated": "2026-10-03T15:35:54.855768+00:00",
+    "last_updated": "2026-10-03T20:30:30.016720+00:00",
     "articles": [
         {
+            "title": "The Genotype/Phenotype Distinction",
+            "summary": "Researchers Martin Mahner and Michael Kary conducted an extensive survey of textbooks, dictionaries, and scientific articles to analyze the distinctions between genotype and phenotype. Their detailed work identified seven different meanings for these fundamental biological terms. This research aims to clarify the varied interpretations and provide a more precise understanding within genetics and biology.",
+            "url": "https://plato.stanford.edu/entries/genotype-phenotype/",
+            "category": "Sci & Tech",
+            "date": "2026-10-02T20:05:41Z"
+        },
+        {
             "title": "Time Travel, a Cookbook, & More",
-            "summary": "Elian J. Morgan's new book, 'Princeweaver', available for $1.99, is recommended for fantasy fans. Its plot revolves around a politically arranged marriage crucial for saving a warring kingdom. The narrative likely delves into themes of alliances, duty, and personal relationships set against a backdrop of conflict and the desperate need to restore peace and stability to the realm.",
+            "summary": "Elian J. Morgan's fantasy novel 'Princeweaver,' available for $1.99, features a strategic marriage aimed at saving a warring kingdom. The story explores themes of political alliances, conflict resolution, and personal duty. While fictional, it implicitly touches upon the complexities of geopolitical challenges and the pivotal roles individuals play in maintaining peace and order within tumultuous environments.",
             "url": "https://smartbitchestrashybooks.com/2026/10/time-travel-a-cookbook-more/",
-            "category": "Defence",
+            "category": "Sci & Tech",
             "date": "2026-10-02T15:30:32Z"
-        },
-        {
-            "title": "Trump Says Midnight Hammer Strikes Hit \u2018Drug Factories Slash Nuclear Facilities\u2019 In Iran",
-            "summary": "President Donald Trump stated that \"Operation Midnight Hammer\" strikes targeted drug factories and nuclear facilities in Iran. This assertion, made during a campaign rally, indicates potential US military action or a significant threat against key Iranian infrastructure. For an SSB aspirant, this highlights evolving geopolitical tensions and strategic interests concerning Iran's illicit and nuclear programs.",
-            "url": "https://dailycaller.com/2026/10/02/trump-midnight-hammer-strikes-drug-factories-nuclear-facilities-iran",
-            "category": "Defence",
-            "date": "2026-10-02T15:25:02Z"
-        },
-        {
-            "title": "I\u2019m Not Ready For Lanterns Season 1 To End",
-            "summary": "The first season of the TV show 'Lanterns' is concluding after just eight episodes, leaving the reviewer eager for more. Initially promising due to strong casting and an intriguing concept, the series quickly garnered an 'obsession' from the author. Its brief run highlights its unexpected popularity and engaging narrative, with viewers anticipating future installments despite the current season's quick wrap-up.",
-            "url": "https://kotaku.com/im-not-ready-for-lanterns-season-1-to-end-2000739322",
-            "category": "Sci & Tech",
-            "date": "2026-10-02T15:20:56Z"
-        },
-        {
-            "title": "Amy Goodman Documentary \u2018Steal This Story, Please!\u2019 Acquired by Music Box in North America, Home Entertainment Release Set for Oct. 20 (EXCLUSIVE)",
-            "summary": "Music Box Films has acquired North American distribution rights for the documentary 'Steal This Story, Please!' The film, which was initially self-distributed, is set to be released across major digital platforms on October 20. This strategic acquisition is poised to significantly broaden the documentary's reach and accessibility to audiences throughout North America.",
-            "url": "https://variety.com/2026/film/global/amy-goodman-steal-this-story-please-music-box-1236897519/",
-            "category": "International",
-            "date": "2026-10-02T15:10:00Z"
-        },
-        {
-            "title": "8 Things Final Fantasy VII Revelation Is Changing From The Original On PS1",
-            "summary": "Square Enix is preparing to release 'Final Fantasy VII Revelation,' the concluding title in its ambitious Final Fantasy VII remake project. This launch is notable as it overcomes the industry trend of ever-lengthening development cycles for large-scale games, indicating Square Enix's successful management in delivering the highly anticipated final installment of this beloved saga.",
-            "url": "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078",
-            "category": "Sci & Tech",
-            "date": "2026-10-02T15:00:07Z"
-        },
-        {
-            "title": "Lanterns Season Finale Clip Makes Hal Jordan The Most Hated Man In The DCU",
-            "summary": "The first clip from Sunday's season finale of \"Lanterns\" has been released, providing insight into Hal Jordan's life from 2016 to 2026. The scene, set in Rushville, Nebraska, shows Hal Jordan confronting challenges, thereby filling critical narrative gaps for the character and building anticipation for the upcoming conclusion of the season.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-season-finale-clip-makes-hal-jordan-the-most-hated-man-in-the-dcu-a230196",
-            "category": "National",
-            "date": "2026-10-02T14:53:37Z"
-        },
-        {
-            "title": "Royal Navy officer abandoned night watch on \u00a3143 million frigate leaving 'scared' trainee in charge",
-            "summary": "Royal Navy Lieutenant Samuel Hanney was convicted of abandoning a \u00a3143 million frigate, leaving a 'scared' trainee in charge of its safety. This serious breach highlights the critical importance of leadership, responsibility, and adherence to protocols for SSB aspirants. Such actions undermine military discipline and pose significant risks to ship and personnel, emphasizing unwavering accountability.",
-            "url": "https://www.dailymail.com/news/article-16178277/Royal-Navy-officer-abandoned-night-watch-143-million-frigate-leaving-scared-trainee-charge.html",
-            "category": "Defence",
-            "date": "2026-10-02T14:50:24Z"
-        },
-        {
-            "title": "Yann LeCun calls Anthropic\u2019s Dario Amodei \u2018deluded\u2019, Fortune reports",
-            "summary": "Turing Award winner Yann LeCun asserts that concerns about AI wiping out humanity or rogue AI incidents are unfounded. In a recent interview, he expressed zero worries, providing a reassuring counter-narrative amidst ongoing global debates on AI's potential risks and ethical implications. His stance offers a significant perspective from a leading figure in artificial intelligence.",
-            "url": "https://thenextweb.com/news/yann-lecun-dario-amodei-deluded-rogue-agents-fortune",
-            "category": "Sci & Tech",
-            "date": "2026-10-02T12:24:03Z"
-        },
-        {
-            "title": "Annual 350-km canoe trek reconciles First Nations generations a stroke at a time",
-            "summary": "The Mamu Nikantetau Expedition is an annual 10-day, 350-km canoe/walking trek between Ottawa and Montreal. It aims to foster reconciliation and reconnection among Indigenous elders and youth. This Canadian initiative promotes cultural understanding and intergenerational dialogue, highlighting efforts towards national unity and community building through a challenging physical journey.",
-            "url": "https://www.cbc.ca/news/indigenous/mamu-nikanteteau-walks-ottawa-to-montreal-9.7364952",
-            "category": "International",
-            "date": "2026-10-01T22:25:49Z"
-        },
-        {
-            "title": "Lanterns Now Averaging 12M U.S./19M Global Viewers Per Episode",
-            "summary": "DC Studios appears pleased with the performance metrics for its \"Lanterns\" series, featuring Aaron Pierre as John Stewart and Kyle Chandler as Hal Jordan. Airing on platforms like HBO and Max, the project's early numbers suggest positive viewer engagement. This indicates a potential success for the high-profile superhero adaptation, highlighting strategic content decisions within the global entertainment industry.",
-            "url": "https://bleedingcool.com/tv/lanterns-now-averaging-12m-u-s-19m-global-viewers-per-episode/",
-            "category": "International",
-            "date": "2026-10-01T22:25:10Z"
-        },
-        {
-            "title": "The Donroe Doctrine: Is Trump ready to put a U.S. military base in Venezuela?",
-            "summary": "Former US President Donald Trump indicated a potential willingness to consider establishing military bases in Venezuela or other South American nations. Responding to a question, Trump's statement suggested a significant shift in US foreign policy, opening discussions about the potential for increased American military presence in the region. This highlights ongoing geopolitical considerations and their impact on international relations and regional stability, crucial for understanding global power dynamics.",
-            "url": "https://www.wnd.com/2026/10/donroe-doctrine-is-trump-ready-put-u-s/",
-            "category": "International",
-            "date": "2026-10-01T21:24:47Z"
         }
     ]
 }
