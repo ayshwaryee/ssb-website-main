@@ -1,54 +1,68 @@
 {
-    "last_updated": "2026-10-04T11:41:13.198586+00:00",
+    "last_updated": "2026-10-04T16:19:59.973602+00:00",
     "articles": [
         {
-            "title": "Daniel Ellsberg\u2019s Stories of Courage and Foreboding",
-            "summary": "In July 1971, Daniel Ellsberg, facing indictment for leaking classified Pentagon secrets to the press, publicly addressed reporters in Cambridge, Massachusetts. This disclosure of sensitive government documents ignited a major national controversy. It highlighted critical debates surrounding government transparency, national security, and the vital role of a free press in a democratic society.",
-            "url": "https://www.motherjones.com/politics/2026/10/daniel-ellsberg-obituary-book-truth-consequence-media-independence-whistleblowers-pentagon-papers-nuclear-weapons-secrets/",
-            "category": "Defence",
-            "date": "2026-10-03T11:30:00Z"
-        },
-        {
-            "title": "Major bridge in Kyiv damaged in Russian strikes",
-            "summary": "A Russian strike targeted Kyiv's Northern Bridge, suspending traffic and causing severe tailbacks for the third consecutive day. This latest assault reflects Moscow's ongoing strategy to disrupt daily life and critical infrastructure within the Ukrainian capital amidst the ongoing conflict, impacting civilian movement and resilience.",
-            "url": "https://www.thejournal.ie/russian-strikes-kyiv-northern-bridge-7181348-Oct2026/",
-            "category": "International",
-            "date": "2026-10-03T11:18:57Z"
-        },
-        {
-            "title": "Kashi all set to host 3-day IAF air show; PM Modi may come",
-            "summary": "Kashi will host a three-day Indian Air Force air show starting October 24, with the Prime Minister and Defence Minister expected to attend. This event will showcase the IAF's aerial prowess and commitment to national security, offering aspirants a chance to witness military capabilities firsthand and understand the strategic importance of such displays for defence preparedness.",
-            "url": "https://economictimes.indiatimes.com/news/defence/kashi-all-set-to-host-3-day-iaf-air-show-pm-modi-may-come/articleshow/134657850.cms",
-            "category": "Defence",
-            "date": "2026-10-03T11:15:43Z"
-        },
-        {
-            "title": "sci-report-analyzer added to PyPI",
-            "summary": "A new local web application, built with NiceGUI and SQLite, helps track and evaluate researchers. It systematically monitors their publications across various sources, ranks the quality of their publishing venues, and organizes comprehensive digital folders for each researcher. These folders include tags, personal notes, and stored PDFs, streamlining the process of academic profiling and assessment.",
-            "url": "https://pypi.org/project/sci-report-analyzer/",
-            "category": "Sci & Tech",
-            "date": "2026-10-03T11:08:21Z"
-        },
-        {
-            "title": "Batman: Justice Year in The Daily LITG 3rd October 2026",
-            "summary": "The Daily LITG for October 3rd, 2026, highlights 'Batman: Justice Year,' a new comic series created by Joshua Williamson and Bruno Redondo. This update covers upcoming releases in the comic book industry, specifically focusing on a globally recognized superhero franchise. While not a core Defence, National, or Sci & Tech topic, it represents developments within international popular culture and media landscape.",
-            "url": "https://bleedingcool.com/comics/batman-justice-year-in-the-daily-litg-3rd-october-2026/",
-            "category": "International",
-            "date": "2026-10-03T09:49:09Z"
-        },
-        {
-            "title": "Watch: Massive rush, traffic jams hit Himachal, Uttarakhand roads as tourists head to hills on long weekend",
-            "summary": "Himachal Pradesh and Uttarakhand witnessed massive tourist rush and severe traffic jams on their roads over the recent long weekend. Thousands flocked to popular hill stations, leading to significant congestion. This recurring issue highlights the challenges of managing large tourist influx and infrastructure during peak seasons in these scenic northern states, impacting local administration and emergency services.",
-            "url": "https://timesofindia.indiatimes.com/city/dehradun/watch-massive-rush-traffic-jams-hit-himachal-uttarakhand-roads-as-tourists-head-to-hills-on-long-weekend/articleshow/134654790.cms",
+            "title": "Two girls feared drowned in Kao river",
+            "summary": "Former CM Shivraj Singh Chouhan criticized Congress for calling PM Modi 'illegal,' citing it as an 'example of their frustration.' Simultaneously, a grave crime occurred in Chhattisgarh's Mungeli: a Class 9 girl was abducted, drugged, and gang-raped. These incidents underscore both intense political friction and urgent national concerns about public safety and law enforcement.",
+            "url": "https://timesofindia.indiatimes.com/city/patna/two-girls-feared-drowned-in-kao-river/articleshow/134662887.cms",
             "category": "National",
-            "date": "2026-10-03T09:12:58Z"
+            "date": "2026-10-03T16:16:23Z"
         },
         {
-            "title": "IG Defence tests solid rocket motors for indigenous JWALA micro-missile",
-            "summary": "JWALA, a new scalable hard-kill counter-UAS interceptor, has successfully completed crucial propulsion tests, marking a significant development milestone. Designed to complement existing electronic and conventional air-defence systems, JWALA aims to provide an effective physical countermeasure against enemy drones. This advancement is vital for strengthening national air defence capabilities against evolving unmanned aerial threats.",
-            "url": "https://www.business-standard.com/external-affairs-defence-security/news/ig-defence-jwala-missile-solid-rocket-motor-test-counter-uas-india-126100300431_1.html",
-            "category": "Defence",
-            "date": "2026-10-03T09:12:06Z"
+            "title": "Rs 32,000 crore greenfield highway to link tribal ASR belt with Amaravati",
+            "summary": "This news highlights two distinct national issues. Former CM Shivraj Singh Chouhan criticized the Congress party for labeling PM Modi 'illegal', interpreting it as political frustration. Separately, a grave crime was reported from Chhattisgarh: a Class 9 girl was abducted, drugged, and gang-raped in Mungeli. These incidents reflect ongoing national political discourse and urgent law and order concerns across India, crucial for aspirants to note.",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/rs-32000-crore-greenfield-highway-to-link-tribal-asr-belt-with-amaravati/articleshow/134662880.cms",
+            "category": "National",
+            "date": "2026-10-03T16:15:10Z"
+        },
+        {
+            "title": "Woman driver hits elderly couple in west Delhi, held",
+            "summary": "Former CM Shivraj Singh Chouhan criticized the Congress party, labeling their remark about PM Modi as 'illegal' an 'example of their frustration' in national political discourse. Concurrently, a grave incident was reported from Chhattisgarh where a Class 9 girl was abducted, drugged, and gang-raped in Mungeli, highlighting pressing social and law enforcement challenges within the nation.",
+            "url": "https://timesofindia.indiatimes.com/city/delhi/woman-driver-hits-elderly-couple-in-west-delhi-held/articleshow/134662595.cms",
+            "category": "National",
+            "date": "2026-10-03T16:14:42Z"
+        },
+        {
+            "title": "A forest through the eyes of the deaf",
+            "summary": "The provided text contains two distinct news items. Former CM Shivraj Singh Chouhan criticized Congress for labeling PM Modi 'illegal,' citing it as an 'example of their frustration.' Separately, a horrific crime was reported in Mungeli, Chhattisgarh, where a Class 9 girl was abducted, drugged, and gang-raped. Details regarding two individuals involved are mentioned.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/a-forest-through-the-eyes-of-the-deaf/articleshow/134662833.cms",
+            "category": "National",
+            "date": "2026-10-03T16:10:01Z"
+        },
+        {
+            "title": "Map 9,000 acres identified for Jamui industrial area in 10-12 days: Samrat",
+            "summary": "Former CM Shivraj Singh Chouhan criticized Congress for calling PM Modi 'illegal', terming it an example of their frustration. Separately, a horrific crime emerged from Chhattisgarh's Mungeli, where a Class 9 girl was abducted, drugged, and gang-raped. This news covers both significant political discourse and urgent social issues demanding national attention.",
+            "url": "https://timesofindia.indiatimes.com/city/patna/map-9000-acres-identified-for-jamui-industrial-area-in-10-12-days-samrat/articleshow/134662831.cms",
+            "category": "National",
+            "date": "2026-10-03T16:09:31Z"
+        },
+        {
+            "title": "10-day Bengaluru Jaatre to bring citizens together",
+            "summary": "Recent news features Shivraj Singh Chouhan criticizing Congress for labeling PM Modi 'illegal,' terming it an 'example of their frustration.' Concurrently, a severe crime was reported from Chhattisgarh, where a Class 9 girl was abducted, drugged, and gang-raped in Mungeli. These incidents reflect both current political discourse and critical law and order challenges within the nation.",
+            "url": "https://timesofindia.indiatimes.com/city/bengaluru/10-day-bengaluru-jaatre-to-bring-citizens-together/articleshow/134662763.cms",
+            "category": "National",
+            "date": "2026-10-03T16:08:22Z"
+        },
+        {
+            "title": "Will take steps to address gaps in child adoption mechanism, central agency tells Kerala HC",
+            "summary": "Former Madhya Pradesh CM Shivraj Singh Chouhan criticized the Congress party, labeling their description of PM Modi as 'illegal' an 'example of their frustration' in national politics. Separately, a horrific incident was reported from Mungeli, Chhattisgarh, where a Class 9 girl was abducted, drugged, and gang-raped, leading to ongoing investigations into the serious crime.",
+            "url": "https://timesofindia.indiatimes.com/city/kochi/will-take-steps-to-address-gaps-in-child-adoption-mechanism-central-agency-tells-kerala-hc/articleshow/134662745.cms",
+            "category": "National",
+            "date": "2026-10-03T16:07:55Z"
+        },
+        {
+            "title": "\u2018Frame murder charge against Abhijeet Dipke\u2019: Shivaji Park forum over senior citizen\u2019s death while attending CJP Mumbai protest",
+            "summary": "A Shivaji Park forum in Mumbai has called for a murder charge against Abhijeet Dipke. This demand stems from the death of a senior citizen who passed away while participating in a CJP Mumbai protest. The forum seeks accountability for the incident, highlighting concerns about safety during public demonstrations and legal ramifications for those allegedly involved.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/frame-murder-charge-against-abhijeet-dipke-shivaji-park-forum-over-senior-citizens-death-while-attending-cjp-mumbai-protest/articleshow/134662641.cms",
+            "category": "National",
+            "date": "2026-10-03T16:07:24Z"
+        },
+        {
+            "title": "Goyal holds bilateral meetings with top officials of several US firms",
+            "summary": "Commerce and Industry Minister Piyush Goyal is conducting bilateral meetings with top US company officials to discuss significant investment opportunities in India. These engagements aim to attract foreign capital, boost economic growth, and strengthen India-US trade relations. This proactive diplomatic and economic outreach underscores India's commitment to global partnerships and national development, crucial for an aspirant's understanding of India's international standing.",
+            "url": "https://www.business-standard.com/economy/news/goyal-holds-bilateral-meetings-with-top-officials-of-several-us-firms-126100300825_1.html",
+            "category": "National",
+            "date": "2026-10-03T15:26:17Z"
         }
     ]
 }
