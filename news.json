@@ -1,47 +1,82 @@
 {
-    "last_updated": "2026-10-06T12:37:49.725944+00:00",
+    "last_updated": "2026-10-06T22:11:34.985473+00:00",
     "articles": [
         {
-            "title": "ontoprune added to PyPI",
-            "summary": "OntoPrune is an innovative neuro-symbolic context pruning middleware designed for local Small Language Models (SLMs). It acts as a lightweight translator, transforming source code into minimal context contracts using ontological representations. This technology aims to enhance the efficiency and performance of SLMs by significantly reducing the contextual data they process, making them more resource-friendly for local deployments.",
-            "url": "https://pypi.org/project/ontoprune/",
-            "category": "Sci & Tech",
-            "date": "2026-10-05T12:37:39Z"
-        },
-        {
-            "title": "'51% out of action': Ukraine claims major blow to Russia's oil refining",
-            "summary": "Bill Gates' rare Porsche 959 spent 13 years in US customs due to legal driving hurdles. Simultaneously, a Karnataka man alerted CM DK Shivakumar to a significant social issue: land ownership not ensuring brides. This exposes both challenges with international luxury item regulations and critical demographic imbalances affecting marriage prospects in Indian society.",
-            "url": "https://timesofindia.indiatimes.com/world/europe/51-out-of-action-ukraine-claims-major-blow-to-russias-oil-refining/articleshow/134705762.cms",
-            "category": "National",
-            "date": "2026-10-05T12:28:31Z"
-        },
-        {
-            "title": "Lanterns Finale Spoilers: Will We See Hal Jordan Again? Series Creative Team Weighs In",
-            "summary": "The television series \"Lanterns\" concluded its season with an introspective finale, delivering answers to its central mysteries, most notably identifying the killer of Hal Jordan. While less focused on visual spectacle, the episode effectively resolved key narrative arcs, providing closure to the show's storyline for its viewers. This marks the end of a significant chapter for the series.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-finale-spoilers-will-we-see-hal-jordan-again-series-creative-team-weighs-in-a230255",
-            "category": "Sci & Tech",
-            "date": "2026-10-05T12:21:21Z"
-        },
-        {
-            "title": "Some of the best spooky Linux games to get in the Steam Autumn Sale 2026",
-            "summary": "The Steam Autumn Sale 2026 has officially begun, showcasing a curated list of top-rated horror-themed games specifically designed for Native Linux users. This event draws on user reviews to highlight popular titles, offering PC gamers an opportunity to acquire spooky entertainment during the sale period. It underscores a key digital sales event within the gaming technology sector.",
-            "url": "https://www.gamingonlinux.com/2026/10/some-of-the-best-spooky-linux-games-to-get-in-the-steam-autumn-sale-2026/",
-            "category": "Sci & Tech",
-            "date": "2026-10-05T11:21:07Z"
-        },
-        {
-            "title": "Ames crater, once linked to a 470-million-year-old event, may be nearly 370 million years old",
-            "summary": "New zircon dating of Oklahoma's Ames crater suggests it is approximately 370 million years old, not the previously estimated 470 million years. This revised age places the impact event much closer to the Late Devonian extinction, a period of significant biodiversity loss. This research offers fresh insights into Earth's geological history and the potential links between cosmic impacts and major extinction events.",
-            "url": "https://timesofindia.indiatimes.com/science/archaeology/oklahomas-ames-crater-was-linked-to-a-470-million-year-old-event-zircon-dating-suggests-it-may-be-nearly-370-million-years-old-near-an-extinction/articleshow/134694088.cms",
-            "category": "Sci & Tech",
-            "date": "2026-10-05T11:10:00Z"
-        },
-        {
-            "title": "Bouquet Fire Smoke and Triple-Digit Heat Pose Combined Threat for Santa Clarita Residents with Asthma or Heart Disease",
-            "summary": "Santa Clarita Valley residents faced dual health stressors as the Bouquet Fire ravaged over 1,000 acres in the Angeles National Forest northeast of Santa Clarita by early October. This significant natural disaster, compounded by another unspecified health concern, posed considerable challenges for the community, illustrating the multi-faceted impact of environmental events on public well-being.",
-            "url": "https://www.medicaldaily.com/bouquet-fire-smoke-heat-santa-clarita-asthma-heart-risk-479516",
+            "title": "Watch: UK Police Clear Streets Of Entire Town So Migrant Boat Can Offload",
+            "summary": "On October 5th, 2026, UK police reportedly cleared the streets of an entire town to facilitate the offloading of a migrant boat. This significant public order measure underscores the operational complexities faced by British authorities in managing new migrant arrivals and the substantial logistical efforts required in such situations.",
+            "url": "https://freerepublic.com/focus/f-chat/4398050/posts",
             "category": "International",
-            "date": "2026-10-05T11:00:08Z"
+            "date": "2026-10-05T21:17:55Z"
+        },
+        {
+            "title": "sdss-hal 1.4.2",
+            "summary": "The text details a website loading error where a component failed, likely due to browser issues, network problems, or incorrect settings. Users are advised to check their connection, disable ad blockers, or try a different browser. While not a news article, SSB aspirants must maintain functional systems and reliable connectivity, vital for online applications or virtual SSB processes.",
+            "url": "https://pypi.org/project/sdss-hal/1.4.2/",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T21:13:18Z"
+        },
+        {
+            "title": "Lanterns Showrunner Reveals Scrapped Plans For John Stewart; Never Wanted An Action-Packed Finale",
+            "summary": "The HBO series 'Lanterns' finale recently aired, sparking sharply divided fan reactions. Many praised DC Studios' distinct interpretation of the Green Lantern Corps. However, others expressed strong disappointment, feeling the DCU's portrayal of beloved characters like Hal Jordan fell short. This has ignited considerable online debate about the show's creative direction and overall success.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-showrunner-reveals-scrapped-plans-for-john-stewart-never-wanted-an-action-packed-finale-a230263",
+            "category": "International",
+            "date": "2026-10-05T21:08:00Z"
+        },
+        {
+            "title": "Lanterns Showrunner Reveals Scrapped Plans For John Stewart To Suit Up; Never Wanted An Action-Packed Finale",
+            "summary": "The finale of \"The Lanterns\" aired on HBO, eliciting sharply divided reactions among fans. DC Studios' distinct interpretation of the Green Lantern Corps and the broader DCU narrative drew praise from some for its fresh approach, while others expressed significant disappointment, feeling characters like Hal Jordan were poorly handled. This showcases the challenges in adapting established comic book franchises.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-showrunner-reveals-scrapped-plans-for-john-stewart-to-suit-up-never-wanted-an-action-packed-finale-a230263",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T21:08:00Z"
+        },
+        {
+            "title": "20 Best Vintage Band T-Shirts Under $25 for October Prime Day 2026",
+            "summary": "Amazon is offering a significant sale during October Prime Day 2026, featuring hundreds of vintage band T-shirts priced under $25. This e-commerce initiative caters to music fans, allowing them to stock up on merchandise from various artists. It underscores how major online retailers utilize special events to drive consumer engagement and sales within the digital marketplace.",
+            "url": "https://consequence.net/2026/10/best-vintage-band-t-shirts-october-prime-day-2026/",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T21:07:25Z"
+        },
+        {
+            "title": "Lanterns Showrunner Scrapped Plans For John Stewart To Suit Up; Never Planned An Action-Packed Finale",
+            "summary": "The HBO finale of \"The Lanterns\" series has evoked mixed fan reactions regarding DC Studios' adaptation of the Green Lantern Corps. While some viewers praised the fresh take, others criticized how iconic characters like Hal Jordan were portrayed, sparking debates within the DC Universe fandom about creative direction and character representation in major science fiction franchises.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-showrunner-scrapped-plans-for-john-stewart-to-suit-up-never-planned-an-action-packed-finale-a230263",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T20:23:25Z"
+        },
+        {
+            "title": "Lanterns: DCU Fans Have Very Mixed Thoughts About This Finale Episode Scene.",
+            "summary": "DCU fans expressed significant disappointment with HBO Max's \"Lanterns\" TV show finale, particularly regarding its handling of a much-anticipated John Stewart moment. The portrayal of the scene received an underwhelming response, leading to widespread fan criticism. This series, a major DC Universe installment, concluded its season with a notable fan backlash over character depiction.",
+            "url": "https://www.superherohype.com/tv/697257-lanterns-fans-rip-into-john-stewart-cw-level-flying-scene",
+            "category": "National",
+            "date": "2026-10-05T19:58:34Z"
+        },
+        {
+            "title": "Keri Russell on Matthew Rhys\u2019 Huge Emmys Night & \u2018The Diplomat\u2019 Season 4 (Exclusive)",
+            "summary": "Actors Keri Russell and Rufus Sewell discussed Season 4 of \"The Diplomat\" with Extra's Mona Kosar Abdi. Russell noted the season promises \"fun\" and continues the established storyline. Although entertainment news, the series' focus on international diplomacy could be relevant for aspirants observing fictional portrayals of global relations and strategic interactions.",
+            "url": "https://extratv.com/2026/10/05/keri-russell-on-matthew-rhys-huge-emmys-night-and-the-diplomat-season-4-exclusive/",
+            "category": "International",
+            "date": "2026-10-05T19:41:35Z"
+        },
+        {
+            "title": "Wells Vehicle Electronic Announces New President, Joe Robinson",
+            "summary": "Wells Vehicle Electronics, a global leader in advanced vehicle electronics solutions and part of Omega Holdings, made a significant announcement on October 5, 2026, from Fond du Lac, Wisconsin. This development is poised to reinforce their position as a key provider of cutting-edge automotive technology, driving innovation within the vehicle electronics sector and potentially influencing future industry standards and market offerings.",
+            "url": "https://www.prnewswire.com/news-releases/wells-vehicle-electronic-announces-new-president-joe-robinson-302898836.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T19:37:00Z"
+        },
+        {
+            "title": "Why \u2018Lanterns\u2019 Is the Best Hal Jordan Has Ever Been | Appreciation",
+            "summary": "The article presents a personal critique of the iconic DC Comics character, Hal Jordan, also known as Green Lantern. The author expresses a complex appreciation for the character, acknowledging his significance through notable works by Geoff Johns and Dennis O'Neil, yet articulates why Hal Jordan isn't their preferred iteration of the superhero. This commentary reflects a specific viewpoint within comic book fandom.",
+            "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-hal-jordan-kyle-chandler-appreciation/",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T19:34:08Z"
+        },
+        {
+            "title": "\u2018Lanterns\u2019 Writers Try To Defend Divisive Finale That Made Major Changes To Comic\u2019s Lore And Controversial Character Choices",
+            "summary": "The first season of HBO's series 'Lanterns' recently concluded, prompting significant debate among its viewership. Initially, the show received widespread critical acclaim; however, its season finale has garnered sharply mixed reactions. This divergence in fan opinion regarding the conclusion contrasts markedly with the show's universally praised beginning, creating a divisive end to its inaugural season.",
+            "url": "https://brobible.com/culture/article/lanterns-writers-defend-finale/",
+            "category": "International",
+            "date": "2026-10-05T19:31:49Z"
         }
     ]
 }
