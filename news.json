@@ -1,12 +1,47 @@
 {
-    "last_updated": "2026-10-06T04:28:34.568586+00:00",
+    "last_updated": "2026-10-06T12:37:49.725944+00:00",
     "articles": [
         {
-            "title": "Lanterns Finale Confirms A Major Manhunter Theory \u2014 But There's A Twist",
-            "summary": "The 'Lanterns' finale features a flashback revealing Hal Jordan's home ablaze in Rushville, Nebraska. He was saved by Noah Macon, who subsequently utilized advanced Manhunter technology. This pivotal plot development details a critical narrative event within the comic series, focusing on key character dynamics and the deployment of fictional technological elements to advance the storyline.",
-            "url": "https://www.slashfilm.com/2276870/lanterns-episode-8-noah-macon-manhunter-twist-explained/",
+            "title": "ontoprune added to PyPI",
+            "summary": "OntoPrune is an innovative neuro-symbolic context pruning middleware designed for local Small Language Models (SLMs). It acts as a lightweight translator, transforming source code into minimal context contracts using ontological representations. This technology aims to enhance the efficiency and performance of SLMs by significantly reducing the contextual data they process, making them more resource-friendly for local deployments.",
+            "url": "https://pypi.org/project/ontoprune/",
             "category": "Sci & Tech",
-            "date": "2026-10-05T04:02:09Z"
+            "date": "2026-10-05T12:37:39Z"
+        },
+        {
+            "title": "'51% out of action': Ukraine claims major blow to Russia's oil refining",
+            "summary": "Bill Gates' rare Porsche 959 spent 13 years in US customs due to legal driving hurdles. Simultaneously, a Karnataka man alerted CM DK Shivakumar to a significant social issue: land ownership not ensuring brides. This exposes both challenges with international luxury item regulations and critical demographic imbalances affecting marriage prospects in Indian society.",
+            "url": "https://timesofindia.indiatimes.com/world/europe/51-out-of-action-ukraine-claims-major-blow-to-russias-oil-refining/articleshow/134705762.cms",
+            "category": "National",
+            "date": "2026-10-05T12:28:31Z"
+        },
+        {
+            "title": "Lanterns Finale Spoilers: Will We See Hal Jordan Again? Series Creative Team Weighs In",
+            "summary": "The television series \"Lanterns\" concluded its season with an introspective finale, delivering answers to its central mysteries, most notably identifying the killer of Hal Jordan. While less focused on visual spectacle, the episode effectively resolved key narrative arcs, providing closure to the show's storyline for its viewers. This marks the end of a significant chapter for the series.",
+            "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-finale-spoilers-will-we-see-hal-jordan-again-series-creative-team-weighs-in-a230255",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T12:21:21Z"
+        },
+        {
+            "title": "Some of the best spooky Linux games to get in the Steam Autumn Sale 2026",
+            "summary": "The Steam Autumn Sale 2026 has officially begun, showcasing a curated list of top-rated horror-themed games specifically designed for Native Linux users. This event draws on user reviews to highlight popular titles, offering PC gamers an opportunity to acquire spooky entertainment during the sale period. It underscores a key digital sales event within the gaming technology sector.",
+            "url": "https://www.gamingonlinux.com/2026/10/some-of-the-best-spooky-linux-games-to-get-in-the-steam-autumn-sale-2026/",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T11:21:07Z"
+        },
+        {
+            "title": "Ames crater, once linked to a 470-million-year-old event, may be nearly 370 million years old",
+            "summary": "New zircon dating of Oklahoma's Ames crater suggests it is approximately 370 million years old, not the previously estimated 470 million years. This revised age places the impact event much closer to the Late Devonian extinction, a period of significant biodiversity loss. This research offers fresh insights into Earth's geological history and the potential links between cosmic impacts and major extinction events.",
+            "url": "https://timesofindia.indiatimes.com/science/archaeology/oklahomas-ames-crater-was-linked-to-a-470-million-year-old-event-zircon-dating-suggests-it-may-be-nearly-370-million-years-old-near-an-extinction/articleshow/134694088.cms",
+            "category": "Sci & Tech",
+            "date": "2026-10-05T11:10:00Z"
+        },
+        {
+            "title": "Bouquet Fire Smoke and Triple-Digit Heat Pose Combined Threat for Santa Clarita Residents with Asthma or Heart Disease",
+            "summary": "Santa Clarita Valley residents faced dual health stressors as the Bouquet Fire ravaged over 1,000 acres in the Angeles National Forest northeast of Santa Clarita by early October. This significant natural disaster, compounded by another unspecified health concern, posed considerable challenges for the community, illustrating the multi-faceted impact of environmental events on public well-being.",
+            "url": "https://www.medicaldaily.com/bouquet-fire-smoke-heat-santa-clarita-asthma-heart-risk-479516",
+            "category": "International",
+            "date": "2026-10-05T11:00:08Z"
         }
     ]
 }
