@@ -1,19 +1,47 @@
 {
-    "last_updated": "2026-10-09T04:12:55.675103+00:00",
+    "last_updated": "2026-10-09T12:27:35.952576+00:00",
     "articles": [
         {
-            "title": "'Touch the sky with glory': Indian Air Force turns 94",
-            "summary": "A 68-year-old customer, despite using only cheques and no ATM, lost Rs 1.59 lakh via unauthorized AePS withdrawal. A consumer court ordered SBI to refund the amount with 9% interest. This incident highlights vulnerabilities in digital payment systems, emphasizing stronger security and consumer protection against financial frauds.",
-            "url": "https://timesofindia.indiatimes.com/education/news/touch-the-sky-with-glory-indian-air-force-turns-94/articleshow/134778955.cms",
-            "category": "National",
-            "date": "2026-10-08T04:03:32Z"
+            "title": "Honeywell targets early completion of engine deliveries for HAL\u2019s HTT-40",
+            "summary": "Honeywell Aerospace expects to deliver 16 engines for HAL's HTT-40 basic trainer aircraft ahead of schedule. This timely supply is critical for India's indigenous pilot training program, accelerating the induction of these crucial aircraft for future cadets. The collaboration boosts HAL's production efficiency and strengthens India's self-reliance in defence aviation, enhancing national security capabilities vital for an aspiring officer.",
+            "url": "https://www.thehindubusinessline.com/companies/honeywell-targets-early-completion-of-engine-deliveries-for-hals-htt-40/article71559593.ece",
+            "category": "Defence",
+            "date": "2026-10-08T12:27:07Z"
         },
         {
-            "title": "Nana Patekar dies at 75: Veteran actor served with Indian Army in Kargil War in 1999",
-            "summary": "Renowned actor Nana Patekar passed away at 5:20 am on Thursday after suffering a cardiac arrest at his residence. Dr. Shekhar Salkar, chief of oncology at Manipal Hospital, confirmed the news to ANI. This unfortunate event marks the loss of a prominent figure in the entertainment industry, widely recognized for his versatile performances and impactful roles.",
-            "url": "https://economictimes.indiatimes.com/news/india/nana-patekar-dies-at-75-veteran-actor-served-with-indian-army-in-kargil-war-in-1999/articleshow/134778408.cms",
+            "title": "Beyond the acquisition: Strategic next steps for KRI Sriwijaya-100",
+            "summary": "The Indonesian administration, led by President Prabowo Subianto and Vice President Gibran Rakabuming Raka, will mark two years in office on October 20, 2026. A significant development during their tenure has drawn considerable attention. Aspirants should note such political milestones in key regional nations to understand evolving international dynamics and their potential implications.",
+            "url": "https://en.antaranews.com/news/434684/beyond-the-acquisition-strategic-next-steps-for-kri-sriwijaya-100",
+            "category": "International",
+            "date": "2026-10-08T12:03:20Z"
+        },
+        {
+            "title": "isolab added to PyPI",
+            "summary": "The article introduces 'isolab', a new scientific tool for engineers to identify specific concurrency bugs in databases at various isolation levels. It highlights that while database 'ACID' properties are known, exact vulnerabilities often remain hidden. 'isolab' forces \"unlucky\" interactions, providing crucial evidence of subtle flaws within database systems, enhancing their reliability and security through advanced testing.",
+            "url": "https://pypi.org/project/isolab/",
+            "category": "Sci & Tech",
+            "date": "2026-10-08T11:59:50Z"
+        },
+        {
+            "title": "Honeywell to deliver eight HTT-40 aircraft engines to HAL by end of 2026",
+            "summary": "The HTT-40 is an indigenously developed basic trainer aircraft, vital for India's pilot training regimen. It serves as the foundational platform, preparing aspiring aviators with essential flying skills before they transition to more sophisticated combat or transport aircraft. This Made-in-India initiative strengthens national defence capabilities and promotes self-reliance in aviation training.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/honeywell-to-deliver-eight-htt-40-aircraft-engines-to-hal-by-end-of-2026-126100800899_1.html",
+            "category": "Defence",
+            "date": "2026-10-08T11:01:58Z"
+        },
+        {
+            "title": "The building kept growing, then it fell: 5 dead, families shattered in Seemapuri building collapse",
+            "summary": "Five people tragically died in a building collapse in Seemapuri, Delhi, devastating several families. This incident critically highlights urban construction safety concerns, particularly in densely populated areas. It underscores the urgent need for stringent building regulations and regular inspections to prevent similar future tragedies, ensuring robust infrastructure and community well-being nationally.",
+            "url": "https://timesofindia.indiatimes.com/city/delhi/the-building-kept-growing-then-it-fell-5-dead-families-shattered-in-seemapuri-building-collapse/articleshow/134787949.cms",
             "category": "National",
-            "date": "2026-10-08T03:02:08Z"
+            "date": "2026-10-08T11:01:38Z"
+        },
+        {
+            "title": "Stun grenades, shattered jaw, severed hand: France's student protests put police under scrutiny",
+            "summary": "A founder, while homeschooling four children, has innovatively transformed her home into an AI laboratory by actively managing 11 artificial intelligence agents. This showcases a practical integration of advanced AI into daily life, highlighting its growing accessibility and diverse applications. It demonstrates how individuals can leverage AI for personal and professional tasks.",
+            "url": "https://timesofindia.indiatimes.com/world/europe/stun-grenades-shattered-jaw-severed-hand-frances-student-protests-put-police-under-scrutiny/articleshow/134787696.cms",
+            "category": "Sci & Tech",
+            "date": "2026-10-08T10:49:14Z"
         }
     ]
 }
