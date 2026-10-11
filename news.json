@@ -1,26 +1,124 @@
 {
-    "last_updated": "2026-10-11T03:32:57.473329+00:00",
+    "last_updated": "2026-10-11T11:58:46.191388+00:00",
     "articles": [
         {
-            "title": "nc-codewiki added to PyPI",
-            "summary": "This article discusses an innovative system where AI agents automatically generate repository-level documentation for extensive software codebases. By analyzing the code's dependency graph, AI understands its structure and functionality, producing comprehensive documentation. This streamlines the often complex and time-consuming process of maintaining up-to-date documentation for large programming projects, significantly enhancing efficiency in software development and project management.",
-            "url": "https://pypi.org/project/nc-codewiki/",
-            "category": "Sci & Tech",
-            "date": "2026-10-10T02:55:11Z"
-        },
-        {
-            "title": "5 Relationships DC Needs to Bring Back",
-            "summary": "The article emphasizes that DC superhero comics are intrinsically character-driven, with narratives revolving around core conflicts between good and evil. These battles are often portrayed literally, making individual character development and moral choices central to the storytelling. This focus ensures that the heroes' personal journeys and ethical dilemmas are key to the overarching plot and audience engagement.",
-            "url": "http://comicbook.com/comics/list/5-relationships-dc-needs-to-bring-back/",
+            "title": "GRSE launches third of four next-generation patrol vessels for Navy",
+            "summary": "GRSE Ltd has launched the third of four next-generation offshore patrol vessels (NGOPVs) for the Indian Navy in Kolkata. This significant indigenous development bolsters the Navy's capabilities for maritime security, anti-piracy operations, and safeguarding India's Exclusive Economic Zone. The vessels enhance self-reliance in defence manufacturing, critically strengthening naval power and contributing to national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/grse-launches-third-of-four-next-generation-patrol-vessels-for-navy/articleshow/134853217.cms",
             "category": "Defence",
-            "date": "2026-10-10T02:15:00Z"
+            "date": "2026-10-10T11:55:46Z"
         },
         {
-            "title": "Attorney for alleged victim of trans athlete sexual assault says SCOTUS fight can help set Title IX precedent",
-            "summary": "A US Supreme Court case, initiated by a Washington high school wrestler, is challenging the inclusion of transgender athletes in girls' sports. This significant legal battle, if successful, could establish restrictions impacting 23 states. The case underscores an ongoing international debate about fairness, inclusion, and gender identity in competitive sports, setting a potential legal precedent on a sensitive socio-cultural issue.",
-            "url": "https://www.foxnews.com/outkick-sports/attorney-alleged-victim-trans-athlete-sexual-assault-scotus-fight-help-set-title-ix-precedent",
+            "title": "\u2018You lock every door and cry nobody showed up\u2019: CJP\u2019s Ratna Singh hits back at Sambit Patra",
+            "summary": "A Japanese woman residing in Mumbai is taking a proactive stance against negative portrayals of India prevalent on social media. Through her efforts, she aims to showcase the nation's genuine beauty and amazing aspects. This initiative highlights the importance of countering misinformation and promoting a positive, balanced global perception of India, contributing to its soft power and national image.",
+            "url": "https://timesofindia.indiatimes.com/city/delhi/you-lock-every-door-and-cry-nobody-showed-up-cjps-ratna-singh-hits-back-at-sambit-patra/articleshow/134852997.cms",
+            "category": "National",
+            "date": "2026-10-10T11:36:46Z"
+        },
+        {
+            "title": "Bike-borne assailants gun down trader in Bhojpur",
+            "summary": "A Japanese woman residing in Mumbai is actively countering negative portrayals of India on social media. She aims to showcase the nation's true beauty and amazing aspects, challenging misconceptions and promoting a positive image. This initiative highlights the growing importance of personal narratives in cultural diplomacy and soft power, encouraging a nuanced perspective of India on global platforms.",
+            "url": "https://timesofindia.indiatimes.com/city/patna/bike-borne-assailants-gun-down-trader-in-bhojpur/articleshow/134853380.cms",
+            "category": "National",
+            "date": "2026-10-10T11:36:23Z"
+        },
+        {
+            "title": "Kamala Harris faces pushback over 2028 presidential bid as husband, Democratic donors express doubts: Report",
+            "summary": "Kamala Harris is reportedly encountering significant internal pushback concerning a potential 2028 US presidential campaign. Sources indicate that even her husband and influential Democratic donors are expressing doubts about her viability or suitability for the White House. This highlights growing concerns within the party regarding her future political ambitions and potential electability for the nation's highest office.",
+            "url": "https://timesofindia.indiatimes.com/world/us/kamala-harris-faces-pushback-over-2028-presidential-bid-as-husband-democratic-donors-express-doubts-report/articleshow/134853222.cms",
             "category": "International",
-            "date": "2026-10-09T21:09:36Z"
+            "date": "2026-10-10T11:35:41Z"
+        },
+        {
+            "title": "Deflating engineered discontent",
+            "summary": "A Japanese woman residing in Mumbai is actively countering negative online portrayals of India. Leveraging social media, she aims to showcase the nation's true beauty and amazing aspects based on her positive experiences. This initiative seeks to provide a balanced perspective, challenging misinformation and highlighting India's rich culture, diversity, and vibrant life to a global audience.",
+            "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/deflating-engineered-discontent/articleshow/134853000.cms",
+            "category": "National",
+            "date": "2026-10-10T11:35:35Z"
+        },
+        {
+            "title": "After a decade, auction of four Palamu sand ghats fetches Rs 26.5cr",
+            "summary": "A Japanese woman residing in Mumbai is actively challenging negative portrayals of India on social media platforms. Driven by a desire to showcase the nation's true beauty and amazing aspects, she aims to present a positive and authentic image of India to global audiences. This initiative promotes cultural understanding and highlights India's diverse appeal, countering misinformation and fostering a more appreciative perspective.",
+            "url": "https://timesofindia.indiatimes.com/city/ranchi/after-a-decade-auction-of-four-palamu-sand-ghats-fetches-rs-26-5cr/articleshow/134853346.cms",
+            "category": "National",
+            "date": "2026-10-10T11:33:56Z"
+        },
+        {
+            "title": "Man found dead near canal in Buxar village",
+            "summary": "A Japanese woman living in Mumbai is actively challenging negative portrayals of India on social media. She aims to highlight the nation's inherent beauty and amazing aspects, countering misconceptions and fostering a positive global image. This initiative emphasizes the role of individual voices in shaping narratives and promoting cultural understanding.",
+            "url": "https://timesofindia.indiatimes.com/city/patna/man-found-dead-near-canal-in-buxar-village/articleshow/134853095.cms",
+            "category": "National",
+            "date": "2026-10-10T11:25:04Z"
+        },
+        {
+            "title": "When road to protest ends at a railway stop",
+            "summary": "Following his detention during Delhi protests, Arvind Kejriwal released a video message proclaiming that 'youth has awakened'. This political development underscores ongoing national discourse and public sentiment in the capital, crucial for understanding current affairs and civil engagement relevant to an SSB aspirant.",
+            "url": "https://timesofindia.indiatimes.com/city/bhopal/when-road-to-protest-ends-at-a-railway-stop/articleshow/134852793.cms",
+            "category": "National",
+            "date": "2026-10-10T11:20:28Z"
+        },
+        {
+            "title": "Russian strikes kill 12 in Ukraine after Trump announces diesel deal with Putin",
+            "summary": "Delhi Chief Minister Arvind Kejriwal shared a video message, proclaiming 'Youth has awakened,' after being detained amidst protests in the capital. This incident highlights the ongoing political demonstrations in Delhi, where key figures like Kejriwal are involved. Such events are important for SSB aspirants to understand the national political landscape and public sentiment regarding governance and policy.",
+            "url": "https://timesofindia.indiatimes.com/world/europe/russian-strikes-kill-12-in-ukraine-after-trump-announces-diesel-deal-with-putin/articleshow/134852330.cms",
+            "category": "National",
+            "date": "2026-10-10T11:12:48Z"
+        },
+        {
+            "title": "In 2017, Rihanna's foundation teamed up with a bicycle company to help girls in Malawi get to school; the first bikes arrived as part of a programme pairing transport support with scholarships",
+            "summary": "In 2017, Rihanna's foundation partnered with a bicycle company to launch an initiative providing bikes for girls in Malawi. This program aims to significantly enhance educational access by helping students overcome geographical barriers to school. Such international collaborations highlight the importance of global partnerships in fostering social development and empowering young women through improved educational opportunities, directly impacting community upliftment.",
+            "url": "https://timesofindia.indiatimes.com/world/us/in-2017-rihannas-foundation-teamed-up-with-a-bicycle-company-to-help-girls-in-malawi-get-to-school-the-first-bikes-arrived-as-part-of-a-programme-pairing-transport-support-with-scholarships/articleshow/134851860.cms",
+            "category": "International",
+            "date": "2026-10-10T10:16:57Z"
+        },
+        {
+            "title": "New Providence man seeks new home for extensive collection of local baseball, softball memorabilia",
+            "summary": "The provided text only details a 15x15 foot room in Barry Giberson's New Providence home, furnished with a desk, bookcase, and other items. The article is severely truncated, lacking the context of the visit's purpose or the main news event. Therefore, a meaningful summary or accurate categorization for SSB aspirants is impossible to provide from this incomplete information.",
+            "url": "https://lancasteronline.com/news/local/new-providence-man-seeks-new-home-for-extensive-collection-of-local-baseball-softball-memorabilia/article_347ec743-0359-4560-a61c-70c792e25bf0.html",
+            "category": "National",
+            "date": "2026-10-10T09:00:00Z"
+        },
+        {
+            "title": "India closely monitoring neighbourhood, global security developments: Rajnath Singh",
+            "summary": "Defence Minister Rajnath Singh stated in Jodhpur that India is vigilantly monitoring evolving developments in its neighbourhood and globally, assessing their strategic implications. He emphasized India's preparedness amidst significant world changes, underscoring the nation's proactive approach to safeguarding its interests and ensuring national security, a critical aspect for national defence understanding.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-announces-indias-vigilance-on-global-security-shifts-and-atmanirbhar-bharat-vision/articleshow/134849980.cms",
+            "category": "Defence",
+            "date": "2026-10-10T07:56:18Z"
+        },
+        {
+            "title": "\u2018I didn't know women couldn't fly fighters\u2019: How Bhawana Kanth went from childhood dream to becoming IAF\u2019s first woman fighter pilot",
+            "summary": "Bhawana Kanth is set to make history as the first woman officer in the Indian Air Force (IAF) to qualify as a Fighter Combat Leader in August 2026. This significant achievement highlights the expanding roles for women in combat aviation and serves as a powerful inspiration for SSB aspirants. Her pioneering journey demonstrates exceptional leadership and dedication within India's defence forces.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/i-didnt-know-women-couldnt-fly-fighters-how-bhawana-kanth-went-from-childhood-dream-to-becoming-iafs-first-woman-fighter-pilot/articleshow/134847598.cms",
+            "category": "Defence",
+            "date": "2026-10-10T05:11:48Z"
+        },
+        {
+            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: \nHearing and Obeying God\u2019s Word - Saturday, October 10, 2026",
+            "summary": "A daily Catholic devotional, 'My Catholic Life! Catholic Daily Reflections,' is scheduled for Saturday, October 10, 2026. Titled 'Hearing and Obeying God's Word,' it provides spiritual guidance. This online content, likely via YouTube, focuses on faith-based teachings rather than geopolitical or scientific developments, catering to a global religious audience.",
+            "url": "https://freerepublic.com/focus/f-religion/4398650/posts",
+            "category": "International",
+            "date": "2026-10-10T05:01:28Z"
+        },
+        {
+            "title": "Who needs a national security strategy?",
+            "summary": "Indian army personnel engaged in a firing session during the North Tech Symposium held in Prayagraj, India, in May 2026. This event underscores the army's continuous focus on operational readiness, practical training, and the integration of new defence technologies. Such symposia are vital platforms for showcasing advancements and enhancing the tactical prowess and modernization efforts of the Indian armed forces, preparing them for future challenges.",
+            "url": "https://www.business-standard.com/blueprint-defence-magazine/insights/who-needs-a-national-security-strategy-126100700744_1.html",
+            "category": "Defence",
+            "date": "2026-10-09T23:50:15Z"
+        },
+        {
+            "title": "John Stewart Proved Himself As a Green Lantern but Only After His Greatest Loss (and It Made Lanterns Look Like a Cake Walk)",
+            "summary": "John Stewart, the iconic Green Lantern character from DC Comics, remains a global favorite among fans and is set to engage a new generation through the upcoming 'Lanterns' project. With a history of significant multimedia presence, Stewart's enduring popularity across various adaptations highlights the international appeal of major entertainment franchises and their continuous evolution.",
+            "url": "http://comicbook.com/comics/feature/john-stewart-proved-himself-as-a-green-lantern-but-only-after-his-greatest-loss-and-it-made-lanterns-look-like-a-cake-walk/",
+            "category": "International",
+            "date": "2026-10-09T23:30:00Z"
+        },
+        {
+            "title": "Foreign partnerships",
+            "summary": "An Indian Army variant of the Medium-Range Surface-to-Air Missile (MRSAM), jointly developed by DRDO and Israel Aerospace Industries, underwent a successful flight-test off Odisha's coast in April 2025. This significant development highlights India's progress in indigenous defence capabilities through international collaboration, bolstering the Army's air defence prowess and enhancing national security.",
+            "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/foreign-partnerships-126100600513_1.html",
+            "category": "Defence",
+            "date": "2026-10-09T22:50:13Z"
         }
     ]
 }
