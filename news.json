@@ -1,33 +1,26 @@
 {
-    "last_updated": "2026-10-10T21:02:34.264333+00:00",
+    "last_updated": "2026-10-11T03:32:57.473329+00:00",
     "articles": [
         {
-            "title": "\u2018Marlon Should Have Went $21M\u2019: Jalen Ramsey Breaks Down How Elite CBs Should Reset the Market",
-            "summary": "Pittsburgh Steelers cornerback Jalen Ramsey recently discussed player market values and the critical role elite cornerbacks play in establishing new financial standards within professional sports. He emphasized how top-tier talent influences contract negotiations and overall player compensation, aiming to reshape industry benchmarks for deserving athletes in a competitive environment.",
-            "url": "https://sports.yahoo.com/articles/marlon-went-21m-jalen-ramsey-203656362.html",
-            "category": "National",
-            "date": "2026-10-09T20:36:56Z"
+            "title": "nc-codewiki added to PyPI",
+            "summary": "This article discusses an innovative system where AI agents automatically generate repository-level documentation for extensive software codebases. By analyzing the code's dependency graph, AI understands its structure and functionality, producing comprehensive documentation. This streamlines the often complex and time-consuming process of maintaining up-to-date documentation for large programming projects, significantly enhancing efficiency in software development and project management.",
+            "url": "https://pypi.org/project/nc-codewiki/",
+            "category": "Sci & Tech",
+            "date": "2026-10-10T02:55:11Z"
         },
         {
-            "title": "Railways cancels key Delhi-bound trains from UP citing traffic concerns",
-            "summary": "Recent national developments include Arvind Kejriwal's announcement of six guarantees for voters in Goa. Concurrently, a deepening flood crisis is causing widespread misery, with residents struggling for shelter and drinking water. Separately, a High Court has ordered police protection for an interfaith couple reportedly facing coercion, highlighting various ongoing social and political issues across the nation.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/railways-cancels-key-delhi-bound-trains-from-up-citing-traffic-concerns/articleshow/134842452.cms",
-            "category": "National",
-            "date": "2026-10-09T19:51:28Z"
-        },
-        {
-            "title": "Indigenous submarine hunter Mangrol to be commissioned in Mumbai on Monday",
-            "summary": "The Indian Navy is preparing to commission its third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC), named Mangrol. Built by Cochin Shipyard Limited in Kochi, this vessel signifies a crucial enhancement to India's naval capabilities for detecting and neutralizing underwater threats in shallow coastal regions. Its induction strengthens indigenous defence production and boosts maritime security, vital for an aspirant's understanding of naval modernization.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/indigenous-submarine-hunter-mangrol-to-be-commissioned-in-mumbai-on-monday/articleshow/134842199.cms",
+            "title": "5 Relationships DC Needs to Bring Back",
+            "summary": "The article emphasizes that DC superhero comics are intrinsically character-driven, with narratives revolving around core conflicts between good and evil. These battles are often portrayed literally, making individual character development and moral choices central to the storytelling. This focus ensures that the heroes' personal journeys and ethical dilemmas are key to the overarching plot and audience engagement.",
+            "url": "http://comicbook.com/comics/list/5-relationships-dc-needs-to-bring-back/",
             "category": "Defence",
-            "date": "2026-10-09T19:17:04Z"
+            "date": "2026-10-10T02:15:00Z"
         },
         {
-            "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-            "summary": "Russian tech giant Yandex, dubbed \"Russia's Google,\" is struggling to maintain services after Ukrainian drones hit two of its data centers. This incident highlights the escalating cyber-physical warfare and critical infrastructure vulnerability to drone attacks. Such strikes have significant implications for national information security and demonstrate evolving conflict strategies.",
-            "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro",
-            "category": "Defence",
-            "date": "2026-10-09T17:14:44Z"
+            "title": "Attorney for alleged victim of trans athlete sexual assault says SCOTUS fight can help set Title IX precedent",
+            "summary": "A US Supreme Court case, initiated by a Washington high school wrestler, is challenging the inclusion of transgender athletes in girls' sports. This significant legal battle, if successful, could establish restrictions impacting 23 states. The case underscores an ongoing international debate about fairness, inclusion, and gender identity in competitive sports, setting a potential legal precedent on a sensitive socio-cultural issue.",
+            "url": "https://www.foxnews.com/outkick-sports/attorney-alleged-victim-trans-athlete-sexual-assault-scotus-fight-help-set-title-ix-precedent",
+            "category": "International",
+            "date": "2026-10-09T21:09:36Z"
         }
     ]
 }
