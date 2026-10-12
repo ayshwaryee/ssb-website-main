@@ -1,26 +1,54 @@
 {
-    "last_updated": "2026-10-12T03:56:50.412388+00:00",
+    "last_updated": "2026-10-12T14:12:51.613731+00:00",
     "articles": [
         {
-            "title": "shipwatch added to PyPI",
-            "summary": "Shipwatch is a new tool designed to monitor and summarize actual releases from AI companies weekly. By processing changelogs and release notes, it generates a scored briefing, validating claims with sources. This enables users, like SSB aspirants interested in technology trends, to stay efficiently informed about the latest AI advancements and developments in the industry.",
-            "url": "https://pypi.org/project/shipwatch/",
-            "category": "Sci & Tech",
-            "date": "2026-10-11T03:45:40Z"
+            "title": "Anti-ICE protesters attack federal vehicle, threaten agents in Oregon parking lot; video shows",
+            "summary": "Anti-ICE protesters in Oregon, USA, attacked a federal vehicle and threatened agents in a parking lot, with video evidence circulating. This incident underscores the escalating tensions surrounding immigration enforcement policies and public demonstrations within the United States, reflecting challenges to law and order and civil liberties in a prominent global democracy.",
+            "url": "https://timesofindia.indiatimes.com/world/us/anti-ice-protesters-attack-federal-vehicle-threaten-agents-in-oregon-parking-lot-video-shows/articleshow/134871970.cms",
+            "category": "International",
+            "date": "2026-10-11T14:11:57Z"
         },
         {
-            "title": "MAZZEL\u30fbRYUKI\u3068STARGLOW\u30fbGOICHI\u306b\u3088\u308b\u524d\u5ddd\u4e00\u6d3e\u3001\u521d\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u697d\u66f2\u300cIPPA\u300d\u3092\u30b5\u30d7\u30e9\u30a4\u30ba\u30ea\u30ea\u30fc\u30b9\u3002\u8857\u9053\u30ec\u30fc\u30b5\u30fc\u3092\u30e2\u30c1\u30fc\u30d5\u306b\u4e8c\u4eba\u306e\u201c\u3042\u308a\u5f97\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u9752\u6625\u201d\u3092\u63cf\u3044\u305fMV\u3082\u516c\u958b",
-            "summary": "The text announces upcoming music videos from artists RYUKIGOICHI and IPPA, including 'KAIDO RACER / IPPA -Music Video-,' with a YouTube link provided. It also refers to a 'BMSGBMSG FES'26' event scheduled for October 2026. The information is fragmented but centers on music and entertainment releases.",
-            "url": "https://prtimes.jp/main/html/rd/p/000000286.000118793.html",
+            "title": "Sreelekha reiterates disappointment over denial of mayoral post",
+            "summary": "Thousands of demonstrators have taken to the streets in major international cities like London and New York, protesting the ongoing situation in Gaza. These widespread protests highlight significant global public concern and solidarity regarding the conflict, reflecting the impact of the Israeli-Palestinian issue on international diplomacy and public opinion worldwide.",
+            "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/sreelekha-reiterates-disappointment-over-denial-of-mayoral-post/articleshow/134871972.cms",
+            "category": "International",
+            "date": "2026-10-11T14:09:22Z"
+        },
+        {
+            "title": "TMC MLA dragged out of car, assaulted twice by \u2018BJP men\u2019",
+            "summary": "Thousands have staged mass protests across major global cities, including London, New York, and Berlin, expressing solidarity with Gaza. Demonstrators demanded a full arms embargo on Israel and rallied against countries like Germany for their support of Israel. These widespread international protests highlight significant global public opinion and diplomatic pressure surrounding the ongoing conflict, impacting international relations and policy discussions.",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/tmc-mla-dragged-out-of-car-assaulted-twice-by-bjp-men/articleshow/134871793.cms",
+            "category": "International",
+            "date": "2026-10-11T13:59:30Z"
+        },
+        {
+            "title": "Rajasthan NEET UG Counselling 2026: Round 3 seat allotment result out, 2,529 seats allotted, check complete details here",
+            "summary": "The Rajasthan NEET UG Counselling 2026's Round 3 seat allotment results have been officially released. A significant total of 2,529 seats have been successfully allotted to eligible candidates aspiring for medical admission within Rajasthan. Aspirants who participated in this round of counselling are strongly advised to check the complete details regarding their individual seat allocations on the official website, as this update is crucial for their further admission process.",
+            "url": "https://timesofindia.indiatimes.com/education/news/rajasthan-neet-ug-counselling-2026-round-3-seat-allotment-result-out-2529-seats-allotted-check-complete-details-here/articleshow/134871637.cms",
             "category": "National",
-            "date": "2026-10-11T02:40:37Z"
+            "date": "2026-10-11T13:58:48Z"
         },
         {
-            "title": "Roy Scheider Was In A Forgettable Sequel To A Genre-Defining Sci-Fi Movie",
-            "summary": "The film \"2010: The Year We Make Contact\" features an impressive cast, with Roy Scheider starring as astronaut Heywood Floyd. He is joined by John Lithgow and Bob Balaban, portraying his fellow American space team members. The movie delves into themes of space exploration and making contact, highlighting the ensemble's roles in this intriguing science fiction narrative.",
-            "url": "https://www.slashfilm.com/2278607/roy-scheider-sequel-genre-defining-sci-fi-movie-2010-the-year-we-make-contact/",
-            "category": "Sci & Tech",
-            "date": "2026-10-11T00:45:00Z"
+            "title": "Two killed, four hurt as trailer crashes into roadside hotel in Bokaro",
+            "summary": "Thousands have marched in London, New York, and Berlin, demonstrating solidarity with Gaza amidst the ongoing conflict. Protesters are demanding a full arms embargo against Israel and vocally opposing Germany's support for Israel. These widespread international demonstrations reflect significant global public concern and growing calls for policy shifts regarding the Israeli-Palestinian issue from a broad cross-section of society.",
+            "url": "https://timesofindia.indiatimes.com/city/ranchi/two-killed-four-hurt-as-trailer-crashes-into-roadside-hotel-in-bokaro/articleshow/134871764.cms",
+            "category": "International",
+            "date": "2026-10-11T13:54:35Z"
+        },
+        {
+            "title": "Bengal fishers seek protection of traditional fishing rights, climate insurance",
+            "summary": "Thousands of protestors globally, including in London, New York, and Berlin, are demonstrating against the ongoing Gaza conflict. Rallies specifically demand a full arms embargo against Israel and oppose nations' support for Israel, with significant protests in Germany against its pro-Israel stance. These widespread international demonstrations highlight escalating public concern and pressure on governments regarding the Middle East situation.",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-fishers-seek-protection-of-traditional-fishing-rights-climate-insurance/articleshow/134871712.cms",
+            "category": "International",
+            "date": "2026-10-11T13:50:39Z"
+        },
+        {
+            "title": "PM Modi stresses State-led development, says empowering States is key to Viksit Bharat",
+            "summary": "Prime Minister Narendra Modi recently stated that empowering individual states is fundamental to India's overall development and progress. He stressed that the nation's growth depends on enabling states to achieve their aspirations. This approach reinforces the concept of cooperative federalism, ensuring that strengthening regional capabilities directly translates into national prosperity and a more robust India through decentralized progress.",
+            "url": "https://www.thehindubusinessline.com/news/pm-modi-stresses-state-led-development-says-empowering-states-is-key-to-viksit-bharat/article71571603.ece",
+            "category": "National",
+            "date": "2026-10-11T13:45:52Z"
         }
     ]
 }
