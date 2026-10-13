@@ -1,166 +1,40 @@
 {
-    "last_updated": "2026-10-13T13:23:25.100003+00:00",
+    "last_updated": "2026-10-13T22:12:50.135548+00:00",
     "articles": [
         {
-            "title": "Indian Navy commissions INS Mangrol amid rising underwater threats in Indian Ocean",
-            "summary": "INS Mangrol, India's third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC), was commissioned into the Indian Navy in Mumbai. It significantly boosts maritime capabilities for coastal defense against sub-surface threats in shallow waters. This bolsters anti-submarine warfare prowess, vital for safeguarding maritime interests and reflecting naval modernization.",
-            "url": "https://www.thehindubusinessline.com/news/indian-navy-commissions-ins-mangrol-amid-rising-underwater-threats-in-indian-ocean/article71575205.ece",
-            "category": "Defence",
-            "date": "2026-10-12T13:22:55Z"
-        },
-        {
-            "title": "GE Aerospace to nearly double supplier spend in India by 2030, eyes growing Aviation demand",
-            "summary": "GE Aerospace announced plans to nearly double its spending on Indian suppliers between 2025 and 2030. This strategic move aims to significantly strengthen GE's domestic supply chain within India and bolster the nation's indigenous manufacturing capabilities, particularly in the defence and aerospace sectors. It underscores growing foreign collaboration supporting India's self-reliance initiatives, crucial for an SSB aspirant to note.",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/ge-aerospace-to-nearly-double-supplier-spend-in-india-by-2030-eyes-growing-aviation-demand/articleshow/134894449.cms",
-            "category": "Defence",
-            "date": "2026-10-12T13:18:58Z"
-        },
-        {
-            "title": "The Himalayas are getting a new war machine as Indian Army expands its drone arsenal",
-            "summary": "These soldier-portable drones demonstrate exceptional operational capabilities, taking off from 16,000 feet and climbing beyond 18,000 feet in the world's most challenging terrains. Their lightweight design makes them easy for soldiers to carry, providing a crucial tactical advantage. This advanced drone technology significantly enhances surveillance and operational effectiveness for defence forces, especially in high-altitude and difficult environments.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/the-himalayas-are-getting-a-new-war-machine-as-indian-army-expands-its-drone-arsenal/articleshow/134893796.cms",
-            "category": "Defence",
-            "date": "2026-10-12T13:15:39Z"
-        },
-        {
-            "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China",
-            "summary": "Computer scientist Hal Abelson presents a humorous twist on the idea of intellectual lineage. His quote suggests that if one hasn't 'seen as far,' it might be due to the overwhelming presence or burden of past 'giants' rather than benefiting from their elevated perspective. This encourages critical thought on how historical knowledge shapes current innovation and individual progress, valuable for any aspirant.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258838",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:14:14Z"
-        },
-        {
-            "title": "Google's sleek new Fitbit Edge is packed with health features and a replaceable battery",
-            "summary": "Prominent computer scientist Hal Abelson shared a witty quote, humorously reversing the 'shoulders of giants' idiom. He suggested limited perspective might stem from giants 'standing on his shoulders,' rather than elevating. This prompts reflection on how profound influences can sometimes constrain individual thought and unique insights, challenging traditional views on intellectual legacy and progress.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258802",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:13:32Z"
-        },
-        {
-            "title": "Google brings Health Guardian to the Fitbit Air and Edge, and expands automatic activity tracking",
-            "summary": "Hal Abelson's quote offers a humorous, self-deprecating twist on Newton's famous 'standing on the shoulders of giants' metaphor. He suggests that perceived limits in one's own vision or achievements might stem from being metaphorically burdened or obscured by the influence of great predecessors, rather than elevated by them. This perspective encourages critical reflection on the process of innovation and learning.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258792",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:13:22Z"
-        },
-        {
-            "title": "What you can do when your Ethernet cable gets stuck",
-            "summary": "Hal Abelson's quote humorously suggests that 'giants' \u2013 powerful figures or established ideas \u2013 can sometimes inadvertently restrict an individual's unique vision or progress, rather than solely aiding it. For SSB aspirants, this highlights the challenge of balancing respect for foundational knowledge with fostering independent thought, ensuring personal growth isn't constrained by overwhelming influences.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258786",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:13:11Z"
-        },
-        {
-            "title": "MAGA Inc. plots final midterm money moves - Politico",
-            "summary": "Hal Abelson's humorous quote inverts Newton's famous saying, suggesting that the 'giants' of past achievements can sometimes feel like a burden hindering individual progress rather than aiding it. It encourages a critical perspective on established knowledge, prompting aspirants to both learn from history and challenge existing frameworks for genuine innovation.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258780",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:12:58Z"
-        },
-        {
-            "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks - CNBC",
-            "summary": "Computer scientist Hal Abelson's quote humorously inverts the famous \"standing on the shoulders of giants\" saying. Instead of gaining vision from predecessors, Abelson playfully suggests being hampered by giants \"standing on *his* shoulders.\" This witty remark encourages critical thinking about perspectives on achievement and legacy, challenging the traditional view of building upon prior work by introducing the idea of being burdened by it, offering a light-hearted yet thought-provoking reflection for aspirants.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258766",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:12:47Z"
-        },
-        {
-            "title": "John Oliver Says \u2018Last Week Tonight\u2019 Is \u201cNever Gonna Change\u201d Following Skydance Acquisition - The Hollywood Reporter",
-            "summary": "Computer scientist Hal Abelson offers a witty reversal of a famous adage, suggesting the weight of great predecessors might obscure one's own vision rather than elevate it. This challenges conventional wisdom and highlights the importance of independent thought and critical analysis for problem-solving. For SSB aspirants, it underscores developing unique perspectives beyond inherited frameworks.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258760",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:12:37Z"
-        },
-        {
-            "title": "Two NFL coaches, two disastrous endings and zero excuses - The Washington Post",
-            "summary": "Hal Abelson's quote humorously reflects on the challenges of gaining unique perspective. It playfully suggests that one's limited view, contrasting with others' broader insights, could be attributed to being metaphorically burdened by influential predecessors or overwhelming responsibilities, inverting the traditional idea of building upon past achievements.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258754",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:12:26Z"
-        },
-        {
-            "title": "Fred Warner on Mike Evans: Unreal how he shows up every week and dominates - NBC Sports",
-            "summary": "Hal Abelson's quote humorously reinterprets the idea of building on past knowledge. Instead of being elevated by 'giants,' he playfully suggests their overwhelming presence might inadvertently obscure one's own vision or limit perspective. This philosophical observation offers a unique, introspective take on intellectual influence and the challenge of individual contribution amidst a rich, established heritage, hinting at the complexities of learning and innovation.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258746",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:12:16Z"
-        },
-        {
-            "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice - Science Daily",
-            "summary": "This quote by computer scientist Hal Abelson offers a unique perspective on progress, inverting Newton's famous saying. Abelson suggests that sometimes, the very 'giants' of established knowledge or past achievements can inadvertently hinder one's own ability to see new horizons or innovate. For SSB aspirants, it subtly highlights the importance of critical thinking and the courage to challenge assumptions, even while respecting foundational wisdom, to forge original paths and develop innovative solutions.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186258732",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T13:12:04Z"
-        },
-        {
-            "title": "$1bn arms fund went to defence ministry, not me \u2014 Ex-COAS Buratai",
-            "summary": "Former Nigerian Chief of Army Staff, Lt. Gen. Tukur Buratai (retd.), confirmed the $1bn approved for defence procurement during his tenure was released to the Ministry of Defence. This clarifies the allocation of significant military funds, addressing accountability concerns. It highlights financial aspects of defence administration, crucial for SSB aspirants to understand resource management and transparency within the armed forces.",
-            "url": "https://punchng.com/1bn-arms-fund-went-to-defence-ministry-not-me-ex-coas-buratai/",
-            "category": "Defence",
-            "date": "2026-10-12T13:00:09Z"
-        },
-        {
-            "title": "GE Aerospace to nearly double supplier spend in India by 2030, eyes growing aviation demand",
-            "summary": "GE Aerospace plans to nearly double its spending on Indian suppliers between 2025 and 2030. This strategic move aims to strengthen its domestic supply chain while significantly boosting India's rapidly expanding aerospace and defence manufacturing capabilities. The increased investment aligns with 'Make in India', fostering economic growth, job creation, and enhancing India's strategic self-reliance in advanced technological sectors.",
-            "url": "https://economictimes.indiatimes.com/tech/startups/ge-aerospace-to-nearly-double-supplier-spend-in-india-by-2030-eyes-growing-aviation-demand/articleshow/134891657.cms",
-            "category": "Defence",
-            "date": "2026-10-12T12:02:44Z"
-        },
-        {
-            "title": "Kremlin rejects Ukraine\u2019s offer of a 60-day truce and presidential elections",
-            "summary": "The Kremlin rejected Ukrainian President Zelenskiy's proposal for a 60-day ceasefire to enable presidential elections in Ukraine. Moscow insisted on an \"overall peace deal\" instead of a temporary truce, highlighting the ongoing geopolitical complexities of the conflict. This rejection underscores the deep divisions and challenges in resolving the Russia-Ukraine war, with both sides maintaining distinct negotiating positions.",
-            "url": "https://www.irishtimes.com/world/europe/2026/10/12/kremlin-rejects-ukraines-offer-of-a-60-day-truce-and-presidential-elections/",
-            "category": "International",
-            "date": "2026-10-12T11:50:08Z"
-        },
-        {
-            "title": "Jack Johnson's 2026 tour is matching donations to a Florida creative-reuse charity; how the money supports community education",
-            "summary": "Musician Jack Johnson's 2026 tour is matching donations to a Florida creative-reuse charity. These funds will support vital community education programs, showcasing how prominent figures contribute to social development globally. This initiative exemplifies using public platforms for philanthropic causes, fostering sustainable community upliftment through educational support and environmental consciousness.",
-            "url": "https://timesofindia.indiatimes.com/world/us/jack-johnsons-2026-tour-is-matching-donations-to-a-florida-creative-reuse-charity-how-the-money-supports-community-education/articleshow/134891358.cms",
-            "category": "International",
-            "date": "2026-10-12T11:18:49Z"
-        },
-        {
-            "title": "10/25/26: Free Halloween Fun: Trick-Or-Treating + Haunted Hunt (Oakland) - FREE",
-            "summary": "The Montclair Village Association is organizing a community-wide Halloween celebration, inviting families and people of all ages to participate. The event promises a bounty of treats, featuring trick-or-treating opportunities at the spooky Farmers' Market and throughout Montclair Village. This initiative aims to foster community engagement and provide festive entertainment for residents, promoting a sense of togetherness during the holiday season.",
-            "url": "https://sf.funcheap.com/free-halloween-fun-trickortreating-haunted-hunt-oakland/",
+            "title": "4 new governors named, picks underline BJP focus on elections",
+            "summary": "India has appointed four new governors, a move interpreted by political observers as strategically underlining the ruling BJP's focus on upcoming elections. These appointments are significant as governors hold vital constitutional positions in state administration, influencing central-state relations. SSB aspirants should track such national political developments and understand their broader implications for governance.",
+            "url": "https://timesofindia.indiatimes.com/india/4-new-governors-named-picks-underline-bjp-focus-on-elections/articleshow/134902196.cms",
             "category": "National",
-            "date": "2026-10-12T10:08:07Z"
+            "date": "2026-10-12T21:26:39Z"
         },
         {
-            "title": "PVR Inox, Sky Gold, Neogen, West Coast Paper, PTC Ind, KMEW hit 52-wk highs",
-            "summary": "The provided article highlights West Coast Paper Mills' impressive stock performance, which saw a 110% surge to hit its 20% upper circuit at 873.40 by calendar year 2026. This strong financial growth stands in stark contrast to a 16% decline experienced by the broader BSE Sensex, indicating significant individual company momentum within the national market.",
-            "url": "https://www.business-standard.com/markets/news/pvr-inox-sky-gold-neogen-west-coast-paper-ptc-ind-kmew-hit-52-wk-highs-126101200546_1.html",
+            "title": "The Best New Shows on TV and Streaming This Week",
+            "summary": "ScreenCrush provides a weekly guide highlighting the best new streaming TV shows. This service helps viewers discover new series to stream or find last-minute options for binge-watching. It offers timely recommendations across various platforms, catering to entertainment enthusiasts looking for popular and emerging content within the digital media landscape.",
+            "url": "https://screencrush.com/new-tv-streaming-this-week-101226/",
+            "category": "Sci & Tech",
+            "date": "2026-10-12T20:43:56Z"
+        },
+        {
+            "title": "Promoting Christianity does not amount to outraging religious feelings: Bombay HC",
+            "summary": "A concerning report indicates a growing number of Maharashtra's talukas are experiencing critical issues with shrinking groundwater levels and depleted soil moisture. This trend highlights increasing environmental stress and significant challenges for agricultural productivity and water security across the region. Such developments demand urgent attention for sustainable resource management and future planning.",
+            "url": "https://timesofindia.indiatimes.com/city/nagpur/promoting-christianity-does-not-amount-to-outraging-religious-feelings-bombay-hc/articleshow/134902147.cms",
             "category": "National",
-            "date": "2026-10-12T09:54:28Z"
+            "date": "2026-10-12T20:42:51Z"
         },
         {
-            "title": "Investigation into FlyDubai Attacker Puts Spotlight on a Melbourne Mosque - The New York Times",
-            "summary": "Hal Abelson's quote offers a unique perspective on progress and innovation, suggesting that one's ability to 'see as far as others' might be hindered, rather than helped, by the 'giants' or predecessors upon whose foundations one builds. It challenges the conventional idea of leveraging past achievements, instead implying that the weight of legacy or established knowledge could, paradoxically, obscure new pathways.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186256474",
+            "title": "HORROR MOVIES THAT SHOCKED FANS AND WERE BETTER THAN ANYONE EXPECTED! - Entertainment",
+            "summary": "Some horror films often arrive with very low expectations, stemming from shaky franchises, silly premises, or first-time directors. However, these cinematic offerings frequently defy initial skepticism, proving far scarier and more impactful than anticipated. They successfully deliver intense frights, leaving a lasting impression on audiences despite their humble beginnings, showcasing how effective execution can overcome initial doubts.",
+            "url": "https://vergemagazine.co.uk/horror-movies-that-were-far-scarier-than-we-expected/",
             "category": "Sci & Tech",
-            "date": "2026-10-12T09:33:14Z"
+            "date": "2026-10-12T20:20:41Z"
         },
         {
-            "title": "Kelly Clarkson Calls Brooklyn Store Owner \u2018Rude\u2019 and a \u2018Liar\u2019 in Fiery Response to Their Claims About Her \u201cPretty Woman\u201d Exp",
-            "summary": "Hal Abelson's quote humorously twists Newton's 'standing on shoulders of giants,' suggesting that immense prior achievements can sometimes obstruct an individual's unique vision rather than elevate it. This perspective encourages reflection on challenges faced when innovating amidst overwhelming historical precedent, offering insight for SSB aspirants on adapting to established systems while striving for individual contributions.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186256468",
+            "title": "European car companies will prefer to make in India: Piyush Goyal",
+            "summary": "An EMI Calculator is a crucial financial tool enabling individuals, including aspiring officers, to determine their monthly loan installment payments quickly. By inputting the loan amount, interest rate, and tenure, it simplifies financial planning and budgeting. This tool ensures clarity in managing personal finances, which is vital for long-term stability and responsible financial decision-making.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/european-car-companies-will-prefer-to-make-in-india-piyush-goyal/articleshow/134902090.cms",
             "category": "Sci & Tech",
-            "date": "2026-10-12T09:32:53Z"
-        },
-        {
-            "title": "S&P 500 futures rise as big banks set to kick off earnings season: Live updates - CNBC",
-            "summary": "Hal Abelson presents a unique perspective on achievement, suggesting that if one hasn't progressed as far as others, it may be due to being burdened by significant external factors rather than individual shortcomings. This thought-provoking quote encourages aspirants to reflect on obstacles, distinguishing between personal effort and systemic challenges that might hinder their potential and vision.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186255064",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T09:12:48Z"
-        },
-        {
-            "title": "Sunday Night Football: Ravens come back to beat Falcons in OT, 30-23 - NBC Sports",
-            "summary": "Hal Abelson's quote offers a thought-provoking twist on a classic metaphor, suggesting that the sheer magnitude of previous achievements might sometimes impede, rather than facilitate, new insights. It encourages a critical examination of how established knowledge, though foundational, can inadvertently limit one's perspective, highlighting the challenge of true innovation when overshadowed by intellectual 'giants'.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186255044",
-            "category": "Sci & Tech",
-            "date": "2026-10-12T09:12:23Z"
+            "date": "2026-10-12T20:18:57Z"
         }
     ]
 }
