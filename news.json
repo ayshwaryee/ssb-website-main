@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-10-16T02:49:11.828659+00:00",
+    "last_updated": "2026-10-16T10:32:11.852645+00:00",
     "articles": [
         {
-            "title": "Nifty faces 22,850 hurdle; analyst recommends BHEL, HAL, IndiGo for trade",
-            "summary": "An analyst has noted Nifty faces a significant resistance at 22,850, indicating potential market volatility. For trade, key recommendations include public sector undertakings BHEL and HAL, both vital to India's heavy engineering and aerospace/defence sectors, along with private airline IndiGo. This provides market insights and highlights major national companies' performance implications for aspirants monitoring economic trends.",
-            "url": "https://www.business-standard.com/markets/news/nifty-faces-22-850-hurdle-analyst-recommends-bhel-hal-indigo-for-trade-126101500093_1.html",
+            "title": "No more unknow numbers: Caller ID to include callers\u2019 registered names from November 1 under new DoT rules",
+            "summary": "India's Department of Telecommunications (DoT) has updated caller identification regulations, enabling caller ID systems to display a caller's name as registered with their telecom provider. This move aims to enhance transparency and potentially combat spam or fraudulent calls by providing recipients with more reliable information about incoming callers, impacting all subscribers across the nation.",
+            "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/caller-id-to-include-callers-registered-names-from-november-1-under-new-dot-rules/articleshow/134964654.cms",
             "category": "National",
-            "date": "2026-10-15T02:36:33Z"
+            "date": "2026-10-15T10:30:11Z"
         },
         {
-            "title": "North Korea says it tested cruise missiles to be launched from sub",
-            "summary": "North Korea recently conducted test-fires of submarine-launched cruise missiles (SLCMs), asserting these were aimed at evaluating its underwater combat systems' readiness. This move signifies Pyongyang's ongoing efforts to enhance its naval capabilities and potentially expand its deterrent options. For SSB aspirants, this highlights continued regional military tensions and the strategic implications of advanced naval weapon development.",
-            "url": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436",
+            "title": "Organigram Provides Update on Integration of Sanity Group and Unified Global Operating Model",
+            "summary": "A new unified operating model is being implemented to significantly streamline Canadian manufacturing processes. This model aims to integrate and unify global business functions, with a primary objective of enhancing profitability across all business operations. Its focus is on creating a more efficient and lucrative operational framework within Canada and its international ventures.",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/organigram-provides-update-on-integration-of-sanity-group-and-unified-global-operating-model",
+            "category": "National",
+            "date": "2026-10-15T10:15:08Z"
+        },
+        {
+            "title": "What is Starshield, Starlink's \u2018military-grade\u2019 version? How Ukraine uses two SpaceX systems against Russia | Explained | Today News",
+            "summary": "Ukrainian officials alleged SpaceX's Starlink and Starshield services, vital for their operations against Russia, were abruptly restricted. This incident, reported by Axios, highlights the critical reliance of modern military forces on private satellite communication and the potential vulnerabilities of such infrastructure during conflict, raising concerns about battlefield connectivity and the strategic implications of service control in international warfare.",
+            "url": "https://www.livemint.com/news/us-news/what-is-starshield-starlinks-military-grade-version-how-ukraine-uses-two-spacex-systems-against-russia-explained-11792057356618.html",
             "category": "Defence",
-            "date": "2026-10-14T23:37:00Z"
+            "date": "2026-10-15T10:12:01Z"
+        },
+        {
+            "title": "The Outlook - Week 6 (SEA-DEN, HOU-JAC, CHI-ATL, BAL-CLE, TEN-IND)",
+            "summary": "The article, part of 'The Outlook' series, details Week 6 of the NFL season. It covers the second week of bye weeks, specifically noting four teams on bye. The discussion includes expanding the player pool, a process already influenced by player injuries within the National Football League.",
+            "url": "https://www.thehuddle.com/story/sports/fantasy/football/inseason-advice/2026/10/15/the-outlook-week-6-matchups-page-1/92260712007/",
+            "category": "National",
+            "date": "2026-10-15T10:12:00Z"
+        },
+        {
+            "title": "Yankees keep betting on Aaron Boone, but should 2027 be different?",
+            "summary": "Aaron Boone has officially been named the new manager for the New York Yankees, donning the iconic No. 17 home jersey. He acknowledged the significant responsibilities and high expectations that come with leading the renowned baseball franchise. Boone expressed a clear understanding of the demanding role, indicating his readiness to embrace the challenges and future prospects as the team's new leader.",
+            "url": "https://www.northjersey.com/story/sports/mlb/yankees/2026/10/15/aaron-boone-yankees-future-manager-2027/92249357007/",
+            "category": "International",
+            "date": "2026-10-15T10:08:16Z"
+        },
+        {
+            "title": "Russia says Ukraine resumes attacks on oil refineries",
+            "summary": "Russia reported a Ukrainian drone attack on an oil refinery in Ryazan, south of Moscow. This comes after President Zelenskyy announced Kyiv's unilateral energy ceasefire was over, signaling an end to Ukraine's restraint on targeting Russian energy infrastructure. The incident marks a potential escalation, with Ukraine resuming strikes deep within Russian territory amidst the ongoing conflict.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries",
+            "category": "International",
+            "date": "2026-10-15T10:02:17Z"
+        },
+        {
+            "title": "294% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.94 lakh",
+            "summary": "The Reserve Bank of India (RBI) has announced the premature redemption price for the Sovereign Gold Bond (SGB) 2019-20 Series V, originally issued on October 15, 2019. This update is significant for gold bond investors, as it specifies the value at which they can redeem their investments before the full maturity period, reflecting RBI's continuous oversight of national financial instruments and schemes.",
+            "url": "https://economictimes.indiatimes.com/wealth/invest/294-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-94-lakh/articleshow/134962123.cms",
+            "category": "National",
+            "date": "2026-10-15T08:33:55Z"
         }
     ]
 }
