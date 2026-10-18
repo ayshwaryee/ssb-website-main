@@ -1,68 +1,124 @@
 {
-    "last_updated": "2026-10-18T10:15:09.019992+00:00",
+    "last_updated": "2026-10-18T15:15:36.179616+00:00",
     "articles": [
         {
+            "title": "Pacific Scholarship, PayAuthors, Irish Republican Digital Archive, More: Saturday ResearchBuzz, October 17, 2026",
+            "summary": "The University of Auckland has launched a new digital repository, making Pacific scholarship globally accessible. This initiative focuses on the broader Pacific region, or \"Pacific Basin,\" rather than solely the Pacific Ocean. It aims to share valuable research and knowledge from this significant area with a worldwide audience, fostering greater understanding and collaboration on Pacific-related topics.",
+            "url": "https://researchbuzz.me/2026/10/17/pacific-scholarship-payauthors-irish-republican-digital-archive-more-saturday-researchbuzz-october-17-2026/",
+            "category": "International",
+            "date": "2026-10-17T15:11:01Z"
+        },
+        {
+            "title": "\u2018The Diplomat\u2019 Composer Marcelo Zarvos Reveals the Inspiration Behind the Wylers\u2019 \u201cDevil\u2019s Waltz\u201d",
+            "summary": "Composer Marcelo Zarvos describes the series 'The Diplomat' as a 'dance,' due to its intricate personal and political maneuvering. This characterization suggests a complex drama focusing on strategic interactions and evolving relationships. Given the title and themes, the series likely explores international relations, offering insights into diplomatic challenges and human dynamics within a political context.",
+            "url": "https://www.whats-on-netflix.com/interviews/the-diplomat-marcelo-zarvos-interview-score/",
+            "category": "International",
+            "date": "2026-10-17T14:10:48Z"
+        },
+        {
+            "title": "Man quits corporate job to start own venture with his wife\u2019s savings, now earns \u20b91.5 crore monthly from 550 showrooms",
+            "summary": "Krishna Grover transitioned from a corporate career to launch Herald E-Bikes, an electric two-wheeler venture. Starting with his wife's modest savings, his enterprise has now grown to offer a diverse product range. This initiative exemplifies entrepreneurial spirit in the evolving electric mobility sector, contributing to national innovation in sustainable transport.",
+            "url": "https://www.livemint.com/companies/people/man-quits-corporate-job-to-start-own-venture-with-his-wife-s-savings-now-earns-1-5-crore-monthly-from-550-showrooms-11792239468364.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-17T14:09:00Z"
+        },
+        {
+            "title": "LANTERNS Showrunner Chris Mundy Talks About Why Early Plans For John Stewart's Suit Were Scrapped",
+            "summary": "The debut season of the series 'Lanterns' has concluded, prompting mixed reactions from fans. Despite witnessing Aaron Pierre's John Stewart character finally donning the iconic power ring and taking flight after an emotional farewell, some viewers expressed disappointment. The ending's impact on key character development and overall series direction has become a notable point of discussion among its audience.",
+            "url": "https://geektyrant.com/news/lanterns-showrunner-chris-mundy-talks-about-why-early-plans-for-john-stewarts-suit-were-scrapped",
+            "category": "Sci & Tech",
+            "date": "2026-10-17T14:00:00Z"
+        },
+        {
+            "title": "TVLine's Performer Of The Week: Keri Russell",
+            "summary": "Keri Russell is recognized for her performance as Kate Wyler, the titular diplomat, in Netflix's political thriller, 'The Diplomat.' The review specifically highlights her compelling portrayal in the episode 'Pagliacci,' which premiered on October 15, 2026. The series delves into complex international dynamics, making her role as a diplomat central to the gripping narrative.",
+            "url": "https://www.tvline.com/2289382/keri-russell-kate-wyler-the-diplomat-season-4-performance/",
+            "category": "International",
+            "date": "2026-10-17T14:00:00Z"
+        },
+        {
+            "title": "Neenah beats Kimberly for share of FVA title; FVL wins Apple Bowl",
+            "summary": "Despite a modest regular-season record, the Neenah football team is considered a formidable opponent heading into the WIAA playoffs. Driven by their playmaking quarterback Ashton VanBeek, the team has a reputation for being tough to face, suggesting they are a dangerous contender capable of making a strong impact in the upcoming post-season games.",
+            "url": "https://www.postcrescent.com/story/sports/high-school/football/2026/10/17/week-9-high-school-football-recap-in-the-appleton-area/92297039007/",
+            "category": "National",
+            "date": "2026-10-17T13:31:54Z"
+        },
+        {
+            "title": "Analyzing Yankees' payroll situation for 2027 MLB season and beyond",
+            "summary": "The New York Yankees, led by GM Brian Cashman, face an early postseason exit after being swept by the Tampa Bay Rays in the ALDS. This marks another disappointing season despite the front office's decision to maintain the existing roster. The repeated failure to advance deep into the playoffs presents significant challenges for the franchise's strategic planning and necessitates critical review.",
+            "url": "https://sny.tv/articles/analyzing-yankees-payroll-2027-beyond",
+            "category": "National",
+            "date": "2026-10-17T13:30:45Z"
+        },
+        {
+            "title": "The UK Navy wants to use this cheap, eco-friendly system against drones \u2014 high-pressure fire hoses chosen to protect nuclear submarine fleet as 'last line of defence'",
+            "summary": "Britain's nuclear submarine crews are training to counter drone threats using innovative, low-tech methods. Faced with the growing risk of naval security breaches, submariners are practicing using fire hoses as an emergency defence. This adaptation ensures Vanguard-class submarines, vital for the UK's deterrence, can protect themselves effectively against evolving asymmetric threats, highlighting a practical approach to modern warfare challenges for SSB aspirants to consider.",
+            "url": "https://www.techradar.com/pro/britain-to-use-cheap-eco-friendly-system-against-drones-high-pressure-fire-hoses-chosen-to-protect-nuclear-submarine-fleet-as-last-line-of-defence",
+            "category": "Defence",
+            "date": "2026-10-17T13:05:00Z"
+        },
+        {
+            "title": "Lanterns Season 2 Is Ready To Switch Main Characters",
+            "summary": "HBO's 'Lanterns' is reportedly set for significant narrative changes in its upcoming second season. Following the central conflict between John Stewart and Hal Jordan that defined season one, the new installment is anticipated to dramatically shift their dynamic. This suggests potential plot evolutions and character developments for the Green Lantern adaptation, moving beyond initial story arcs and marketing strategies.",
+            "url": "https://screenrant.com/lanterns-season-2-switch-main-characters-john-stewart/",
+            "category": "Sci & Tech",
+            "date": "2026-10-17T11:00:19Z"
+        },
+        {
+            "title": "3,500 Jobs for Chhattisgarh: Bhoomipoojan of Yash Fans Plant in Nava Raipur, in the Presence of CM Vishnu Deo Sai",
+            "summary": "Yash Fans has commenced construction of Chhattisgarh's first consumer electronics manufacturing plant in Nava Raipur, marked by a bhoomipoojan ceremony. This significant Rs 152.74 crore investment aims to boost local manufacturing and job creation. Expected to be operational by October 2026, the plant represents a major step towards industrial development in the state, aligning with national 'Make in India' initiatives and fostering economic growth.",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/3500-jobs-for-chhattisgarh-bhoomipoojan-of-yash-fans-plant-in-nava-raipur-in-the-presence-of-cm-vishnu-deo-sai/articleshow/135012156.cms",
+            "category": "National",
+            "date": "2026-10-17T10:39:53Z"
+        },
+        {
             "title": "claude-code-router added to PyPI",
-            "summary": "The article describes a system that automates the optimization of 'Claude Code tasks,' routing them to the most cost-effective AI model and effort level. This ensures efficient use of subscription resources without manual model selection, simplifying operations and maximizing value for users working on coding and AI-driven projects. Such technological advancements highlight the growing importance of AI in efficiency.",
+            "summary": "A system named 'ccr' efficiently routes Claude Code tasks to the most cost-effective AI model and effort level, maximizing subscription value. This automated process eliminates the need for manual model selection, allowing users to simply input tasks. The innovation streamlines AI operational efficiency, ensuring optimal resource utilization and cost savings for users engaging with AI-driven development.",
             "url": "https://pypi.org/project/claude-code-router/",
             "category": "Sci & Tech",
             "date": "2026-10-17T09:20:04Z"
         },
         {
             "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
-            "summary": "\"101 East\" investigates alleged political protection surrounding the 2006 murder of a Mongolian woman in Malaysia. Two Malaysian special forces policemen were implicated in her brutal killing. The inquiry raises critical questions about accountability and the rule of law within Malaysia's justice system, highlighting challenges in ensuring impartial justice despite the severity of the crime.",
+            "summary": "101 East is investigating the 2006 murder of a Mongolian woman in Malaysia, allegedly by two Malaysian special forces policemen. The inquiry focuses on whether political influence and power have shielded individuals involved, obstructing justice for nearly two decades. This significant case highlights ongoing concerns regarding accountability within law enforcement and potential high-level corruption within Malaysia's political system.",
             "url": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu",
             "category": "National",
             "date": "2026-10-17T08:40:47Z"
         },
         {
             "title": "Lanterns: Josh Brolin Reveals Why He Passed On Playing Hal Jordan In HBO's DCU Series",
-            "summary": "Avengers: Infinity War actor Josh Brolin was reportedly considered for the role of Hal Jordan in the DCU's upcoming 'Lanterns' project by HBO and DC Studios. This casting rumor initially sparked significant excitement among fans, anticipating his portrayal of the iconic Green Lantern. While the initial buzz was strong, further details suggest a different direction, highlighting the dynamic nature of major studio casting processes.",
+            "summary": "Avengers star Josh Brolin was reportedly considered for the role of Hal Jordan in DC Studios' upcoming 'Lanterns' series. The news sparked considerable excitement among DC fans regarding the potential casting for the popular DC Universe character, indicating strong fan interest in the project's development and casting choices for this major franchise.",
             "url": "https://comicbookmovie.com/tv/dc/lanterns/lanterns-josh-brolin-reveals-why-he-passed-on-playing-hal-jordan-in-hbos-dcu-series-a230473",
             "category": "International",
             "date": "2026-10-17T08:38:03Z"
         },
         {
-            "title": "India\u2019s Zorawar light tank faces protection and performance trade-off",
-            "summary": "India's Zorawar light tank program faces a critical design challenge: upgrading protection without sacrificing crucial mobility. The Indian Army requires stronger armour to resist powerful modern ammunition. Achieving this balance is vital for the tank's operational effectiveness in diverse terrains and modern warfare, ensuring it remains agile yet resilient for frontline deployment.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/indias-zorawar-light-tank-faces-protection-and-performance-trade-off/articleshow/135010356.cms",
-            "category": "Defence",
-            "date": "2026-10-17T08:26:22Z"
-        },
-        {
             "title": "Russian defence ministry says it hit Ukrainian steel plants, power infrastructure overnight",
-            "summary": "Russia's defence ministry confirmed launching a large-scale overnight attack on Ukrainian infrastructure targets. The offensive reportedly struck key facilities, including Ukraine's largest steelworks located in Kryvyi Rih. This military action highlights the continued intensity of the conflict, impacting critical industrial capabilities and infrastructure within Ukraine as the war persists.",
+            "summary": "Russia's defence ministry reported a large-scale overnight attack on Ukrainian infrastructure, including the country's largest steelworks in Kryvyi Rih. This offensive highlights the ongoing conflict, impacting vital industrial assets. SSB aspirants should note the strategic implications of targeting key economic facilities during wartime, reflecting persistent international tensions and the complexity of modern warfare.",
             "url": "https://www.thehindubusinessline.com/news/world/russian-defence-ministry-says-it-hit-ukrainian-steel-plants-power-infrastructure-overnight/article71595811.ece",
-            "category": "Defence",
+            "category": "International",
             "date": "2026-10-17T08:16:05Z"
         },
         {
-            "title": "Canada war-gamed a U.S. invasion. A former NORAD commander explains why",
-            "summary": "The article primarily identifies potential security threats emanating from Russia, also considering a combined Russia-China threat scenario. It highlights the importance of enhancing air defence systems and surveillance capabilities to counter these challenges. This analysis is crucial for strategic planning, enabling better preparedness and safeguarding national security against evolving geopolitical risks.",
-            "url": "https://nationalpost.com/news/canada-war-gamed-a-u-s-invasion-a-former-norad-commander-explains-why",
-            "category": "Defence",
-            "date": "2026-10-17T08:00:36Z"
-        },
-        {
-            "title": "HAL Junior Executive Recruitment 2026: Last date today for 150 engineering vacancies",
-            "summary": "Palmer Luckey and Ford CEO Jim Farley agree on the 'warning' posed by Chinese cars. Luckey, however, disputes the solution, stating America cannot compete with China's cheap car production conventionally. This discussion highlights a significant economic challenge for the US automotive sector, underscoring the complexities of global competition and the need for new strategic approaches.",
-            "url": "https://timesofindia.indiatimes.com/education/news/hal-junior-executive-recruitment-2026-last-date-today-for-150-engineering-vacancies/articleshow/135009923.cms",
+            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 14th October 2026",
+            "summary": "Mount Mukut, an impressive peak in the Garhwal Himalaya, Uttarakhand, stands tall at an elevation of 7,045 metres. Located in the Western Garhwal region, it is situated near the renowned Mount Kamet. This geographical information is crucial for SSB aspirants, enhancing their understanding of India's significant national terrain and diverse physical geography.",
+            "url": "https://iasbaba.com/2026/10/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-14th-october-2026/",
             "category": "National",
-            "date": "2026-10-17T07:47:15Z"
+            "date": "2026-10-17T07:19:51Z"
         },
         {
-            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 12th October 2026",
-            "summary": "The World Wide Fund for Nature (WWF) released its Living Planet Report 2026 on October 8. This international report offers a comprehensive assessment of global biodiversity, wildlife populations, and human impact on planetary health. Such environmental assessments are vital for understanding international challenges and conservation efforts, influencing future policy and sustainability discussions globally.",
-            "url": "https://iasbaba.com/2026/10/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-12th-october-2026/",
-            "category": "International",
-            "date": "2026-10-17T07:17:24Z"
+            "title": "UPSC Quiz \u2013 2026 : IASbaba\u2019s Daily Current Affairs Quiz 13th October 2026",
+            "summary": "Mount Mukut, a significant peak in India's Garhwal Himalaya, Uttarakhand, stands at an elevation of 7,045 metres. Located in the Western Garhwal region, it is situated near the renowned Mount Kamet. This geographical detail is vital for aspirants to understand India's diverse topography and key natural landmarks, showcasing the nation's high-altitude features.",
+            "url": "https://iasbaba.com/2026/10/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-13th-october-2026/",
+            "category": "National",
+            "date": "2026-10-17T07:18:20Z"
         },
         {
-            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Our Confession of Faith - Saturday, October 17, 2026",
-            "summary": "This biblical passage highlights Jesus' teaching on the spiritual consequences of public faith. It states that those who acknowledge Him before others will be acknowledged by the Son of Man before angels, while those who deny Him will face denial. This underscores the profound spiritual significance of publicly affirming one's beliefs, emphasizing ultimate accountability for one's public stance.",
-            "url": "https://freerepublic.com/focus/f-religion/4399480/posts",
-            "category": "International",
-            "date": "2026-10-17T05:36:26Z"
+            "title": "Two Terrorists Killed in Keran Sector as Search Operation Continues Along LoC in Kupwara",
+            "summary": "Indian security forces successfully neutralized two terrorists during an exchange of fire in the Jumagund area of North Kashmir's Kupwara district. This counter-terrorism operation underscores the continuous vigilance and effectiveness of our armed forces in maintaining national security and combating militancy, demonstrating their commitment to peace and stability in the region.",
+            "url": "https://kashmirnewsbureau.com/two-terrorists-killed-in-keran-sector-as-search-operation-continues-along-loc-in-kupwara/",
+            "category": "Defence",
+            "date": "2026-10-17T05:45:07Z"
         }
     ]
 }
