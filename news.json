@@ -1,54 +1,40 @@
 {
-    "last_updated": "2026-10-17T19:59:26.606789+00:00",
+    "last_updated": "2026-10-18T02:42:05.393741+00:00",
     "articles": [
         {
-            "title": "forge-doctor-data added to PyPI",
-            "summary": "This technical note details the setup of a portable system, emphasizing a quickstart installation process. It introduces an \"agentic delegation\" framework, identified by \"SpecialistAgenticManifest/v1\", and references extensive documentation covering commands, skills, and agents. This suggests a structured approach to deploying and managing sophisticated technical agents.",
-            "url": "https://pypi.org/project/forge-doctor-data/",
-            "category": "Sci & Tech",
-            "date": "2026-10-16T19:12:07Z"
-        },
-        {
-            "title": "What is the NWSL Skills Challenge? What to know about the event featuring USWNT stars",
-            "summary": "Elite players from the National Women's Soccer League, including prominent figures from the U.S. Women's National Team, are set to participate in a unique showcase event. This skill-testing exhibition will be held during the league's championship weekend, aiming to highlight fundamental soccer abilities and the high caliber of talent within the NWSL.",
-            "url": "https://www.timesunion.com/sports/article/nwsl-skills-challenge-uswnt-soccer-22480554.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-            "category": "International",
-            "date": "2026-10-16T19:03:55Z"
-        },
-        {
-            "title": " Swap winter for the Caribbean! Cura\u00e7ao + Bonaire in one trip from Amsterdam for \u20ac602",
-            "summary": "This travel itinerary presents a Caribbean escape to Cura\u00e7ao and Bonaire from Amsterdam, priced at 602. It encourages travelers to swap cold December weather for swimming in warm turquoise waters, combining two distinct islands into a single tropical trip. This offers an opportunity for those seeking a sun-filled getaway.",
-            "url": "https://www.fly4free.com/flight-deals/europe/amsterdam-curacao-bonaire-e602/",
-            "category": "International",
-            "date": "2026-10-16T18:30:34Z"
-        },
-        {
-            "title": "\u2018The Diplomat\u2019 Creator on Finally Tackling \u2018Moral Toxic Waste\u2019 in Trump Era: \u2018Not Asking Those Questions Just Felt Absurd\u2019",
-            "summary": "The article highlights 'The Diplomat' Season 4 creator Debora Cahn's distinctive approach to her political drama. Cahn deliberately avoids basing the show's plotlines on current major headlines. Instead, she focuses on crafting entirely original narratives. This ensures the series offers a unique and engaging exploration of political themes, creating a fictional world separate from immediate real-world events.",
-            "url": "https://www.thewrap.com/creative-content/tv-shows/the-diplomat-season-4-ending-explained-debora-cahn-interview/",
-            "category": "International",
-            "date": "2026-10-16T18:30:00Z"
-        },
-        {
-            "title": "Army revives two ponds in Thar to help wildlife tide over water scarcity",
-            "summary": "News reports highlight Obama's accusation of Israeli land theft, sparking fury from Netanyahu over ancestral land claims. Nationally, India's 'Bombay Sport Exchange' is questioning entertainment's role over genuine sports development. Additionally, discussions are ongoing regarding military tactics, signaling ongoing strategic debates across various fronts.",
-            "url": "https://timesofindia.indiatimes.com/city/jaipur/army-revives-two-ponds-in-thar-to-help-wildlife-tide-over-water-scarcity/articleshow/135001249.cms",
-            "category": "International",
-            "date": "2026-10-16T17:56:14Z"
-        },
-        {
-            "title": "2026-27 Rotoworld Fantasy Basketball Mock Draft: Grades for all 12 expert teams",
-            "summary": "Rotoworld's annual Live Mock Draft Show took place on October 15th, bringing together Noah Rubin, Raphielle Johnson, and other participants. They collaborated with nine leading experts from the fantasy hoops industry in an engaging drafting event. This high-profile gathering within the sports entertainment sector highlights competitive analysis and industry interaction.",
-            "url": "https://sports.yahoo.com/articles/2026-27-rotoworld-fantasy-basketball-164302606.html",
-            "category": "National",
-            "date": "2026-10-16T16:43:02Z"
-        },
-        {
-            "title": "L&T-built INS Samarthak commissioned into Indian Navy, marking a milestone for private shipbuilding",
-            "summary": "The Indian Navy has commissioned \"Samarthak,\" the first-of-class Multi-Purpose Vessel (MPV), designed and constructed by L&T Shipyard, at Karwar, Karnataka. This significant indigenous development highlights India's growing self-reliance in advanced warship building. \"Samarthak\" will enhance the Navy's operational flexibility and maritime security capabilities across diverse roles, reinforcing national defence preparedness and showcasing the strength of domestic shipbuilding.",
-            "url": "https://www.thehindubusinessline.com/news/lampt-built-ins-samarthak-commissioned-into-indian-navy-marking-a-milestone-for-private-shipbuilding/article71592548.ece",
+            "title": "North Korea says tested AI-assisted torpedo system",
+            "summary": "North Korea has reportedly tested a new precision-guided torpedo system, leveraging artificial intelligence for advanced target detection and guidance. This significant development, confirmed by state media, highlights Pyongyang's ongoing efforts to modernize its conventional weaponry with cutting-edge technology. Such advancements in military capabilities carry important implications for regional stability and international defence strategies, warranting close observation by security analysts worldwide.",
+            "url": "https://www.channelnewsasia.com/east-asia/north-korea-ai-torpedo-system-6467791",
             "category": "Defence",
-            "date": "2026-10-16T13:19:31Z"
+            "date": "2026-10-17T02:11:00Z"
+        },
+        {
+            "title": "The Diplomat Recap: What Did Basil Ever Do to You?",
+            "summary": "The author expresses a profound personal transformation, having finally moved past previous anxieties and uncertainties concerning Grace Penn. The narrative acknowledges the potential role of PTSD in exacerbating Grace's negative traits and challenges. This personal shift signifies a significant resolution in the author's perception and emotional engagement with Grace's situation, highlighting a journey of acceptance and understanding.",
+            "url": "http://www.vulture.com/article/the-diplomat-recap-season-4-episode-7-netflix.html",
+            "category": "National",
+            "date": "2026-10-17T00:00:44Z"
+        },
+        {
+            "title": "The Diplomat Recap: Advisory Board, Assemble",
+            "summary": "The article discusses the 'what-could-have-been' scenario for 'Todd,' whose unwavering loyalty to his wife, the POTUS, reportedly hindered his potential as a valuable advisor. It highlights the complex interplay between personal relationships and professional opportunities within high-level political roles, reflecting on how individual allegiances can impact national governance contributions.",
+            "url": "http://www.vulture.com/article/the-diplomat-recap-season-4-episode-6-netflix.html",
+            "category": "National",
+            "date": "2026-10-16T23:00:38Z"
+        },
+        {
+            "title": "N. Korea tests guided torpedo equipped with AI tech",
+            "summary": "North Korea test-fired its Cham-2.0 submarine-launched torpedo, featuring advanced AI technology, according to KCNA. This significant development highlights Pyongyang's continuous efforts to modernize its naval warfare capabilities. The involvement of its National Defense Academy and Rocket Industry directorate underscores a strategic push in military research and development, potentially escalating regional security concerns for SSB aspirants to note.",
+            "url": "https://biztoc.com/x/d5f95e9e137b6f59",
+            "category": "Defence",
+            "date": "2026-10-16T22:02:27Z"
+        },
+        {
+            "title": "Board of Clients 2026",
+            "summary": "In the late 1990s, Forrester established its first Board of Clients, a group of customers providing advice on acquisitions, research, and product direction. Members served for three yearly meetings. This initiative showcased Forrester's early commitment to integrating direct client feedback into its core business strategy, influencing its market offerings and development path.",
+            "url": "https://www.forrester.com/blogs/board-of-clients-2026/",
+            "category": "Sci & Tech",
+            "date": "2026-10-16T20:25:56Z"
         }
     ]
 }
