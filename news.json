@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-10-19T02:55:21.608134+00:00",
+    "last_updated": "2026-10-19T11:53:59.579873+00:00",
     "articles": [
         {
-            "title": "Holland America Line Unwraps A Season Of Holiday Dining, Entertainment And Festivities - Cruise Addicts",
-            "summary": "Holland America Line is launching its 2026 holiday season cruises, offering guests special voyages packed with festive traditions, seasonal flavors, and memorable celebrations at sea. These meticulously planned international cruises aim to provide unique onboard experiences, enabling travelers to savor holiday festivities in a distinctive and luxurious setting, catering to global clientele seeking a festive escape.",
-            "url": "https://cruiseaddicts.com/holland-america-line-holiday-cruises-festivities/",
-            "category": "International",
-            "date": "2026-10-18T01:14:56Z"
+            "title": "preshift added to PyPI",
+            "summary": "PreShift, a new Python library, tackles dataset shift detection and risk estimation in machine learning. It measures distributional changes between data, crucial for maintaining AI model accuracy. This tool ensures robust performance of intelligent systems, highlighting the technical effort in creating dependable AI applications adaptable to evolving data environments.",
+            "url": "https://pypi.org/project/preshift/",
+            "category": "Sci & Tech",
+            "date": "2026-10-18T11:40:05Z"
         },
         {
-            "title": "Undervalued As Earnings And AUKUS Optimism Build?",
-            "summary": "An unnamed company approaches its October 30 earnings release. Investors anticipate higher quarterly Earnings Per Share and revenue. A key focus is also placed on the company's 'nucl...' operations or division, suggesting potential attention on its nuclear-related activities. This financial news highlights investor interest in both conventional earnings and specific strategic technological segments, indicating broader market analysis.",
-            "url": "https://biztoc.com/x/d0e2da5e504ba5c4",
+            "title": "Ukrainian drone attack on Russia\u2019s St Petersburg kills 1, hits energy sites",
+            "summary": "A major Ukrainian drone attack struck St Petersburg, Russia, killing one person and injuring five, according to Governor Alexandre Beglov. Firefighters are actively battling the aftermath, suggesting substantial damage. This incident marks a significant escalation, demonstrating the conflict's reach into Russian urban centres and highlighting ongoing cross-border military engagements.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+            "category": "Defence",
+            "date": "2026-10-18T10:34:09Z"
+        },
+        {
+            "title": "Two Indonesian researchers receive Indroyono Soesilo Awards in India",
+            "summary": "Two Indonesian researchers were honored with Indroyono Soesilo Awards at the 47th Asian Conference on Remote Sensing (ACRS) in New Delhi on October 16, 2026. Their significant research, focusing on remote sensing applications\u2014likely related to forestry or environmental monitoring\u2014garnered international recognition. This achievement underscores advancements in scientific innovation and cross-national collaboration in the crucial field of remote sensing technology.",
+            "url": "https://en.antaranews.com/news/436273/two-indonesian-researchers-receive-indroyono-soesilo-awards-in-india",
             "category": "Sci & Tech",
-            "date": "2026-10-18T00:11:52Z"
+            "date": "2026-10-18T09:54:56Z"
+        },
+        {
+            "title": "DC Comics\u2019s Cosmic Corner Is Missing One Final Piece (and It Makes the Green Lantern Mythos Look Tame)",
+            "summary": "DC Comics is experiencing remarkable sales success, reaching levels not witnessed since the 1980s, effectively challenging Marvel Comics' historical dominance. This shift indicates a significant change in the competitive landscape of the comic book industry's sales charts, signaling a potential new era for these prominent publishers and their market standing.",
+            "url": "http://comicbook.com/comics/feature/dc-comicss-cosmic-corner-is-missing-one-final-piece-and-it-makes-the-green-lantern-mythos-look-tame/",
+            "category": "National",
+            "date": "2026-10-18T09:37:00Z"
+        },
+        {
+            "title": "Russian oil terminal and data centre in St Petersburg ablaze as Kyiv launches massive drone attack after Trump's decision to waive sanctions and 'slow down' satellites",
+            "summary": "Ukraine launched a significant drone attack on St Petersburg, Russia, setting ablaze an oil terminal and a data centre. This marks a notable escalation in the ongoing conflict, targeting critical Russian infrastructure deep within its territory. The assault highlights Ukraine's continued capability to strike strategic assets, impacting Russia's energy and information networks amidst ongoing hostilities.",
+            "url": "https://www.dailymail.com/news/article-16218265/Russian-oil-St-Petersburg-Kyiv-drone-Trump-sanctions.html",
+            "category": "International",
+            "date": "2026-10-18T08:03:33Z"
+        },
+        {
+            "title": "Rajnath Singh to represent India at SCO Council of Heads of Government meet",
+            "summary": "Defence Minister Rajnath Singh will represent India at the Shanghai Cooperation Organisation (SCO) Council of Heads of Government meeting in Dushanbe, Tajikistan. This high-level gathering will focus on economic cooperation, trade, and regional security, allowing India to strengthen multilateral ties within the SCO framework and discuss critical regional challenges with member states like Russia, China, and Central Asian nations.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/rajnath-singh-to-represent-india-at-sco-council-of-heads-of-government-meet-126101800271_1.html",
+            "category": "International",
+            "date": "2026-10-18T07:58:10Z"
+        },
+        {
+            "title": "Rajasthan panchayat polls: 200km constituency in Jaisalmer poses challenge for candidates",
+            "summary": "The provided text focuses on recent developments in the Punjabi entertainment industry, highlighting new music and film releases. It features the music video 'Sohniye' by Mohammad Faiz & Asees Kaur, alongside the trailer for the movie 'Jahankilla', starring Jobanpreet Singh, Gurbani Gill, and Jeet Singh Panwar. This offers a glimpse into regional cultural productions, showcasing upcoming content for audiences within the country's diverse media landscape.",
+            "url": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-panchayat-polls-200km-constituency-in-jaisalmer-poses-challenge-for-candidates/articleshow/135025301.cms",
+            "category": "National",
+            "date": "2026-10-18T07:07:28Z"
         }
     ]
 }
