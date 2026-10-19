@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-10-19T11:53:59.579873+00:00",
+    "last_updated": "2026-10-19T18:12:59.520077+00:00",
     "articles": [
         {
+            "title": "DRDO develops 20% more lightweight armour for future combat vehicles",
+            "summary": "The provided text consists solely of boilerplate information detailing social media links, copyright for Bennett, Coleman & Co. Ltd. (dated 2026), and contact for reprint rights via Times Syndication Service. There is no substantive news article content present within this material for an SSB aspirant to analyze or summarize for current affairs. Therefore, no specific defence, national, international, or scientific updates can be extracted.",
+            "url": "https://timesofindia.indiatimes.com/city/pune/drdo-develops-20-more-lightweight-armour-for-future-combat-vehicles/articleshow/135033414.cms",
+            "category": "National",
+            "date": "2026-10-18T17:51:15Z"
+        },
+        {
+            "title": "The Diplomat Stars And EP Tell All About That Stunning Finale Twist \u2014 Plus, Grade The Season!",
+            "summary": "This article discusses the popular fictional TV series 'The Diplomat,' focusing on its upcoming Season 4. It explores a key plot point: whether the protagonist, Kate Wyler, will continue her role as a diplomat. The article ponders how this potential change could impact the show's narrative and character dynamics, prompting viewers to consider the series' future direction. It serves as a spoiler warning for the series.",
+            "url": "https://www.tvline.com/2289434/the-diplomat-season-4-finale-kate-resigns-interview-ending-explained/",
+            "category": "International",
+            "date": "2026-10-18T17:00:00Z"
+        },
+        {
+            "title": "mcp-dev-toolbox added to PyPI",
+            "summary": "This text describes an AI agent designed to allow developers to query their codebase and git history using plain English. It provides precise answers grounded in the actual code. The system functions as an MCP server, supporting various clients like Claude Desktop, Claude Code, and Cursor, streamlining code understanding and development workflows through advanced AI integration.",
+            "url": "https://pypi.org/project/mcp-dev-toolbox/",
+            "category": "Sci & Tech",
+            "date": "2026-10-18T15:08:01Z"
+        },
+        {
+            "title": "The Diplomat Season 4: Now Actually About Diplomacy",
+            "summary": "The article discusses Netflix's hit show 'The Diplomat,' starring Keri Russell as a career foreign service officer. Created by Debora Cahn, it revisits the series two years after its first season. For SSB aspirants, the show offers a fictional exploration of international diplomacy and global affairs, providing context on foreign service roles.",
+            "url": "https://www.lawyersgunsmoneyblog.com/2026/10/the-diplomat-season-4-now-actually-about-diplomacy",
+            "category": "International",
+            "date": "2026-10-18T15:05:02Z"
+        },
+        {
+            "title": "High school sports results for Saturday, Oct. 17",
+            "summary": "Lillianna Graf and Maria Cristescu of De Pere clinched the Division 1 state doubles championship at Nielsen Tennis Stadium. The No. 4 seeds defeated Isabella Heidenberger and Sophia\u043a\u0442\u043e\u0440 in the final, securing a significant victory in Wisconsin's high school tennis season. Their triumph showcases exceptional performance and teamwork in a highly competitive state-level tournament.",
+            "url": "https://www.postcrescent.com/story/sports/high-school/2026/10/18/high-school-sports-results-for-saturday-oct-17/92317153007/",
+            "category": "National",
+            "date": "2026-10-18T14:37:41Z"
+        },
+        {
+            "title": "Longtime Winnipeg councillor John Angus remembered as a 'titan' of municipal politics",
+            "summary": "John Angus, a long-serving city councillor for south Winnipeg's St. Norbert ward, has passed away. Remembered as a municipal \"legend\" and \"political titan,\" Angus dedicated decades to public service, significantly impacting local politics. His legacy highlights the importance of sustained community engagement and leadership within the civic sphere for SSB aspirants observing political contributions.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-john-angus-obituary-9.7385284",
+            "category": "International",
+            "date": "2026-10-18T13:54:57Z"
+        },
+        {
+            "title": "Danny Hutton Has Led Three Dog Night for 60 Years. He Has the Wild Stories to Prove It",
+            "summary": "Rolling Stone magazine has launched \"Last Man Standing,\" an interview series featuring senior writer Andy Greene in long-form conversations with the final remaining members of iconic bands. This series aims to capture unique perspectives and stories from these legendary musicians, offering a historical look at their significant contributions to music and their enduring legacies within the national cultural landscape.",
+            "url": "http://www.rollingstone.com/music/music-features/danny-hutton-three-dog-night-1235641293/",
+            "category": "National",
+            "date": "2026-10-18T13:00:00Z"
+        },
+        {
             "title": "preshift added to PyPI",
-            "summary": "PreShift, a new Python library, tackles dataset shift detection and risk estimation in machine learning. It measures distributional changes between data, crucial for maintaining AI model accuracy. This tool ensures robust performance of intelligent systems, highlighting the technical effort in creating dependable AI applications adaptable to evolving data environments.",
+            "summary": "PreShift is a new Python library designed for machine learning, focusing on \"prediction-aware dataset shift detection\" and risk estimation. It measures distributional changes between reference and incoming data, crucial for maintaining model accuracy. This tool helps ensure machine learning models remain reliable by identifying when data patterns change, preventing faulty predictions due to evolving data environments, a significant step in AI robustness.",
             "url": "https://pypi.org/project/preshift/",
             "category": "Sci & Tech",
             "date": "2026-10-18T11:40:05Z"
-        },
-        {
-            "title": "Ukrainian drone attack on Russia\u2019s St Petersburg kills 1, hits energy sites",
-            "summary": "A major Ukrainian drone attack struck St Petersburg, Russia, killing one person and injuring five, according to Governor Alexandre Beglov. Firefighters are actively battling the aftermath, suggesting substantial damage. This incident marks a significant escalation, demonstrating the conflict's reach into Russian urban centres and highlighting ongoing cross-border military engagements.",
-            "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
-            "category": "Defence",
-            "date": "2026-10-18T10:34:09Z"
-        },
-        {
-            "title": "Two Indonesian researchers receive Indroyono Soesilo Awards in India",
-            "summary": "Two Indonesian researchers were honored with Indroyono Soesilo Awards at the 47th Asian Conference on Remote Sensing (ACRS) in New Delhi on October 16, 2026. Their significant research, focusing on remote sensing applications\u2014likely related to forestry or environmental monitoring\u2014garnered international recognition. This achievement underscores advancements in scientific innovation and cross-national collaboration in the crucial field of remote sensing technology.",
-            "url": "https://en.antaranews.com/news/436273/two-indonesian-researchers-receive-indroyono-soesilo-awards-in-india",
-            "category": "Sci & Tech",
-            "date": "2026-10-18T09:54:56Z"
-        },
-        {
-            "title": "DC Comics\u2019s Cosmic Corner Is Missing One Final Piece (and It Makes the Green Lantern Mythos Look Tame)",
-            "summary": "DC Comics is experiencing remarkable sales success, reaching levels not witnessed since the 1980s, effectively challenging Marvel Comics' historical dominance. This shift indicates a significant change in the competitive landscape of the comic book industry's sales charts, signaling a potential new era for these prominent publishers and their market standing.",
-            "url": "http://comicbook.com/comics/feature/dc-comicss-cosmic-corner-is-missing-one-final-piece-and-it-makes-the-green-lantern-mythos-look-tame/",
-            "category": "National",
-            "date": "2026-10-18T09:37:00Z"
-        },
-        {
-            "title": "Russian oil terminal and data centre in St Petersburg ablaze as Kyiv launches massive drone attack after Trump's decision to waive sanctions and 'slow down' satellites",
-            "summary": "Ukraine launched a significant drone attack on St Petersburg, Russia, setting ablaze an oil terminal and a data centre. This marks a notable escalation in the ongoing conflict, targeting critical Russian infrastructure deep within its territory. The assault highlights Ukraine's continued capability to strike strategic assets, impacting Russia's energy and information networks amidst ongoing hostilities.",
-            "url": "https://www.dailymail.com/news/article-16218265/Russian-oil-St-Petersburg-Kyiv-drone-Trump-sanctions.html",
-            "category": "International",
-            "date": "2026-10-18T08:03:33Z"
-        },
-        {
-            "title": "Rajnath Singh to represent India at SCO Council of Heads of Government meet",
-            "summary": "Defence Minister Rajnath Singh will represent India at the Shanghai Cooperation Organisation (SCO) Council of Heads of Government meeting in Dushanbe, Tajikistan. This high-level gathering will focus on economic cooperation, trade, and regional security, allowing India to strengthen multilateral ties within the SCO framework and discuss critical regional challenges with member states like Russia, China, and Central Asian nations.",
-            "url": "https://www.business-standard.com/external-affairs-defence-security/news/rajnath-singh-to-represent-india-at-sco-council-of-heads-of-government-meet-126101800271_1.html",
-            "category": "International",
-            "date": "2026-10-18T07:58:10Z"
-        },
-        {
-            "title": "Rajasthan panchayat polls: 200km constituency in Jaisalmer poses challenge for candidates",
-            "summary": "The provided text focuses on recent developments in the Punjabi entertainment industry, highlighting new music and film releases. It features the music video 'Sohniye' by Mohammad Faiz & Asees Kaur, alongside the trailer for the movie 'Jahankilla', starring Jobanpreet Singh, Gurbani Gill, and Jeet Singh Panwar. This offers a glimpse into regional cultural productions, showcasing upcoming content for audiences within the country's diverse media landscape.",
-            "url": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-panchayat-polls-200km-constituency-in-jaisalmer-poses-challenge-for-candidates/articleshow/135025301.cms",
-            "category": "National",
-            "date": "2026-10-18T07:07:28Z"
         }
     ]
 }
