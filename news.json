@@ -1,33 +1,54 @@
 {
-    "last_updated": "2026-10-21T02:59:50.224735+00:00",
+    "last_updated": "2026-10-21T11:01:29.233916+00:00",
     "articles": [
         {
-            "title": "Why is hemorrhoid surgery risky?",
-            "summary": "Hemorrhoid surgery, though often effective, carries inherent risks due to its sensitive anatomical location. Potential complications include bleeding, infection, and pain, with some cases requiring further intervention. Understanding these risks is crucial for patients, emphasizing the importance of detailed medical consultation and diligent post-operative care to manage adverse outcomes. This highlights general awareness of medical procedures and their complexities.",
-            "url": "https://www.lifesciencesworld.com/why-is-hemorrhoid-surgery-risky/",
-            "category": "Sci & Tech",
-            "date": "2026-10-20T02:07:58Z"
+            "title": "Liverpool lineup prediction vs. Villarreal: Who replaces Szoboszlai?",
+            "summary": "Liverpool is set to host Villarreal in a Champions League match on Tuesday, October 20. The team faces challenges with several key players sidelined due to injuries. This follows Andoni Iraola's side securing a 2-1 victory over Brentford on Saturday, October 17, though they also experienced further player issues during that game.",
+            "url": "https://www.usatoday.com/story/sports/soccer/ucl/2026/10/20/liverpool-lineup-villarreal-szoboszlai-frimpong-champions-league/92335225007/",
+            "category": "International",
+            "date": "2026-10-20T10:03:23Z"
         },
         {
-            "title": "Why Jim Harbaugh doesn\u2019t have \u2018privilege\u2019 of ruling out Mike McDaniel role change at 0-6",
-            "summary": "The article discusses why Jim Harbaugh, likely a coach, cannot rule out a role change for Mike McDaniel, a team staff member. This analysis stems from the Los Angeles Chargers' struggling 0-6 season start. The piece highlights pressure on Harbaugh and the team due to poor performance, suggesting imminent strategic adjustments within the organization.",
-            "url": "https://clutchpoints.com/nfl/los-angeles-chargers/chargers-news-jim-harbaugh-privilege-ruling-out-mike-mcdaniel-role-change-at-0-6",
-            "category": "National",
-            "date": "2026-10-20T02:06:55Z"
+            "title": "Wider Europe Briefing: Croatia Holds Up Montenegro, Georgia Slips Down EU Agenda",
+            "summary": "RFE/RL's \"Wider Europe\" newsletter focuses on key issues concerning the European Union, NATO, and other international institutions. It analyzes their relationships and dynamics with the Western Balkans and Eastern Europe, providing crucial insights. The publication aims to offer a comprehensive perspective on political, economic, and security developments impacting regional stability across the broader European continent.",
+            "url": "https://www.rferl.org/a/wider-europe-croatia-montenegro-eu-accession-georgia-jozwiak/33880089.html",
+            "category": "International",
+            "date": "2026-10-20T09:58:29Z"
         },
         {
-            "title": "broadcom-wps",
-            "summary": "This technical repository provides two distinct methods to detect Broadcom's 802.11 implementation on target routers. Aspirants should understand it involves static analysis using YARA rules on extracted firmware and dynamic runtime techniques. This is significant for cybersecurity, network device forensics, and identifying specific hardware configurations, which can be critical for vulnerability assessments and maintaining secure communication infrastructure.",
-            "url": "https://kitploit.com/en/tools/github/qkaiser/broadcom-wps",
-            "category": "Sci & Tech",
-            "date": "2026-10-19T22:51:28Z"
+            "title": "Black Sea strikes fueling global food \u2018storm\u2019: EU",
+            "summary": "The Romanian Defence Ministry released cockpit camera footage from an F-16 fighter jet, showing a Romanian Air Force pilot engaging an aerial target. This incident, hinting at a context involving Strasbourg, demonstrates the high operational readiness and vigilance required for air defence. For SSB aspirants, it underscores the critical importance of a well-trained air force in swiftly responding to threats and ensuring national security.",
+            "url": "https://www.hurriyetdailynews.com/black-sea-strikes-fueling-global-food-storm-eu-228368",
+            "category": "Defence",
+            "date": "2026-10-20T09:40:00Z"
         },
         {
-            "title": "Aaron Boone will have another chance to get Yankees over the hump",
-            "summary": "The New York Yankees are reportedly retaining manager Aaron Boone, despite another early playoff exit and significant public pressure for his job. This decision signals the organization's continued faith in Boone's leadership, defying calls for change after a challenging season. For SSB aspirants, this reflects a major sports franchise's management strategy amidst performance scrutiny within a national context.",
-            "url": "https://nypost.com/2026/10/19/sports/aaron-boone-gets-another-chance-to-get-yankees-over-the-hump/",
-            "category": "National",
-            "date": "2026-10-19T21:58:24Z"
+            "title": "Varanasi to witness IAF's 'Wings Over Ganges' aerial display on October 25",
+            "summary": "The Indian Air Force is preparing for a spectacular air show over the Ganga in Varanasi. Fighter aircraft will demonstrate precision aerobatics and breathtaking manoeuvres, showcasing the IAF's formidable capabilities. This event aims to thrill audiences and highlight India's defense prowess, fostering public engagement with the armed forces through an impressive aerial display.",
+            "url": "https://economictimes.indiatimes.com/news/defence/varanasi-to-witness-iafs-wings-over-ganges-aerial-display-on-october-25/articleshow/135066554.cms",
+            "category": "Defence",
+            "date": "2026-10-20T09:32:49Z"
+        },
+        {
+            "title": "Greek Navy unveils \u2018Pyrpolitis\u2019 kamikaze sea drone alongside nine other unmanned vessels",
+            "summary": "The Hellenic Navy inaugurated its Joint Training Centre for Unmanned and Autonomous Maritime Systems (UAMS). This facility signifies a crucial step in modernizing naval capabilities, embracing advanced autonomous technologies for maritime operations. It highlights the growing importance of robotics and AI in defence, crucial for future strategic planning and operational efficiency, reflecting evolving global naval warfare paradigms.",
+            "url": "https://en.protothema.gr/2026/10/20/greek-navy-unveils-pyrpolitis-kamikaze-sea-drone-alongside-nine-other-unmanned-vessels/",
+            "category": "Defence",
+            "date": "2026-10-20T09:16:20Z"
+        },
+        {
+            "title": "IAF chief takes final trainer sortie near Hyderabad, flies Kiran aircraft",
+            "summary": "Outgoing IAF Chief Air Chief Marshal AP Singh undertook his final flight in a Kiran aircraft at the Air Force Academy, Dundigal, Hyderabad. Ahead of his superannuation this month, this traditional farewell sortie symbolises a leader's enduring connection with flying and the force's training roots. It's a significant event for aspirants, highlighting respect for service traditions and aviation.",
+            "url": "https://economictimes.indiatimes.com/news/india/iaf-chief-takes-final-trainer-sortie-near-hyderabad-flies-kiran-aircraft/articleshow/135065675.cms",
+            "category": "Defence",
+            "date": "2026-10-20T08:54:21Z"
+        },
+        {
+            "title": "Russian military satellite 'moves within 85 feet of another used to provide Ukraine with intelligence' in worrying Star Wars escalation",
+            "summary": "A Russian military satellite recently approached within 85 feet of a satellite providing intelligence to Ukraine, escalating fears of a potential 'Star Wars' conflict in space. This incident highlights growing tensions and the increasing militarization of space, posing new challenges for international security and space domain awareness, crucial for defense strategies.",
+            "url": "https://www.dailymail.com/news/article-16222751/Russian-satellite-85ft-Ukraine-intelligence.html",
+            "category": "Defence",
+            "date": "2026-10-20T08:36:57Z"
         }
     ]
 }
