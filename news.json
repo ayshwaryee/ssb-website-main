@@ -1,26 +1,47 @@
 {
-    "last_updated": "2026-10-22T02:58:44.666728+00:00",
+    "last_updated": "2026-10-22T11:00:33.533300+00:00",
     "articles": [
         {
-            "title": "Building India\u2019s deep-tech enterprise pipeline: from IP to IPO",
-            "summary": "India's startup ecosystem is navigating a more challenging phase, shifting its strategic focus from mere quantitative metrics like startup numbers, patents, or funding rounds. The new emphasis is on evaluating the successful transition of indigenous technologies from laboratory validation to real-world application and commercialisation. This signifies a pivotal move towards fostering deeper, more impactful innovation and tangible technological development within the nation.",
-            "url": "https://www.livemint.com/opinion/online-views/building-india-s-deep-tech-enterprise-pipeline-from-ip-to-ipo-11792426643662.html",
-            "category": "National",
-            "date": "2026-10-21T02:30:46Z"
-        },
-        {
-            "title": "Rubio Accuses Iran of \u2018Nazi U-Boat Tactics\u2019 \u2014 Warns It\u2019s \u2018Tough to Make a Deal\u2019 with \u2018Radical Shia Clerics\u2019",
-            "summary": "US Secretary of State Marco Rubio accused Iran of employing \"Nazi U-boat tactics\" against commercial shipping in the Strait of Hormuz. He warned that these actions severely hinder the possibility of reaching any agreement with Tehran. This highlights escalating international tensions in a critical global waterway, posing significant challenges to maritime security and diplomatic efforts concerning Iran's regional conduct.",
-            "url": "https://www.breitbart.com/politics/2026/10/20/rubio-accuses-iran-of-nazi-u-boat-tactics-warns-its-tough-to-make-a-deal-with-radical-shia-clerics/",
-            "category": "International",
-            "date": "2026-10-21T00:52:55Z"
-        },
-        {
-            "title": "Rio Ngumoha shines brightest in Liverpool's \u00a3400m attack: Teenager stands out as a potential world-beater in chaotic comeback win, writes LEWIS STEELE",
-            "summary": "The article introduces the concept of 'Pep roulette,' referencing Pep Guardiola's unpredictable team selections, likely as an analogy for strategic variation. As the full text is truncated, the specific context remains unknown, but it probably delves into dynamic decision-making or tactical shifts in a field pertinent to national or international affairs, such as defence strategy, offering insights into leadership and adaptability.",
-            "url": "https://www.dailymail.com/sport/football/article-16223067/Rio-Ngumoha-shines-brightest-Liverpools-400m-attack-Teenager-stands-potential-world-beater-chaotic-comeback-win-writes-LEWIS-STEELE.html",
+            "title": "Army Commanders' Conference begins, Rajnath Singh to release Land Warfare Doctrine",
+            "summary": "The three-day Army Commanders' Conference began in New Delhi, where Defence Minister Rajnath Singh is set to release the 'Land Warfare Doctrine'. This pivotal vision document will outline India's strategic approach to land warfare, guiding future operations and modernization. The conference serves as a critical forum for high-level discussions on national security and defence preparedness, offering crucial insights for SSB aspirants into India's military strategy and future direction.",
+            "url": "https://economictimes.indiatimes.com/news/defence/army-commanders-conference-begins-rajnath-singh-to-release-land-warfare-doctrine/articleshow/135089655.cms",
             "category": "Defence",
-            "date": "2026-10-20T21:24:04Z"
+            "date": "2026-10-21T10:47:53Z"
+        },
+        {
+            "title": "CBSE LOC 2027 deadline today: Check late fee, dates and key guidelines",
+            "summary": "The Central Board of Secondary Education (CBSE) is closing its List of Candidates (LOC) submission website today, October 21st. All affiliated schools are urged to promptly complete the LOC submission process for students appearing in the 2026-27 board examinations. This critical deadline ensures timely administrative preparations for future CBSE academic sessions across the nation.",
+            "url": "https://www.business-standard.com/education/news/cbse-loc-2027-deadline-today-check-late-fee-dates-and-key-guidelines-nc-126102100735_1.html",
+            "category": "National",
+            "date": "2026-10-21T10:40:19Z"
+        },
+        {
+            "title": "Oshkosh guide to Brewers World Series watch spots",
+            "summary": "The Milwaukee Brewers are set to face the Tampa Bay Rays in the World Series championship. This highly anticipated baseball matchup marks the Brewers' pursuit of their first-ever franchise title. The series sets the stage for a significant showdown, with Milwaukee aiming for championship glory against the formidable Tampa Bay Rays.",
+            "url": "https://www.thenorthwestern.com/story/sports/baseball/2026/10/21/oshkosh-brewers-world-series-watch-parties-bars/92343938007/",
+            "category": "International",
+            "date": "2026-10-21T09:55:35Z"
+        },
+        {
+            "title": "NASA\u2019s Perseverance Mars rover just shattered the all-time off-world driving record",
+            "summary": "NASA's Perseverance rover has set a new driving record on another world, traveling farther across an extraterrestrial surface than any vehicle before it. On October 11, the rover's odometer marked this significant milestone. This achievement highlights advancements in robotic space exploration and our capability to navigate and study distant planetary environments.",
+            "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
+            "category": "Sci & Tech",
+            "date": "2026-10-21T09:22:36Z"
+        },
+        {
+            "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
+            "summary": "Several prominent Indian defence and aerospace sector companies, including Apollo Micro, MTAR Tech, and Paras Defence, experienced a notable downturn in their stock prices. These key players, involved in military technology and manufacturing, saw their shares decline by 4 to 6 percent. This broad dip indicates a significant bearish trend affecting multiple listed entities within the defence industry segment.",
+            "url": "https://www.business-standard.com/markets/news/nifty-india-defence-index-slips-3-unimech-axiscades-dynamatic-tank-7-126102100526_1.html",
+            "category": "Defence",
+            "date": "2026-10-21T08:14:44Z"
+        },
+        {
+            "title": "2010 Moby Dick 2010 1080p AMZN WEB-DL H264-GPRS",
+            "summary": "This article outlines the plot of a modern-day adaptation of a classic novel. It features the captain of a high-tech submarine driven by an obsessive quest. Having been maimed by an enormous prehistoric whale, the captain dedicates himself to tracking and destroying the creature, utilizing his advanced naval vessel in a relentless pursuit of revenge.",
+            "url": "https://post.rlsbb.cc/2010-moby-dick-2010-1080p-amzn-web-dl-h264-gprs/",
+            "category": "Defence",
+            "date": "2026-10-21T05:51:36Z"
         }
     ]
 }
