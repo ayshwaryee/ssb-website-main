@@ -1,26 +1,54 @@
 {
-    "last_updated": "2026-10-23T03:02:23.433121+00:00",
+    "last_updated": "2026-10-23T10:54:01.379989+00:00",
     "articles": [
         {
-            "title": "Indian Air Force engages industry outreach program on unmanned and autonomous systems roadmap",
-            "summary": "The Indian Air Force (IAF) recently conducted an Industry Outreach Program at Vigyan Bhawan, New Delhi. This initiative aimed to engage with key stakeholders, including Micro, Small and Medium Enterprises (MSMEs) and startups. The program fosters collaboration for indigenous defence production, innovation, and technological self-reliance, enhancing the IAF's capabilities through domestic industry participation.",
-            "url": "https://economictimes.indiatimes.com/news/defence/indian-air-force-engages-industry-outreach-program-on-unmanned-and-autonomous-systems-roadmap/articleshow/135104629.cms",
-            "category": "Defence",
-            "date": "2026-10-22T02:38:24Z"
+            "title": "Star Wars' Daisy Ridley To Lead New Sci-Fi Reimagining From WandaVision Director Matt Shakman",
+            "summary": "Daisy Ridley, famed for 'Star Wars', is set to headline a new sci-fi adventure film focused on the legendary lost city of Atlantis. This project involves a reimagining of 'Voyage to Atlantis', marking her return to the speculative fiction genre. The film promises an exciting exploration of deep-sea mysteries and a fresh cinematic take on the ancient mythical civilization.",
+            "url": "https://comicbookmovie.com/sci_fi/star-wars/star-wars-daisy-ridley-to-lead-new-sci-fi-reimagining-from-wandavision-director-matt-shakman-a230574",
+            "category": "Sci & Tech",
+            "date": "2026-10-22T10:50:24Z"
         },
         {
-            "title": "Hal Steinbrenner\u2019s says he\u2019s OK with Aaron Judge\u2019s call for Yankees to go \u2018all in\u2019 for title",
-            "summary": "Yankees slugger Aaron Judge questioned the team management's commitment, prompting owner Hal Steinbrenner to deny being bothered. Judge's remarks came after the Yankees' recent elimination, highlighting internal tensions regarding team investment and performance. This situation reflects dynamics between star players and ownership concerning strategy and accountability following a disappointing season, crucial for understanding team leadership.",
-            "url": "https://nypost.com/2026/10/21/sports/hal-steinbrenners-says-hes-ok-with-aaron-judges-call-for-yankees-to-go-all-in-for-title/",
+            "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+            "summary": "Italian police arrested 30 individuals near Milan, dismantling an alleged mafia-linked \"hidden bank\" operating from a car-rental business. Authorities seized assets worth 21 million euros, including cryptocurrency. This operation highlights international efforts against organized crime and financial illicit activities, demonstrating effective law enforcement action against sophisticated criminal networks operating across borders.",
+            "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
             "category": "International",
-            "date": "2026-10-22T02:33:06Z"
+            "date": "2026-10-22T10:45:13Z"
         },
         {
-            "title": "T\u00fcrkiye, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says",
-            "summary": "T\u00fcrkiye, Qatar, Pakistan, and Indonesia have signed an agreement in Ankara to significantly boost defence cooperation and strengthen their individual and collective defensive capabilities. This multilateral pact aims to foster greater collaboration among the four nations, potentially including joint exercises, technology sharing, and strategic planning, thereby bolstering regional security and collective defence strategies.",
-            "url": "https://www.channelnewsasia.com/world/turkiye-qatar-pakistan-indonesia-sign-defence-cooperation-accord-6478751",
-            "category": "Defence",
-            "date": "2026-10-22T02:12:25Z"
+            "title": "Is Neha Bora, India\u2019s new red star, Modi\u2019s real Gen Z threat?",
+            "summary": "On October 12, India's opposition leader, Rahul Gandhi, led a significant march in New Delhi with thousands of supporters to the Supreme Court. They submitted a petition, reportedly seeking the sacking of an official or addressing a major political grievance. This event underscores ongoing domestic political activism and challenges faced by the government in India.",
+            "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat",
+            "category": "National",
+            "date": "2026-10-22T10:45:01Z"
+        },
+        {
+            "title": "Overseas property remittances jump 64% to $528.7 million as Indians chase rental income, capital gains and golden visas: Knight Frank-IREX Survey",
+            "summary": "Overseas property remittances by Indians have surged by 64% to $528.7 million, according to Knight Frank. This significant increase highlights a growing trend among Indians to invest in international real estate. Key drivers include seeking stable rental income, realizing capital gains, and acquiring 'golden visas' offered by various countries, reflecting diversified investment strategies and global mobility aspirations.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/overseas-property-remittances-jump-64-to-528-7-million-as-indians-chase-rental-income-capital-gains-and-golden-visas-knight-frank-irex-survey/articleshow/135116032.cms",
+            "category": "International",
+            "date": "2026-10-22T10:37:20Z"
+        },
+        {
+            "title": "Netanyahu denies report that Trump blocked planned Israeli strike on October 10",
+            "summary": "Over 800 MBBS seats remain vacant in deemed universities across Tamil Nadu and Puducherry. The primary reason cited is the high fees, which deters aspirants despite the demand for medical professionals. This situation highlights a critical challenge within India's medical education system, underscoring the need for accessible and affordable pathways to medical careers for deserving candidates.",
+            "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-denies-report-that-trump-blocked-planned-israeli-strike-on-october-10/articleshow/135116019.cms",
+            "category": "National",
+            "date": "2026-10-22T10:34:40Z"
+        },
+        {
+            "title": "\u2018Stand against hate\u2019: Mamdani celebrates Navratri with Hindu New Yorkers after Illinois temple shooting plot",
+            "summary": "Assemblyman Zohran Mamdani celebrated Navratri with Hindu New Yorkers, demonstrating solidarity against hate following an alarming plot to shoot up an Illinois temple. This event highlighted community resilience and interfaith harmony, underscoring the importance of unity and standing against prejudice, especially in the face of threats targeting religious communities within the nation.",
+            "url": "https://timesofindia.indiatimes.com/world/us/stand-against-hate-mamdani-celebrates-navratri-with-hindu-new-yorkers-after-illinois-temple-shooting-plot/articleshow/135115594.cms",
+            "category": "National",
+            "date": "2026-10-22T10:30:23Z"
+        },
+        {
+            "title": "University of Maryland students build a robotic feeding device for under $300; commercial alternatives can cost more than $5,000, the team says",
+            "summary": "University of Maryland students have developed an innovative robotic feeding device costing under $300, a significant breakthrough compared to commercial alternatives priced over $5,000. This project demonstrates exceptional engineering skill and resourcefulness, making crucial assistive technology remarkably more accessible. Such advancements highlight the potential for cost-effective solutions to improve quality of life and inspire practical innovation.",
+            "url": "https://timesofindia.indiatimes.com/science/discovery/university-of-maryland-students-build-a-robotic-feeding-device-for-under-300-commercial-alternatives-can-cost-more-than-5000-the-team-says/articleshow/135114156.cms",
+            "category": "Sci & Tech",
+            "date": "2026-10-22T10:20:33Z"
         }
     ]
 }
