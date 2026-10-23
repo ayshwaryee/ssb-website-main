@@ -1,54 +1,124 @@
 {
-    "last_updated": "2026-10-23T10:54:01.379989+00:00",
+    "last_updated": "2026-10-23T16:18:37.665699+00:00",
     "articles": [
         {
-            "title": "Star Wars' Daisy Ridley To Lead New Sci-Fi Reimagining From WandaVision Director Matt Shakman",
-            "summary": "Daisy Ridley, famed for 'Star Wars', is set to headline a new sci-fi adventure film focused on the legendary lost city of Atlantis. This project involves a reimagining of 'Voyage to Atlantis', marking her return to the speculative fiction genre. The film promises an exciting exploration of deep-sea mysteries and a fresh cinematic take on the ancient mythical civilization.",
-            "url": "https://comicbookmovie.com/sci_fi/star-wars/star-wars-daisy-ridley-to-lead-new-sci-fi-reimagining-from-wandavision-director-matt-shakman-a230574",
-            "category": "Sci & Tech",
-            "date": "2026-10-22T10:50:24Z"
+            "title": "Gem Veeramani case: Police to issue blue corner notice against Prakash",
+            "summary": "eMudhra is exiting its global SSL/TLS business, affecting 30,000 digital certificates, a significant development in cybersecurity and business. Parents in Salem are protesting a school fundraising drive, highlighting local civic issues. Additionally, the news briefly mentions two women linked to the Tiger Shroff firing case, presenting varied national incidents.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/gem-veeramani-case-police-to-issue-blue-corner-notice-against-prakash/articleshow/135122825.cms",
+            "category": "National",
+            "date": "2026-10-22T16:17:33Z"
+        },
+        {
+            "title": "Indian pilots take a spin in upgraded Su-30 jet in Russia (VIDEO)",
+            "summary": "Indian and Russian air force crews conducted joint drills in Russia\u2019s Chelyabinsk region, as part of the ongoing Indra-2026 inter-service military exercise. This significant collaboration enhances interoperability and strategic cooperation between the two nations' defence forces. Such exercises are crucial for sharing best practices and strengthening bilateral military ties, preparing both air forces for diverse operational challenges.",
+            "url": "https://rt-english.com/india/647530-indian-pilots-sukhoi30-indra/",
+            "category": "Defence",
+            "date": "2026-10-22T16:05:03Z"
+        },
+        {
+            "title": "\u201cThe Diplomat\u201d reminds us that political couples used to be smart",
+            "summary": "This article reviews the Netflix series 'The Diplomat,' spotlighting the remarkably resilient relationships of its central 'first and second couples.' Despite generating fictional gossip, their unions endure amidst intense political drama. It delves into character dynamics, offering insights into the complex interplay of personal and professional lives within high-stakes international diplomacy, a theme relevant for understanding global relations.",
+            "url": "https://www.salon.com/2026/10/22/the-diplomat-reminds-us-that-political-couples-used-to-be-smart/",
+            "category": "International",
+            "date": "2026-10-22T16:00:54Z"
+        },
+        {
+            "title": "Let\u2019s Talk About the Best Scenes in Lanterns",
+            "summary": "The author expresses personal disinterest in specific DC Comics portrayals, particularly the 'grimdark,' prolonged narratives. Their aversion targets stories featuring wealthy, conventionally attractive male characters in repetitive action. This commentary reflects a critical view on a prevalent storytelling style within the major international entertainment franchise, suggesting a desire for more varied narrative approaches in popular culture.",
+            "url": "https://reactormag.com/?p=861138",
+            "category": "International",
+            "date": "2026-10-22T16:00:00Z"
+        },
+        {
+            "title": "Today's news and jokes",
+            "summary": "In Michigan politics (#MIPol), a candidate named Abdul is reportedly facing smear campaigns, including accusations of being a Communist. His family refutes these claims, clarifying their Presbyterian faith, and defends Abdul's 'different' approach as courageously challenging powerful entities. This controversy, emerging from the Michigan Democratic State Party context, highlights internal political dynamics and candidate defense against misrepresentation.",
+            "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01203265754.html",
+            "category": "International",
+            "date": "2026-10-22T16:00:00Z"
+        },
+        {
+            "title": "Gurugram homes, industries hit by outages as power workers protest privatisation",
+            "summary": "Gurugram faced widespread power disruptions due to an indefinite protest by electricity department employees. They are opposing the Haryana government's proposed privatisation of power distribution, arguing it impacts employee welfare and service quality. This industrial action highlights critical issues in public sector management, employee rights, and infrastructure governance, vital considerations for understanding national administration and socio-economic dynamics.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/gurugram-homes-industries-hit-by-outages-as-power-workers-protest-privatisation/articleshow/135122166.cms",
+            "category": "National",
+            "date": "2026-10-22T15:44:04Z"
+        },
+        {
+            "title": "Oshkosh, Neenah win federal funds for lead service line replacements",
+            "summary": "The Biden administration has allocated over $102 million in federal funding for lead service line replacement projects in Northeast Wisconsin. This initiative, part of the Safe Drinking Water Act, aims to ensure clean and safe drinking water for communities. Such infrastructure investments highlight governmental commitment to public health and essential civic amenities, crucial for national well-being and development.",
+            "url": "https://fox11online.com/news/local/oshkosh-neenah-win-federal-funds-for-lead-service-line-replacements-safe-drinking-water-loan-program-private",
+            "category": "National",
+            "date": "2026-10-22T15:41:39Z"
+        },
+        {
+            "title": "Black Sea Maritime Security and T\u00fcrkiye\u2019s Inescapable Responsibility",
+            "summary": "T\u00fcrkiye's strategic objectives in the Black Sea center on upholding the Montreux Convention. Key tasks involve mitigating the war's severe impact on maritime trade and spearheading initiatives to restore safe navigation. This underscores T\u00fcrkiye's critical role in regional stability and adherence to international maritime law, ensuring crucial trade routes remain viable amidst ongoing geopolitical complexities affecting global shipping.",
+            "url": "https://www.globalresearch.ca/black-sea-maritime-security-turkiye-inescapable-responsibility/5944242",
+            "category": "International",
+            "date": "2026-10-22T14:10:14Z"
+        },
+        {
+            "title": "Iran says 7 ships have been struck in Strait of Hormuz, Saudis intercept drones in airspace",
+            "summary": "Seven oil tankers were damaged or caught fire overnight in the crucial Strait of Hormuz. Tehran reported the incidents, attributing them to either Iranian actions or naval mines, amidst escalating regional tensions. This significant event in a vital shipping lane highlights the volatile security situation and potential disruptions to global oil supplies, impacting international stability and maritime safety.",
+            "url": "https://www.cbc.ca/news/world/mideast-hormuz-saudi-arabia-attacks-9.7391297",
+            "category": "International",
+            "date": "2026-10-22T12:50:12Z"
         },
         {
             "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
-            "summary": "Italian police arrested 30 individuals near Milan, dismantling an alleged mafia-linked \"hidden bank\" operating from a car-rental business. Authorities seized assets worth 21 million euros, including cryptocurrency. This operation highlights international efforts against organized crime and financial illicit activities, demonstrating effective law enforcement action against sophisticated criminal networks operating across borders.",
+            "summary": "Italian police arrested 30 individuals, dismantling an alleged mafia-linked \"hidden bank\" operating from a car-rental business near Milan. The operation targeted money laundering and illicit financial activities, seizing 21 million in assets, including cryptocurrency. This action highlights effective law enforcement against organized crime's evolving financial methods.",
             "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
             "category": "International",
             "date": "2026-10-22T10:45:13Z"
         },
         {
             "title": "Is Neha Bora, India\u2019s new red star, Modi\u2019s real Gen Z threat?",
-            "summary": "On October 12, India's opposition leader, Rahul Gandhi, led a significant march in New Delhi with thousands of supporters to the Supreme Court. They submitted a petition, reportedly seeking the sacking of an official or addressing a major political grievance. This event underscores ongoing domestic political activism and challenges faced by the government in India.",
+            "summary": "Rahul Gandhi, India's Leader of Opposition, led thousands of supporters in a march to the Supreme Court in New Delhi on October 12. He submitted a petition, reportedly seeking the sacking of an unnamed official or body. This significant political action highlights ongoing tensions and demands judicial intervention from the opposition against the government.",
             "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat",
             "category": "National",
             "date": "2026-10-22T10:45:01Z"
         },
         {
             "title": "Overseas property remittances jump 64% to $528.7 million as Indians chase rental income, capital gains and golden visas: Knight Frank-IREX Survey",
-            "summary": "Overseas property remittances by Indians have surged by 64% to $528.7 million, according to Knight Frank. This significant increase highlights a growing trend among Indians to invest in international real estate. Key drivers include seeking stable rental income, realizing capital gains, and acquiring 'golden visas' offered by various countries, reflecting diversified investment strategies and global mobility aspirations.",
+            "summary": "Indians' overseas property remittances soared by 64% to $528.7 million, as reported by Knight Frank. This substantial increase is attributed to individuals seeking rental income, capital gains, and golden visas through international property investments. The data highlights a significant trend of Indian wealth flowing into global real estate markets for financial returns and residency benefits.",
             "url": "https://timesofindia.indiatimes.com/city/mumbai/overseas-property-remittances-jump-64-to-528-7-million-as-indians-chase-rental-income-capital-gains-and-golden-visas-knight-frank-irex-survey/articleshow/135116032.cms",
             "category": "International",
             "date": "2026-10-22T10:37:20Z"
         },
         {
-            "title": "Netanyahu denies report that Trump blocked planned Israeli strike on October 10",
-            "summary": "Over 800 MBBS seats remain vacant in deemed universities across Tamil Nadu and Puducherry. The primary reason cited is the high fees, which deters aspirants despite the demand for medical professionals. This situation highlights a critical challenge within India's medical education system, underscoring the need for accessible and affordable pathways to medical careers for deserving candidates.",
-            "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-denies-report-that-trump-blocked-planned-israeli-strike-on-october-10/articleshow/135116019.cms",
-            "category": "National",
-            "date": "2026-10-22T10:34:40Z"
-        },
-        {
             "title": "\u2018Stand against hate\u2019: Mamdani celebrates Navratri with Hindu New Yorkers after Illinois temple shooting plot",
-            "summary": "Assemblyman Zohran Mamdani celebrated Navratri with Hindu New Yorkers, demonstrating solidarity against hate following an alarming plot to shoot up an Illinois temple. This event highlighted community resilience and interfaith harmony, underscoring the importance of unity and standing against prejudice, especially in the face of threats targeting religious communities within the nation.",
+            "summary": "Following an unsettling plot to attack an Illinois temple, Mamdani joined Hindu New Yorkers in celebrating Navratri, emphasizing unity and a stand against hate. This act of communal harmony underscores the importance of interfaith solidarity in countering bigotry and strengthening societal resilience against threats to peace and religious freedom, highlighting proactive community engagement.",
             "url": "https://timesofindia.indiatimes.com/world/us/stand-against-hate-mamdani-celebrates-navratri-with-hindu-new-yorkers-after-illinois-temple-shooting-plot/articleshow/135115594.cms",
-            "category": "National",
+            "category": "International",
             "date": "2026-10-22T10:30:23Z"
         },
         {
             "title": "University of Maryland students build a robotic feeding device for under $300; commercial alternatives can cost more than $5,000, the team says",
-            "summary": "University of Maryland students have developed an innovative robotic feeding device costing under $300, a significant breakthrough compared to commercial alternatives priced over $5,000. This project demonstrates exceptional engineering skill and resourcefulness, making crucial assistive technology remarkably more accessible. Such advancements highlight the potential for cost-effective solutions to improve quality of life and inspire practical innovation.",
+            "summary": "University of Maryland students have innovated by developing a robotic feeding device costing under $300. This invention offers a significantly more affordable alternative to commercial versions, which typically exceed $5,000, making advanced assistive technology more accessible. This low-cost solution could greatly benefit individuals requiring feeding assistance, potentially enhancing their independence and quality of life.",
             "url": "https://timesofindia.indiatimes.com/science/discovery/university-of-maryland-students-build-a-robotic-feeding-device-for-under-300-commercial-alternatives-can-cost-more-than-5000-the-team-says/articleshow/135114156.cms",
             "category": "Sci & Tech",
             "date": "2026-10-22T10:20:33Z"
+        },
+        {
+            "title": "The Dyson V16 Piston Animal vacuum left no crumbs in our competition",
+            "summary": "This article snippet, aimed at New York City apartment residents, discusses aspects of buying. While the full content is largely missing, it likely offers advice or recommendations on purchases suitable for urban living. Topics could include optimizing small spaces, essential items, or services tailored for apartment dwellers in a dense metropolitan environment like NYC.",
+            "url": "https://nypost.com/shopping/dyson-v16-piston-animal-vacuum-review/",
+            "category": "National",
+            "date": "2026-10-22T09:30:00Z"
+        },
+        {
+            "title": "neam 0.1.0",
+            "summary": "A critical website component encountered a loading failure, potentially disrupting user access. Investigations point to common causes such as browser extensions, underlying network issues, or specific browser settings. Users are strongly advised to proactively verify their internet connection, disable any active ad-blocking software, or consider attempting to access the site using an alternative browser to effectively resolve this technical issue.",
+            "url": "https://pypi.org/project/neam/0.1.0/",
+            "category": "Sci & Tech",
+            "date": "2026-10-22T09:12:56Z"
+        },
+        {
+            "title": "Not just about weightloss, regular execise can also reduce the risk of PCOS-related cancer in women",
+            "summary": "Regular exercise offers significant health benefits for women beyond just weight loss, crucially reducing the risk of PCOS-related cancers. This finding underscores the importance of consistent physical activity in mitigating specific health complications associated with Polycystic Ovary Syndrome, promoting overall well-being and providing a proactive approach to disease prevention through lifestyle choices.",
+            "url": "https://timesofindia.indiatimes.com/women/wellness-beauty/not-just-about-weightloss-regular-execise-can-also-reduce-the-risk-of-pcos-related-cancer-in-women/articleshow/135109796.cms",
+            "category": "Sci & Tech",
+            "date": "2026-10-22T06:55:40Z"
         }
     ]
 }
