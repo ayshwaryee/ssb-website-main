@@ -1,54 +1,61 @@
 {
-    "last_updated": "2026-10-24T15:15:52.716956+00:00",
+    "last_updated": "2026-10-24T20:05:16.454528+00:00",
     "articles": [
         {
-            "title": "NY Yankees Insider Claims Hal Steinbrenner \u2018Badly\u2019 Wants To Lose Advantage His Father Created For Him",
-            "summary": "The New York Yankees' consistent playoff success is attributed to owner George Steinbrenner's wealth and brand value creation. An insider suggests potential challenges with his son, Hal, impacting the team's future trajectory. This highlights the crucial role of ownership, financial strategy, and leadership succession in maintaining a major sports franchise's performance and legacy.",
-            "url": "https://sportsnaut.com/mlb/new-york-yankees-owner-wants-mlb-salary-cap",
-            "category": "National",
-            "date": "2026-10-23T15:14:42Z"
-        },
-        {
-            "title": "India end para-athletics campaign with record 65 medals in Asian Para Games",
-            "summary": "India concluded its para-athletics campaign at the Asian Para Games with a record-shattering 65 medals, marking their best-ever performance. This historic achievement showcased the immense talent of India's para-athletes on the international stage. Prominent among the medalists was two-time Paralympic champion javelin thrower Sumit Antil, who secured a gold, contributing significantly to the nation's impressive haul.",
-            "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-end-para-athletics-campaign-with-record-65-medals-in-asian-para-games/articleshow/135149001.cms",
-            "category": "National",
-            "date": "2026-10-23T14:50:15Z"
-        },
-        {
-            "title": "Nintendo Switch Online Is Adding 3 More Game Boy Games Very Soon",
-            "summary": "Nintendo Switch Online subscribers will soon gain access to three more classic Game Boy games, set to join the service before the end of October. This expansion continues Nintendo's ongoing effort to enrich its retro game library for members, offering enhanced value and a dose of nostalgia by adding beloved titles to the digital collection for current and future players.",
-            "url": "http://comicbook.com/gaming/news/nintendo-switch-online-membership-game-boy-games-october-2026/",
-            "category": "Sci & Tech",
-            "date": "2026-10-23T14:41:11Z"
-        },
-        {
-            "title": "Melania Trump secures ceasefire in Ukrainian city Oleshky",
-            "summary": "The White House announced that US First Lady Melania Trump has successfully negotiated a ceasefire between Russia and Ukraine. This agreement, secured in the Russian-controlled city of Oleshky, is set to commence on October 29. This development aims to bring a halt to hostilities in the region, marking a significant diplomatic intervention concerning the conflict.",
-            "url": "https://www.rte.ie/news/world/2026/1023/1596633-russia-ukraine/",
-            "category": "International",
-            "date": "2026-10-23T14:37:40Z"
-        },
-        {
-            "title": "Intratracheal microspray delivery of iohexol for sustained lung-parenchymal enhancement in preclinical micro-computed tomography: A feasibility and acute-safety study in mice",
-            "summary": "This research addresses a key limitation in preclinical thoracic micro-computed tomography (micro-CT): the brief pulmonary enhancement window of intravenously administered iodinated contrast. Current agents are rapidly cleared by the kidneys, hindering sustained imaging. The study likely explores novel approaches or improved contrast agents to extend this crucial enhancement, enabling more effective and detailed medical diagnostics and research.",
-            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361103",
-            "category": "Sci & Tech",
-            "date": "2026-10-23T14:00:00Z"
-        },
-        {
-            "title": "Exploring barriers to implementing adolescent pregnancy prevention interventions in low- and middle-income countries: Perspectives from international experts",
-            "summary": "Adolescent pregnancy represents a major global health challenge, disproportionately affecting young people in low- and middle-income countries (LMICs). Adolescents form a significant segment of the global population, and tackling this issue is crucial for improving health outcomes and socio-economic development worldwide. It underscores the need for comprehensive global health strategies.",
-            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360943",
-            "category": "International",
-            "date": "2026-10-23T14:00:00Z"
-        },
-        {
-            "title": "Defence Ministry, AI Mission join hands to build secure military AI layer, says RK Singh",
-            "summary": "Defence Secretary RK Singh announced the Ministry of Defence is collaborating with the AI Mission to develop a dedicated military AI layer. This initiative aims to establish a secure, domestic computing infrastructure specifically for Artificial Intelligence applications within the defence sector, ensuring robust technological capabilities and national security in military operations.",
-            "url": "https://www.thehindubusinessline.com/news/defence-ministry-ai-mission-join-hands-to-build-secure-military-ai-layer-says-rk-singh/article71616224.ece",
+            "title": "Jobs, better education key issues for first-time voters in MLC polls",
+            "summary": "Indian Army intelligence arrested a couple for spying for Pakistan's ISI, investigating a suspected honey-trap. Separately, India's MEA addressed concerns regarding China's disturbing patrolling deviations along the Line of Actual Control (LAC), following the ITBP DG's remarks on border face-offs. Both incidents highlight critical national security and border challenges.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/jobs-better-education-key-issues-for-first-time-voters-in-mlc-polls/articleshow/135155344.cms",
             "category": "Defence",
-            "date": "2026-10-23T13:16:32Z"
+            "date": "2026-10-23T20:03:46Z"
+        },
+        {
+            "title": "Pocso survivor can\u2019t be denied aid for lack of physical injuries: HC",
+            "summary": "Army intelligence has arrested a couple suspected of spying for Pakistan's ISI, with a honey-trap angle under investigation. Concurrently, India's Ministry of External Affairs addressed concerns over China's border patrolling deviations, acknowledging disturbances along the LAC following remarks by the ITBP DG. These events underscore critical national security challenges and ongoing border vigilance.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/pocso-survivor-cant-be-denied-aid-for-lack-of-physical-injuries-hc/articleshow/135155337.cms",
+            "category": "Defence",
+            "date": "2026-10-23T20:03:02Z"
+        },
+        {
+            "title": "WhatsApp call trail, cab driver\u2019s tip helps cops nab Shraddha in Nagpur",
+            "summary": "Indian Army intelligence arrested a couple for alleged spying for Pakistan's ISI, with a honey-trap angle under probe. Concurrently, the Ministry of External Affairs noted China's border patrolling deviations and ITBP DG's remarks on LAC face-offs. These incidents underscore India's continuous national security challenges concerning intelligence threats and border management.",
+            "url": "https://timesofindia.indiatimes.com/city/lucknow/whatsapp-call-trail-cab-drivers-tip-helps-cops-nab-shraddha-in-nagpur/articleshow/135155302.cms",
+            "category": "Defence",
+            "date": "2026-10-23T20:02:15Z"
+        },
+        {
+            "title": "Smriti Irani tells Haryana BJP leaders to shun showmanship, focus on performance",
+            "summary": "Recent national news covers varied sectors. Kashi stadium is being assessed for IPL matches after BCCI and LSG visits, signaling sports development. Environmentally, the CAQM is reviewing Punjab's paddy stubble management efforts to combat pollution. A serious electoral integrity concern has also arisen in Uttar Pradesh, with the CEO labeling the alteration of over 10,000 voter records as a criminal act, emphasizing democratic accountability.",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/smriti-irani-tells-haryana-bjp-leaders-to-shun-showmanship-focus-on-performance/articleshow/135155237.cms",
+            "category": "National",
+            "date": "2026-10-23T20:00:27Z"
+        },
+        {
+            "title": "Yankees Mailbag: A qualifying offer conundrum",
+            "summary": "The provided text announces an upcoming bi-weekly 'mailbag' session for the 'pinstripealleyblog', inviting readers to submit their questions via email. This initiative encourages active audience engagement, allowing readers to send their queries to be addressed in a future call, fostering direct interaction with the blog's content creators or hosts.",
+            "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/213063/yankees-mailbag-jazz-chisolm-jr-qualifying-offer-debate-ryan-mcmahon-potential-trade-dfa-lineup-leadoff-hitters",
+            "category": "National",
+            "date": "2026-10-23T20:00:00Z"
+        },
+        {
+            "title": "Brothers aged 10 & 13 admitted to de-addiction centre; peddler held",
+            "summary": "National headlines indicate varied developments. Varanasi's Kashi stadium is an IPL contender, reflecting sports infrastructure growth. Environmentally, the Commission for Air Quality Management (CAQM) is reviewing Punjab's crucial paddy stubble management efforts to combat air pollution. Concurrently, Uttar Pradesh is investigating serious electoral irregularities involving 10,470 altered voter records, raising significant concerns about democratic integrity and state governance.",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/brothers-aged-10-13-admitted-to-de-addiction-centre-peddler-held/articleshow/135155096.cms",
+            "category": "National",
+            "date": "2026-10-23T19:54:21Z"
+        },
+        {
+            "title": "CAQM reviews Punjab\u2019s paddy stubble management",
+            "summary": "National news highlights include the Commission for Air Quality Management (CAQM) reviewing Punjab's paddy stubble management to tackle pollution. Simultaneously, Uttar Pradesh's CEO labeled the alteration of over 10,000 voter records a crime, underscoring critical election integrity issues. Also, Kashi stadium is under consideration for IPL following visits by BCCI and LSG, reflecting developments in sports infrastructure.",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/caqm-reviews-punjabs-paddy-stubble-management/articleshow/135155023.cms",
+            "category": "National",
+            "date": "2026-10-23T19:42:14Z"
+        },
+        {
+            "title": "Mumbai University may de-affiliate law colleges over staff shortage",
+            "summary": "News covers two significant international developments. Andrew Tate's lawyer alleges denied medical care for him in a Florida prison and threatens legal action. Concurrently, Houthi rebels are reportedly causing major issues for Saudi Arabia's Crown Prince Mohammed bin Salman (MBS) with 'deadly self-made drones' effectively destroying convoys, highlighting ongoing conflict in the region.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-university-may-de-affiliate-law-colleges-over-staff-shortage/articleshow/135153899.cms",
+            "category": "International",
+            "date": "2026-10-23T18:42:17Z"
         }
     ]
 }
