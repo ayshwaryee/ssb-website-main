@@ -1,40 +1,82 @@
 {
-    "last_updated": "2026-10-25T02:52:19.720485+00:00",
+    "last_updated": "2026-10-25T10:34:00.288604+00:00",
     "articles": [
         {
-            "title": "23 October 2028: Forget iPhone Duo, Ashwini Vaishnaw says India will have its own Apple and Samsung moment soon",
-            "summary": "The premium iPhone Duo rapidly sold out in India despite its hefty Rs 3 lakh price, highlighting a significant domestic demand for high-end smartphones. Capitalizing on this trend, India aims to develop and launch its own 'homegrown' premium smartphone alternatives within the next two years, fostering indigenous competition in this lucrative market segment.",
-            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/23-october-2028-forget-iphone-duo-ashwini-vaishnaw-says-india-will-have-its-own-apple-and-samsung-moment-soon/articleshow/135160181.cms",
-            "category": "Sci & Tech",
-            "date": "2026-10-24T02:51:10Z"
+            "title": "Today on Pinstripe Alley \u2013 10/24/26",
+            "summary": "The 2026 Fall Classic's opening game saw a thrilling 3-2 victory for Milwaukee over Tampa Bay. Described as a nailbiter, Milwaukee secured the win through timely hits, excellent pitching, and navigating a tense ninth inning. This sets the tone for what promises to be an exciting championship series.",
+            "url": "https://www.pinstripealley.com/pinstripe-alley-discussions/213104/today-on-pinstripe-alley-10-24-26",
+            "category": "National",
+            "date": "2026-10-24T10:30:00Z"
         },
         {
-            "title": "America's Deadliest Day of WWII [17:32]",
-            "summary": "\"The History Guy\" article discusses \"America's Deadliest Day of WWII,\" examining a pivotal World War II event where the United States incurred its highest single-day casualties. It likely details the specific battle, its strategic context, the profound human cost, and its lasting significance in American military history. This piece emphasizes the importance of remembering such immense sacrifices.",
-            "url": "https://freerepublic.com/focus/f-chat/4400394/posts",
+            "title": "PM Modi to visit Varanasi, Bhubaneswar on Sunday for key inaugurations",
+            "summary": "Prime Minister Narendra Modi will visit Uttar Pradesh and Odisha on Sunday. In Varanasi, UP, he will witness the Air Force Day aerial display, showcasing India's air power. Subsequently, in Odisha, he is scheduled to inaugurate an RBI data centre and a cyber security training institute, aiming to bolster national financial infrastructure and digital security capabilities. This visit covers key national developments in defence and technology.",
+            "url": "https://www.business-standard.com/india-news/pm-modi-to-visit-varanasi-bhubaneswar-on-sunday-for-key-inaugurations-126102400694_1.html",
+            "category": "National",
+            "date": "2026-10-24T10:22:45Z"
+        },
+        {
+            "title": "PM Modi to visit Uttar Pradesh and Odisha on October 25",
+            "summary": "Prime Minister Modi will visit Uttar Pradesh and Odisha on October 25. He will inaugurate a garment manufacturing facility in Varanasi and witness an Indian Air Force aerial demonstration. In Odisha, he will launch multiple development projects, including an oil refinery expansion and a new museum, showcasing his focus on national infrastructure and defence engagement.",
+            "url": "https://www.thehindubusinessline.com/news/pm-modi-to-visit-uttar-pradesh-and-odisha-on-october-25/article71619536.ece",
+            "category": "National",
+            "date": "2026-10-24T09:54:24Z"
+        },
+        {
+            "title": "BPCL Q2 profit falls 22.5% to \u20b94,993 cr as fuel price freeze hits earnings",
+            "summary": "State-owned Bharat Petroleum Corporation Ltd (BPCL) reported a 22.5 per cent fall in its September quarter net profit. This decline was attributed to weakened earnings from operations. The company faced a retail price freeze, which prevented it from passing on rising costs to consumers, significantly impacting its overall profitability during the quarter.",
+            "url": "https://www.business-standard.com/companies/quarterly-results/bpcl-q2-profit-falls-22-5-to-4-993-cr-as-fuel-price-freeze-hits-earnings-126102400659_1.html",
+            "category": "National",
+            "date": "2026-10-24T09:41:53Z"
+        },
+        {
+            "title": "BPCL Q2 profit falls 22% as EBITDA slips on fuel price freeze",
+            "summary": "State-owned Bharat Petroleum Corporation Ltd (BPCL) reported a 22.5% fall in its September quarter net profit. This significant decline was attributed to weakened earnings from operations, primarily due to a retail price freeze on petroleum products. Despite rising input costs, BPCL was unable to adjust retail prices, directly impacting its profitability. This highlights the financial pressures on public sector oil marketing companies amid price regulations.",
+            "url": "https://www.thehindubusinessline.com/companies/bpcl-q2-profit-falls-22-as-ebitda-slips-on-fuel-price-freeze/article71619564.ece",
+            "category": "National",
+            "date": "2026-10-24T09:36:59Z"
+        },
+        {
+            "title": "Ukraine says Starlink speed limits lifted after disruptions to military ops",
+            "summary": "Kyiv reported stable Starshield satellite connections with significantly increased speeds, now exceeding 400 kmph. This improvement follows recent disruptions that impacted crucial drone missions and military logistics. The enhanced and reliable connectivity is vital for Ukraine's ongoing defence operations, ensuring robust communication and data transfer capabilities for its forces on the battlefield.",
+            "url": "https://www.business-standard.com/world-news/ukraine-says-starlink-speed-limits-lifted-after-disruptions-to-military-ops-126102400671_1.html",
             "category": "Defence",
-            "date": "2026-10-24T02:46:00Z"
+            "date": "2026-10-24T09:36:13Z"
         },
         {
-            "title": "NASA's Perseverance Just Broke The Off-World Driving Record, While Mostly Steering Itself",
-            "summary": "Humanity's ambitious space exploration efforts, particularly missions to Mars, highlight remarkable scientific and technological triumphs. Our advanced probes and rovers diligently study the Red Planet from millions of miles away, representing humanity's greatest accomplishments in extending its reach. These endeavors push the boundaries of knowledge, inspiring future generations with prospects of new discoveries and expanding our presence beyond Earth.",
-            "url": "https://www.sciencealert.com/nasas-perseverance-just-drove-farther-than-any-vehicle-on-another-world-mostly-steering-itself",
-            "category": "Sci & Tech",
-            "date": "2026-10-24T02:00:00Z"
+            "title": "Israel launches new operation in West Bank after gunmen killed two IDF soldiers days before elections",
+            "summary": "Israel's military launched an operation in the occupied West Bank, retaliating after gunmen killed two IDF soldiers. Occurring days before crucial Israeli elections, this military action adds a significant security dimension to the political climate. Prime Minister Benjamin Netanyahu faces domestic challenges, with the operation underscoring persistent regional tensions and the critical role of security ahead of polls.",
+            "url": "https://www.dailymail.com/news/article-16235083/Israel-operation-West-Bank-gunmen-killed-IDF-soldiers-elections.html",
+            "category": "Defence",
+            "date": "2026-10-24T08:15:27Z"
+        },
+        {
+            "title": "Russian-Indian BrahMos missile is getting future-ready",
+            "summary": "BrahMos corporation is actively enhancing its namesake supersonic cruise missile, the BrahMos, following its recent combat successes. The focus is on increasing its destructive power and extending its operational reach. These upgrades aim to further solidify BrahMos's reputation as a formidable weapon system, incorporating lessons learned from its practical deployment to maintain its strategic advantage.",
+            "url": "https://rt-english.com/india/647599-russian-indian-brahmos-missile/",
+            "category": "Defence",
+            "date": "2026-10-24T07:47:51Z"
+        },
+        {
+            "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: The Goodness of Repentance - Saturday, October 24, 2026",
+            "summary": "Jesus responded to the news of Galileans killed by Pilate, and victims of a falling tower, by stating their suffering didn't imply greater sin. He emphasized that all individuals, unless they repent, will perish alike. This shifted focus from judging victims' sinfulness to highlighting the universal need for personal repentance and spiritual readiness for everyone.",
+            "url": "https://freerepublic.com/focus/f-religion/4400406/posts",
+            "category": "National",
+            "date": "2026-10-24T06:13:35Z"
+        },
+        {
+            "title": "ITBP Raising Day: PM Modi praises \u2018Himveers\u2019 as India-China border management remains in focus",
+            "summary": "This text does not present any news content; instead, it outlines the interactive elements of a news website's comment section. It prompts users to share their thoughts, provides specific sentiment tags like 'Agree' or 'Skeptical', and stresses adherence to community guidelines for fostering respectful online discussions. No actual events are reported.",
+            "url": "https://timesofindia.indiatimes.com/india/itbp-raising-day-pm-modi-praises-himveers-as-india-china-border-management-remains-in-focus/articleshow/135161153.cms",
+            "category": "National",
+            "date": "2026-10-24T04:08:25Z"
         },
         {
             "title": "UP has 2.7 cr fewer voters than projected adult population; today last chance to enrol",
-            "summary": "Army intelligence arrested a couple allegedly spying for Pakistan's ISI, investigating a honey-trap angle. Concurrently, the MEA expressed concern over China's border patrolling deviations, referencing the ITBP DG's remarks on LAC face-offs. These events highlight India's persistent national security and border challenges, critical for an SSB aspirant.",
+            "summary": "Army intelligence arrested a couple involved in spying for Pakistan's ISI, investigating a potential honey-trap angle, highlighting ongoing internal security threats. Simultaneously, the Ministry of External Affairs (MEA) stated that China's patrolling deviations are disturbing the border along the Line of Actual Control (LAC), following the ITBP DG's remarks on face-offs, underscoring persistent external border challenges for India.",
             "url": "https://timesofindia.indiatimes.com/city/lucknow/up-has-2-7-cr-fewer-voters-than-projected-adult-population-today-last-chance-to-enrol/articleshow/135155435.cms",
             "category": "Defence",
             "date": "2026-10-23T20:16:32Z"
-        },
-        {
-            "title": "Evicting Ayodhya shopkeepers without rehabilitation \u2018highly condemnable\u2019: HC",
-            "summary": "Indian Army intelligence arrested a couple for allegedly spying for Pakistan's ISI, investigating a possible honey-trap angle. Separately, India's Ministry of External Affairs expressed concern over China's border patrolling deviations along the LAC. This follows the ITBP DG's remarks on face-offs, underscoring persistent national security and border challenges for India.",
-            "url": "https://timesofindia.indiatimes.com/city/lucknow/evicting-ayodhya-shopkeepers-without-rehabilitation-highly-condemnable-hc/articleshow/135155389.cms",
-            "category": "Defence",
-            "date": "2026-10-23T20:07:23Z"
         }
     ]
 }
