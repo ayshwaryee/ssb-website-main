@@ -1,40 +1,75 @@
 {
-    "last_updated": "2026-10-26T02:50:39.192386+00:00",
+    "last_updated": "2026-10-26T12:07:01.512032+00:00",
     "articles": [
         {
-            "title": "Why IISc should be Isro\u2019s JPL",
-            "summary": "An Iranian hardline editor issued a fresh warning, threatening to take over Bahrain, escalating regional tensions. Concurrently, former US President Trump kept the option of fresh strikes on Iran open. However, Trump also suggested that a major deal with Tehran was possible, indicating a complex geopolitical situation involving potential conflict alongside diplomatic overtures in the Middle East.",
-            "url": "https://timesofindia.indiatimes.com/science/why-iisc-should-be-isros-jpl/articleshow/135181835.cms",
+            "title": "Show HN: Find overlapping Rust tests with mutation testing",
+            "summary": "This article addresses the optimization of software testing, specifically focusing on Rust projects. It explores the challenge of discerning the continued value of existing tests, particularly when AI-assisted development simplifies adding new regression tests. The core idea is identifying tests that effectively cover observed mutant detection, ensuring test suites remain efficient and purposeful, avoiding redundancy in rapidly evolving, AI-enhanced development environments.",
+            "url": "https://github.com/yasuyuky/cargo-test-prune",
+            "category": "Sci & Tech",
+            "date": "2026-10-25T12:02:00Z"
+        },
+        {
+            "title": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+            "summary": "Food startup Wonder has rapidly grown its footprint and valuation in less than a decade. The company, focused on modern food service, plans further expansion, including launching an innovative subscription program. This strategy aims to solidify its market position and continue its significant growth trajectory, leveraging technology for scale and customer engagement.",
+            "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-25T12:00:01Z"
+        },
+        {
+            "title": "Malabar Gold rates October 2026: 22K, 24K gold compared with Tanishq, Joyalukkas; Which jeweller offers the best prices?",
+            "summary": "During the ongoing festive season, there's a significant surge in gold purchases across the nation. Consumers are actively acquiring various gold items, including jewellery, coins, and bars, from prominent jewellers like Malabar Gold & Diamonds, Tanishq, and Joyalukkas. This trend reflects strong consumer sentiment towards traditional investments and gifting during celebratory periods, boosting the national gold market and highlighting economic activity.",
+            "url": "https://www.livemint.com/money/personal-finance/malabar-gold-rates-october-2026-22k-24k-gold-compared-with-tanishq-joyalukkas-which-jeweller-offers-the-best-prices-11792923664426.html",
+            "category": "National",
+            "date": "2026-10-25T11:25:35Z"
+        },
+        {
+            "title": "HR in Indian Navy",
+            "summary": "A doctor warns against viral diabetes cure claims promoting unverified diets, supplements, and natural remedies. These misleading assertions can dangerously prompt patients to discontinue prescribed medication, risking severe health complications. This emphasizes the critical importance of relying solely on evidence-based medical advice and professional guidance over viral trends to avoid serious health repercussions.",
+            "url": "https://timesofindia.indiatimes.com/toi-blogs/opinion-desk/hr-in-the-indian-navy/articleshow/135189105.cms",
+            "category": "Sci & Tech",
+            "date": "2026-10-25T10:59:46Z"
+        },
+        {
+            "title": "Zelensky urges Europe to speed up delivery of Patriot interceptor missiles after overnight Russian strikes kill four",
+            "summary": "Ukrainian President Volodymyr Zelensky has urged European nations to accelerate the delivery of Patriot interceptor missiles following a deadly Russian strike that killed four Ukrainians in the Dnipro region. Zelensky emphasized the urgent need for enhanced air defense systems to counter Moscow's continuous missile attacks and protect civilian lives amidst the ongoing conflict.",
+            "url": "https://www.dailymail.com/news/article-16236983/Zelensky-Europe-delivery-Patriot-missiles.html",
+            "category": "Defence",
+            "date": "2026-10-25T10:54:33Z"
+        },
+        {
+            "title": "Kaun Banega Crorepati 18: Amitabh Bachchan makes a sweet Diwali confession; says, \u2018Hamara bomb zyada tez hona chahiye\u2019",
+            "summary": "On 'Kaun Banega Crorepati 18', host Amitabh Bachchan made a sweet Diwali confession, humorously remarking, 'Hamara bomb zyada tez hona chahiye.' This playful statement, likely referring to grand festive celebrations, reflected his enthusiasm for Diwali. It added a personal and cheerful touch to the popular national television show, connecting with the audience on the upcoming festival.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-18-amitabh-bachchan-makes-a-sweet-diwali-confession-says-hamara-bomb-zyada-tez-hona-chahiye/articleshow/135188171.cms",
+            "category": "National",
+            "date": "2026-10-25T09:46:57Z"
+        },
+        {
+            "title": "Were they beheaded? Did they get lawyers? Bangladesh seeks answers from Saudi Arabia over execution of 'couple'",
+            "summary": "A Virginia mother received a criminal conviction after allowing her 5-year-old son to walk alone to a local pond to collect goose feathers. She aimed to foster independence, but her decision led to legal repercussions, sparking debate on parental responsibility and child safety. This incident underscores the complexities of balancing childhood autonomy with legal frameworks concerning supervision and protection.",
+            "url": "https://timesofindia.indiatimes.com/world/south-asia/were-they-beheaded-did-they-get-lawyers-bangladesh-seeks-answers-from-saudi-arabia-over-execution-of-couple/articleshow/135186048.cms",
             "category": "International",
-            "date": "2026-10-25T02:33:28Z"
+            "date": "2026-10-25T09:32:20Z"
         },
         {
-            "title": "Apologetic Alvarez fires Atletico to win against Deportivo",
-            "summary": "Julian Alvarez netted a crucial goal, guiding Atletico Madrid to a 1-0 victory over Deportivo La Coruna in Spanish La Liga on Saturday. This significant win tightened the title race, bringing Atletico within two points of leaders Barcelona. Alvarez's 'road to redemption' narrative adds intrigue to this globally followed club football event, highlighting the intense competition and player impact.",
-            "url": "https://sports.yahoo.com/articles/apologetic-alvarez-fires-atletico-win-215748262.html",
-            "category": "International",
-            "date": "2026-10-24T21:57:48Z"
-        },
-        {
-            "title": "DMK responsible for removal of 97L voters: Vaiko",
-            "summary": "Recent news snippets highlight diverse national developments. A farmer in Sundargarh reportedly died from scrub typhus after hospital discharge, raising health concerns. Concurrently, the government has inked significant deals totaling Rs4,000 crore with twelve industrial units, indicating economic growth. Furthermore, the Kerala High Court has proposed forming a task force to effectively resolve longstanding land disputes plaguing the Munnar region.",
-            "url": "https://timesofindia.indiatimes.com/city/madurai/dmk-responsible-for-removal-of-97l-voters-vaiko/articleshow/135173812.cms",
+            "title": "Two Varanasi-bound IndiGo flights diverted to Lucknow due to air show",
+            "summary": "Two IndiGo flights, Delhi-Varanasi (6E5025) and Hyderabad-Varanasi (6E915), were diverted to Lucknow on Sunday. The diversions occurred due to an air show taking place in Varanasi, which necessitated temporary airspace restrictions. Passengers on both flights experienced delays and inconvenience as their scheduled arrival at Varanasi was impacted by the special event.",
+            "url": "https://www.thehindubusinessline.com/economy/logistics/two-varanasi-bound-indigo-flights-diverted-to-lucknow-due-to-air-show/article71622729.ece",
             "category": "National",
-            "date": "2026-10-24T16:19:17Z"
+            "date": "2026-10-25T08:15:03Z"
         },
         {
-            "title": "EPS sees \u2018pattern\u2019 in child disappearances, wonders if criminals have begun viewing themselves as \u2018Leo Das\u2019",
-            "summary": "Former Tamil Nadu Chief Minister EPS has voiced concerns over a perceived pattern in recent child disappearances in Chennai. He speculated whether criminals are becoming emboldened, possibly even identifying with figures like 'Leo Das' from popular culture. This alarming statement highlights a critical issue concerning child safety and the potential influence of media on criminal mindset, prompting calls for greater scrutiny and action from authorities.",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/eps-sees-pattern-in-child-disappearances-wonders-if-criminals-have-begun-viewing-themselves-as-leo-das/articleshow/135173699.cms",
+            "title": "NMDC scouts for mining assets across four continents",
+            "summary": "India's state-owned mining giant, NMDC, is strategically scouting global mining assets, including critical minerals, across four continents from South America to Australia. This proactive step aims to secure vital resources to meet India's future industrial demands and bolster national resource security. The initiative is crucial for sustained economic growth and reducing import dependency in key mineral sectors.",
+            "url": "https://www.thehindubusinessline.com/companies/nmdc-scouts-for-mining-assets-across-four-continents/article71622642.ece",
             "category": "National",
-            "date": "2026-10-24T16:13:42Z"
+            "date": "2026-10-25T06:08:30Z"
         },
         {
-            "title": "Pune airport conducts annual bomb threat drill, tests coordination among security agencies",
-            "summary": "Pune Airport recently conducted its annual bomb threat drill, a crucial exercise designed to test and enhance coordination among various security agencies. This drill simulates an emergency scenario, evaluating response protocols, communication channels, and overall preparedness. Such exercises are vital for ensuring passenger safety, operational continuity, and strengthening national security infrastructure against potential threats, reflecting robust emergency management strategies.",
-            "url": "https://timesofindia.indiatimes.com/city/pune/pune-airport-conducts-annual-bomb-threat-drill-tests-coordination-among-security-agencies/articleshow/135173607.cms",
-            "category": "National",
-            "date": "2026-10-24T16:09:29Z"
+            "title": "Isro plans four functional launch pads by 2029, says chairman Narayanan",
+            "summary": "ISRO is significantly expanding its launch infrastructure and partnering with private firms to meet escalating satellite demand. A key project is the development of a dedicated 2,000-acre SSLV complex in Kulasekarapattinam, Tamil Nadu. This strategic initiative aims to bolster India's indigenous space launch capabilities, enhance self-reliance, and improve commercial competitiveness in the global space sector, crucial for national technological advancement.",
+            "url": "https://www.business-standard.com/industry/news/isro-plans-four-functional-launch-pads-by-2029-says-chairman-narayanan-126102500109_1.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-25T06:05:10Z"
         }
     ]
 }
