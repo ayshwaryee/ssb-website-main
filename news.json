@@ -1,75 +1,61 @@
 {
-    "last_updated": "2026-10-26T12:07:01.512032+00:00",
+    "last_updated": "2026-10-26T22:12:08.709132+00:00",
     "articles": [
         {
-            "title": "Show HN: Find overlapping Rust tests with mutation testing",
-            "summary": "This article addresses the optimization of software testing, specifically focusing on Rust projects. It explores the challenge of discerning the continued value of existing tests, particularly when AI-assisted development simplifies adding new regression tests. The core idea is identifying tests that effectively cover observed mutant detection, ensuring test suites remain efficient and purposeful, avoiding redundancy in rapidly evolving, AI-enhanced development environments.",
-            "url": "https://github.com/yasuyuky/cargo-test-prune",
-            "category": "Sci & Tech",
-            "date": "2026-10-25T12:02:00Z"
-        },
-        {
-            "title": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-            "summary": "Food startup Wonder has rapidly grown its footprint and valuation in less than a decade. The company, focused on modern food service, plans further expansion, including launching an innovative subscription program. This strategy aims to solidify its market position and continue its significant growth trajectory, leveraging technology for scale and customer engagement.",
-            "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-            "category": "Sci & Tech",
-            "date": "2026-10-25T12:00:01Z"
-        },
-        {
-            "title": "Malabar Gold rates October 2026: 22K, 24K gold compared with Tanishq, Joyalukkas; Which jeweller offers the best prices?",
-            "summary": "During the ongoing festive season, there's a significant surge in gold purchases across the nation. Consumers are actively acquiring various gold items, including jewellery, coins, and bars, from prominent jewellers like Malabar Gold & Diamonds, Tanishq, and Joyalukkas. This trend reflects strong consumer sentiment towards traditional investments and gifting during celebratory periods, boosting the national gold market and highlighting economic activity.",
-            "url": "https://www.livemint.com/money/personal-finance/malabar-gold-rates-october-2026-22k-24k-gold-compared-with-tanishq-joyalukkas-which-jeweller-offers-the-best-prices-11792923664426.html",
-            "category": "National",
-            "date": "2026-10-25T11:25:35Z"
-        },
-        {
-            "title": "HR in Indian Navy",
-            "summary": "A doctor warns against viral diabetes cure claims promoting unverified diets, supplements, and natural remedies. These misleading assertions can dangerously prompt patients to discontinue prescribed medication, risking severe health complications. This emphasizes the critical importance of relying solely on evidence-based medical advice and professional guidance over viral trends to avoid serious health repercussions.",
-            "url": "https://timesofindia.indiatimes.com/toi-blogs/opinion-desk/hr-in-the-indian-navy/articleshow/135189105.cms",
-            "category": "Sci & Tech",
-            "date": "2026-10-25T10:59:46Z"
-        },
-        {
-            "title": "Zelensky urges Europe to speed up delivery of Patriot interceptor missiles after overnight Russian strikes kill four",
-            "summary": "Ukrainian President Volodymyr Zelensky has urged European nations to accelerate the delivery of Patriot interceptor missiles following a deadly Russian strike that killed four Ukrainians in the Dnipro region. Zelensky emphasized the urgent need for enhanced air defense systems to counter Moscow's continuous missile attacks and protect civilian lives amidst the ongoing conflict.",
-            "url": "https://www.dailymail.com/news/article-16236983/Zelensky-Europe-delivery-Patriot-missiles.html",
-            "category": "Defence",
-            "date": "2026-10-25T10:54:33Z"
-        },
-        {
-            "title": "Kaun Banega Crorepati 18: Amitabh Bachchan makes a sweet Diwali confession; says, \u2018Hamara bomb zyada tez hona chahiye\u2019",
-            "summary": "On 'Kaun Banega Crorepati 18', host Amitabh Bachchan made a sweet Diwali confession, humorously remarking, 'Hamara bomb zyada tez hona chahiye.' This playful statement, likely referring to grand festive celebrations, reflected his enthusiasm for Diwali. It added a personal and cheerful touch to the popular national television show, connecting with the audience on the upcoming festival.",
-            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-18-amitabh-bachchan-makes-a-sweet-diwali-confession-says-hamara-bomb-zyada-tez-hona-chahiye/articleshow/135188171.cms",
-            "category": "National",
-            "date": "2026-10-25T09:46:57Z"
-        },
-        {
-            "title": "Were they beheaded? Did they get lawyers? Bangladesh seeks answers from Saudi Arabia over execution of 'couple'",
-            "summary": "A Virginia mother received a criminal conviction after allowing her 5-year-old son to walk alone to a local pond to collect goose feathers. She aimed to foster independence, but her decision led to legal repercussions, sparking debate on parental responsibility and child safety. This incident underscores the complexities of balancing childhood autonomy with legal frameworks concerning supervision and protection.",
-            "url": "https://timesofindia.indiatimes.com/world/south-asia/were-they-beheaded-did-they-get-lawyers-bangladesh-seeks-answers-from-saudi-arabia-over-execution-of-couple/articleshow/135186048.cms",
+            "title": "Chargers take charge of 2027 NFL Draft tank race with Dolphins\u2019 upset of Jets",
+            "summary": "The Los Angeles Chargers have taken the lead in the 2027 NFL Draft's 'tank race,' a strategic position to secure a high draft pick. This development occurred after the Miami Dolphins achieved an unexpected upset victory against the New York Jets. The 'tank race' involves teams positioning for advantageous draft selections, reflecting tactical considerations within American professional football dynamics.",
+            "url": "https://clutchpoints.com/nfl/los-angeles-chargers/chargers-news-la-takes-charge-of-2027-nfl-draft-tank-race-with-dolphins-upset-of-jets",
             "category": "International",
-            "date": "2026-10-25T09:32:20Z"
+            "date": "2026-10-25T21:29:20Z"
         },
         {
-            "title": "Two Varanasi-bound IndiGo flights diverted to Lucknow due to air show",
-            "summary": "Two IndiGo flights, Delhi-Varanasi (6E5025) and Hyderabad-Varanasi (6E915), were diverted to Lucknow on Sunday. The diversions occurred due to an air show taking place in Varanasi, which necessitated temporary airspace restrictions. Passengers on both flights experienced delays and inconvenience as their scheduled arrival at Varanasi was impacted by the special event.",
-            "url": "https://www.thehindubusinessline.com/economy/logistics/two-varanasi-bound-indigo-flights-diverted-to-lucknow-due-to-air-show/article71622729.ece",
+            "title": "The 9 Best Vampire Movies and TV Shows on Netflix Right Now",
+            "summary": "The article introduces AMC's 2022 series, 'Interview With the Vampire,' highlighting Jacob Anderson's role as Louis De Point Du Lac. It describes the show as an 'extraordinary' and 'cr\u00e8me de la cr\u00e8me' production. The brief text serves as an opening statement for what appears to be a review or deeper analysis of this supernatural drama, implying its critical acclaim and significance within the entertainment landscape.",
+            "url": "https://www.thewrap.com/creative-content/what-to-watch/vampire-movies-shows-streaming-on-netflix-now/",
             "category": "National",
-            "date": "2026-10-25T08:15:03Z"
+            "date": "2026-10-25T21:00:00Z"
         },
         {
-            "title": "NMDC scouts for mining assets across four continents",
-            "summary": "India's state-owned mining giant, NMDC, is strategically scouting global mining assets, including critical minerals, across four continents from South America to Australia. This proactive step aims to secure vital resources to meet India's future industrial demands and bolster national resource security. The initiative is crucial for sustained economic growth and reducing import dependency in key mineral sectors.",
-            "url": "https://www.thehindubusinessline.com/companies/nmdc-scouts-for-mining-assets-across-four-continents/article71622642.ece",
-            "category": "National",
-            "date": "2026-10-25T06:08:30Z"
-        },
-        {
-            "title": "Isro plans four functional launch pads by 2029, says chairman Narayanan",
-            "summary": "ISRO is significantly expanding its launch infrastructure and partnering with private firms to meet escalating satellite demand. A key project is the development of a dedicated 2,000-acre SSLV complex in Kulasekarapattinam, Tamil Nadu. This strategic initiative aims to bolster India's indigenous space launch capabilities, enhance self-reliance, and improve commercial competitiveness in the global space sector, crucial for national technological advancement.",
-            "url": "https://www.business-standard.com/industry/news/isro-plans-four-functional-launch-pads-by-2029-says-chairman-narayanan-126102500109_1.html",
+            "title": "krabby-hal-server-isaac 0.1.4",
+            "summary": "A critical website component failed to load, potentially interrupting user access. This technical issue, relevant for SSB aspirants needing consistent online resources, could be caused by browser extensions, network problems, or specific browser settings. Users encountering this error should check their internet connection, disable ad blockers, or try an alternative browser for swift resolution and uninterrupted preparation.",
+            "url": "https://pypi.org/project/krabby-hal-server-isaac/0.1.4/",
             "category": "Sci & Tech",
-            "date": "2026-10-25T06:05:10Z"
+            "date": "2026-10-25T20:39:51Z"
+        },
+        {
+            "title": "Russia Says It Hit Two Cargo Vessels And Ukrainian Logistics Hubs",
+            "summary": "Russia's Defence Ministry announced its drones struck cargo vessels in an overnight attack. The targeted ships were bound for Ukraine's Black Sea port of Chornomorsk. This action highlights ongoing maritime hostilities in the Black Sea region, impacting shipping routes and escalating tensions concerning grain exports and naval control. It underscores Russia's continued efforts to disrupt Ukrainian port operations amidst the conflict.",
+            "url": "https://gcaptain.com/russia-says-it-hit-two-cargo-vessels-and-ukrainian-logistics-hubs/",
+            "category": "Defence",
+            "date": "2026-10-25T20:21:48Z"
+        },
+        {
+            "title": "krabby-hal-server 0.1.5",
+            "summary": "A website encountered a loading error for a required component, possibly caused by browser extensions, network issues, or specific browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or trying an alternative browser to resolve the problem and access the content.",
+            "url": "https://pypi.org/project/krabby-hal-server/0.1.5/",
+            "category": "Sci & Tech",
+            "date": "2026-10-25T19:59:09Z"
+        },
+        {
+            "title": "For 50 years he has led the search for answers on the Loch Ness Monster. Now, this expert has revealed his VERY surprising verdict about what really lies beneath those murky Highland waters...",
+            "summary": "Veteran naturalist Adrian Shine recounts the pivotal moment his lifelong fascination with 'monsters from the deep' began during his childhood. Known for his extensive involvement in Nessie hunts and deep understanding of the Loch Ness Monster's lore, the article introduces Shine's dedicated journey into exploring such mysterious creatures. His commitment exemplifies the ongoing human curiosity and investigative spirit directed towards unknown aspects of our natural world.",
+            "url": "https://www.dailymail.com/news/article-16237643/For-50-years-search-Loch-Ness-Monster-revealed-surprising-verdict-beneath-murky-Highland-waters.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-25T19:19:08Z"
+        },
+        {
+            "title": "Week 1 Aftermath: Paolo Banchero and Cooper Flagg set to miss time, Ty Jerome's hot start and more",
+            "summary": "The initial week of the 2026-27 season experienced a mix of compelling highlights and unfortunate impactful injuries. Numerous teams faced setbacks as key players sustained significant injuries, potentially affecting team dynamics and future performance. These early season challenges underscore the demanding physical nature of competitive sports and the critical role of player fitness.",
+            "url": "https://sports.yahoo.com/articles/week-1-aftermath-paolo-banchero-160000852.html",
+            "category": "International",
+            "date": "2026-10-25T16:00:00Z"
+        },
+        {
+            "title": "US midterms 2026: Meet Sandeep Srivastava, Indian-American candidate contesting Texas House District 66",
+            "summary": "The news features Sandeep Srivastava, an Indian-American candidate who will be contesting Texas House District 66 in the upcoming US midterms in 2026. This highlights the growing involvement of the Indian diaspora in American politics, showcasing their increasing representation and influence within the international political landscape. Understanding such global trends is crucial for aspirants.",
+            "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-meet-sandeep-srivastava-indian-american-candidate-contesting-texas-house-district-66/articleshow/135192310.cms",
+            "category": "International",
+            "date": "2026-10-25T13:58:16Z"
         }
     ]
 }
