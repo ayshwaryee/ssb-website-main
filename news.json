@@ -1,33 +1,75 @@
 {
-    "last_updated": "2026-10-27T03:24:10.814124+00:00",
+    "last_updated": "2026-10-27T11:28:16.462482+00:00",
     "articles": [
         {
-            "title": "Every Way HBO's Lanterns Changed John Stewart From The Comics",
-            "summary": "John Stewart, a pivotal Green Lantern character introduced in 1972 by Dennis O'Neal and Neal Adams, is highlighted for his extensive achievements within comic books. The article details his significant contributions, character evolution, and enduring legacy in the Green Lantern universe, showcasing his impact and journey across decades of publication.",
-            "url": "https://screenrant.com/every-way-lanterns-changed-john-stewart/",
-            "category": "Sci & Tech",
-            "date": "2026-10-26T03:00:18Z"
+            "title": "Rs 2.12 lakh crore defence push gets DAC nod, 82% for Indian firms",
+            "summary": "The Defence Acquisition Council (DAC), chaired by Defence Minister Rajnath Singh, recently accorded Acceptance of Necessity (AoN) to capital acquisition proposals totaling about Rs 2,12,000 crore. This significant approval aims to bolster India's defence capabilities through modernization and procurement. Such decisions are crucial for enhancing the operational readiness and self-reliance of the armed forces, directly contributing to national security and strategic preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rs-2-12-lakh-crore-defence-push-gets-dac-nod-82-for-indian-firms/articleshow/135210033.cms",
+            "category": "Defence",
+            "date": "2026-10-26T11:04:39Z"
         },
         {
-            "title": "Seoul \u2018fabricated\u201d landmine blast, North Korea tells UN in letter",
-            "summary": "North Korea has formally accused South Korea at the UN Security Council of fabricating a landmine explosion that injured three South Korean soldiers. Pyongyang's letter alleges Seoul staged the incident to escalate tensions, marking a significant diplomatic escalation. This move highlights persistent friction on the Korean Peninsula, involving the international community in a contentious inter-Korean dispute.",
-            "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter",
+            "title": "KryonOS: a JavaScript operating system for the ESP32",
+            "summary": "KryonOS is an open-source operating system by Haris16-code, transforming ESP32 microcontrollers from fixed-firmware devices into versatile, reusable platforms. It introduces a desktop-style graphical interface and a JavaScript runtime, significantly enhancing ESP32 capabilities. This innovation allows for more flexible programming and broader application of these compact processors in various tech projects, moving them beyond their traditional embedded roles.",
+            "url": "https://www.open-electronics.org/kryonos-a-javascript-operating-system-for-the-esp32/",
+            "category": "Sci & Tech",
+            "date": "2026-10-26T11:00:00Z"
+        },
+        {
+            "title": "IDF says it killed two Hamas commanders",
+            "summary": "The Israel Defense Forces (IDF) announced on Monday that they successfully eliminated two Hamas commanders over the weekend. This action was taken to neutralize the significant threat posed by these individuals, as stated by the military. The targeted operation highlights ongoing military efforts by Israel against Hamas leadership to ensure regional security and mitigate future threats.",
+            "url": "https://biztoc.com/x/4da4b314bc2035c3",
+            "category": "Defence",
+            "date": "2026-10-26T10:54:42Z"
+        },
+        {
+            "title": "Week 8 fantasy football PPR rankings: Lamar Jackson, Derrick Henry rise",
+            "summary": "The article details Week 8 fantasy football PPR rankings, highlighting key Baltimore Ravens players. Quarterback Lamar Jackson, running back Derrick Henry, and wide receiver Zay Flowers are prominently featured as top performers in their respective positions. This sports analysis provides specific individual player performance predictions and rankings for fantasy league enthusiasts.",
+            "url": "https://www.thebiglead.com/week-8-fantasy-football-ppr-rankings-lamar-jackson-derrick-henry-zay-flowers/",
+            "category": "National",
+            "date": "2026-10-26T10:51:33Z"
+        },
+        {
+            "title": "All you need to know about the Dakar 2026 Youth Olympics",
+            "summary": "Senegal is set to make history by hosting the Youth Olympic Games, marking the first time an Olympic event will be held on African soil. The games will take place across the cities of Dakar, Diamniadio, and Saly, starting October 31. This significant international sporting event highlights Africa's growing role in global sports and youth development.",
+            "url": "https://www.bbc.com/sport/olympics/articles/ck0546l2j4ppo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
             "category": "International",
-            "date": "2026-10-26T02:55:15Z"
+            "date": "2026-10-26T10:49:17Z"
         },
         {
-            "title": "UC Berkeley professor refuses to grade his students\u2019 homework after noticing worrying trend: \u2018No point\u2019 (AI)",
-            "summary": "A UC Berkeley professor has ceased grading student homework, citing a worrying trend strongly indicating widespread use of Artificial Intelligence by students. This incident underscores the escalating challenge to academic integrity in the era of AI, prompting critical discussions on fair assessment methods, ethical technology use in education, and the need for robust policies to maintain academic honesty amidst technological advancements.",
-            "url": "https://freerepublic.com/focus/f-chat/4400587/posts",
-            "category": "Sci & Tech",
-            "date": "2026-10-26T00:09:27Z"
+            "title": "All you need to know about the Dakar 2026 Youth Olympics",
+            "summary": "IOC official Christophe Dubi described the upcoming Youth Olympics in Senegal as a monumental event for Africa. This marks a significant milestone as it will be the first time an Olympic event is hosted on the African continent. This development is poised to boost youth sports and enhance international recognition for the region, signifying a major step forward in global sports diplomacy.",
+            "url": "https://www.bbc.co.uk/sport/olympics/articles/ck0546l2j4ppo",
+            "category": "International",
+            "date": "2026-10-26T10:49:12Z"
         },
         {
-            "title": "For 50 years he has led the search for answers on the Loch Ness Monster. Now, this expert has revealed his VERY surprising verdict about what really lies beneath those murky Highland waters...",
-            "summary": "Veteran naturalist Adrian Shine developed a profound childhood interest in deep-sea creatures, particularly the Loch Ness Monster. His career has since focused on investigating Nessie hunts and other unexplained aquatic phenomena. This highlights sustained scientific curiosity and an investigative spirit crucial for understanding mysteries, fostering critical inquiry and analytical thought.",
-            "url": "https://www.dailymail.com/news/article-16237643/For-50-years-search-Loch-Ness-Monster-revealed-surprising-verdict-beneath-murky-Highland-waters.html",
+            "title": "Indian Army debunks manipulated video falsely claiming Chinese control over Arunachal border areas",
+            "summary": "The Indian Army's official 'Indian Army Fact Check' has issued a public warning, debunking a digitally manipulated deepfake video circulating on social media. This initiative highlights the military's proactive stance against misinformation campaigns designed to spread false narratives and create confusion, emphasizing the need for vigilance against such digitally altered content impacting national security.",
+            "url": "https://economictimes.indiatimes.com/news/defence/indian-army-debunks-manipulated-video-falsely-claiming-chinese-control-over-arunachal-border-areas/articleshow/135208142.cms",
+            "category": "Defence",
+            "date": "2026-10-26T09:39:05Z"
+        },
+        {
+            "title": "New Battle Tank Plan: How India plans to dismantle and rebuild aging T72, T90 tanks by decoding decades-old Russian drawings",
+            "summary": "India is significantly boosting its defence self-reliance by enhancing indigenous capabilities to overhaul its ageing Soviet-origin battle tanks. This strategic move involves decoding complex, decades-old Russian engineering drawings to understand their intricate designs. The effort aims to reduce dependence on foreign maintenance and ensure the operational readiness of India's crucial armoured fleet, bolstering national security and defence preparedness.",
+            "url": "https://economictimes.indiatimes.com/news/defence/new-battle-tank-plan-how-india-plans-to-dismantle-and-rebuild-aging-t72-t90-tanks-by-decoding-decades-old-russian-drawings/articleshow/135207291.cms",
+            "category": "Defence",
+            "date": "2026-10-26T09:10:27Z"
+        },
+        {
+            "title": "pyvalleywidth added to PyPI",
+            "summary": "The provided content indicates a technical issue preventing a required website component from loading. Potential causes for this disruption include active browser extensions, network connectivity problems, or specific browser settings. Users encountering this error are advised to troubleshoot by checking their internet connection, disabling any ad-blockers, or attempting to access the site using an alternative web browser.",
+            "url": "https://pypi.org/project/pyvalleywidth/",
             "category": "Sci & Tech",
-            "date": "2026-10-25T19:19:08Z"
+            "date": "2026-10-26T06:05:47Z"
+        },
+        {
+            "title": "Russia Says It Hit Two Cargo Vessels And Ukrainian Logistics Hubs",
+            "summary": "The Russian Defence Ministry reported that its drones conducted overnight strikes on cargo vessels in the Black Sea. One targeted ship was reportedly en route to Ukraine's Chornomorsk port, with indications of another vessel also being hit. These attacks signify ongoing military operations impacting maritime trade and security in the crucial Black Sea region, reflecting the continued hostilities.",
+            "url": "https://gcaptain.com/russia-says-it-hit-two-cargo-vessels-and-ukrainian-logistics-hubs/",
+            "category": "Defence",
+            "date": "2026-10-25T20:21:48Z"
         }
     ]
 }
