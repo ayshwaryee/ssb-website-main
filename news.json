@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-10-28T03:40:02.796042+00:00",
+    "last_updated": "2026-10-28T11:58:54.161842+00:00",
     "articles": [
         {
-            "title": "EPS-95 higher pension row: Pensioners\u2019 body writes to President Murmu, seeks withdrawal of EPFO's \u2018flawed\u2019 circular",
-            "summary": "The National Confederation of Pensioners Associations (NCPA), representing over a million pensioners from public sector undertakings and provident fund establishments, has formally initiated action by writing regarding their concerns. This development underscores the continuous efforts by pensioner bodies to ensure their welfare and address issues related to provident funds and pensions, highlighting crucial aspects of national social security and public sector accountability.",
-            "url": "https://www.livemint.com/money/personal-finance/eps95-higher-pension-row-pensioners-body-writes-to-president-murmu-seeks-withdrawal-of-epfos-flawed-circular-11793060434088.html",
-            "category": "National",
-            "date": "2026-10-27T02:53:46Z"
+            "title": "Nintendo Switch Online Adds Three Classic Game Boy Games Today",
+            "summary": "Nintendo is enhancing its Switch Online retro library by adding three more classic Game Boy games, starting October 27th. This expansion includes 'Amazing Tater,' 'Quest for Camelot,' and notably, 'Castlevania Legends,' alongside a lesser-known puzzle-adventure title from legendary designer Shigeru Miyamoto, offering subscribers more nostalgic gaming options.",
+            "url": "https://www.iphoneincanada.ca/2026/10/27/nintendo-switch-online-adds-three-classic-game-boy-games/",
+            "category": "Sci & Tech",
+            "date": "2026-10-27T11:58:09Z"
         },
         {
-            "title": "Russia halts strikes on Ukraine\u2019s Kherson as Oleshky ceasefire takes effect",
-            "summary": "Russia has suspended military strikes in Ukraine's Kherson province, implementing a localized ceasefire. This pause is to facilitate a humanitarian mission, which is notably being led by United States First Lady Melania Trump. The temporary cessation of hostilities aims to ensure the safe passage and delivery of aid, underscoring international efforts to provide assistance amidst the conflict.",
-            "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect",
+            "title": "Sarvam inks 5-yr pact with Defence Ministry for AI projects across armed forces",
+            "summary": "Indian AI startup Sarvam has signed a five-year agreement with the Ministry of Defence to develop and deploy advanced AI applications across the armed forces. This strategic partnership aims to enhance operational capabilities, efficiency, and preparedness by integrating cutting-edge artificial intelligence solutions into military operations, modernizing India's defence infrastructure.",
+            "url": "https://www.thehindubusinessline.com/info-tech/sarvam-inks-5-yr-pact-with-defence-ministry-for-ai-projects-across-armed-forces/article71631117.ece",
+            "category": "Defence",
+            "date": "2026-10-27T11:30:26Z"
+        },
+        {
+            "title": "EXCLUSIVE: Breast Pump Maker Willow Acquires Swehl,\u00a0Momtech",
+            "summary": "Breast pump manufacturer Willow Innovations Inc. is significantly expanding its portfolio in 2025 through key acquisitions. Following an initial purchase, the company has now acquired Swehl, an online education platform, and another firm. This strategic move underscores Willow Innovations' aggressive growth and diversification strategy, enhancing its presence in the health technology and education sectors through corporate consolidation.",
+            "url": "http://wwd.com/beauty-industry-news/wellness/willow-acquires-swell-momi-breast-pump-care-1239381306/",
+            "category": "Sci & Tech",
+            "date": "2026-10-27T11:01:00Z"
+        },
+        {
+            "title": "Trump\u2019s Blob",
+            "summary": "Sebastian Gorka, the White House\u2019s senior director for counterterrorism, addressed the prestigious Council on Foreign Relations in Washington, D.C., in mid-March. His address likely focused on crucial aspects of U.S. counterterrorism policy and its broader implications for international relations, offering vital insights into America's global security posture and strategic engagement with other nations.",
+            "url": "https://www.nybooks.com/online/2026/10/27/trumps-blob-foreign-policy/",
             "category": "International",
-            "date": "2026-10-27T02:29:00Z"
+            "date": "2026-10-27T11:00:00Z"
+        },
+        {
+            "title": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
+            "summary": "A ceasefire, reportedly brokered with assistance from Melania Trump, has taken effect in the Russian-occupied Ukrainian city of Oleshky. Both Russian and Ukrainian forces committed to observing the truce, which commenced on Tuesday. This development aims to temporarily halt hostilities in the conflict-ridden region, marking a significant, albeit potentially fragile, diplomatic effort amidst the ongoing war.",
+            "url": "https://www.abc.net.au/news/2026-10-27/melania-trump-russia-ukraine-oleshky-ceasefire/107316202",
+            "category": "International",
+            "date": "2026-10-27T10:35:24Z"
+        },
+        {
+            "title": "'Chinese troops have entered 40-50 km into Indian territory': Arunachal Congress chief Bosiram Siram on border situation",
+            "summary": "Arunachal Pradesh Congress President Bosiram Siram, a former Education Minister, has alleged that Chinese troops have intruded 40 to 50 kilometres deep into Indian territory. This serious claim highlights ongoing border security challenges along the Line of Actual Control (LAC), directly impacting India's sovereignty and territorial integrity. SSB aspirants should be aware of such geopolitical developments concerning national defence.",
+            "url": "https://economictimes.indiatimes.com/news/defence/chinese-troops-have-entered-40-50-km-into-indian-territory-arunachal-congress-chief-bosiram-siram-on-border-situation/articleshow/135230907.cms",
+            "category": "Defence",
+            "date": "2026-10-27T10:28:09Z"
+        },
+        {
+            "title": "Gforth 1.0",
+            "summary": "A recent technical communication outlines methods to access further details on specific terms mentioned within documents. Users seeking clarity can click on highlighted words in the web version or utilize the 'help' command within the Gforth system. This mechanism ensures comprehensive understanding of concepts, fostering efficient learning and information retrieval for individuals navigating complex technical data.",
+            "url": "https://gforth.org/manual/1.0/NEWS.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-27T10:23:21Z"
         }
     ]
 }
