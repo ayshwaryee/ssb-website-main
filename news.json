@@ -1,75 +1,26 @@
 {
-    "last_updated": "2026-10-30T17:56:36.334733+00:00",
+    "last_updated": "2026-10-30T21:56:10.802429+00:00",
     "articles": [
         {
-            "title": "Week 8 Start 'Em, Sit 'Em Fantasy Defenses/Kickers",
-            "summary": "An analyst for The Sporting Tribune's fantasy football section announces their return for a second year, committed to assisting fantasy managers. Their mission is to provide expertise and guidance, helping users navigate dilemmas and questions throughout the upcoming season. This update signals a continued focus on offering specialized insights within the popular fantasy sports community.",
-            "url": "https://www.thesportingtribune.com/2026/10/29/nfl-week-8-fantasy-start-sit-defenses-kickers",
+            "title": "Afternoon front page: Canada re-labeled 'associate member'; Ottawa lets defence-tech company slip into foreign hands; and more",
+            "summary": "The article, published on Thursday, October 29, outlines its coverage of 'top stories' encompassing local, national, and international news updates. However, the actual content is reserved for subscribers, thus preventing a detailed summary of specific events or topics that would be relevant for an SSB aspirant.",
+            "url": "https://nationalpost.com/editors/afternoon-front-page-77",
             "category": "National",
-            "date": "2026-10-29T17:54:10Z"
+            "date": "2026-10-29T21:36:42Z"
         },
         {
-            "title": "BAE Systems starts producing customised all-terrain vehicles 'Sindhu' with \u2018more power\u2019 at L&T plant; first batch delivery to Indian Army in 2027: Co Brass",
-            "summary": "BAE Systems has commenced production of advanced 'Sindhu' all-terrain vehicles (ATVs) for the Indian Army. These customized, more powerful ATVs are being manufactured at an L&T facility in India. This initiative strengthens indigenous defence manufacturing and equips the army with enhanced mobility capabilities for diverse terrains. The first batch delivery is anticipated by 2027, bolstering the army's operational readiness.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/bae-systems-starts-producing-customised-all-terrain-vehicles-sindhu-with-more-power-at-lt-plant-first-batch-delivery-to-indian-army-in-2027-co-brass/articleshow/135325626.cms",
+            "title": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 8",
+            "summary": "The article introduces 'The Blueprint,' a weekly column focused on creating highly accurate rankings for various categories. It outlines upcoming features such as dedicated columns for RB (Running Backs), WR (Wide Receivers), and a combination column, suggesting a detailed analytical approach. This content aims to provide comprehensive breakdowns to inform strategic decisions.",
+            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-8-211710953.html",
+            "category": "National",
+            "date": "2026-10-29T21:17:10Z"
+        },
+        {
+            "title": "What a British think tank gets wrong about Russia\u2019s ultimate weapons",
+            "summary": "The Royal United Services Institute (RUSI) recently published a report, \u2018Russia\u2019s Nuclear Deterrent and Its Weapons Procurement\u2019, analyzing Russia's evolving nuclear capabilities and strategic acquisitions. For SSB aspirants, this report is vital for understanding global defence dynamics, superpower strategies, and their implications for international security and India's geopolitical standing.",
+            "url": "https://rt-english.com/russia/648066-russias-nuclear-arsenal-rusi-report/",
             "category": "Defence",
-            "date": "2026-10-29T17:35:43Z"
-        },
-        {
-            "title": "Palmer Luckey\u2019s Anduril Is Turning a Former Maryland Steel Mill Into a $6.6 Billion Defense Hub",
-            "summary": "Anduril Industries' Arsenal-2 project, led by Palmer Luckey, is set to revolutionize U.S. submarine production, significantly enhancing defense manufacturing capabilities. This technological initiative is also expected to profoundly impact Maryland's industrial economy, fostering growth and strengthening the national defense sector. The development underscores a critical advancement in modernizing naval infrastructure and bolstering national security.",
-            "url": "https://biztoc.com/x/acce1e8dcc1cff1e",
-            "category": "Defence",
-            "date": "2026-10-29T17:13:48Z"
-        },
-        {
-            "title": "'Transgressions by China happen, it's not new': Arunachal CM says no intrusion along LAC",
-            "summary": "This content outlines user engagement features for a news portal's comment section, inviting readers to share thoughts. It provides diverse reaction options such as 'Insightful,' 'Agree,' or 'Big Development.' Users are guided to maintain respectful interaction and follow 'TOI community guidelines,' promoting structured discussions on articles, rather than reporting specific news events themselves.",
-            "url": "https://timesofindia.indiatimes.com/india/transgressions-by-china-happen-its-not-new-arunachal-cm-says-no-intrusion-along-lac/articleshow/135324392.cms",
-            "category": "Sci & Tech",
-            "date": "2026-10-29T17:07:02Z"
-        },
-        {
-            "title": "China\u2019s Soldiers Face Off Against Indian Troops As Himalayan Border Tensions Flare",
-            "summary": "Indian and Chinese troops are reportedly facing renewed confrontations along their disputed Himalayan border. Unconfirmed reports indicate an increase in frequent hand-to-hand skirmishes involving sticks and batons. This highlights persistent tensions and the volatile nature of border management between the two nations, demanding strategic attention for de-escalation and maintaining regional stability.",
-            "url": "https://dailycaller.com/2026/10/29/china-india-border-tensions-flare",
-            "category": "Defence",
-            "date": "2026-10-29T16:37:47Z"
-        },
-        {
-            "title": "Portraits of Barbara Barrie in 1974",
-            "summary": "Oscar and Tony-nominated actress Barbara Barrie has passed away at the age of 95. Her daughter, Jane Harnick, and her agent confirmed her demise on Wednesday, October 28, 2026. Barrie had a distinguished career spanning decades, leaving a significant mark on both stage and screen. Known for her versatility, her contributions to the performing arts will be remembered by audiences and critics alike.",
-            "url": "https://www.vintag.es/2026/10/barbara-barrie-1974.html",
-            "category": "International",
-            "date": "2026-10-29T16:32:33Z"
-        },
-        {
-            "title": "codecortex-engine added to PyPI",
-            "summary": "CodeCortex, an adaptive semantic intelligence engine, has been developed for large-scale code understanding. This innovative tool transforms source code through advanced semantic analysis, aiming to enhance software development processes. Its capabilities could significantly aid in improving code quality, debugging efficiency, and potentially security assessments, marking a notable advancement in software engineering technology.",
-            "url": "https://pypi.org/project/codecortex-engine/",
-            "category": "Sci & Tech",
-            "date": "2026-10-29T15:12:35Z"
-        },
-        {
-            "title": "\u2018The Diplomat\u2019 Renewed for Season 5 at Netflix",
-            "summary": "Netflix has officially renewed its popular series \"The Diplomat\" for a fifth season, shortly after the recent release of its fourth season. The show, acclaimed for its compelling portrayal of international diplomacy and geopolitical challenges, continues to engage audiences. This renewal highlights its success and potential relevance for aspirants keen on understanding global affairs and the intricacies faced by diplomats on the world stage.",
-            "url": "https://variety.com/2026/tv/news/the-diplomat-renewed-season-5-netflix-1236933737/",
-            "category": "International",
-            "date": "2026-10-29T13:30:00Z"
-        },
-        {
-            "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
-            "summary": "Today's Stratechery Interview features Palantir CTO Shyam Sankar, known for his two decades of service at the prominent technology firm. Sankar has recently gained increasing prominence as a public intellectual, marking a more visible role beyond his technical leadership. This interview is expected to delve into his insights and experiences, offering a deeper look into the mind behind Palantir's strategic technological direction.",
-            "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
-            "category": "Sci & Tech",
-            "date": "2026-10-29T10:00:00Z"
-        },
-        {
-            "title": "ISRO to launch NVS-03 navigation satellite on October 30: Why the mission is crucial for NavIC",
-            "summary": "ISRO is scheduled to launch its NVS-03 navigation satellite aboard the GSLV-F18 rocket on October 30. This mission is vital for India's NavIC services, enhancing accurate positioning and timing. The launch from Sriharikota highlights India's increasing self-reliance in space technology and strengthens critical national infrastructure, benefiting defence and civilian applications alike.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/isro-to-launch-nvs-03-navigation-satellite-on-october-30-why-the-mission-is-crucial-for-navic/articleshow/135299157.cms",
-            "category": "Sci & Tech",
-            "date": "2026-10-29T09:25:52Z"
+            "date": "2026-10-29T20:55:09Z"
         }
     ]
 }
