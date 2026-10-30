@@ -1,12 +1,26 @@
 {
-    "last_updated": "2026-10-30T04:01:34.775656+00:00",
+    "last_updated": "2026-10-30T12:00:09.136542+00:00",
     "articles": [
         {
-            "title": "India: Mass Voter Roll Exclusions Deeply Flawed",
-            "summary": "Indian authorities arbitrarily removed over 130 million names from the nation's electoral rolls, a deeply flawed process impacting citizens' fundamental voting rights. This significant action raises serious concerns regarding administrative fairness and the integrity of democratic processes within the country. Aspiring officers should be aware of such national governance challenges and their potential societal implications.",
-            "url": "https://www.hrw.org/news/2026/10/29/india-mass-voter-roll-exclusions-deeply-flawed",
-            "category": "National",
-            "date": "2026-10-29T03:30:00Z"
+            "title": "EP241: Root Causes: Exploring the Hidden Links Between Your Mouth and Your Health - Corbin Popp, DMD - BetterHealthGuy.com",
+            "summary": "Episode 241 of the BetterHealthGuy Podcast focuses on understanding and managing complex chronic conditions, exploring methods to enhance personal resilience and overall vitality. This discussion provides valuable insights into maintaining robust health, a critical aspect for SSB aspirants preparing for rigorous selection processes and future service demands, emphasizing physical and mental well-being.",
+            "url": "https://www.betterhealthguy.com/ep241",
+            "category": "Sci & Tech",
+            "date": "2026-10-29T11:54:04Z"
+        },
+        {
+            "title": "Slaughtered on the platform: 13 rail passengers are killed in Russian drone strike on Ukrainian train as Zelensky calls for US action",
+            "summary": "A Russian drone strike tragically killed 13 and wounded 10 train passengers at the Dnipro railway station in central Ukraine on Thursday. This attack on civilian infrastructure underscores the severe human cost and devastating impact of the ongoing Russia-Ukraine conflict on non-combatants, highlighting the continuing geopolitical tensions and humanitarian crisis.",
+            "url": "https://www.dailymail.com/news/article-16248869/Slaughtered-platform-13-rail-passengers-killed-Russian-drone-strike-Ukrainian-train-Zelensky-calls-US-action.html",
+            "category": "International",
+            "date": "2026-10-29T11:00:19Z"
+        },
+        {
+            "title": "Scrapped Firmus float casts doubt on billions in AI data centre builds",
+            "summary": "Australian data centre company Firmus's commitments to acquire billions of dollars worth of AI chips are now in doubt. This uncertainty is due to the company's stalled attempt to go public, as per recent financial filings. The delay in its IPO jeopardizes crucial investments for its artificial intelligence infrastructure, potentially affecting its operational growth and competitive standing in the tech sector.",
+            "url": "https://www.abc.net.au/news/2026-10-29/firmus-funding-ai-computer-chips-stock-market/107322200",
+            "category": "Sci & Tech",
+            "date": "2026-10-29T00:15:55Z"
         }
     ]
 }
