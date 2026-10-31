@@ -1,19 +1,54 @@
 {
-    "last_updated": "2026-10-31T03:46:03.969408+00:00",
+    "last_updated": "2026-10-31T11:34:49.987136+00:00",
     "articles": [
         {
-            "title": "US, Japan Agree To Establish Missile Production Facility Under 'Operation Supercharge'",
-            "summary": "The United States and Japan have reportedly agreed to establish a facility in Japan for the final assembly and check-out of advanced medium-range air-to-air missiles (AMRAAMs). This strategic move aims to enhance regional security, strengthen the US-Japan alliance, and improve interoperability between their forces, potentially streamlining missile delivery and maintenance for Indo-Pacific stability.",
-            "url": "https://www.freepressjournal.in/world/us-japan-agree-to-establish-missile-production-facility-under-operation-supercharge",
-            "category": "Defence",
-            "date": "2026-10-30T03:44:57Z"
+            "title": "Show HN: Tyrtulia, a headless forum with no passwords, made for the terminal",
+            "summary": "The author expresses a strong preference for internet forums, highlighting their value as an asynchronous community platform. They appreciate the opportunities for robust debates, thoughtful questions, and considered answers. The lasting nature of content and opinions, which are meticulously thought through, is emphasized as a key factor making the internet an engaging and interesting medium.",
+            "url": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
+            "category": "Sci & Tech",
+            "date": "2026-10-30T11:31:55Z"
         },
         {
-            "title": "The quiet part Out Loud: Mia Freedman's call to arms for Australian media",
-            "summary": "The latest Mumbrellacast featured Mamamia co-founder Mia Freedman's speech at her company's upfront. Freedman urged advertisers to halt specific practices. While the precise details of her appeal to 'stop pump...' are unstated due to the truncated text, this signals ongoing industry discussions and ethical considerations within the national media and advertising sector.",
-            "url": "http://mumbrella.com.au/i-wanna-say-the-quiet-part-out-loud-mia-freedmans-call-to-arms-942889",
+            "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+            "summary": "The provided text offers a humorous strategy for disrupting a Halloween party. It suggests targeting an individual consuming candy corn and revealing a disturbing fact about it to exploit their squeamishness. This prank aims to turn a festive occasion into an uncomfortable experience, illustrating a light-hearted social tactic for playful mischief during holiday celebrations.",
+            "url": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/?utm_source=feed",
             "category": "National",
-            "date": "2026-10-29T23:04:11Z"
+            "date": "2026-10-30T11:30:00Z"
+        },
+        {
+            "title": "Rafale makes first landing on INS Vikrant aircraft carrier: Watch video",
+            "summary": "A Rafale Marine fighter jet successfully completed its historic first-ever landing on India's indigenous aircraft carrier, INS Vikrant, on October 29. This significant trial marks a major milestone for India's naval aviation capabilities, demonstrating the carrier's operational readiness and the seamless integration of advanced fighter technology with domestically built defence infrastructure.",
+            "url": "https://economictimes.indiatimes.com/news/defence/rafale-makes-first-landing-on-ins-vikrant-aircraft-carrier-watch-video/articleshow/135358720.cms",
+            "category": "Defence",
+            "date": "2026-10-30T11:25:24Z"
+        },
+        {
+            "title": "Sensex today | Stock Market Highlights: Markets rally for 2nd day amid buying in IT firms, earnings-driven demand in Trent",
+            "summary": "On October 30th, several prominent Indian companies, including Reliance, Jio Platforms, Sun Pharma, BEL, IOC, and Coal India, are set to announce their Q2 financial results. These quarterly earnings reports offer critical insights into the performance of diverse sectors like defence (BEL), energy, and finance, reflecting the overall health and direction of the national economy and corporate landscape.",
+            "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30th-october-2026/article71640574.ece",
+            "category": "National",
+            "date": "2026-10-30T11:08:59Z"
+        },
+        {
+            "title": "Russian strikes leave 200,000 without power in Ukraine",
+            "summary": "Russian attacks have left over 200,000 people without power in Ukraine's central Dnipropetrovsk region. This disruption follows a deadly Russian drone strike on a train station in the area. The incidents underscore the continued targeting of critical infrastructure and civilian areas amidst the ongoing conflict, highlighting the severe humanitarian impact and geopolitical tensions in Eastern Europe.",
+            "url": "https://www.rte.ie/news/2026/1030/1597338-ukraine-russia/",
+            "category": "International",
+            "date": "2026-10-30T10:55:28Z"
+        },
+        {
+            "title": "Links 10/30/2026",
+            "summary": "This article presents diverse scientific topics. It details new research on Australia's 'phantom lighthouse' illusion, exploring human perception. Additionally, it mentions novel concepts in chemistry, construction physics, and 'visions of attention'. The content reflects various scientific and psychological inquiries, offering aspirants a glimpse into current research across STEM fields.",
+            "url": "https://www.nakedcapitalism.com/2026/10/links-10-30-2026.html",
+            "category": "Sci & Tech",
+            "date": "2026-10-30T10:55:24Z"
+        },
+        {
+            "title": "Omron Healthcare eyes Chennai as global manufacturing hub, targets 3 million BP monitors by 2028",
+            "summary": "Japanese Omron Healthcare, a major producer of blood pressure monitors and nebulisers, plans to establish Chennai as a strategic manufacturing hub. This facility will produce and supply healthcare devices to international markets. The initiative aims to leverage India's manufacturing capabilities, boost exports, and strengthen Chennai's position as a global production base for medical technology, representing significant foreign investment.",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/omron-healthcare-expands-manufacturing-in-chennai-aims-for-3-million-blood-pressure-monitors-annually-by-2028/articleshow/135353364.cms",
+            "category": "National",
+            "date": "2026-10-30T09:11:56Z"
         }
     ]
 }
