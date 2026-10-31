@@ -1,54 +1,75 @@
 {
-    "last_updated": "2026-10-31T11:34:49.987136+00:00",
+    "last_updated": "2026-10-31T16:42:03.817464+00:00",
     "articles": [
         {
-            "title": "Show HN: Tyrtulia, a headless forum with no passwords, made for the terminal",
-            "summary": "The author expresses a strong preference for internet forums, highlighting their value as an asynchronous community platform. They appreciate the opportunities for robust debates, thoughtful questions, and considered answers. The lasting nature of content and opinions, which are meticulously thought through, is emphasized as a key factor making the internet an engaging and interesting medium.",
-            "url": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
-            "category": "Sci & Tech",
-            "date": "2026-10-30T11:31:55Z"
-        },
-        {
-            "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
-            "summary": "The provided text offers a humorous strategy for disrupting a Halloween party. It suggests targeting an individual consuming candy corn and revealing a disturbing fact about it to exploit their squeamishness. This prank aims to turn a festive occasion into an uncomfortable experience, illustrating a light-hearted social tactic for playful mischief during holiday celebrations.",
-            "url": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/?utm_source=feed",
-            "category": "National",
-            "date": "2026-10-30T11:30:00Z"
-        },
-        {
-            "title": "Rafale makes first landing on INS Vikrant aircraft carrier: Watch video",
-            "summary": "A Rafale Marine fighter jet successfully completed its historic first-ever landing on India's indigenous aircraft carrier, INS Vikrant, on October 29. This significant trial marks a major milestone for India's naval aviation capabilities, demonstrating the carrier's operational readiness and the seamless integration of advanced fighter technology with domestically built defence infrastructure.",
-            "url": "https://economictimes.indiatimes.com/news/defence/rafale-makes-first-landing-on-ins-vikrant-aircraft-carrier-watch-video/articleshow/135358720.cms",
+            "title": "Japan\u2019s Militarization: Washington Fueling China-Japan Crisis",
+            "summary": "US-backed Japanese militarization is intensifying geopolitical rivalry with China, particularly concerning the 'first island chain'. This situation highlights the challenges and limitations of Washington's containment strategy against Beijing, carrying significant risks of escalation in the Indo-Pacific. For SSB aspirants, this signifies evolving security dynamics and critical strategic implications for regional stability.",
+            "url": "https://www.globalresearch.ca/japan-militarization-washington-fueling-chinese-japanese-crisis/5944830",
             "category": "Defence",
-            "date": "2026-10-30T11:25:24Z"
+            "date": "2026-10-30T16:32:04Z"
         },
         {
-            "title": "Sensex today | Stock Market Highlights: Markets rally for 2nd day amid buying in IT firms, earnings-driven demand in Trent",
-            "summary": "On October 30th, several prominent Indian companies, including Reliance, Jio Platforms, Sun Pharma, BEL, IOC, and Coal India, are set to announce their Q2 financial results. These quarterly earnings reports offer critical insights into the performance of diverse sectors like defence (BEL), energy, and finance, reflecting the overall health and direction of the national economy and corporate landscape.",
-            "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30th-october-2026/article71640574.ece",
-            "category": "National",
-            "date": "2026-10-30T11:08:59Z"
+            "title": "Air Marshal Inderpal Singh Walia named next IAF Vice Chief",
+            "summary": "Air Marshal Inderpal Singh Walia has been appointed as the next Vice Chief of the Air Staff (VCAS) by the Defence Ministry. He will succeed the incumbent VCAS, Air Marshal Ashutosh Dixit. This key leadership transition is crucial for the Indian Air Force's operational command and strategic direction, reflecting important developments in the nation's defence hierarchy.",
+            "url": "https://economictimes.indiatimes.com/news/defence/air-marshal-inderpal-singh-walia-named-next-iaf-vice-chief/articleshow/135369831.cms",
+            "category": "Defence",
+            "date": "2026-10-30T16:29:31Z"
         },
         {
-            "title": "Russian strikes leave 200,000 without power in Ukraine",
-            "summary": "Russian attacks have left over 200,000 people without power in Ukraine's central Dnipropetrovsk region. This disruption follows a deadly Russian drone strike on a train station in the area. The incidents underscore the continued targeting of critical infrastructure and civilian areas amidst the ongoing conflict, highlighting the severe humanitarian impact and geopolitical tensions in Eastern Europe.",
-            "url": "https://www.rte.ie/news/2026/1030/1597338-ukraine-russia/",
+            "title": "Behold: The Best Halloween Movies of All Time, for Your Streaming Purposes",
+            "summary": "As the 'cozy and spooky season' of Halloween approaches, this article explores selecting the best movies to match varied individual preferences. It highlights that moods dictate choices, ranging from sweet and light-hearted films to genuinely scary options. Aspirants should recognize how cultural events like Halloween influence popular entertainment choices globally, understanding diverse societal interests and trends as part of broad general awareness.",
+            "url": "https://www.cosmopolitan.com/entertainment/movies/a74296743/best-halloween-movies-streaming/",
             "category": "International",
-            "date": "2026-10-30T10:55:28Z"
+            "date": "2026-10-30T16:13:51Z"
         },
         {
-            "title": "Links 10/30/2026",
-            "summary": "This article presents diverse scientific topics. It details new research on Australia's 'phantom lighthouse' illusion, exploring human perception. Additionally, it mentions novel concepts in chemistry, construction physics, and 'visions of attention'. The content reflects various scientific and psychological inquiries, offering aspirants a glimpse into current research across STEM fields.",
-            "url": "https://www.nakedcapitalism.com/2026/10/links-10-30-2026.html",
-            "category": "Sci & Tech",
-            "date": "2026-10-30T10:55:24Z"
+            "title": "Indian national jailed for 8 years in US over laundering case targeting elderly people; ordered to pay $2.4m to victims",
+            "summary": "An Indian national has been sentenced to 8 years in a US prison for his involvement in a money laundering scheme. This operation specifically targeted elderly individuals, defrauding them of substantial sums. The US court also mandated that the individual pay $2.4 million in restitution to the victims, underscoring severe consequences for financial crimes that exploit vulnerable populations.",
+            "url": "https://timesofindia.indiatimes.com/world/us/indian-national-jailed-for-8-years-in-us-over-laundering-case-targeting-elderly-people-ordered-to-pay-2-4m-to-victims/articleshow/135368796.cms",
+            "category": "International",
+            "date": "2026-10-30T16:00:41Z"
         },
         {
-            "title": "Omron Healthcare eyes Chennai as global manufacturing hub, targets 3 million BP monitors by 2028",
-            "summary": "Japanese Omron Healthcare, a major producer of blood pressure monitors and nebulisers, plans to establish Chennai as a strategic manufacturing hub. This facility will produce and supply healthcare devices to international markets. The initiative aims to leverage India's manufacturing capabilities, boost exports, and strengthen Chennai's position as a global production base for medical technology, representing significant foreign investment.",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/omron-healthcare-expands-manufacturing-in-chennai-aims-for-3-million-blood-pressure-monitors-annually-by-2028/articleshow/135353364.cms",
+            "title": "Oscar Contender \u2018To Hold A Mountain\u2019 To Open In Theaters In December Ahead Of HBO Debut",
+            "summary": "The Sundance award-winning documentary, \"To Hold a Mountain,\" a strong contender for Oscar recognition, is slated for a theatrical release in U.S. theaters soon. Submarine Deluxe will distribute the film, bringing this acclaimed work from festival success to a wider national audience. This development positions the documentary as a notable entry in the national cinematic landscape, drawing attention for its critical acclaim and award potential.",
+            "url": "http://deadline.com/2026/10/to-hold-a-mountain-theatrical-release-hbo-debut-1237209359/",
             "category": "National",
-            "date": "2026-10-30T09:11:56Z"
+            "date": "2026-10-30T16:00:00Z"
+        },
+        {
+            "title": "7 arrested for murder of woman, daughter over land dispute in West Singhum",
+            "summary": "A historic moment for India's defence capabilities unfolded as a Rafale fighter jet successfully completed a landing on the indigenous aircraft carrier INS Vikrant. This pivotal event signifies a substantial enhancement to India's maritime strike prowess, greatly bolstering its naval air power projection and operational readiness, marking a new chapter in naval aviation.",
+            "url": "https://timesofindia.indiatimes.com/city/ranchi/7-arrested-for-murder-of-woman-daughter-over-land-dispute-in-west-singhum/articleshow/135369056.cms",
+            "category": "Defence",
+            "date": "2026-10-30T15:59:41Z"
+        },
+        {
+            "title": "BJP Mumbai unit chief Ameet Satam targets Opposition over Karjat power project row, tells Shiv Sena (UBT) and Congress to show the two lakh trees planted in Beed as compensatory afforestation for Middle Vaitarna Project",
+            "summary": "BJP Mumbai unit chief Ameet Satam publicly criticized the Opposition, including Shiv Sena (UBT) and Congress, over the contentious Karjat power project. Satam challenged them to articulate their stance and present alternative solutions regarding the project's future. This political dispute highlights ongoing disagreements among parties concerning critical infrastructure development and energy initiatives within Maharashtra.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/bjp-mumbai-unit-chief-ameet-satam-targets-opposition-over-karjat-power-project-row-tells-shiv-sena-ubt-and-congress-to-show-the-two-lakh-trees-planted-in-beed-as-compensatory-afforestation-for-middle-vaitarna-project/articleshow/135368691.cms",
+            "category": "National",
+            "date": "2026-10-30T15:58:10Z"
+        },
+        {
+            "title": "scietex.hal.vfd 2.0.1",
+            "summary": "A website encountered a critical loading failure, preventing a required component from displaying. Investigations suggest browser extensions, network issues, or browser settings as potential causes. Users are advised to troubleshoot by checking their connection, disabling ad blockers, or trying an alternative browser to resolve the problem and restore full site functionality. This emphasizes basic technical troubleshooting skills.",
+            "url": "https://pypi.org/project/scietex-hal-vfd/2.0.1/",
+            "category": "Sci & Tech",
+            "date": "2026-10-30T15:16:20Z"
+        },
+        {
+            "title": "Helicopter crash kills six en route from Indian holy site",
+            "summary": "A helicopter crash in the northern Indian state of Uttarakhand resulted in the tragic deaths of all six people on board, including the pilot. Officials confirmed the incident, which involved a helicopter owned by Trans Bharat Aviation. This accident, occurring on Friday, underscores concerns regarding aviation safety in the region.",
+            "url": "https://rt-english.com/india/648138-helicopter-crash-india-himalayas/",
+            "category": "National",
+            "date": "2026-10-30T14:08:46Z"
+        },
+        {
+            "title": "Italian military chopper spirals into deadly crash in Bosnia (VIDEO)",
+            "summary": "An Italian military helicopter recently crashed in Bosnia and Herzegovina, resulting in four fatalities and eleven injuries. The Italian Defense Ministry confirmed the tragic incident, involving one of its aircraft operating abroad. This event underscores the inherent risks associated with military aviation, particularly during international operations or training exercises, and necessitates a thorough investigation into the cause.",
+            "url": "https://rt-english.com/news/648122-italian-helicopter-crashes-bosnia/",
+            "category": "Defence",
+            "date": "2026-10-30T09:47:27Z"
         }
     ]
 }
