@@ -1,40 +1,26 @@
 {
-    "last_updated": "2026-10-31T20:53:57.967129+00:00",
+    "last_updated": "2026-11-01T03:55:13.171924+00:00",
     "articles": [
         {
-            "title": "College Football Coaching Carousel: 6 Top Targets After Early Power Four Firings",
-            "summary": "The U.S. college football coaching carousel has opened exceptionally early this season, with three major 'Power Four' programs firing their coaches before November. More job changes are expected. This trend indicates a strategic shift, with successful coaches from smaller programs becoming prime candidates for prestigious roles, reflecting intense competition and evolving recruitment dynamics within American collegiate sports.",
-            "url": "https://www.si.com/fannation/college/cfb-hq/news/college-football-coaching-carousel-6-top-targets-dickert-huff-eck-haines-dawson-danielson",
-            "category": "National",
-            "date": "2026-10-30T20:48:51Z"
-        },
-        {
-            "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-            "summary": "The provided text is a highly technical snippet detailing a software project's specifications. It outlines a Python 3.11+ requirement and lists key dependencies including xarray-sql, einfold, duckdb, and datafusion. The mention of 'Demo 1: caus...' suggests a focus on advanced data analysis or causal modeling. This content is specialized in software development and data science, rather than general news.",
-            "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+            "title": "Ananth Technologies supplies 46 packages for GSLV-F18",
+            "summary": "Hyderabad-based Ananth Technologies Private Limited (ATL), a prominent space systems company, has supplied 46 flight hardware packages for the GSLV-F18 launch vehicle. Additionally, they provided nine crucial systems for an unnamed project (likely related to India's space program). This demonstrates ATL's significant contribution to advancing India's national space missions and technological self-reliance.",
+            "url": "https://www.thehindubusinessline.com/news/science/ananth-technologies-supplies-46-packages-for-gslv-f18/article71648136.ece",
             "category": "Sci & Tech",
-            "date": "2026-10-30T20:09:47Z"
+            "date": "2026-10-31T03:12:36Z"
         },
         {
-            "title": "Period Dramas to Rom-Coms: The 7 Best Netflix Shows To Watch In October 2026",
-            "summary": "Netflix is set to premiere a diverse range of new shows in October, shaping the fall entertainment schedule. The upcoming releases encompass intense, edgy thrillers designed to keep viewers captivated, alongside hilarious comedies. This varied content slate aims to cater to broad audience preferences, offering subscribers numerous viewing options as the autumn season progresses on the streaming platform.",
-            "url": "https://www.brit.co/best-new-netflix-shows-october-2026/",
+            "title": "Isro's GSLV successfully places NVS-03 satellite into 'designated' orbit",
+            "summary": "India's indigenous NavIC regional navigation system was restored to its minimum operational configuration of four satellites following ISRO's successful launch of a new navigation satellite. This achievement ensures India's strategic autonomy in navigation, reducing reliance on foreign GPS systems. It bolsters capabilities for defence, civilian, and other critical national applications, marking a significant step towards self-reliance.",
+            "url": "https://www.business-standard.com/india-news/isro-s-gslv-successfully-places-nvs-03-satellite-into-designated-orbit-126103100052_1.html",
             "category": "Sci & Tech",
-            "date": "2026-10-30T20:09:00Z"
+            "date": "2026-10-31T03:03:41Z"
         },
         {
-            "title": "9 Movie Novelizations Better Than The Films They\u2019re Based On",
-            "summary": "The article initiates a discussion on movie novelizations, highlighting their fascinating position within pop-culture literature. It outlines their traditional function: to promote theatrical film releases and provide audiences with an extended narrative experience. Although the provided text is introductory, it sets the stage for a deeper exploration into this unique literary form and its significance.",
-            "url": "https://screenrant.com/movie-novelizations-better-than-source-material/",
-            "category": "International",
-            "date": "2026-10-30T19:31:18Z"
-        },
-        {
-            "title": "ISRO launches GSLV-F18 carrying NVS-03 satellite to strengthen India\u2019s NavIC navigation system",
-            "summary": "Alpha Trade offers daily stock market insights and investment ideas from SEBI-registered research analysts, focusing on wealth growth and identifying sectoral trends. Additionally, 'Stock Reports Plus' provides comprehensive stock research. These services aim to empower individual investors with expert analysis and data-driven tools to make informed decisions and manage their portfolios effectively within the national financial landscape.",
-            "url": "https://economictimes.indiatimes.com/news/science/isro-launches-gslv-f18-carrying-nvs-03-satellite-to-strengthen-indias-navic-navigation-system/articleshow/135374814.cms",
+            "title": "'Dedication and ingenuity of our space scientists': PM Modi hails ISRO after successful GSLV-F18 launch carrying NVS-03",
+            "summary": "This text is a standard interactive module from a news website, designed for reader engagement, not news dissemination. It prompts users to 'Share your thoughts in the comments' and offers various reaction tags like 'Insightful' or 'Big Development.' Emphasizing 'TOI community guidelines,' it promotes respectful online discourse, facilitating audience participation without conveying specific news updates itself.",
+            "url": "https://timesofindia.indiatimes.com/india/dedication-and-ingenuity-of-our-space-scientists-pm-modi-hails-isro-after-successful-gslv-f18-launch-carrying-nvs-03/articleshow/135384147.cms",
             "category": "National",
-            "date": "2026-10-30T18:35:12Z"
+            "date": "2026-10-31T02:04:03Z"
         }
     ]
 }
