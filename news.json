@@ -1,26 +1,61 @@
 {
-    "last_updated": "2026-11-01T03:55:13.171924+00:00",
+    "last_updated": "2026-11-01T12:32:05.570737+00:00",
     "articles": [
         {
-            "title": "Ananth Technologies supplies 46 packages for GSLV-F18",
-            "summary": "Hyderabad-based Ananth Technologies Private Limited (ATL), a prominent space systems company, has supplied 46 flight hardware packages for the GSLV-F18 launch vehicle. Additionally, they provided nine crucial systems for an unnamed project (likely related to India's space program). This demonstrates ATL's significant contribution to advancing India's national space missions and technological self-reliance.",
-            "url": "https://www.thehindubusinessline.com/news/science/ananth-technologies-supplies-46-packages-for-gslv-f18/article71648136.ece",
-            "category": "Sci & Tech",
-            "date": "2026-10-31T03:12:36Z"
-        },
-        {
-            "title": "Isro's GSLV successfully places NVS-03 satellite into 'designated' orbit",
-            "summary": "India's indigenous NavIC regional navigation system was restored to its minimum operational configuration of four satellites following ISRO's successful launch of a new navigation satellite. This achievement ensures India's strategic autonomy in navigation, reducing reliance on foreign GPS systems. It bolsters capabilities for defence, civilian, and other critical national applications, marking a significant step towards self-reliance.",
-            "url": "https://www.business-standard.com/india-news/isro-s-gslv-successfully-places-nvs-03-satellite-into-designated-orbit-126103100052_1.html",
-            "category": "Sci & Tech",
-            "date": "2026-10-31T03:03:41Z"
-        },
-        {
-            "title": "'Dedication and ingenuity of our space scientists': PM Modi hails ISRO after successful GSLV-F18 launch carrying NVS-03",
-            "summary": "This text is a standard interactive module from a news website, designed for reader engagement, not news dissemination. It prompts users to 'Share your thoughts in the comments' and offers various reaction tags like 'Insightful' or 'Big Development.' Emphasizing 'TOI community guidelines,' it promotes respectful online discourse, facilitating audience participation without conveying specific news updates itself.",
-            "url": "https://timesofindia.indiatimes.com/india/dedication-and-ingenuity-of-our-space-scientists-pm-modi-hails-isro-after-successful-gslv-f18-launch-carrying-nvs-03/articleshow/135384147.cms",
+            "title": "Pharma company Gufic buys Lodha Avalon duplex in Juhu for \u20b9236 crore",
+            "summary": "Pharmaceutical firm Gufic Pvt. Ltd acquired a luxury apartment in Mumbai's Juhu for \u20b9236 crore, adding to a surge of high-value residential deals at Lodha Developers' project. This transaction signifies a growing trend in India's premium real estate market, reflecting robust economic activity and investor confidence in high-end property segments within major national cities, which is important for understanding the country's economic landscape.",
+            "url": "https://www.livemint.com/companies/news/pharma-company-gufic-buys-lodha-avalon-duplex-in-juhu-for-236-crore-11793433884135.html",
             "category": "National",
-            "date": "2026-10-31T02:04:03Z"
+            "date": "2026-10-31T11:52:30Z"
+        },
+        {
+            "title": "Air Chief Marshal Ashutosh Dixit assumes charge as new Chief of Air Staff",
+            "summary": "Dixit, a 59-year-old fighter pilot commissioned in 1986, will lead the Indian Air Force during its critical modernization phase. His tenure is vital as the IAF grapples with increasing its combat aircraft strength, which currently falls below ideal operational levels. This leadership role demands strategic vision to enhance India's air defence capabilities and ensure the force is adequately equipped for future challenges.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/air-chief-marshal-ashutosh-dixit-assumes-charge-as-new-chief-of-air-staff-126103100920_1.html",
+            "category": "Defence",
+            "date": "2026-10-31T11:22:33Z"
+        },
+        {
+            "title": "Andrew Green will renovate 18 holes at upscale club in North Carolina",
+            "summary": "Renowned golf course architect Andrew Green has been appointed to undertake a major renovation of the Cardinal Course at the prestigious Country Club of North Carolina in Pinehurst. This significant project focuses on one of the club's two layouts, aiming to modernize facilities and enhance playability. The scheduled work is expected to elevate the course's standing, reflecting ongoing trends in golf course development within the region.",
+            "url": "https://golfweek.usatoday.com/story/sports/golf/2026/10/31/country-club-of-north-carolina-renovation-cardinal-course-andrew-green/92520863007/",
+            "category": "National",
+            "date": "2026-10-31T11:02:26Z"
+        },
+        {
+            "title": "57 Years",
+            "summary": "Major League Baseball expanded significantly in 1969, adding four new franchises to increase teams from 20 to 24. New clubs were established in Montreal, San Diego, Kansas City, and Seattle. The Seattle Pilots, however, endured a challenging inaugural season, finishing last with a 64-98 record. This pivotal expansion shaped the league's future, demonstrating initial hurdles for new entrants.",
+            "url": "https://www.brewcrewball.com/milwaukee-brewers-history/92346/57-years",
+            "category": "National",
+            "date": "2026-10-31T11:00:00Z"
+        },
+        {
+            "title": "Centre approves \u20b9989 crore for 39 road projects across Keralam",
+            "summary": "The Centre has sanctioned Rs 988.75 crore for 39 road development projects across Kerala, as announced by state Public Works Minister P K Basheer. Construction is slated to commence in December, significantly boosting the state's infrastructure. This central funding underlines a concerted effort to improve connectivity and facilitate economic growth in the region.",
+            "url": "https://www.thehindubusinessline.com/news/national/centre-approves-989-crore-for-39-road-projects-across-keralam/article71648985.ece",
+            "category": "National",
+            "date": "2026-10-31T10:12:04Z"
+        },
+        {
+            "title": "Centre approves Rs 989 crore for 39 road projects in Keralam",
+            "summary": "The Central government has approved a substantial outlay of Rs 988.75 crore for 39 crucial road development projects across Kerala. Announced by the state's Public Works Minister, P K Basheer, construction for these infrastructure enhancements is slated to commence in December. This initiative aims to significantly improve connectivity and upgrade the transportation network within the state, fostering regional growth.",
+            "url": "https://economictimes.indiatimes.com/news/india/centre-approves-rs-989-crore-for-39-road-projects-in-keralam/articleshow/135397392.cms",
+            "category": "National",
+            "date": "2026-10-31T10:10:31Z"
+        },
+        {
+            "title": "Air Chief Marshal Ashutosh Dixit takes charge as new Chief of Air Staff",
+            "summary": "Air Chief Marshal Ashutosh Dixit has assumed charge as the new Chief of Air Staff. An accomplished fighter pilot, he brings over 3,500 hours of flying experience across more than 20 aircraft types. This key leadership appointment signifies a change at the helm of the Indian Air Force, crucial for national defence strategies and operational readiness.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/air-chief-marshal-ashutosh-dixit-takes-charge-as-new-chief-of-air-staff-126103100759_1.html",
+            "category": "Defence",
+            "date": "2026-10-31T09:48:05Z"
+        },
+        {
+            "title": "Hundreds of residents evacuated from Russian-occupied city of Oleshky during humanitarian ceasefire brokered by US First Lady Melania Trump",
+            "summary": "Hundreds of residents were evacuated from the Russian-occupied city of Oleshky after a humanitarian ceasefire. Reportedly brokered by US First Lady Melania Trump, authorities from both sides confirmed the agreement. This truce facilitated critical humanitarian aid and safe passage for civilians, showcasing international mediation efforts in conflict zones.",
+            "url": "https://www.dailymail.com/news/article-16253555/Hundreds-residents-evacuated-Russian-occupied-city-Oleshky-humanitarian-ceasefire-brokered-US-Lady-Melania-Trump.html",
+            "category": "International",
+            "date": "2026-10-30T21:29:59Z"
         }
     ]
 }
