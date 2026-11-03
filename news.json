@@ -1,82 +1,96 @@
 {
-    "last_updated": "2026-11-02T14:33:56.065710+00:00",
+    "last_updated": "2026-11-03T00:22:40.094801+00:00",
     "articles": [
         {
-            "title": "Amazing fares!  Cheap full-service flights from Barcelona to Vietnam from \u20ac417",
-            "summary": "Shenzhen Airlines is offering an attractive long-haul flight deal to Hanoi or Ho Chi Minh City, Vietnam, priced at just 417 for a return journey. This full-service fare is highlighted as a rare opportunity, combining comfort and value for international travel. This news pertains to global connectivity and commercial aviation, important aspects for general awareness.",
-            "url": "https://www.fly4free.com/flight-deals/europe/flights-from-barcelona-to-vietnam-e417/",
+            "title": "Trump Is Dealing With a Different North Korea",
+            "summary": "Amidst various global conflicts during the Trump administration, the Korean Peninsula remained a critical foreign policy concern. The article likely analyzes renewed US focus or policy shifts towards North Korea, exploring diplomatic efforts and ongoing security challenges. This complex geopolitical dynamic is crucial for SSB aspirants to grasp for understanding international relations and strategic stability.",
+            "url": "https://original.antiwar.com/kyle_anzalone/2026/11/01/trump-is-dealing-with-a-different-north-korea/",
             "category": "International",
-            "date": "2026-11-01T14:00:30Z"
+            "date": "2026-11-02T00:00:15Z"
         },
         {
-            "title": "Patricia Brennan & Sylvie Courvoisier \u2013 Talamanti (2026)",
-            "summary": "The musical collaboration of Sylvie Courvoisier 4, featuring bassist Thomas Morgan and drummer Dan Weiss, commenced in early 2023. From its inception, the group displayed an inherent quality and strong artistic kinship. This new quartet immediately established a distinctive sound, promising significant contributions to the contemporary music scene, particularly within experimental jazz circles.",
-            "url": "https://exystence.net/blog/2026/11/01/patricia-brennan-sylvie-courvoisier-talamanti-2026/",
-            "category": "International",
-            "date": "2026-11-01T13:40:36Z"
-        },
-        {
-            "title": "Centre gives Nandan Nilekani-led exam reform panel more time, extends deadline to January 2027",
-            "summary": "The Centre has extended the deadline for the Nandan Nilekani-led task force on examination reforms to January 2027. This six-member panel now has additional time to complete comprehensive stakeholder consultations. The extension aims to ensure thorough recommendations for improving the national examination system, a crucial area impacting students and aspirants across various fields, including those aiming for SSB.",
-            "url": "https://economictimes.indiatimes.com/news/india/centre-gives-nandan-nilekani-led-exam-reform-panel-more-time-extends-deadline-to-january-2027/articleshow/135427537.cms",
+            "title": "Yankees head into free agency with heavy lifting to do \u2014 and one glaring hole to fill",
+            "summary": "The baseball industry is bracing for a lockout next month, stemming from years of underlying tensions. Despite this looming disruption, critical operations, including player free agency, have commenced. This development showcases how major national industries manage complex labor relations and economic transitions, providing a relevant case study for aspirants.",
+            "url": "https://nypost.com/2026/11/01/sports/yankees-head-into-free-agency-with-heavy-lifting-to-do-and-one-glaring-hole-to-fill/",
             "category": "National",
-            "date": "2026-11-01T12:38:59Z"
+            "date": "2026-11-01T23:17:37Z"
         },
         {
-            "title": "China\u2019s bluster meets an India that won\u2019t buckle",
-            "summary": "The article highlights an ironic twist in India's political fortunes since the 1962 era, likely referencing the Sino-Indian War. It observes that ideological successors of the critics from that period are now in power, while the political descendants of the then-ruling establishment face altered circumstances. This reflects how historical events continue to influence current national political narratives and power dynamics.",
-            "url": "https://www.livemint.com/opinion/columns/chinas-bluster-meets-an-india-that-won-t-buckle-adversary-misadventure-11793535351695.html",
-            "category": "National",
-            "date": "2026-11-01T12:34:31Z"
-        },
-        {
-            "title": "When Will Tesla Sell Its Flying Car? Musk Targets 2028 for Roadster, but the Rocket Version Faces Big Hurdles",
-            "summary": "Elon Musk has finally demonstrated Tesla's next-generation Roadster exhibiting an unprecedented capability: brief flight. After years of promises, a recent showing revealed the electric vehicle momentarily lifting off the ground. This ambitious feature aims to redefine performance standards for production cars and potentially revolutionize personal transportation, showcasing Tesla's advanced engineering in pushing automotive boundaries beyond conventional limits.",
-            "url": "https://www.ibtimes.com.au/tesla-flying-roadster-production-certification-1877656",
+            "title": "bounded-lognorm added to PyPI",
+            "summary": "A new 'bounded lognormal' continuous probability distribution has been introduced for `scipy.stats`. Derived from the standard lognormal distribution, this variant uniquely features both upper and lower bounds for its domain. This development in statistical modeling provides enhanced flexibility for data analysis, especially in fields requiring constrained probabilistic predictions, offering more precise analytical tools for various scientific and engineering applications.",
+            "url": "https://pypi.org/project/bounded-lognorm/",
             "category": "Sci & Tech",
-            "date": "2026-11-01T12:25:00Z"
+            "date": "2026-11-01T23:10:13Z"
         },
         {
-            "title": "Restoring sanctioned fighter fleet strength is foremost task: New Air Chief Marshal Ashutosh Dixit",
-            "summary": "Air Chief Marshal Ashutosh Dixit, the newly appointed Chief of Air Staff, has declared that his foremost task will be to restore the Indian Air Force's sanctioned fighter aircraft fleet strength. This strategic objective aims to enhance the IAF's operational capabilities and readiness, addressing current fleet requirements and ensuring national air defence superiority during his tenure, underscoring a commitment to bolstering aerial prowess.",
-            "url": "https://www.thehindubusinessline.com/news/restoring-sanctioned-fighter-fleet-strength-is-foremost-task-new-air-chief-marshal-ashutosh-dixit/article71652740.ece",
+            "title": "Man arrested after allegedly threatening people with a samurai sword at popular Sydney beach",
+            "summary": "A man has been arrested in Sydney, Australia, after allegedly threatening beachgoers with a samurai sword in the eastern suburb of Malabar over the weekend. Police were called to Bilga Crescent on Sunday afternoon following reports of the alarming incident. The swift police response led to the man's apprehension, ensuring the safety of those present and bringing a concerning situation at the beach under control.",
+            "url": "https://www.dailymail.com/news/article-16257243/little-bay-samurai-sword-beachgoers-man-charged.html",
+            "category": "International",
+            "date": "2026-11-01T22:51:48Z"
+        },
+        {
+            "title": "nessie-ontap-protocol 0.4.1",
+            "summary": "The provided text describes a common technical issue where a website component fails to load, potentially due to browser extensions, network problems, or incorrect browser settings. It advises users to troubleshoot by checking their internet connection, disabling ad blockers, or trying a different web browser. This guidance aims to help resolve display errors and ensure full functionality of online platforms.",
+            "url": "https://pypi.org/project/nessie-ontap-protocol/0.4.1/",
+            "category": "Sci & Tech",
+            "date": "2026-11-01T22:38:29Z"
+        },
+        {
+            "title": "nessie-ontap-protocol 0.4.0",
+            "summary": "A website encountered a critical loading failure, preventing a required part from displaying. This technical issue is likely due to browser extensions, network problems, or specific browser settings. Users are advised to troubleshoot by checking their internet connection, disabling ad blockers, or trying a different browser to restore functionality. This ensures uninterrupted access to site content.",
+            "url": "https://pypi.org/project/nessie-ontap-protocol/0.4.0/",
+            "category": "Sci & Tech",
+            "date": "2026-11-01T22:17:28Z"
+        },
+        {
+            "title": "Week 2 Aftermath: Anthony Edwards, Kawhi Leonard and others join the dreaded injury list",
+            "summary": "The second week of the NBA season brought further disappointment for fans and fantasy basketball players due to a continued surge in major player injuries. Following a challenging opening week, Week 2 saw additional key starters sidelined, notably affecting teams like Oklahoma City. This trend raises concerns about player welfare and team performance early in the professional basketball season.",
+            "url": "https://sports.yahoo.com/articles/week-2-aftermath-anthony-edwards-180000590.html",
+            "category": "National",
+            "date": "2026-11-01T18:00:00Z"
+        },
+        {
+            "title": "Written pledge a must for solar fence users in Angul",
+            "summary": "The news covers significant political developments, including the BJP's criticism of Rahul Gandhi regarding Priyanka Gandhi following the INDIA bloc's Ramlila Maidan rally. Additionally, a UK Labour minister is facing backlash for controversial remarks about employers not being working people. This highlights ongoing political scenarios impacting both national discourse in India and international political circles.",
+            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/written-pledge-a-must-for-solar-fence-users-in-angul/articleshow/135432426.cms",
+            "category": "International",
+            "date": "2026-11-01T16:35:36Z"
+        },
+        {
+            "title": "Indian Army's Biten Singh Breaks IRONMAN Goa Course Record",
+            "summary": "Indian Army athlete Biten Singh achieved a significant feat, shattering the course record at IRONMAN 70.3 Goa. His remarkable endurance and dedication were evident, especially following his rigorous training regimen in Tawang. This performance highlights the high physical standards and commitment within the Indian Armed Forces, setting a new benchmark in extreme endurance sports.",
+            "url": "https://www.rediff.com/sports/report/biten-singh-breaks-record-to-win-ironman-703-goa/20261101.htm",
             "category": "Defence",
-            "date": "2026-11-01T12:16:16Z"
+            "date": "2026-11-01T16:18:43Z"
         },
         {
-            "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-            "summary": "Russian strikes caused widespread power outages across Ukraine, impacting hundreds of thousands, according to President Zelenskiy. Concurrently, Russian authorities reported significant damage to an industrial site following Ukrainian actions. This development highlights the escalating nature of the conflict, with critical infrastructure remaining a key target, and underscores the ongoing humanitarian and strategic challenges faced by both nations.",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility/articleshow/135426819.cms",
+            "title": "Alex Padilla Set Up California with Dominion Voting Machines While Secretary of State, Now Senator Padilla Fights to Prevent Them from Being Examined",
+            "summary": "In California, 40 of 58 counties reportedly utilized the Dominion central vote-counting system by 2020. The article mentions efforts by Padilla to protect this election technology. This news highlights the critical importance of electoral infrastructure and ongoing debates surrounding election system integrity in the United States, a key aspect for understanding global democratic processes.",
+            "url": "https://joehoft.com/alex-padilla-set-up-california-dominion-voting-machines/",
             "category": "International",
-            "date": "2026-11-01T12:02:34Z"
+            "date": "2026-11-01T16:15:11Z"
         },
         {
-            "title": "St Thomas: the apostle, the missionary, the martyr, and the legend",
-            "summary": "The provided article text is heavily truncated, beginning with a reference to the biblical 'Letter to the Hebrews' and the concept of Christians being surrounded by a 'great cloud of witnesses.' While it introduces this foundational religious idea, the missing content makes it impossible to summarize the actual news story, its specific context, or its broader implications.",
-            "url": "https://www.christiantoday.com/news/st-thomas-the-apostle-the-missionary-the-martyr-and-the-legend",
+            "title": "18 missiles beneath the waves? China's mysterious submarine could give US Navy a Pacific nightmare",
+            "summary": "Concerns are rising over a mysterious new Chinese submarine, potentially armed with 18 missiles. This advanced vessel is perceived as a significant threat, capable of creating a 'Pacific nightmare' for the US Navy. Its emergence could drastically alter the naval power balance in the Pacific region, raising alarms for regional security and US strategic interests in maintaining maritime dominance.",
+            "url": "https://timesofindia.indiatimes.com/defence/international/18-missiles-beneath-the-waves-chinas-mysterious-submarine-could-give-us-navy-a-pacific-nightmare/articleshow/135431806.cms",
+            "category": "Defence",
+            "date": "2026-11-01T16:06:34Z"
+        },
+        {
+            "title": "Restoring fighter strength, accelerating Tejas & AMCA projects, boosting triservice synergy my top priorities: New IAF chief Ashutosh Dixit",
+            "summary": "New IAF Chief Ashutosh Dixit has outlined his top priorities for the Indian Air Force. These include restoring the fighter aircraft strength, accelerating crucial indigenous projects like the Tejas and Advanced Medium Combat Aircraft (AMCA), and enhancing triservice synergy. This strategic focus aims to bolster India's air defence capabilities and modernize the force.",
+            "url": "https://timesofindia.indiatimes.com/defence/news/restoring-fighter-strength-accelerating-tejas-amca-projects-boosting-triservice-synergy-my-top-priorities-new-iaf-chief-ashutosh-dixit/articleshow/135431712.cms",
+            "category": "Defence",
+            "date": "2026-11-01T15:59:32Z"
+        },
+        {
+            "title": "Big Bullet Train Plans Revealed! Delhi to Kanpur in 1 hr 45 mins, Lucknow 2 hr 12 mins, Varanasi 3 hrs 33 mins - Fares?",
+            "summary": "The Modi government has approved the 'Northern Corridor' of the bullet train project, a significant national infrastructure initiative. This high-speed rail will connect major cities including Delhi, Agra, Lucknow, Ayodhya, Varanasi, Prayagraj, Patna, and extend towards Siliguri. The project aims to revolutionize connectivity across northern and eastern India, drastically reducing travel times and fostering economic development along its extensive route.",
+            "url": "https://www.livemint.com/industry/infrastructure/big-bullet-train-plans-revealed-delhi-to-kanpur-in-1-hr-45-mins-lucknow-2-hr-12-mins-varanasi-3-hrs-33-mins-fares-11793528641202.html",
             "category": "National",
-            "date": "2026-11-01T11:27:00Z"
-        },
-        {
-            "title": "Delhi-Lucknow bullet train journey in 2 hours 12 minutes compared to 6 hours 25 minutes by Vande Bharat: What the Northern Corridor proposes",
-            "summary": "Railway Minister Ashwini Vaishnaw announced the proposed Northern Bullet Train Corridor, set to drastically cut travel time between Delhi and Lucknow to just 2 hours and 12 minutes. This ambitious infrastructure project highlights India's focus on modernizing its transport network, enhancing connectivity, and fostering economic growth, providing a vital boost to national development and efficient inter-city travel.",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-lucknow-bullet-train-journey-in-2-hours-12-minutes-compared-to-6-hours-25-minutes-by-vande-bharat-what-the-northern-corridor-proposes/articleshow/135419807.cms",
-            "category": "National",
-            "date": "2026-11-01T07:20:26Z"
-        },
-        {
-            "title": "krabby-hal-server-jetson 0.1.8",
-            "summary": "A critical website component failed to load, potentially impacting access to essential information. This technical disruption may stem from browser extensions like ad blockers, network connectivity issues, or specific browser settings. Users are advised to troubleshoot by verifying their internet connection, disabling ad blockers, or trying a different browser to ensure seamless access to online resources. This reflects common digital infrastructure challenges.",
-            "url": "https://pypi.org/project/krabby-hal-server-jetson/0.1.8/",
-            "category": "Sci & Tech",
-            "date": "2026-11-01T04:09:04Z"
-        },
-        {
-            "title": "India must build oil reserves, reduce energy imports amid global trade shocks: C Rangarajan",
-            "summary": "Former RBI Governor C Rangarajan emphasized India's need to adapt its development strategy. This proactive measure is crucial for bolstering national resilience against global disruptions, particularly the potential fallout from events like the blocking of the Strait of Hormuz. Such eventualities could severely impact India's energy security and trade, requiring robust contingency planning.",
-            "url": "https://www.thehindubusinessline.com/economy/india-must-build-oil-reserves-reduce-energy-imports-amid-global-trade-shocks-c-rangarajan/article71651648.ece",
-            "category": "National",
-            "date": "2026-11-01T00:22:20Z"
+            "date": "2026-11-01T10:37:23Z"
         }
     ]
 }
