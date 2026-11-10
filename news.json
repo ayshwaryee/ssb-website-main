@@ -1,68 +1,103 @@
 {
-    "last_updated": "2026-11-10T14:10:18.720478+00:00",
+    "last_updated": "2026-11-10T22:44:43.460163+00:00",
     "articles": [
         {
-            "title": "\u2018Half Nelson\u2019 at 20: How a $700,000 Indie Addiction Drama Earned Ryan Gosling His First Oscar Nod",
-            "summary": "Filmmaker Ryan Fleck humorously described his intense script development sessions with partner Anna Boden, likening their detailed discussions to 'plotting to build a bomb.' This vivid analogy highlights the meticulous and high-stakes nature of their collaborative creative process, underscoring their dedication to intricate storytelling in their projects.",
-            "url": "https://www.indiewire.com/features/interviews/half-nelson-at-20-how-ryan-gosling-earned-first-oscar-nod-1235226155/",
+            "title": "Buying arms faster",
+            "summary": "An indigenous LCA Tejas Mark-1A combat aircraft was observed at Hindustan Aeronautics Limited's (HAL) facility in Nashik, Maharashtra. This advanced variant represents a significant stride in bolstering India's self-reliance in defence manufacturing and air power capabilities. Its presence highlights ongoing progress in indigenous military aviation development, crucial for enhancing the nation's defence preparedness and technological prowess.",
+            "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/buying-arms-faster-126110400863_1.html",
             "category": "Defence",
-            "date": "2026-11-09T14:00:00Z"
+            "date": "2026-11-09T22:40:52Z"
         },
         {
-            "title": "Analyzing an Illegal Android Gambling App Built with Flutter",
-            "summary": "A medium-severity vulnerability is impacting Android users, leading to significant concerns. This flaw can cause geolocation and phone number leaks for end-users. Furthermore, it's being exploited for financial losses through gambling and addiction, highlighting critical cybersecurity risks. The issue may be related to platforms leveraging Flutter technology, emphasizing the need for robust mobile security.",
-            "url": "https://www.fortinet.com/blog/threat-research/analyzing-an-illegal-android-gambling-app-built-with-flutter",
+            "title": "An oceanic task",
+            "summary": "In February 2023, workers were seen installing the 2Africa undersea cable system on a beach in Amanzimtoti, South Africa. This ambitious project is poised to become the world's longest undersea cable, significantly enhancing global internet connectivity and telecommunications infrastructure across multiple continents, marking a major advancement in digital communication technology.",
+            "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/an-oceanic-task-126110400939_1.html",
             "category": "Sci & Tech",
-            "date": "2026-11-09T14:00:00Z"
+            "date": "2026-11-09T22:30:45Z"
+        },
+        {
+            "title": "DC in Flux: What Happens to James Gunn\u2019s Batman, Superman and Other Heroes After Shocking Exit?",
+            "summary": "James Gunn and Peter Safran have stepped down as CEOs and chairmen of DC Studios, causing significant uncertainty for the future of the DC cinematic universe. Their departure raises critical questions about the fate of beloved heroes and ongoing projects, leaving the franchise at a pivotal crossroads regarding its creative direction and overarching strategy within the highly competitive entertainment industry.",
+            "url": "https://variety.com/lists/james-gunn-exit-dc-batman-superman-wonder-woman/",
+            "category": "National",
+            "date": "2026-11-09T22:13:19Z"
+        },
+        {
+            "title": "Fantasy Football Waiver Wire: Justin Boone's top defenses to stream in Week 10",
+            "summary": "This article details Week 10 of the 2026 fantasy football season, marking the campaign's halfway point. With playoffs imminent, it focuses on critical lineup decisions and strategic player management. The content likely provides insights for fantasy league participants navigating the final matchups before postseason play begins, emphasizing strategic planning for success.",
+            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-justin-boones-top-defenses-to-stream-in-week-10-220322549.html",
+            "category": "National",
+            "date": "2026-11-09T22:03:22Z"
+        },
+        {
+            "title": "REBECCA GRANT: Jensen Huang owes America an apology, and Nvidia owes investors answers",
+            "summary": "Jensen Huang, CEO of tech giant Nvidia, reportedly fell victim to an espionage 'honeytrap,' described as an old spy trick. This incident highlights the vulnerability of even brilliant individuals to classic deception tactics. The involvement of a leading tech CEO suggests potential intelligence targeting of critical industry figures, emphasizing the need for heightened security awareness.",
+            "url": "https://www.foxnews.com/opinion/rebecca-grant-jensen-huang-owes-america-apology-nvidia-owes-investors-answers",
+            "category": "Sci & Tech",
+            "date": "2026-11-09T21:56:52Z"
+        },
+        {
+            "title": "EXCLUSIVE: There\u2019s A New America First Org On The Block, And It Wants To Make GOP Less Dusty",
+            "summary": "A new US Republican group is actively recruiting \"America First\" candidates, specifically targeting young voters, to replace established GOP lawmakers. This initiative, announced by the group's leaders, signals a strategic effort to refresh the Republican Party's image and leadership. It aims to inject new blood into the political landscape, appealing to a younger demographic with a nationalist platform, potentially reshaping US political dynamics.",
+            "url": "https://dailycaller.com/2026/11/09/american-ascent-ryan-neuhaus-gop-midterms-2026",
+            "category": "International",
+            "date": "2026-11-09T21:56:18Z"
+        },
+        {
+            "title": "Federal government budgets $12M for Justin Trudeau's archives",
+            "summary": "Canadian taxpayers may face a $12 million bill to process and manage former Prime Minister Justin Trudeau's records from his decade in office. This substantial cost, revealed in the recent federal budget, pertains to the extensive archival work required for governmental documents. The expenditure highlights the financial implications of preserving a former leader's official legacy.",
+            "url": "https://www.cbc.ca/news/politics/trudeau-harper-library-archives-9.7413258",
+            "category": "International",
+            "date": "2026-11-09T21:37:25Z"
+        },
+        {
+            "title": "Week 10 Fantasy Football Waiver Wire: Seth McGowan, Corey Kiner among top pickups",
+            "summary": "This article provides weekly fantasy sports analysis by Justin Boone, detailing recommended waiver-wire pickups and free-agent budget advice for online leagues. It focuses on player acquisition strategies and roster management using Yahoo league data, offering guidance for participants in recreational fantasy gaming.",
+            "url": "https://sports.yahoo.com/fantasy/article/week-10-fantasy-football-waiver-wire-seth-mcgowan-corey-kiner-among-top-pickups-190327664.html",
+            "category": "National",
+            "date": "2026-11-09T19:03:27Z"
         },
         {
             "title": "DRDO CEPTAM 11 Tier-2 result 2026 declared for Technician-A posts: Check direct links to download scorecards here",
-            "summary": "The Defence Research and Development Organisation (DRDO) has officially declared the CEPTAM 11 Tier-2 results for Technician-A posts for the year 2026. Candidates who appeared for this crucial examination can now access their scorecards through direct download links provided. This announcement marks a significant step for aspirants seeking to join the defence sector via DRDO's recruitment process.",
+            "summary": "The DRDO CEPTAM 11 Tier-2 results for Technician-A posts have been officially declared. Aspirants can now check and download their scorecards directly via provided links. This announcement is crucial for candidates who appeared for the examination, marking a significant step in their selection process for technical positions within the prestigious Defence Research and Development Organisation. Candidates are advised to access the official links promptly to view their scores.",
             "url": "https://timesofindia.indiatimes.com/education/news/drdo-ceptam-11-tier-2-result-2026-declared-for-technician-a-posts-check-direct-links-to-download-scorecards-here/articleshow/135683535.cms",
             "category": "Defence",
             "date": "2026-11-09T13:24:25Z"
         },
         {
-            "title": "Field, format, more: What fans need to know about the 2026 Charles Schwab Cup Championship",
-            "summary": "The PGA Tour Champions season concludes with its highly anticipated finale, the Charles Schwab Cup Championship. This prestigious event signifies the culmination of a rigorous 28-event 2026 season and a demanding three-tournament playoff. It will determine the ultimate champion of the senior professional golf tour, bringing together top athletes for the year's decisive contest.",
-            "url": "https://golfweek.usatoday.com/story/sports/golf/champions/2026/11/09/charles-schwab-cup-championship-2026-fan-guide-format-schedule/92627945007/",
-            "category": "International",
-            "date": "2026-11-09T13:01:16Z"
-        },
-        {
-            "title": "Indian Oil to buy tankers as shipping costs soar",
-            "summary": "Indian Oil Corporation (IOC), India's largest state-owned oil refiner, plans to acquire its own crude oil and cooking gas tankers. This strategic decision aims to counter surging freight costs, largely driven by ongoing Middle East conflicts. Owning a fleet will enhance supply chain security, reduce reliance on external shippers, and ensure stable energy supplies for the nation amidst global geopolitical instability.",
-            "url": "https://rt-english.com/india/648605-india-ioc-oil-tankers/",
-            "category": "National",
-            "date": "2026-11-09T12:56:07Z"
-        },
-        {
-            "title": "Bill Cosby Accuser Says She Hasn\u2019t Seen a DIME of Her $19.25 Million Judgement!",
-            "summary": "Disgraced comedian Bill Cosby faces potential jail time after Donna Motsinger, who won a $19.25 million sexual assault judgment against him, accused him of refusing to pay. Motsinger is asking a judge to compel payment, potentially leading to further legal repercussions for Cosby, whose prior sexual assault conviction was later overturned on a technicality, highlighting ongoing legal battles.",
-            "url": "https://mediatakeout.com/bill-cosby-accuser-says-she-hasnt-seen-a-dime-of-her-19-25-million-judgement/",
-            "category": "International",
-            "date": "2026-11-09T12:22:16Z"
-        },
-        {
-            "title": "Gang posing as Army suppliers dupe Assam firm of Rs 11.5 crore, key accused held in Bengal",
-            "summary": "This text outlines user interaction features for a news platform's comment section, enabling readers to share thoughts and react using specific tags like 'Insightful' or 'Big Development'. It also highlights the necessity of respectful engagement and adherence to community guidelines for fostering healthy online discussions. These functionalities aim to enrich user experience and gather diverse perspectives on published content.",
-            "url": "https://timesofindia.indiatimes.com/india/gang-posing-as-army-suppliers-dupe-assam-firm-of-rs-11-5-crore-key-accused-held-in-bengal/articleshow/135680893.cms",
+            "title": "bouba-sens added to PyPI",
+            "summary": "Hypneum Lab 2026's bouba_sens project is researching cross-modal plasticity in artificial neural systems. It investigates how a 5-modality agent, processing audio, vision, tactile, gravity, and force, reorganises itself. This benchmark study contributes to understanding adaptive AI, crucial for developing advanced autonomous systems that can dynamically adapt to new environments and challenges.",
+            "url": "https://pypi.org/project/bouba-sens/",
             "category": "Sci & Tech",
-            "date": "2026-11-09T12:03:02Z"
+            "date": "2026-11-09T10:17:44Z"
+        },
+        {
+            "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
+            "summary": "Cumberland Island, Georgia, an 18-mile barrier island on the Atlantic coast, showcases remarkable ecological diversity. It's home to wild horses, feral hogs, and deer, with a landscape encompassing salt marshes and forests. Such unique global ecosystems emphasize the importance of geographical awareness and environmental stewardship for SSB aspirants, reflecting international biodiversity.",
+            "url": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
+            "category": "International",
+            "date": "2026-11-09T10:00:00Z"
+        },
+        {
+            "title": "Hockey India Names Squad For New Zealand Tour",
+            "summary": "Olympic medallist Sanjay will captain a youthful Indian men's hockey team on a three-match tour of New Zealand from November 15-23. This significant international engagement celebrates a century of sporting ties between the nations, offering crucial experience for the emerging squad and showcasing India's sports diplomacy. The series will be a key development opportunity, fostering bilateral relations through sports.",
+            "url": "https://www.rediff.com/sports/report/sanjay-to-lead-indian-hockey-team-on-historic-new-zealand-tour/20261109.htm",
+            "category": "International",
+            "date": "2026-11-09T08:40:34Z"
         },
         {
             "title": "Work to save the Afghan capital\u2019s crumbling ancient fortress uncovers archaeological treasures",
-            "summary": "The ancient Bala Hissar fortress, overlooking Kabul, Afghanistan, has stood for centuries, enduring countless invasions, uprisings, and conflicts that have scarred the nation. This imposing structure symbolizes Afghanistan's tumultuous yet resilient history, serving as a powerful testament to the country's enduring spirit amidst epochs of war and change, an unbreakable landmark in a turbulent land.",
+            "summary": "The Bala Hissar fortress in Kabul, Afghanistan, stands as a powerful testament to centuries of resilience, enduring countless invasions and conflicts. Perched above the old city, this imposing structure reflects Afghanistan's turbulent history and enduring spirit amidst persistent strife and uprisings. It serves as a significant national landmark.",
             "url": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
-            "category": "International",
+            "category": "National",
             "date": "2026-11-09T07:42:34Z"
         },
         {
-            "title": "git4subeditor 0.1.20",
-            "summary": "A critical website component failed to load for users, attributed potentially to browser extensions, network disruptions, or individual browser settings. Aspirants experiencing this issue are advised to check their internet connection, disable any ad blockers, or attempt accessing the site via an alternative browser to resolve the display issue and restore full functionality. This technical glitch impacts user experience.",
-            "url": "https://pypi.org/project/git4subeditor/0.1.20/",
-            "category": "Sci & Tech",
-            "date": "2026-11-08T15:14:41Z"
+            "title": "5 insightful analyst questions from Murphy Oil\u2019s Q3 2026 earnings call",
+            "summary": "Murphy Oil announced a strong third-quarter performance, marked by substantial progress across multiple fronts that generated a positive market reaction. Management attributed this success to robust execution in advancing new offshore production projects. This highlights the company's operational efficiency and strategic prowess in its energy sector endeavors, signaling a healthy financial trajectory for the firm.",
+            "url": "https://biztoc.com/x/44b5f212fd07b104",
+            "category": "International",
+            "date": "2026-11-09T05:56:12Z"
         }
     ]
 }
