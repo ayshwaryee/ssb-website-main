@@ -1,12 +1,68 @@
 {
-    "last_updated": "2026-11-10T01:04:59.157619+00:00",
+    "last_updated": "2026-11-10T14:10:18.720478+00:00",
     "articles": [
         {
-            "title": "France\u2019s vision for the warship of 2040 packs lasers, railguns and drones",
-            "summary": "French shipbuilder Naval Group has unveiled the SCX 26, a groundbreaking warship concept for the 2040s. This futuristic design features a distinctive double superstructure and incorporates advanced energy weapons and cutting-edge technology. It offers SSB aspirants a glimpse into the evolving naval warfare landscape and the sophisticated capabilities future warships will possess, highlighting significant advancements in maritime defence. This concept underscores the continuous innovation in naval architecture.",
-            "url": "https://newatlas.com/military/naval-group-super-warship-2040-concept/",
+            "title": "\u2018Half Nelson\u2019 at 20: How a $700,000 Indie Addiction Drama Earned Ryan Gosling His First Oscar Nod",
+            "summary": "Filmmaker Ryan Fleck humorously described his intense script development sessions with partner Anna Boden, likening their detailed discussions to 'plotting to build a bomb.' This vivid analogy highlights the meticulous and high-stakes nature of their collaborative creative process, underscoring their dedication to intricate storytelling in their projects.",
+            "url": "https://www.indiewire.com/features/interviews/half-nelson-at-20-how-ryan-gosling-earned-first-oscar-nod-1235226155/",
             "category": "Defence",
-            "date": "2026-11-09T00:03:00Z"
+            "date": "2026-11-09T14:00:00Z"
+        },
+        {
+            "title": "Analyzing an Illegal Android Gambling App Built with Flutter",
+            "summary": "A medium-severity vulnerability is impacting Android users, leading to significant concerns. This flaw can cause geolocation and phone number leaks for end-users. Furthermore, it's being exploited for financial losses through gambling and addiction, highlighting critical cybersecurity risks. The issue may be related to platforms leveraging Flutter technology, emphasizing the need for robust mobile security.",
+            "url": "https://www.fortinet.com/blog/threat-research/analyzing-an-illegal-android-gambling-app-built-with-flutter",
+            "category": "Sci & Tech",
+            "date": "2026-11-09T14:00:00Z"
+        },
+        {
+            "title": "DRDO CEPTAM 11 Tier-2 result 2026 declared for Technician-A posts: Check direct links to download scorecards here",
+            "summary": "The Defence Research and Development Organisation (DRDO) has officially declared the CEPTAM 11 Tier-2 results for Technician-A posts for the year 2026. Candidates who appeared for this crucial examination can now access their scorecards through direct download links provided. This announcement marks a significant step for aspirants seeking to join the defence sector via DRDO's recruitment process.",
+            "url": "https://timesofindia.indiatimes.com/education/news/drdo-ceptam-11-tier-2-result-2026-declared-for-technician-a-posts-check-direct-links-to-download-scorecards-here/articleshow/135683535.cms",
+            "category": "Defence",
+            "date": "2026-11-09T13:24:25Z"
+        },
+        {
+            "title": "Field, format, more: What fans need to know about the 2026 Charles Schwab Cup Championship",
+            "summary": "The PGA Tour Champions season concludes with its highly anticipated finale, the Charles Schwab Cup Championship. This prestigious event signifies the culmination of a rigorous 28-event 2026 season and a demanding three-tournament playoff. It will determine the ultimate champion of the senior professional golf tour, bringing together top athletes for the year's decisive contest.",
+            "url": "https://golfweek.usatoday.com/story/sports/golf/champions/2026/11/09/charles-schwab-cup-championship-2026-fan-guide-format-schedule/92627945007/",
+            "category": "International",
+            "date": "2026-11-09T13:01:16Z"
+        },
+        {
+            "title": "Indian Oil to buy tankers as shipping costs soar",
+            "summary": "Indian Oil Corporation (IOC), India's largest state-owned oil refiner, plans to acquire its own crude oil and cooking gas tankers. This strategic decision aims to counter surging freight costs, largely driven by ongoing Middle East conflicts. Owning a fleet will enhance supply chain security, reduce reliance on external shippers, and ensure stable energy supplies for the nation amidst global geopolitical instability.",
+            "url": "https://rt-english.com/india/648605-india-ioc-oil-tankers/",
+            "category": "National",
+            "date": "2026-11-09T12:56:07Z"
+        },
+        {
+            "title": "Bill Cosby Accuser Says She Hasn\u2019t Seen a DIME of Her $19.25 Million Judgement!",
+            "summary": "Disgraced comedian Bill Cosby faces potential jail time after Donna Motsinger, who won a $19.25 million sexual assault judgment against him, accused him of refusing to pay. Motsinger is asking a judge to compel payment, potentially leading to further legal repercussions for Cosby, whose prior sexual assault conviction was later overturned on a technicality, highlighting ongoing legal battles.",
+            "url": "https://mediatakeout.com/bill-cosby-accuser-says-she-hasnt-seen-a-dime-of-her-19-25-million-judgement/",
+            "category": "International",
+            "date": "2026-11-09T12:22:16Z"
+        },
+        {
+            "title": "Gang posing as Army suppliers dupe Assam firm of Rs 11.5 crore, key accused held in Bengal",
+            "summary": "This text outlines user interaction features for a news platform's comment section, enabling readers to share thoughts and react using specific tags like 'Insightful' or 'Big Development'. It also highlights the necessity of respectful engagement and adherence to community guidelines for fostering healthy online discussions. These functionalities aim to enrich user experience and gather diverse perspectives on published content.",
+            "url": "https://timesofindia.indiatimes.com/india/gang-posing-as-army-suppliers-dupe-assam-firm-of-rs-11-5-crore-key-accused-held-in-bengal/articleshow/135680893.cms",
+            "category": "Sci & Tech",
+            "date": "2026-11-09T12:03:02Z"
+        },
+        {
+            "title": "Work to save the Afghan capital\u2019s crumbling ancient fortress uncovers archaeological treasures",
+            "summary": "The ancient Bala Hissar fortress, overlooking Kabul, Afghanistan, has stood for centuries, enduring countless invasions, uprisings, and conflicts that have scarred the nation. This imposing structure symbolizes Afghanistan's tumultuous yet resilient history, serving as a powerful testament to the country's enduring spirit amidst epochs of war and change, an unbreakable landmark in a turbulent land.",
+            "url": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
+            "category": "International",
+            "date": "2026-11-09T07:42:34Z"
+        },
+        {
+            "title": "git4subeditor 0.1.20",
+            "summary": "A critical website component failed to load for users, attributed potentially to browser extensions, network disruptions, or individual browser settings. Aspirants experiencing this issue are advised to check their internet connection, disable any ad blockers, or attempt accessing the site via an alternative browser to resolve the display issue and restore full functionality. This technical glitch impacts user experience.",
+            "url": "https://pypi.org/project/git4subeditor/0.1.20/",
+            "category": "Sci & Tech",
+            "date": "2026-11-08T15:14:41Z"
         }
     ]
 }
