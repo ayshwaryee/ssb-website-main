@@ -1,26 +1,159 @@
 {
-    "last_updated": "2026-11-12T06:01:35.924650+00:00",
+    "last_updated": "2026-11-12T19:26:56.713368+00:00",
     "articles": [
         {
-            "title": "HBO\u2019s Lanterns Will Not Get a Season 2 Amidst DCU Shakeup",
-            "summary": "HBO's 'Lanterns' series is reportedly facing cancellation, with its fate appearing sealed amidst significant leadership changes at DC Studios. This follows the departure of key figures like James Gunn and Peter Safran, ending weeks of speculation. The decision reflects a strategic shift within the global entertainment giant, impacting future content development and the broader DC universe's direction.",
-            "url": "http://comicbook.com/tv-shows/news/hbos-lanterns-will-not-get-a-season-2-amidst-dcu-shakeup/",
-            "category": "International",
-            "date": "2026-11-11T02:17:31Z"
-        },
-        {
-            "title": "UPDATE #2: Lanterns Showrunner On DCU Shakeup And Season 2 Status: \"We Thought Everything Had Settled\"",
-            "summary": "WBD has clarified the status of the series 'Lanterns,' confirming it has not been cancelled. Instead, the show is currently awaiting renewal, suggesting its future remains uncertain but active. This update follows previous reports and indicates that an official announcement regarding the series' continuation or conclusion might be imminent, providing clarity to fans and stakeholders alike.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/update-2-lanterns-showrunner-on-dcu-shakeup-and-season-2-status-we-thought-everything-had-settled-a230907",
-            "category": "International",
-            "date": "2026-11-11T00:12:00Z"
-        },
-        {
-            "title": "Woman harassed on train, assaulted at station; passenger held",
-            "summary": "Recent national news reports include a shocking incident in Khammam where a teen was poisoned for witnessing a minor friend with a married woman. In a separate law and order event, a Sub-Inspector faced a sickle attack, leading to one arrest and ongoing pursuit for three others. Furthermore, a road cave-in occurred in Nesapakkam, though fortunately, no pipeline damage was reported.",
-            "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/woman-harassed-on-train-assaulted-at-station-passenger-held/articleshow/135718915.cms",
+            "title": "HAROLD AND MAUDE 4K Review: Radical Joy, Taboo Love",
+            "summary": "The article discusses the significant American New Wave (New Hollywood) film era of the late 1960s and early 1970s. It acknowledges the challenge of picking a single favorite from the hundreds of influential movies produced, hinting at an upcoming discussion about a specific film that defined this pivotal period in national cinematic history.",
+            "url": "https://screenanarchy.com/2026/11/harold-and-maude-4k-review-radical-joy-taboo-love.html",
             "category": "National",
-            "date": "2026-11-10T18:58:06Z"
+            "date": "2026-11-11T19:00:00Z"
+        },
+        {
+            "title": "Adam Savage Takes a Tour of the Magnificent Library of Congress in Washington, DC",
+            "summary": "Adam Savage of Tested recently visited Washington, DC, exploring the iconic Thomas Jefferson Building at the Library of Congress. This visit highlights a prominent personality engaging with one of the world's largest and most significant cultural institutions, offering an insight into its grandeur. The event potentially covered aspects of history, architecture, or preservation.",
+            "url": "https://laughingsquid.com/adam-savage-library-of-congress/",
+            "category": "National",
+            "date": "2026-11-11T18:42:18Z"
+        },
+        {
+            "title": "James Gunn Has Left The DCU A Mess \u2014 These Are The Problems Jeremy Latcham Needs To Solve",
+            "summary": "The DCU franchise faces an uncertain future following significant leadership changes at DC Studios. James Gunn and Peter Safran are out as co-CEOs, with Jeremy Latcham stepping in. This major restructuring signals a new direction for the comic book cinematic universe, potentially impacting its creative vision and upcoming projects for fans globally.",
+            "url": "https://comicbookmovie.com/dc-studios/james-gunn-has-left-the-dcu-a-mess-these-are-the-problems-jeremy-latcham-needs-to-solve-a230899",
+            "category": "National",
+            "date": "2026-11-11T18:31:00Z"
+        },
+        {
+            "title": "Yankees\u2019 James Rowson expected to be named the Giants\u2019 Offensive Coordinator",
+            "summary": "Reports confirm the San Francisco Giants baseball team is expected to hire James Rowson, the current hitting coach for the New York Yankees. This strategic personnel move, reported by prominent sports journalists, aims to bolster the Giants' offensive group. Such coaching acquisitions are common in professional sports, reflecting teams' ongoing efforts to enhance performance and competitive standing within their respective leagues nationwide.",
+            "url": "https://www.mccoveychronicles.com/san-francisco-giants-news/112798/yankees-james-rowson-expected-to-be-named-the-sf-giants-offensive-coordinator",
+            "category": "National",
+            "date": "2026-11-11T18:20:14Z"
+        },
+        {
+            "title": "Ireland fears undersea cables face growing threat from \u2018malign actors\u2019",
+            "summary": "Subsea cables are vital global infrastructure, traversing ocean floors to connect continents. They transmit nearly all digital data, from daily communications to trillions in financial transactions. This highlights the world's immense technological reliance on these unseen networks for global connectivity and economic stability. Their strategic importance necessitates robust security and maintenance, a key aspect for national and international interests.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors",
+            "category": "Sci & Tech",
+            "date": "2026-11-11T18:19:09Z"
+        },
+        {
+            "title": "Yankees\u2019 staff keeps thinning as hitting coach James Rowson leaves for Giants",
+            "summary": "James Rowson, the Yankees' hitting coach, has departed to join the Giants' coaching staff. His contract with the Yankees had expired, and the organization was reportedly considering other options for the position. Rowson made the proactive move to secure a new role, marking a notable coaching change in Major League Baseball ahead of the upcoming season.",
+            "url": "https://nypost.com/2026/11/11/sports/yankees-staff-keeps-thinning-as-hitting-coach-james-rowson-leaves-for-giants/",
+            "category": "National",
+            "date": "2026-11-11T17:00:04Z"
+        },
+        {
+            "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+            "summary": "Jane Street's systems team faced an intense incident when a false smoke alarm at their datacenter triggered a cooling system failure. To prevent catastrophic water damage from imminent sprinklers, the team executed a rapid shutdown, manually pulling power cords from all equipment. This 'war story' underscores critical incident response and infrastructure management challenges in high-stakes technological environments, demanding quick decision-making under pressure.",
+            "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+            "category": "Sci & Tech",
+            "date": "2026-11-11T16:38:44Z"
+        },
+        {
+            "title": "UK Launches \u2018Atlantic Net\u2019 to Track Russian Submarines and Protect Undersea Cables",
+            "summary": "The UK is investing \u00a390 million in autonomous underwater systems, advanced sensors, and Artificial Intelligence to significantly enhance the Royal Navy's capability. This strategic move aims to improve the detection and tracking of Russian submarines, bolstering national security and maritime defence. It underscores a focus on advanced technology for future naval operations and preparedness.",
+            "url": "https://gcaptain.com/uk-launches-atlantic-net-to-track-russian-submarines-and-protect-undersea-cables/",
+            "category": "Defence",
+            "date": "2026-11-11T16:25:50Z"
+        },
+        {
+            "title": "Yankees working through very important internal issue",
+            "summary": "Yankees owner Hal Steinbrenner publicly blamed the club's hitters for their failure to win the AL East division and their second-round playoff elimination. This statement by Steinbrenner indicates internal dissatisfaction with player performance within the prestigious baseball franchise, despite having star players like three-time MVP Aaron Judge on the roster, sparking discussions on accountability.",
+            "url": "https://www.nj.com/yankees/2026/11/yankees-working-through-very-important-internal-issue.html",
+            "category": "International",
+            "date": "2026-11-11T16:03:41Z"
+        },
+        {
+            "title": "Russia says military-to-military contacts with Britain are possible if London reaches out",
+            "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova stated that Russia's Defence Ministry is open to discussions with its British counterpart, provided London initiates contact. This signals Moscow's readiness to re-establish communication channels with the UK's defence establishment. The offer presents a potential avenue for bilateral dialogue and managing tensions, contingent on Britain making the first move towards engagement.",
+            "url": "https://economictimes.indiatimes.com/news/defence/russia-says-military-to-military-contacts-with-britain-are-possible-if-london-reaches-out/articleshow/135741680.cms",
+            "category": "Defence",
+            "date": "2026-11-11T15:06:48Z"
+        },
+        {
+            "title": "Week 10 IDP fantasy football rankings: Nakobe Dean, Arvell Reese lead big risers",
+            "summary": "Las Vegas Raiders linebacker Nakobe Dean has topped Week 10 individual defensive player fantasy football rankings. This rise follows his outstanding 18-tackle performance, despite his team's 38-17 road loss against the San Francisco 49ers. This highlights a player's significant individual contribution even in a team defeat, offering a lesson in resilience and individual effort.",
+            "url": "https://www.thebiglead.com/week-10-idp-fantasy-football-rankings-nakobe-dean-arvell-reese-myles-garrett-will-anderson-kendal-daniels/",
+            "category": "National",
+            "date": "2026-11-11T11:44:15Z"
+        },
+        {
+            "title": "4 Wisconsin high school football coaches offer their magic fixes",
+            "summary": "Ahead of the WIAA state championship games, an article sought insights from four head coaches on high school football coaching in the 2020s. The discussion likely covered evolving strategies, challenges, and player development at the grassroots level, offering perspectives on modern athletic training within a national educational sports framework in the US.",
+            "url": "https://www.jsonline.com/story/sports/high-school/2026/11/11/4-wisconsin-football-coaches-offer-high-school-magic-improvements/92635870007/",
+            "category": "National",
+            "date": "2026-11-11T11:29:24Z"
+        },
+        {
+            "title": "Lanterns showrunner was shocked to hear about James Gunn's DC departure and thinks a season 2 is now a \"coin flip\"",
+            "summary": "James Gunn and Peter Safran have reportedly stepped down as co-CEOs of DC Studios. This significant leadership change casts uncertainty over the future of upcoming DCU titles, including major projects like 'Lanterns'. Aspirants should note how such executive shifts can impact large entertainment franchises, potentially affecting global production schedules and content releases.",
+            "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-showrunner-was-shocked-to-hear-about-james-gunns-dc-departure-and-thinks-a-season-2-is-now-a-coin-flip/",
+            "category": "International",
+            "date": "2026-11-11T11:08:54Z"
+        },
+        {
+            "title": "ASK IRA: Should Heat have needed to risk Giannis\u2019 wrist against shorthanded Jazz?",
+            "summary": "A reader questioned the decision to potentially play basketball star Giannis Antetokounmpo despite a significant wrist sprain, especially after his 'questionable' status. The inquiry raised concerns regarding athlete welfare versus team pressure to perform, sparking a discussion about the implications of pushing injured players. This scenario often highlights the complex balance between player health and competitive demands in international professional sports.",
+            "url": "https://www.sun-sentinel.com/2026/11/11/ask-ira-did-heat-need-to-risk-giannis-wrist-against-shorthanded-jazz/",
+            "category": "International",
+            "date": "2026-11-11T11:05:00Z"
+        },
+        {
+            "title": "Somaya's Stolen Olympic Gold Medal Found By Bengaluru Police",
+            "summary": "Bengaluru Police have successfully recovered the 1980 Olympic gold medal belonging to former India hockey captain M M Somaya, along with other cherished valuables. This diligent effort by the police in Bengaluru brings immense joy and relief to Somaya and the nation, highlighting effective law enforcement in addressing such high-profile cases of theft.",
+            "url": "https://www.rediff.com/sports/report/m-m-somaya-thanks-bengaluru-police-for-recovering-stolen-olympic-gold/20261111.htm",
+            "category": "National",
+            "date": "2026-11-11T11:04:08Z"
+        },
+        {
+            "title": "'It was an adventure': 100-year-old navy veteran reflects on WWII",
+            "summary": "100-year-old Second World War veteran, Bill Jepps, showcases remarkable independence and resilience. Living autonomously in his own house, he drives his car, cooks his food, and enjoys playing crib. His inspiring story highlights an incredibly active lifestyle and enduring vitality, reflecting the unwavering spirit often associated with service personnel, even a century after his birth.",
+            "url": "https://www.cbc.ca/news/canada/calgary/remembrance-day-wwii-veteran-didsbury-bill-jepp-9.7417467",
+            "category": "Defence",
+            "date": "2026-11-11T11:00:00Z"
+        },
+        {
+            "title": "German military to stop using Chinese-made drones, citing security concerns",
+            "summary": "Germany's military has announced it will cease using Chinese-made drones due to escalating security concerns prevalent among Western militaries. A defence ministry spokesperson confirmed the decision, highlighting widespread worries that such equipment could pose significant security risks. This move reflects a broader trend among NATO allies to scrutinize and potentially restrict reliance on technology from certain foreign suppliers, especially concerning critical defence infrastructure.",
+            "url": "https://economictimes.indiatimes.com/news/defence/german-military-to-stop-using-chinese-made-drones-citing-security-concerns/articleshow/135734322.cms",
+            "category": "Defence",
+            "date": "2026-11-11T10:51:47Z"
+        },
+        {
+            "title": "A German submarine that sank off Denmark in 1917 still holds over 4,400 pounds of TNT; scientists find explosive leaking into North Sea",
+            "summary": "Scientists have discovered that a German submarine, sunk off Denmark in 1917, still contains over 4,400 pounds of TNT. This explosive is now leaking into the North Sea, posing an environmental risk. The finding highlights long-term dangers from historical wrecks and underscores the critical need for monitoring their ecological impact, particularly on marine life such as mussels.",
+            "url": "https://timesofindia.indiatimes.com/science/discovery/a-german-submarine-that-sank-off-denmark-in-1917-still-holds-over-4400-pounds-of-tnt-scientists-find-explosive-leaking-into-north-sea-after-mussels-caged-on-wreck-absorb-contamination/articleshow/135732588.cms",
+            "category": "Sci & Tech",
+            "date": "2026-11-11T10:36:44Z"
+        },
+        {
+            "title": "Green Bay Notre Dame star Kingston Allen chases state history",
+            "summary": "Kingston Allen, the exceptional Green Bay Notre Dame running back, is nearing the end of his high school football career within the next two weeks. He is lauded as a generational talent, unlikely to be seen again in the area. This event marks the conclusion of a significant athletic chapter for a standout player in local high school sports.",
+            "url": "https://www.greenbaypressgazette.com/story/sports/high-school/football/2026/11/11/kingston-allen-nears-state-high-school-rushing-record/92713717007/",
+            "category": "National",
+            "date": "2026-11-11T10:33:32Z"
+        },
+        {
+            "title": "This Vampire Movie Still Has Its Charm 32 Years Later (And Its Acclaimed TV Series Can\u2019t Replace It)",
+            "summary": "Traditionally tied to horror, vampire movies, exemplified by films like Nosferatu, have significantly evolved. Filmmakers now explore diverse genres beyond dark tales, moving from classic scares to various thematic interpretations and narrative styles. This creative expansion reflects a broader cinematic shift over years, redefining the perception and scope of vampire narratives globally.",
+            "url": "http://comicbook.com/movies/feature/this-vampire-movie-still-has-its-charm-32-years-later-and-its-acclaimed-tv-series-cant-replace-it/",
+            "category": "International",
+            "date": "2026-11-11T10:16:00Z"
+        },
+        {
+            "title": "Germany bans Chinese drones from military training, opts for European alternatives",
+            "summary": "A Pakistan court has formally framed charges against eight individuals, notably including the grandson of Deputy Prime Minister Ishaq Dar, in connection with an alleged gang-related case. This development marks a significant legal step, initiating formal judicial proceedings against the accused in Pakistan, highlighting ongoing legal accountability within the nation.",
+            "url": "https://timesofindia.indiatimes.com/world/europe/germany-bans-chinese-drones-from-military-training-opts-for-european-alternatives/articleshow/135733195.cms",
+            "category": "International",
+            "date": "2026-11-11T10:13:57Z"
+        },
+        {
+            "title": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish",
+            "summary": "This text is a standard legal disclaimer commonly used by websites, particularly those hosting user-generated content. It clearly states that the platform bears no responsibility for comments posted by users, explicitly assigning ownership and all associated liability to the original authors. This practice is crucial for websites to mitigate legal risks associated with third-party content, reflecting general principles of online platform accountability.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186687372",
+            "category": "Sci & Tech",
+            "date": "2026-11-11T10:12:36Z"
         }
     ]
 }
