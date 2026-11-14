@@ -1,82 +1,40 @@
 {
-    "last_updated": "2026-11-13T23:09:28.809066+00:00",
+    "last_updated": "2026-11-14T04:38:41.563051+00:00",
     "articles": [
         {
-            "title": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
-            "summary": "The iconic Macy's Thanksgiving Day Parade is an annual spectacle in the United States, delighting millions every November. Featuring elaborate floats, giant balloons, and live performances, this cultural event precedes the traditional Thanksgiving meal. It serves as a significant festive highlight, showcasing American tradition and entertainment on a massive scale.",
-            "url": "https://www.mentalfloss.com/holidays/thanksgiving/macys-thanksgiving-day-parade-balloons-by-decade",
-            "category": "International",
-            "date": "2026-11-12T23:00:01Z"
+            "title": "China stages massive, unannounced military drills around Taiwan in 'silent intimidation'",
+            "summary": "China conducted a large, unannounced military exercise across the western Pacific and around Taiwan in early November. Taipei officials described this as a \"silent invasion\" campaign, highlighting China's assertive military posture and strategy to pressure the island. This significant drill underscores escalating regional tensions and raises concerns about stability in the Indo-Pacific.",
+            "url": "https://economictimes.indiatimes.com/news/defence/china-stages-massive-unannounced-military-drills-around-taiwan-in-silent-intimidation/articleshow/135789361.cms",
+            "category": "Defence",
+            "date": "2026-11-13T04:32:04Z"
+        },
+        {
+            "title": "David Ellison Wants Robert Pattinson\u2019s Batman to Join the DCU Justice League, But There\u2019s a Catch",
+            "summary": "Amidst a significant regime change in the DC Universe (DCU), David Ellison reportedly seeks to retain Robert Pattinson for future projects. A new leadership is planning major changes for the DCU, following the removal of James Gunn from a prior position. This signals an overhaul in creative direction, impacting key actors and the franchise's future, potentially reshaping its global presence.",
+            "url": "http://comicbook.com/movies/news/david-ellison-wants-robert-pattinsons-batman-to-join-the-dcu-justice-league-but-theres-a-catch/",
+            "category": "National",
+            "date": "2026-11-13T03:50:21Z"
         },
         {
             "title": "Emmylou Harris, Sheryl Crow, Elvis Costello, More Celebrate Gram Parsons at the Troubadour",
-            "summary": "Psych-country pioneer Gram Parsons has been posthumously inducted into the Rock & Roll Hall of Fame, a recognition long awaited by fans and critics. His significant and lasting impact as a cult hero on music culture is being celebrated, acknowledging his influential contributions to the genre. This induction highlights the overdue appreciation for his pioneering artistry.",
+            "summary": "Psych-country pioneer Gram Parsons has finally been inducted into the Rock & Roll Hall of Fame, a long-awaited recognition for the influential cult hero. His lasting impact on music, characterized by his unique sound blending country, folk, and rock, is now formally acknowledged. This induction highlights his significant contributions and enduring inspiration for artists across various genres, decades after his initial groundbreaking work.",
             "url": "http://www.rollingstone.com/music/music-live-reviews/gram-parsons-tribute-emmylou-harris-sheryl-crow-perform-1235656742/",
             "category": "National",
             "date": "2026-11-12T22:15:53Z"
         },
         {
-            "title": "The Outlook - Week 10 (JAC-TEN, MIN-GB, CAR-NO, BUF-NYJ)",
-            "summary": "This news outlines the release of the second block of early games for Week 10 of the National Football League (NFL) season. The report covers the remaining early fixtures, confirming that comprehensive details regarding these matches have been compiled and are now available. It serves as an update for fans tracking the professional American football league's schedule.",
-            "url": "https://www.thehuddle.com/story/sports/fantasy/football/inseason-advice/2026/11/12/the-outlook-week-10-matchups-page-2b/92747856007/",
-            "category": "National",
-            "date": "2026-11-12T21:10:34Z"
-        },
-        {
-            "title": "Marine Carbon Dioxide Removal: Promise, Risks, and the Path Forward",
-            "summary": "Climate change poses escalating global risks, with the ocean identified as a crucial climate ally. Its vital capacity to absorb environmental stressors must be protected to mitigate these impacts on humanity and nature. This perspective, emphasized by the U.S. Aquaculture Campaign, underscores the ocean's significant role in addressing the broader challenges of climate change and environmental sustainability.",
-            "url": "https://blogs.edf.org/edfish/2026/11/12/marine-carbon-dioxide-removal-promise-risks-and-the-path-forward/",
-            "category": "Sci & Tech",
-            "date": "2026-11-12T21:00:15Z"
-        },
-        {
-            "title": "NFL Week 10 games: Eagles rooting guide",
-            "summary": "The 2026 NFL season enters its tenth weekend, featuring a Philadelphia Eagles-focused rooting guide for all Week 10 games. Despite the guide, the Eagles themselves are on a bye this week and will not be competing. This update covers the ongoing national football league schedule for its enthusiast base.",
-            "url": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/190218/nfl-week-10-games-eagles-rooting-guide",
-            "category": "National",
-            "date": "2026-11-12T20:49:46Z"
-        },
-        {
-            "title": "llm-harness-lite added to PyPI",
-            "summary": "This article outlines a new lightweight software project, positioned as a local-first, vendor-neutral, and cost-aware alternative to frameworks like LangChain. Featuring a compact ~1k LOC core, it prioritizes readability and simplicity. Its architecture incorporates an LLM factory, agent loop, and tool registry, with Retrieval-Augmented Generation (RAG) integrated as a key capability, offering an efficient approach to AI development.",
-            "url": "https://pypi.org/project/llm-harness-lite/",
-            "category": "Sci & Tech",
-            "date": "2026-11-12T20:30:55Z"
-        },
-        {
             "title": "HC disposes of petitions against MK Yadava\u2019s tenure in forest dept",
-            "summary": "Russell Brand, the disgraced comedian, has reportedly moved his online presence to Elon Musk's X platform following a ban from Mark Zuckerberg's Meta platforms. This development underscores ongoing discussions about content moderation, freedom of speech, and the power of social media companies, as public figures navigate evolving digital landscapes and platform policies internationally.",
+            "summary": "Disgraced comedian Russell Brand has transitioned his online presence to Elon Musk's X (formerly Twitter) after being banned from Mark Zuckerberg's Meta platforms. This development highlights ongoing debates surrounding social media content moderation policies and platform governance. It exemplifies how public figures navigate digital spaces following disciplinary actions by major tech companies, choosing alternative platforms for engagement.",
             "url": "https://timesofindia.indiatimes.com/city/guwahati/hc-disposes-of-petitions-against-mk-yadavas-tenure-in-forest-dept/articleshow/135779436.cms",
             "category": "Sci & Tech",
             "date": "2026-11-12T17:45:08Z"
         },
         {
-            "title": "Chased by \u2018attackers\u2019, man jumps into Barak river, goes missing",
-            "summary": "Disgraced comedian Russell Brand has reportedly moved his social media activity to Elon Musk's X platform, following a ban from Mark Zuckerberg's Meta platforms. This highlights discussions around content moderation and choices for public figures on major tech platforms. Separately, entertainment news notes Ariana Grande and Ben Stiller are collaborating on a new 'Fockers Family' project.",
-            "url": "https://timesofindia.indiatimes.com/city/guwahati/chased-by-attackers-man-jumps-into-barak-river-goes-missing/articleshow/135779378.cms",
-            "category": "Sci & Tech",
-            "date": "2026-11-12T17:42:24Z"
-        },
-        {
             "title": "Dharwad hosts state Masters athletics meet",
-            "summary": "The Philippines is set to significantly bolster its defence capabilities by purchasing additional BrahMos cruise missiles and Akash air defence systems from India. This acquisition underscores deepening strategic ties and defence cooperation between the two nations, further solidifying India's position as a key defence exporter. The move likely aims to address evolving regional security challenges in Southeast Asia.",
+            "summary": "The Philippines is set to significantly boost its defence capabilities by acquiring additional BrahMos cruise missiles and Akash air defence systems from India. This procurement not only strengthens India's position as a prominent defence exporter but also deepens bilateral strategic ties. The deal highlights India's growing indigenous defence manufacturing prowess and its role in regional security, crucial for SSB aspirants to note.",
             "url": "https://timesofindia.indiatimes.com/city/hubballi/dharwad-hosts-state-masters-athletics-meet/articleshow/135778561.cms",
             "category": "Defence",
             "date": "2026-11-12T17:15:46Z"
-        },
-        {
-            "title": "Governor to attend VSKU convocation",
-            "summary": "The Philippines is set to significantly enhance its defence capabilities by acquiring additional BrahMos supersonic cruise missiles and Akash air defence missile systems from India. This procurement underscores strengthening India-Philippines defence cooperation and is a strategic move amidst escalating tensions with China in the South China Sea, aiming to reinforce regional security strategies and deter aggression.",
-            "url": "https://timesofindia.indiatimes.com/city/hubballi/governor-to-attend-vsku-convocation/articleshow/135778344.cms",
-            "category": "Defence",
-            "date": "2026-11-12T17:09:56Z"
-        },
-        {
-            "title": "Defence Secretary Wes Streeting speech at Atlantic Future Forum",
-            "summary": "A speaker commenced an address by expressing heartfelt thanks to 'Mark' for a generous introduction. The speaker further extended profound appreciation to the entire team for their dedicated work in organizing and producing the event. The brief excerpt focuses on initial acknowledgements of contributions, marking the beginning of a public speech or presentation without revealing the specific subject matter discussed thereafter.",
-            "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-speech-at-atlantic-future-forum",
-            "category": "National",
-            "date": "2026-11-12T16:06:27Z"
         }
     ]
 }
