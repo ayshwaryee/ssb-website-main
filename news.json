@@ -1,82 +1,47 @@
 {
-    "last_updated": "2026-11-14T21:54:23.414712+00:00",
+    "last_updated": "2026-11-15T04:28:28.821926+00:00",
     "articles": [
         {
-            "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
-            "summary": "OpenFold3-preview, an open-source biomolecular structure prediction tool, is now deployable via Amazon SageMaker JumpStart. Developed by the OpenFold Consortium and Columbia University's AlQuraishi Lab, this advancement facilitates research into complex molecular structures. Its accessibility through SageMaker makes advanced scientific computing more widely available, potentially accelerating discoveries in biology and medicine, crucial for future technological progress.",
-            "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
-            "category": "Sci & Tech",
-            "date": "2026-11-13T21:53:40Z"
+            "title": "Premier says Manitoba nearing limits of what it can do on affordability, so he's going after big corporations",
+            "summary": "Manitoba Premier Wab Kinew has stated that the provincial government is reaching its limits in alleviating the cost of living burden for residents. He highlighted the challenge of providing further relief without sacrificing crucial revenue essential for funding public services. This indicates a significant fiscal dilemma for the Canadian province, balancing economic support for citizens with the imperative of maintaining financial stability for public welfare programs.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904",
+            "category": "International",
+            "date": "2026-11-14T03:14:56Z"
         },
         {
-            "title": "No AI Slop: A Manifesto",
-            "summary": "This article, authored by AIE Code Summit 2026 participants, introduces the summit by referencing a foundational 2001 gathering. During this event, seventeen software engineers and leaders convened at a Snowbird, Utah, ski lodge. Their collective aim was to comprehensively understand and address the era's most significant challenges in their field, setting an important precedent for future innovations.",
-            "url": "https://slopmanifesto.com/",
-            "category": "Sci & Tech",
-            "date": "2026-11-13T19:51:56Z"
+            "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
+            "summary": "Alliance Defending Freedom (ADF), representing Female Athletes United, is defending Washington state's voter-approved girls' sports initiative. This legal action targets an ACLU-backed lawsuit seeking to overturn the measure. ADF argues the initiative is vital for preserving fair competition and equal opportunities for biological female athletes, underscoring a significant national debate on women's sports protection.",
+            "url": "https://www.foxnews.com/outkick-sports/adf-seeks-defend-washington-girls-sports-measure-argues-state-cannot-fully-represent-female-athletes",
+            "category": "National",
+            "date": "2026-11-14T02:12:14Z"
+        },
+        {
+            "title": "Catholic Caucus: Daily Mass Readings 13-November-2026",
+            "summary": "An ancient historical text recounts Jesus's departure from Galilee to Judaea beyond Jordan. It details how large multitudes followed him, and he performed various healing acts throughout the region. This passage describes significant events within ancient Judea, forming a foundational narrative for a major global religion.",
+            "url": "https://freerepublic.com/focus/f-religion/4402983/posts",
+            "category": "National",
+            "date": "2026-11-14T00:29:56Z"
+        },
+        {
+            "title": "Jamey Eisenberg's Week 10 Fantasy football sleepers and DFS picks: Jordyn Tyson a likely breakout candidate",
+            "summary": "Jordyn Tyson is poised for a breakout performance in Week 10 against the Carolina Panthers. Expectations are high that Kellen Moore will strategically feature Tyson in the game, leveraging a highly favorable matchup. This presents a significant opportunity for the player to make a substantial impact, potentially influencing the game's outcome against the Panthers.",
+            "url": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-2026-week-10-fantasy-football-sleepers/",
+            "category": "National",
+            "date": "2026-11-13T21:54:53Z"
         },
         {
             "title": "HC sets 4-wk deadline for defence ministry to decide on temple removal in Jhansi",
-            "summary": "The provided text is not a news article but rather a set of standard prompts for a website's comment section. It includes calls to 'View All Comments' and 'Share your thoughts', along with a reference to 'TOI community guidelines' for respectful interaction. This content outlines user engagement features of a platform, indicating a section for public discussion rather than presenting factual news for summarization.",
+            "summary": "This text serves as a prompt for website users, encouraging them to view all comments and actively participate by sharing their own thoughts. It strongly emphasizes the necessity of respectful interaction and strict adherence to the established TOI community guidelines to foster constructive online discussions. This is a standard feature for user engagement.",
             "url": "https://timesofindia.indiatimes.com/city/allahabad/hc-sets-4-wk-deadline-for-defence-ministry-to-decide-on-temple-removal-in-jhansi/articleshow/135815650.cms",
             "category": "Sci & Tech",
             "date": "2026-11-13T19:41:53Z"
         },
         {
-            "title": "Private Prison Co. Offers Empty Jail To State For $75 Million Before Selling It To Trump\u2019s ICE Rubes For Nearly $500 Million",
-            "summary": "This text is a common disclaimer found on websites, stating that the platform disclaims responsibility for user comments, asserting that the original posters own and are accountable for their content. Such legal stipulations are vital for digital platforms to manage liability concerning third-party contributions, reflecting key aspects of internet governance and content moderation practices in the digital age.",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186714524",
-            "category": "Sci & Tech",
-            "date": "2026-11-13T19:12:57Z"
-        },
-        {
-            "title": "Weekend Reading on Women\u2019s Representation: Record Wins in the Midterms, Historic Firsts and the Road to Gender Parity",
-            "summary": "This week saw significant feminist milestones in U.S. politics. Katie Britt made history as the first woman elected to the U.S. Senate representing Alabama in 2022. Concurrently, Sarah Huckabee Sanders became the first woman elected governor of Arkansas. These achievements highlight increasing female representation and leadership in high-level political offices across the United States.",
-            "url": "https://msmagazine.com/2026/11/13/weekend-reading-women-representation-2026-election-historic-firsts-gender-parity/",
-            "category": "International",
-            "date": "2026-11-13T19:00:51Z"
-        },
-        {
-            "title": "Fantasy Football Rankings: 5 most polarizing players for Week 10",
-            "summary": "A weekly column identifies five 'buzziest names' highlighted by Yahoo rankers. The author focuses on 'players' who generate significant disagreement, applying a specific methodology to select them. The aim is to analyze and discuss these individuals, fostering engagement among readers, though the subject matter appears to be entertainment or sports-related rankings.",
-            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-5-most-polarizing-players-for-week-10-184606726.html",
-            "category": "Sci & Tech",
-            "date": "2026-11-13T18:46:06Z"
-        },
-        {
             "title": "MyHeritage GAIA Experience #2 - Finding the Parents of Sarah (Fletcher) Kemp (1806-c1850)",
-            "summary": "An individual leveraged MyHeritage's GAIA (Genealogy Artificial Intelligence Agent) for the second time to trace the parents of an 'end-of-line' ancestor, Sarah. This initiative highlights the practical application of AI in genealogical research, enabling users to delve deeper into their family history. It demonstrates how advanced technology can efficiently connect missing ancestral links, showcasing AI's role in personal heritage discovery and historical research.",
+            "summary": "The article describes a user's second experience utilizing MyHeritage's GAIA (Genealogy Artificial Intelligence Agent). The user leveraged GAIA to find the parents of an \"end-of-line\" ancestor, Sarah. This highlights the practical application of AI in genealogical research, demonstrating how artificial intelligence tools are being employed to resolve complex family history mysteries and expand personal ancestral records efficiently.",
             "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/8537578846180488578",
             "category": "Sci & Tech",
             "date": "2026-11-13T17:07:00Z"
-        },
-        {
-            "title": "Sea Vigil-26 tests coastal security preparedness off Visakhapatnam coast",
-            "summary": "The provided text is not a news article but a standard prompt for website user engagement. It encourages readers to 'View All Comments', 'Share your thoughts', and adhere to 'TOI community guidelines' by being respectful. This content facilitates discussion around articles, rather than conveying factual news about specific domains like defence or international affairs.",
-            "url": "https://timesofindia.indiatimes.com/city/vijayawada/sea-vigil-26-tests-coastal-security-preparedness-off-visakhapatnam-coast/articleshow/135810532.cms",
-            "category": "National",
-            "date": "2026-11-13T16:44:50Z"
-        },
-        {
-            "title": "wf-sentinel added to PyPI",
-            "summary": "Winterforge is introduced as a new UI toolkit, with Sentinel designated as its core house theme, service identity, and web-component home. These elements are shipped together as one installable package, specifically under the wf-sentinel distribution. This development streamlines the framework by integrating user interface and service components into a unified system, enhancing efficiency and consistency in software design and deployment.",
-            "url": "https://pypi.org/project/wf-sentinel/",
-            "category": "Sci & Tech",
-            "date": "2026-11-13T15:58:37Z"
-        },
-        {
-            "title": "Emerald Knights Concept Art Reveals A Green Lantern vs. Manhunter Battle That's A Far Cry From Lanterns",
-            "summary": "Before DC Studios revealed its 'Lanterns' TV series, Warner Bros. was developing a separate Green Lantern-themed project called 'Emerald Knights'. This earlier initiative involved notable creators like Greg Berlanti, Marc Guggenheim, and Seth Grahame-Smith. The news highlights the evolving strategies and numerous projects in development for major superhero franchises within the entertainment sector.",
-            "url": "https://comicbookmovie.com/tv/dc/lanterns/emerald-knights-concept-art-reveals-a-green-lantern-vs-manhunter-battle-thats-a-far-cry-from-lanterns-a230979",
-            "category": "Sci & Tech",
-            "date": "2026-11-13T14:31:00Z"
-        },
-        {
-            "title": "LCA deliveries, order book to drive gains for Hindustan Aeronautics",
-            "summary": "Hindustan Aeronautics (HAL) projects the commencement of Tejas Mk1A fighter jet deliveries by March 2027. This promising timeline is attributed to improved supplies of critical GE engines and a robust order pipeline. Such developments bolster HAL's growth outlook and signify crucial progress in India's indigenous defence manufacturing capabilities, enhancing the Indian Air Force's operational strength.",
-            "url": "https://www.business-standard.com/markets/news/lca-deliveries-order-book-to-drive-gains-for-hindustan-aeronautics-126111301345_1.html",
-            "category": "Defence",
-            "date": "2026-11-13T12:37:36Z"
         }
     ]
 }
