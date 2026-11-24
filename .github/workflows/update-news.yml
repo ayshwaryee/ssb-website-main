@@ -2,7 +2,7 @@ name: Update Current Affairs News
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: '0 */12   * * *' # Runs every 12 hours (00:00 and 12:00 UTC)
   workflow_dispatch:      # Allows manual run
 
 permissions:
@@ -21,9 +21,9 @@ jobs:
 
       # 2. Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: "3.12"
 
       # 3. Install dependencies
       - name: Install dependencies
