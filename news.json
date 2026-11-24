@@ -1,75 +1,68 @@
 {
-    "last_updated": "2026-11-16T04:25:31.162288+00:00",
+    "last_updated": "2026-11-24T11:12:22.908723+00:00",
     "articles": [
         {
-            "title": "Ireland too strong for spirited Fijians",
-            "summary": "Ireland secured a dominant victory over Fiji with a final score of 43-15 in a rugby encounter. The Irish team showcased strong offensive play, with tries scored by multiple players including O'Brien, Baloucoune, Kelleher, Porter, and Timoney. Successful conversions by S Prendergast and Frawley further extended their lead, ensuring a comprehensive win in this international fixture.",
-            "url": "https://www.therugbypaper.co.uk/latest-news/497521/ireland-too-strong-for-spirited-fijians/",
-            "category": "International",
-            "date": "2026-11-15T03:59:48Z"
+            "title": "Ukraine says it was behind drone attack that sank a Russian warship in Libya",
+            "summary": "Ukraine successfully sank a Russian naval corvette in a Libyan port using naval drones on Sunday. This long-range operation, showcasing Ukraine's advanced capabilities, followed another drone strike the previous day on a Russian military-linked cargo ship. These incidents underscore Ukraine's effective use of asymmetric warfare to target Russian naval assets and disrupt their operations, demonstrating an extended reach in the ongoing conflict.",
+            "url": "https://www.yahoo.com/news/world/articles/zelenskiy-says-ukraine-sank-russian-075344713.html",
+            "category": "Defence",
+            "date": "2026-11-23T10:57:52Z"
         },
         {
-            "title": "resnik added to PyPI",
-            "summary": "An open-source compiler (v1.0.1 Modern Edition) now translates legacy NASA HAL/S aerospace programming language code into modern, safe Rust. This initiative is crucial for modernizing critical aerospace software, ensuring foundational space program code remains secure and maintainable. It significantly enhances reliability and updates essential systems, leveraging contemporary programming standards for future aerospace advancements.",
-            "url": "https://pypi.org/project/resnik/",
+            "title": "China\u2019s military fears US AI could expose its nuclear missiles, NYT reports",
+            "summary": "Chinese military researchers reportedly fear that rapid US AI advancements could make China's nuclear missile arsenal significantly easier to locate and destroy. This concern, highlighted by The New York Times, underscores an escalating AI arms race, with profound implications for strategic deterrence and global military balance, critically reshaping modern defence strategies.",
+            "url": "https://thenextweb.com/news/china-military-ai-nuclear-deterrent-90-seconds-nyt",
+            "category": "Defence",
+            "date": "2026-11-23T10:42:02Z"
+        },
+        {
+            "title": "Scientists make astonishing discovery in the deepest place on Earth - and it could explain why the Mariana Trench plunges almost 7 miles beneath the waves",
+            "summary": "Scientists have made a baffling discovery in Challenger Deep, the Earth's deepest point within the Mariana Trench. This expedition into one of the planet's most extreme and least-understood environments underscores ongoing efforts to unravel deep-sea mysteries. Such findings often reveal unique biological or geological phenomena, expanding our scientific understanding of Earth's furthest reaches.",
+            "url": "https://www.dailymail.com/sciencetech/article-16314551/Mariana-Trench-scientists-astonishing-discovery.html",
             "category": "Sci & Tech",
-            "date": "2026-11-15T03:05:47Z"
+            "date": "2026-11-23T10:39:30Z"
         },
         {
-            "title": "2026 Kids' Choice Awards: Winners List in Full",
-            "summary": "At the Kids\u2019 Choice Awards, 'Spider-Man: Brand New Day' clinched favorite movie, with stars Tom Holland and Zendaya also winning favorite movie actor and actress. Global K-pop group BTS secured favorite music group. These internationally renowned personalities and franchises were among the night's prominent winners, showcasing their widespread appeal among young audiences.",
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/2026-kids-choice-awards-winners-list-1236755415/",
-            "category": "International",
-            "date": "2026-11-15T02:30:38Z"
+            "title": "No safe waters for Russian ships? How Ukraine pulled off 2,400-km drone strike in Libya",
+            "summary": "Ukraine is significantly expanding its naval drone operations, striking Russian targets beyond the Black Sea into the Mediterranean and Baltic Sea. This strategic shift is making it increasingly difficult for Russian ships to find safe waters, highlighting the growing effectiveness and reach of Ukraine's innovative asymmetric naval warfare tactics. This development showcases evolving naval combat strategies.",
+            "url": "https://timesofindia.indiatimes.com/world/europe/no-safe-waters-for-russian-ships-how-ukraine-pulled-off-2400-km-drone-strike-in-libya/articleshow/136098386.cms",
+            "category": "Defence",
+            "date": "2026-11-23T10:31:52Z"
         },
         {
-            "title": "2026 Kids' Choice Awards Viewing Guide: When Does The Sliming Start?",
-            "summary": "A viewing guide for the 2026 Nickelodeon Kids' Choice Awards is now accessible. This popular entertainment event, which celebrates achievements in television, film, and music among younger audiences, is scheduled to air tonight at 8 pm ET. Viewers can tune in across various platforms, including CBS, Nickelodeon, and Paramount+. This annual ceremony is a prominent fixture in youth pop culture, highlighting fan-favorite content.",
-            "url": "https://bleedingcool.com/tv/2026-kids-choice-awards-viewing-guide-when-does-the-sliming-start/",
+            "title": "Shraddha Arya talks about going from being excited for surprises to finding contentment in five years of marriage",
+            "summary": "Mumbai-based actress Shraddha Arya recently shared that her priorities concerning marriage have significantly changed over time. She specifically disclosed that in the initial phase of her relationship, she committed a substantial amount of effort and energy. The ongoing report elaborates on these evolving perspectives and what led to the shifts in her approach to her marital life.",
+            "url": "https://timesofindia.indiatimes.com/tv/news/hindi/shraddha-arya-talks-about-going-from-being-excited-for-surprises-to-finding-contentment-in-five-years-of-marriage/articleshow/136097998.cms",
             "category": "National",
-            "date": "2026-11-14T23:07:09Z"
+            "date": "2026-11-23T10:15:59Z"
         },
         {
-            "title": "An Imposing Fortress Is Giving Up Its Treasures",
-            "summary": "Bala Hissar, an ancient and imposing fortress in Kabul, Afghanistan, has endured centuries of invasions, uprisings, and conflicts. Perched above the old city, this citadel symbolizes Afghanistan's turbulent history and resilience. It has witnessed countless wars and left an indelible mark on the nation's heritage, holding immense historical and cultural significance for the region.",
-            "url": "https://www.newser.com/story/399742/an-imposing-fortress-is-giving-up-its-treasures.html",
+            "title": "India closes gap with China in 2026 Asia Power Index, Lowy report says",
+            "summary": "The Lowy Institute's 2026 Asia Power Index has classified India as a \"major power,\" ranking it third in comprehensive power across Asia. This assessment positions India above \"middle powers,\" underscoring its escalating strategic influence and significance on the regional stage. For SSB aspirants, this highlights India's growing geopolitical importance and increasing global stature.",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/lowy-asia-power-index-2026-india-major-power-third-rank-china-us-126112300660_1.html",
             "category": "International",
-            "date": "2026-11-14T22:00:00Z"
+            "date": "2026-11-23T09:56:42Z"
         },
         {
-            "title": "Ocean that once covered Flinders Ranges preserved Earth's earliest life",
-            "summary": "New research details how ancient sea level changes played a critical role in preserving Earth's earliest complex life forms. Scientists, studying geological features in places like South Australia, found evidence that these environmental shifts created vital conditions for fossilization. This discovery significantly enhances our understanding of early evolutionary processes and the intricate connection between geology and the origins of life on our planet.",
-            "url": "https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008",
+            "title": "Zelenskiy confirms Ukraine sank Russian warship in Libya",
+            "summary": "Ukraine's President Zelenskiy confirmed the sinking of the Russian naval corvette 'Merkury' in a Libyan port, reportedly using seven naval drones. This marks a significant naval engagement, showcasing Ukraine's evolving drone warfare tactics against Russian assets. The incident underscores the ongoing conflict's reach and advanced technological aspects, following other recent drone strikes on Russian military-linked targets.",
+            "url": "https://www.irishtimes.com/world/europe/2026/11/23/zelenskiy-confirms-ukraine-sank-russian-warship-in-libya/",
+            "category": "Defence",
+            "date": "2026-11-23T09:41:00Z"
+        },
+        {
+            "title": "olee.space gets DRDO contract for laser-based drone communication system",
+            "summary": "Pune-based deep-tech company olee.space has secured a significant contract from DRDO, the Defence Ministry's research and development arm. The agreement tasks olee.space with developing a cutting-edge laser-link communication system for drones. This initiative boosts India's indigenous defence technology capabilities, focusing on advanced, secure, and high-bandwidth drone communication crucial for modern military operations and national security.",
+            "url": "https://www.thehindubusinessline.com/companies/oleespace-gets-drdo-contract-for-laser-based-drone-communication-system/article71733942.ece",
+            "category": "Defence",
+            "date": "2026-11-23T08:35:16Z"
+        },
+        {
+            "title": "aiquants-platform-fastapi added to PyPI",
+            "summary": "This article snippet discusses core building blocks for securing and structuring APIs using FastAPI. It highlights shared components like a single 'guard' for authentication, tenant binding, and authorization, along with a unified route class for consistent error handling. The text delves into technical architecture for robust and secure platform APIs, emphasizing standardized development practices in software engineering.",
+            "url": "https://pypi.org/project/aiquants-platform-fastapi/",
             "category": "Sci & Tech",
-            "date": "2026-11-14T20:36:15Z"
-        },
-        {
-            "title": "The Death of Superman: Why I\u2019ll Mourn James Gunn\u2019s DCU | Commentary",
-            "summary": "The author recounts a typical Sunday evening, unwinding after a day of travel and work. They describe settling down with their dog, Kal-El, and immersing themselves in the first volume of a comic book by renowned writer John Ostrander. This personal reflection captures a moment of leisure and engagement with a popular cultural medium, highlighting a common way to relax.",
-            "url": "https://www.thewrap.com/creative-content/movies/james-gunn-dc-universe-appreciation-analysis/",
-            "category": "Sci & Tech",
-            "date": "2026-11-14T17:00:00Z"
-        },
-        {
-            "title": "IAF helicopter from PM Modi\u2019s convoy develops snag in Mysuru",
-            "summary": "National news highlights include the Ranchi Municipal Corporation's designation of four sites in Zone 5 to accommodate 32 street vendors. In Patna, Chhath devotees face difficulties as the Ganga River has shifted, requiring them to walk farther. The article also briefly touches upon sports, mentioning criticism faced by John Harbaugh regarding the Giants team.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/iaf-helicopter-from-pm-modis-convoy-develops-snag-in-mysuru/articleshow/135837287.cms",
-            "category": "National",
-            "date": "2026-11-14T16:20:59Z"
-        },
-        {
-            "title": "Kerala HC sets aside govt order dissolving Milma Malabar union managing committee",
-            "summary": "The provided text is not a news article but a common website feature. It prompts users to engage with online content by viewing existing comments and sharing their own thoughts. The text also highlights the importance of adhering to community guidelines for respectful and constructive interaction on the platform, fostering user participation.",
-            "url": "https://timesofindia.indiatimes.com/city/kochi/kerala-hc-sets-aside-govt-order-dissolving-milma-malabar-union-managing-committee/articleshow/135837274.cms",
-            "category": "Sci & Tech",
-            "date": "2026-11-14T16:10:44Z"
-        },
-        {
-            "title": "\u2018Is This Supposed to Happen?\u2019: How Matt Dike Dominated Eighties Hip-Hop Music",
-            "summary": "Peter Relic's book, 'Bust a Move,' chronicles the 1980s Los Angeles hip-hop scene. It details the unique origins of independent label Delicious Vinyl and key figures like Matt Dike, who spearheaded hip-hop's crossover into mainstream pop. This historical account examines the circumstances behind these cultural hits, influencing national music and popular culture.",
-            "url": "http://www.rollingstone.com/music/music-features/bust-a-move-matt-dike-book-excerpt-1235655262/",
-            "category": "National",
-            "date": "2026-11-14T14:00:00Z"
+            "date": "2026-11-23T03:34:41Z"
         }
     ]
 }
