@@ -1,96 +1,54 @@
 {
-    "last_updated": "2026-11-25T20:56:41.617159+00:00",
+    "last_updated": "2026-11-26T06:23:43.206970+00:00",
     "articles": [
         {
-            "title": "3 Chinese sats scanned India\u2019s western coast frequently during Op Sindoor: Desi space surveillance company\u2019s report",
-            "summary": "An Indian space surveillance report revealed that three Chinese surveillance satellites actively monitored India's western coast, particularly Gujarat, throughout last year's Operation Sindoor. This significant detection raises concerns regarding potential foreign intelligence gathering during crucial national defence exercises, underscoring the vital need for robust space domain awareness and enhanced counter-surveillance capabilities to safeguard India's strategic interests.",
-            "url": "https://timesofindia.indiatimes.com/defence/news/3-chinese-sats-scanned-indias-western-coast-frequently-during-op-sindoor-desi-space-surveillance-companys-report/articleshow/136141736.cms",
-            "category": "Defence",
-            "date": "2026-11-24T20:45:54Z"
-        },
-        {
-            "title": "Turkish military helicopter crash kills five in western Turkiye",
-            "summary": "A Turkish Air Force helicopter crashed in western Turkiye, resulting in the death of five crew members. The country's Ministry of National Defence confirmed the tragic accident. This incident highlights the inherent risks faced by service personnel during operational duties and underscores the importance of stringent safety protocols within defense forces.",
-            "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye",
-            "category": "Defence",
-            "date": "2026-11-24T19:52:21Z"
-        },
-        {
-            "title": "Donald Trump a c\u00e2\u0219tigat p\u00e2n\u0103 la 15 milioane de dolari de pe urma \u00eentoarcerii lui Jensen Huang \u00een fruntea Nvidia, pentru care chiar el a intervenit. Pre\u0219edintele de\u021bine ac\u021biuni \u00een cadrul companiei, care au crescut, luni, cu peste 30%.",
-            "summary": "Nvidia's market capitalization witnessed an extraordinary surge of approximately $950 billion, with its stock climbing a remarkable 31.5% on Monday. This substantial growth is largely attributed to CEO Jensen Huang's leadership, reflecting strong investor confidence in the technology giant, renowned for its advancements in AI and graphics processing units, crucial for modern computational power.",
-            "url": "https://www.biziday.ro/377038-2/",
-            "category": "Sci & Tech",
-            "date": "2026-11-24T19:41:24Z"
-        },
-        {
-            "title": "Week 12 Fantasy football waiver wire: Early-week action impacts lineup setting and players to add on waivers",
-            "summary": "The upcoming Week 12 of a major sports league features an unusual schedule, including games on Wednesday night, three matches on Thanksgiving Day, and another on Friday. This atypical arrangement requires participants in related fantasy leagues to promptly complete their waiver wire adjustments due to the varied game timings.",
-            "url": "https://www.cbssports.com/fantasy/football/news/week-12-fantasy-football-waiver-wire-early-week-action-impacts-lineup-setting-and-players-to-add-on-waivers/",
+            "title": "Saurav Das moves Delhi High Court after government bars him from flying abroad",
+            "summary": "Saurav Das, co-convenor of the Cockroach Janta Party (CJP), has filed a petition in the Delhi High Court. He is challenging the government authorities' decision to restrict his international travel. This legal move underscores an individual's right to freedom of movement and access to justice against state actions, a significant matter for national legal discourse and civil liberties.",
+            "url": "https://www.barandbench.com/news/saurav-das-moves-delhi-high-court-after-government-bars-him-from-flying-abroad",
             "category": "National",
-            "date": "2026-11-24T19:30:01Z"
+            "date": "2026-11-25T06:02:43Z"
         },
         {
-            "title": "Name missing from service record no bar to disabled man\u2019s family pension: AFT",
-            "summary": "The Armed Forces Tribunal (AFT) Chandigarh has ruled that a 68-year-old physically disabled man will receive a lifelong family pension. This significant decision comes over five decades after the death of his soldier father. The ruling provides crucial financial support and acknowledges a long-pending claim, highlighting the tribunal's commitment to ensuring welfare for military dependents, even after extended periods.",
-            "url": "https://timesofindia.indiatimes.com/city/chandigarh/name-missing-from-service-record-no-bar-to-disabled-mans-family-pension-aft/articleshow/136141446.cms",
+            "title": "Political tensions, AI-powered attacks to dominate APAC cyber threat landscape in 2027: Kaspersky",
+            "summary": "The Asia-Pacific's cybersecurity landscape faces significant challenges due to escalating geopolitical rivalries and regional conflicts. Further compounding this, cybercriminals are increasingly leveraging Artificial Intelligence, posing sophisticated threats. These interconnected factors are expected to profoundly reshape future cybersecurity strategies and resilience across the APAC region, demanding enhanced vigilance and collaborative defensive measures.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/political-tensions-ai-powered-attacks-to-dominate-apac-cyber-threat-landscape-in-2027-kaspersky/articleshow/136149957.cms",
+            "category": "International",
+            "date": "2026-11-25T06:00:27Z"
+        },
+        {
+            "title": "An axis of resilience for the Himalaya: Why India, Nepal and China must watch the mountains together",
+            "summary": "India has proven to be Nepal's key first responder and recovery partner. However, the more significant challenge is preparing the Himalayan region for future floods. This crucial task requires comprehensive regional cooperation, specifically involving China, to develop effective disaster preparedness and mitigation strategies across shared borders. Such collaborative efforts are vital for ensuring long-term environmental security and humanitarian resilience in the vulnerable Himalayan ecosystem.",
+            "url": "https://timesofindia.indiatimes.com/toi-blogs/beyond-borders/an-axis-of-resilience-for-the-himalaya-why-india-nepal-and-china-must-watch-the-mountains-together/articleshow/136148977.cms",
+            "category": "International",
+            "date": "2026-11-25T05:36:47Z"
+        },
+        {
+            "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+            "summary": "India's opposition, the Indian National Congress, has criticized Prime Minister Modi's government for three years over its refusal to condemn an international entity (likely Israel). This persistent domestic debate underscores crucial aspects of India's foreign policy and global alignment, vital knowledge for an SSB aspirant understanding national strategy.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi",
+            "category": "International",
+            "date": "2026-11-25T05:27:32Z"
+        },
+        {
+            "title": "UK warns companies of potential Russian sabotage threat",
+            "summary": "Britain's Defence Ministry and MI5 have warned companies supporting Ukraine's military about potential sabotage attempts from Russia. This advisory highlights escalating geopolitical tensions and the risk of hybrid warfare tactics. Businesses involved in providing aid are urged to enhance their security protocols against cyber and physical threats to mitigate the risks posed by their involvement in the conflict.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat",
             "category": "Defence",
-            "date": "2026-11-24T19:28:42Z"
+            "date": "2026-11-25T04:48:57Z"
         },
         {
-            "title": "Putin says retaliation \u2018inevitable\u2019 after Ukraine hit Russian oil plants",
-            "summary": "Russian President Vladimir Putin stated that Ukraine continues to attack Russian oil refineries, despite requests from US President Donald Trump to cease operations. Putin warned of retaliation, indicating a potential escalation of the conflict. This situation underscores the ongoing strategic assaults on critical infrastructure and the complex interplay of international diplomacy amidst heightened geopolitical tensions.",
-            "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
-            "category": "International",
-            "date": "2026-11-24T19:22:44Z"
-        },
-        {
-            "title": "Delhi Govt Allows Easy Felling of Five Tree Species on Private Land",
-            "summary": "The Delhi government has issued a gazette notification easing rules for felling five specific tree species, including poplar and safeda, when they are located on private land. This policy change aims to simplify permissions for landowners and streamline processes related to these fast-growing trees. The decision reflects an effort to balance development needs with urban environmental regulations in the national capital.",
-            "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-govt-allows-easy-felling-of-five-tree-species-on-private-land/articleshow/136141227.cms",
-            "category": "National",
-            "date": "2026-11-24T19:10:19Z"
-        },
-        {
-            "title": "Family away on Diwali break, thieves steal valuables worth \u20b910L from Memnagar house",
-            "summary": "In Round 1 of the World Chess Championship, Indian Grandmaster D. Gukesh reportedly secured a 'psychological win' against Javokhir Sindarov, despite their game concluding in a 38-move draw. This early strategic success in the prestigious international tournament underscores Gukesh's mental fortitude and tactical prowess, setting a confident tone for his campaign in a globally significant chess event.",
-            "url": "https://timesofindia.indiatimes.com/city/ahmedabad/family-away-on-diwali-break-thieves-steal-valuables-worth-10l-from-memnagar-house/articleshow/136141126.cms",
-            "category": "International",
-            "date": "2026-11-24T19:02:28Z"
-        },
-        {
-            "title": "President Murmu floats boats at Cuttack Baliyatra, honours maritime legacy",
-            "summary": "Indian Grandmaster D. Gukesh recently competed in Round 1 of the World Chess Championship against Javokhir Sindarov. Despite the match concluding in a 38-move draw, Gukesh secured a significant 'psychological' victory. This demonstrates the critical importance of mental fortitude and strategic depth, even beyond direct wins, in high-stakes international competitions like the World Chess Championship.",
-            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/president-murmu-floats-boats-at-cuttack-baliyatra-honours-maritime-legacy/articleshow/136141124.cms",
-            "category": "International",
-            "date": "2026-11-24T19:02:20Z"
-        },
-        {
-            "title": "People in Odisha smoked cigarettes worth Rs 2,104cr in 2025-26: CM in assembly",
-            "summary": "Indian Grandmaster D. Gukesh commenced his World Chess Championship journey with a significant 'psychological' victory against Javokhir Sindarov in Round 1. Despite the match concluding in a 38-move draw, Gukesh's strategic approach demonstrated clear dominance. This early performance highlights his mental fortitude and India's growing prominence in global chess, offering an inspiring example for aspirants.",
-            "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/people-in-odisha-smoked-cigarettes-worth-rs-2104cr-in-2025-26-cm-in-assembly/articleshow/136141096.cms",
-            "category": "International",
-            "date": "2026-11-24T19:01:48Z"
-        },
-        {
-            "title": "Dave Richard's Week 12 Trade Chart & rest of season rankings: Mike Evans, Ashton Jeanty gain serious steam",
-            "summary": "CBS Sports pioneered the Fantasy Football Trade Chart over fifteen seasons ago to standardize fair player exchanges in fantasy leagues. This analytical tool rapidly became an indispensable resource, offering managers a structured method for valuing players and facilitating equitable trades. It aids strategic team management by applying data-driven principles to optimize roster adjustments.",
-            "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-week-12-trade-chart-rest-of-season-rankings-mike-evans-ashton-jeanty-gain-serious-steam/",
+            "title": "Show HN: I make open-source flight test stand",
+            "summary": "This news snippet points to a browser-based \"flying-test\" demo (crocone.github.io/flying-test/). It highlights the capability to build a vehicle using AI from descriptions or images, though this specific functionality requires a separate server and AI key. The context suggests a technical project or simulation focused on advanced vehicle design and artificial intelligence, with a public-facing web demonstration.",
+            "url": "https://github.com/crocone/flying-test",
             "category": "Sci & Tech",
-            "date": "2026-11-24T18:47:21Z"
+            "date": "2026-11-25T04:47:44Z"
         },
         {
-            "title": "Liquor worth Rs 8.5 lakh seized in Sanwer",
-            "summary": "This article explores the direct link between air pollution and lung cancer, emphasizing how prolonged exposure to harmful elements like PM2.5, vehicle emissions, industrial fumes, and indoor smoke significantly elevates cancer risk. It also touches upon key symptoms to monitor. Understanding environmental health factors is crucial for aspirants, highlighting the broad impact of scientific and health awareness on well-being.",
-            "url": "https://timesofindia.indiatimes.com/city/indore/liquor-worth-rs-8-5-lakh-seized-in-sanwer/articleshow/136140869.cms",
-            "category": "Sci & Tech",
-            "date": "2026-11-24T18:47:03Z"
-        },
-        {
-            "title": "PE teacher held for sexual harassment",
-            "summary": "A US jury has convicted Chinese tech giant Huawei on charges of trade secret theft and bank fraud. While found guilty on these significant counts, the company successfully avoided a racketeering charge. This verdict marks a major development in the ongoing legal and economic tensions between the United States and China, impacting global tech and trade relations.",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/pe-teacher-held-for-sexual-harassment/articleshow/136140658.cms",
-            "category": "International",
-            "date": "2026-11-24T18:37:02Z"
+            "title": "Hyderabad man, 23, leaves Rs 50 lakh Goldman Sachs job, takes 50% pay cut to build India's defence technology; why young professionals are choosing 'purpose' over pay",
+            "summary": "Apollyon Dynamics, a prominent defence-tech startup, originated from a hostel dormitory at BITS Pilani, Hyderabad. This indigenous venture has made significant strides since its modest beginnings, garnering attention for its contributions to the defence sector. Its journey highlights successful innovation and entrepreneurship within India's strategic technology landscape, showcasing the potential for young talent in national security.",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-man-leaves-rs-50-lakh-goldman-sachs-job-takes-50-pay-cut-to-build-indias-defence-technology-why-young-professionals-are-choosing-purpose-over-pay/articleshow/136147475.cms",
+            "category": "Defence",
+            "date": "2026-11-25T04:05:54Z"
         }
     ]
 }
