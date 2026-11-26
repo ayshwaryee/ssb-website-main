@@ -1,54 +1,180 @@
 {
-    "last_updated": "2026-11-26T06:23:43.206970+00:00",
+    "last_updated": "2026-11-26T20:48:38.831680+00:00",
     "articles": [
         {
-            "title": "Saurav Das moves Delhi High Court after government bars him from flying abroad",
-            "summary": "Saurav Das, co-convenor of the Cockroach Janta Party (CJP), has filed a petition in the Delhi High Court. He is challenging the government authorities' decision to restrict his international travel. This legal move underscores an individual's right to freedom of movement and access to justice against state actions, a significant matter for national legal discourse and civil liberties.",
-            "url": "https://www.barandbench.com/news/saurav-das-moves-delhi-high-court-after-government-bars-him-from-flying-abroad",
-            "category": "National",
-            "date": "2026-11-25T06:02:43Z"
-        },
-        {
-            "title": "Political tensions, AI-powered attacks to dominate APAC cyber threat landscape in 2027: Kaspersky",
-            "summary": "The Asia-Pacific's cybersecurity landscape faces significant challenges due to escalating geopolitical rivalries and regional conflicts. Further compounding this, cybercriminals are increasingly leveraging Artificial Intelligence, posing sophisticated threats. These interconnected factors are expected to profoundly reshape future cybersecurity strategies and resilience across the APAC region, demanding enhanced vigilance and collaborative defensive measures.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/political-tensions-ai-powered-attacks-to-dominate-apac-cyber-threat-landscape-in-2027-kaspersky/articleshow/136149957.cms",
-            "category": "International",
-            "date": "2026-11-25T06:00:27Z"
-        },
-        {
-            "title": "An axis of resilience for the Himalaya: Why India, Nepal and China must watch the mountains together",
-            "summary": "India has proven to be Nepal's key first responder and recovery partner. However, the more significant challenge is preparing the Himalayan region for future floods. This crucial task requires comprehensive regional cooperation, specifically involving China, to develop effective disaster preparedness and mitigation strategies across shared borders. Such collaborative efforts are vital for ensuring long-term environmental security and humanitarian resilience in the vulnerable Himalayan ecosystem.",
-            "url": "https://timesofindia.indiatimes.com/toi-blogs/beyond-borders/an-axis-of-resilience-for-the-himalaya-why-india-nepal-and-china-must-watch-the-mountains-together/articleshow/136148977.cms",
-            "category": "International",
-            "date": "2026-11-25T05:36:47Z"
-        },
-        {
-            "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-            "summary": "India's opposition, the Indian National Congress, has criticized Prime Minister Modi's government for three years over its refusal to condemn an international entity (likely Israel). This persistent domestic debate underscores crucial aspects of India's foreign policy and global alignment, vital knowledge for an SSB aspirant understanding national strategy.",
-            "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi",
-            "category": "International",
-            "date": "2026-11-25T05:27:32Z"
-        },
-        {
-            "title": "UK warns companies of potential Russian sabotage threat",
-            "summary": "Britain's Defence Ministry and MI5 have warned companies supporting Ukraine's military about potential sabotage attempts from Russia. This advisory highlights escalating geopolitical tensions and the risk of hybrid warfare tactics. Businesses involved in providing aid are urged to enhance their security protocols against cyber and physical threats to mitigate the risks posed by their involvement in the conflict.",
-            "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat",
-            "category": "Defence",
-            "date": "2026-11-25T04:48:57Z"
-        },
-        {
-            "title": "Show HN: I make open-source flight test stand",
-            "summary": "This news snippet points to a browser-based \"flying-test\" demo (crocone.github.io/flying-test/). It highlights the capability to build a vehicle using AI from descriptions or images, though this specific functionality requires a separate server and AI key. The context suggests a technical project or simulation focused on advanced vehicle design and artificial intelligence, with a public-facing web demonstration.",
-            "url": "https://github.com/crocone/flying-test",
+            "title": "la-core-web-sm added to PyPI",
+            "summary": "The provided technical data details `la_core_web_sm`, a spaCy natural language processing model specifically for the Latin language. It's designed for advanced token classification and Named Entity Recognition (NER), indicating its capability to analyze and structure textual information. Released under an MIT license, it represents a tool for computational linguistics development.",
+            "url": "https://pypi.org/project/la-core-web-sm/",
             "category": "Sci & Tech",
-            "date": "2026-11-25T04:47:44Z"
+            "date": "2026-11-25T20:46:02Z"
         },
         {
-            "title": "Hyderabad man, 23, leaves Rs 50 lakh Goldman Sachs job, takes 50% pay cut to build India's defence technology; why young professionals are choosing 'purpose' over pay",
-            "summary": "Apollyon Dynamics, a prominent defence-tech startup, originated from a hostel dormitory at BITS Pilani, Hyderabad. This indigenous venture has made significant strides since its modest beginnings, garnering attention for its contributions to the defence sector. Its journey highlights successful innovation and entrepreneurship within India's strategic technology landscape, showcasing the potential for young talent in national security.",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-man-leaves-rs-50-lakh-goldman-sachs-job-takes-50-pay-cut-to-build-indias-defence-technology-why-young-professionals-are-choosing-purpose-over-pay/articleshow/136147475.cms",
+            "title": "The 35 Best Movies on HBO Max Right Now",
+            "summary": "The article identifies HBO Max as having an excellent film library. It aims to guide viewers by compiling a list of the best movies available on the platform, helping subscribers navigate the extensive selection and decide what to watch. This resource is designed to enhance the user experience by highlighting top cinematic choices.",
+            "url": "https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-hbo-max/",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T20:41:00Z"
+        },
+        {
+            "title": "Week 12 Fantasy Football Rankings: TE, K, DEF",
+            "summary": "This article previews upcoming performances of prominent American football players. George Kittle aims to continue his strong form against Seattle, T.J. Hockenson looks to solidify his top-tier status facing the Falcons, and Tyler Warren seeks to end a prolonged slump. The report focuses on individual player dynamics and expectations within the national league, highlighting key matchups.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/week-12-fantasy-football-rankings-te-k-def",
+            "category": "National",
+            "date": "2026-11-25T20:35:02Z"
+        },
+        {
+            "title": "Week 12 Fantasy Football Rankings: WR",
+            "summary": "This article analyzes the upcoming performance prospects for key NFL players. Jaxon Smith-Njigba aims to maintain his form after a bye week, while Chris Olave is projected to thrive in a high-scoring encounter against the Bengals. Conversely, Drake London faces a particularly challenging matchup, highlighting varying fantasy football predictions for these athletes.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/week-12-fantasy-football-rankings-wr",
+            "category": "National",
+            "date": "2026-11-25T20:34:59Z"
+        },
+        {
+            "title": "Week 12 Fantasy Football Rankings: RB",
+            "summary": "American football players Bijan Robinson, Omarion Hampton, and Ashton Jeanty are featured ahead of upcoming games. Robinson seeks to overcome a performance slump, Hampton is slated for a significant role with the Chargers, and Jeanty aims for impactful plays against the Browns. This report focuses on individual player preparations and expectations in the sport.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/week-12-fantasy-football-rankings-rb",
+            "category": "International",
+            "date": "2026-11-25T20:34:58Z"
+        },
+        {
+            "title": "Week 12 Fantasy Football Rankings: QB",
+            "summary": "This article introduces upcoming American football matchups, focusing on key player dynamics. It highlights quarterbacks like Jayden Daniels aiming for a strong performance streak, Fernando Mendoza's prime-time game against the Browns, and Cam Ward's rematch with the Jaguars. The piece also delves into the critical roles of players in other positions such as running back, receiver, and tight end, offering insights into strategic game play.",
+            "url": "https://www.nbcsports.com/fantasy/football/news/week-12-fantasy-football-rankings-qb",
+            "category": "National",
+            "date": "2026-11-25T20:34:55Z"
+        },
+        {
+            "title": "Packers Week 12 Opponent Preview: Who are this year\u2019s Los Angeles Rams?",
+            "summary": "The Green Bay Packers and Los Angeles Rams are set for their Week 12 NFL matchup. Despite both teams holding identical 6-4 records, their recent momentum differs significantly. The Rams are entering the game with strong form, having secured four consecutive victories, indicating a surge in their performance heading into this crucial game against the Packers.",
+            "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90096/packers-week-12-opponent-preview-who-are-this-years-los-angeles-rams",
+            "category": "International",
+            "date": "2026-11-25T20:00:00Z"
+        },
+        {
+            "title": "NFL Week 12 predictions according to Madden 27",
+            "summary": "This article presents the NFL Week 12 predictions, as simulated by the Madden 27 video game. It likely details outcomes for upcoming matchups, offering a data-driven perspective based on the game's algorithms and player ratings. Such simulations provide fans with unique insights into potential game results, blending sports analysis with technology.",
+            "url": "https://clutchpoints.com/gaming/nfl-week-12-predictions-according-to-madden-27",
+            "category": "National",
+            "date": "2026-11-25T19:56:38Z"
+        },
+        {
+            "title": "Fantasy Football Rankings: Hayden Winks' QB/TE/DEF/K Blueprint for Week 12",
+            "summary": "The weekly column 'The Blueprint' outlines a systematic methodology for developing highly accurate rankings across various categories, including specific player positions like Running Backs (RB) and Wide Receivers (WR), alongside a combination column. This initiative details a comprehensive analytical approach to evaluate and strategically position elements.",
+            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-qbtedefk-blueprint-for-week-12-191610737.html",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T19:16:10Z"
+        },
+        {
+            "title": "Cinematographer Caleb Deschanel on Finding the Right Techniques For \u2018The Right Stuff\u2019",
+            "summary": "Philip Kaufman's 43-year-old film, \u201cThe Right Stuff,\u201d adapted from Tom Wolfe\u2019s book, maintains powerful impact with spectacular aerial and outer space sequences. It vividly chronicles the early American space program and pioneering Mercury Seven astronauts. Celebrating their courage and foundational contributions to space exploration, it remains a timeless testament to human scientific endeavor.",
+            "url": "https://www.indiewire.com/features/craft/cinematographer-caleb-deschanel-on-the-right-stuff-1235230087/",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T19:00:00Z"
+        },
+        {
+            "title": "How Many Days a Week Should You Run? Answers by Goal | Vima Fitness",
+            "summary": "For optimal health and fitness, experts recommend running three to five days a week. Beginners should start with three non-consecutive days, while even two to three runs provide significant health benefits. This regimen helps build stamina and maintain physical well-being, essential qualities for an SSB aspirant to ensure peak performance and resilience in demanding selection processes.",
+            "url": "https://www.vimafitness.com/blog/how-many-days-a-week-should-you-run/",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T18:50:23Z"
+        },
+        {
+            "title": "Temperatura medie global\u0103 a dep\u0103\u0219it pragul de 2 grade Celsius peste nivelurile preindustriale timp de \u0219ase zile consecutive, pentru prima dat\u0103 \u00een istorie. Luni, abaterea a atins 2,24\u00b0C, cel mai ridicat nivel \u00eenregistrat vreodat\u0103, iar temperaturile sunt a\u0219teptate s\u0103 r\u0103m\u00e2n\u0103 la valori similare \u00een urm\u0103toarele zile.",
+            "summary": "The article reports on an ongoing record-breaking period for average temperatures, potentially extending beyond six days. This event marks a significant climatological occurrence, surpassing historical precedents where only two similar high-temperature periods were previously recorded. It underscores emerging environmental trends.",
+            "url": "https://www.biziday.ro/377233-2/",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T18:47:46Z"
+        },
+        {
+            "title": "Arms Control Pledges Are Hard to Keep, But Talking Helps",
+            "summary": "Leaders of the US, Russia, and China \u2013 Donald Trump, Vladimir Putin, and Xi Jinping \u2013 recently held a summit to initiate dialogue on reducing global nuclear risks. This high-level meeting aimed at fostering international cooperation to prevent nuclear proliferation and enhance strategic stability, underscoring the critical importance of multilateral engagement for global security and arms control efforts.",
+            "url": "https://foreignpolicy.com/2026/11/25/shenzhen-summit-trump-xi-putin-nuclear/",
+            "category": "International",
+            "date": "2026-11-25T18:32:09Z"
+        },
+        {
+            "title": "DC Officially Crowns New 'King' Of All Green Lanterns",
+            "summary": "DC Comics has unveiled a significant Green Lantern storyline twist, establishing a dangerous character as the undisputed \"king\" of all Lanterns. This dramatically overturns the traditional cosmic power hierarchy, which previously divided influence strictly among seven distinct Lantern corps. This development marks a major shift in the power dynamics within the DC universe's cosmic forces.",
+            "url": "https://screenrant.com/green-lantern-new-villain-king/",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T18:31:19Z"
+        },
+        {
+            "title": "US accuses India of creating manufacturing overcapacity through PLI, Make in India schemes",
+            "summary": "The US has accused India of implementing policies and practices that foster structural excess capacity and production, impacting global trade dynamics. These allegations, originating from the US, detail concerns over India's economic strategies which could potentially escalate into trade disputes. For SSB aspirants, understanding such complex international economic issues and bilateral relations is crucial for comprehending global diplomatic challenges.",
+            "url": "https://m.economictimes.com/news/economy/foreign-trade/us-accuses-india-of-creating-manufacturing-overcapacity-through-pli-make-in-india-schemes/articleshow/136170979.cms",
+            "category": "International",
+            "date": "2026-11-25T18:25:31Z"
+        },
+        {
+            "title": "Former Tesla engineer says AI will create more 'fake jobs' \u2014 not mass unemployment",
+            "summary": "While many employees fear AI could replace their jobs, an AI founder and former Tesla executive presents a different perspective: AI might instead create numerous 'pointless' jobs. This viewpoint introduces a nuanced debate on AI's long-term impact on the workforce, suggesting a shift in the nature and value of human labour rather than just outright displacement. Understanding these evolving technological and economic implications is vital.",
+            "url": "https://biztoc.com/x/41fd0396beddeac8",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T18:04:55Z"
+        },
+        {
+            "title": "\u20b911,000 cr \u2018Make in India\u2019 push for construction equipment",
+            "summary": "A rare and playful photograph featuring Shweta, Abhishek, and Jaya Bachchan has become a viral sensation, widely shared and admired across the internet. The charming family moment was notably described as 'cute' by Navya Nanda, highlighting its widespread appeal among Indian audiences. The article also briefly touches upon American football star Joe Burrow's financial circumstances, though specific details remain incomplete from the provided snippet.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/11000-cr-make-in-india-push-for-construction-equipment/articleshow/136169405.cms",
+            "category": "National",
+            "date": "2026-11-25T17:32:15Z"
+        },
+        {
+            "title": "Fantasy Football 2026: Week 12 preview \u2014 Start/sit and more",
+            "summary": "The article highlights Week 12 of the NFL season, coinciding with Thanksgiving weekend in the United States. It details a busy football schedule, beginning with a Wednesday night game, indicative of the sport's deep cultural significance during major US holidays. This illustrates how American football is intricately woven into the nation's festive traditions, an aspect of national culture for general awareness.",
+            "url": "https://www.bigblueview.com/new-york-giants-roster/181432/fantasy-football-2026-week-12-preview-start-sit-and-more",
+            "category": "National",
+            "date": "2026-11-25T17:30:34Z"
+        },
+        {
+            "title": "India poised to become a major global space power, says Skyroot CEO Pawan Chandana",
+            "summary": "Skyroot Aerospace CEO Pawan Kumar Chandana asserted that India is positioned to become a leading nation in the global space sector, propelled by its indigenous talent. This underscores India's rapidly advancing capabilities and strategic significance in space exploration and commercial ventures. The statement highlights the immense opportunities for national growth, technological innovation, and its trajectory as a major space power.",
+            "url": "https://m.economictimes.com/news/science/india-poised-to-become-a-major-global-space-power-says-skyroot-ceo-pawan-chandana/articleshow/136167706.cms",
+            "category": "Sci & Tech",
+            "date": "2026-11-25T16:31:02Z"
+        },
+        {
+            "title": "Kota Factory Team Reunites For Army Drama Series Fauj Starring Babil Khan; Premiere Eyed for 2027",
+            "summary": "Following the strong reception to 'Operation Safed Sagar,' a military drama series based on the 1999 Kargil War, Netflix India is now developing another project rooted in the Indian armed forces. This trend signifies a growing national interest in dramatizing military history and valor, providing SSB aspirants engaging perspectives on the operations and sacrifices of India's defence personnel.",
+            "url": "https://www.whats-on-netflix.com/news/fauj-netflix-babil-khan-series/",
             "category": "Defence",
-            "date": "2026-11-25T04:05:54Z"
+            "date": "2026-11-25T15:45:13Z"
+        },
+        {
+            "title": "DC Studios Fallout: Here's How TV, Film & Comics Can Save The DCU",
+            "summary": "The article introduces Jeremy Latcham, a Marvel Studios veteran, as the new head of DC Studios. It discusses the critical new direction Latcham is expected to set for DC's comics, movies, and TV adaptations, moving beyond the influences of Zack Snyder and James Gunn. This leadership change signals a significant strategic shift for the globally recognized entertainment brand.",
+            "url": "https://bleedingcool.com/tv/dc-studios-fallout-heres-how-tv-film-comics-can-save-the-dcu/",
+            "category": "International",
+            "date": "2026-11-25T15:37:10Z"
+        },
+        {
+            "title": "Fresh 25% Trump tariff threat with a carrot of 17% duty: What it means for India",
+            "summary": "Amid ongoing India-US trade deal negotiations, the former Trump administration imposed new tariffs targeting several countries, including India. This development complicated bilateral economic relations, raising concerns about the future of trade agreements between the two nations. Aspiring officers should note how such global trade policies influence diplomatic ties and economic stability.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/fresh-25-trump-tariff-threat-with-a-carrot-of-17-duty-what-it-means-for-india/articleshow/136164140.cms",
+            "category": "International",
+            "date": "2026-11-25T15:27:01Z"
+        },
+        {
+            "title": "Are Fashion\u2019s Favorite Jamie Haller Penny Loafers Worth the Splurge?",
+            "summary": "Los Angeles-based designer Jamie Hallers' penny loafers are a highly sought-after item in the fashion world. Endorsed by prominent tastemakers like Laura Reilly, these iconic shoes are a staple on many fashion wish lists. Hallers' growing influence underscores contemporary trends in footwear design, demonstrating the significant impact of specific designers on global fashion consciousness. Her brand exemplifies aspirational design in the accessories market.",
+            "url": "https://www.thecut.com/article/jamie-haller-penny-loafers-tested-and-reviewed.html",
+            "category": "International",
+            "date": "2026-11-25T15:13:36Z"
+        },
+        {
+            "title": "India, China hold high-level military talks in Arunachal Pradesh to address LAC issues",
+            "summary": "Indian and Chinese armies held high-level talks in the Arunachal Pradesh sector, focusing on border management and addressing outstanding issues along the Line of Actual Control (LAC). These crucial discussions aimed to de-escalate tensions and ensure peace and stability in the sensitive region, reflecting ongoing efforts to resolve bilateral military standoffs.",
+            "url": "https://m.economictimes.com/news/defence/india-china-hold-high-level-military-talks-in-arunachal-pradesh-to-address-lac-issues/articleshow/136165910.cms",
+            "category": "Defence",
+            "date": "2026-11-25T15:05:24Z"
+        },
+        {
+            "title": "South Korea offers up to $14.3 million in incentives to Indian investors in Gyeongnam",
+            "summary": "Indian entrepreneurs have significant opportunities to establish industrial ventures and undertake joint investments in South Korea's South Gyeongsang Province. The region is actively attracting foreign direct investment by offering substantial subsidies and incentives. This presents a promising avenue for Indian businesses to expand globally, leverage South Korean technology and market access, and strengthen bilateral economic cooperation between the two nations.",
+            "url": "https://www.thehindubusinessline.com/economy/south-korea-offers-up-to-143-million-in-incentives-to-indian-investors-in-gyeongnam/article71742524.ece",
+            "category": "International",
+            "date": "2026-11-25T14:40:21Z"
         }
     ]
 }
